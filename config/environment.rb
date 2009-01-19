@@ -19,6 +19,9 @@ Rails::Initializer.run do |config|
   config.gem "google-geocode", :lib => "google_geocode", :version => "1.2.1"
   config.gem "httparty", :version => ">= 0.2.6"
 
+  config.gem "thoughtbot-factory_girl", :lib => "factory_girl", :version => ">= 1.1.5"
+  config.gem "mocha", :version => ">= 0.9.4"
+
   config.time_zone = 'UTC'
 
   config.action_controller.session = {

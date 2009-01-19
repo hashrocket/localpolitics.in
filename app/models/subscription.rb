@@ -5,7 +5,7 @@ class Subscription < ActiveRecord::Base
 
   GeoCoder = GoogleGeocode.new APP_CONFIG[:google_maps_api_key]
 
-  def geocoder; GeoCoder; end
+  def self.geocoder; GeoCoder; end
 
   def self.add_location_to_user(location, user)
     subscription = user.subscriptions.find_by_location_data(location)
@@ -14,7 +14,9 @@ class Subscription < ActiveRecord::Base
   end
 
   def parse_location_data!
-    self.postal_code = geocoder.locate(location_data).postal_code
+    location = Subscription.geocoder.locate(location_data)
+    self.postal_code = location.postal_code
+    self.latitude, self.longitude = location.coordinates
   end
 end
 
