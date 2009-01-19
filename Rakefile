@@ -5,6 +5,8 @@ require 'rake/testtask'
 require 'rake/rdoctask'
 require 'tasks/rails'
 
+task :environment => :copy_example_configs
+
 Rake::Task[:default].clear
 task :default => :spec
 
