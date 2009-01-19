@@ -7,6 +7,7 @@ Rails::Initializer.run do |config|
   # You have to specify the :lib option for libraries, where the Gem name (sqlite3-ruby) differs from the file itself (sqlite3)
   config.gem "ym4r", :version => ">= 0.6.1"
   config.gem "json", :version => ">= 1.1.3"
+  config.gem "httparty", :version => ">= 0.2.6"
 
   config.time_zone = 'UTC'
 
