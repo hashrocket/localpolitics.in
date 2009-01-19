@@ -1,4 +1,4 @@
-set :application, "localpoliics.in"
+set :application, "localpolitics.in"
 
 default_run_options[:pty] = true
 set :scm, "git"
