@@ -1,3 +1,10 @@
 ---
-:google_maps_api_key: "something"
-:sunlight_api_key: "something_else"
+:globals: &globals
+  :google_maps_api_key: "something"
+  :sunlight_api_key: "something_else"
+
+development:
+  <<: *globals
+
+test:
+  <<: *globals
