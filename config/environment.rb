@@ -10,6 +10,7 @@ Rails::Initializer.run do |config|
   config.gem "ym4r", :version => ">= 0.6.1"
   config.gem "json", :version => ">= 1.1.3"
   config.gem "google-geocode", :lib => "google_geocode", :version => "1.2.1"
+  config.gem "httparty", :version => ">= 0.2.6"
 
   config.time_zone = 'UTC'
 
