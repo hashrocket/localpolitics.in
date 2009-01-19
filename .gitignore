@@ -1,0 +1,6 @@
+config/database.yml
+config/settings.yml
+log/*
+public/system
+tmp
+

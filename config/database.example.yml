@@ -1,0 +1,13 @@
+base_settings: &base_settings
+  adapter:  mysql
+  username: root
+  password:
+
+development:
+  database: lp_development
+  <<: *base_settings
+
+test:
+  database: lp_test
+  <<: *base_settings
+
