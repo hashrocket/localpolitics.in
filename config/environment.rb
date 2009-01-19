@@ -1,12 +1,15 @@
 RAILS_GEM_VERSION = '2.2.2' unless defined? RAILS_GEM_VERSION
 require File.join(File.dirname(__FILE__), 'boot')
 
+APP_CONFIG = YAML.load_file('config/settings.yml')
+
 Rails::Initializer.run do |config|
   # Specify gems that this application depends on. 
   # They can then be installed with "rake gems:install" on new installations.
   # You have to specify the :lib option for libraries, where the Gem name (sqlite3-ruby) differs from the file itself (sqlite3)
   config.gem "ym4r", :version => ">= 0.6.1"
   config.gem "json", :version => ">= 1.1.3"
+  config.gem "google-geocode", :lib => "google_geocode", :version => "1.2.1"
 
   config.time_zone = 'UTC'
 
@@ -16,4 +19,3 @@ Rails::Initializer.run do |config|
   }
 end
 
-require 'sunlight'
