@@ -1,5 +1,5 @@
 = render :partial => 'form'
-= render :partial => 'spending_information'
+=# render :partial => 'spending_information'
 =# render :partial => 'donor_information'
 
 
@@ -8,48 +8,49 @@
 #representative_information
   %h2
     My Local Representative
-  #representative
-    #profile
-      %img{ :src => representative.photo_path, :alt => representative.full_name }
+  .representative_container
+    .representative
+      .profile
+        %img{ :src => representative.photo_path, :alt => representative.full_name }
+        %h3
+          = representative.full_name
+          .small= representative.title
+        .meta
+          %p
+            = party_for(representative)
+          %p
+            == District ID: #{representative.district}
+        %ul.contact
+          %li
+            = link_to "Contact Your Representative", @locality.representative.website_url
+          %li
+            %a{ :href => "#", :title => "Follow on Twitter" }
+              Follow on Twitter
+    .record
       %h3
-        = representative.full_name
-        .small= representative.title
-      #meta
-        %p
-          = party_for(representative)
-        %p
-          == District ID: #{representative.district}
-      %ul#contact
-        %li
-          = link_to "Contact Your Representative", @locality.representative.website_url
-        %li
-          %a{ :href => "#", :title => "Follow on Twitter" }
-            Follow on Twitter
-  #record
-    %h3
-      == #{representative.full_name}&rsquo;s Legislation Introduced
-    #records
-      .record_entry
-        %h4
-          %a{ :href => "#", :title => "Bill Name" }
-            Bill Name
-        %p.date
-          Introduced on 12/19/2007
-        %p
-          Congratulating University of Florida Quarterback Timothy "Tim" Tebow for winning the Heisman Trophy and honoring both his athletic and academic achievements.
-      .record_entry
-        %h4
-          %a{ :href => "#", :title => "Bill Name" }
-            Bill Name
-        %p.date
-          Introduced on 12/19/2007
-        %p
-          Congratulating University of Florida Quarterback Timothy "Tim" Tebow for winning the Heisman Trophy and honoring both his athletic and academic achievements.
-      .record_entry
-        %h4
-          %a{ :href => "#", :title => "Bill Name" }
-            Bill Name
-        %p.date
-          Introduced on 12/19/2007
-        %p
-          Congratulating University of Florida Quarterback Timothy "Tim" Tebow for winning the Heisman Trophy and honoring both his athletic and academic achievements.
+        == #{representative.full_name}&rsquo;s Legislation Introduced
+      .records
+        .record_entry
+          %h4
+            %a{ :href => "#", :title => "Bill Name" }
+              Bill Name
+          %p.date
+            Introduced on 12/19/2007
+          %p
+            Congratulating University of Florida Quarterback Timothy "Tim" Tebow for winning the Heisman Trophy and honoring both his athletic and academic achievements.
+        .record_entry
+          %h4
+            %a{ :href => "#", :title => "Bill Name" }
+              Bill Name
+          %p.date
+            Introduced on 12/19/2007
+          %p
+            Congratulating University of Florida Quarterback Timothy "Tim" Tebow for winning the Heisman Trophy and honoring both his athletic and academic achievements.
+        .record_entry
+          %h4
+            %a{ :href => "#", :title => "Bill Name" }
+              Bill Name
+          %p.date
+            Introduced on 12/19/2007
+          %p
+            Congratulating University of Florida Quarterback Timothy "Tim" Tebow for winning the Heisman Trophy and honoring both his athletic and academic achievements.
