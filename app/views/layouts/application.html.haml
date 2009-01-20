@@ -1,0 +1,33 @@
+!!!
+%html{html_attrs}
+  %head
+    %meta{"http-equiv" => 'Content-Type', :content => 'text/html;charset=utf-8'}
+    %title= h(@title || "LocalPolitics.in")
+    %meta{ :name => "author", :content => "Hashrocket, Thought &amp; Theory" }
+    %meta{ :name => "keywords", :content => "local politics, local district voting record" }
+    %meta{ :name => "description", :content => "Useful information about your legislators" }
+    = javascript_tag "var AUTH_TOKEN = #{form_authenticity_token.to_json};" if protect_against_forgery?
+    = javascript_include_tag %w(jquery application jquery-color)
+    = stylesheet_link_tag 'global'
+    = yield :head
+%body
+  #container
+    #header
+      %h1#logo LocalPolitics.in
+
+    #application
+      = yield
+
+    #footer
+      .hashrocket
+        %span.small= link_to "Hashrocket", "http://www.hashrocket.com/"
+
+      .thought_and_theory
+        %span.small
+          %a{ :href => "http://www.thoughtandtheory.com/" }
+            Thought &amp; Theory 
+
+      .sunlight_foundation
+        %span.small
+          Created for
+          = link_to "Apps for America", "http://sunlightlabs.com/appsforamerica/"

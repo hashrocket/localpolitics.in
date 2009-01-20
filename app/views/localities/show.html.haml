@@ -1,0 +1,55 @@
+= render :partial => 'form'
+=# render :partial => 'spending_information'
+=# render :partial => 'donor_information'
+
+
+#representative_information
+  %h2
+    My Local Representative
+  #representative
+    #profile
+      %img{ :src => "/images/no_picture.jpg", :alt => "[Representative's Name]" }
+      %h3
+        [Title]
+        = @locality.representative.full_name
+      #meta
+        %p
+          %span.democrat
+            Democrat
+        %p
+          District Name
+      %ul#contact
+        %li
+          %a{ :href => "#", :title => "Contact Your Representative" }
+            Contact Your Representative
+        %li
+          %a{ :href => "#", :title => "Follow on Twitter" }
+            Follow on Twitter
+  #record
+    %h3
+      [Representative]&rsquo;s Legislation Introduced
+    #records
+      .record_entry
+        %h4
+          %a{ :href => "#", :title => "Bill Name" }
+            Bill Name
+        %p.date
+          Introduced on 12/19/2007
+        %p
+          Congratulating University of Florida Quarterback Timothy "Tim" Tebow for winning the Heisman Trophy and honoring both his athletic and academic achievements.
+      .record_entry
+        %h4
+          %a{ :href => "#", :title => "Bill Name" }
+            Bill Name
+        %p.date
+          Introduced on 12/19/2007
+        %p
+          Congratulating University of Florida Quarterback Timothy "Tim" Tebow for winning the Heisman Trophy and honoring both his athletic and academic achievements.
+      .record_entry
+        %h4
+          %a{ :href => "#", :title => "Bill Name" }
+            Bill Name
+        %p.date
+          Introduced on 12/19/2007
+        %p
+          Congratulating University of Florida Quarterback Timothy "Tim" Tebow for winning the Heisman Trophy and honoring both his athletic and academic achievements.

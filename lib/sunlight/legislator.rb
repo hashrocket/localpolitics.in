@@ -48,6 +48,12 @@ module Sunlight
       end
 
     end
+    
+    
+    def self.all_for_zip(zip)
+      url = construct_url("legislators.allForZip", :zip => zip)
+      HTTParty.get(url)["response"]["legislators"]
+    end
 
 
     #
@@ -88,9 +94,9 @@ module Sunlight
     def self.all_where(params)
 
       url = construct_url("legislators.getList", params)
-
+      
       if (result = get_json_data(url))
-
+        
         legislators = []
         result["response"]["legislators"].each do |legislator|
           legislators << Legislator.new(legislator["legislator"])
