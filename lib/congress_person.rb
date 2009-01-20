@@ -15,7 +15,8 @@ class CongressPerson
           "photo_id"          => "bioguide_id",
           "congresspedia_url" => "congresspedia_url",
           "state_machine_id"  => "fec_id",
-          "district"          => "district"
+          "district"          => "district",
+          "title"             => "title"
         }
 
   PARTIES = { "R" => "Republican",
@@ -46,7 +47,7 @@ class CongressPerson
   end
 
   def photo_path
-    "/congresspeople/#{photo_id}.jpg"
+    "/images/congresspeople/#{photo_id}.jpg"
   end
   
   def top_contributors(qty = 10)
