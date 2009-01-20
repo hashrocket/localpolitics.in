@@ -18,6 +18,7 @@ Rails::Initializer.run do |config|
   config.gem "json", :version => ">= 1.1.3"
   config.gem "google-geocode", :lib => "google_geocode", :version => "1.2.1"
   config.gem "httparty", :version => ">= 0.2.6"
+  config.gem "nokogiri", :version => ">= 1.1.1"
 
   config.gem "thoughtbot-factory_girl", :lib => "factory_girl", :version => ">= 1.1.5"
   config.gem "mocha", :version => ">= 0.9.4"

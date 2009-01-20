@@ -1,4 +1,7 @@
+require 'timeout'
+
 class CongressPerson
+  # Maps our attributes to Sunlight API's (for now)
   MAP = { "first_name"        => "firstname",
           "last_name"         => "lastname",
           "party"             => "party",
@@ -10,13 +13,17 @@ class CongressPerson
           "website_url"       => "website",
           "contact_form_url"  => "webform",
           "photo_id"          => "bioguide_id",
-          "congresspedia_url" => "congresspedia_url"
+          "congresspedia_url" => "congresspedia_url",
+          "state_machine_id"  => "fec_id"
         }
 
   PARTIES = { "R" => "Republican",
               "D" => "Democrat",
               "I" => "Independent",
               "L" => "Libertarian" }
+
+  # Used to look up campaign contributors
+  SM_BASE_URL = "http://data.state-machine.org/candidates/:state_machine_id.xml"
 
   MAP.keys.each do |name|
     attr_reader name
@@ -39,6 +46,41 @@ class CongressPerson
 
   def photo_path
     "/congresspeople/#{photo_id}.jpg"
+  end
+
+  def top_contributors(qty = 10)
+    top = contributors.sort_by do |contributor|
+      contributor.to_i
+    end.reverse.first(qty)
+    Hash[*top]
+  end
+
+  def contributors
+    return @contributors if @contributors
+    @contributors = {}
+    doc = Nokogiri::XML(contributions_data)
+
+    doc.search('contribution').each do |e|
+      name  = e.attributes["name"].content.titleize
+      total = e.attributes["total"].content
+      @contributors[name] = total
+    end
+
+    @contributors
+  end
+
+  def contributions_data
+    begin
+      Timeout.timeout(10) do
+        open(contributions_url)
+      end
+    rescue OpenURI::HTTPError, Timeout::Error
+      "<xml></xml>"
+    end
+  end
+
+  def contributions_url
+    SM_BASE_URL.sub(/:state_machine_id/, state_machine_id)
   end
 end
 

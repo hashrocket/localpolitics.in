@@ -5,6 +5,10 @@ class Locality
     @geocoder ||= GoogleGeocode.new APP_CONFIG[:google_maps_api_key]
   end
 
+  def self.geocoder=(coder)
+    @geocoder = coder
+  end
+
   def initialize(data)
     result = self.class.geocoder.locate(data)
     @postal_code = result.postal_code

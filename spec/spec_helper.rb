@@ -46,4 +46,19 @@ Spec::Runner.configure do |config|
   # For more information take a look at Spec::Runner::Configuration and Spec::Runner
 end
 
-Subscription.stubs(:geocoder).returns(stubs(:locate => GoogleGeocode::Location.new(:latitude => "30.3177", :longitude => "-81.41416", :postal_code => "32250")))
+class FakeGeocoder
+  Location = Struct.new :latitude, :longitude, :postal_code
+  def initialize(api_key)
+  end
+
+  def locate(place)
+    Location.new fake_data
+  end
+
+  def fake_data
+    { :latitude => "30.3177", :longitude => "-81.41416", :postal_code => "32250" }
+  end
+end
+
+Locality.geocoder = FakeGeocoder.new "foo"
+Subscription.geocoder = FakeGeocoder.new "baz"
