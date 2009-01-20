@@ -1,0 +1,189 @@
+/*
+----------------------------------------
+Apps for America - Localpolitics.in
+     Author:    Dennis Eusebio
+---------------------------------------- */
+
+/* zeros out everything */
+@import "whitespace-reset.css";
+
+body {
+	background: #fff;
+	font: .8em/150% 'Helvetica', Arial, sans-serif;
+	color: #000;
+}
+
+p { margin-bottom: .8em; }
+small { font-size: 90%; }
+
+/* links
+---------------------------------------- */
+a:link { 
+	color: blue; 
+	font-weight: bold; 
+}
+a:visited {
+	color: blue; 
+	font-weight: bold;
+}
+a:hover {
+	color: black; 
+	font-weight: bold;
+}
+a:active {
+	color: blue; 
+	font-weight: bold;
+}
+
+/* headers
+---------------------------------------- */
+h1, h2, h3, h4 {
+	line-height: normal;
+}
+h1 { font-size: 250%; }
+h2 { 
+	margin-bottom: 20px;
+	font-size: 180%; 
+}
+h3 { 
+	margin-bottom: 10px; 
+	font-size: 140%; 
+}
+h4 { font-size: 120%; }
+
+
+/* universal
+---------------------------------------- */
+#container {
+	margin: 20px auto;
+	width: 950px;
+}
+	#header {
+		margin-bottom: 20px;
+		float: left;
+		width: 950px;
+	}
+
+	#application {
+		float: left;
+		width: 950px;
+	}
+	
+	.submit_btn {
+		padding: 10px;
+		font-size: 120%;
+		border: none;
+		font-weight: bold;
+		background: #999;
+		color: #333;
+	}
+		.submit_btn:hover { 
+			background: blue; 
+			color: #fff; 
+		}
+
+	#footer {
+		margin: 20px 0;
+		float: left;
+		width: 950px;
+	}
+
+/* page specific
+---------------------------------------- */
+/* index */
+#search_zip {
+	padding: 10px;
+	float: left;
+	width: 928px;
+	border: 1px solid #ccc;
+	background: #eee;
+}
+	#search_zip p { margin: 0; }
+	#search_zip label {	display: none; }
+	input#f_address {
+		margin: 0 10px 0 0; padding: 10px;
+		border: 1px solid #ccc;
+		background: #fff;
+		font-size: 120%;
+		font-weight: bold;
+		color: #333;
+		width: 620px;
+	}
+	
+
+/* search results */
+h1#logo span {
+	padding: 5px;
+	background: blue;
+	color: #fff;
+}
+
+#filters {
+	margin-top: 20px;
+	float: left;
+	width: 950px;
+}
+	#filters a:link, #filters a:visited, #filters a:hover, #filters a:active {
+		padding: 10px;
+		float: left;
+		width: 200px;
+		background: #eee;
+		text-align: center;
+	}
+		#filters a:hover, #filters a.selected { 
+			background: blue; 
+			color: #fff; 
+		}
+
+#representative_information {
+	margin: 20px 0;
+	float: left;
+	width: 950px;
+}
+	#representative_information h2 {
+		float: left;
+		width: 950px;
+	}
+	#representative {
+		margin-right: 10px;
+		float: left;
+		width: 300px;
+		display: inline;
+	}
+		#profile {
+			padding: 10px;
+			border: 1px solid #ccc;
+			background: #eee;
+		}
+			#profile img { 
+				margin-bottom: 10px; 
+				border: 1px solid #ccc; 
+			}
+			#profile span {
+				padding: 5px;
+				font-weight: bold;
+				color: #fff;
+			}
+			#profile .democrat { background: red; }
+			#profile .republican { background: blue; }
+	#record {
+		float: right;
+		width: 630px;
+	}
+		#records {
+			float: left;
+			width: 630px;
+		}
+			.record_entry {
+				padding: 20px 10px;
+				float: left;
+				width: 610px;
+				border-bottom: 1px solid #ddd;
+			}
+
+#donor_information {
+	margin: 20px 0;
+	float: left;
+	width: 950px;
+}
+

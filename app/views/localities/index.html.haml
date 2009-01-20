@@ -1,3 +1,5 @@
 - form_tag root_path, :method => :get do
-  %div= text_field_tag :q
-
+  %p
+    %label{:for => "q"} Enter Address
+    = text_field_tag :q, 'Enter Zip Code'
+    = submit_tag "Search Address", :class => "submit_btn"
