@@ -236,10 +236,18 @@ h1#logo span {
     width: 830px;
   }
   .representative_container {
+    margin-right: 10px;
+    float: left;
+    width: 265px;
+    display: inline;
+  }
+  /*
+  .representative_container {
     margin-bottom: 40px;
     float: left;
     width: 830px;
   }
+  */
   .representative {
     margin-right: 10px;
     float: left;
