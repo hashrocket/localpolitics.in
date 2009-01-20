@@ -39,7 +39,7 @@ a:active {
 ---------------------------------------- */
 h1, h2, h3, h4 {
   line-height: normal;
-  color: #333;
+  color: #0c1b3d;
 }
 h1 { font-size: 250%; }
 h2 { 
@@ -47,7 +47,6 @@ h2 {
   font-size: 200%; 
   font-family: 'Times New Roman', Times, serif;
   font-weight: normal;
-  color: #333;
 }
 h3 {
   margin-bottom: 20px; 
@@ -83,16 +82,22 @@ h4 { font-size: 110%; }
   }
 
   #footer {
-    margin: 20px 0; padding: 0 20px 20px 20px;
+    margin: 20px 0; padding: 10px 20px 20px 20px;
     float: left;
-    width: 910px;
+    width: 860px;
     font-size: 90%;
-    color: #ccc;
+    color: #999;
+    border-top: 1px dotted #666;
   }
   
   #footer p { margin: 0; }
-  #footer a:link, #footer a:visited, #footer a:hover, #footer a:active { color: #ddd; }
-  #footer a:hover { color: #fff; }
+  #footer a:link, #footer a:visited, #footer a:hover, #footer a:active { 
+    margin-right: 10px;
+		color: #ccc;
+	}
+  #footer a:hover { 
+		color: #fff; 
+	}
     
   .small {
     font-size:0.8em;
@@ -168,8 +173,9 @@ h4 { font-size: 110%; }
     border-bottom: 1px solid #ddd;
   }
   #benefits li {
+    padding-right: 20px;
     float: left;
-    width: 415px;
+    width: 255px;
   }
 
 /* search results */
