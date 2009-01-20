@@ -23,6 +23,9 @@ class CongressPerson
               "D" => "Democrat",
               "I" => "Independent",
               "L" => "Libertarian" }
+              
+  TITLES = { "Rep" => "Representative",
+             "Sen" => "Senator"}
 
   # Used to look up campaign contributors
   SM_BASE_URL = "http://data.state-machine.org/candidates/:state_machine_id.xml"
@@ -44,6 +47,10 @@ class CongressPerson
 
   def party
     PARTIES[@party] || @party
+  end
+  
+  def title
+    TITLES[@title] || @title
   end
 
   def photo_path
