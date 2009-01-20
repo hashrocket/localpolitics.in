@@ -3,6 +3,8 @@
 =# render :partial => 'donor_information'
 
 
+- representative = @locality.representative
+
 #representative_information
   %h2
     My Local Representative
@@ -11,17 +13,15 @@
       %img{ :src => "/images/no_picture.jpg", :alt => "[Representative's Name]" }
       %h3
         [Title]
-        = @locality.representative.full_name
+        = representative.full_name
       #meta
         %p
-          %span.democrat
-            Democrat
+          = party_for(representative)
         %p
           District Name
       %ul#contact
         %li
-          %a{ :href => "#", :title => "Contact Your Representative" }
-            Contact Your Representative
+          = link_to "Contact Your Representative", @locality.representative.website_url
         %li
           %a{ :href => "#", :title => "Follow on Twitter" }
             Follow on Twitter
