@@ -10,10 +10,10 @@
     My Local Representative
   #representative
     #profile
-      %img{ :src => "/images/no_picture.jpg", :alt => "[Representative's Name]" }
+      %img{ :src => representative.photo_path, :alt => representative.full_name }
       %h3
-        [Title]
         = representative.full_name
+        .small= representative.title
       #meta
         %p
           = party_for(representative)
@@ -27,7 +27,7 @@
             Follow on Twitter
   #record
     %h3
-      [Representative]&rsquo;s Legislation Introduced
+      == #{representative.full_name}&rsquo;s Legislation Introduced
     #records
       .record_entry
         %h4
