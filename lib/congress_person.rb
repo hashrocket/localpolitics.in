@@ -14,7 +14,8 @@ class CongressPerson
           "contact_form_url"  => "webform",
           "photo_id"          => "bioguide_id",
           "congresspedia_url" => "congresspedia_url",
-          "state_machine_id"  => "fec_id"
+          "state_machine_id"  => "fec_id",
+          "district"          => "district"
         }
 
   PARTIES = { "R" => "Republican",

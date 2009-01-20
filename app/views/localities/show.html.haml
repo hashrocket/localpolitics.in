@@ -1,5 +1,5 @@
 = render :partial => 'form'
-=# render :partial => 'spending_information'
+= render :partial => 'spending_information'
 =# render :partial => 'donor_information'
 
 
@@ -18,7 +18,7 @@
         %p
           = party_for(representative)
         %p
-          District Name
+          == District ID: #{representative.district}
       %ul#contact
         %li
           = link_to "Contact Your Representative", @locality.representative.website_url
