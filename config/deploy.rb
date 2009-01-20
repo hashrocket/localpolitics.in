@@ -27,6 +27,7 @@ namespace :deploy do
   desc "Symlink config files from shared/config to release dir"
   task :symlink_config_files, :roles => [ :app ] do
     run "ln -nfs #{deploy_to}/#{shared_dir}/config/database.yml #{release_path}/config/database.yml"
+    run "ln -nfs #{deploy_to}/#{shared_dir}/config/settings.yml #{release_path}/config/settings.yml"
   end
 
   task :restart do
