@@ -1,5 +1,5 @@
-- form_tag root_path, :method => :get, :id => "search_zip" do
+- form_tag '/', :id => "search_zip" do
   %p
     %label{:for => "q"} Enter Address
-    = text_field_tag :q, 'Enter Zip Code', :id => "f_address"
+    = text_field_tag :q, (params[:q] || 'Enter Zip Code'), :id => "f_address"
     = submit_tag "Search Address", :class => "submit_btn"

@@ -7,9 +7,14 @@ describe LocalitiesController do
       response.should render_template(:index)
     end
 
-    it "renders show if there's a query" do
+    it "redirects if there's a query" do
       get :index, :q => "12345"
-      response.should render_template(:show)
+      response.should redirect_to(zip_path("12345"))
+    end
+    
+    it "initializes a locality if there's a query" do
+      get :show, :q => "12345"
+      assigns[:locality].should_not be_nil
     end
   end
 end
