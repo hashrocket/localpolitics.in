@@ -16,7 +16,8 @@ class CongressPerson
           "congresspedia_url" => "congresspedia_url",
           "state_machine_id"  => "fec_id",
           "district"          => "district",
-          "title"             => "title"
+          "title"             => "title",
+          "govtrack_id"       => "govtrack_id"
         }
 
   PARTIES = { "R" => "Republican",

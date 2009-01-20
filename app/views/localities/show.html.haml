@@ -4,10 +4,12 @@
 
 
 - representative = @locality.representative
+- senior_senator = @locality.senior_senator
+- junior_senator = @locality.junior_senator
 
 #representative_information
   %h2
-    My Local Representative
+    My Local Congress People
   .representative_container
     .representative
       .profile
@@ -22,35 +24,36 @@
             == District ID: #{representative.district}
         %ul.contact
           %li
-            = link_to "Contact Your Representative", @locality.representative.website_url
+            = link_to "Contact Your Representative", representative.website_url
+
+  .representative_container.odd
+    .representative
+      .profile
+        %img{ :src => senior_senator.photo_path, :alt => senior_senator.full_name }
+        %h3
+          = senior_senator.full_name
+          .small= senior_senator.title
+        .meta
+          %p
+            = party_for(senior_senator)
+          %p
+            == District ID: #{senior_senator.district}
+        %ul.contact
           %li
-            %a{ :href => "#", :title => "Follow on Twitter" }
-              Follow on Twitter
-    .record
-      %h3
-        == #{representative.full_name}&rsquo;s Legislation Introduced
-      .records
-        .record_entry
-          %h4
-            %a{ :href => "#", :title => "Bill Name" }
-              Bill Name
-          %p.date
-            Introduced on 12/19/2007
+            = link_to "Contact Your Senator", senior_senator.website_url
+
+  .representative_container
+    .representative
+      .profile
+        %img{ :src => junior_senator.photo_path, :alt => junior_senator.full_name }
+        %h3
+          = junior_senator.full_name
+          .small= junior_senator.title
+        .meta
           %p
-            Congratulating University of Florida Quarterback Timothy "Tim" Tebow for winning the Heisman Trophy and honoring both his athletic and academic achievements.
-        .record_entry
-          %h4
-            %a{ :href => "#", :title => "Bill Name" }
-              Bill Name
-          %p.date
-            Introduced on 12/19/2007
+            = party_for(junior_senator)
           %p
-            Congratulating University of Florida Quarterback Timothy "Tim" Tebow for winning the Heisman Trophy and honoring both his athletic and academic achievements.
-        .record_entry
-          %h4
-            %a{ :href => "#", :title => "Bill Name" }
-              Bill Name
-          %p.date
-            Introduced on 12/19/2007
-          %p
-            Congratulating University of Florida Quarterback Timothy "Tim" Tebow for winning the Heisman Trophy and honoring both his athletic and academic achievements.
+            == District ID: #{junior_senator.district}
+        %ul.contact
+          %li
+            = link_to "Contact Your Senator", junior_senator.website_url
