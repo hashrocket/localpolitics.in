@@ -47,11 +47,9 @@ class CongressPerson
   def photo_path
     "/congresspeople/#{photo_id}.jpg"
   end
-
+  
   def top_contributors(qty = 10)
-    top = contributors.sort_by do |contributor|
-      contributor.to_i
-    end.reverse.first(qty)
+    top = contributors.sort {|a,b| a[1]<=>b[1]}.reverse.first(qty).flatten
     Hash[*top]
   end
 
