@@ -8,9 +8,9 @@ Apps for America - Localpolitics.in
 @import "whitespace-reset.css";
 
 body {
-  background: #1a294d url(/images/bg.jpg) center -390px no-repeat;
-  font: .8em/150% Arial, sans-serif;
-  color: #333;
+	background: #1a294d url(../images/bg.jpg) center -390px no-repeat;
+	font: .8em/150% Arial, sans-serif;
+	color: #333;
 }
 
 p { margin-bottom: .8em; }
@@ -19,41 +19,41 @@ small { font-size: 90%; }
 /* links
 ---------------------------------------- */
 a:link { 
-  color: #1a294d; 
-  font-weight: bold; 
+	color: #1a294d; 
+	font-weight: bold; 
 }
 a:visited {
-  color: #1a294d; 
-  font-weight: bold;
+	color: #1a294d; 
+	font-weight: bold;
 }
 a:hover {
-  color: #e54141; 
-  font-weight: bold;
+	color: #e54141; 
+	font-weight: bold;
 }
 a:active {
-  color: #1a294d; 
-  font-weight: bold;
+	color: #1a294d; 
+	font-weight: bold;
 }
 
 /* headers
 ---------------------------------------- */
 h1, h2, h3, h4 {
-  line-height: normal;
-  color: #333;
+	line-height: normal;
+	color: #333;
 }
 h1 { font-size: 250%; }
 h2 { 
-  margin-bottom: 20px;
-  font-size: 220%; 
-  font-family: 'Times New Roman', Times, serif;
-  font-weight: normal;
-  color: #333;
+	margin-bottom: 20px;
+	font-size: 200%; 
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: normal;
+	color: #333;
 }
 h3 {
-  margin-bottom: 20px; 
-  font-size: 160%; 
-  font-family: 'Times New Roman', Times, serif;
-  font-weight: normal;
+	margin-bottom: 20px; 
+	font-size: 160%; 
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: normal;
 }
 h4 { font-size: 110%; }
 
@@ -61,258 +61,254 @@ h4 { font-size: 110%; }
 /* universal
 ---------------------------------------- */
 #container {
-  margin: 20px auto;
-  width: 950px;
+	margin: 20px auto;
+	width: 950px;
 }
-  #header {
-    margin-bottom: 20px;
-    float: left;
-    width: 950px;
-  }
-    #logo {
-      margin-left: 20px;
-      text-indent: -9999px;
-      display: block;
-      width: 129px; height: 56px;
-      background: url(../images/logo.png) no-repeat;
-    }
-      #logo a {
-        display: block;
-        width: 129px; height: 56px;
-      }
+	#header {
+		margin-bottom: 20px;
+		float: left;
+		width: 950px;
+	}
+		#logo {
+			margin-left: 20px;
+			text-indent: -9999px;
+			display: block;
+			width: 129px; height: 56px;
+			background: url(../images/logo.png) no-repeat;
+		}
 
-  #application {
-    float: left;
-    width: 950px;
-  }
+	#application {
+		float: left;
+		width: 950px;
+	}
 
-  #footer {
-    margin: 20px 0; padding: 0 20px 20px 20px;
-    float: left;
-    width: 910px;
-    font-size: 90%;
-    color: #ccc;
-  }
-    #footer p { margin: 0; }
-    #footer a:link, #footer a:visited, #footer a:hover, #footer a:active { color: #ddd; }
-    #footer a:hover { color: #fff; }
-    
-    .small {
-      font-size:0.8em;
-      line-height:1.875em;
-      margin-bottom:1.875em;
-    }
-
-    .hashrocket {
-      background:transparent url(/images/logo_hr.png) no-repeat scroll left bottom;
-      float:left;
-      margin:5px 0 0 0;
-      padding:5px 0 5px 30px;
-    }
-
-    .sunlight_foundation {
-      background:transparent url(/images/sunlight_foundation.jpg) no-repeat scroll left bottom;
-      float:left;
-      margin:5px 0 0 20px;
-      padding:5px 0 5px 65px;
-    }
-
-    .thought_and_theory {
-      background:transparent url(/images/thought_and_theory.gif) no-repeat scroll left bottom;
-      float:left;
-      margin:0 0 10px 20px;
-      padding:10px 0 10px 128px;
-    }
+	#footer {
+		margin: 20px 0; padding: 0 20px 20px 20px;
+		float: left;
+		width: 910px;
+		font-size: 90%;
+		color: #ccc;
+	}
+		#footer p { margin: 0; }
+		#footer a:link, #footer a:visited, #footer a:hover, #footer a:active { color: #ddd; }
+		#footer a:hover { color: #fff; }
 
 /* page specific
 ---------------------------------------- */
 /* index */
 #search_zip {
-  padding: 0 5px 0 45px;
-  float: left;
-  width: 895px; height: 64px;
-  background: url(../images/bg_search.png) no-repeat;
+	padding: 0 5px 0 45px;
+	float: left;
+	width: 895px; height: 64px;
+	background: url(../images/bg_search.png) no-repeat;
 }
-  #search_zip p { 
-    margin: 0;
-    float: left;
-  }
-  #search_zip label { display: none; }
-  #search_zip #title_tagline {
-    margin-top: 10px;
-    text-indent: -9999px;
-    float: left;
-    width: 490px; height: 24px;
-    background: url(../images/title_stayupdated.gif) no-repeat;
-  }
-  #search_zip input { 
-    margin: 7px 0 0 0; 
-    vertical-align: middle;
-  }
-  #search_zip input#f_address {
-    margin: 7px 10px 0 10px; padding: 5px;
-    border: 1px solid #ccc;
-    background: #fff;
-    font-size: 120%;
-    font-weight: bold;
-    color: #333;
-    width: 200px;
-  }
-  
+	#search_zip p { 
+		margin: 0;
+		float: left;
+	}
+	#search_zip label {	display: none; }
+	#search_zip #title_tagline {
+		margin-top: 10px;
+		text-indent: -9999px;
+		float: left;
+		width: 490px; height: 24px;
+		background: url(../images/title_stayupdated.gif) no-repeat;
+	}
+	#search_zip input { 
+		margin: 7px 0 0 0; 
+		vertical-align: middle;
+	}
+	#search_zip input#f_address {
+		margin: 7px 10px 0 10px; padding: 5px;
+		border: 1px solid #ccc;
+		background: #fff;
+		font-size: 120%;
+		font-weight: bold;
+		color: #333;
+		width: 200px;
+	}
+	
+#intro_benefits {
+	margin: 20px; padding: 20px 10px;
+	float: left;
+	width: 830px;
+	display: inline;
+	background: #fff;
+}
+	#intro_benefits h2 {
+		padding-bottom: 20px;
+		border-bottom: 1px solid #ddd;
+	}
+	#benefits li {
+		float: left;
+		width: 415px;
+	}
 
 /* search results */
 h1#logo span {
-  padding: 5px;
-  background: blue;
-  color: #fff;
+	padding: 5px;
+	background: blue;
+	color: #fff;
 }
 
 #filters {
-  margin-top: 20px;
-  float: left;
-  width: 950px;
+	margin-top: 20px;
+	float: left;
+	width: 950px;
 }
-  #filters a:link, #filters a:visited, #filters a:hover, #filters a:active {
-    padding: 10px;
-    float: left;
-    width: 200px;
-    background: #eee;
-    text-align: center;
-  }
-    #filters a:hover, #filters a.selected { 
-      background: blue; 
-      color: #fff; 
-    }
-    
+	#filters a:link, #filters a:visited, #filters a:hover, #filters a:active {
+		padding: 10px;
+		float: left;
+		width: 200px;
+		background: #eee;
+		text-align: center;
+	}
+		#filters a:hover, #filters a.selected { 
+			background: blue; 
+			color: #fff; 
+		}
+		
 #spending_information {
-  margin: 20px; padding: 20px 10px;
-  float: left;
-  width: 830px;
-  display: inline;
-  background: #fff;
+	margin: 20px; padding: 20px 10px;
+	float: left;
+	width: 830px;
+	display: inline;
+	background: #fff;
 }
-  #spending_information h2 {
-    padding-bottom: 20px;
-    border-bottom: 1px solid #ddd;
-  }
-  .contract {
-    margin-bottom: 10px; padding: 0 10px;
-    float: left;
-    width: 395px;
-  }
-    .contract .rank {
-      float: left;
-      width: 19px;
-      border-right: 1px solid #ddd;
-    }
-    .contract .contract_info {
-      float: right;
-      width: 355px;
-    }
+	#spending_information h2 {
+		padding-bottom: 20px;
+		border-bottom: 1px solid #ddd;
+	}
+	.contract {
+		margin-bottom: 10px; padding: 0 10px;
+		float: left;
+		width: 395px;
+	}
+		.contract .rank {
+			float: left;
+			width: 19px;
+			border-right: 1px solid #ddd;
+		}
+		.contract .contract_info {
+			float: right;
+			width: 355px;
+		}
 
 #representative_information {
-  margin: 20px; padding: 20px 10px;
-  float: left;
-  width: 830px;
-  background: #fff;
-  display: inline;
+	margin: 20px; padding: 20px 10px;
+	float: left;
+	width: 830px;
+	background: #fff;
+	display: inline;
 }
-  #representative_information h2 {
-    padding-bottom: 20px;
-    border-bottom: 1px solid #ddd;
-    float: left;
-    width: 830px;
-  }
-  #representative {
-    margin-right: 10px;
-    float: left;
-    width: 265px;
-    display: inline;
-  }
-    #profile {
-      padding: 10px;
-      border: 1px solid #ccc;
-      background: #eee;
-    }
-      #profile img { 
-        margin-bottom: 10px; 
-        border: 1px solid #ccc; 
-      }
-      #profile span {
-        padding: 5px;
-        font-weight: bold;
-        color: #fff;
-      }
-      .democrat { background: #1a294d; }
-      .republican { background: #e54141; }
-  #record {
-    float: right;
-    width: 545px;
-  }
-    #records {
-      float: left;
-      width: 545px;
-    }
-      .record_entry {
-        padding: 20px 10px;
-        float: left;
-        width: 525px;
-        border-bottom: 1px solid #ddd;
-      }
+	#representative_information h2 {
+		padding-bottom: 20px;
+		border-bottom: 1px solid #ddd;
+		float: left;
+		width: 830px;
+	}
+	.representative_container {
+		margin-bottom: 40px;
+		float: left;
+		width: 830px;
+	}
+	.representative {
+		margin-right: 10px;
+		float: left;
+		width: 265px;
+		display: inline;
+	}
+		.odd .representative {
+			margin: 0;
+			float: right;
+		}
+		.profile {
+			padding: 10px;
+			border: 1px solid #ccc;
+			background: #eee;
+		}
+			.profile img { 
+				margin-bottom: 10px; 
+				border: 1px solid #ccc; 
+			}
+			.profile span {
+				padding: 5px;
+				font-weight: bold;
+				color: #fff;
+			}
+			.democrat { background: #1a294d; }
+			.republican { background: #e54141; }
+	.record {
+		float: right;
+		width: 545px;
+	}
+		.odd .record {
+			float: left;
+		}
+		.records {
+			float: left;
+			width: 545px;
+		}
+			.record_entry {
+				padding: 20px 10px;
+				float: left;
+				width: 525px;
+				border-bottom: 1px solid #ddd;
+			}
 
 #donor_information {
-  margin: 20px; padding: 20px 10px;
-  float: left;
-  width: 830px;
-  display: inline;
-  background: #fff;
+	margin: 20px; padding: 20px 10px;
+	float: left;
+	width: 830px;
+	display: inline;
+	background: #fff;
 }
-  #donor_information h2 {
-    padding-bottom: 20px;
-    border-bottom: 1px solid #ddd;
-  }
-  #donor_graph {
-    margin-bottom: 20px; padding: 10px;
-    float: left;
-    width: 808px;
-    border: 1px solid #ddd;
-  }
-    #donor_graph p { margin: 0; }
-    #donor_stat_dem {
-      padding: 0 10px;
-      float: left;
-      width: 200px;
-      text-align: right;
-    }
-    #donor_stat_graph {
-      text-indent: -9999px;
-      float: left;
-      width: 368px; height: 20px;
-      background: url(../images/bg_donor_graph.gif) no-repeat;
-    }
-    #donor_stat_rep {
-      padding: 0 10px;
-      float: left;
-      width: 200px;
-      text-align: left;
-    }
-  .donor {
-    margin-bottom: 10px; padding: 0 10px;
-    float: left;
-    width: 395px;
-  }
-    .donor .rank {
-      float: left;
-      width: 19px;
-      border-right: 1px solid #ddd;
-    }
-    .donor .donation {
-      float: right;
-      width: 355px;
-    }
-    .donor span {
-      padding: 5px;
-      color: #fff;
-      font-weight: bold;
-    }
+	#donor_information h2 {
+		padding-bottom: 20px;
+		border-bottom: 1px solid #ddd;
+	}
+	#donor_graph {
+		margin-bottom: 20px; padding: 10px;
+		float: left;
+		width: 808px;
+		border: 1px solid #ddd;
+	}
+		#donor_graph p { margin: 0; }
+		#donor_stat_dem {
+			padding: 0 10px;
+			float: left;
+			width: 200px;
+			text-align: right;
+		}
+		#donor_stat_graph {
+			text-indent: -9999px;
+			float: left;
+			width: 368px; height: 20px;
+			background: url(../images/bg_donor_graph.gif) no-repeat;
+		}
+		#donor_stat_rep {
+			padding: 0 10px;
+			float: left;
+			width: 200px;
+			text-align: left;
+		}
+	.donor {
+		margin-bottom: 10px; padding: 0 10px;
+		float: left;
+		width: 395px;
+	}
+		.donor .rank {
+			float: left;
+			width: 19px;
+			border-right: 1px solid #ddd;
+		}
+		.donor .donation {
+			float: right;
+			width: 355px;
+		}
+		.donor span {
+			padding: 5px;
+			color: #fff;
+			font-weight: bold;
+		}
 
