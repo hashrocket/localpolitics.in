@@ -1,8 +1,187 @@
+= render :partial => 'form'
+#spending_information
+  %h2
+    Spending Information
+  #top_contracts
+    %h3
+      Top 5 Contracts
+    .contract
+      .rank
+        1
+      .contract_info
+        %h4
+          Name of Company
+        %p
+          Amount Contracted: $2,000,00
+    .contract
+      .rank
+        2
+      .contract_info
+        %h4
+          Name of Company
+        %p
+          Amount Contracted: $2,000,00
+    .contract
+      .rank
+        3
+      .contract_info
+        %h4
+          Name of Company
+        %p
+          Amount Contracted: $2,000,00
+    .contract
+      .rank
+        4
+      .contract_info
+        %h4
+          Name of Company
+        %p
+          Amount Contracted: $2,000,00
+    .contract
+      .rank
+        5
+      .contract_info
+        %h4
+          Name of Company
+        %p
+          Amount Contracted: $2,000,00
 #donor_information
-  %h2 Other Important Information Block
-  %p Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  %h2
+    Donor Information for Presidential Election
+  #donor_graph_comparison
+    %h3
+      Contribution Comparison
+    #donor_graph
+      #donor_stat_dem
+        %h4
+          Total Democrat Donations
+        %p
+          $1,250,000
+      /
+        calculate percentage based on comparing both contribution totals
+      #donor_stat_graph{ :style => "background-position: 20% 0" }
+        65%
+      #donor_stat_rep
+        %h4
+          Total Republican Donations
+        %p
+          $1,250,000
+  #top_donors
+    %h3
+      Top 5 Presidential Donors
+    .donor
+      .rank
+        1
+      .donation
+        %h4
+          Donor Name
+        %p
+          Amount Donated: $2000
+        %p
+          %span.democrat
+            Barack Obama
+    .donor
+      .rank
+        2
+      .donation
+        %h4
+          Donor Name
+        %p
+          Amount Donated: $2000
+        %p
+          %span.republican
+            John Mccain
+    .donor
+      .rank
+        3
+      .donation
+        %h4
+          Donor Name
+        %p
+          Amount Donated: $2000
+        %p
+          %span.republican
+            John Mccain
+    .donor
+      .rank
+        4
+      .donation
+        %h4
+          Donor Name
+        %p
+          Amount Donated: $2000
+        %p
+          %span.republican
+            John Mccain
+    .donor
+      .rank
+        5
+      .donation
+        %h4
+          Donor Name
+        %p
+          Amount Donated: $2000
+        %p
+          %span.republican
+            John Mccain
+    .donor
+      .rank
+        6
+      .donation
+        %h4
+          Donor Name
+        %p
+          Amount Donated: $2000
+        %p
+          %span.democrat
+            Barack Obama
+    .donor
+      .rank
+        7
+      .donation
+        %h4
+          Donor Name
+        %p
+          Amount Donated: $2000
+        %p
+          %span.republican
+            John Mccain
+    .donor
+      .rank
+        8
+      .donation
+        %h4
+          Donor Name
+        %p
+          Amount Donated: $2000
+        %p
+          %span.republican
+            John Mccain
+    .donor
+      .rank
+        9
+      .donation
+        %h4
+          Donor Name
+        %p
+          Amount Donated: $2000
+        %p
+          %span.republican
+            John Mccain
+    .donor
+      .rank
+        10
+      .donation
+        %h4
+          Donor Name
+        %p
+          Amount Donated: $2000
+        %p
+          %span.republican
+            John Mccain
 #representative_information
-  %h2 My Local Representative
+  %h2
+    My Local Representative
   #representative
     #profile
       %img{ :src => "images/no_picture.jpg", :alt => "[Representative's Name]" }
@@ -25,6 +204,22 @@
     %h3
       [Representative]&rsquo;s Legislation Introduced
     #records
+      .record_entry
+        %h4
+          %a{ :href => "#", :title => "Bill Name" }
+            Bill Name
+        %p.date
+          Introduced on 12/19/2007
+        %p
+          Congratulating University of Florida Quarterback Timothy "Tim" Tebow for winning the Heisman Trophy and honoring both his athletic and academic achievements.
+      .record_entry
+        %h4
+          %a{ :href => "#", :title => "Bill Name" }
+            Bill Name
+        %p.date
+          Introduced on 12/19/2007
+        %p
+          Congratulating University of Florida Quarterback Timothy "Tim" Tebow for winning the Heisman Trophy and honoring both his athletic and academic achievements.
       .record_entry
         %h4
           %a{ :href => "#", :title => "Bill Name" }

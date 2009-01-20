@@ -1,5 +1,1 @@
-- form_tag root_path, :method => :get do
-  %p
-    %label{:for => "q"} Enter Address
-    = text_field_tag :q, 'Enter Zip Code'
-    = submit_tag "Search Address", :class => "submit_btn"
+= render :partial => 'form'
