@@ -7,6 +7,6 @@ class LocalitiesController < ApplicationController
   
   def show
     @locality = Locality.new params[:q]
-    @top_ten_donors = NewYorkTimes::Donor.top_by_zip(params[:q], 10)
+    @top_ten_donors = NewYorkTimes::Donor.top_by_zip(params[:q], 10) rescue nil
   end
 end
