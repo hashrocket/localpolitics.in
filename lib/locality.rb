@@ -36,6 +36,10 @@ class Locality
     @representative ||=
       CongressPerson.new(Legislator.new(legislators.detect { |p| p["legislator"]["district"] =~ /\d+/}["legislator"]))
   end
+  
+  def top_donors
+    @donors ||= NewYorkTimes::CampaignFinance.donor_search_by_postal_code(@zip)
+  end
 
 end
 
