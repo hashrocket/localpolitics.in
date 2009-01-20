@@ -1,0 +1,19 @@
+.small {
+  font-size:0.8em;
+  line-height:1.875em;
+  margin-bottom:1.875em;
+}
+
+.hashrocket {
+  background:transparent url(../images/logo_hr.png) no-repeat scroll left bottom;
+  float:left;
+  margin:5px 0 0 10px;
+  padding:5px 0 5px 30px;
+}
+
+.thought_and_theory {
+  background:transparent url(../images/thought_and_theory.gif) no-repeat scroll left bottom;
+  float:left;
+  margin:0 0 10px;
+  padding:10px 0 10px 30px;
+}
