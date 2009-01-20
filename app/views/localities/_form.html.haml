@@ -2,5 +2,5 @@
   %h2#title_tagline Stay Up To Date On Your Local Political Scene
   %p
     %label{:for => "q"} Enter Address
-    = text_field_tag :q, 'Enter Zip Code', :id => "f_address", :class => "f_address"
+    = text_field_tag :q, (params[:q] || 'Enter Zip Code'), :id => "f_address", :class => "f_address"
     = image_submit_tag "submit_search.gif"
