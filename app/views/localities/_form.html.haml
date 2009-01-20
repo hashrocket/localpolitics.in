@@ -1,4 +1,5 @@
-- form_tag '/', :id => "search_zip" do
+- form_tag root_path, :method => :get, :id => "search_zip" do
+  %h2#title_tagline Stay Up To Date On Your Local Political Scene
   %p
     %label{:for => "q"} Enter Address
     = text_field_tag :q, (params[:q] || 'Enter Zip Code'), :id => "f_address"
