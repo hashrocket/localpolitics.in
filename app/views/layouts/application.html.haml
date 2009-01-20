@@ -19,18 +19,19 @@
       = yield
 
     #footer
-      .hashrocket
-        %span.small= link_to "HASHROCKET", "http://www.hashrocket.com/"
-
-      .thought_and_theory
-        %span.small
-          %a{ :href => "http://www.thoughtandtheory.com/" }
-            Thought &amp; Theory 
-
-      .sunlight_foundation
-        %span.small
-          Created for
-          = link_to "Apps for America", "http://sunlightlabs.com/appsforamerica/"
+      %p
+        Created for
+        %a{ :href => "http://sunlightlabs.com/appsforamerica/", :title => "Apps for America" }
+          Apps for America
+        Developed by
+        %a{ :href => "http://www.hashrocket.com", :title => "Hashrocket" }
+          Hashrocket
+        Designed by
+        %a{ :href => "http://www.thoughtandtheory.com", :title => "Thought &amp; Theory" }
+          Thought &amp; Theory
+        Any questions or comments?
+        %a{ :href => "mailto:localpolitics.in@hashrocket.com", :title => "localpolitics.in@hashrocket.com" }
+          Contact Us
 
   %script{ :type => "text/javascript" }
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
