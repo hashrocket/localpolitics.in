@@ -4,7 +4,7 @@
     %meta{"http-equiv" => 'Content-Type', :content => 'text/html;charset=utf-8'}
     %title= h(@title || "LocalPolitics.in")
     = javascript_tag "var AUTH_TOKEN = #{form_authenticity_token.to_json};" if protect_against_forgery?
-    = javascript_include_tag %w(jquery application)
+    = javascript_include_tag %w(jquery application jquery-color)
     = stylesheet_link_tag 'global'
     = yield :head
 %body

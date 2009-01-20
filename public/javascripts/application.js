@@ -1,4 +1,15 @@
+function fade_address(address){
+  address.bind('click', function(){
+    address.animate({ 'color': 'white' }, 'normal', function(){
+      $(this).attr('value', '');
+      address.css('color', '#333333')
+    });
+    $(this).unbind('click');
+  });
+}
+
 jQuery(document).ready(function($){
+  fade_address($("#f_address"));
 });
 
 jQuery(document).ajaxSend(function(event, request, settings) {
