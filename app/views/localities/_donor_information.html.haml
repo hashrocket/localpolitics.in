@@ -1,134 +1,16 @@
 #donor_information
   %h2
     Donor Information for Presidential Election
-  #donor_graph_comparison
-    %h3
-      Contribution Comparison
-    #donor_graph
-      #donor_stat_dem
-        %h4
-          Total Democrat Donations
-        %p
-          $1,250,000
-      /
-        calculate percentage based on comparing both contribution totals
-      #donor_stat_graph{ :style => "background-position: 20% 0" }
-        65%
-      #donor_stat_rep
-        %h4
-          Total Republican Donations
-        %p
-          $1,250,000
   #top_donors
     %h3
-      Top 5 Presidential Donors
-    .donor
-      .rank
-        1
-      .donation
-        %h4
-          Donor Name
-        %p
-          Amount Donated: $2000
-        %p
-          %span.democrat
-            Barack Obama
-    .donor
-      .rank
-        2
-      .donation
-        %h4
-          Donor Name
-        %p
-          Amount Donated: $2000
-        %p
-          %span.republican
-            John Mccain
-    .donor
-      .rank
-        3
-      .donation
-        %h4
-          Donor Name
-        %p
-          Amount Donated: $2000
-        %p
-          %span.republican
-            John Mccain
-    .donor
-      .rank
-        4
-      .donation
-        %h4
-          Donor Name
-        %p
-          Amount Donated: $2000
-        %p
-          %span.republican
-            John Mccain
-    .donor
-      .rank
-        5
-      .donation
-        %h4
-          Donor Name
-        %p
-          Amount Donated: $2000
-        %p
-          %span.republican
-            John Mccain
-    .donor
-      .rank
-        6
-      .donation
-        %h4
-          Donor Name
-        %p
-          Amount Donated: $2000
-        %p
-          %span.democrat
-            Barack Obama
-    .donor
-      .rank
-        7
-      .donation
-        %h4
-          Donor Name
-        %p
-          Amount Donated: $2000
-        %p
-          %span.republican
-            John Mccain
-    .donor
-      .rank
-        8
-      .donation
-        %h4
-          Donor Name
-        %p
-          Amount Donated: $2000
-        %p
-          %span.republican
-            John Mccain
-    .donor
-      .rank
-        9
-      .donation
-        %h4
-          Donor Name
-        %p
-          Amount Donated: $2000
-        %p
-          %span.republican
-            John Mccain
-    .donor
-      .rank
-        10
-      .donation
-        %h4
-          Donor Name
-        %p
-          Amount Donated: $2000
-        %p
-          %span.republican
-            John Mccain
+      Top 10 Presidential Donors
+    - @top_ten_donors.each_with_index do |donor, index|
+      .donor
+        .rank
+          = index + 1
+        .donation
+          %h4
+            = donor.first
+          %p
+            Amount Donated:
+            = number_to_currency donor.last
