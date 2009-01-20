@@ -1,6 +1,4 @@
 = render :partial => 'form'
-= render :partial => 'donor_information' unless @top_ten_donors.nil?
-
 
 - representative = @locality.representative
 - senior_senator = @locality.senior_senator
@@ -56,3 +54,5 @@
         %ul.contact
           %li
             = link_to "Contact Your Senator", junior_senator.website_url
+
+= render :partial => 'donor_information' unless @top_ten_donors.nil?
