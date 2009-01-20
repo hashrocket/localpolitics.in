@@ -13,7 +13,7 @@
 %body
   #container
     #header
-      %h1#logo LocalPolitics.in
+      %h1#logo= link_to "LocalPolitics.in", root_path, :title => "Home"
 
     #application
       = yield
