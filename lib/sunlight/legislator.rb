@@ -48,8 +48,8 @@ module Sunlight
       end
 
     end
-    
-    
+
+
     def self.all_for_zip(zip)
       url = construct_url("legislators.allForZip", :zip => zip)
       HTTParty.get(url)["response"]["legislators"]
