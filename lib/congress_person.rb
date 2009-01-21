@@ -17,7 +17,8 @@ class CongressPerson
           "state_machine_id"  => "fec_id",
           "district"          => "district",
           "title"             => "title",
-          "govtrack_id"       => "govtrack_id"
+          "govtrack_id"       => "govtrack_id",
+          "crp_id"            => "crp_id"
         }
 
   PARTIES = { "R" => "Republican",
