@@ -25,7 +25,7 @@ class CongressPerson
               "D" => "Democrat",
               "I" => "Independent",
               "L" => "Libertarian" }
-              
+
   TITLES = { "Rep" => "Representative",
              "Sen" => "Senator"}
 
@@ -46,7 +46,7 @@ class CongressPerson
   def full_name
     first_name + " " + last_name
   end
-  
+
   def voting_record
     NewYorkTimes::Congress.new.voting_record(bioguide_id)
   end
@@ -54,7 +54,7 @@ class CongressPerson
   def party
     PARTIES[@party] || @party
   end
-  
+
   def title
     TITLES[@title] || @title
   end
@@ -62,7 +62,7 @@ class CongressPerson
   def photo_path
     "/images/congresspeople/#{photo_id}.jpg"
   end
-  
+
   def top_contributors(qty = 10)
     top = contributors.sort {|a,b| a[1]<=>b[1]}.reverse.first(qty).flatten
     Hash[*top]

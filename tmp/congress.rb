@@ -1,23 +1,23 @@
 module NewYorkTimes
-  
+
   class Congress
     include HTTParty
     format :xml
-    
+
     API_KEY = APP_CONFIG[:nyt_congress_api_key]
-    
+
     # httparty 'http://api.nytimes.com/svc/politics/v2/us/legislative/congress/members/L000447.xml?api-key=api-key=434d438096f2f9dc0f9f3e5b972dde2c:19:25873066'
     def get_legislator_by_bioguide_id(bioguide_id)
       HTTParty.get("http://api.nytimes.com/svc/politics/v2/us/legislative/congress/members/#{bioguide_id}?api-key=#{API_KEY}")
     end
-    
+
     # httparty 'http://api.nytimes.com/svc/politics/v2/us/legislative/congress/members/S001163/votes.xml?api-key=434d438096f2f9dc0f9f3e5b972dde2c:19:25873066'
     def voting_record(bioguide_id)
       Congress.get("http://api.nytimes.com/svc/politics/v2/us/legislative/congress/members/#{bioguide_id}/votes.xml?api-key=#{API_KEY}")
     end
-    
+
   end
-  
+
 end
 
 # <?xml version="1.0"?>

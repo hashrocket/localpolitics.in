@@ -11,7 +11,7 @@ describe LocalitiesController do
       get :index, :q => "12345"
       response.should redirect_to(zip_path("12345"))
     end
-    
+
     it "initializes a locality if there's a query" do
       get :show, :q => "12345"
       assigns[:locality].should_not be_nil

@@ -4,7 +4,7 @@ class LocalitiesController < ApplicationController
       redirect_to zip_path(params[:q])
     end
   end
-  
+
   def show
     zip_code = params[:q]
     @locality = Locality.new(zip_code)

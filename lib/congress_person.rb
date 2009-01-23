@@ -25,16 +25,12 @@ class CongressPerson
               "D" => "Democrat",
               "I" => "Independent",
               "L" => "Libertarian" }
-              
+
   TITLES = { "Rep" => "Representative",
              "Sen" => "Senator"}
 
   # Used to look up campaign contributors
   SM_BASE_URL = "http://data.state-machine.org/candidates/:state_machine_id.xml"
-
-  MAP.keys.each do |name|
-    attr_reader name
-  end
 
   def initialize(legislator)
     MAP.each do |name, attribute|
@@ -50,7 +46,7 @@ class CongressPerson
   def party
     PARTIES[@party] || @party
   end
-  
+
   def title
     TITLES[@title] || @title
   end
@@ -58,10 +54,13 @@ class CongressPerson
   def photo_path
     "/images/congresspeople/#{photo_id}.jpg"
   end
-  
+
+  # Returns an array of Arrays, largest contribution to smallest:
+  # [["Name", "5000"], ["Other Name", "550"]]
   def top_contributors(qty = 10)
-    top = contributors.sort {|a,b| a[1]<=>b[1]}.reverse.first(qty).flatten
-    Hash[*top]
+    contributors.sort_by do |contributor, amount|
+      amount.to_i
+    end.reverse.first(qty)
   end
 
   def contributors
@@ -90,6 +89,11 @@ class CongressPerson
 
   def contributions_url
     SM_BASE_URL.sub(/:state_machine_id/, state_machine_id)
+  end
+
+  # Create readers for each API attribute, unless they are already defined
+  MAP.keys.each do |name|
+    attr_reader name unless instance_methods.include?(name)
   end
 end
 

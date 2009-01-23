@@ -9,37 +9,34 @@ class Locality
     @geocoder = coder
   end
 
-  def initialize(zip)
-    @zip = zip
-    
-    # don't need this yet
-    # result = self.class.geocoder.locate(data)
-    # @postal_code = result.postal_code
-    # @latitude, @longitude = result.coordinates
+  def initialize(location_data)
+    @location_data = location_data
+    @postal_code, @latitude, @longitude = *nil
   end
-  
+
+  def geocode
+    return if @postal_code
+    location = self.class.geocoder.locate(@location_data)
+    @postal_code = location.postal_code
+    @latitude, @longitude = location.coordinates
+  end
+
   def legislators
-    @legislators ||= Legislator.all_for_zip(@zip)
+    geocode
+    @legislators ||= Legislator.all_for :latitude => @latitude,
+                                        :longitude => @longitude
   end
 
-  def senior_senator
-    @senior_senator ||= 
-      CongressPerson.new(Legislator.new(legislators.detect { |p| p["legislator"]["district"] == "Senior Seat"}["legislator"]))
+  %w(senior_senator junior_senator representative).each do |role|
+    class_eval <<-CODE
+      def #{role}
+        @#{role} ||= CongressPerson.new(legislators[:#{role}])
+      end
+    CODE
   end
 
-  def junior_senator
-    @junior_senator ||=
-      CongressPerson.new(Legislator.new(legislators.detect { |p| p["legislator"]["district"] == "Junior Seat"}["legislator"]))
-  end
-
-  def representative
-    @representative ||=
-      CongressPerson.new(Legislator.new(legislators.detect { |p| p["legislator"]["district"] =~ /\d+/}["legislator"]))
-  end
-  
   def top_donors
-    @donors ||= NewYorkTimes::CampaignFinance.donor_search_by_postal_code(@zip)
+    @donors ||= NewYorkTimes::CampaignFinance.donor_search_by_postal_code(@postal_code)
   end
-
 end
 

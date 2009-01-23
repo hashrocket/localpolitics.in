@@ -47,16 +47,20 @@ Spec::Runner.configure do |config|
 end
 
 class FakeGeocoder
-  Location = Struct.new :latitude, :longitude, :postal_code
   def initialize(api_key)
   end
 
+  Location = Struct.new :latitude, :longitude, :postal_code, :coordinates
   def locate(place)
-    Location.new fake_data
+    data = fake_data
+    Location.new data[:latitude], data[:longitude],
+                 data[:postal_code], [data[:latitude], data[:longitude]]
   end
 
   def fake_data
-    { :latitude => "30.3177", :longitude => "-81.41416", :postal_code => "32250" }
+    { :latitude => "30.3177",
+      :longitude => "-81.41416",
+      :postal_code => "32250" }
   end
 end
 

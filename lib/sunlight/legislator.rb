@@ -94,9 +94,9 @@ module Sunlight
     def self.all_where(params)
 
       url = construct_url("legislators.getList", params)
-      
+
       if (result = get_json_data(url))
-        
+
         legislators = []
         result["response"]["legislators"].each do |legislator|
           legislators << Legislator.new(legislator["legislator"])
