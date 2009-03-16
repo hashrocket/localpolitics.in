@@ -1,6 +1,7 @@
 require 'timeout'
 
 class CongressPerson
+
   # Maps our attributes to Sunlight API's (for now)
   MAP = { "first_name"        => "firstname",
           "last_name"         => "lastname",
@@ -32,10 +33,25 @@ class CongressPerson
   # Used to look up campaign contributors
   SM_BASE_URL = "http://data.state-machine.org/candidates/:state_machine_id.xml"
 
+  CANDIDATE_SUMMARY_KEYS = OpenSecrets::CandidateSummary::READERS - CongressPerson::MAP.symbolize_keys.keys
+  attr_reader *CANDIDATE_SUMMARY_KEYS
+
+  def summary_attributes
+    CANDIDATE_SUMMARY_KEYS - [:cand_name, :chamber, :cid, :cycle, :last_updated, :origin, :source]
+  end
+
+  def currency_attribute?(attribute)
+    [:spent, :cash_on_hand, :total, :debt].include?(attribute)
+  end
+
   def initialize(legislator)
     MAP.each do |name, attribute|
       val = legislator.send(attribute)
       instance_variable_set("@#{name}", val)
+    end
+    summary = OpenSecrets::CandidateSummary.new(@crp_id)
+    OpenSecrets::CandidateSummary::READERS.each do |reader|
+      instance_variable_set("@#{reader}", summary.send(reader)) unless instance_variable_get("@#{reader}")
     end
   end
 
