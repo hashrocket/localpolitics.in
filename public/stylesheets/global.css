@@ -14,6 +14,8 @@ body {
 }
 
 p { margin-bottom: .8em; }
+p.small_margin { margin-bottom: .5em; }
+
 small { font-size: 90%; }
 
 /* links
@@ -254,7 +256,7 @@ h1#logo span {
         margin-bottom: 10px; 
         border: 1px solid #ccc; 
       }
-      .profile span {
+      div.meta span {
         padding: 5px;
         font-weight: bold;
         color: #fff;
@@ -347,3 +349,10 @@ h1#logo span {
   line-height:1.875em;
   margin-bottom:1.5em;
 }
+
+  #representative_information .photo {
+    width: 100px;
+  }
+  #representative_information .basic_info {
+    padding: 0;
+  }

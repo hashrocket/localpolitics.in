@@ -7,7 +7,7 @@ describe CongressPeopleController do
       @congress_person = CongressPerson.new(@legislator)
     end
     it "should load the correct congress person" do
-      CongressPerson.expects(:new).with('the id').returns(@congress_person)
+      Legislator.expects(:where).with(:crp_id => 'the id').returns(@legislator)
       get :show, :id => 'the id'
     end
   end

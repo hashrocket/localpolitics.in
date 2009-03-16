@@ -26,4 +26,11 @@ describe ApplicationHelper do
       twitter_link_for(@representative).should be_nil
     end
   end
+
+  describe "title_and_full_name_for" do
+    it "should return the correct string" do
+      representative = stub('representative', :title => 'Title', :full_name => 'First Last')
+      title_and_full_name_for(representative).should == "Title First Last"
+    end
+  end
 end

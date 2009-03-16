@@ -1,1 +1,25 @@
-= render :partial => "localities/representative", :locals => {:representative => @congress_person}
+#representative_information
+  .photo
+    %img{ :src => @congress_person.photo_path, :alt => @congress_person.full_name }
+  .basic_info
+    %h3= title_and_full_name_for(@congress_person)
+    .meta
+      %p
+        = party_for(@congress_person)
+      %p.small_margin
+        = district_id_for(@congress_person)
+    %ul.contact
+      %li
+        = link_to "Get In Contact", @congress_person.website_url
+        = twitter_link_for(@congress_person)
+  - if @congress_person.has_candidate_summary?
+    .clear.double_content_border
+    .clear
+      - @congress_person.summary_attributes.each do |attribute|
+        - if @congress_person.currency_attribute?(attribute)
+          == #{attribute.to_s.humanize}: #{number_to_currency(@congress_person.send(attribute))}
+        - else
+          == #{attribute.to_s.humanize}: #{@congress_person.send(attribute)}
+        %br/
+  - else
+    .clear

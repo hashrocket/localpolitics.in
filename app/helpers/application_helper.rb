@@ -9,4 +9,8 @@ module ApplicationHelper
       link_to "Follow On Twitter", twitter_url_for(representative)
     end
   end
+
+  def title_and_full_name_for(representative)
+    "#{representative.title} #{representative.full_name}"
+  end
 end

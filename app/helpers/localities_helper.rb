@@ -5,6 +5,7 @@ module LocalitiesHelper
   end
 
   def district_id_for(representative)
-    representative.senator? ? representative.district : "District ID: #{representative.district}"
+    text = representative.senator? ? representative.district : "District ID: #{representative.district}"
+    text += " in #{representative.state}"
   end
 end
