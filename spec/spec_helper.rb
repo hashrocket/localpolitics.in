@@ -67,12 +67,20 @@ end
 Locality.geocoder = FakeGeocoder.new "foo"
 Subscription.geocoder = FakeGeocoder.new "baz"
 
-def fake_legislator_response
+def fake_legislators_response
   {"response"=>{"legislators"=>[{"legislator"=>{"eventful_id"=>"P0-001-000016104-5", "congresspedia_url"=>"http://www.opencongress.org/wiki/Bill_Nelson", "webform"=>"http://billnelson.senate.gov/contact/email.cfm", "title"=>"Sen", "nickname"=>"", "crp_id"=>"N00009926", "district"=>"Senior Seat", "senate_class"=>"I", "fec_id"=>"S8FL00166", "middlename"=>"", "in_office"=>1, "gender"=>"M", "lastname"=>"Nelson", "firstname"=>"Bill", "website"=>"http://billnelson.senate.gov/", "bioguide_id"=>"N000032", "twitter_id"=>"", "phone"=>"202-224-5274", "congress_office"=>"716 Hart Senate Office Building", "govtrack_id"=>"300078", "fax"=>"202-228-2183", "sunlight_old_id"=>"fakeopenID509", "youtube_url"=>"http://www.youtube.com/SenBillNelson", "official_rss"=>"", "name_suffix"=>"Sr.", "votesmart_id"=>"30880", "email"=>"", "party"=>"D", "state"=>"FL"}}]}}
 end
 
 def fake_legislator
-  Legislator.new(fake_legislator_response["response"]["legislators"].first["legislator"])
+  Legislator.new(fake_legislators_response["response"]["legislators"].first["legislator"])
+end
+
+def fake_legislator_response
+  {"response"=>{"legislator"=>{"eventful_id"=>"P0-001-000016104-5", "congresspedia_url"=>"http://www.opencongress.org/wiki/Bill_Nelson", "webform"=>"http://billnelson.senate.gov/contact/email.cfm", "title"=>"Sen", "nickname"=>"", "crp_id"=>"N00009926", "district"=>"Senior Seat", "senate_class"=>"I", "fec_id"=>"S8FL00166", "middlename"=>"", "in_office"=>1, "gender"=>"M", "lastname"=>"Nelson", "firstname"=>"Bill", "website"=>"http://billnelson.senate.gov/", "bioguide_id"=>"N000032", "twitter_id"=>"", "phone"=>"202-224-5274", "congress_office"=>"716 Hart Senate Office Building", "govtrack_id"=>"300078", "fax"=>"202-228-2183", "sunlight_old_id"=>"fakeopenID509", "youtube_url"=>"http://www.youtube.com/SenBillNelson", "official_rss"=>"", "name_suffix"=>"Sr.", "votesmart_id"=>"30880", "email"=>"", "party"=>"D", "state"=>"FL"}}}
+end
+
+def stub_out_legislator_get_json_data
+  Legislator.stubs(:get_json_data).returns(fake_legislator_response)
 end
 
 def stub_out_open_secrets_new

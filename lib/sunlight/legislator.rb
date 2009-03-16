@@ -88,21 +88,25 @@ module Sunlight
     #   dudes = Legislator.all_where(:gender => "M")
     #
     def self.all_where(params)
-
       url = construct_url("legislators.getList", params)
-
       if (result = get_json_data(url))
-
         legislators = []
         result["response"]["legislators"].each do |legislator|
           legislators << Legislator.new(legislator["legislator"])
         end
         legislators
-
-      else  
+      else
         nil
-      end # if response.class
+      end
+    end
 
+    def self.where(params)
+      url = construct_url("legislators.get", params)
+      if (result = get_json_data(url))
+        Legislator.new(result["response"]["legislator"])
+      else
+        nil
+      end
     end
 
 
