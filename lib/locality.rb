@@ -14,8 +14,6 @@ class Locality
     class_eval <<-CODE
       def #{role}
         @#{role} ||= CongressPerson.new(legislators[:#{role}])
-      rescue
-        legislators[:#{role}]
       end
     CODE
   end

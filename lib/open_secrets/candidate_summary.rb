@@ -34,7 +34,9 @@ module OpenSecrets
     end
 
     def empty_response
-      {"response" => {"summary" => []}}
+      summary = {}
+      READERS.each{|r| summary[r] = nil }
+      {"response" => {"summary" => summary}}
     end
 
     def formatted_return_value(input)

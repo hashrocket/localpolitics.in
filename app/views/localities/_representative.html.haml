@@ -8,7 +8,7 @@
       %p
         = party_for(representative)
       %p{:style => "margin-bottom:0.5em;"}
-        == District ID: #{representative.district}
+        = district_id_for(representative)
     %ul.contact
       %li
         = link_to "Get In Contact", representative.website_url
