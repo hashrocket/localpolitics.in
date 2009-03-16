@@ -1,58 +1,10 @@
 = render :partial => 'form'
 
-- representative = @locality.representative
-- senior_senator = @locality.senior_senator
-- junior_senator = @locality.junior_senator
+- representatives = [@locality.representative, @locality.senior_senator, @locality.junior_senator]
 
 #representative_information
   %h2
     My Local Congress People
-  .representative_container
-    .representative
-      .profile
-        %img{ :src => representative.photo_path, :alt => representative.full_name }
-        %h3
-          = representative.full_name
-          .small= representative.title
-        .meta
-          %p
-            = party_for(representative)
-          %p
-            == District ID: #{representative.district}
-        %ul.contact
-          %li
-            = link_to "Contact Your Representative", representative.website_url
-
-  .representative_container.odd
-    .representative
-      .profile
-        %img{ :src => senior_senator.photo_path, :alt => senior_senator.full_name }
-        %h3
-          = senior_senator.full_name
-          .small= senior_senator.title
-        .meta
-          %p
-            = party_for(senior_senator)
-          %p
-            == District ID: #{senior_senator.district}
-        %ul.contact
-          %li
-            = link_to "Contact Your Senator", senior_senator.website_url
-
-  .representative_container
-    .representative
-      .profile
-        %img{ :src => junior_senator.photo_path, :alt => junior_senator.full_name }
-        %h3
-          = junior_senator.full_name
-          .small= junior_senator.title
-        .meta
-          %p
-            = party_for(junior_senator)
-          %p
-            == District ID: #{junior_senator.district}
-        %ul.contact
-          %li
-            = link_to "Contact Your Senator", junior_senator.website_url
+  = render :partial => "representative", :collection => representatives
 
 = render :partial => 'donor_information' unless @top_ten_donors.nil?
