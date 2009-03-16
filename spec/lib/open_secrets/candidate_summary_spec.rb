@@ -48,7 +48,7 @@ describe OpenSecrets::CandidateSummary do
     end
     it "returns an empty response if we're over our call limit" do
       HTTParty.stubs(:get).returns("call limit has been reached")
-      @candidate.summary_result('N00012739').should == {"response" => {"summary" => []}}
+      @candidate.summary_result('N00012739')["response"]["summary"].values.all?{|v| v.nil?}.should be_true
     end
   end
 
