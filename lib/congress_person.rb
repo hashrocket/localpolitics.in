@@ -59,6 +59,10 @@ class CongressPerson
     CANDIDATE_SUMMARY_KEYS.any?{|r| !self.send(r).blank? }
   end
 
+  def senator?
+    title == "Senator"
+  end
+
   def full_name
     first_name + " " + last_name
   end

@@ -47,4 +47,13 @@ describe CongressPerson do
   it "knows when it doesn't have OpenSecrets data" do
     @congress_person.has_candidate_summary?.should be_false
   end
+
+  it "knows if it is a senator" do
+    @congress_person.stubs(:title).returns('Senator')
+    @congress_person.should be_a_senator
+  end
+  it "knows if it is not a senator" do
+    @congress_person.stubs(:title).returns('Representative')
+    @congress_person.should_not be_a_senator
+  end
 end
