@@ -36,14 +36,6 @@ class CongressPerson
   CANDIDATE_SUMMARY_KEYS = OpenSecrets::CandidateSummary::READERS - CongressPerson::MAP.symbolize_keys.keys
   attr_reader *CANDIDATE_SUMMARY_KEYS
 
-  def summary_attributes
-    CANDIDATE_SUMMARY_KEYS - [:cand_name, :chamber, :cid, :cycle, :last_updated, :origin, :source]
-  end
-
-  def currency_attribute?(attribute)
-    [:spent, :cash_on_hand, :total, :debt].include?(attribute)
-  end
-
   def initialize(legislator)
     MAP.each do |name, attribute|
       val = legislator.send(attribute)
@@ -53,6 +45,14 @@ class CongressPerson
     OpenSecrets::CandidateSummary::READERS.each do |reader|
       instance_variable_set("@#{reader}", summary.send(reader)) unless instance_variable_get("@#{reader}")
     end
+  end
+
+  def summary_attributes
+    CANDIDATE_SUMMARY_KEYS - [:cand_name, :chamber, :cid, :cycle, :last_updated, :origin, :source]
+  end
+
+  def currency_attribute?(attribute)
+    [:spent, :cash_on_hand, :total, :debt].include?(attribute)
   end
 
   def has_candidate_summary?
