@@ -12,6 +12,7 @@ class CongressPerson
           "fax_number"        => "fax",
           "email_address"     => "email",
           "website_url"       => "website",
+          "twitter_id"        => "twitter_id",
           "contact_form_url"  => "webform",
           "photo_id"          => "bioguide_id",
           "congresspedia_url" => "congresspedia_url",
