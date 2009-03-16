@@ -2,7 +2,7 @@
   %div{:style => "float: left; width: 100px; padding-right: 5px;"}
     %img{ :src => representative.photo_path, :alt => representative.full_name }
   %div{:style => "padding: 0; float: right; width: 120px;"}
-    = representative.full_name
+    = link_to representative.full_name, congress_person_path(representative.crp_id)
     .title= representative.title
     .meta
       %p
@@ -12,6 +12,7 @@
     %ul.contact
       %li
         = link_to "Get In Contact", representative.website_url
+        = twitter_link_for(representative)
   - if representative.has_candidate_summary?
     .clear.double_content_border
     .clear
