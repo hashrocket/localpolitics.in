@@ -9,12 +9,12 @@ module OpenSecrets
       result_data = summary_result(crp_id)
       candidate = result_data["response"]["summary"]
       candidate.each do |key, value|
-        instance_variable_set("@#{key}", value) if READERS.include?(key)
+        instance_variable_set("@#{key}", formatted_return_value(value)) if READERS.include?(key.to_sym)
       end
     end
 
-    def name
-      @cand_name.split(/,\s*/).reverse.join(" ") if @cand_name
+    def full_name
+      @cand_name.split(/,\s*/).reverse.join(" ").squeeze if @cand_name
     end
 
     def summary_result(crp_id)
@@ -27,6 +27,25 @@ module OpenSecrets
         "<xml></xml>"
       end
     end
+
+    def formatted_return_value(input)
+      if numeric?(input)
+        input.to_i
+      elsif date?(input)
+        Date.parse(input)
+      else
+        input
+      end
+    end
+
+    def date?(value)
+      true if Date.parse(value) rescue false
+    end
+
+    def numeric?(value)
+      true if Float(value) rescue false
+    end
+
   end
 end
 
