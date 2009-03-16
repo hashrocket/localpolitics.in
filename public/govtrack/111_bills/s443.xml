@@ -1,0 +1,31 @@
+<bill session="111" type="s" number="443" updated="2009-03-07T14:26:06-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="short" as="introduced">Hoh Indian Tribe Safe Homelands Act</title>
+		<title type="official" as="introduced">A bill to transfer certain land to the United States to be held in trust for the Hoh Indian Tribe, to place land into trust for the Hoh Indian Tribe, and for other purposes.</title>
+	</titles>
+	<sponsor id="300076"/>
+	<cosponsors>
+		<cosponsor id="300018" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Read twice and referred to the Committee on Indian Affairs.</text><reference label="text of measure as introduced" ref="CR S2330-2331"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Indian Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="1061" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

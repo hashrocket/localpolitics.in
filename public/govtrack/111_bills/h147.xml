@@ -1,0 +1,80 @@
+<bill session="111" type="h" number="147" updated="2009-03-07T10:05:03-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow taxpayers to designate a portion of their income tax payment to provide assistance to homeless veterans, and for other purposes.</title>
+	</titles>
+	<sponsor id="400195"/>
+	<cosponsors>
+		<cosponsor id="400663" joined="2009-02-25"/>
+		<cosponsor id="400133" joined="2009-01-21"/>
+		<cosponsor id="400031" joined="2009-02-09"/>
+		<cosponsor id="412258" joined="2009-02-13"/>
+		<cosponsor id="412229" joined="2009-02-09"/>
+		<cosponsor id="400219" joined="2009-01-06"/>
+		<cosponsor id="400337" joined="2009-01-08"/>
+		<cosponsor id="400048" joined="2009-01-21"/>
+		<cosponsor id="412209" joined="2009-01-13"/>
+		<cosponsor id="412193" joined="2009-01-06"/>
+		<cosponsor id="400257" joined="2009-01-06"/>
+		<cosponsor id="412263" joined="2009-02-09"/>
+		<cosponsor id="400270" joined="2009-02-09"/>
+		<cosponsor id="400263" joined="2009-02-13"/>
+		<cosponsor id="400618" joined="2009-02-13"/>
+		<cosponsor id="400162" joined="2009-01-21"/>
+		<cosponsor id="400346" joined="2009-02-09"/>
+		<cosponsor id="400183" joined="2009-01-08"/>
+		<cosponsor id="412222" joined="2009-02-09"/>
+		<cosponsor id="412204" joined="2009-01-06"/>
+		<cosponsor id="400282" joined="2009-01-21"/>
+		<cosponsor id="400426" joined="2009-02-09"/>
+		<cosponsor id="412224" joined="2009-02-13"/>
+		<cosponsor id="412234" joined="2009-01-13"/>
+		<cosponsor id="400178" joined="2009-01-06"/>
+		<cosponsor id="412232" joined="2009-02-25"/>
+		<cosponsor id="400360" joined="2009-02-09"/>
+		<cosponsor id="400271" joined="2009-01-06"/>
+		<cosponsor id="400170" joined="2009-02-13"/>
+		<cosponsor id="400638" joined="2009-01-27"/>
+		<cosponsor id="400344" joined="2009-01-13"/>
+		<cosponsor id="412228" joined="2009-01-06"/>
+		<cosponsor id="412316" joined="2009-03-04"/>
+		<cosponsor id="400274" joined="2009-01-08"/>
+		<cosponsor id="400283" joined="2009-01-08"/>
+		<cosponsor id="400204" joined="2009-01-13"/>
+		<cosponsor id="400042" joined="2009-01-06"/>
+		<cosponsor id="412301" joined="2009-02-13"/>
+		<cosponsor id="400285" joined="2009-01-27"/>
+		<cosponsor id="400130" joined="2009-01-08"/>
+		<cosponsor id="400437" joined="2009-01-06"/>
+		<cosponsor id="400316" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Ways and Means</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Veterans' Affairs</text></action>
+		<action date="1231218000" datetime="2009-01-06"><committee name="House Veterans' Affairs"/><text>Referred to the Subcommittee on Economic Opportunity.</text></action>
+		<action date="1236142800" datetime="2009-03-04"><committee name="House Veterans' Affairs" subcommittee="Economic Opportunity"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Referral, Hearings" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Government trust funds"/>
+		<term name="Tax administration and collection, taxpayers"/>
+		<term name="Veterans' loans, housing, homeless programs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Amends the Internal Revenue Code to establish in the Treasury the Homeless Veterans Assistance Fund and to allow individual taxpayers to designate on their tax returns $3.00 of income taxes ($6.00 in the case of joint returns) to be paid over to such Fund to provide assistance to homeless veterans.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="111" type="h" number="366" updated="2009-03-07T10:30:33-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Ocean Research and Exploration Enhancement Act of 2009</title>
+		<title type="short" as="introduced">NOAA Undersea Research Program Act of 2009</title>
+		<title type="official" as="introduced">To establish the national ocean exploration program and the national undersea research program within the National Oceanic and Atmospheric Administration, to direct the Administrator of the National Oceanic and Atmospheric Administration to establish and maintain an undersea research program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400129"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2009-01-09"/>
+		<cosponsor id="412307" joined="2009-01-22"/>
+		<cosponsor id="400266" joined="2009-01-09"/>
+		<cosponsor id="400119" joined="2009-01-09"/>
+		<cosponsor id="412219" joined="2009-01-09"/>
+		<cosponsor id="400062" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the Committee on Science and Technology, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to House Science and Technology</text></action>
+		<action date="1231477200" datetime="2009-01-09"><committee name="House Science and Technology"/><text>Referred to the Subcommittee on Energy and Environment.</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to House Natural Resources</text></action>
+		<action date="1233723600" datetime="2009-02-04"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Science and Technology" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Science and Technology" subcommittee="Energy and Environment" activity="Referral" />
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Insular Affairs, Oceans and Wildlife" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="172" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Advisory bodies"/>
+		<term name="Government information and archives"/>
+		<term name="Great Lakes"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Public-private cooperation"/>
+		<term name="Research administration and funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Ocean Research and Exploration Enhancement Act of 2009 - Requires the Administrator of the National Oceanic and Atmospheric Administration (NOAA) to: (1) establish within NOAA a coordinated national ocean exploration program that promotes collaboration with other federal ocean and undersea research and exploration programs; (2) convene an ocean exploration and undersea research technology and infrastructure task force; and (3) appoint an Ocean Exploration Advisory Board. NOAA Undersea Research Program Act of 2009 - Requires the Administrator to establish and maintain an undersea research program to increase scientific knowledge essential for the informed management, use, and preservation of oceanic, marine, and coastal areas and the Great Lakes. Requires that the program be conducted through a national headquarters, a network of extramural regional undersea research centers that represent all relevant NOAA regions, and the National Institute for Undersea Science and Technology. Requires that funding for projects conducted through the regional centers be awarded through a competitive, merit-reviewed process.<br/>
+	</summary>
+</bill>

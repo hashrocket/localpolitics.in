@@ -1,0 +1,48 @@
+<bill session="111" type="h" number="17" updated="2009-03-07T09:49:29-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Citizens' Self-Defense Act of 2009</title>
+		<title type="official" as="introduced">To protect the right to obtain firearms for security, and to use firearms in defense of self, family, or home, and to provide for the enforcement of such right.</title>
+	</titles>
+	<sponsor id="400017"/>
+	<cosponsors>
+		<cosponsor id="400640" joined="2009-02-10"/>
+		<cosponsor id="400273" joined="2009-02-10"/>
+		<cosponsor id="400057" joined="2009-02-03"/>
+		<cosponsor id="400376" joined="2009-02-26"/>
+		<cosponsor id="400368" joined="2009-02-10"/>
+		<cosponsor id="412196" joined="2009-02-24"/>
+		<cosponsor id="400165" joined="2009-02-24"/>
+		<cosponsor id="412256" joined="2009-02-10"/>
+		<cosponsor id="400260" joined="2009-03-03"/>
+		<cosponsor id="400040" joined="2009-02-03"/>
+		<cosponsor id="412295" joined="2009-01-21"/>
+		<cosponsor id="400341" joined="2009-01-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Civil actions and liability"/>
+		<term name="Firearms"/>
+		<term name="Lawyers and legal services"/>
+		<term name="Violent crime"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Citizens' Self-Defense Act of 2009 - Declares that a person not prohibited under the Brady Handgun Violence Prevention Act from receiving a firearm shall have the right to obtain firearms for security and to use firearms in defense of: (1) self or family against a reasonably perceived threat of imminent and unlawful infliction of serious bodily injury; (2) self or family in the course of the commission by another person of a violent felony against the person or a member of the person's family; and (3) the person's home in the course of the commission of a felony by another person. Authorizes persons whose rights under this Act have been violated to bring an action in U.S. district court against the United States, any state, or any person for damages, injunctive relief, and such other relief as the court deems appropriate.<br/>
+	</summary>
+</bill>

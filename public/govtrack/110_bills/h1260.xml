@@ -1,0 +1,55 @@
+<bill session="110" type="h" number="1260" updated="2009-01-08T19:28:19-05:00">
+	<status><enacted date="1186632000" datetime="2007-08-09" /></status>
+
+	<introduced date="1172725200" datetime="2007-03-01"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 6301 Highway 58 in Harrison, Tennessee, as the &quot;Claude Ramsey Post Office&quot;.</title>
+	</titles>
+	<sponsor id="400421"/>
+	<cosponsors>
+		<cosponsor id="400155" joined="2007-03-27"/>
+		<cosponsor id="400096" joined="2007-04-25"/>
+		<cosponsor id="400116" joined="2007-04-25"/>
+		<cosponsor id="412235" joined="2007-03-27"/>
+		<cosponsor id="400395" joined="2007-03-27"/>
+		<cosponsor id="400081" joined="2007-04-16"/>
+		<cosponsor id="412236" joined="2007-03-27"/>
+		<cosponsor id="400032" joined="2007-04-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1172725200" datetime="2007-03-01"><text>Sponsor introductory remarks on measure. (CR E441)</text></action>
+		<action date="1172725200" datetime="2007-03-01"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1177992000" datetime="2007-05-01"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1177992000" datetime="2007-05-01" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1179200220" datetime="2007-05-14T12:37:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1179200220" datetime="2007-05-14T12:37:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4922-4923"/></action>
+		<action date="1179200220" datetime="2007-05-14T12:37:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1260.</text></action>
+		<vote date="1179200580" how="by voice vote" datetime="2007-05-14T12:43:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H4922"/></vote>
+		<action date="1179201600" datetime="2007-05-15"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1181102400" datetime="2007-06-06"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+		<calendar date="1185940800" datetime="2007-08-01" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1185940800" datetime="2007-08-01"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="302" date="1185940800" datetime="2007-08-01" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 302.</text></calendar>
+		<vote date="1186113600" how="by Unanimous Consent" datetime="2007-08-03" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10978-10979"/></vote>
+		<topresident date="1186113600" datetime="2007-08-03" ><text>Cleared for White House.</text></topresident>
+		<action date="1186200000" datetime="2007-08-04"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1186372800" datetime="2007-08-06" ><text>Presented to President.</text></topresident>
+		<signed date="1186632000" datetime="2007-08-09" ><text>Signed by President.</text></signed>
+		<enacted number="110-58" date="1186632000" datetime="2007-08-09" type="public" ><text>Became Public Law No: 110-58.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/9/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 6301 Highway 58 in Harrison, Tennessee, as the &quot;Claude Ramsey Post Office.&quot; 
+	</summary>
+</bill>

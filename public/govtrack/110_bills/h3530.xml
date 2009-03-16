@@ -1,0 +1,70 @@
+<bill session="110" type="h" number="3530" updated="2009-01-09T00:17:10-05:00">
+	<status><enacted date="1196398800" datetime="2007-11-30" /></status>
+
+	<introduced date="1189742400" datetime="2007-09-14"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 1400 Highway 41 North in Inverness, Florida, as the &quot;Chief Warrant Officer Aaron Weaver Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400051"/>
+	<cosponsors>
+		<cosponsor id="400279" joined="2007-09-14"/>
+		<cosponsor id="400273" joined="2007-09-14"/>
+		<cosponsor id="400623" joined="2007-09-14"/>
+		<cosponsor id="400430" joined="2007-09-14"/>
+		<cosponsor id="400170" joined="2007-09-14"/>
+		<cosponsor id="412195" joined="2007-09-14"/>
+		<cosponsor id="400344" joined="2007-09-14"/>
+		<cosponsor id="400388" joined="2007-09-14"/>
+		<cosponsor id="412250" joined="2007-09-14"/>
+		<cosponsor id="400427" joined="2007-09-14"/>
+		<cosponsor id="412197" joined="2007-09-14"/>
+		<cosponsor id="412198" joined="2007-09-14"/>
+		<cosponsor id="400086" joined="2007-09-14"/>
+		<cosponsor id="400212" joined="2007-09-14"/>
+		<cosponsor id="400048" joined="2007-09-14"/>
+		<cosponsor id="400044" joined="2007-09-14"/>
+		<cosponsor id="400131" joined="2007-09-14"/>
+		<cosponsor id="400270" joined="2007-09-14"/>
+		<cosponsor id="400439" joined="2007-09-14"/>
+		<cosponsor id="400107" joined="2007-09-14"/>
+		<cosponsor id="400328" joined="2007-09-14"/>
+		<cosponsor id="412196" joined="2007-09-14"/>
+		<cosponsor id="400108" joined="2007-09-14"/>
+		<cosponsor id="400622" joined="2007-09-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1189742400" datetime="2007-09-14"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1190260800" datetime="2007-09-20"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1190260800" datetime="2007-09-20" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1191951120" datetime="2007-10-09T14:32:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1191951180" datetime="2007-10-09T14:33:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11327-11328"/></action>
+		<action date="1191951180" datetime="2007-10-09T14:33:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3530.</text></action>
+		<vote date="1191951540" how="by voice vote" datetime="2007-10-09T14:39:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H11327"/></vote>
+		<action date="1192420800" datetime="2007-10-15"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1192766400" datetime="2007-10-19"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+		<calendar date="1195016400" datetime="2007-11-14" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1195016400" datetime="2007-11-14"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="500" date="1195016400" datetime="2007-11-14" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 500.</text></calendar>
+		<vote date="1195189200" how="by Unanimous Consent" datetime="2007-11-16" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S14656-14657"/></vote>
+		<action date="1195189200" datetime="2007-11-16"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1195189200" datetime="2007-11-16" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1196053200" datetime="2007-11-26" ><text>Presented to President.</text></topresident>
+		<signed date="1196398800" datetime="2007-11-30" ><text>Signed by President.</text></signed>
+		<enacted number="110-130" date="1196398800" datetime="2007-11-30" type="public" ><text>Became Public Law No: 110-130.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/30/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 1400 Highway 41 North in Inverness, Florida, as the &quot;Chief Warrant Officer Aaron Weaver Post Office Building.&quot; 
+	</summary>
+</bill>

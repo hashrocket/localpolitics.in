@@ -1,0 +1,34 @@
+<bill session="111" type="s" number="221" updated="2009-03-07T13:59:37-05:00">
+	<status><introduced date="1231822800" datetime="2009-01-13"/></status>
+
+	<introduced date="1231822800" datetime="2009-01-13"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Commodity Exchange Act to require energy commodities to be traded only on regulated markets, and for other purposes.</title>
+	</titles>
+	<sponsor id="300078"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231822800" datetime="2009-01-13"><text>Sponsor introductory remarks on measure. (CR S338-339)</text></action>
+		<action date="1231822800" datetime="2009-01-13"><text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text><reference label="text of measure as introduced" ref="CR S339"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Agriculture, Nutrition, and Forestry" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Commodities markets"/>
+		<term name="Energy storage, supplies, demand"/>
+		<term name="Oil and gas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

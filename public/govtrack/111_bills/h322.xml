@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="322" updated="2009-03-07T10:25:20-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">Social Security Earnings Test Repeal Act of 2009</title>
+		<title type="official" as="introduced">To amend title II of the Social Security Act to remove the limitation upon the amount of outside income which an individual may earn while receiving benefits under such title, and for other purposes.</title>
+	</titles>
+	<sponsor id="400160"/>
+	<cosponsors>
+		<cosponsor id="400643" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Social security and elderly assistance"/>
+		<term name="Wages and earnings"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Social Security Earnings Test Repeal Act of 2009 - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to remove the limitation on the amount of outside income which a beneficiary may earn (earnings test) without incurring a reduction in benefits.<br/>
+	</summary>
+</bill>

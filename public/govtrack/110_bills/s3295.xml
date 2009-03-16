@@ -1,0 +1,45 @@
+<bill session="110" type="s" number="3295" updated="2009-01-09T18:45:56-05:00">
+	<status><enacted date="1218513600" datetime="2008-08-12" /></status>
+
+	<introduced date="1216612800" datetime="2008-07-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title 35, United States Code, and the Trademark Act of 1946 to provide that the Secretary of Commerce, in consultation with the Director of the United States Patent and Trademark Office, shall appoint administrative patent judges and administrative trademark judges, and for other purposes.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="300092" joined="2008-07-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1216612800" datetime="2008-07-21"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S6976"/></action>
+		<action date="1216699200" datetime="2008-07-22"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S7079"/></action>
+		<vote date="1216699200" how="by Unanimous Consent" datetime="2008-07-22" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="text" ref="CR S7079"/></vote>
+		<action date="1216824180" datetime="2008-07-23T11:43:00-04:00"><text>Received in the House.</text></action>
+		<action date="1216785600" datetime="2008-07-23"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1216785600" datetime="2008-07-23"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1217358540" datetime="2008-07-29T16:09:00-04:00"><text>Mr. Cohen moved to suspend the rules and pass the bill.</text></action>
+		<action date="1217358540" datetime="2008-07-29T16:09:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7233-7235"/></action>
+		<action date="1217358540" datetime="2008-07-29T16:09:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 3295.</text></action>
+		<action date="1217359080" datetime="2008-07-29T16:18:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. King (IA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1217544660" datetime="2008-07-31T19:51:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7707"/></action>
+		<vote date="1217544660" how="by voice vote" datetime="2008-07-31T19:51:00-04:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/29/2008 H7233-7234)</text></vote>
+		<topresident date="1217476800" datetime="2008-07-31" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1217908800" datetime="2008-08-05" ><text>Presented to President.</text></topresident>
+		<signed date="1218513600" datetime="2008-08-12" ><text>Signed by President.</text></signed>
+		<enacted number="110-313" date="1218513600" datetime="2008-08-12" type="public" ><text>Became Public Law No: 110-313.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/12/2008--Public Law. (This measure has not been amended since it was passed by the Senate on July 22, 2008. The summary of that version is repeated here.) Transfers from the director of the United States Patent and Trademark Office (PTO) to the Secretary of Commerce the authority to appoint administrative patent judges and administrative trademark judges. Requires the Secretary to consult with the director on such appointments. Names the PTO's deputy director as an additional member of the Trademark Trial and Appeal Board. Authorizes the Secretary, in his or her discretion, to deem the appointment of an administrative patent judge or an administrative trademark judge who, before enactment, held office pursuant to an appointment by the director to take effect on the date on which the director initially appointed the administrative patent judge. Makes it a defense to a challenge to the appointment of an administrative patent judge or an administrative trademark judge on the basis of the judge's having been originally appointed by the director that the administrative patent judge so appointed was acting as a de facto officer.<br/>
+	</summary>
+</bill>

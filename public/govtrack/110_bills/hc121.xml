@@ -1,0 +1,72 @@
+<bill session="110" type="hc" number="121" updated="2009-01-08T15:42:10-05:00">
+	<status><vote2 date="1179201600" datetime="2007-05-15" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1176955200" datetime="2007-04-19"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the benefits and importance of school-based music education, and for other purposes.</title>
+	</titles>
+	<sponsor id="400081"/>
+	<cosponsors>
+		<cosponsor id="400324" joined="2007-04-19"/>
+		<cosponsor id="400125" joined="2007-04-23"/>
+		<cosponsor id="400063" joined="2007-04-24"/>
+		<cosponsor id="400415" joined="2007-04-23"/>
+		<cosponsor id="400386" joined="2007-04-23"/>
+		<cosponsor id="412236" joined="2007-04-23"/>
+		<cosponsor id="400311" joined="2007-04-24"/>
+		<cosponsor id="400177" joined="2007-04-23"/>
+		<cosponsor id="400116" joined="2007-04-23"/>
+		<cosponsor id="400289" joined="2007-04-23"/>
+		<cosponsor id="400260" joined="2007-04-23"/>
+		<cosponsor id="400395" joined="2007-04-23"/>
+		<cosponsor id="400087" joined="2007-04-23"/>
+		<cosponsor id="400283" joined="2007-04-23"/>
+		<cosponsor id="400263" joined="2007-04-23"/>
+		<cosponsor id="400097" joined="2007-04-23"/>
+		<cosponsor id="400259" joined="2007-04-23"/>
+		<cosponsor id="400080" joined="2007-04-23"/>
+		<cosponsor id="400436" joined="2007-04-24"/>
+		<cosponsor id="400218" joined="2007-04-23"/>
+		<cosponsor id="400215" joined="2007-04-23"/>
+		<cosponsor id="400433" joined="2007-04-23"/>
+		<cosponsor id="400184" joined="2007-04-23"/>
+		<cosponsor id="400282" joined="2007-04-23"/>
+		<cosponsor id="400025" joined="2007-04-23"/>
+		<cosponsor id="412225" joined="2007-04-23"/>
+		<cosponsor id="400378" joined="2007-04-23"/>
+		<cosponsor id="400062" joined="2007-04-24"/>
+		<cosponsor id="400312" joined="2007-04-23"/>
+		<cosponsor id="400179" joined="2007-04-23"/>
+		<cosponsor id="400295" joined="2007-04-23"/>
+		<cosponsor id="400271" joined="2007-04-23"/>
+		<cosponsor id="400096" joined="2007-04-23"/>
+		<cosponsor id="400190" joined="2007-04-24"/>
+		<cosponsor id="400278" joined="2007-04-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1176955200" datetime="2007-04-19"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1177518840" datetime="2007-04-25T13:34:00-04:00"><text>Ms. Clarke moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1177518900" datetime="2007-04-25T13:35:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4082-4083"/></action>
+		<action date="1177518900" datetime="2007-04-25T13:35:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 121.</text></action>
+		<vote date="1177519320" how="by voice vote" datetime="2007-04-25T13:42:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H4082"/></vote>
+		<action date="1177560000" datetime="2007-04-26"><text>Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+		<action date="1179201600" datetime="2007-05-15"><text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text></action>
+		<vote date="1179201600" how="by Unanimous Consent" datetime="2007-05-15" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S6155"/></vote>
+		<action date="1179374400" datetime="2007-05-17"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/15/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Expresses the sense of Congress that music education grounded in rigorous instruction is an important component of a well-rounded academic curriculum and should be available to every student in every school.<br/>
+	</summary>
+</bill>

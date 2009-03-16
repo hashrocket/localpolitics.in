@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="229" updated="2009-03-07T10:14:44-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="official" as="introduced">To provide for the retention of the name of Mount McKinley.</title>
+	</titles>
+	<sponsor id="400352"/>
+	<cosponsors>
+		<cosponsor id="412228" joined="2009-01-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Sponsor introductory remarks on measure. (CR E33)</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Alaska"/>
+		<term name="Parks, recreation areas, trails"/>
+		<term name="Presidential administrations"/>
+		<term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Requires retention of the name of Mount McKinley in Alaska. 
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="110" type="h" number="3454" updated="2009-01-09T00:07:32-05:00">
+	<status><vote date="1197951660" datetime="2007-12-17T12:21:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1186200000" datetime="2007-08-04"/>
+	<titles>
+		<title type="official" as="introduced">To provide for the conveyance of a small parcel of National Forest System land in the George Washington National Forest in Alleghany County, Virginia, that contains the cemetery of the Central Advent Christian Church and an adjoining tract of land located between the cemetery and road boundaries.</title>
+	</titles>
+	<sponsor id="400043"/>
+	<cosponsors>
+		<cosponsor id="400154" joined="2007-08-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1186200000" datetime="2007-08-04"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action date="1197435600" datetime="2007-12-12"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1197435600" datetime="2007-12-12" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1197951420" datetime="2007-12-17T12:17:00-05:00"><text>Mr. Peterson (MN) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1197951420" datetime="2007-12-17T12:17:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H15474-15475"/></action>
+		<action date="1197951420" datetime="2007-12-17T12:17:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3454.</text></action>
+		<vote date="1197951660" how="by voice vote" datetime="2007-12-17T12:21:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H15474"/></vote>
+		<action date="1197954000" datetime="2007-12-18"><text>Received in the Senate.</text></action>
+		<action date="1204174800" datetime="2008-02-28"><text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text></action>
+		<action date="1209096000" datetime="2008-04-25"><text>Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/17/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Directs the Secretary of Agriculture to convey to the Central Advent Christian Church of Alleghany County, Virginia, all interest of the United States in and to a parcel of real property in George Washington National Forest consisting of not more than eight acres, including a cemetery encompassing approximately six acres designated as an area of special use for the Church, as depicted on certain Forest Service maps. Subjects such conveyance to the condition that the Church accept the real property in its condition at the time of conveyance, commonly known as conveyance &quot;as is.&quot; Authorizes the Secretary to require such additional terms and conditions in connection with the conveyance under this Act as the Secretary considers appropriate to protect U.S. interests. 
+	</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="111" type="sr" number="60" updated="2009-03-13T12:03:11-04:00">
+	<status><vote date="1236830400" datetime="2009-03-12" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1235970000" datetime="2009-03-02"/>
+	<titles>
+		<title type="official" as="introduced">A resolution commemorating the 10-year anniversary of the accession of the Czech Republic, the Republic of Hungary, and the Republic of Poland as members of the North Atlantic Treaty Organization.</title>
+	</titles>
+	<sponsor id="412323"/>
+	<cosponsors>
+		<cosponsor id="400621" joined="2009-03-11"/>
+		<cosponsor id="300038" joined="2009-03-09"/>
+		<cosponsor id="300070" joined="2009-03-10"/>
+		<cosponsor id="300034" joined="2009-03-11"/>
+		<cosponsor id="300067" joined="2009-03-09"/>
+		<cosponsor id="412246" joined="2009-03-05"/>
+		<cosponsor id="300007" joined="2009-03-10"/>
+		<cosponsor id="300006" joined="2009-03-09"/>
+		<cosponsor id="300098" joined="2009-03-02"/>
+		<cosponsor id="300073" joined="2009-03-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1235970000" datetime="2009-03-02"><text>Referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S2641"/></action>
+		<action date="1236830400" datetime="2009-03-12"><text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S3091"/></action>
+		<vote date="1236830400" how="by Unanimous Consent" type="vote" datetime="2009-03-12" where="s" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S3091"/></vote>
+	</actions>
+	<committees>
+		<committee name="Senate Foreign Relations" subcommittee="" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Alliances"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Czech Republic"/>
+		<term name="Europe"/>
+		<term name="Hungary"/>
+		<term name="Poland"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="111" type="hr" number="19" updated="2009-03-07T13:02:00-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">Amending the Rules of the House of Representatives to encourage bipartisan amendments.</title>
+	</titles>
+	<sponsor id="400147"/>
+	<cosponsors>
+		<cosponsor id="400648" joined="2009-01-08"/>
+		<cosponsor id="400121" joined="2009-01-08"/>
+		<cosponsor id="412216" joined="2009-01-26"/>
+		<cosponsor id="400660" joined="2009-01-13"/>
+		<cosponsor id="412314" joined="2009-02-03"/>
+		<cosponsor id="400207" joined="2009-01-09"/>
+		<cosponsor id="400119" joined="2009-01-08"/>
+		<cosponsor id="400321" joined="2009-01-23"/>
+		<cosponsor id="400435" joined="2009-01-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Rules.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Rules" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Legislative rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Amends Rule XVI (Motions and Amendments) of the Rules of the House of Representatives to make it in order to consider any amendment offered by at least one Member from the majority party and one Member from the minority party to any bill or resolution that does not violate any rule and that is timely submitted to the Committee on Rules.<br/>
+	</summary>
+</bill>

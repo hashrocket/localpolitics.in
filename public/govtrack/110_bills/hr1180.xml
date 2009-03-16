@@ -1,0 +1,42 @@
+<bill session="110" type="hr" number="1180" updated="2009-01-09T10:21:01-05:00">
+	<status><vote date="1212598920" datetime="2008-06-04T14:02:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1210132800" datetime="2008-05-07"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the efforts and contributions of outstanding women scientists, technologists, engineers, and mathematicians in the United States and around the world on Mother's Day, 2008.</title>
+		<title type="official" as="amended by house">Resolution recognizing the efforts and contributions of outstanding women scientists, technologists, engineers, and mathematicians in the United States and around the world.</title>
+	</titles>
+	<sponsor id="400660"/>
+	<cosponsors>
+		<cosponsor id="400441" joined="2008-05-13"/>
+		<cosponsor id="400165" joined="2008-05-13"/>
+		<cosponsor id="412189" joined="2008-05-13"/>
+		<cosponsor id="400017" joined="2008-05-07"/>
+		<cosponsor id="400570" joined="2008-05-07"/>
+		<cosponsor id="400119" joined="2008-05-07"/>
+		<cosponsor id="400204" joined="2008-05-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1210132800" datetime="2008-05-07"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1212598440" datetime="2008-06-04T13:54:00-04:00"><text>Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1212598440" datetime="2008-06-04T13:54:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4918-4919"/></action>
+		<action date="1212598440" datetime="2008-06-04T13:54:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1180.</text></action>
+		<vote date="1212598920" how="by voice vote" datetime="2008-06-04T14:02:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text></vote>
+		<action date="1212598920" datetime="2008-06-04T14:02:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/4/2008--Passed House amended. Recognizes the important contributions of women to science, technology, engineering, mathematics, and the health of many industries that have created new jobs, boosted economic growth, and improved the nation's competitiveness and standard of living.<br/>Recognizes the need to increase the number of women participating in science, technology, engineering, and mathematics.<br/>Supports the role of women in science, technology, engineering, and mathematics. Encourages the people of the United States to use this Mother's Day to give appropriate recognition not only to our mothers but also to women scientists, technologists, engineers, and mathematicians who have made important contributions to our everyday lives.<br/>
+	</summary>
+</bill>

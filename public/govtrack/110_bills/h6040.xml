@@ -1,0 +1,42 @@
+<bill session="110" type="h" number="6040" updated="2009-01-09T05:21:33-05:00">
+	<status><enacted date="1216094400" datetime="2008-07-15" /></status>
+
+	<introduced date="1210651200" datetime="2008-05-13"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Water Resources Development Act of 2007 to clarify the authority of the Secretary of the Army to provide reimbursement for travel expenses incurred by members of the Committee on Levee Safety.</title>
+	</titles>
+	<sponsor id="400273"/>
+	<cosponsors>
+		<cosponsor id="400040" joined="2008-05-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1210651200" datetime="2008-05-13"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1210737600" datetime="2008-05-14"><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action date="1214250060" datetime="2008-06-23T16:41:00-04:00"><text>Ms. Johnson, E. B. moved to suspend the rules and pass the bill.</text></action>
+		<action date="1214250060" datetime="2008-06-23T16:41:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5824-5826"/></action>
+		<action date="1214250060" datetime="2008-06-23T16:41:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6040.</text></action>
+		<vote date="1214250780" how="by voice vote" datetime="2008-06-23T16:53:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H5824"/></vote>
+		<action date="1214280000" datetime="2008-06-24"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1214366400" how="by Unanimous Consent" datetime="2008-06-25" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6171"/></vote>
+		<topresident date="1214366400" datetime="2008-06-25" ><text>Cleared for White House.</text></topresident>
+		<action date="1214452800" datetime="2008-06-26"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1215403200" datetime="2008-07-07" ><text>Presented to President.</text></topresident>
+		<signed date="1216094400" datetime="2008-07-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-274" date="1216094400" datetime="2008-07-15" type="public" ><text>Became Public Law No: 110-274.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/15/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends the Water Resources Development Act of 2007 to condition reimbursement for travel expenses incurred by members of the Committee on Levee Safety on the availability of appropriations (currently, on amounts being made available in advance in appropriations Acts).<br/>
+	</summary>
+</bill>

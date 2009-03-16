@@ -1,0 +1,39 @@
+<bill session="111" type="sr" number="40" updated="2009-03-07T14:43:06-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating September 2009 as &quot;Campus Fire Safety Month&quot;.</title>
+	</titles>
+	<sponsor id="300064"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="2009-02-12"/>
+		<cosponsor id="412329" joined="2009-02-12"/>
+		<cosponsor id="300025" joined="2009-02-12"/>
+		<cosponsor id="300066" joined="2009-02-12"/>
+		<cosponsor id="400357" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S2249"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="167" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Educational facilities and institutions"/>
+		<term name="Fires"/>
+		<term name="Higher education"/>
+		<term name="Housing industry, construction, standards"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Designates September 2009 as Campus Fire Safety Month. Encourages administrators of institutions of higher education and municipalities to provide fire safety education and implement certain fire prevention measures.<br/>
+	</summary>
+</bill>

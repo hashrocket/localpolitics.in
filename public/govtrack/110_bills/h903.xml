@@ -1,0 +1,44 @@
+<bill session="110" type="h" number="903" updated="2009-01-08T18:42:06-05:00">
+	<status><vote date="1173119340" datetime="2007-03-05T14:29:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1170824400" datetime="2007-02-07"/>
+	<titles>
+		<title type="short" as="introduced">Colorado Northern Front Range Mountain Backdrop Protection Study Act</title>
+		<title type="short" as="passed house">Colorado Northern Front Range Mountain Backdrop Protection Study Act</title>
+		<title type="short" as="reported to senate">Colorado Northern Front Range Mountain Backdrop Protection Study Act</title>
+		<title type="official" as="introduced">To provide for a study of options for protecting the open space characteristics of certain lands in and adjacent to the Arapaho and Roosevelt National Forests in Colorado, and for other purposes.</title>
+	</titles>
+	<sponsor id="400412"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1170824400" datetime="2007-02-07"><text>Sponsor introductory remarks on measure. (CR E280)</text></action>
+		<action date="1170824400" datetime="2007-02-07"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1171342800" datetime="2007-02-13"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1173119100" datetime="2007-03-05T14:25:00-05:00"><text>Mr. Grijalva moved to suspend the rules and pass the bill.</text></action>
+		<action date="1173119100" datetime="2007-03-05T14:25:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2128-2129"/></action>
+		<action date="1173119100" datetime="2007-03-05T14:25:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 903.</text></action>
+		<vote date="1173119340" how="by voice vote" datetime="2007-03-05T14:29:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H2128-2129"/></vote>
+		<action date="1173157200" datetime="2007-03-06"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1204088400" datetime="2008-02-27"><text>Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held.</text></action>
+		<calendar date="1221105600" datetime="2008-09-11" ><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1221537600" datetime="2008-09-16"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="1014" date="1221537600" datetime="2008-09-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1014.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/16/2008--Reported to Senate amended. Colorado Northern Front Range Mountain Backdrop Protection Study Act - Requires the Secretary of Agriculture, acting through the Chief of the Forest Service, to conduct a study of the land within the study area (certain lands in southern Boulder, northern Jefferson, and northern Gilpin Counties, Colorado) and complete a report: (1) identifying the present ownership of the land within the study area; (2) identifying any undeveloped land that may be at risk of development; and (3) describing any actions that could be taken to preserve the open and undeveloped character of the land within the study area. Requires the Secretary to conduct the study and develop the report with the support and participation of one or more specified state and local entities. Allows the Secretary if such state and local entities do not support and participate in the study and report to: (1) decrease the area covered by the study area, as appropriate; or (2) opt not to conduct the study or develop the report and notify specified congressional committees of such decision. Prohibits anything in this Act from authorizing the Secretary of Agriculture to take any action that would affect the use of any land not owned by the United States. 
+	</summary>
+</bill>

@@ -1,0 +1,37 @@
+<bill session="111" type="sc" number="1" updated="2009-03-07T14:35:48-05:00">
+	<status><vote2 date="1231338120" datetime="2009-01-07T10:22:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution to provide for the counting on January 8, 2009, of the electoral votes for President and Vice President of the United States.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="300072" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<vote date="1231218000" how="by Unanimous Consent" datetime="2009-01-06" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S5-6"/><reference label="text as passed Senate" ref="CR S6"/><reference label="text of measure as introduced" ref="CR S150"/></vote>
+		<action date="1231218000" datetime="2009-01-06"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1231338060" datetime="2009-01-07T10:21:00-05:00"><text>Received in the House.</text></action>
+		<action date="1231338120" datetime="2009-01-07T10:22:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H42"/></action>
+		<vote date="1231338120" how="by voice vote" datetime="2009-01-07T10:22:00-05:00" where="h" type="vote2" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H42"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional operations and organization"/>
+		<term name="Elections, voting, political campaign regulation"/>
+		<term name="Presidents and presidential powers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Provides for the counting of the electoral votes for President and Vice President of the United States. 
+	</summary>
+</bill>

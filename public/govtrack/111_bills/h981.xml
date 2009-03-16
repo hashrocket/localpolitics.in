@@ -1,0 +1,54 @@
+<bill session="111" type="h" number="981" updated="2009-03-07T11:43:41-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="short" as="introduced">Cluster Munitions Civilian Protection Act of 2009</title>
+		<title type="official" as="introduced">To limit the use of cluster munitions.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2009-02-13"/>
+		<cosponsor id="400331" joined="2009-02-11"/>
+		<cosponsor id="412199" joined="2009-02-13"/>
+		<cosponsor id="400259" joined="2009-02-11"/>
+		<cosponsor id="400436" joined="2009-02-13"/>
+		<cosponsor id="400162" joined="2009-02-13"/>
+		<cosponsor id="400237" joined="2009-02-13"/>
+		<cosponsor id="400013" joined="2009-02-13"/>
+		<cosponsor id="400178" joined="2009-02-13"/>
+		<cosponsor id="400111" joined="2009-02-23"/>
+		<cosponsor id="400360" joined="2009-02-23"/>
+		<cosponsor id="400129" joined="2009-02-13"/>
+		<cosponsor id="412215" joined="2009-02-11"/>
+		<cosponsor id="400196" joined="2009-02-11"/>
+		<cosponsor id="400185" joined="2009-02-13"/>
+		<cosponsor id="400283" joined="2009-02-11"/>
+		<cosponsor id="400240" joined="2009-02-26"/>
+		<cosponsor id="400636" joined="2009-02-11"/>
+		<cosponsor id="400301" joined="2009-02-13"/>
+		<cosponsor id="400100" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the House Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="416" />
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Arms control and nonproliferation"/>
+		<term name="Congressional oversight"/>
+		<term name="Defense spending"/>
+		<term name="Military operations and strategy"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Introduced.<br/>Cluster Munitions Civilian Protection Act of 2009 - Places specified restrictions on the use of cluster munitions. Directs the President, within 90 days after the use of such munitions, to submit to the congressional defense, appropriations, and foreign relations committees a plan for cleaning up any such munitions or submunitions which fail to explode and continue to pose a hazard to civilians.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="111" type="s" number="543" updated="2009-03-07T12:00:23-05:00">
+	<status><introduced date="1236315600" datetime="2009-03-06"/></status>
+
+	<introduced date="1236315600" datetime="2009-03-06"/>
+	<titles>
+		<title type="official" as="introduced">A bill to require a pilot program on training, certification, and support for family caregivers of seriously disabled veterans and members of the Armed Forces to provide caregiver services to such veterans and members, and for other purposes.</title>
+	</titles>
+	<sponsor id="300038"/>
+	<cosponsors>
+		<cosponsor id="400413" joined="2009-03-06"/>
+		<cosponsor id="300054" joined="2009-03-06"/>
+		<cosponsor id="412326" joined="2009-03-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1236315600" datetime="2009-03-06"><text>Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

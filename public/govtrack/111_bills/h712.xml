@@ -1,0 +1,34 @@
+<bill session="111" type="h" number="712" updated="2009-03-07T11:11:39-05:00">
+	<status><introduced date="1233032400" datetime="2009-01-27"/></status>
+
+	<introduced date="1233032400" datetime="2009-01-27"/>
+	<titles>
+		<title type="short" as="introduced">Pension Security Act of 2009</title>
+		<title type="official" as="introduced">To amend title I of the Employee Retirement Income Security Act of 1974 to require in the annual report of each defined benefit pension plan disclosure of plan investments in hedge funds.</title>
+	</titles>
+	<sponsor id="400070"/>
+	<cosponsors>
+		<cosponsor id="400063" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1233032400" datetime="2009-01-27"><text>Referred to the House Committee on Education and Labor.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Employee benefits and pensions"/>
+		<term name="Financial services and investments"/>
+		<term name="Government information and archives"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/2009--Introduced.<br/>Pension Security Act of 2009 - Amends the Employee Retirement Income Security Act of 1974 (ERISA) to require the financial statement filed with the annual report for a defined benefit pension plan covered by ERISA to include a separate schedule identifying: (1) each hedge fund (i.e., unregistered investment pool) in which plan funds are invested; and (2) the amount invested.<br/>
+	</summary>
+</bill>

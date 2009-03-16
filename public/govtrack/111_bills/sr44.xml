@@ -1,0 +1,34 @@
+<bill session="111" type="sr" number="44" updated="2009-03-07T14:43:34-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="official" as="introduced">An original resolution authorizing expenditures by the Committee on Armed Services.</title>
+	</titles>
+	<sponsor id="300066"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Committee on Armed Services. Original measure reported to Senate by Senator Levin. Without written report.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the Committee on Rules and Administration.</text><reference label="text of measure as introduced" ref="CR S2250-2251"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Armed Services" subcommittee="" activity="Origin, Reporting" />
+		<committee name="Senate Rules and Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional committees"/>
+		<term name="Senate Committee on Armed Services"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

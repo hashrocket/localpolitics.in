@@ -1,0 +1,347 @@
+<bill session="110" type="h" number="4544" updated="2009-01-09T02:17:26-05:00">
+	<status><enacted date="1224043200" datetime="2008-10-15" /></status>
+
+	<introduced date="1197522000" datetime="2007-12-13"/>
+	<titles>
+		<title type="short" as="introduced">Code Talkers Recognition Act of 2007</title>
+		<title type="short" as="enacted">Code Talkers Recognition Act of 2008</title>
+		<title type="official" as="introduced">To require the issuance of medals to recognize the dedication and valor of Native American code talkers.</title>
+	</titles>
+	<sponsor id="400645"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-12-19"/>
+		<cosponsor id="400290" joined="2007-12-17"/>
+		<cosponsor id="400661" joined="2008-01-23"/>
+		<cosponsor id="400253" joined="2008-07-16"/>
+		<cosponsor id="400279" joined="2008-04-17"/>
+		<cosponsor id="412260" joined="2008-05-21"/>
+		<cosponsor id="400041" joined="2007-12-17"/>
+		<cosponsor id="400133" joined="2007-12-19"/>
+		<cosponsor id="400128" joined="2007-12-19"/>
+		<cosponsor id="400620" joined="2008-09-10"/>
+		<cosponsor id="400004" joined="2008-07-16"/>
+		<cosponsor id="400031" joined="2008-07-16"/>
+		<cosponsor id="412229" joined="2008-06-25"/>
+		<cosponsor id="400073" joined="2007-12-19"/>
+		<cosponsor id="412218" joined="2008-09-10"/>
+		<cosponsor id="400280" joined="2008-04-22"/>
+		<cosponsor id="400199" joined="2008-07-14"/>
+		<cosponsor id="400367" joined="2008-09-10"/>
+		<cosponsor id="400337" joined="2007-12-17"/>
+		<cosponsor id="400177" joined="2007-12-19"/>
+		<cosponsor id="400364" joined="2008-07-17"/>
+		<cosponsor id="400257" joined="2008-06-03"/>
+		<cosponsor id="400289" joined="2008-07-10"/>
+		<cosponsor id="400381" joined="2008-07-24"/>
+		<cosponsor id="400616" joined="2008-09-10"/>
+		<cosponsor id="400228" joined="2008-07-09"/>
+		<cosponsor id="400210" joined="2008-04-22"/>
+		<cosponsor id="400160" joined="2007-12-13"/>
+		<cosponsor id="400155" joined="2008-07-22"/>
+		<cosponsor id="400263" joined="2008-07-30"/>
+		<cosponsor id="400618" joined="2008-07-30"/>
+		<cosponsor id="400149" joined="2007-12-13"/>
+		<cosponsor id="400080" joined="2008-05-13"/>
+		<cosponsor id="400376" joined="2008-04-17"/>
+		<cosponsor id="400657" joined="2008-01-16"/>
+		<cosponsor id="400626" joined="2008-07-31"/>
+		<cosponsor id="400162" joined="2008-02-14"/>
+		<cosponsor id="400209" joined="2007-12-13"/>
+		<cosponsor id="400089" joined="2008-06-10"/>
+		<cosponsor id="400336" joined="2007-12-18"/>
+		<cosponsor id="400183" joined="2008-07-15"/>
+		<cosponsor id="400102" joined="2007-12-18"/>
+		<cosponsor id="400660" joined="2008-07-09"/>
+		<cosponsor id="400282" joined="2007-12-19"/>
+		<cosponsor id="412224" joined="2008-07-24"/>
+		<cosponsor id="412234" joined="2008-07-16"/>
+		<cosponsor id="412225" joined="2007-12-13"/>
+		<cosponsor id="400302" joined="2008-05-14"/>
+		<cosponsor id="400403" joined="2007-12-19"/>
+		<cosponsor id="400246" joined="2008-06-03"/>
+		<cosponsor id="400635" joined="2007-12-18"/>
+		<cosponsor id="400333" joined="2008-01-15"/>
+		<cosponsor id="400295" joined="2008-04-24"/>
+		<cosponsor id="400623" joined="2008-01-16"/>
+		<cosponsor id="400271" joined="2008-07-22"/>
+		<cosponsor id="400096" joined="2008-07-24"/>
+		<cosponsor id="400430" joined="2007-12-17"/>
+		<cosponsor id="400129" joined="2008-01-15"/>
+		<cosponsor id="400170" joined="2008-07-15"/>
+		<cosponsor id="412190" joined="2008-09-18"/>
+		<cosponsor id="412195" joined="2008-08-01"/>
+		<cosponsor id="400313" joined="2008-06-19"/>
+		<cosponsor id="400065" joined="2008-07-22"/>
+		<cosponsor id="400633" joined="2008-08-01"/>
+		<cosponsor id="400297" joined="2008-09-10"/>
+		<cosponsor id="400443" joined="2007-12-19"/>
+		<cosponsor id="412230" joined="2007-12-13"/>
+		<cosponsor id="412215" joined="2008-09-10"/>
+		<cosponsor id="400191" joined="2008-07-31"/>
+		<cosponsor id="400344" joined="2008-08-01"/>
+		<cosponsor id="400268" joined="2008-09-10"/>
+		<cosponsor id="400063" joined="2008-07-23"/>
+		<cosponsor id="400379" joined="2008-07-29"/>
+		<cosponsor id="400276" joined="2008-09-15"/>
+		<cosponsor id="400361" joined="2007-12-17"/>
+		<cosponsor id="412192" joined="2007-12-13"/>
+		<cosponsor id="400165" joined="2008-06-05"/>
+		<cosponsor id="400196" joined="2008-06-19"/>
+		<cosponsor id="412210" joined="2007-12-13"/>
+		<cosponsor id="412256" joined="2008-07-14"/>
+		<cosponsor id="400077" joined="2007-12-13"/>
+		<cosponsor id="400176" joined="2008-09-15"/>
+		<cosponsor id="400630" joined="2008-07-31"/>
+		<cosponsor id="400018" joined="2008-07-30"/>
+		<cosponsor id="400323" joined="2007-12-17"/>
+		<cosponsor id="400239" joined="2008-01-15"/>
+		<cosponsor id="400003" joined="2008-04-30"/>
+		<cosponsor id="400049" joined="2008-07-16"/>
+		<cosponsor id="400423" joined="2008-09-10"/>
+		<cosponsor id="400260" joined="2008-01-15"/>
+		<cosponsor id="400229" joined="2008-07-29"/>
+		<cosponsor id="400132" joined="2008-09-10"/>
+		<cosponsor id="400040" joined="2008-04-29"/>
+		<cosponsor id="412231" joined="2007-12-19"/>
+		<cosponsor id="400406" joined="2008-06-19"/>
+		<cosponsor id="400274" joined="2008-06-23"/>
+		<cosponsor id="409888" joined="2008-07-31"/>
+		<cosponsor id="400662" joined="2008-07-29"/>
+		<cosponsor id="412189" joined="2008-07-17"/>
+		<cosponsor id="400254" joined="2008-08-01"/>
+		<cosponsor id="400084" joined="2008-05-21"/>
+		<cosponsor id="400052" joined="2008-06-19"/>
+		<cosponsor id="412214" joined="2008-06-19"/>
+		<cosponsor id="400409" joined="2008-07-24"/>
+		<cosponsor id="400370" joined="2008-07-14"/>
+		<cosponsor id="400029" joined="2008-06-19"/>
+		<cosponsor id="400652" joined="2008-07-22"/>
+		<cosponsor id="400396" joined="2008-09-10"/>
+		<cosponsor id="400384" joined="2008-01-15"/>
+		<cosponsor id="400433" joined="2008-09-10"/>
+		<cosponsor id="400184" joined="2008-06-19"/>
+		<cosponsor id="400405" joined="2008-05-15"/>
+		<cosponsor id="400288" joined="2008-07-22"/>
+		<cosponsor id="400152" joined="2008-01-23"/>
+		<cosponsor id="400412" joined="2008-07-08"/>
+		<cosponsor id="400055" joined="2007-12-19"/>
+		<cosponsor id="400377" joined="2007-12-17"/>
+		<cosponsor id="400355" joined="2008-09-10"/>
+		<cosponsor id="412208" joined="2008-09-10"/>
+		<cosponsor id="400216" joined="2007-12-13"/>
+		<cosponsor id="400262" joined="2008-06-19"/>
+		<cosponsor id="400130" joined="2008-07-31"/>
+		<cosponsor id="400249" joined="2008-04-02"/>
+		<cosponsor id="400437" joined="2008-07-22"/>
+		<cosponsor id="412197" joined="2008-09-10"/>
+		<cosponsor id="400030" joined="2008-06-19"/>
+		<cosponsor id="400312" joined="2008-07-10"/>
+		<cosponsor id="412198" joined="2008-07-23"/>
+		<cosponsor id="400658" joined="2008-04-17"/>
+		<cosponsor id="400359" joined="2008-07-22"/>
+		<cosponsor id="412188" joined="2007-12-19"/>
+		<cosponsor id="400316" joined="2008-01-15"/>
+		<cosponsor id="400010" joined="2008-07-29"/>
+		<cosponsor id="400245" joined="2008-07-30"/>
+		<cosponsor id="400225" joined="2008-05-07"/>
+		<cosponsor id="400392" joined="2007-12-13"/>
+		<cosponsor id="400663" joined="2007-12-19"/>
+		<cosponsor id="400352" joined="2008-06-23"/>
+		<cosponsor id="400339" joined="2008-06-04"/>
+		<cosponsor id="400224" joined="2008-09-10"/>
+		<cosponsor id="400086" joined="2008-09-10"/>
+		<cosponsor id="400387" joined="2008-09-10"/>
+		<cosponsor id="400324" joined="2008-02-26"/>
+		<cosponsor id="400640" joined="2008-07-22"/>
+		<cosponsor id="400144" joined="2008-04-17"/>
+		<cosponsor id="400206" joined="2008-07-24"/>
+		<cosponsor id="400006" joined="2007-12-18"/>
+		<cosponsor id="400212" joined="2008-09-10"/>
+		<cosponsor id="400068" joined="2008-07-31"/>
+		<cosponsor id="400017" joined="2008-08-01"/>
+		<cosponsor id="400331" joined="2008-04-08"/>
+		<cosponsor id="412258" joined="2008-09-10"/>
+		<cosponsor id="400386" joined="2008-07-22"/>
+		<cosponsor id="400147" joined="2008-07-14"/>
+		<cosponsor id="400082" joined="2008-09-10"/>
+		<cosponsor id="400347" joined="2008-07-14"/>
+		<cosponsor id="400230" joined="2008-07-10"/>
+		<cosponsor id="400038" joined="2008-07-30"/>
+		<cosponsor id="400008" joined="2008-06-03"/>
+		<cosponsor id="412227" joined="2008-07-16"/>
+		<cosponsor id="412187" joined="2008-07-24"/>
+		<cosponsor id="412223" joined="2008-07-14"/>
+		<cosponsor id="400048" joined="2008-06-23"/>
+		<cosponsor id="412209" joined="2008-08-01"/>
+		<cosponsor id="400442" joined="2007-12-19"/>
+		<cosponsor id="400044" joined="2008-05-21"/>
+		<cosponsor id="400335" joined="2008-09-22"/>
+		<cosponsor id="400051" joined="2008-07-16"/>
+		<cosponsor id="412193" joined="2008-09-10"/>
+		<cosponsor id="400308" joined="2008-07-08"/>
+		<cosponsor id="400172" joined="2008-06-05"/>
+		<cosponsor id="412205" joined="2008-06-04"/>
+		<cosponsor id="412199" joined="2008-05-06"/>
+		<cosponsor id="400057" joined="2008-09-10"/>
+		<cosponsor id="400631" joined="2008-05-21"/>
+		<cosponsor id="400343" joined="2008-01-15"/>
+		<cosponsor id="400001" joined="2007-12-13"/>
+		<cosponsor id="400395" joined="2008-05-21"/>
+		<cosponsor id="400103" joined="2008-07-29"/>
+		<cosponsor id="400087" joined="2007-12-19"/>
+		<cosponsor id="400131" joined="2008-07-30"/>
+		<cosponsor id="400270" joined="2008-09-10"/>
+		<cosponsor id="400039" joined="2007-12-17"/>
+		<cosponsor id="400158" joined="2008-07-24"/>
+		<cosponsor id="400259" joined="2008-07-10"/>
+		<cosponsor id="400166" joined="2008-01-16"/>
+		<cosponsor id="400399" joined="2008-07-30"/>
+		<cosponsor id="412216" joined="2008-09-10"/>
+		<cosponsor id="400436" joined="2008-01-16"/>
+		<cosponsor id="400346" joined="2008-09-10"/>
+		<cosponsor id="400237" joined="2008-07-22"/>
+		<cosponsor id="400140" joined="2007-12-13"/>
+		<cosponsor id="400570" joined="2008-06-25"/>
+		<cosponsor id="412262" joined="2008-05-21"/>
+		<cosponsor id="400655" joined="2008-07-16"/>
+		<cosponsor id="400013" joined="2008-07-31"/>
+		<cosponsor id="400383" joined="2007-12-19"/>
+		<cosponsor id="412240" joined="2008-07-16"/>
+		<cosponsor id="412222" joined="2008-07-08"/>
+		<cosponsor id="412204" joined="2008-01-15"/>
+		<cosponsor id="400400" joined="2008-03-12"/>
+		<cosponsor id="400076" joined="2008-07-22"/>
+		<cosponsor id="400653" joined="2008-04-03"/>
+		<cosponsor id="400195" joined="2008-03-10"/>
+		<cosponsor id="400251" joined="2007-12-13"/>
+		<cosponsor id="400439" joined="2008-07-14"/>
+		<cosponsor id="400178" joined="2008-05-13"/>
+		<cosponsor id="400026" joined="2007-12-19"/>
+		<cosponsor id="400378" joined="2007-12-17"/>
+		<cosponsor id="412232" joined="2008-07-08"/>
+		<cosponsor id="400350" joined="2008-01-15"/>
+		<cosponsor id="400217" joined="2007-12-13"/>
+		<cosponsor id="400111" joined="2008-09-10"/>
+		<cosponsor id="400360" joined="2008-01-23"/>
+		<cosponsor id="400234" joined="2008-07-31"/>
+		<cosponsor id="400366" joined="2008-07-16"/>
+		<cosponsor id="400255" joined="2007-12-19"/>
+		<cosponsor id="400211" joined="2008-09-10"/>
+		<cosponsor id="400120" joined="2008-07-24"/>
+		<cosponsor id="400299" joined="2008-04-17"/>
+		<cosponsor id="400074" joined="2008-09-22"/>
+		<cosponsor id="412201" joined="2008-07-31"/>
+		<cosponsor id="400118" joined="2008-06-05"/>
+		<cosponsor id="400056" joined="2008-05-01"/>
+		<cosponsor id="400628" joined="2007-12-13"/>
+		<cosponsor id="400638" joined="2008-07-30"/>
+		<cosponsor id="412200" joined="2008-06-19"/>
+		<cosponsor id="412010" joined="2008-07-24"/>
+		<cosponsor id="400284" joined="2008-09-10"/>
+		<cosponsor id="400081" joined="2008-06-10"/>
+		<cosponsor id="400232" joined="2008-07-08"/>
+		<cosponsor id="400247" joined="2007-12-13"/>
+		<cosponsor id="400266" joined="2008-07-14"/>
+		<cosponsor id="400125" joined="2007-12-19"/>
+		<cosponsor id="400319" joined="2008-07-29"/>
+		<cosponsor id="400421" joined="2008-09-10"/>
+		<cosponsor id="400193" joined="2008-06-03"/>
+		<cosponsor id="412254" joined="2008-09-10"/>
+		<cosponsor id="412236" joined="2008-09-10"/>
+		<cosponsor id="400009" joined="2007-12-17"/>
+		<cosponsor id="400005" joined="2008-06-10"/>
+		<cosponsor id="412186" joined="2008-09-10"/>
+		<cosponsor id="400221" joined="2008-07-31"/>
+		<cosponsor id="400440" joined="2007-12-13"/>
+		<cosponsor id="400649" joined="2008-09-22"/>
+		<cosponsor id="400371" joined="2008-09-15"/>
+		<cosponsor id="412228" joined="2008-06-23"/>
+		<cosponsor id="400291" joined="2008-09-18"/>
+		<cosponsor id="400201" joined="2008-07-15"/>
+		<cosponsor id="400043" joined="2008-09-15"/>
+		<cosponsor id="412257" joined="2008-06-11"/>
+		<cosponsor id="400109" joined="2007-12-19"/>
+		<cosponsor id="400185" joined="2007-12-17"/>
+		<cosponsor id="400641" joined="2008-09-10"/>
+		<cosponsor id="400016" joined="2008-04-24"/>
+		<cosponsor id="400139" joined="2008-07-24"/>
+		<cosponsor id="400047" joined="2007-12-17"/>
+		<cosponsor id="412220" joined="2008-09-10"/>
+		<cosponsor id="400283" joined="2008-01-15"/>
+		<cosponsor id="400204" joined="2008-06-23"/>
+		<cosponsor id="400097" joined="2008-06-19"/>
+		<cosponsor id="400310" joined="2008-07-17"/>
+		<cosponsor id="400090" joined="2008-09-10"/>
+		<cosponsor id="400651" joined="2008-03-10"/>
+		<cosponsor id="400033" joined="2008-04-29"/>
+		<cosponsor id="400042" joined="2007-12-13"/>
+		<cosponsor id="400208" joined="2008-07-17"/>
+		<cosponsor id="400351" joined="2008-09-10"/>
+		<cosponsor id="400218" joined="2007-12-13"/>
+		<cosponsor id="400240" joined="2008-06-05"/>
+		<cosponsor id="400046" joined="2007-12-13"/>
+		<cosponsor id="412219" joined="2008-09-18"/>
+		<cosponsor id="400215" joined="2007-12-13"/>
+		<cosponsor id="400636" joined="2008-06-23"/>
+		<cosponsor id="400024" joined="2007-12-18"/>
+		<cosponsor id="400654" joined="2008-04-01"/>
+		<cosponsor id="400238" joined="2008-07-31"/>
+		<cosponsor id="412206" joined="2007-12-19"/>
+		<cosponsor id="400025" joined="2007-12-18"/>
+		<cosponsor id="400301" joined="2008-09-10"/>
+		<cosponsor id="400345" joined="2007-12-18"/>
+		<cosponsor id="400088" joined="2008-01-16"/>
+		<cosponsor id="400163" joined="2007-12-13"/>
+		<cosponsor id="400114" joined="2008-06-04"/>
+		<cosponsor id="400011" joined="2008-01-23"/>
+		<cosponsor id="400425" joined="2008-07-22"/>
+		<cosponsor id="400157" joined="2008-07-31"/>
+		<cosponsor id="400341" joined="2008-06-04"/>
+		<cosponsor id="400179" joined="2008-01-29"/>
+		<cosponsor id="412011" joined="2008-07-31"/>
+		<cosponsor id="400100" joined="2008-07-24"/>
+		<cosponsor id="400435" joined="2008-09-10"/>
+		<cosponsor id="412191" joined="2008-07-22"/>
+		<cosponsor id="400639" joined="2008-09-10"/>
+		<cosponsor id="400349" joined="2008-09-10"/>
+		<cosponsor id="400309" joined="2008-04-24"/>
+		<cosponsor id="412255" joined="2008-07-16"/>
+		<cosponsor id="400186" joined="2008-09-10"/>
+		<cosponsor id="400278" joined="2008-09-10"/>
+		<cosponsor id="412233" joined="2008-09-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1197522000" datetime="2007-12-13"><text>Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1197522000" datetime="2007-12-13"><text>Referred to House Financial Services</text></action>
+		<action date="1197522000" datetime="2007-12-13"><text>Referred to House House Administration</text></action>
+		<action date="1206676800" datetime="2008-03-28"><committee name="House Financial Services"/><text>Referred to the Subcommittee on Domestic and International Monetary Policy, Trade, and Technology.</text></action>
+		<action date="1222216860" datetime="2008-09-23T21:41:00-04:00"><text>Mr. Gutierrez moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1222216860" datetime="2008-09-23T21:41:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8696-8699"/><reference label="text of measure as introduced" ref="CR H8696"/></action>
+		<action date="1222216860" datetime="2008-09-23T21:41:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4544.</text></action>
+		<action date="1222217880" datetime="2008-09-23T21:58:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mrs. Capito objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1222398960" datetime="2008-09-25T12:16:00-04:00"><text>Considered as unfinished business.</text></action>
+		<vote date="1222399020" how="by voice vote" datetime="2008-09-25T12:17:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action date="1222315200" datetime="2008-09-25"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1222747200" how="by Unanimous Consent" datetime="2008-09-30" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10183"/></vote>
+		<topresident date="1222747200" datetime="2008-09-30" ><text>Cleared for White House.</text></topresident>
+		<action date="1222833600" datetime="2008-10-01"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1223265600" datetime="2008-10-06" ><text>Presented to President.</text></topresident>
+		<signed date="1224043200" datetime="2008-10-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-420" date="1224043200" datetime="2008-10-15" type="public" ><text>Became Public Law No: 110-420.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/15/2008--Public Law. Code Talkers Recognition Act of 2008 - Directs the Speaker of the House of Representatives and the President pro tempore of the Senate to arrange for the award of gold medals (to be maintained by the Smithsonian Institution) to recognize the service of Native American code talkers during World War I and World War II. Defines &quot;code talker&quot; as a Native American who served in the Armed Forces during a foreign conflict and who transmitted secret coded messages for tactical military operations during World War I and World War II using native tribal language.<br/>Directs the Secretary of the Treasury: (1) in consultation with the Secretary of Defense and Indian tribes, to identify each Native American tribe, with the exception of the Navajo Nation, that had a member serve as a Native American code talker; (2) to provide a list of such code talkers to the Smithsonian Institution; (3) to design and strike the gold medals to be awarded; and (4) to strike silver duplicate medals for such code talkers or their next of kin or personal representatives. Authorizes the Secretary to strike and sell bronze duplicate medals to pay for the cost of the gold and silver medals. Directs the Smithsonian Institution to accept and maintain the gold medals awarded on behalf of the code talkers. Encourages the Smithsonian Institution to create a standing exhibit for Native American code talkers or Native American veterans. Authorizes payment from the U.S. Mint Public Enterprise Fund for the cost of medals struck pursuant to this Act. 
+	</summary>
+</bill>

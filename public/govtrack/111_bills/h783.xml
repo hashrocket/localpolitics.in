@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="783" updated="2009-03-07T11:19:56-05:00">
+	<status><introduced date="1233118800" datetime="2009-01-28"/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code to make permanent the credit for increasing research activities.</title>
+	</titles>
+	<sponsor id="400365"/>
+	<cosponsors>
+		<cosponsor id="400144" joined="2009-01-28"/>
+		<cosponsor id="400115" joined="2009-01-28"/>
+		<cosponsor id="412302" joined="2009-01-28"/>
+		<cosponsor id="400154" joined="2009-02-13"/>
+		<cosponsor id="400318" joined="2009-01-28"/>
+		<cosponsor id="400288" joined="2009-01-28"/>
+		<cosponsor id="400245" joined="2009-01-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="37" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/2009--Introduced.<br/>Amends the Internal Revenue Code to make the tax credit for increasing research activities permanent.<br/>
+	</summary>
+</bill>

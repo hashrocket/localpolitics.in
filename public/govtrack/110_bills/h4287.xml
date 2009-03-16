@@ -1,0 +1,38 @@
+<bill session="110" type="h" number="4287" updated="2009-01-09T01:46:48-05:00">
+	<status><introduced date="1196830800" datetime="2007-12-05"/></status>
+
+	<introduced date="1196830800" datetime="2007-12-05"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Provider Accountability Act</title>
+		<title type="official" as="introduced">To include Medicare provider payments in the Federal Payment Levy Program, to require the Department of Health and Human Services to offset Medicare provider payments by the amount of the provider's delinquent Federal debt, and for other purposes.</title>
+	</titles>
+	<sponsor id="400120"/>
+	<cosponsors>
+		<cosponsor id="400387" joined="2007-12-11"/>
+		<cosponsor id="412236" joined="2007-12-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1196830800" datetime="2007-12-05"><text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1196830800" datetime="2007-12-05"><text>Referred to House Ways and Means</text></action>
+		<action date="1196830800" datetime="2007-12-05"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1196830800" datetime="2007-12-05"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1196830800" datetime="2007-12-05"><text>Referred to House Judiciary</text></action>
+		<action date="1197262800" datetime="2007-12-10"><committee name="House Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1203915600" datetime="2008-02-25"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Commercial and Administrative Law.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/5/2007--Introduced.<br/>Medicare Provider Accountability Act - Directs the Centers for Medicare and Medicaid Services to: (1) take all necessary steps to participate in the Federal Payment Levy Program as soon as possible; and (2) ensure that at least 50% of all payments under parts A (Hospital Insurance) and B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act are processed through such program within one year of enactment of this Act, and all remaining payments within two years.<br/>Requires the Department of Health and Human Services to offset Medicare provider payments by the amount of the provider's delinquent federal debt.<br/>Amends the Internal Revenue Code to make notice and opportunity for hearing before levy requirements inapplicable if the Secretary of the Treasury has approved a levy on specified (Medicare provider) payments. 
+	</summary>
+</bill>

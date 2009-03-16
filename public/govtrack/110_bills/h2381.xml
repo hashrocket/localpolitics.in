@@ -1,0 +1,46 @@
+<bill session="110" type="h" number="2381" updated="2009-01-08T21:49:12-05:00">
+	<status><vote date="1184090520" datetime="2007-07-10T15:02:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1179374400" datetime="2007-05-17"/>
+	<titles>
+		<title type="short" as="introduced">Upper Mississippi River Basin Protection Act</title>
+		<title type="short" as="passed house">Upper Mississippi River Basin Protection Act</title>
+		<title type="official" as="introduced">To promote Department of the Interior efforts to provide a scientific basis for the management of sediment and nutrient loss in the Upper Mississippi River Basin, and for other purposes.</title>
+	</titles>
+	<sponsor id="400218"/>
+	<cosponsors>
+		<cosponsor id="412215" joined="2007-05-17"/>
+		<cosponsor id="412214" joined="2007-05-17"/>
+		<cosponsor id="412208" joined="2007-05-17"/>
+		<cosponsor id="412209" joined="2007-05-17"/>
+		<cosponsor id="400259" joined="2007-05-17"/>
+		<cosponsor id="412204" joined="2007-05-17"/>
+		<cosponsor id="400026" joined="2007-05-17"/>
+		<cosponsor id="400042" joined="2007-05-17"/>
+	</cosponsors>
+	<actions>
+		<action date="1179374400" datetime="2007-05-17"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1179720000" datetime="2007-05-21"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1184090340" datetime="2007-07-10T14:59:00-04:00"><text>Mr. Sarbanes moved to suspend the rules and pass the bill.</text></action>
+		<action date="1184090340" datetime="2007-07-10T14:59:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7447-7448"/></action>
+		<action date="1184090340" datetime="2007-07-10T14:59:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2381.</text></action>
+		<vote date="1184090520" how="by voice vote" datetime="2007-07-10T15:02:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H7447-7448"/></vote>
+		<action date="1184126400" datetime="2007-07-11"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1204174800" datetime="2008-02-28"><text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/10/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)<br/>Upper Mississippi River Basin Protection Act - Title I: Sediment and Nutrient Monitoring Network - (Sec. 101) Directs the Secretary of the Interior, acting through the Director of the United States Geological Survey (USGS), to establish a sediment and nutrient monitoring network for the Upper Mississippi River Basin. (Sec. 102) Directs the Secretary to: (1) establish guidelines for related data collection and storage activities; (2) inventory the sediment and monitoring efforts of governmental and nongovernmental entities for the purpose of creating a baseline understanding of overlap, data gaps, and redundancies; (3) integrate the existing monitoring efforts into the network; (4) make maximum use of existing data and ongoing programs and efforts in developing the network; (5) carry out this section in coordination with the long-term estuary assessment project authorized by the Estuaries and Clean Waters Act of 2000; (6) collaborate with other public and private monitoring programs; and (7) report to Congress on the network's development. (Sec. 106) Directs the National Research Council of the National Academy of Sciences to conduct a water resources assessment of the Basin. Title II: Computer Modeling and Research - (Sec. 201) Requires the Director to establish: (1) a computer modeling program to identify nutrient and sediment sources in the Basin; and (2) an Internet-based system to provide information about nutrient and sediment loss reduction programs and projects and nutrient and sediment levels in the Upper Mississippi River and its tributaries. (Sec. 203) Requires the Director to provide to Congress and make available to the public: (1) an annual report regarding monitoring activities conducted in the Upper Mississippi River Basin; and (2) a progress report every three years regarding modeling activities.<br/>Title III: Authorization of Appropriations and Related Matters - (Sec. 301) Authorizes appropriations to: (1) the USGS each fiscal year to carry out this Act, requiring one-third of the appropriated funds for the Cooperative Water Program and the remainder for the Hydrologic Networks and Analysis Program; and (2) the National Research Council for the water resources assessment.<br/>(Sec. 302) Makes funds available for the Cooperative Water Program subject to the same cost-sharing requirements as specified in the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2006.<br/>
+	</summary>
+</bill>

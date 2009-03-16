@@ -1,0 +1,52 @@
+<bill session="111" type="hr" number="201" updated="2009-03-07T13:30:32-05:00">
+	<status><vote date="1236192780" datetime="2009-03-04T14:53:00-05:00" where="h" result="pass" how="roll" roll="94"/></status>
+
+	<introduced date="1235970000" datetime="2009-03-02"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing Beverly Eckert's service to the Nation and particularly to the survivors and families of the September 11, 2001, attacks.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+		<cosponsor id="400219" joined="2009-03-02"/>
+		<cosponsor id="400257" joined="2009-03-02"/>
+		<cosponsor id="412221" joined="2009-03-02"/>
+		<cosponsor id="412222" joined="2009-03-02"/>
+		<cosponsor id="400195" joined="2009-03-02"/>
+		<cosponsor id="400251" joined="2009-03-02"/>
+		<cosponsor id="400178" joined="2009-03-02"/>
+		<cosponsor id="400246" joined="2009-03-04"/>
+		<cosponsor id="400366" joined="2009-03-02"/>
+		<cosponsor id="412291" joined="2009-03-02"/>
+		<cosponsor id="400641" joined="2009-03-02"/>
+		<cosponsor id="412296" joined="2009-03-02"/>
+		<cosponsor id="412299" joined="2009-03-04"/>
+		<cosponsor id="400409" joined="2009-03-02"/>
+		<cosponsor id="400309" joined="2009-03-02"/>
+		<cosponsor id="400402" joined="2009-03-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1235970000" datetime="2009-03-02"><text>Sponsor introductory remarks on measure. (CR E514-515)</text></action>
+		<action date="1235970000" datetime="2009-03-02"><text>Referred to the House Committee on Homeland Security.</text></action>
+		<action date="1236186420" datetime="2009-03-04T13:07:00-05:00"><text>Mr. Pascrell moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1236186420" datetime="2009-03-04T13:07:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2934-2936"/></action>
+		<action date="1236186420" datetime="2009-03-04T13:07:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 201.</text></action>
+		<action date="1236187200" datetime="2009-03-04T13:20:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1236191280" datetime="2009-03-04T14:28:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2946"/></action>
+		<vote date="1236192780" how="roll" roll="94" datetime="2009-03-04T14:53:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 94).</text><reference label="text" ref="CR H2934"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Homeland Security" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/2/2009--Introduced.<br/>Acknowledges Beverly Eckert's service to the nation and particularly to the survivors and families of the September 11, 2001, attacks. Recognizes her work to help bring about implementation of the 9/11 Commission recommendations. Extends the deepest condolences of the House of Representatives to the family of Beverly Eckert and the families of all those who lost their lives due to the crash of Continental Connection Flight 3407.<br/>
+	</summary>
+</bill>

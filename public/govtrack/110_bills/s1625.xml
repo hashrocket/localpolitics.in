@@ -1,0 +1,33 @@
+<bill session="110" type="s" number="1625" updated="2009-01-09T15:11:25-05:00">
+	<status><introduced date="1181793600" datetime="2007-06-14"/></status>
+
+	<introduced date="1181793600" datetime="2007-06-14"/>
+	<titles>
+		<title type="short" as="introduced">Counter Spy Act</title>
+		<title type="official" as="introduced">A bill to protect against the unauthorized installation of computer software, to require clear disclosure to computer users of certain computer software features that may pose a threat to user privacy, and for other purposes.</title>
+	</titles>
+	<sponsor id="300080"/>
+	<cosponsors>
+		<cosponsor id="300011" joined="2007-06-14"/>
+		<cosponsor id="300078" joined="2007-06-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1181793600" datetime="2007-06-14"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+		<action date="1213156800" datetime="2008-06-11"><text>Committee on Commerce, Science, and Transportation. Hearings held.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/14/2007--Introduced.<br/>Counter Spy Act - Prohibits a person who is not an authorized user of a protected computer (a computer used in interstate or foreign commerce or communication) from installing software that takes control of the computer, modifies the computer's settings, or prevents the user's efforts to block installation of, disable, or uninstall software. Prohibits such installation of software that collects sensitive personal information without first providing clear and conspicuous disclosure to the authorized user and obtaining the user's consent. Allows software that collects information for the provider of an online service or website knowingly used or subscribed to by an authorized user if the information collected is used only to affect the user's experience while using such service or website. Prohibits such installation on a protected computer of software that causes advertising windows to appear (popularly known as adware) unless: (1) the source is clear and instructions are provided for uninstalling the software; or (2) the advertisements are displayed only when the user uses the software author's or publisher's website or online service. Sets forth exceptions, including for network or computer security, diagnostics, technical support, and detection or prevention of the unauthorized use of fraudulent software or other illegal activities. Allows a multichannel video programming distributor to take certain actions if the actions are subject to provisions of the Communications Act of 1934 concerning notice to satellite subscribers.<br/>
+	</summary>
+</bill>

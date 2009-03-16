@@ -1,0 +1,143 @@
+<bill session="110" type="h" number="1665" updated="2009-01-08T20:19:44-05:00">
+	<status><introduced date="1174622400" datetime="2007-03-23"/></status>
+
+	<introduced date="1174622400" datetime="2007-03-23"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Hearing Health Care Enhancement Act of 2007</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide Medicare beneficiaries greater choice with regard to accessing hearing health services and benefits.</title>
+	</titles>
+	<sponsor id="400345"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-05-24"/>
+		<cosponsor id="400290" joined="2007-09-17"/>
+		<cosponsor id="400627" joined="2007-06-06"/>
+		<cosponsor id="400133" joined="2007-12-11"/>
+		<cosponsor id="400420" joined="2007-03-23"/>
+		<cosponsor id="400199" joined="2007-12-11"/>
+		<cosponsor id="400414" joined="2007-09-05"/>
+		<cosponsor id="400413" joined="2008-01-23"/>
+		<cosponsor id="400099" joined="2007-10-17"/>
+		<cosponsor id="400228" joined="2007-10-18"/>
+		<cosponsor id="400155" joined="2007-07-31"/>
+		<cosponsor id="400263" joined="2007-03-23"/>
+		<cosponsor id="400376" joined="2007-07-31"/>
+		<cosponsor id="400162" joined="2007-07-12"/>
+		<cosponsor id="400302" joined="2008-05-14"/>
+		<cosponsor id="400246" joined="2007-11-15"/>
+		<cosponsor id="400295" joined="2008-05-22"/>
+		<cosponsor id="400623" joined="2008-05-06"/>
+		<cosponsor id="400096" joined="2007-04-19"/>
+		<cosponsor id="400441" joined="2007-04-25"/>
+		<cosponsor id="400647" joined="2007-08-01"/>
+		<cosponsor id="400443" joined="2007-03-23"/>
+		<cosponsor id="412215" joined="2007-12-06"/>
+		<cosponsor id="400198" joined="2008-06-11"/>
+		<cosponsor id="400379" joined="2007-09-17"/>
+		<cosponsor id="400361" joined="2008-09-11"/>
+		<cosponsor id="412210" joined="2007-03-29"/>
+		<cosponsor id="400124" joined="2008-06-11"/>
+		<cosponsor id="400630" joined="2008-09-26"/>
+		<cosponsor id="400229" joined="2007-03-23"/>
+		<cosponsor id="412231" joined="2007-05-21"/>
+		<cosponsor id="409888" joined="2007-08-01"/>
+		<cosponsor id="400254" joined="2008-05-22"/>
+		<cosponsor id="412214" joined="2008-02-06"/>
+		<cosponsor id="400409" joined="2007-05-21"/>
+		<cosponsor id="400101" joined="2007-09-27"/>
+		<cosponsor id="400184" joined="2007-06-25"/>
+		<cosponsor id="400285" joined="2008-03-13" withdrawn="2008-04-09"/>
+		<cosponsor id="400412" joined="2007-09-24" withdrawn="2007-09-26"/>
+		<cosponsor id="400216" joined="2007-03-23"/>
+		<cosponsor id="400249" joined="2007-07-12"/>
+		<cosponsor id="400437" joined="2008-04-22"/>
+		<cosponsor id="400030" joined="2007-06-28"/>
+		<cosponsor id="400010" joined="2007-03-23"/>
+		<cosponsor id="400245" joined="2007-06-25"/>
+		<cosponsor id="400642" joined="2008-04-02"/>
+		<cosponsor id="400235" joined="2008-01-16"/>
+		<cosponsor id="400352" joined="2007-08-03"/>
+		<cosponsor id="400324" joined="2007-12-11"/>
+		<cosponsor id="400212" joined="2007-09-24"/>
+		<cosponsor id="400017" joined="2007-06-25"/>
+		<cosponsor id="400098" joined="2007-08-03"/>
+		<cosponsor id="400347" joined="2007-09-24"/>
+		<cosponsor id="400230" joined="2008-09-26"/>
+		<cosponsor id="400008" joined="2007-09-04"/>
+		<cosponsor id="412227" joined="2007-05-21"/>
+		<cosponsor id="400356" joined="2008-03-05"/>
+		<cosponsor id="400121" joined="2007-03-23"/>
+		<cosponsor id="400442" joined="2007-04-25"/>
+		<cosponsor id="400311" joined="2007-03-23"/>
+		<cosponsor id="412193" joined="2008-07-22"/>
+		<cosponsor id="400103" joined="2007-03-23"/>
+		<cosponsor id="400087" joined="2008-09-11"/>
+		<cosponsor id="400131" joined="2008-06-25"/>
+		<cosponsor id="400270" joined="2008-09-25"/>
+		<cosponsor id="400259" joined="2007-04-19"/>
+		<cosponsor id="400346" joined="2007-07-12"/>
+		<cosponsor id="400013" joined="2007-04-19"/>
+		<cosponsor id="400340" joined="2007-10-18"/>
+		<cosponsor id="400653" joined="2008-07-31"/>
+		<cosponsor id="400439" joined="2007-03-23"/>
+		<cosponsor id="400217" joined="2008-03-11"/>
+		<cosponsor id="400234" joined="2008-06-24"/>
+		<cosponsor id="400021" joined="2007-07-31"/>
+		<cosponsor id="412239" joined="2008-02-06"/>
+		<cosponsor id="400299" joined="2008-04-02"/>
+		<cosponsor id="400074" joined="2007-07-12"/>
+		<cosponsor id="412201" joined="2007-05-24"/>
+		<cosponsor id="400628" joined="2007-10-17"/>
+		<cosponsor id="400081" joined="2007-07-31"/>
+		<cosponsor id="400421" joined="2008-06-05"/>
+		<cosponsor id="400415" joined="2007-05-21"/>
+		<cosponsor id="412254" joined="2008-06-11"/>
+		<cosponsor id="412236" joined="2008-02-06"/>
+		<cosponsor id="400093" joined="2008-05-14"/>
+		<cosponsor id="400440" joined="2008-01-23"/>
+		<cosponsor id="412213" joined="2007-10-25"/>
+		<cosponsor id="412228" joined="2008-05-13"/>
+		<cosponsor id="400145" joined="2007-03-23"/>
+		<cosponsor id="400043" joined="2007-09-05"/>
+		<cosponsor id="400119" joined="2007-03-23"/>
+		<cosponsor id="400641" joined="2007-07-31"/>
+		<cosponsor id="400283" joined="2007-03-23"/>
+		<cosponsor id="400090" joined="2007-07-31"/>
+		<cosponsor id="400033" joined="2008-07-31"/>
+		<cosponsor id="400438" joined="2007-09-04"/>
+		<cosponsor id="412219" joined="2008-02-13"/>
+		<cosponsor id="400215" joined="2008-07-10"/>
+		<cosponsor id="400301" joined="2007-09-05"/>
+		<cosponsor id="400394" joined="2008-03-05"/>
+		<cosponsor id="400114" joined="2007-06-25"/>
+		<cosponsor id="400321" joined="2008-02-14"/>
+		<cosponsor id="400179" joined="2007-07-31"/>
+		<cosponsor id="400100" joined="2008-06-23"/>
+		<cosponsor id="400435" joined="2007-06-25"/>
+		<cosponsor id="400434" joined="2007-12-11"/>
+		<cosponsor id="412255" joined="2008-02-14"/>
+		<cosponsor id="400252" joined="2008-04-02"/>
+		<cosponsor id="400278" joined="2007-03-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1174622400" datetime="2007-03-23"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1174622400" datetime="2007-03-23"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1174622400" datetime="2007-03-23"><text>Referred to House Ways and Means</text></action>
+		<action date="1174881600" datetime="2007-03-26"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1175572800" datetime="2007-04-03"><committee name="House Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/23/2007--Introduced.<br/>Medicare Hearing Health Care Enhancement Act of 2007 - Amends title XVIII (Medicare) of the Social Security Act to provide for direct access to qualified audiologists for Medicare beneficiaries, without regard to any requirement that the beneficiary be under the care of (or referred by) a physician or other health care practitioner, or that such services are provided under the supervision of a physician or other health care practitioner. Covers audiology services under Medicare part B (Supplementary Medical Insurance). 
+	</summary>
+</bill>

@@ -1,0 +1,30 @@
+<bill session="111" type="h" number="1056" updated="2009-03-07T11:52:55-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Rosa Isela Figueroa Rincon, Miguel Angel Figueroa Rincon, Blanca Azucena Figueroa Rincon, and Nancy Araceli Figueroa Rincon.</title>
+	</titles>
+	<sponsor id="400101"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the House Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Provides for the relief of Rosa Isela Figueroa Rincon, Miguel Angel Figueroa Rincon, Blanca Azucena Figueroa Rincon, and Nancy Araceli Figueroa Rincon.<br/>
+	</summary>
+</bill>

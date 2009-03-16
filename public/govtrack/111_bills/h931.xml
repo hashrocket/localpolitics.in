@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="931" updated="2009-03-07T11:37:49-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="short" as="introduced">Veterans Employment Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow the work opportunity credit with respect to certain unemployed veterans.</title>
+	</titles>
+	<sponsor id="412301"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="620" />
+		<bill relation="unknown" session="111" type="s" number="274" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Income tax credits"/>
+		<term name="Unemployment"/>
+		<term name="Veterans' education, employment, rehabilitation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Introduced.<br/>Veterans Employment Act of 2009 - Amends the Internal Revenue Code to allow a work opportunity tax credit for the hiring in 2009 or 2010 of unemployed veterans discharged from active duty between September 11, 2001, and December 31, 2010.<br/>
+	</summary>
+</bill>

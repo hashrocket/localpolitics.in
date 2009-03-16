@@ -1,0 +1,49 @@
+<bill session="110" type="h" number="1990" updated="2009-01-08T21:00:50-05:00">
+	<status><introduced date="1177041600" datetime="2007-04-20"/></status>
+
+	<introduced date="1177041600" datetime="2007-04-20"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Cost Contract Extension and Refinement Act of 2007</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to extend reasonable cost contracts under Medicare.</title>
+	</titles>
+	<sponsor id="400323"/>
+	<cosponsors>
+		<cosponsor id="400620" joined="2007-04-20"/>
+		<cosponsor id="400332" joined="2007-04-20"/>
+		<cosponsor id="412192" joined="2007-04-20"/>
+		<cosponsor id="400101" joined="2007-05-17"/>
+		<cosponsor id="400412" joined="2007-04-20"/>
+		<cosponsor id="412208" joined="2007-04-20"/>
+		<cosponsor id="400316" joined="2007-06-14"/>
+		<cosponsor id="400068" joined="2007-04-20"/>
+		<cosponsor id="400287" joined="2007-06-22"/>
+		<cosponsor id="400001" joined="2007-05-17"/>
+		<cosponsor id="400259" joined="2007-05-17"/>
+		<cosponsor id="412200" joined="2007-05-17"/>
+		<cosponsor id="400208" joined="2007-06-28"/>
+		<cosponsor id="400218" joined="2007-07-23"/>
+		<cosponsor id="400394" joined="2007-06-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1177041600" datetime="2007-04-20"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1177041600" datetime="2007-04-20"><text>Referred to House Ways and Means</text></action>
+		<action date="1177041600" datetime="2007-04-20"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1177300800" datetime="2007-04-23"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1177473600" datetime="2007-04-25"><committee name="House Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/20/2007--Introduced.<br/>Medicare Cost Contract Extension and Refinement Act of 2007 - Amends title XVIII (Medicare) of the Social Security Act (SSA) to: (1) extend the period reasonable cost reimbursement contracts under Medicare can remain in the market, and the period during which they can be modified to expand their service area; and (2) apply to extended or renewed reasonable cost contracts certain requirements under Medicare part C (Medicare Advantage).<br/>
+	</summary>
+</bill>

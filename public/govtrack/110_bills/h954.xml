@@ -1,0 +1,74 @@
+<bill session="110" type="h" number="954" updated="2009-01-08T18:49:23-05:00">
+	<status><enacted date="1190952000" datetime="2007-09-28" /></status>
+
+	<introduced date="1170910800" datetime="2007-02-08"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 365 West 125th Street in New York, New York, as the &quot;Percy Sutton Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400333"/>
+	<cosponsors>
+		<cosponsor id="400031" joined="2007-05-21"/>
+		<cosponsor id="400219" joined="2007-05-21"/>
+		<cosponsor id="400257" joined="2007-05-21"/>
+		<cosponsor id="400289" joined="2007-05-21"/>
+		<cosponsor id="412221" joined="2007-05-21"/>
+		<cosponsor id="412224" joined="2007-05-21"/>
+		<cosponsor id="400122" joined="2007-05-21"/>
+		<cosponsor id="400246" joined="2007-03-09"/>
+		<cosponsor id="400271" joined="2007-05-21"/>
+		<cosponsor id="400424" joined="2007-04-23"/>
+		<cosponsor id="400268" joined="2007-05-21"/>
+		<cosponsor id="400003" joined="2007-03-09"/>
+		<cosponsor id="400409" joined="2007-05-21"/>
+		<cosponsor id="400264" joined="2007-03-09"/>
+		<cosponsor id="400642" joined="2007-06-14"/>
+		<cosponsor id="400416" joined="2007-05-21"/>
+		<cosponsor id="412223" joined="2007-05-23"/>
+		<cosponsor id="400087" joined="2007-03-09"/>
+		<cosponsor id="412222" joined="2007-05-21"/>
+		<cosponsor id="400426" joined="2007-05-23"/>
+		<cosponsor id="400653" joined="2007-03-09"/>
+		<cosponsor id="400195" joined="2007-05-21"/>
+		<cosponsor id="400251" joined="2007-05-21"/>
+		<cosponsor id="400178" joined="2007-05-21"/>
+		<cosponsor id="400378" joined="2007-05-23"/>
+		<cosponsor id="400350" joined="2007-09-05"/>
+		<cosponsor id="400366" joined="2007-05-21"/>
+		<cosponsor id="400338" joined="2007-06-19"/>
+		<cosponsor id="400641" joined="2007-05-21"/>
+		<cosponsor id="400139" joined="2007-06-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1170910800" datetime="2007-02-08"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1171342800" datetime="2007-02-13"><text>Sponsor introductory remarks on measure. (CR E335)</text></action>
+		<action date="1184817600" datetime="2007-07-19"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1184817600" datetime="2007-07-19" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1189047600" datetime="2007-09-05T12:00:00-04:00"><text>Mr. Welch (VT) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1189047600" datetime="2007-09-05T12:00:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10095-10097"/></action>
+		<action date="1189047600" datetime="2007-09-05T12:00:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 954.</text></action>
+		<vote date="1189048320" how="by voice vote" datetime="2007-09-05T12:12:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H10095"/></vote>
+		<action date="1189051200" datetime="2007-09-06"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1189483200" datetime="2007-09-11"><text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S11459-11460"/></action>
+		<vote date="1189483200" how="by Unanimous Consent" datetime="2007-09-11" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<topresident date="1189483200" datetime="2007-09-11" ><text>Cleared for White House.</text></topresident>
+		<action date="1189569600" datetime="2007-09-12"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1190174400" datetime="2007-09-19" ><text>Presented to President.</text></topresident>
+		<signed date="1190952000" datetime="2007-09-28" ><text>Signed by President.</text></signed>
+		<enacted number="110-87" date="1190952000" datetime="2007-09-28" type="public" ><text>Became Public Law No: 110-87.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/28/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 365 West 125th Street in New York, New York, as the &quot;Percy Sutton Post Office Building.&quot; 
+	</summary>
+</bill>

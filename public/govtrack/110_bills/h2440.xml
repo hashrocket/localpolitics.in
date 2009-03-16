@@ -1,0 +1,35 @@
+<bill session="110" type="h" number="2440" updated="2009-01-08T21:56:09-05:00">
+	<status><introduced date="1179806400" datetime="2007-05-22"/></status>
+
+	<introduced date="1179806400" datetime="2007-05-22"/>
+	<titles>
+		<title type="short" as="introduced">FinCEN Reauthorization Act of 2007</title>
+		<title type="official" as="introduced">To reauthorize the Financial Crimes Enforcement Network.</title>
+	</titles>
+	<sponsor id="400249"/>
+	<cosponsors>
+		<cosponsor id="412234" joined="2007-05-22"/>
+		<cosponsor id="400348" joined="2007-05-22"/>
+		<cosponsor id="412198" joined="2007-05-22"/>
+		<cosponsor id="400251" joined="2007-05-22"/>
+		<cosponsor id="400321" joined="2007-05-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1179806400" datetime="2007-05-22"><text>Referred to the House Committee on Financial Services.</text><reference label="text of measure as introduced" ref="CR S15065-15070"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/22/2007--Introduced.<br/>FinCEN Reauthorization Act of 2007 - Authorizes appropriations for the Financial Crimes Enforcement Network (FinCEN) through FY2012.<br/>
+	</summary>
+</bill>

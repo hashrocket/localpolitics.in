@@ -1,0 +1,31 @@
+<bill session="111" type="h" number="1046" updated="2009-03-07T11:51:46-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Children's Product Safety Enhancement and Clarification Act of 2009</title>
+		<title type="official" as="introduced">To ensure the effective implementation of children's product safety standards under the Consumer Product Safety Improvement Act of 2008.</title>
+	</titles>
+	<sponsor id="400328"/>
+	<cosponsors>
+		<cosponsor id="400321" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Children's Product Safety Enhancement and Clarification Act of 2009 - Amends the Consumer Product Safety Improvement Act of 2008 to exempt a children's product made solely out of fabric from provisions limiting the amount of lead in children's products. Requires the Consumer Product Safety Commission (CPSC), in implementing those lead limits with regard to a small business, a person who sells used goods, or a charity to: (1) work cooperatively with the entity; (2) take into account economic, administrative, or other limits on the entity's compliance ability; and (3) construe those provisions favorably to the entity. Exempts a children's product made solely out of fabric from provisions requiring a manufacturer to certify, based on third party testing, that the product complies with an applicable children's product safety rule safety rule before importing, warehousing, or distributing the product.<br/>
+	</summary>
+</bill>

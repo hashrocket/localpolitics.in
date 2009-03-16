@@ -1,0 +1,52 @@
+<bill session="110" type="hc" number="300" updated="2009-01-08T16:04:44-05:00">
+	<status><vote date="1211397600" datetime="2008-05-21T16:20:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1203051600" datetime="2008-02-15"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the necessity for the United States to maintain its significant leadership role in improving the health and promoting the resiliency of coral reef ecosystems, and for other purposes.</title>
+	</titles>
+	<sponsor id="400041"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="2008-05-19"/>
+		<cosponsor id="400073" joined="2008-05-19"/>
+		<cosponsor id="400001" joined="2008-05-19"/>
+		<cosponsor id="400162" joined="2008-05-19"/>
+		<cosponsor id="400237" joined="2008-05-19"/>
+		<cosponsor id="400178" joined="2008-05-19"/>
+		<cosponsor id="400129" joined="2008-05-19"/>
+		<cosponsor id="412200" joined="2008-05-19"/>
+		<cosponsor id="400344" joined="2008-02-15"/>
+		<cosponsor id="400193" joined="2008-05-19"/>
+		<cosponsor id="400185" joined="2008-05-19"/>
+		<cosponsor id="400662" joined="2008-05-19"/>
+		<cosponsor id="400062" joined="2008-05-19"/>
+		<cosponsor id="400011" joined="2008-05-19"/>
+		<cosponsor id="412198" joined="2008-05-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1203051600" datetime="2008-02-15"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1203397200" datetime="2008-02-19"><text>Referred to the Subcommittee on Fisheries, Wildlife, and Oceans.</text></action>
+		<action date="1211253240" datetime="2008-05-19T12:14:00-04:00"><text>Ms. Bordallo moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1211253240" datetime="2008-05-19T12:14:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4066-4067"/></action>
+		<action date="1211253240" datetime="2008-05-19T12:14:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 300.</text></action>
+		<action date="1211253420" datetime="2008-05-19T12:17:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Issa objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1211397600" datetime="2008-05-21T16:20:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4402"/></action>
+		<vote date="1211397600" how="by voice vote" datetime="2008-05-21T16:20:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 5/19/2008 H4066)</text></vote>
+		<action date="1211428800" datetime="2008-05-22"><text>Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/21/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the necessity for the United States to maintain its significant leadership role in improving the health and promoting the resiliency of coral reef ecosystems by strengthening awareness about ecological, economic, social, and cultural values of coral reefs and associated ecosystems, improving understanding of coral reef threats and generating practical and innovative solutions, and initiating development and implementation of effective management strategies for the conservation and sustainable use of those ecosystems.<br/>
+	</summary>
+</bill>

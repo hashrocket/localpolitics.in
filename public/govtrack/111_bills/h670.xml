@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="670" updated="2009-03-07T11:06:30-05:00">
+	<status><introduced date="1232946000" datetime="2009-01-26"/></status>
+
+	<introduced date="1232946000" datetime="2009-01-26"/>
+	<titles>
+		<title type="short" as="introduced">Save our Border Communities Act of 2009</title>
+		<title type="official" as="introduced">To authorize Federal payment to first responders for costs associated with providing emergency services at the international borders of the United States, and for other purposes.</title>
+	</titles>
+	<sponsor id="400133"/>
+	<cosponsors>
+		<cosponsor id="400337" joined="2009-02-03"/>
+		<cosponsor id="400162" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1233032400" datetime="2009-01-27"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings and Emergency Management" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Emergency management"/>
+		<term name="Border security and unlawful immigration"/>
+		<term name="Canada"/>
+		<term name="Emergency medical services"/>
+		<term name="Fires"/>
+		<term name="Health personnel"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Latin America"/>
+		<term name="Law enforcement administration and funding"/>
+		<term name="Law enforcement officers"/>
+		<term name="Mexico"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/2009--Introduced.<br/>Save our Border Communities Act of 2009 - Directs the Secretary of Homeland Security to provide payment to first responders for costs associated with providing emergency services at U.S. international borders, but only to the extent that such costs are not otherwise reimbursed through any federal program and cannot otherwise be recovered.<br/>
+	</summary>
+</bill>

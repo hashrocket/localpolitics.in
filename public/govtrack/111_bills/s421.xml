@@ -1,0 +1,41 @@
+<bill session="111" type="s" number="421" updated="2009-03-07T14:23:32-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Hospice Protection Act</title>
+		<title type="official" as="introduced">A bill to impose a temporary moratorium on the phase out of the Medicare hospice budget neutrality adjustment factor.</title>
+	</titles>
+	<sponsor id="300092"/>
+	<cosponsors>
+		<cosponsor id="300083" joined="2009-02-13"/>
+		<cosponsor id="300084" joined="2009-02-13"/>
+		<cosponsor id="300051" joined="2009-02-13"/>
+		<cosponsor id="300100" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Sponsor introductory remarks on measure. (CR S2230)</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Health personnel"/>
+		<term name="Long-term, rehabilitative, and terminal care"/>
+		<term name="Medicare"/>
+		<term name="Wages and earnings"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Hospice Protection Act - Establishes a temporary moratorium on the phase out of the Medicare hospice Budget Neutrality Adjustment Factor (BNAF). Directs the Secretary of Health and Human Services, between enactment of this Act and December 31, 2009, to recompute and apply the final Medicare hospice wage index for FY2009 as if the BNAF had remained in place with no reduction.<br/>
+	</summary>
+</bill>

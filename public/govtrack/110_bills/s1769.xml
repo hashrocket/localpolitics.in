@@ -1,0 +1,36 @@
+<bill session="110" type="s" number="1769" updated="2009-01-09T15:30:12-05:00">
+	<status><calendar date="1184817600" datetime="2007-07-19" /></status>
+
+	<introduced date="1184126400" datetime="2007-07-11"/>
+	<titles>
+		<title type="short" as="introduced">Same Number Act of 2007</title>
+		<title type="short" as="reported to senate">Same Number Act of 2007</title>
+		<title type="official" as="introduced">A bill to amend the Communications Act of 1934 to facilitate number portability in order to increase consumer choice of voice service provider.</title>
+	</titles>
+	<sponsor id="300094"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2007-07-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1184126400" datetime="2007-07-11"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+		<action date="1184212800" datetime="2007-07-12"><text>Committee on Commerce, Science, and Transportation. Hearings held.</text></action>
+		<calendar date="1184817600" datetime="2007-07-19" ><text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1193976000" datetime="2007-11-02"><text>Committee on Commerce, Science, and Transportation. Reported by Senator Inouye without amendment. With written report No. 110-219.</text></action>
+		<calendar under="General Orders" number="468" date="1193976000" datetime="2007-11-02" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 468.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/2/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Same Number Act of 2007 - Amends the Communications Act of 1934 to declare that a provider of voice services (a telecommunications service or an IP-enabled voice service) has the duty to provide number portability to the extent technically feasible. Requires the Federal Communications Commission (FCC) to establish number portability performance standards for such providers. Requires the FCC to designate one or more impartial entities to administer telecommunications and voice service numbering and to ensure that numbers are available on an equitable basis. Gives the FCC exclusive jurisdiction of those portions of the North American Numbering Plan that pertain to the United States. Requires that the costs of establishing numbering administration arrangements and number portability be borne by all voice service providers on a competitively neutral basis. Requires designation of 9-1-1 as the universal emergency telephone number within the United States for both wireline and wireless telephone service.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="110" type="h" number="5030" updated="2009-01-09T03:22:36-05:00">
+	<status><vote date="1221570360" datetime="2008-09-16T10:06:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1200459600" datetime="2008-01-16"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Corina de Chalup Turcinovic.</title>
+	</titles>
+	<sponsor id="400630"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1200459600" datetime="2008-01-16"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1200632400" datetime="2008-01-18"><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+		<action date="1202878800" datetime="2008-02-13"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1202878800" datetime="2008-02-13"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1210737600" datetime="2008-05-14"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1210737600" datetime="2008-05-14" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1215543180" datetime="2008-07-08T15:53:00-04:00"><text>Reported by the Committee on Judiciary. H. Rept. 110-743.</text></action>
+		<calendar number="3" date="1215543180" datetime="2008-07-08T15:53:00-04:00" calendar="Private" ><text>Placed on the Private Calendar, Calendar No. 3.</text></calendar>
+		<action date="1221570360" datetime="2008-09-16T10:06:00-04:00"><text>Called up from the Private Calendar for consideration.</text></action>
+		<action date="1221570360" datetime="2008-09-16T10:06:00-04:00"><text>Considered from the Private Calendar.</text><reference label="consideration" ref="CR H8137-8138"/></action>
+		<vote date="1221570360" how="by voice vote" datetime="2008-09-16T10:06:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed by voice vote.</text><reference label="text" ref="CR H8137-8138"/></vote>
+		<action date="1221624000" datetime="2008-09-17"><text>Received in the Senate.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/16/2008--Introduced.<br/>Provides for the relief of Corina de Chalup Turcinovic.<br/>
+	</summary>
+</bill>

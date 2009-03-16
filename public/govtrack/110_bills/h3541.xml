@@ -1,0 +1,83 @@
+<bill session="110" type="h" number="3541" updated="2009-01-09T00:18:29-05:00">
+	<status><enacted date="1203051600" datetime="2008-02-15" /></status>
+
+	<introduced date="1190001600" datetime="2007-09-17"/>
+	<titles>
+		<title type="short" as="introduced">Do-Not-Call Improvement Act of 2007</title>
+		<title type="short" as="reported to house">Do-Not-Call Improvement Act of 2007</title>
+		<title type="short" as="passed house">Do-Not-Call Improvement Act of 2007</title>
+		<title type="short" as="passed senate">Do-Not-Call Improvement Act of 2007</title>
+		<title type="short" as="enacted">Do-Not-Call Improvement Act of 2007</title>
+		<title type="official" as="introduced">To amend the &quot;Do-not-call&quot; Implementation Act to eliminate the automatic removal of telephone numbers registered on the Federal &quot;do-not-call&quot; registry.</title>
+		<title type="official" as="amended by house">To amend the Do-not-call Implementation Act to eliminate the automatic removal of telephone numbers registered on the Federal &quot;do-not-call&quot; registry.</title>
+	</titles>
+	<sponsor id="400114"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="2007-10-02"/>
+		<cosponsor id="400222" joined="2007-10-24"/>
+		<cosponsor id="400219" joined="2007-09-27"/>
+		<cosponsor id="400659" joined="2007-10-02"/>
+		<cosponsor id="400257" joined="2007-09-24"/>
+		<cosponsor id="400160" joined="2007-10-29"/>
+		<cosponsor id="400063" joined="2007-09-24"/>
+		<cosponsor id="400361" joined="2007-09-27"/>
+		<cosponsor id="412210" joined="2007-10-02"/>
+		<cosponsor id="400264" joined="2007-10-12"/>
+		<cosponsor id="400184" joined="2007-10-29"/>
+		<cosponsor id="400285" joined="2007-10-30"/>
+		<cosponsor id="400355" joined="2007-10-02"/>
+		<cosponsor id="400216" joined="2007-10-24"/>
+		<cosponsor id="400316" joined="2007-10-12"/>
+		<cosponsor id="400007" joined="2007-10-24"/>
+		<cosponsor id="400308" joined="2007-10-12"/>
+		<cosponsor id="412200" joined="2007-10-18"/>
+		<cosponsor id="400284" joined="2007-09-24"/>
+		<cosponsor id="400207" joined="2007-09-27"/>
+		<cosponsor id="400319" joined="2007-09-17"/>
+		<cosponsor id="412196" joined="2007-09-24"/>
+		<cosponsor id="412236" joined="2007-09-27"/>
+		<cosponsor id="400043" joined="2007-09-17"/>
+		<cosponsor id="400391" joined="2007-10-02"/>
+		<cosponsor id="400641" joined="2007-09-27"/>
+		<cosponsor id="412206" joined="2007-10-12"/>
+		<cosponsor id="400088" joined="2007-10-18"/>
+		<cosponsor id="400163" joined="2007-10-12"/>
+		<cosponsor id="400186" joined="2007-10-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1190001600" datetime="2007-09-17"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1190001600" datetime="2007-09-17"><text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text></action>
+		<action date="1193716800" datetime="2007-10-30"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1193716800" datetime="2007-10-30" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1197402000" datetime="2007-12-11T15:40:00-05:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-486.</text></action>
+		<calendar number="301" date="1197402060" datetime="2007-12-11T15:41:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 301.</text></calendar>
+		<action date="1197403800" datetime="2007-12-11T16:10:00-05:00"><text>Mr. Butterfield moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1197403800" datetime="2007-12-11T16:10:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H15267-15269"/></action>
+		<action date="1197403800" datetime="2007-12-11T16:10:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3541.</text></action>
+		<vote date="1197404580" how="by voice vote" datetime="2007-12-11T16:23:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H15267"/></vote>
+		<action date="1197404580" datetime="2007-12-11T16:23:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1197435600" datetime="2007-12-12"><text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+		<action date="1202274000" datetime="2008-02-06"><text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S750-751"/></action>
+		<vote date="1202274000" how="by Unanimous Consent" datetime="2008-02-06" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<topresident date="1202274000" datetime="2008-02-06" ><text>Cleared for White House.</text></topresident>
+		<action date="1202360400" datetime="2008-02-07"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1202792400" datetime="2008-02-12" ><text>Presented to President.</text></topresident>
+		<signed date="1203051600" datetime="2008-02-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-187" date="1203051600" datetime="2008-02-15" type="public" ><text>Became Public Law No: 110-187.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/15/2008--Public Law. (This measure has not been amended since it was passed by the House on December 11, 2007. The summary of that version is repeated here.) Do-Not-Call Improvement Act of 2007 - Amends the &quot;Do-Not-Call&quot; Implementation Act to prohibit removing numbers from the do-not-call registry unless: (1) the number is invalid, disconnected, or reassigned; or (2) the individual to whom the number is assigned so requests. Requires the Federal Trade Commission (FTC) to periodically check numbers on the registry and remove invalid, disconnected, or reassigned numbers.<br/>Requires the FTC to report to Congress on the FTC's efforts, after enactment of this Act, to improve the accuracy of the registry.<br/>
+	</summary>
+</bill>

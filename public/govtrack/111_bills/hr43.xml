@@ -1,0 +1,53 @@
+<bill session="111" type="hr" number="43" updated="2009-03-07T13:09:18-05:00">
+	<status><vote date="1231888740" datetime="2009-01-13T19:19:00-05:00" where="h" result="pass" how="roll" roll="13"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the efforts of those who serve their communities on Martin Luther King Day and promoting the holiday as a day of national service.</title>
+	</titles>
+	<sponsor id="400321"/>
+	<cosponsors>
+		<cosponsor id="400663" joined="2009-01-09"/>
+		<cosponsor id="400257" joined="2009-01-13"/>
+		<cosponsor id="400162" joined="2009-01-13"/>
+		<cosponsor id="400237" joined="2009-01-13"/>
+		<cosponsor id="400211" joined="2009-01-13"/>
+		<cosponsor id="400009" joined="2009-01-13"/>
+		<cosponsor id="412186" joined="2009-01-13"/>
+		<cosponsor id="400326" joined="2009-01-09"/>
+		<cosponsor id="400185" joined="2009-01-13"/>
+		<cosponsor id="400240" joined="2009-01-13"/>
+		<cosponsor id="400163" joined="2009-01-13"/>
+		<cosponsor id="400179" joined="2009-01-13"/>
+		<cosponsor id="400278" joined="2009-01-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1231872180" datetime="2009-01-13T14:43:00-05:00"><text>Mr. Hinojosa moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1231872180" datetime="2009-01-13T14:43:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H176-179"/></action>
+		<action date="1231872180" datetime="2009-01-13T14:43:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 43.</text></action>
+		<action date="1231873200" datetime="2009-01-13T15:00:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1231888260" datetime="2009-01-13T19:11:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H183-184"/></action>
+		<vote date="1231888740" how="roll" roll="13" datetime="2009-01-13T19:19:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 13).</text><reference label="text" ref="CR H176"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Members of Congress"/>
+		<term name="Postal service"/>
+		<term name="Racial and ethnic relations"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/13/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Encourages all Americans to pay tribute to the life and works of Dr. Martin Luther King, Jr. through participation in community service projects on Martin Luther King Day (January 19, 2009). Recognizes the inherent value of community service and volunteerism in the creation of civil society and as a means of non-violent community progress consistent with the works of Dr. Martin Luther King, Jr. Recognizes the benefits of the collaborative work by the many organizations that promote, facilitate, and carry out needed service projects nationwide. Encourages Members of the House of Representatives and colleagues to urge their constituents, both in congressional districts and those visiting the District of Columbia on Inauguration Day, to participate in community service projects. Acknowledges that by serving one's country, one's community, and one's neighbor our nation makes progress in civility, equality, and unity consistent with the values and life's work of Dr. Martin Luther King, Jr. 
+	</summary>
+</bill>

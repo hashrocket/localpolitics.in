@@ -1,0 +1,31 @@
+<bill session="111" type="s" number="577" updated="2009-03-13T12:00:15-04:00">
+	<status><introduced date="1236830400" datetime="2009-03-12"/></status>
+
+	<introduced date="1236830400" datetime="2009-03-12"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title 18, United States Code, to provide penalties for individuals who engage in schemes to defraud aliens and for other purposes.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300059" joined="2009-03-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1236830400" datetime="2009-03-12"><text>Sponsor introductory remarks on measure. (CR S3075)</text></action>
+		<action date="1236830400" datetime="2009-03-12"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S3075-3076"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

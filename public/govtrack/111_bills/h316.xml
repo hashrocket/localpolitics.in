@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="316" updated="2009-03-07T10:24:40-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Omnibus Parks and Public Lands Management Act of 1996 to authorize the Secretary of the Interior to enter into cooperative agreements with any of the management partners of the Boston Harbor Islands National Recreation Area, and for other purposes.</title>
+	</titles>
+	<sponsor id="400102"/>
+	<cosponsors>
+		<cosponsor id="400063" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="22" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Government buildings, facilities, and property"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Massachusetts"/>
+		<term name="Parks, recreation areas, trails"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Public-private cooperation"/>
+		<term name="State and local government operations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Amends the Omnibus Parks and Public Lands Management Act of 1996 relating to the Boston Harbor Islands National Recreation Area to permit the Secretary of the Interior to: (1) consult with and enter into cooperative agreements concerning the Recreation Area under the Act with any member of the Boston Harbor Islands Partnership; and (2) through such cooperative agreements between the Secretary and any Partnership member, acquire from and provide to such eligible entities goods and services for the construction of recreation area facilities or for any other purpose that is consistent with the purposes of the Recreation Area. 
+	</summary>
+</bill>

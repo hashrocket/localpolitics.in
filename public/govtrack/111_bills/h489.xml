@@ -1,0 +1,48 @@
+<bill session="111" type="h" number="489" updated="2009-03-07T10:45:07-05:00">
+	<status><introduced date="1231822800" datetime="2009-01-13"/></status>
+
+	<introduced date="1231822800" datetime="2009-01-13"/>
+	<titles>
+		<title type="short" as="introduced">Strategic Communication Act of 2009</title>
+		<title type="official" as="introduced">To improve the conduct of strategic communication by the Federal Government.</title>
+	</titles>
+	<sponsor id="400404"/>
+	<cosponsors>
+		<cosponsor id="400279" joined="2009-02-03"/>
+		<cosponsor id="400288" joined="2009-01-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1231822800" datetime="2009-01-13"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Foreign Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Area studies and international education"/>
+		<term name="Cultural exchanges and relations"/>
+		<term name="Department of Defense"/>
+		<term name="Department of Homeland Security"/>
+		<term name="Department of Justice"/>
+		<term name="Department of State"/>
+		<term name="Diplomacy, foreign officials, Americans abroad"/>
+		<term name="Director of National Intelligence"/>
+		<term name="Federal officials"/>
+		<term name="Government information and archives"/>
+		<term name="Human rights"/>
+		<term name="Intelligence activities, surveillance, classified information"/>
+		<term name="International exchange and broadcasting"/>
+		<term name="Military operations and strategy"/>
+		<term name="Public-private cooperation"/>
+		<term name="Tax-exempt organizations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/13/2009--Introduced.<br/>Strategic Communication Act of 2009 - Directs the Secretary of State to solicit from tax-exempt national security and foreign policy research organizations offers to establish a Center for Strategic Communication, and select one organization to establish such Center. Includes among Center duties: (1) provision of information and analysis to the Department of State, the Department of Defense (DOD), the Department of Justice, the Department of Homeland Security (DHS), and the Director of National Intelligence on U.S. security and foreign policy issues; (2) development of U.S. communications strategies and monitoring techniques; (3) support of government-wide strategic communication through services provided on a cost-recovery basis; (4) contracting with private sector and academic entities; and (5) mobilization of nongovernment initiatives.<br/>
+	</summary>
+</bill>

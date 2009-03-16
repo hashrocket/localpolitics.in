@@ -1,0 +1,41 @@
+<bill session="110" type="hc" number="325" updated="2009-01-08T16:08:03-05:00">
+	<status><vote2 date="1213243200" datetime="2008-06-12" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1207713600" datetime="2008-04-09"/>
+	<titles>
+		<title type="official" as="introduced">Celebrating the 50th Anniversary of the Mackinac Island State Park Commission's Historical Preservation and Museum Program, which began on June 15, 1958, and for other purposes.</title>
+	</titles>
+	<sponsor id="400391"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1207713600" datetime="2008-04-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1207886400" datetime="2008-04-11"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1211253660" datetime="2008-05-19T12:21:00-04:00"><text>Ms. Bordallo moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1211253660" datetime="2008-05-19T12:21:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4068-4069"/></action>
+		<action date="1211253660" datetime="2008-05-19T12:21:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 325.</text></action>
+		<action date="1211253780" datetime="2008-05-19T12:23:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Issa objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1211397720" datetime="2008-05-21T16:22:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4402"/></action>
+		<vote date="1211397720" how="by voice vote" datetime="2008-05-21T16:22:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 5/19/2008 H4068)</text></vote>
+		<action date="1211428800" datetime="2008-05-22"><text>Received in the Senate and referred to the Committee on the Judiciary.</text></action>
+		<action date="1213243200" datetime="2008-06-12"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S5638"/></action>
+		<vote date="1213243200" how="by Unanimous Consent" datetime="2008-06-12" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text></vote>
+		<action date="1213588800" datetime="2008-06-16"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/12/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Celebrates the 50th anniversary of the Mackinac Island State Park Commission's Historical Preservation and Museum Program, which began on June 15, 1958. 
+	</summary>
+</bill>

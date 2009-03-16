@@ -1,0 +1,38 @@
+<bill session="110" type="hr" number="451" updated="2009-01-09T08:48:35-05:00">
+	<status><vote date="1181086140" datetime="2007-06-05T20:29:00-04:00" where="h" result="pass" how="roll" roll="429"/></status>
+
+	<introduced date="1181016000" datetime="2007-06-05"/>
+	<titles>
+		<title type="official" as="introduced">Directing the Committee on Standards of Official Conduct to respond to the indictment of, or the filing of charges of criminal conduct in a court of the United States or any State against, any Member of the House of Representatives by empaneling an investigative subcommittee to review the allegations not later than 30 days after the date the Member is indicted or the charges are filed.</title>
+	</titles>
+	<sponsor id="400189"/>
+	<cosponsors>
+		<cosponsor id="400120" joined="2007-06-05"/>
+		<cosponsor id="400233" joined="2007-06-05"/>
+		<cosponsor id="400075" joined="2007-06-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1181016000" datetime="2007-06-05"><text>Referred to the House Committee on Rules.</text></action>
+		<action date="1181080020" datetime="2007-06-05T18:47:00-04:00"><text>Mr. Hoyer moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1181080080" datetime="2007-06-05T18:48:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5971-5976"/></action>
+		<action date="1181080080" datetime="2007-06-05T18:48:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 451.</text></action>
+		<action date="1181082960" datetime="2007-06-05T19:36:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1181085780" datetime="2007-06-05T20:23:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5978-5979"/></action>
+		<vote date="1181086140" how="roll" roll="429" datetime="2007-06-05T20:29:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 387 - 10, 15 Present (Roll no. 429).</text><reference label="text" ref="CR H5971"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/5/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Provides that if a Member of the House of Representatives, including a Delegate or Resident Commissioner, is indicted or otherwise formally charged with criminal conduct in a federal or state court, the Committee on Standards of Official Conduct shall within 30 days: (1) empanel an investigative subcommittee to review the allegations; or (2) if the Committee does not take such action, report to the House on its reasons for not doing so, together with the actions, if any, the Committee has taken in response to the allegations.<br/>
+	</summary>
+</bill>

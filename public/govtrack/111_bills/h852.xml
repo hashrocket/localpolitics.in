@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="852" updated="2009-03-07T11:28:20-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Re-Build America Bond Act of 2009</title>
+		<title type="official" as="introduced">To authorize the Secretary of the Treasury to issue Re-Build America Bonds to finance essential infrastructure projects.</title>
+	</titles>
+	<sponsor id="400356"/>
+	<cosponsors>
+		<cosponsor id="400177" joined="2009-02-04"/>
+		<cosponsor id="400618" joined="2009-02-04"/>
+		<cosponsor id="412225" joined="2009-02-04"/>
+		<cosponsor id="400628" joined="2009-02-04"/>
+		<cosponsor id="412206" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to House Ways and Means</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1259730000" datetime="2009-12-02"><text>Sponsor introductory remarks on measure. (CR H1252)</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

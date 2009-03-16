@@ -1,0 +1,33 @@
+<bill session="111" type="s" number="209" updated="2009-03-07T13:58:11-05:00">
+	<status><introduced date="1231736400" datetime="2009-01-12"/></status>
+
+	<introduced date="1231736400" datetime="2009-01-12"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to modify and extend the credit for alternative motor vehicles, and for other purposes.</title>
+	</titles>
+	<sponsor id="300011"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231736400" datetime="2009-01-12"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Alternative and renewable resources"/>
+		<term name="Income tax credits"/>
+		<term name="Motor vehicles"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/12/2009--Introduced.<br/>Amends the Internal Revenue Code to: (1) extend through 2012 the alternative motor vehicles tax credit for advanced lean burn technology, hybrid, and new alternative fuel motor vehicles; (2) increase the amounts of such credit; (3) repeal limitations on the number of hybrid and advanced lean-burn technology vehicles eligible for such credit; and (4) deny such credit to a taxpayer whose adjusted gross income exceeds $100,000 ($200,000 in the case of married couples filing jointly). 
+	</summary>
+</bill>

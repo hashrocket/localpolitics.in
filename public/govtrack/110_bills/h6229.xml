@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="6229" updated="2009-01-09T05:43:43-05:00">
+	<status><enacted date="1223870400" datetime="2008-10-13" /></status>
+
+	<introduced date="1213070400" datetime="2008-06-10"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 2523 7th Avenue East in North Saint Paul, Minnesota, as the &quot;Mayor William 'Bill' Sandberg Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400259"/>
+	<cosponsors>
+		<cosponsor id="400332" joined="2008-06-10"/>
+		<cosponsor id="412215" joined="2008-06-10"/>
+		<cosponsor id="412214" joined="2008-06-10"/>
+		<cosponsor id="400316" joined="2008-06-10"/>
+		<cosponsor id="400224" joined="2008-06-10"/>
+		<cosponsor id="412216" joined="2008-06-10"/>
+		<cosponsor id="400299" joined="2008-06-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1213070400" datetime="2008-06-10"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1213243200" datetime="2008-06-12"><text>Sponsor introductory remarks on measure. (CR E1222)</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1216180800" datetime="2008-07-16" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1221671160" datetime="2008-09-17T14:06:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1221671160" datetime="2008-09-17T14:06:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8325-8328"/></action>
+		<action date="1221671160" datetime="2008-09-17T14:06:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6229.</text></action>
+		<action date="1221672360" datetime="2008-09-17T14:26:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Foxx objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1221771120" datetime="2008-09-18T17:52:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8454"/></action>
+		<vote date="1221771120" how="by voice vote" datetime="2008-09-18T17:52:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 9/17/2008 H8325)</text></vote>
+		<action date="1222056000" datetime="2008-09-22"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1222747200" how="by Unanimous Consent" datetime="2008-09-30" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10129-10130"/></vote>
+		<action date="1222747200" datetime="2008-09-30"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1222747200" datetime="2008-09-30" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1223352000" datetime="2008-10-07" ><text>Presented to President.</text></topresident>
+		<signed date="1223870400" datetime="2008-10-13" ><text>Signed by President.</text></signed>
+		<enacted number="110-396" date="1223870400" datetime="2008-10-13" type="public" ><text>Became Public Law No: 110-396.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/13/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 2523 7th Avenue East in North Saint Paul, Minnesota, as the &quot;Mayor William 'Bill' Sandberg Post Office Building.&quot; 
+	</summary>
+</bill>

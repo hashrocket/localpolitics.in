@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="54" updated="2009-03-07T09:54:07-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Great Lakes Water Protection Act</title>
+		<title type="official" as="introduced">To amend the Federal Water Pollution Control Act to establish a deadline for restricting sewage dumping into the Great Lakes and to fund programs and activities for improving wastewater discharges into the Great Lakes.</title>
+	</titles>
+	<sponsor id="400222"/>
+	<cosponsors>
+		<cosponsor id="400630" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR E11)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Aquatic ecology"/>
+		<term name="Government information and archives"/>
+		<term name="Government trust funds"/>
+		<term name="Great Lakes"/>
+		<term name="Lakes and rivers"/>
+		<term name="Marine pollution"/>
+		<term name="Pollution liability"/>
+		<term name="Solid waste and recycling"/>
+		<term name="Water quality"/>
+		<term name="Wetlands"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Great Lakes Water Protection Act - Amends the Federal Water Pollution Control Act (popularly known as the Clean Water Act) to prohibit publicly owned treatment works (POTWs) from intentionally diverting waste streams to bypass any portion of the treatment facility if the diversion results in a discharge into the Great Lakes unless: (1) the bypass is unavoidable to prevent loss of life, personal injury, or severe property damage; (2) there is no feasible alternative; and (3) the treatment works provides notice; or (4) the bypass does not cause effluent limitations to be exceeded and is for essential maintenance to ensure efficient operation of the treatment facility.<br/>Requires: (1) such notice to be provided to the Administrator of the Environmental Protection Agency (EPA) (or to a state with an approved permit program) prior to an anticipated bypass or within 24 hours of becoming aware of an unanticipated bypass; and (2) follow-up notice regarding the cause and duration of, volume of discharge resulting from, and public access areas affected by an unanticipated bypass.<br/>Includes among prohibited bypasses those resulting in discharges from a POTW that consist of effluent routed around treatment units and blended with effluent from treatment units prior to discharge.<br/>Directs the Administrator to establish procedures to ensure that permits issued to POTWs under the National Pollutant Discharge Elimination System include requirements to implement this Act. Provides an increased maximum civil penalty for violations occurring on or after January 1, 2029. Applies the prohibition on diverting waste streams to a bypass occurring after the last day of the one-year period beginning on the date of this Act's enactment.<br/>Establishes the Great Lakes Cleanup Fund from which amounts shall be provided for improving wastewater discharges. 
+	</summary>
+</bill>

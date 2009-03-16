@@ -1,0 +1,45 @@
+<bill session="110" type="h" number="2356" updated="2009-01-08T21:46:02-05:00">
+	<status><enacted date="1212465600" datetime="2008-06-03" /></status>
+
+	<introduced date="1179374400" datetime="2007-05-17"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 4, United States Code, to encourage the display of the flag of the United States on Father's Day.</title>
+	</titles>
+	<sponsor id="400363"/>
+	<cosponsors>
+		<cosponsor id="400055" joined="2007-05-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1179374400" datetime="2007-05-17"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1180929600" datetime="2007-06-04"><text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text></action>
+		<action date="1181582640" datetime="2007-06-11T14:24:00-04:00"><text>Ms. Baldwin moved to suspend the rules and pass the bill.</text></action>
+		<action date="1181582640" datetime="2007-06-11T14:24:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6189-6192"/></action>
+		<action date="1181582640" datetime="2007-06-11T14:24:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2356.</text></action>
+		<action date="1181584020" datetime="2007-06-11T14:47:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1181597580" datetime="2007-06-11T18:33:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6204-6205"/></action>
+		<vote date="1181598960" how="roll" roll="448" datetime="2007-06-11T18:56:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 0 (Roll no. 448).</text><reference label="text" ref="CR H6189"/></vote>
+		<action date="1181620800" datetime="2007-06-12"><text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text></action>
+		<action date="1210824000" datetime="2008-05-15"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S4288"/></action>
+		<vote date="1210824000" how="by Unanimous Consent" datetime="2008-05-15" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<topresident date="1210824000" datetime="2008-05-15" ><text>Cleared for White House.</text></topresident>
+		<action date="1210910400" datetime="2008-05-16"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1211515200" datetime="2008-05-23" ><text>Presented to President.</text></topresident>
+		<signed date="1212465600" datetime="2008-06-03" ><text>Signed by President.</text></signed>
+		<enacted number="110-239" date="1212465600" datetime="2008-06-03" type="public" ><text>Became Public Law No: 110-239.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/3/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Adds Father's Day, the third Sunday in June, to the official occasions for the display of the U.S. flag.<br/>
+	</summary>
+</bill>

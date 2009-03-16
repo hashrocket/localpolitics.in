@@ -1,0 +1,44 @@
+<bill session="110" type="h" number="1855" updated="2009-01-08T20:43:28-05:00">
+	<status><vote date="1193079120" datetime="2007-10-22T15:52:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1175227200" datetime="2007-03-30"/>
+	<titles>
+		<title type="short" as="introduced">Madera Water Supply Enhancement Act</title>
+		<title type="short" as="passed house">Madera Water Supply Enhancement Act</title>
+		<title type="short" as="reported to senate">Madera Water Supply Enhancement Act</title>
+		<title type="official" as="introduced">To authorize the Secretary of the Interior, acting through the Bureau of Reclamation to enter into a cooperative agreement with the Madera Irrigation District for purposes of supporting the Madera Water Supply Enhancement Project.</title>
+	</titles>
+	<sponsor id="400330"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1175227200" datetime="2007-03-30"><text>Sponsor introductory remarks on measure. (CR E728)</text></action>
+		<action date="1175227200" datetime="2007-03-30"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1176264000" datetime="2007-04-11"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1193078880" datetime="2007-10-22T15:48:00-04:00"><text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1193078940" datetime="2007-10-22T15:49:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11805-11806"/></action>
+		<action date="1193078940" datetime="2007-10-22T15:49:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1855.</text></action>
+		<vote date="1193079120" how="by voice vote" datetime="2007-10-22T15:52:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H11805"/></vote>
+		<action date="1193112000" datetime="2007-10-23"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1204174800" datetime="2008-02-28"><text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held.</text></action>
+		<calendar date="1210132800" datetime="2008-05-07" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1213588800" datetime="2008-06-16"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-384.</text></action>
+		<calendar under="General Orders" number="816" date="1213588800" datetime="2008-06-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 816.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/16/2008--Reported to Senate without amendment. (This measure has not been amended since it was passed by the House on October 22, 2007. The summary of that version is repeated here.) Madera Water Supply Enhancement Act - Declares that the Madera Water Supply Enhancement Project, California, is feasible and that no further studies or actions regarding feasibility are necessary. Requires all planning, design, and construction of the Project to be undertaken in accordance with a cooperative agreement between the Secretary of the Interior and the Madera Irrigation District. Authorizes the Secretary to enter into a cooperative agreement for the support of Project design and construction. Limits: (1) the total cost of the Project for purposes of determining the federal share; and (2) the federal share of Project capital costs.<br/>Considers capital, planning, design, permitting, construction, and land acquisition costs incurred by the District prior to this Act's enactment to be part of the nonfederal share. Requires the District to receive credit toward the nonfederal share for: (1) in-kind services that the Secretary determines would contribute substantially toward completion of the Project; (2) reasonable costs incurred from participation in the planning, design, permitting, and construction of the Project; and (3) the acquisition costs of lands used or acquired for the Project.<br/>Prohibits the Secretary from providing funds for operation or maintenance. Makes Project operation, ownership, and maintenance the sole responsibility of the District. Directs the Secretary, before obligating funds, to work cooperatively with the District to use plans, designs, and engineering and environmental analyses that have already been prepared by the District. Authorizes appropriations. Terminates the Secretary's authority to carry out this Act 10 years after its enactment. 
+	</summary>
+</bill>

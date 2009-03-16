@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="572" updated="2009-03-07T10:54:48-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Contracting and Tax Accountability Act of 2009</title>
+		<title type="official" as="introduced">To prohibit the awarding of a contract or grant in excess of the simplified acquisition threshold unless the prospective contractor or grantee certifies in writing to the agency awarding the contract or grant that the contractor or grantee has no seriously delinquent tax debts, and for other purposes.</title>
+	</titles>
+	<sponsor id="412206"/>
+	<cosponsors>
+		<cosponsor id="400409" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="265" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Tax administration and collection, taxpayers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Contracting and Tax Accountability Act of 2009 - Prohibits any person who has a seriously delinquent tax debt from obtaining a federal government contract or grant. Requires federal agency heads to require prospective recipients of a contract or grant in excess of an amount equal to the simplified acquisition threshold to: (1) certify that they do not have such a debt; and (2) authorize the Secretary of the Treasury to disclose information describing whether they have such a debt. Defines &quot;seriously delinquent tax debt&quot; and an outstanding tax debt for which a notice of lien has been filed in public records.<br/>
+	</summary>
+</bill>

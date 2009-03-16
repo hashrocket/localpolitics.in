@@ -1,0 +1,45 @@
+<bill session="110" type="s" number="360" retreived_date="1226084596" updated="2008-11-07T14:03:16-05:00">
+	<status><introduced date="1169528400" datetime="2007-01-23"/></status>
+
+	<introduced date="1169528400" datetime="2007-01-23"/>
+	<titles>
+		<title type="short" as="introduced">Greater Access To Education Act of 2007</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to expand expenses which qualify for the Hope Scholarship Credit and to make the Hope Scholarship Credit and the Lifetime Learning Credit refundable.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+		<cosponsor id="300076" joined="2007-01-25"/>
+		<cosponsor id="400357" joined="2007-01-25"/>
+		<cosponsor id="300090" joined="2007-01-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1169528400" datetime="2007-01-23"><text>Sponsor introductory remarks on measure. (CR S912-913)</text></action>
+		<action date="1169528400" datetime="2007-01-23"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S913-914"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="110" type="h" number="2924" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Books"/>
+		<term name="College costs"/>
+		<term name="Education"/>
+		<term name="Higher education"/>
+		<term name="Income tax"/>
+		<term name="Scholarships"/>
+		<term name="Tax refunds"/>
+		<term name="Tax returns"/>
+		<term name="Teaching materials"/>
+		<term name="Textbooks"/>
+		<term name="Tuition tax credits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/23/2007--Introduced.<br/>Greater Access to Education Act of 2007 - Amends Internal Revenue Code provisions relating to the Hope Scholarship tax credit to: (1) include room, board, fees, books, supplies, and equipment as expenses eligible for such credit; (2) exclude Pell and Supplemental Educational Opportunity Grants from types of scholarship assistance which reduce the allowable amount of such credit; and (3) exempt certain expenses eligible for such credit from tax information reporting requirements.<br/>Makes the Hope Scholarship and Lifetime Learning tax credits refundable.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="346" updated="2009-03-07T10:28:16-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="official" as="introduced">To repeal the provision of law that provides for automatic pay adjustments for Members of Congress.</title>
+	</titles>
+	<sponsor id="400321"/>
+	<cosponsors>
+		<cosponsor id="400643" joined="2009-01-08"/>
+		<cosponsor id="400141" joined="2009-02-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to House House Administration</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to House Oversight and Government Reform</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="566" />
+		<bill relation="unknown" session="111" type="h" number="581" />
+		<bill relation="unknown" session="111" type="s" number="102" />
+		<bill relation="unknown" session="111" type="s" number="317" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Members of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

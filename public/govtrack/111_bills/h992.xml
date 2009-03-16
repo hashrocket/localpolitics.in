@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="992" updated="2009-03-07T11:44:59-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="short" as="introduced">James Madison Memorial Commission Act of 2009</title>
+		<title type="official" as="introduced">To establish the James Madison Memorial Commission to develop a plan of action for the establishment and maintenance of a James Madison memorial in Washington, DC, and for other purposes.</title>
+	</titles>
+	<sponsor id="400177"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1234846800" datetime="2009-02-17"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Introduced.<br/>James Madison Memorial Commission Act of 2009 - Establishes the James Madison Memorial Commission to plan for the design and construction of a memorial in Washington, D.C., as a tribute to the many accomplishments of James Madison, who was the fourth President of the United States.<br/>
+	</summary>
+</bill>

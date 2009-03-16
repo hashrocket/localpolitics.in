@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="732" updated="2009-03-07T11:13:59-05:00">
+	<status><introduced date="1233032400" datetime="2009-01-27"/></status>
+
+	<introduced date="1233032400" datetime="2009-01-27"/>
+	<titles>
+		<title type="short" as="introduced">Targeting Homeland Security Resources Effectively Against Terrorism Act of 2009</title>
+		<title type="short" as="introduced">THREAT Act</title>
+		<title type="official" as="introduced">To authorize the grant program under which the Secretary of Homeland Security makes discretionary grants for use in high-threat, high-density urban areas, and for other purposes.</title>
+	</titles>
+	<sponsor id="400426"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233032400" datetime="2009-01-27"><text>Referred to the House Committee on Homeland Security.</text></action>
+		<action date="1233810000" datetime="2009-02-05"><text>Referred to the Subcommittee on Emergency Communications, Preparedness, and Response.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Homeland Security" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Homeland Security" subcommittee="Emergency Communications, Preparedness, and Response" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Emergency management"/>
+		<term name="Homeland security"/>
+		<term name="Law enforcement administration and funding"/>
+		<term name="Terrorism"/>
+		<term name="Urban and suburban affairs and development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

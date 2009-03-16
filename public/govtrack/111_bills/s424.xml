@@ -1,0 +1,46 @@
+<bill session="111" type="s" number="424" updated="2009-03-07T14:23:53-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Uniting American Families Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Immigration and Nationality Act to eliminate discrimination in the immigration laws by permitting permanent partners of United States citizens and lawful permanent residents to obtain lawful permanent resident status in the same manner as spouses of citizens and lawful permanent residents and to penalize immigration fraud in connection with permanent partnerships.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2009-02-12"/>
+		<cosponsor id="400272" joined="2009-02-12"/>
+		<cosponsor id="400050" joined="2009-02-12"/>
+		<cosponsor id="400064" joined="2009-02-12"/>
+		<cosponsor id="300011" joined="2009-02-12"/>
+		<cosponsor id="300001" joined="2009-02-12"/>
+		<cosponsor id="300076" joined="2009-02-12"/>
+		<cosponsor id="300042" joined="2009-02-12"/>
+		<cosponsor id="300060" joined="2009-02-12"/>
+		<cosponsor id="300087" joined="2009-02-12"/>
+		<cosponsor id="300034" joined="2009-02-12"/>
+		<cosponsor id="400357" joined="2009-02-27"/>
+		<cosponsor id="412247" joined="2009-02-12"/>
+		<cosponsor id="300100" joined="2009-02-12"/>
+		<cosponsor id="300064" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Sponsor introductory remarks on measure. (CR S2233-2234)</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S2234-2236"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="1024" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Uniting American Families Act of 2009 - Amends the Immigration and Nationality Act to include a &quot;permanent partner&quot; within the scope of such Act. Defines a &quot;permanent partner&quot; as an individual 18 or older who: (1) is in a committed, intimate relationship with another individual 18 or older in which both individuals intend a lifelong commitment; (2) is financially interdependent with the other individual; (3) is not married to, or in a permanent partnership with, any other individual other than the individual; (4) is unable to contract with the other individual a marriage cognizable under this Act; and (5) is not a first, second, or third degree blood relation of the other individual. Defines a &quot;permanent partnership&quot; as the relationship existing between two permanent partners.<br/>
+	</summary>
+</bill>

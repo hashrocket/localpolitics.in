@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="1156" updated="2009-01-09T10:18:08-05:00">
+	<status><vote date="1209651600" datetime="2008-05-01T11:20:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1209441600" datetime="2008-04-29"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the Senate amendment to the bill (H.R. 493) to prohibit discrimination on the basis of genetic information with respect to health insurance and employment.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1209506040" datetime="2008-04-29T18:54:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-612, by Ms. Slaughter.</text></action>
+		<action date="1209506040" datetime="2008-04-29T18:54:00-04:00"><text>The resolution makes in order a motion to agree to the Senate amendment to H.R. 493. The motion is debatable for one hour, equally divided and controlled.</text></action>
+		<calendar date="1209506040" datetime="2008-04-29T18:54:00-04:00" ><text>Placed on the House Calendar, Calendar No. 211.</text></calendar>
+		<action date="1209649140" datetime="2008-05-01T10:39:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H2956-2961"/></action>
+		<action date="1209649200" datetime="2008-05-01T10:40:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 1156.</text></action>
+		<action date="1209651600" datetime="2008-05-01T11:20:00-04:00"><text>On ordering the previous question Agreed to by voice vote.</text><reference label="consideration" ref="CR H2961"/></action>
+		<vote date="1209651600" how="by voice vote" datetime="2008-05-01T11:20:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H2956"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/29/2008--Introduced.<br/>Sets forth the rule for consideration of the Senate amendment to the bill (H.R. 493) to prohibit discrimination on the basis of genetic information with respect to health insurance and employment.<br/>
+	</summary>
+</bill>

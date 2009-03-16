@@ -1,0 +1,81 @@
+<bill session="111" type="h" number="223" updated="2009-03-07T10:13:59-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Gulf of the Farallones and Cordell Bank National Marine Sanctuaries Boundary Modification and Protection Act</title>
+		<title type="official" as="introduced">To expand the boundaries of the Gulf of the Farallones National Marine Sanctuary and the Cordell Bank National Marine Sanctuary, and for other purposes.</title>
+	</titles>
+	<sponsor id="400436"/>
+	<cosponsors>
+		<cosponsor id="412253" joined="2009-01-28"/>
+		<cosponsor id="400290" joined="2009-01-21"/>
+		<cosponsor id="400663" joined="2009-01-21"/>
+		<cosponsor id="400253" joined="2009-01-14"/>
+		<cosponsor id="400387" joined="2009-01-28"/>
+		<cosponsor id="400133" joined="2009-01-21"/>
+		<cosponsor id="400031" joined="2009-01-28"/>
+		<cosponsor id="400347" joined="2009-01-28"/>
+		<cosponsor id="400199" joined="2009-01-28"/>
+		<cosponsor id="400356" joined="2009-01-21"/>
+		<cosponsor id="400259" joined="2009-01-28"/>
+		<cosponsor id="400166" joined="2009-01-28"/>
+		<cosponsor id="400162" joined="2009-01-14"/>
+		<cosponsor id="400237" joined="2009-01-14"/>
+		<cosponsor id="400383" joined="2009-01-28"/>
+		<cosponsor id="400422" joined="2009-01-28"/>
+		<cosponsor id="400178" joined="2009-01-14"/>
+		<cosponsor id="412327" joined="2009-01-28"/>
+		<cosponsor id="400403" joined="2009-01-06"/>
+		<cosponsor id="400129" joined="2009-01-21"/>
+		<cosponsor id="400170" joined="2009-01-28"/>
+		<cosponsor id="400424" joined="2009-01-28"/>
+		<cosponsor id="412200" joined="2009-01-28"/>
+		<cosponsor id="400065" joined="2009-01-21"/>
+		<cosponsor id="412259" joined="2009-01-21"/>
+		<cosponsor id="412215" joined="2009-01-28"/>
+		<cosponsor id="400266" joined="2009-01-28"/>
+		<cosponsor id="400361" joined="2009-01-14"/>
+		<cosponsor id="400124" joined="2009-01-21"/>
+		<cosponsor id="400185" joined="2009-01-28"/>
+		<cosponsor id="400423" joined="2009-01-28"/>
+		<cosponsor id="400097" joined="2009-01-21"/>
+		<cosponsor id="412189" joined="2009-01-21"/>
+		<cosponsor id="400355" joined="2009-01-28"/>
+		<cosponsor id="400025" joined="2009-01-14"/>
+		<cosponsor id="400301" joined="2009-01-28"/>
+		<cosponsor id="400262" joined="2009-01-28"/>
+		<cosponsor id="400062" joined="2009-01-14"/>
+		<cosponsor id="400425" joined="2009-01-14"/>
+		<cosponsor id="400100" joined="2009-01-28"/>
+		<cosponsor id="400245" joined="2009-01-21"/>
+		<cosponsor id="400278" joined="2009-01-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Insular Affairs, Oceans and Wildlife" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="212" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="California"/>
+		<term name="Department of Commerce"/>
+		<term name="Licensing and registrations"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Oil and gas"/>
+		<term name="Parks, recreation areas, trails"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Gulf of the Farallones and Cordell Bank National Marine Sanctuaries Boundary Modification and Protection Act - Declares that it is U.S. policy to protect and preserve living and other resources of the Gulf of the Farallones National Marine Sanctuary (Farallones NMS) and Cordell Bank National Marine Sanctuary (Cordell Bank NMS) marine environments. Makes certain adjustments to expand the boundaries of the Farallones NMS and the Cordell NMS. Prohibits the issuance of a lease or permit authorizing mineral or hydrocarbon exploration, development, production, or transportation by pipeline within the boundaries of the sanctuaries, as modified by this Act. Directs the Secretary of Commerce to complete: (1) a draft supplemental management plan for each of the sanctuaries that focuses on management in the areas added by this Act; and (2) a revised management plan for each of the sanctuaries. Directs the Secretary to carry out an assessment of necessary revisions to the regulations for the sanctuaries, including considering regulations regarding the deposit or release of introduced species and the alteration of stream and river drainage into the sanctuaries.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="111" type="hc" number="2" updated="2009-03-07T09:25:16-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress that the United States Fish and Wildlife Service should incorporate consideration of global warming and sea-level rise into the comprehensive conservation plans for coastal national wildlife refuges, and for other purposes.</title>
+	</titles>
+	<sponsor id="400073"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2009-01-06"/>
+		<cosponsor id="400128" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Insular Affairs, Oceans and Wildlife" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Climate change"/>
+		<term name="Ecology"/>
+		<term name="Historical and cultural resources"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Outdoor recreation"/>
+		<term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Expresses the sense of Congress that the United States Fish and Wildlife Service (USFWS) should incorporate consideration of the effects of global warming and sea-level rise into the comprehensive conservation plan for each coastal national wildlife refuge. Calls for such plans to address how global warming and sea-level rise will affect: (1) the ecological integrity, archaeological and cultural values, and distribution, migration patterns, and abundance of fish, wildlife, and plant populations and related habitats of the refuge; (2) areas within the refuge that are suitable for use as administrative sites or visitor facilities; and (3) opportunities for compatible wildlife-dependent recreational uses of the refuge. Calls for the Director of the USFWS to conduct an assessment of the potential impacts of global warming and sea-level rise on coastal national wildlife refuges.<br/>
+	</summary>
+</bill>

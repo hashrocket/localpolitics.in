@@ -1,0 +1,51 @@
+<bill session="110" type="h" number="3913" updated="2009-01-09T01:02:44-05:00">
+	<status><enacted date="1214452800" datetime="2008-06-26" /></status>
+
+	<introduced date="1193025600" datetime="2007-10-22"/>
+	<titles>
+		<title type="official" as="introduced">To amend the International Center Act to authorize the lease or sublease of certain property described in such Act to an entity other than a foreign government or international organization if certain conditions are met.</title>
+	</titles>
+	<sponsor id="400344"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1193025600" datetime="2007-10-22"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1193112000" datetime="2007-10-23"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1200459600" datetime="2008-01-16"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1200459600" datetime="2008-01-16"><text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text></action>
+		<action date="1200459600" datetime="2008-01-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1200459600" datetime="2008-01-16" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1201543500" datetime="2008-01-28T14:05:00-05:00"><text>Reported by the Committee on Transportation. H. Rept. 110-518.</text></action>
+		<calendar number="315" date="1201543560" datetime="2008-01-28T14:06:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 315.</text></calendar>
+		<action date="1201545480" datetime="2008-01-28T14:38:00-05:00"><text>Ms. Johnson, E. B. moved to suspend the rules and pass the bill.</text></action>
+		<action date="1201545540" datetime="2008-01-28T14:39:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H464-465"/></action>
+		<action date="1201545540" datetime="2008-01-28T14:39:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3913.</text></action>
+		<vote date="1201545780" how="by voice vote" datetime="2008-01-28T14:43:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H464"/></vote>
+		<action date="1201582800" datetime="2008-01-29"><text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text></action>
+		<calendar date="1211256000" datetime="2008-05-20" ><text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1212379200" datetime="2008-06-02"><text>Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-343.</text></action>
+		<calendar under="General Orders" number="755" date="1212379200" datetime="2008-06-02" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 755.</text></calendar>
+		<vote date="1212638400" how="by Unanimous Consent" datetime="2008-06-05" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S5331"/></vote>
+		<topresident date="1212638400" datetime="2008-06-05" ><text>Cleared for White House.</text></topresident>
+		<action date="1212724800" datetime="2008-06-06"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1213761600" datetime="2008-06-18" ><text>Presented to President.</text></topresident>
+		<signed date="1214452800" datetime="2008-06-26" ><text>Signed by President.</text></signed>
+		<enacted number="110-249" date="1214452800" datetime="2008-06-26" type="public" ><text>Became Public Law No: 110-249.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/26/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends the International Center Act to authorize the lease or sublease of property identified by the District of Columbia as tax lots 803, 804, 805, and 806 to an entity other than a foreign government or international organization, so long as the Secretary of State maintains the right to approve the occupant and the intended use of the property.<br/>
+	</summary>
+</bill>

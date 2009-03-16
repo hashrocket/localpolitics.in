@@ -1,0 +1,34 @@
+<bill session="111" type="h" number="683" updated="2009-03-07T11:07:59-05:00">
+	<status><introduced date="1232946000" datetime="2009-01-26"/></status>
+
+	<introduced date="1232946000" datetime="2009-01-26"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 with respect to the proper tax treatment of certain indebtedness discharged in 2009 or 2010, and for other purposes.</title>
+	</titles>
+	<sponsor id="400024"/>
+	<cosponsors>
+		<cosponsor id="412318" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="31" />
+		<bill relation="identical" session="111" type="s" number="33" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Corporate finance and management"/>
+		<term name="Income tax exclusion"/>
+		<term name="Securities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/2009--Introduced.<br/>Amends the Internal Revenue Code to allow an exclusion from gross income for income attributable to the discharge of indebtedness relating to securities issued by certain financial entities and discharged after December 31, 2008, and before January 1, 2011. 
+	</summary>
+</bill>

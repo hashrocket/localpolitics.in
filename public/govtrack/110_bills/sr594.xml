@@ -1,0 +1,34 @@
+<bill session="110" type="sr" number="594" updated="2009-01-09T21:12:41-05:00">
+	<status><vote date="1215403200" datetime="2008-07-07" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1213243200" datetime="2008-06-12"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating September 2008 as &quot;Tay-Sachs Awareness Month&quot;.</title>
+	</titles>
+	<sponsor id="400050"/>
+	<cosponsors>
+		<cosponsor id="300006" joined="2008-06-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1213243200" datetime="2008-06-12"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S5634"/></action>
+		<calendar date="1214452800" datetime="2008-06-26" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1214452800" datetime="2008-06-26"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="853" date="1214452800" datetime="2008-06-26" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 853.</text></calendar>
+		<vote date="1215403200" how="by Unanimous Consent" datetime="2008-07-07" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S6367-6368"/><reference label="text as passed Senate" ref="CR S6367-6368"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/7/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates September 2008 as Tay-Sachs Awareness Month.<br/>
+	</summary>
+</bill>

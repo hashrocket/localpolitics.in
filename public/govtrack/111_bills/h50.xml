@@ -1,0 +1,34 @@
+<bill session="111" type="h" number="50" updated="2009-03-07T09:53:40-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Social Security Identity Theft Prevention Act</title>
+		<title type="official" as="introduced">To protect seniors from identity theft and strengthen our national security by providing for the issuance of a secure Social Security card.</title>
+	</titles>
+	<sponsor id="400222"/>
+	<cosponsors>
+		<cosponsor id="412202" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR E1)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Computer crimes and identity theft"/>
+		<term name="Social security and elderly assistance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Social Security Identity Theft Prevention Act - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to require Social Security cards to be made of tamperproof and wear-resistant material (currently, of banknote paper), and include a digital image of the cardholder as well as an encrypted, machine-readable electronic record containing biometric identifiers. 
+	</summary>
+</bill>

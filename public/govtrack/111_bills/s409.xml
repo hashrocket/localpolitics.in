@@ -1,0 +1,39 @@
+<bill session="111" type="s" number="409" updated="2009-03-07T14:22:06-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="short" as="introduced">Southeast Arizona Land Exchange and Conservation Act of 2009</title>
+		<title type="official" as="introduced">A bill to secure Federal ownership and management of significant natural, scenic, and recreational resources, to provide for the protection of cultural resources, to facilitate the efficient extraction of mineral resources by authorizing and directing an exchange of Federal and non-Federal land, and for other purposes.</title>
+	</titles>
+	<sponsor id="300062"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Sponsor introductory remarks on measure. (CR S2210)</text></action>
+		<action date="1234328400" datetime="2009-02-11"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text><reference label="text of measure as introduced" ref="CR S2145-2148"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Energy and Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Arizona"/>
+		<term name="Forests"/>
+		<term name="Lakes and rivers"/>
+		<term name="Land transfers"/>
+		<term name="Mining"/>
+		<term name="Outdoor recreation"/>
+		<term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Introduced.<br/>Southeast Arizona Land Exchange and Conservation Act of 2009 - Directs the Secretary of Agriculture to: (1) accept a conveyance of non-federal land in Gila, Yavapai, Maricopa, Pinal, and Coconino Counties, Arizona, from Resolution Copper Mining, LLC (Resolution Copper); (2) convey to Resolution Copper certain federal land located in Pinal County, Arizona; (3) convey specified land in Pinal County to the town of Superior, Arizona; and (4) appraise lands exchanged or conveyed under this Act. Instructs Resolution Copper to surrender, without compensation, the rights held by it under mining and other U.S. laws to: (1) commercially extract minerals under Apache Leap or certain of the non-federal land in Pinal County (the Pond); and (2) disturb the surface of Apache Leap. Permits Resolution Copper to carry out mineral exploration activities under the Oak Flat withdrawal area by any method that will not disturb the surface of the area. Requires implementation of a management plan for Apache Leap. Makes lands acquired by the Secretary under this Act part of the National Forest within which the land is located. Requires Resolution Copper to make a specified payment to the Secretary to be used to promote and enhance outdoor recreational opportunities in the upper Pond area or the areas commonly known as &quot;Inconceivables&quot; and &quot;Chill Hill.&quot; Directs the Secretary to construct in the Global Ranger District of the Tonto National Forest, Arizona, one or more replacement campgrounds for the Oak Flat Campground. Requires Resolution Copper to make value adjustment payments to the United States based upon locatable minerals produced from the federal land in Pinal County, Arizona. 
+	</summary>
+</bill>

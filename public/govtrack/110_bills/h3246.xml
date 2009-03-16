@@ -1,0 +1,77 @@
+<bill session="110" type="h" number="3246" updated="2009-01-08T23:36:19-05:00">
+	<status><vote date="1191516300" datetime="2007-10-04T13:45:00-04:00" where="h" result="pass" how="roll" roll="946"/></status>
+
+	<introduced date="1185854400" datetime="2007-07-31"/>
+	<titles>
+		<title type="short" as="introduced">Regional Economic and Infrastructure Development Act of 2007</title>
+		<title type="short" as="reported to house">Regional Economic and Infrastructure Development Act of 2007</title>
+		<title type="short" as="passed house">Regional Economic and Infrastructure Development Act of 2007</title>
+		<title type="official" as="introduced">To amend title 40, United States Code, to provide a comprehensive regional approach to economic and infrastructure development in the most severely economically distressed regions in the Nation.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2007-07-31"/>
+		<cosponsor id="400162" joined="2007-07-31"/>
+		<cosponsor id="412224" joined="2007-07-31"/>
+		<cosponsor id="400302" joined="2007-07-31"/>
+		<cosponsor id="400295" joined="2007-07-31"/>
+		<cosponsor id="400274" joined="2007-07-31"/>
+		<cosponsor id="400264" joined="2007-07-31"/>
+		<cosponsor id="400007" joined="2007-07-31"/>
+		<cosponsor id="400339" joined="2007-07-31"/>
+		<cosponsor id="400082" joined="2007-07-31"/>
+		<cosponsor id="412209" joined="2007-07-31"/>
+		<cosponsor id="400172" joined="2007-07-31"/>
+		<cosponsor id="400266" joined="2007-09-07"/>
+		<cosponsor id="412236" joined="2007-07-31"/>
+		<cosponsor id="400201" joined="2007-07-31"/>
+		<cosponsor id="412220" joined="2007-07-31"/>
+		<cosponsor id="400042" joined="2007-07-31"/>
+		<cosponsor id="412219" joined="2007-07-31"/>
+	</cosponsors>
+	<actions>
+		<action date="1185854400" datetime="2007-07-31"><text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1185854400" datetime="2007-07-31"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1185854400" datetime="2007-07-31"><text>Referred to House Financial Services</text></action>
+		<action date="1185940800" datetime="2007-08-01"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1186027200" datetime="2007-08-02"><committee name="House Transportation and Infrastructure"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1186027200" datetime="2007-08-02" ><committee name="House Transportation and Infrastructure"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1189195440" datetime="2007-09-07T17:04:00-04:00"><text>Reported (Amended) by the Committee on Transportation. H. Rept. 110-321, Part I.</text></action>
+		<action date="1189195500" datetime="2007-09-07T17:05:00-04:00"><text>Committee on Financial Services discharged.</text></action>
+		<calendar number="202" date="1189195500" datetime="2007-09-07T17:05:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 202.</text></calendar>
+		<action date="1190049840" datetime="2007-09-17T14:24:00-04:00"><text>Ms. Norton moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1190049900" datetime="2007-09-17T14:25:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10375-10384"/></action>
+		<action date="1190049900" datetime="2007-09-17T14:25:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3246.</text></action>
+		<action date="1190050920" datetime="2007-09-17T14:42:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1190064720" datetime="2007-09-17T18:32:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10406-10407"/></action>
+		<vote date="1190066220" how="roll" roll="867" datetime="2007-09-17T18:57:00-04:00" where="h" type="vote" suspension="1" result="fail" ><text>On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 225 - 152 (Roll no. 867).</text><reference label="text" ref="CR H10375-10380"/></vote>
+		<action date="1191361680" datetime="2007-10-02T18:48:00-04:00"><text>Rules Committee Resolution H. Res. 704 Reported to House. Rule provides for consideration of H.R. 3246 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute recommended by the Committee on Transportation and Infrastructure now printed in the bill, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution, shall be considered as adopted.</text></action>
+		<action date="1191553440" datetime="2007-10-04T12:04:00-04:00"><text>Rule H. Res. 704 passed House.</text></action>
+		<action date="1191554520" datetime="2007-10-04T12:22:00-04:00"><text>Considered under the provisions of rule H. Res. 704.</text><reference label="consideration" ref="CR H11270-11287"/><reference label="text of measure as introduced" ref="CR H11270-11275"/></action>
+		<action date="1191554520" datetime="2007-10-04T12:22:00-04:00"><text>Rule provides for consideration of H.R. 3246 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute recommended by the Committee on Transportation and Infrastructure now printed in the bill, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution, shall be considered as adopted.</text></action>
+		<action date="1191554580" datetime="2007-10-04T12:23:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H.R. 3246.</text></action>
+		<action date="1191513840" datetime="2007-10-04T13:04:00-04:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H11284"/></action>
+		<action date="1191513840" datetime="2007-10-04T13:04:00-04:00"><text>Mr. Jordan moved to recommit with instructions to Transportation.</text><reference label="consideration" ref="CR H11284-11285"/><reference label="text" ref="CR H11284"/></action>
+		<action date="1191513840" datetime="2007-10-04T13:04:00-04:00"><text>DEBATE - The House proceeded with ten minutes of debate on the Jordan motion to recommit with instructions. The instructions contained in the motion seek to require that the bill be reported back to the House with an amendment adding a new section providing for a limitation on the use of funds.</text></action>
+		<action date="1191514200" datetime="2007-10-04T13:10:00-04:00"><text>The previous question on the motion to recommit with instructions was ordered without objection.</text><reference label="consideration" ref="CR H11286"/></action>
+		<action date="1191515880" datetime="2007-10-04T13:38:00-04:00"><text>On motion to recommit with instructions Failed by the Yeas and Nays: 201 - 218 (Roll no. 945).</text><reference label="consideration" ref="CR H11286"/></action>
+		<vote date="1191516300" how="roll" roll="946" datetime="2007-10-04T13:45:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed by the Yeas and Nays: 264 - 154 (Roll no. 946).</text><reference label="text" ref="CR H11275-11280"/></vote>
+		<action date="1191470400" datetime="2007-10-04"><text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<action date="1211428800" datetime="2008-05-22"><committee name="House Transportation and Infrastructure"/><text>For Further Action See P.L. 110-234, Title 6, Subtitle A, Sections 6025 and 6026 and Title 14, Subtitle C, Section 14217 (H.R. 2419).</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/4/2007--Passed House amended. Regional Economic and Infrastructure Development Act of 2007 - (Sec. 3) Establishes the Delta Regional Commission, the Northern Great Plains Regional Commission, the Southeast Crescent Regional Commission, the Southwest Border Regional Commission, and the Northern Border Regional Commission.<br/>Directs each Commission, for its region, to: (1) assess needs and assets; (2) develop comprehensive and coordinated economic infrastructure development strategies to establish and approve grants for economic development; (3) establish priorities in an economic and infrastructure development plan; (4) enhance capacity of and provide support for local development districts; (5) encourage private investment in industrial, commercial, and other economic development projects; (6) cooperate with and assist state governments with the preparation of economic and infrastructure development plans and programs for participating states; (7) formulate and recommend to the governors and legislatures of participating states forms of interstate cooperation and, where appropriate, international cooperation; and (8) work with state and local agencies in developing appropriate model legislation to enhance local and regional economic development. Requires federal agencies to cooperate with and provide assistance to Commissions in carrying out this Act.<br/>Allows governments of Indian tribes in the region of the Northern Great Plains Regional Commission or the Southwest Border Regional Commission to participate in matters before those Commissions in the same manner and to the same extent as state agencies and instrumentalities participate.<br/>Requires each Commission to report annually to the President and Congress on its activities.<br/>Authorizes each Commission to make grants to states and local governments, Indian tribes, and public and nonprofit organizations for projects to: (1) develop transportation infrastructure, basic public infrastructure, and telecommunications infrastructure; (2) assist its region in obtaining job skills training, skills development and employment-related education, entrepreneurship, technology, and business development; (3) provide assistance to severely economically distressed and underdeveloped areas of its region that lack financial resources for improving basic health care and other public services; (4) promote resource conservation, tourism, recreation, and preservation of open space in a manner consistent with economic development goals; and (5) promote the development of renewable and alternative energy sources. Requires Commissions to allocate at least 40% of grant amounts in a fiscal year for infrastructure projects. Sets forth funding restrictions.<br/>Requires each member state of a Commission to submit a comprehensive economic and infrastructure development plan for its area of the region. Directs Commissions and applicable state and local development districts to encourage and assist public participation in the development, revision, and implementation of all plans and programs. Requires each Commission to develop guidelines for providing public participation.<br/>Sets forth provisions concerning the approval of applications for assistance for projects.<br/>Requires Commissions, in considering programs and projects to be provided assistance and in establishing a priority ranking of the requests for assistance, to consider: (1) the relationship of the project to overall regional development; (2) the per capita income and poverty, unemployment, and out-migration rates in an area; (3) the financial resources available to the applicants; (4) the importance of the project; (5) the prospects that the project will improve, on a continuing basis, the opportunities for employment, the average level of income, or the economic development of the area to be served; and (6) the extent to which the project provides for measurements by which projects can be evaluated.<br/>Authorizes Commissions to make grants to local development districts to assist in the payment of development planning and administrative expenses. Sets forth grant conditions.<br/>Requires local development districts to: (1) operate as lead organizations serving multi-county areas in regions at the local level; (2) assist Commissions in carrying out outreach activities for local governments, community development groups, the business community, and the public; (3) serve as liaisons between state and local governments, nonprofit organizations, the business community, and citizens; and (4) assist such individuals and entities in identifying, assessing, and facilitating projects and programs to promote the economic development.<br/>Sets forth requirements for supplemental funding for other federal grant programs that provide assistance in carrying out economic and community development activities.<br/>Declares that this Act does not require a state to engage in or accept a program under this Act.<br/>Requires each Commission to annually designate: (1) distressed counties that are most severely and persistently economically distressed; (2) transitional counties that are economically distressed and underdeveloped or have recently suffered high rates of poverty, unemployment, or out-migration; (3) attainment counties; and (4) isolated areas of distress in attainment counties that have high rates of poverty, unemployment, or out-migration. Sets forth funding restrictions.<br/>Prohibits a state's political subdivision from receiving assistance in a fiscal year from more than one Commission.<br/>Provides for the appointment of a single Inspector General for the Commissions, who shall audit the activities, transactions, and records of Commissions annually.<br/>Requires representatives of each Commission, the Appalachian Regional Commission, and the Denali Commission to meet biannually to discuss issues confronting regions suffering from chronic and contiguous distress and successful strategies for promoting regional development.<br/>Designates the states and political subdivisions of each Commission.<br/>Authorizes appropriations for FY2008-FY2012.<br/>(Sec. 5) Transfers all functions, assets, funds, personnel, records and property of: (1) the Delta Regional Authority to the Delta Regional Commission; and (2) the Northern Great Plains Regional Authority to the Northern Great Plains Regional Commission.<br/>
+	</summary>
+</bill>

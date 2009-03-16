@@ -1,0 +1,52 @@
+<bill session="110" type="s" number="1639" updated="2009-01-09T15:13:37-05:00">
+	<status><calendar date="1182225600" datetime="2007-06-19" /></status>
+
+	<introduced date="1182139200" datetime="2007-06-18"/>
+	<titles>
+		<title type="short" as="introduced">AgJOBS Act of 2007</title>
+		<title type="short" as="introduced">Agricultural Job Opportunities, Benefits, and Security Act of 2007</title>
+		<title type="short" as="introduced">Development, Relief, and Education for Alien Minors Act of 2007</title>
+		<title type="short" as="introduced">DREAM Act of 2007</title>
+		<title type="short" as="introduced">Northern Border Prosecution Initiative Reimbursement Act</title>
+		<title type="short" as="introduced">Secure and Safe Detention and Asylum Act</title>
+		<title type="short" as="introduced">S.I. Hayakawa National Language Amendment Act of 2007</title>
+		<title type="short" as="introduced">Unaccompanied Alien Child Protection Act of 2007</title>
+		<title type="short" as="introduced">Wartime Treatment Study Act</title>
+		<title type="official" as="introduced">A bill to provide for comprehensive immigration reform and for other purposes.</title>
+	</titles>
+	<sponsor id="300059"/>
+	<cosponsors>
+		<cosponsor id="300092" joined="2007-06-18"/>
+	</cosponsors>
+	<actions>
+		<action date="1182139200" datetime="2007-06-18"><text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar date="1182225600" datetime="2007-06-19" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 208.</text></calendar>
+		<action date="1182312000" datetime="2007-06-20"><text>Motion to proceed to consideration of measure made in Senate.</text><reference label="consideration" ref="CR S8158-8159"/></action>
+		<action date="1182312000" datetime="2007-06-20"><text>Cloture motion on the motion to proceed presented in Senate.</text><reference label="consideration" ref="CR S8159"/><reference label="text" ref="CR S8159"/></action>
+		<action date="1182312000" datetime="2007-06-20"><text>Motion to proceed to consideration of measure withdrawn in Senate.</text><reference label="consideration" ref="CR S8159"/></action>
+		<action date="1182830400" datetime="2007-06-26"><text>Motion to proceed to measure considered in Senate.</text><reference label="consideration" ref="CR S8378-8398"/></action>
+		<action date="1182830400" datetime="2007-06-26"><text>Cloture on the motion to proceed invoked in Senate by Yea-Nay Vote. 64 - 35. Record Vote Number: 228.</text><reference label="consideration" ref="CR S8398"/><reference label="text" ref="CR S8398"/></action>
+		<action date="1182830400" datetime="2007-06-26"><text>Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.</text></action>
+		<action date="1182830400" datetime="2007-06-26"><text>Measure laid before Senate by motion.</text><reference label="consideration" ref="CR S8403-8404"/></action>
+		<action date="1182830400" datetime="2007-06-26"><text>Cloture motion on the bill presented in Senate.</text><reference label="consideration" ref="CR S8403"/><reference label="text" ref="CR S8403"/></action>
+		<action date="1182916800" datetime="2007-06-27"><text>Considered by Senate.</text><reference label="consideration" ref="CR S8526, S8532-8573, S8579-8599"/></action>
+		<action date="1183003200" datetime="2007-06-28"><text>Considered by Senate.</text><reference label="consideration" ref="CR S8641-8651"/></action>
+		<vote-aux date="1183003200" how="roll" roll="235" datetime="2007-06-28" where="s" type="cloture" result="fail" ><text>Cloture on the bill not invoked in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 235.</text><reference label="consideration" ref="CR S8650-8651"/><reference label="text" ref="CR S8650"/></vote-aux>
+		<action date="1183003200" datetime="2007-06-28"><text>Returned to the Calendar. Calendar No. 208.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

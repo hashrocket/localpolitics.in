@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="1053" updated="2009-03-07T11:52:34-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Chesapeake Bay Accountability and Recovery Act of 2009</title>
+		<title type="official" as="introduced">To require the Office of Management and Budget to prepare a crosscut budget for restoration activities in the Chesapeake Bay watershed, to require the Environmental Protection Agency to develop and implement an adaptive management plan, and for other purposes.</title>
+	</titles>
+	<sponsor id="412255"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the Committee on Natural Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to House Natural Resources</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1234501200" datetime="2009-02-13"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Chesapeake Bay Accountability and Recovery Act of 2009 - Requires the Director of the Office of Management and Budget (OMB), in consultation with the Chesapeake Executive Council, the chief executive of each Chesapeake Bay state, and the Chesapeake Bay Commission, to submit to Congress a financial report containing: (1) an interagency crosscut budget for restoration activities that protect, conserve, or restore living resources, habitat, water resources, or water quality in the Chesapeake Bay watershed; (2) an accounting of funds received and obligated by all federal agencies for restoration activities; (3) an accounting from each state of all funds received and obligated from a federal agency for restoration activities; and (4) a description of each of the proposed federal and state restoration activities. Requires: (1) such report to describe only federal restoration activities that have funding amounts of at least $100,000 and state restoration activities that have funding amounts of at least $50,000; and (2) the Director to submit the report no later than 30 days after the submission of the President's annual budget to Congress. Requires the Administrator of the Environmental Protection Agency (EPA) to develop and update every three years an adaptive management plan for the Chesapeake Bay Program and restoration activities that includes: (1) a definition of specific and measurable objectives to improve water quality, habitat, and fisheries; (2) a process for stakeholder participation; (3) monitoring, modeling, experimentation, and other research and evaluation practices; (4) a process for modification of restoration activities that have not attained or will not attain such objectives; and (5) a process for prioritizing restoration activities and programs to which adaptive management shall be applied. Sets forth reporting requirements.<br/>
+	</summary>
+</bill>

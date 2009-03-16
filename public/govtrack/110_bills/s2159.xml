@@ -1,0 +1,107 @@
+<bill session="110" type="s" number="2159" updated="2009-01-09T16:19:24-05:00">
+	<status><vote date="1213848000" datetime="2008-06-19" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1192420800" datetime="2007-10-15"/>
+	<titles>
+		<title type="short" as="introduced">NASA 50th Anniversary Commemorative Coin Act</title>
+		<title type="short" as="passed senate">NASA 50th Anniversary Commemorative Coin Act</title>
+		<title type="official" as="introduced">A bill to require the Secretary of the Treasury to mint coins in commemoration of the 50th anniversary of the establishment of the National Aeronautics and Space Administration.</title>
+	</titles>
+	<sponsor id="300078"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2008-03-13"/>
+		<cosponsor id="412242" joined="2008-03-13"/>
+		<cosponsor id="300065" joined="2008-03-13"/>
+		<cosponsor id="300002" joined="2008-03-13"/>
+		<cosponsor id="300029" joined="2008-03-13"/>
+		<cosponsor id="400272" joined="2007-11-07"/>
+		<cosponsor id="300005" joined="2007-11-07"/>
+		<cosponsor id="300009" joined="2007-12-18"/>
+		<cosponsor id="300025" joined="2008-03-13"/>
+		<cosponsor id="400064" joined="2007-10-15"/>
+		<cosponsor id="300059" joined="2008-03-13"/>
+		<cosponsor id="300018" joined="2008-03-13"/>
+		<cosponsor id="300011" joined="2007-10-15"/>
+		<cosponsor id="300055" joined="2008-03-13"/>
+		<cosponsor id="300008" joined="2007-12-10"/>
+		<cosponsor id="300047" joined="2008-03-13"/>
+		<cosponsor id="300093" joined="2008-03-13"/>
+		<cosponsor id="300098" joined="2008-01-24"/>
+		<cosponsor id="300042" joined="2008-03-13"/>
+		<cosponsor id="300052" joined="2008-03-13"/>
+		<cosponsor id="300060" joined="2007-12-10"/>
+		<cosponsor id="300088" joined="2008-03-13"/>
+		<cosponsor id="400619" joined="2007-11-07"/>
+		<cosponsor id="400621" joined="2007-10-15"/>
+		<cosponsor id="300066" joined="2007-11-07"/>
+		<cosponsor id="300073" joined="2008-03-13"/>
+		<cosponsor id="300087" joined="2007-12-10"/>
+		<cosponsor id="300092" joined="2008-03-13"/>
+		<cosponsor id="300013" joined="2008-03-13"/>
+		<cosponsor id="300019" joined="2008-03-13"/>
+		<cosponsor id="300041" joined="2008-03-13"/>
+		<cosponsor id="300068" joined="2008-03-13"/>
+		<cosponsor id="412247" joined="2008-03-13"/>
+		<cosponsor id="412249" joined="2007-10-15"/>
+		<cosponsor id="300037" joined="2008-03-13"/>
+		<cosponsor id="300077" joined="2008-03-13"/>
+		<cosponsor id="300051" joined="2008-03-13"/>
+		<cosponsor id="400546" joined="2008-03-13"/>
+		<cosponsor id="300023" joined="2007-10-15"/>
+		<cosponsor id="400576" joined="2008-03-13"/>
+		<cosponsor id="300007" joined="2007-10-15"/>
+		<cosponsor id="300083" joined="2008-03-13"/>
+		<cosponsor id="400432" joined="2008-03-13"/>
+		<cosponsor id="400050" joined="2007-11-07"/>
+		<cosponsor id="300010" joined="2007-11-07"/>
+		<cosponsor id="300054" joined="2007-10-15"/>
+		<cosponsor id="400418" joined="2007-10-15"/>
+		<cosponsor id="300022" joined="2007-12-04"/>
+		<cosponsor id="300014" joined="2008-03-13"/>
+		<cosponsor id="300027" joined="2008-01-24"/>
+		<cosponsor id="300067" joined="2008-03-13"/>
+		<cosponsor id="412246" joined="2008-03-13"/>
+		<cosponsor id="412243" joined="2008-03-13"/>
+		<cosponsor id="300075" joined="2008-03-13"/>
+		<cosponsor id="300050" joined="2008-04-01"/>
+		<cosponsor id="300063" joined="2007-10-15"/>
+		<cosponsor id="300021" joined="2008-03-13"/>
+		<cosponsor id="300095" joined="2008-03-13"/>
+		<cosponsor id="400629" joined="2007-11-07"/>
+		<cosponsor id="412248" joined="2008-03-13"/>
+		<cosponsor id="400357" joined="2008-03-13"/>
+		<cosponsor id="400054" joined="2008-03-13"/>
+		<cosponsor id="300043" joined="2007-11-07"/>
+		<cosponsor id="300069" joined="2007-10-15"/>
+		<cosponsor id="412244" joined="2008-03-13"/>
+		<cosponsor id="400194" joined="2007-10-15"/>
+		<cosponsor id="300049" joined="2008-03-13"/>
+		<cosponsor id="300058" joined="2007-10-29"/>
+		<cosponsor id="300090" joined="2008-03-13"/>
+		<cosponsor id="300064" joined="2008-03-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1192420800" datetime="2007-10-15"><text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+		<action date="1213848000" datetime="2008-06-19"><text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text></action>
+		<action date="1213848000" datetime="2008-06-19"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S5915-5917"/></action>
+		<vote date="1213848000" how="by Unanimous Consent" datetime="2008-06-19" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text><reference label="text" ref="CR S5915-5917"/></vote>
+		<action date="1213964220" datetime="2008-06-20T09:17:00-04:00"><text>Received in the House.</text></action>
+		<action date="1213934400" datetime="2008-06-20"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1213971840" datetime="2008-06-20T11:24:00-04:00"><text>Held at the desk.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/19/2008--Passed Senate amended. NASA 50th Anniversary Commemorative Coin Act - Directs the Secretary of the Treasury, in commemoration of the 50th anniversary of the establishment of the National Aeronautics and Space Administration (NASA), to mint and issue $50 gold and $1 silver coins emblematic of the 50 years of exemplary and unparalleled achievements of NASA. Requires all such coin sales to include a surcharge of $50 per $50 coin, and of $10 per $1 coin.<br/>Requires distribution of the first $4 million to the NASA Family Assistance Fund for financial assistance to the families of NASA personnel who die as a result of injuries suffered in the performance of their official duties.<br/>Requires distribution of: (1) one-half of the next $1 million of the remaining amounts to the Dr. Ronald E. McNair Educational (D.R.E.M.E.) Science Literacy Foundation and the Challenger Center for Space Science Education; and (2) the remainder to the Secretary of the Smithsonian Institution for the preservation, maintenance, and display of space artifacts at the National Air and Space Museum (including the Steven F. Udvar-Hazy Center).<br/>Authorizes the Secretary to strike and sell bronze duplicates of the $50 gold coins.<br/>
+	</summary>
+</bill>

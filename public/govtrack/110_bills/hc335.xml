@@ -1,0 +1,45 @@
+<bill session="110" type="hc" number="335" updated="2009-01-08T16:09:18-05:00">
+	<status><vote2 date="1213934400" datetime="2008-06-20" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1209009600" datetime="2008-04-24"/>
+	<titles>
+		<title type="official" as="introduced">Authorizing the use of the Capitol Grounds for a celebration of the 100th anniversary of Alpha Kappa Alpha Sorority, Incorporated.</title>
+	</titles>
+	<sponsor id="400423"/>
+	<cosponsors>
+		<cosponsor id="400199" joined="2008-04-24"/>
+		<cosponsor id="400204" joined="2008-04-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1209009600" datetime="2008-04-24"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1209096000" datetime="2008-04-25"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1210824000" datetime="2008-05-15"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1210824000" datetime="2008-05-15" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1210824000" datetime="2008-05-15"><text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text></action>
+		<action date="1212514380" datetime="2008-06-03T14:33:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 110-676.</text></action>
+		<calendar number="229" date="1212514380" datetime="2008-06-03T14:33:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 229.</text></calendar>
+		<action date="1212588000" datetime="2008-06-04T11:00:00-04:00"><text>Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1212588060" datetime="2008-06-04T11:01:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4886-4888"/></action>
+		<action date="1212588060" datetime="2008-06-04T11:01:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 335.</text></action>
+		<vote date="1212588720" how="by voice vote" datetime="2008-06-04T11:12:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H4886"/></vote>
+		<action date="1212638400" datetime="2008-06-05"><text>Received in the Senate and referred to the Committee on Rules and Administration.</text></action>
+		<action date="1213934400" datetime="2008-06-20"><text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S5947"/></action>
+		<vote date="1213934400" how="by Unanimous Consent" datetime="2008-06-20" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text></vote>
+		<action date="1214193600" datetime="2008-06-23"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/20/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Permits the Alpha Kappa Alpha Sorority, Inc. to sponsor a free public event on the Capitol grounds on July 17, 2008, to celebrate the 100th anniversary of Alpha Kappa Alpha Sorority, Inc.<br/>
+	</summary>
+</bill>

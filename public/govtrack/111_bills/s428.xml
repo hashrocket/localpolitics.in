@@ -1,0 +1,42 @@
+<bill session="111" type="s" number="428" updated="2009-03-07T14:24:22-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Freedom to Travel to Cuba Act</title>
+		<title type="official" as="introduced">A bill to allow travel between the United States and Cuba.</title>
+	</titles>
+	<sponsor id="300037"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2009-03-06"/>
+		<cosponsor id="300005" joined="2009-03-02"/>
+		<cosponsor id="300070" joined="2009-02-12"/>
+		<cosponsor id="412251" joined="2009-02-23"/>
+		<cosponsor id="300042" joined="2009-03-03"/>
+		<cosponsor id="300038" joined="2009-03-02"/>
+		<cosponsor id="300034" joined="2009-02-12"/>
+		<cosponsor id="300041" joined="2009-02-12"/>
+		<cosponsor id="300043" joined="2009-02-26"/>
+		<cosponsor id="300051" joined="2009-03-02"/>
+		<cosponsor id="300058" joined="2009-03-06"/>
+		<cosponsor id="300100" joined="2009-02-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Read twice and referred to the Committee on Foreign Relations.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Foreign Relations" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Freedom to Travel to Cuba Act - Prohibits the President from regulating or prohibiting travel to or from Cuba by U.S. citizens or legal residents, or any of the transactions ordinarily incident to such travel. Prohibits any regulation restricting or prohibiting such travel from having any effect. Makes the preceding provisions inapplicable in time of war or armed hostilities between the United States and Cuba, or if there is imminent danger to the public health or the physical safety of U.S. travelers. 
+	</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="111" type="hr" number="158" updated="2009-03-07T13:24:55-05:00">
+	<status><calendar date="1234393080" datetime="2009-02-11T18:58:00-05:00" /></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="official" as="introduced">Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234393080" datetime="2009-02-11T18:58:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 111-15, by Ms. Slaughter.</text></action>
+		<action date="1234393080" datetime="2009-02-11T18:58:00-05:00"><text>The resolution waives clause 6(a) of rule XIII (requiring a two-thirds vote to consider a rule on the same day it is reported from the Rules Committee) against certain resolutions reported from the Rules Committee. The resolution applies the waiver to any resolution reported through the legislative day of February 13, 2009, providing for consideration or disposition of any measure relating to H.R. 1, the American Recovery and Reinvestment Act of 2009.</text></action>
+		<calendar date="1234393080" datetime="2009-02-11T18:58:00-05:00" ><text>Placed on the House Calendar, Calendar No. 10.</text></calendar>
+		<action date="1235585400" datetime="2009-02-25T14:10:00-05:00"><text>Pursuant to the provisions of H. Res. 184, H. Res. 158 is laid on the table.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Rules" subcommittee="" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="184" />
+		<bill relation="unknown" session="111" type="hr" number="184" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Legislative rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

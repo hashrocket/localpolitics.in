@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="993" updated="2009-03-07T11:45:06-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="short" as="introduced">Guadalupe-Hidalgo Treaty Land Claims Act of 2009</title>
+		<title type="official" as="introduced">To establish a Presidential commission to determine and evaluate the validity of certain land claims arising out of the Treaty of Guadalupe-Hidalgo of 1848 involving the descendants of persons who were Mexican citizens at the time of the Treaty.</title>
+	</titles>
+	<sponsor id="412293"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1234933200" datetime="2009-02-18"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Introduced.<br/>Guadalupe-Hidalgo Treaty Land Claims Act of 2009 - Establishes the Guadalupe-Hidalgo Treaty Land Claims Commission to determine the validity of land claims arising out of the Treaty of Guadalupe-Hidalgo of 1848. Authorizes three or more eligible descendants of the same community land grant to petition the Commission on behalf of themselves and all other descendants. Directs the Commission to recommend appropriate relief to a valid petition, including whether the community land grant should be reconstituted and its non-federal lands restored. Directs the Commission to establish a Community Land Grant Study Center at the Onate Center in Alcalde, New Mexico, to assist the Commission with necessary research and investigations. Directs the Government Accountability Office (GAO) to make necessary personnel, equipment, and facilities available to the Commission. Terminates the Commission 180 days the Commission submits its final report as required by this Act.<br/>
+	</summary>
+</bill>

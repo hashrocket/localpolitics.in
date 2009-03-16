@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="611" updated="2009-03-07T10:59:25-05:00">
+	<status><introduced date="1232514000" datetime="2009-01-21"/></status>
+
+	<introduced date="1232514000" datetime="2009-01-21"/>
+	<titles>
+		<title type="short" as="introduced">Marginal Well Production Preservation and Enhancement Act</title>
+		<title type="official" as="introduced">To provide for marginal well production preservation and enhancement.</title>
+	</titles>
+	<sponsor id="400645"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1232514000" datetime="2009-01-21"><text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1232514000" datetime="2009-01-21"><text>Referred to House Ways and Means</text></action>
+		<action date="1232514000" datetime="2009-01-21"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1232514000" datetime="2009-01-21"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1232600400" datetime="2009-01-22"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Railroads, Pipelines, and Hazardous Materials" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="286" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Air quality"/>
+		<term name="Energy storage, supplies, demand"/>
+		<term name="Hazardous wastes and toxic substances"/>
+		<term name="Income tax deductions"/>
+		<term name="Oil and gas"/>
+		<term name="Water quality"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

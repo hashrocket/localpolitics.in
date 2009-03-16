@@ -1,0 +1,49 @@
+<bill session="110" type="hr" number="866" updated="2009-01-09T09:39:58-05:00">
+	<status><vote date="1201043100" datetime="2008-01-22T19:05:00-05:00" where="h" result="pass" how="roll" roll="20"/></status>
+
+	<introduced date="1197349200" datetime="2007-12-11"/>
+	<titles>
+		<title type="official" as="introduced">Honoring the brave men and women of the United States Coast Guard whose tireless work, dedication, and commitment to protecting the United States have led to the Coast Guard seizing over 350,000 pounds of cocaine at sea during 2007, far surpassing all of our previous records.</title>
+	</titles>
+	<sponsor id="400076"/>
+	<cosponsors>
+		<cosponsor id="400273" joined="2007-12-18"/>
+		<cosponsor id="400149" joined="2008-01-15"/>
+		<cosponsor id="400652" joined="2008-01-15"/>
+		<cosponsor id="400235" joined="2007-12-13"/>
+		<cosponsor id="400232" joined="2007-12-18"/>
+		<cosponsor id="400244" joined="2007-12-13"/>
+		<cosponsor id="400440" joined="2007-12-13"/>
+		<cosponsor id="400090" joined="2008-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1197349200" datetime="2007-12-11"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1197435600" datetime="2007-12-12"><text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text></action>
+		<action date="1200459600" datetime="2008-01-16"><text>Subcommittee on Coast Guard and Maritime Transportation Discharged.</text></action>
+		<action date="1200459600" datetime="2008-01-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1200459600" datetime="2008-01-16" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1201026000" datetime="2008-01-22T14:20:00-05:00"><text>Reported by the Committee on Transportation. H. Rept. 110-513.</text></action>
+		<calendar number="179" date="1201026000" datetime="2008-01-22T14:20:00-05:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 179.</text></calendar>
+		<action date="1201028340" datetime="2008-01-22T14:59:00-05:00"><text>Mr. DeFazio moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1201028340" datetime="2008-01-22T14:59:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H368-370"/></action>
+		<action date="1201028340" datetime="2008-01-22T14:59:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 866.</text></action>
+		<action date="1201029240" datetime="2008-01-22T15:14:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1201042440" datetime="2008-01-22T18:54:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H373-374"/></action>
+		<vote date="1201043100" how="roll" roll="20" datetime="2008-01-22T19:05:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 391 - 0 (Roll no. 20).</text><reference label="text" ref="CR H368"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Honors the U.S. Coast Guard, with its proud 217-year legacy of maritime law enforcement and border protection, along with the brave men and women whose efforts clearly demonstrate the honor, respect, and devotion to duty that ensures America's parents can sleep soundly knowing the Coast Guard is on patrol.<br/>
+	</summary>
+</bill>

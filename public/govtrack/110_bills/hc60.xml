@@ -1,0 +1,55 @@
+<bill session="110" type="hc" number="60" updated="2009-01-08T15:34:28-05:00">
+	<status><vote date="1194291660" datetime="2007-11-05T15:41:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1170824400" datetime="2007-02-07"/>
+	<titles>
+		<title type="official" as="introduced">Expressing support for the goals of Veterans Educate Today's Students (VETS) Day, and for other purposes.</title>
+	</titles>
+	<sponsor id="400308"/>
+	<cosponsors>
+		<cosponsor id="400279" joined="2007-03-07"/>
+		<cosponsor id="400640" joined="2007-03-01"/>
+		<cosponsor id="400041" joined="2007-02-15"/>
+		<cosponsor id="400133" joined="2007-03-07"/>
+		<cosponsor id="400327" joined="2007-03-01"/>
+		<cosponsor id="400073" joined="2007-03-01"/>
+		<cosponsor id="400199" joined="2007-03-01"/>
+		<cosponsor id="400659" joined="2007-03-01"/>
+		<cosponsor id="400044" joined="2007-03-26"/>
+		<cosponsor id="400260" joined="2007-02-15"/>
+		<cosponsor id="412199" joined="2007-03-01"/>
+		<cosponsor id="400204" joined="2007-03-01"/>
+		<cosponsor id="400652" joined="2007-04-17"/>
+		<cosponsor id="400209" joined="2007-03-01"/>
+		<cosponsor id="400288" joined="2007-03-01"/>
+		<cosponsor id="400238" joined="2007-03-01"/>
+		<cosponsor id="412234" joined="2007-03-07"/>
+		<cosponsor id="412198" joined="2007-03-01"/>
+		<cosponsor id="412202" joined="2007-03-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1170824400" datetime="2007-02-07"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1170997200" datetime="2007-02-09"><text>Referred to the Subcommittee on Economic Opportunity.</text></action>
+		<action date="1175227200" datetime="2007-03-30"><text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text></action>
+		<action date="1194291180" datetime="2007-11-05T15:33:00-05:00"><text>Mr. Filner moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1194291180" datetime="2007-11-05T15:33:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H12475-12476"/></action>
+		<action date="1194291180" datetime="2007-11-05T15:33:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 60.</text></action>
+		<vote date="1194291660" how="by voice vote" datetime="2007-11-05T15:41:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H12475"/></vote>
+		<action date="1194325200" datetime="2007-11-06"><text>Received in the Senate and referred to the Committee on Veterans' Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/5/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the importance of veterans to the United States. Expresses support for the goals of Veterans Educate Today's Students Day (programs that educate children about the service and sacrifices of veterans and their families).<br/>
+	</summary>
+</bill>

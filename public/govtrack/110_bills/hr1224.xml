@@ -1,0 +1,49 @@
+<bill session="110" type="hr" number="1224" updated="2009-01-09T10:26:28-05:00">
+	<status><vote date="1222711020" datetime="2008-09-29T14:57:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1211428800" datetime="2008-05-22"/>
+	<titles>
+		<title type="official" as="introduced">Commending the Tennessee Valley Authority on its 75th anniversary.</title>
+	</titles>
+	<sponsor id="400084"/>
+	<cosponsors>
+		<cosponsor id="400004" joined="2008-06-03"/>
+		<cosponsor id="400151" joined="2008-05-22"/>
+		<cosponsor id="400096" joined="2008-06-03"/>
+		<cosponsor id="400116" joined="2008-07-30"/>
+		<cosponsor id="412262" joined="2008-05-22"/>
+		<cosponsor id="400081" joined="2008-05-22"/>
+		<cosponsor id="400421" joined="2008-05-22"/>
+		<cosponsor id="400032" joined="2008-05-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1211428800" datetime="2008-05-22"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1211515200" datetime="2008-05-23"><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action date="1217476800" datetime="2008-07-31"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1217476800" datetime="2008-07-31" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1217476800" datetime="2008-07-31"><text>Subcommittee on Water Resources and Environment Discharged.</text></action>
+		<action date="1222456260" datetime="2008-09-26T16:11:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 110-892.</text></action>
+		<calendar number="281" date="1222456260" datetime="2008-09-26T16:11:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 281.</text></calendar>
+		<action date="1222521240" datetime="2008-09-27T10:14:00-04:00"><text>Mr. DeFazio moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1222521240" datetime="2008-09-27T10:14:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10137-10140"/></action>
+		<action date="1222521240" datetime="2008-09-27T10:14:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1224.</text></action>
+		<action date="1222522500" datetime="2008-09-27T10:35:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Boozman objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1222710900" datetime="2008-09-29T14:55:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10631"/></action>
+		<vote date="1222711020" how="by voice vote" datetime="2008-09-29T14:57:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 9/27/2008 H10137)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/29/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Commends the Tennessee Valley Authority on its 75th anniversary. Recognizes the Tennessee Valley Authority for its long and proud history of service in the areas of energy, the environment, and economic development in a service area that includes seven states. Honors the Board of Directors, retirees, staff, and supporters of the Tennessee Valley Authority who were instrumental during the Tennessee Valley Authority's first 75 years.<br/>
+	</summary>
+</bill>

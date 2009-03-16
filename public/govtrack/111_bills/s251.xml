@@ -1,0 +1,40 @@
+<bill session="111" type="s" number="251" updated="2009-03-07T14:03:05-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Safe Prisons Communications Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Communications Act of 1934 to permit targeted interference with mobile radio services within prison facilities.</title>
+	</titles>
+	<sponsor id="300054"/>
+	<cosponsors>
+		<cosponsor id="400432" joined="2009-02-09"/>
+		<cosponsor id="400418" joined="2009-02-09"/>
+		<cosponsor id="400105" joined="2009-01-15"/>
+		<cosponsor id="400546" joined="2009-02-09"/>
+		<cosponsor id="300023" joined="2009-02-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="560" />
+	</relatedbills>
+	<subjects>
+		<term name="Science, technology, communications"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Correctional facilities and imprisonment"/>
+		<term name="Federal Communications Commission (FCC)"/>
+		<term name="Government information and archives"/>
+		<term name="Telephone and wireless communication"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Safe Prisons Communications Act of 2009 - Amends the Communications Act of 1934 to authorize the director of the Federal Bureau of Prisons or the chief executive officer of a state to petition the Federal Communications Commission (FCC) to permit the installation of devices to prevent, jam, or interfere with wireless communications within the geographic boundaries of a specific prison, penitentiary, or correctional facility under his or her jurisdiction. Requires that the device be operated on a directional basis, using all other interference-limiting capabilities available to the device, or otherwise so that the device does not interfere with wireless communications that originate and terminate outside the area of the prison, penitentiary, or correctional facility. Requires the FCC to adopt a final rule establishing criteria for certification for the manufacture, sale, importation, and interstate shipment of such devices.<br/>
+	</summary>
+</bill>

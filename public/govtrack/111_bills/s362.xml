@@ -1,0 +1,39 @@
+<bill session="111" type="s" number="362" updated="2009-03-07T14:16:39-05:00">
+	<status><introduced date="1233291600" datetime="2009-01-30"/></status>
+
+	<introduced date="1233291600" datetime="2009-01-30"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title 38, United States Code, to improve the collective bargaining rights and procedures for review of adverse actions of certain employees of the Department of Veterans Affairs, and for other purposes.</title>
+	</titles>
+	<sponsor id="300084"/>
+	<cosponsors>
+		<cosponsor id="400050" joined="2009-01-30"/>
+		<cosponsor id="300073" joined="2009-01-30"/>
+		<cosponsor id="400357" joined="2009-01-30"/>
+		<cosponsor id="412249" joined="2009-01-30"/>
+	</cosponsors>
+	<actions>
+		<action date="1233291600" datetime="2009-01-30"><text>Sponsor introductory remarks on measure. (CR S1127-1128)</text></action>
+		<action date="1233291600" datetime="2009-01-30"><text>Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Department of Veterans Affairs"/>
+		<term name="Employment discrimination and employee rights"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Judicial review and appeals"/>
+		<term name="Labor-management relations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/30/2009--Introduced.<br/>Repeals specified exceptions to rights of certain Department of Veterans Affairs (VA) employees to engage in collective bargaining. Requires a final decision of the VA with respect to the review of an adverse personnel action against a VA employee to be issued not later than 60 days after such action has been appealed. Subjects such decision to judicial review in the appropriate U.S. District Court or, if the decision is made by a labor arbitrator, in the U.S. Court of Appeals for the Federal Circuit.<br/>
+	</summary>
+</bill>

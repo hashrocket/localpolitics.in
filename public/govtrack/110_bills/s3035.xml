@@ -1,0 +1,40 @@
+<bill session="110" type="s" number="3035" updated="2009-01-09T18:11:33-05:00">
+	<status><enacted date="1212120000" datetime="2008-05-30" /></status>
+
+	<introduced date="1211256000" datetime="2008-05-20"/>
+	<titles>
+		<title type="official" as="introduced">A bill to temporarily extend the programs under the Higher Education Act of 1965.</title>
+	</titles>
+	<sponsor id="300059"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote date="1211256000" how="by Unanimous Consent" datetime="2008-05-20" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S4425-4426"/><reference label="text as passed Senate" ref="CR S4425-4426"/></vote>
+		<action date="1211291520" datetime="2008-05-20T10:52:00-04:00"><text>Received in the House.</text></action>
+		<action date="1211256000" datetime="2008-05-20"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1211311860" datetime="2008-05-20T16:31:00-04:00"><text>Mr. Bishop (NY) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1211311860" datetime="2008-05-20T16:31:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4278-4279"/></action>
+		<action date="1211311860" datetime="2008-05-20T16:31:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 3035.</text></action>
+		<vote date="1211312460" how="by voice vote" datetime="2008-05-20T16:41:00-04:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H4278"/></vote>
+		<topresident date="1211256000" datetime="2008-05-20" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1211515200" datetime="2008-05-23" ><text>Presented to President.</text></topresident>
+		<signed date="1212120000" datetime="2008-05-30" ><text>Signed by President.</text></signed>
+		<enacted number="110-238" date="1212120000" datetime="2008-05-30" type="public" ><text>Became Public Law No: 110-238.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/30/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends the Higher Education Extension Act of 2005 to extend the programs under the Higher Education Act of 1965 through June 30, 2008.<br/>
+	</summary>
+</bill>

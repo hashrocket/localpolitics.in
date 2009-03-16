@@ -1,0 +1,35 @@
+<bill session="110" type="h" number="6980" updated="2009-01-09T07:12:07-05:00">
+	<status><vote date="1222300500" datetime="2008-09-24T20:55:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1222056000" datetime="2008-09-22"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to increase the amount of the Medal of Honor special pension provided under that title by up to $1,000.</title>
+	</titles>
+	<sponsor id="400049"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1222056000" datetime="2008-09-22"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1222300140" datetime="2008-09-24T20:49:00-04:00"><text>Mr. Filner moved to suspend the rules and pass the bill.</text></action>
+		<action date="1222300140" datetime="2008-09-24T20:49:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9405-9406"/></action>
+		<action date="1222300140" datetime="2008-09-24T20:49:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6980.</text></action>
+		<vote date="1222300500" how="by voice vote" datetime="2008-09-24T20:55:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H9405"/></vote>
+		<action date="1222315200" datetime="2008-09-25"><text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/24/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Amends federal veterans law to authorize the Secretary of Veterans Affairs, subject to the availability of appropriations, to increase by up to $1,000 a month the rate of the Medal of Honor special pension. Terminates such authority at the end of FY2013.<br/>
+	</summary>
+</bill>

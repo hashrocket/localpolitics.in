@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="925" updated="2009-03-07T11:37:08-05:00">
+	<status><introduced date="1234155600" datetime="2009-02-09"/></status>
+
+	<introduced date="1234155600" datetime="2009-02-09"/>
+	<titles>
+		<title type="short" as="introduced">Northwestern New Mexico Rural Water Projects Act</title>
+		<title type="official" as="introduced">To amend the Colorado River Storage Project Act and Public Law 87-483 to authorize the construction and rehabilitation of water infrastructure in Northwestern New Mexico, to authorize the use of the reclamation fund to fund the Reclamation Water Settlements Fund, to authorize the conveyance of certain Reclamation land and infrastructure, to authorize the Commissioner of Reclamation to provide for the delivery of water, and for other purposes.</title>
+	</titles>
+	<sponsor id="412293"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the Subcommittee on Water and Power.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Water and Power" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

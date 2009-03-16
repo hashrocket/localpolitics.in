@@ -1,0 +1,37 @@
+<bill session="111" type="s" number="338" updated="2009-03-13T12:02:56-04:00">
+	<status><vote date="1236830400" datetime="2009-03-12" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Omnibus Indian Advancement Act to modify the date as of which certain tribal land of the Lytton Rancheria of California is deemed to be held in trust and to provide for the conduct of certain activities on the land.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Sponsor introductory remarks on measure. (CR S996-997)</text></action>
+		<action date="1233118800" datetime="2009-01-28"><text>Read twice and referred to the Committee on Indian Affairs.</text></action>
+		<action date="1236830400" datetime="2009-03-12"><text>Senate Committee on Indian Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S3091"/></action>
+		<vote date="1236830400" how="by Unanimous Consent" type="vote" datetime="2009-03-12" where="s" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="text" ref="CR S3091"/></vote>
+	</actions>
+	<committees>
+		<committee name="Senate Indian Affairs" subcommittee="" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="California"/>
+		<term name="Gambling"/>
+		<term name="Indian lands and resources rights"/>
+		<term name="Land transfers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/2009--Introduced.<br/>Amends the Omnibus Indian Advancement Act to repeal the declaration that specified land accepted by the Secretary of the Interior for the benefit of the Lytton Rancheria in California shall be deemed to have been held in trust and part of the reservation of the Rancheria prior to October 17, 1988. (The date on the recorded deed is October 16, 2000.) Allows the Lytton Rancheria to conduct activities for class II gaming on the land taken into trust. Prohibits the Lytton Rancheria from expanding the exterior physical measurements of any facility on the Rancheria in use for class II gaming activities. States that, for class III gaming purposes, the land taken into trust shall be treated, for purposes of provisions relating to gaming on lands acquired in trust after October 17, 1988, as if the land was acquired on October 9, 2003, the date on which the Secretary took it into trust. 
+	</summary>
+</bill>

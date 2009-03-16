@@ -1,0 +1,79 @@
+<bill session="110" type="hc" number="295" updated="2009-01-08T16:04:05-05:00">
+	<status><vote date="1216249200" datetime="2008-07-16T20:00:00-04:00" where="h" result="pass" how="roll" roll="508"/></status>
+
+	<introduced date="1202878800" datetime="2008-02-13"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the deepest appreciation of Congress to the families of members of the United States Armed Forces.</title>
+	</titles>
+	<sponsor id="412250"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2008-03-05"/>
+		<cosponsor id="400279" joined="2008-02-25"/>
+		<cosponsor id="400068" joined="2008-04-02"/>
+		<cosponsor id="412218" joined="2008-04-24"/>
+		<cosponsor id="400659" joined="2008-04-03"/>
+		<cosponsor id="400172" joined="2008-04-24"/>
+		<cosponsor id="400343" joined="2008-04-24"/>
+		<cosponsor id="400001" joined="2008-04-15"/>
+		<cosponsor id="400131" joined="2008-02-27"/>
+		<cosponsor id="412216" joined="2008-04-24"/>
+		<cosponsor id="400209" joined="2008-02-25"/>
+		<cosponsor id="400089" joined="2008-03-04"/>
+		<cosponsor id="400400" joined="2008-03-12"/>
+		<cosponsor id="400137" joined="2008-04-17"/>
+		<cosponsor id="400439" joined="2008-03-05"/>
+		<cosponsor id="400175" joined="2008-04-08"/>
+		<cosponsor id="400151" joined="2008-04-24"/>
+		<cosponsor id="400342" joined="2008-04-24"/>
+		<cosponsor id="412190" joined="2008-04-15"/>
+		<cosponsor id="412201" joined="2008-05-05"/>
+		<cosponsor id="412230" joined="2008-04-17"/>
+		<cosponsor id="400191" joined="2008-04-24"/>
+		<cosponsor id="412254" joined="2008-04-24"/>
+		<cosponsor id="400244" joined="2008-04-24"/>
+		<cosponsor id="400388" joined="2008-02-27"/>
+		<cosponsor id="412256" joined="2008-03-04"/>
+		<cosponsor id="412213" joined="2008-04-24"/>
+		<cosponsor id="400139" joined="2008-02-25"/>
+		<cosponsor id="400047" joined="2008-02-25"/>
+		<cosponsor id="409888" joined="2008-04-24"/>
+		<cosponsor id="400662" joined="2008-02-25"/>
+		<cosponsor id="400254" joined="2008-03-12"/>
+		<cosponsor id="400431" joined="2008-02-14"/>
+		<cosponsor id="400409" joined="2008-02-25"/>
+		<cosponsor id="400152" joined="2008-03-14"/>
+		<cosponsor id="400427" joined="2008-04-24"/>
+		<cosponsor id="400141" joined="2008-04-24"/>
+		<cosponsor id="400030" joined="2008-03-14"/>
+		<cosponsor id="400658" joined="2008-03-04"/>
+		<cosponsor id="400359" joined="2008-04-24"/>
+		<cosponsor id="412191" joined="2008-04-17"/>
+		<cosponsor id="412255" joined="2008-04-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1202878800" datetime="2008-02-13"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1204261200" datetime="2008-02-29"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+		<action date="1216058340" datetime="2008-07-14T14:59:00-04:00"><text>Mr. Courtney moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1216058340" datetime="2008-07-14T14:59:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6422-6424"/></action>
+		<action date="1216058340" datetime="2008-07-14T14:59:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 295.</text></action>
+		<action date="1216059000" datetime="2008-07-14T15:10:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1216248840" datetime="2008-07-16T19:54:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6648-6649"/></action>
+		<vote date="1216249200" how="roll" roll="508" datetime="2008-07-16T20:00:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 508). (text: CR 7/14/2008 H6423)</text></vote>
+		<action date="1216267200" datetime="2008-07-17"><text>Received in the Senate and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/16/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Expresses appreciation to the families of members of the Armed Forces for their unwavering support while such members answer the call to serve their country.<br/>
+	</summary>
+</bill>

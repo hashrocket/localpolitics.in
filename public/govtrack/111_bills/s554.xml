@@ -1,0 +1,31 @@
+<bill session="111" type="s" number="554" updated="2009-03-10T12:01:29-04:00">
+	<status><introduced date="1236571200" datetime="2009-03-09"/></status>
+
+	<introduced date="1236571200" datetime="2009-03-09"/>
+	<titles>
+		<title type="official" as="introduced">A bill to improve the safety of motorcoaches, and for other purposes.</title>
+	</titles>
+	<sponsor id="400050"/>
+	<cosponsors>
+		<cosponsor id="300054" joined="2009-03-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1236571200" datetime="2009-03-09"><text>Sponsor introductory remarks on measure. (CR S2912-2913)</text></action>
+		<action date="1236571200" datetime="2009-03-09"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text><reference label="text of measure as introduced" ref="CR S2912-2913"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

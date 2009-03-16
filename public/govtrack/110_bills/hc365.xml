@@ -1,0 +1,98 @@
+<bill session="110" type="hc" number="365" updated="2009-01-08T16:13:19-05:00">
+	<status><vote date="1214500020" datetime="2008-06-26T14:07:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1211428800" datetime="2008-05-22"/>
+	<titles>
+		<title type="official" as="introduced">Honoring the life of Robert Mondavi.</title>
+	</titles>
+	<sponsor id="400403"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2008-06-10"/>
+		<cosponsor id="400133" joined="2008-05-22"/>
+		<cosponsor id="400155" joined="2008-06-11"/>
+		<cosponsor id="400618" joined="2008-05-22"/>
+		<cosponsor id="400330" joined="2008-05-22"/>
+		<cosponsor id="400282" joined="2008-06-11"/>
+		<cosponsor id="412224" joined="2008-06-10"/>
+		<cosponsor id="400113" joined="2008-05-22"/>
+		<cosponsor id="400333" joined="2008-06-10"/>
+		<cosponsor id="400058" joined="2008-06-10"/>
+		<cosponsor id="400129" joined="2008-05-22"/>
+		<cosponsor id="412190" joined="2008-05-22"/>
+		<cosponsor id="400065" joined="2008-05-22"/>
+		<cosponsor id="412259" joined="2008-05-22"/>
+		<cosponsor id="400297" joined="2008-05-22"/>
+		<cosponsor id="400361" joined="2008-06-10"/>
+		<cosponsor id="400196" joined="2008-05-22"/>
+		<cosponsor id="400176" joined="2008-05-22"/>
+		<cosponsor id="400124" joined="2008-05-22"/>
+		<cosponsor id="400323" joined="2008-06-10"/>
+		<cosponsor id="400239" joined="2008-05-22"/>
+		<cosponsor id="412189" joined="2008-05-22"/>
+		<cosponsor id="400396" joined="2008-06-11"/>
+		<cosponsor id="400384" joined="2008-06-17"/>
+		<cosponsor id="400262" joined="2008-06-10"/>
+		<cosponsor id="400245" joined="2008-05-22"/>
+		<cosponsor id="400642" joined="2008-06-26"/>
+		<cosponsor id="412253" joined="2008-06-11"/>
+		<cosponsor id="400663" joined="2008-05-22"/>
+		<cosponsor id="400387" joined="2008-05-22"/>
+		<cosponsor id="400144" joined="2008-05-22"/>
+		<cosponsor id="400386" joined="2008-06-10"/>
+		<cosponsor id="400347" joined="2008-06-10"/>
+		<cosponsor id="400277" joined="2008-05-22"/>
+		<cosponsor id="400044" joined="2008-06-10"/>
+		<cosponsor id="400057" joined="2008-05-22"/>
+		<cosponsor id="400395" joined="2008-06-10"/>
+		<cosponsor id="400039" joined="2008-05-22"/>
+		<cosponsor id="400166" joined="2008-05-22"/>
+		<cosponsor id="400115" joined="2008-05-22"/>
+		<cosponsor id="400436" joined="2008-05-22"/>
+		<cosponsor id="400140" joined="2008-06-11"/>
+		<cosponsor id="400570" joined="2008-05-22"/>
+		<cosponsor id="400422" joined="2008-06-11"/>
+		<cosponsor id="400178" joined="2008-06-10"/>
+		<cosponsor id="400026" joined="2008-06-11"/>
+		<cosponsor id="400111" joined="2008-06-10"/>
+		<cosponsor id="400120" joined="2008-06-10"/>
+		<cosponsor id="400074" joined="2008-06-10"/>
+		<cosponsor id="400193" joined="2008-06-10"/>
+		<cosponsor id="400617" joined="2008-05-22"/>
+		<cosponsor id="400033" joined="2008-06-11"/>
+		<cosponsor id="400208" joined="2008-06-10"/>
+		<cosponsor id="400218" joined="2008-06-10"/>
+		<cosponsor id="400062" joined="2008-05-22"/>
+		<cosponsor id="400314" joined="2008-05-22"/>
+		<cosponsor id="412011" joined="2008-05-22"/>
+		<cosponsor id="400100" joined="2008-06-11"/>
+		<cosponsor id="400309" joined="2008-06-10"/>
+		<cosponsor id="400186" joined="2008-06-10"/>
+		<cosponsor id="400278" joined="2008-05-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1211428800" datetime="2008-05-22"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<calendar date="1213934400" datetime="2008-06-20" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1214352720" datetime="2008-06-24T21:12:00-04:00"><text>Mr. Clay moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1214352720" datetime="2008-06-24T21:12:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5993-5994"/></action>
+		<action date="1214352720" datetime="2008-06-24T21:12:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 365.</text></action>
+		<action date="1214352900" datetime="2008-06-24T21:15:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Foxx objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1214500020" datetime="2008-06-26T14:07:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6121"/></action>
+		<vote date="1214500020" how="by voice vote" datetime="2008-06-26T14:07:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 6/24/2008 H5993)</text></vote>
+		<calendar under="General Orders" number="857" date="1214539200" datetime="2008-06-27" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 857.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/26/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Honors the life of Robert Mondavi, a pioneer and patriarch of the California wine industry.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="110" type="h" number="1980" updated="2009-01-08T20:59:36-05:00">
+	<status><vote date="1184623140" datetime="2007-07-16T18:59:00-04:00" where="h" result="pass" how="roll" roll="630"/></status>
+
+	<introduced date="1177041600" datetime="2007-04-20"/>
+	<titles>
+		<title type="short" as="introduced">Housing Assistance Council Authorization Act of 2007</title>
+		<title type="short" as="reported to house">Housing Assistance Council Authorization Act of 2007</title>
+		<title type="short" as="passed house">Housing Assistance Council Authorization Act of 2007</title>
+		<title type="official" as="introduced">To authorize appropriations for the Housing Assistance Council.</title>
+	</titles>
+	<sponsor id="400179"/>
+	<cosponsors>
+		<cosponsor id="400336" joined="2007-04-20"/>
+		<cosponsor id="400633" joined="2007-05-22"/>
+		<cosponsor id="400402" joined="2007-04-23"/>
+		<cosponsor id="400663" joined="2007-04-25"/>
+		<cosponsor id="400001" joined="2007-05-09"/>
+		<cosponsor id="400140" joined="2007-04-20"/>
+		<cosponsor id="400422" joined="2007-04-20"/>
+		<cosponsor id="412220" joined="2007-05-22"/>
+		<cosponsor id="400310" joined="2007-04-23"/>
+		<cosponsor id="400639" joined="2007-04-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1177041600" datetime="2007-04-20"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1178596800" datetime="2007-05-08"><text>Referred to the Subcommittee on Housing and Community Opportunity.</text></action>
+		<action date="1178596800" datetime="2007-05-08"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1179892800" datetime="2007-05-23"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1179892800" datetime="2007-05-23" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1182470700" datetime="2007-06-21T21:05:00-04:00"><text>Reported by the Committee on Financial Services. H. Rept. 110-204.</text></action>
+		<calendar number="123" date="1182470700" datetime="2007-06-21T21:05:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 123.</text></calendar>
+		<action date="1184606040" datetime="2007-07-16T14:14:00-04:00"><text>Mr. Hinojosa moved to suspend the rules and pass the bill.</text></action>
+		<action date="1184606100" datetime="2007-07-16T14:15:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7789-7793"/></action>
+		<action date="1184606100" datetime="2007-07-16T14:15:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1980.</text></action>
+		<action date="1184606940" datetime="2007-07-16T14:29:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1184621580" datetime="2007-07-16T18:33:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7819"/></action>
+		<vote date="1184623140" how="roll" roll="630" datetime="2007-07-16T18:59:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 350 - 49 (Roll no. 630).</text><reference label="text" ref="CR H7789"/></vote>
+		<action date="1184644800" datetime="2007-07-17"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/16/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) Housing Assistance Council Authorization Act of 2007 - Authorizes the Secretary of Housing and Urban Development to provide financial assistance to the Housing Assistance Council to develop the capacity of community-based housing development organizations to undertake community development and affordable housing projects and programs in rural areas. Authorizes the Council to use such assistance for rural community-based housing development organizations to acquire: (1) technical assistance, training, support, and advice to develop business and administrative capabilities; and (2) loans, grants, or other financial assistance to carry out community development and affordable housing activities for low- and moderate-income families. Authorizes appropriations for FY2008-FY2014.<br/>
+	</summary>
+</bill>

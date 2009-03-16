@@ -1,0 +1,35 @@
+<bill session="110" type="sc" number="94" updated="2009-01-09T19:51:43-05:00">
+	<status><vote date="1216699200" datetime="2008-07-22" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1216699200" datetime="2008-07-22"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution recognizing the 60th anniversary of the integration of the United States Armed Forces.</title>
+	</titles>
+	<sponsor id="400050"/>
+	<cosponsors>
+		<cosponsor id="300059" joined="2008-07-22"/>
+		<cosponsor id="300066" joined="2008-07-22"/>
+		<cosponsor id="400629" joined="2008-07-22"/>
+	</cosponsors>
+	<actions>
+		<vote date="1216699200" how="by Unanimous Consent" datetime="2008-07-22" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S7078-7079"/><reference label="text as passed Senate" ref="CR S7078-7079"/><reference label="text of measure as introduced" ref="CR S7077-7078"/></vote>
+		<action date="1216750020" datetime="2008-07-22T15:07:00-04:00"><text>Received in the House.</text></action>
+		<action date="1216699200" datetime="2008-07-22"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1216751940" datetime="2008-07-22T15:39:00-04:00"><text>Held at the desk.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/22/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the historic significance of the 60th anniversary of the integration of the Armed Forces. Reaffirms the commitment of the federal government to ensuring diversity in the military. Commends African-Americans, Hispanics, Asian-Americans, Native Americans, and service members of all races and nationalities for their achievements, sacrifices, and contributions to our Armed Forces in all conflicts in U.S. history in the face of discrimination, hostility, and other obstacles.<br/>
+	</summary>
+</bill>

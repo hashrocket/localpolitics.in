@@ -1,0 +1,35 @@
+<bill session="110" type="s" number="1098" updated="2009-01-09T14:04:03-05:00">
+	<status><introduced date="1176350400" datetime="2007-04-12"/></status>
+
+	<introduced date="1176350400" datetime="2007-04-12"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Public Health Service Act to revise the amount of minimum allotments under the Projects for Assistance in Transition from Homelessness program.</title>
+	</titles>
+	<sponsor id="300036"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2007-04-12"/>
+		<cosponsor id="300009" joined="2007-04-12"/>
+		<cosponsor id="300059" joined="2007-04-12"/>
+		<cosponsor id="300051" joined="2007-04-12"/>
+		<cosponsor id="400357" joined="2007-04-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1176350400" datetime="2007-04-12"><text>Sponsor introductory remarks on measure. (CR S4441-4442)</text></action>
+		<action date="1176350400" datetime="2007-04-12"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S4442"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/12/2007--Introduced.<br/>Amends the Public Health Service Act to adjust the minimum state allotments for Projects for Assistance in Transition from Homelessness programs to be the greater of the amount otherwise received by the state for FY2006 or $600,000. (Current law sets forth a minimum allotment of $300,000 per state.) Provides that if the funds appropriated are insufficient for all states to receive the minimum allotment, then states shall receive no less than the amount they received in FY2006 with additional money spent to give states the minimum of $600,000.<br/>
+	</summary>
+</bill>

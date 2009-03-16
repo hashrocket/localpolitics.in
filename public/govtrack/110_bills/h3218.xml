@@ -1,0 +1,63 @@
+<bill session="110" type="h" number="3218" updated="2009-01-08T23:32:46-05:00">
+	<status><enacted date="1190952000" datetime="2007-09-28" /></status>
+
+	<introduced date="1185508800" datetime="2007-07-27"/>
+	<titles>
+		<title type="official" as="introduced">To designate a portion of Interstate Route 395 located in Baltimore, Maryland, as &quot;Cal Ripken Way&quot;.</title>
+	</titles>
+	<sponsor id="412212"/>
+	<cosponsors>
+		<cosponsor id="400149" joined="2007-07-27"/>
+		<cosponsor id="412224" joined="2007-07-27"/>
+		<cosponsor id="400018" joined="2007-07-27"/>
+		<cosponsor id="400300" joined="2007-07-27"/>
+		<cosponsor id="412208" joined="2007-07-27"/>
+		<cosponsor id="400017" joined="2007-07-27"/>
+		<cosponsor id="400098" joined="2007-07-27"/>
+		<cosponsor id="412209" joined="2007-07-27"/>
+		<cosponsor id="412211" joined="2007-07-27"/>
+		<cosponsor id="400070" joined="2007-07-27"/>
+		<cosponsor id="400189" joined="2007-07-27"/>
+		<cosponsor id="400415" joined="2007-07-27"/>
+		<cosponsor id="412186" joined="2007-07-27"/>
+		<cosponsor id="400090" joined="2007-07-27"/>
+		<cosponsor id="400438" joined="2007-07-27"/>
+		<cosponsor id="400114" joined="2007-07-27"/>
+		<cosponsor id="400321" joined="2007-07-27"/>
+		<cosponsor id="400435" joined="2007-07-27"/>
+		<cosponsor id="400349" joined="2007-07-27"/>
+		<cosponsor id="400278" joined="2007-07-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1185508800" datetime="2007-07-27"><text>Sponsor introductory remarks on measure. (CR H8815-8816)</text></action>
+		<action date="1185508800" datetime="2007-07-27"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1185768000" datetime="2007-07-30"><text>Referred to the Subcommittee on Highways and Transit.</text></action>
+		<calendar date="1188964800" datetime="2007-09-05" ><text>Committee Agreed to Seek Consideration Under Suspension of the Rules, by Voice Vote.</text></calendar>
+		<action date="1189008660" datetime="2007-09-05T13:11:00-04:00"><text>Mr. Cummings moved to suspend the rules and pass the bill.</text></action>
+		<action date="1189008720" datetime="2007-09-05T13:12:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10105-10107"/></action>
+		<action date="1189008720" datetime="2007-09-05T13:12:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3218.</text></action>
+		<vote date="1189009560" how="by voice vote" datetime="2007-09-05T13:26:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H10105"/></vote>
+		<action date="1189051200" datetime="2007-09-06"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1189569600" how="by Unanimous Consent" datetime="2007-09-12" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S11516"/></vote>
+		<action date="1189569600" datetime="2007-09-12"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1189569600" datetime="2007-09-12" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1190174400" datetime="2007-09-19" ><text>Presented to President.</text></topresident>
+		<signed date="1190952000" datetime="2007-09-28" ><text>Signed by President.</text></signed>
+		<enacted number="110-88" date="1190952000" datetime="2007-09-28" type="public" ><text>Became Public Law No: 110-88.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/28/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates a certain portion of Interstate Route 395 located in Baltimore, Maryland, as &quot;Cal Ripken Way.&quot;<br/>
+	</summary>
+</bill>

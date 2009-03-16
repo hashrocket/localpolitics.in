@@ -1,0 +1,44 @@
+<bill session="110" type="h" number="2397" updated="2009-01-08T21:51:05-05:00">
+	<status><vote date="1182203940" datetime="2007-06-18T18:59:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1179720000" datetime="2007-05-21"/>
+	<titles>
+		<title type="short" as="introduced">SBA Women's Business Programs Act of 2007</title>
+		<title type="short" as="reported to house">SBA Women's Business Programs Act of 2007</title>
+		<title type="short" as="passed house">SBA Women's Business Programs Act of 2007</title>
+		<title type="official" as="introduced">To reauthorize the women's entrepreneurial development programs of the Small Business Administration, and for other purposes.</title>
+	</titles>
+	<sponsor id="412230"/>
+	<cosponsors>
+		<cosponsor id="412208" joined="2007-06-14"/>
+		<cosponsor id="400438" joined="2007-06-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1179720000" datetime="2007-05-21"><text>Referred to the House Committee on Small Business.</text></action>
+		<action date="1179892800" datetime="2007-05-23"><text>Committee Hearings Held.</text></action>
+		<action date="1179892800" datetime="2007-05-23"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1179892800" datetime="2007-05-23" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1181944560" datetime="2007-06-15T18:56:00-04:00"><text>Reported by the Committee on Small Business. H. Rept. 110-195.</text></action>
+		<calendar number="116" date="1181944560" datetime="2007-06-15T18:56:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 116.</text></calendar>
+		<action date="1182203340" datetime="2007-06-18T18:49:00-04:00"><text>Ms. Velazquez moved to suspend the rules and pass the bill.</text></action>
+		<action date="1182203400" datetime="2007-06-18T18:50:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6627-6629"/></action>
+		<action date="1182203400" datetime="2007-06-18T18:50:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2397.</text></action>
+		<vote date="1182203940" how="by voice vote" datetime="2007-06-18T18:59:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H6627"/></vote>
+		<action date="1182225600" datetime="2007-06-19"><text>Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/18/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) SBA Women's Business Programs Act of 2007 - Title I: National Women's Business Council - Amends the Women's Business Ownership Act of 1988 to direct the National Women's Business Council to: (1) conduct at least one annual study that evaluates problems hindering the success of women entrepreneurs; and (2) report biannually on its initiatives, policies, programs, and plans. Title II: Women's Business Centers - Amends the Small Business Act relating to the women's business center program (program) to replace the five-year projects for the benefit of small businesses owned and controlled by women with a three-tiered program of five-year (first tier), three-year (second tier), and three-year (third tier) projects, with each tier commencing after the previous tier is being completed. Revises matching funds requirements for such projects. States that organizations that have conducted projects under the program: (1) are not eligible to conduct another such project; and (2) may continue to use the women's business center logo only with the Administrator's consent. Requires notice to the public of women's business center awards.<br/>
+	</summary>
+</bill>

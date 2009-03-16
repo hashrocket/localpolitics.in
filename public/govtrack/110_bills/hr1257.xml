@@ -1,0 +1,38 @@
+<bill session="110" type="hr" number="1257" updated="2009-01-09T10:30:42-05:00">
+	<status><vote date="1213282740" datetime="2008-06-12T11:59:00-04:00" where="h" result="pass" how="roll" roll="406"/></status>
+
+	<introduced date="1213070400" datetime="2008-06-10"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 6063) to authorize the programs of the National Aeronautics and Space Administration, and for other purposes.</title>
+	</titles>
+	<sponsor id="400170"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1213131720" datetime="2008-06-10T18:02:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-707, by Mr. Hastings (FL).</text></action>
+		<action date="1213131720" datetime="2008-06-10T18:02:00-04:00"><text>The rule waives all points of order against consideration of the bill except clauses 9 and 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Science and Technology now printed in the bill shall be considered as an original bill for the purpose of amendment.</text></action>
+		<calendar date="1213131720" datetime="2008-06-10T18:02:00-04:00" ><text>Placed on the House Calendar, Calendar No. 233.</text></calendar>
+		<action date="1213218540" datetime="2008-06-11T18:09:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H5287-5294"/></action>
+		<action date="1213218660" datetime="2008-06-11T18:11:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 1257.</text></action>
+		<action date="1213221540" datetime="2008-06-11T18:59:00-04:00"><text>POSTPONED PROCEEDINGS - The Chair put the question on ordering the previous question and by voice vote announced that the ayes had prevailed. Mr. Lincoln Diaz-Balart demanded the yeas and nays which were ordered, and the Chair postponed further proceedings on the question until a time to be announced.</text></action>
+		<action date="1213280820" datetime="2008-06-12T11:27:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5342-5343"/></action>
+		<action date="1213282200" datetime="2008-06-12T11:50:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 226 - 183 (Roll no. 405).</text><reference label="consideration" ref="CR H5342"/></action>
+		<vote date="1213282740" how="roll" roll="406" datetime="2008-06-12T11:59:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 221 - 188 (Roll no. 406). (text: CR 6/11/2008 H5287)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/10/2008--Introduced.<br/>Sets forth the rule for consideration of the bill (H.R. 6063) to authorize the programs of the National Aeronautics and Space Administration.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="517" updated="2009-03-07T10:48:28-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="short" as="introduced">Elder Care Tax Credit Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to modify the dependent care credit to take into account expenses for care of parents and grandparents who do not live with the taxpayer.</title>
+	</titles>
+	<sponsor id="400195"/>
+	<cosponsors>
+		<cosponsor id="400352" joined="2009-01-14"/>
+		<cosponsor id="400339" joined="2009-01-14"/>
+		<cosponsor id="400631" joined="2009-01-14"/>
+		<cosponsor id="400426" joined="2009-01-14"/>
+		<cosponsor id="400366" joined="2009-02-10"/>
+		<cosponsor id="400283" joined="2009-02-10"/>
+		<cosponsor id="412299" joined="2009-02-10"/>
+		<cosponsor id="412219" joined="2009-01-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax credits"/>
+		<term name="Tax treatment of families"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/14/2009--Introduced.<br/>Elder Care Tax Credit Act of 2009 - Amends the Internal Revenue Code to allow the tax credit for dependent care expenses for parents (or ancestors of such parents) of the taxpayer who are physically or mentally incapable of self-care, regardless of whether such a parent has the same principal place of abode as the taxpayer for more than one-half of the taxable year.<br/>
+	</summary>
+</bill>

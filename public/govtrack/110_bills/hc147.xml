@@ -1,0 +1,66 @@
+<bill session="110" type="hc" number="147" updated="2009-01-08T15:45:31-05:00">
+	<status><vote date="1196914560" datetime="2007-12-05T12:16:00-05:00" where="h" result="pass" how="roll" roll="1129"/></status>
+
+	<introduced date="1178769600" datetime="2007-05-10"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing 200 years of research, service to the people of the United States, and stewardship of the marine environment by the National Oceanic and Atmospheric Administration and its predecessor agencies, and for other purposes.</title>
+	</titles>
+	<sponsor id="400049"/>
+	<cosponsors>
+		<cosponsor id="400663" joined="2007-06-12"/>
+		<cosponsor id="400041" joined="2007-05-10"/>
+		<cosponsor id="400128" joined="2007-06-19"/>
+		<cosponsor id="400415" joined="2007-05-24"/>
+		<cosponsor id="400073" joined="2007-06-05"/>
+		<cosponsor id="400165" joined="2007-06-12"/>
+		<cosponsor id="400649" joined="2007-05-10"/>
+		<cosponsor id="400659" joined="2007-06-19"/>
+		<cosponsor id="400308" joined="2007-06-05"/>
+		<cosponsor id="400119" joined="2007-05-24"/>
+		<cosponsor id="400229" joined="2007-05-10"/>
+		<cosponsor id="400001" joined="2007-06-12"/>
+		<cosponsor id="400618" joined="2007-05-24"/>
+		<cosponsor id="400662" joined="2007-05-24"/>
+		<cosponsor id="400149" joined="2007-05-24"/>
+		<cosponsor id="400399" joined="2007-06-12"/>
+		<cosponsor id="400436" joined="2007-11-09"/>
+		<cosponsor id="400089" joined="2007-06-12"/>
+		<cosponsor id="400412" joined="2007-05-24"/>
+		<cosponsor id="400062" joined="2007-06-19"/>
+		<cosponsor id="400359" joined="2007-05-24"/>
+		<cosponsor id="400007" joined="2007-05-24"/>
+		<cosponsor id="400435" joined="2007-05-24"/>
+		<cosponsor id="400129" joined="2007-11-09"/>
+		<cosponsor id="400170" joined="2007-06-12"/>
+		<cosponsor id="400622" joined="2007-06-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1178769600" datetime="2007-05-10"><text>Referred to the Committee on Natural Resources, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1178769600" datetime="2007-05-10"><text>Referred to House Natural Resources</text></action>
+		<action date="1178769600" datetime="2007-05-10"><committee name="House Natural Resources"/><text>Referred to House Science and Technology</text></action>
+		<action date="1179115200" datetime="2007-05-14"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on Fisheries, Wildlife, and Oceans.</text></action>
+		<action date="1181016000" datetime="2007-06-05"><committee name="House Natural Resources" subcommittee="Fisheries, Wildlife, and Oceans"/><text>Subcommittee Hearings Held.</text></action>
+		<action date="1196792160" datetime="2007-12-04T14:16:00-05:00"><committee name="House Science and Technology"/><text>Ms. Bordallo moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1196792160" datetime="2007-12-04T14:16:00-05:00"><committee name="House Science and Technology"/><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H14089-14091"/></action>
+		<action date="1196792160" datetime="2007-12-04T14:16:00-05:00"><committee name="House Science and Technology"/><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 147.</text></action>
+		<action date="1196792520" datetime="2007-12-04T14:22:00-05:00"><committee name="House Science and Technology"/><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1196914140" datetime="2007-12-05T12:09:00-05:00"><committee name="House Science and Technology"/><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H14171"/></action>
+		<vote date="1196914560" how="roll" roll="1129" datetime="2007-12-05T12:16:00-05:00" where="h" type="vote" suspension="1" result="pass" ><committee name="House Science and Technology"/><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 1129). (text: CR 12/4/2007 H14089-14090)</text></vote>
+		<action date="1196917200" datetime="2007-12-06"><committee name="House Science and Technology"/><text>Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/5/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes: (1) the contributions of the National Oceanic and Atmospheric Administration (NOAA) and its predecessor agencies over a 200-year period to human understanding of the oceans and atmosphere and their stewardship of the marine environment; (2) the vision of President Thomas Jefferson in supporting scientific advancement and coastal surveys; and (3) the contributions of employees and officers of the Coast Survey, the National Geodetic Survey, and the Center for Operational Oceanographic Products and Services of the National Oceanic and Atmospheric Administration.<br/>
+	</summary>
+</bill>

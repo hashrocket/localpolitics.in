@@ -1,0 +1,89 @@
+<bill session="111" type="hr" number="194" updated="2009-03-12T12:06:34-04:00">
+	<status><vote date="1236791100" datetime="2009-03-11T14:05:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1235624400" datetime="2009-02-26"/>
+	<titles>
+		<title type="official" as="introduced">Supporting the goals of International Women's Day.</title>
+	</titles>
+	<sponsor id="400360"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2009-02-26"/>
+		<cosponsor id="400436" joined="2009-03-05"/>
+		<cosponsor id="400162" joined="2009-02-26"/>
+		<cosponsor id="400661" joined="2009-03-05"/>
+		<cosponsor id="400237" joined="2009-02-26"/>
+		<cosponsor id="400387" joined="2009-03-05"/>
+		<cosponsor id="412230" joined="2009-02-26"/>
+		<cosponsor id="412219" joined="2009-03-05"/>
+		<cosponsor id="400101" joined="2009-03-05"/>
+		<cosponsor id="400215" joined="2009-03-05"/>
+		<cosponsor id="412221" joined="2009-03-05"/>
+		<cosponsor id="400652" joined="2009-03-09"/>
+		<cosponsor id="400041" joined="2009-02-26"/>
+		<cosponsor id="400396" joined="2009-02-26"/>
+		<cosponsor id="400102" joined="2009-03-09"/>
+		<cosponsor id="400282" joined="2009-02-26"/>
+		<cosponsor id="412258" joined="2009-03-09"/>
+		<cosponsor id="400025" joined="2009-03-09"/>
+		<cosponsor id="400416" joined="2009-03-05"/>
+		<cosponsor id="400251" joined="2009-02-26"/>
+		<cosponsor id="400199" joined="2009-03-09"/>
+		<cosponsor id="400178" joined="2009-02-26"/>
+		<cosponsor id="400093" joined="2009-02-26"/>
+		<cosponsor id="400262" joined="2009-03-05"/>
+		<cosponsor id="400378" joined="2009-03-05"/>
+		<cosponsor id="400130" joined="2009-02-26"/>
+		<cosponsor id="400337" joined="2009-02-26"/>
+		<cosponsor id="412232" joined="2009-03-09"/>
+		<cosponsor id="400048" joined="2009-02-26"/>
+		<cosponsor id="412228" joined="2009-02-26"/>
+		<cosponsor id="400062" joined="2009-02-26"/>
+		<cosponsor id="400437" joined="2009-02-26"/>
+		<cosponsor id="400350" joined="2009-02-26"/>
+		<cosponsor id="400217" joined="2009-02-26"/>
+		<cosponsor id="400157" joined="2009-02-26"/>
+		<cosponsor id="400364" joined="2009-02-26"/>
+		<cosponsor id="400295" joined="2009-02-26"/>
+		<cosponsor id="400289" joined="2009-02-26"/>
+		<cosponsor id="412188" joined="2009-03-09"/>
+		<cosponsor id="400129" joined="2009-02-26"/>
+		<cosponsor id="400211" joined="2009-02-26"/>
+		<cosponsor id="400027" joined="2009-03-05"/>
+		<cosponsor id="400160" joined="2009-03-09"/>
+		<cosponsor id="400283" joined="2009-02-26"/>
+		<cosponsor id="400263" joined="2009-02-26"/>
+		<cosponsor id="400204" joined="2009-02-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1235624400" datetime="2009-02-26"><text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1235624400" datetime="2009-02-26"><text>Referred to House Foreign Affairs</text></action>
+		<action date="1235624400" datetime="2009-02-26"><text>Referred to House Judiciary</text></action>
+		<action date="1236790380" datetime="2009-03-11T13:53:00-04:00"><text>Mr. Berman moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1236790380" datetime="2009-03-11T13:53:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3305-3307"/><reference label="text" ref="CR H3305"/></action>
+		<action date="1236790380" datetime="2009-03-11T13:53:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 194.</text></action>
+		<vote date="1236791100" how="by voice vote" datetime="2009-03-11T14:05:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text></vote>
+	</actions>
+	<committees>
+		<committee name="House Foreign Affairs" subcommittee="" activity="Referral" />
+		<committee name="House Judiciary" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Crimes against women"/>
+		<term name="Sex, gender, sexual orientation discrimination"/>
+		<term name="Violent crime"/>
+		<term name="Women's health"/>
+		<term name="Women's rights"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/26/2009--Introduced.<br/>Supports the goals of International Women's Day. Recognizes and honors the women who have fought and continue to struggle for equality. Reaffirms the commitment of the House of Representatives to ending discrimination and violence against women and girls, to ensuring their safety and welfare, and to pursuing policies that guarantee their basic rights. Encourages the President to: (1) affirm his commitment to pursue policies to protect the health and rights of women and girls; and (2) issue a proclamation calling upon the people of the United States to observe International Women's Day.<br/>
+	</summary>
+</bill>

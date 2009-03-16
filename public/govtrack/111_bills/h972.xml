@@ -1,0 +1,30 @@
+<bill session="111" type="h" number="972" updated="2009-03-07T11:42:37-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 10, United States Code, to eliminate the requirement that certain former members of the reserve components of the Armed Forces be at least 60 years of age in order to be eligible to receive health care benefits.</title>
+	</titles>
+	<sponsor id="400433"/>
+	<cosponsors>
+		<cosponsor id="400224" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the House Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Introduced.<br/>Eliminates the requirement that a member or former member of the Armed Forces entitled to retired pay for non-regular (reserve) service be at least 60 years of age before being eligible for medical and dental care in a military health care facility.<br/>
+	</summary>
+</bill>

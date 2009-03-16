@@ -1,0 +1,36 @@
+<bill session="111" type="sr" number="62" updated="2009-03-07T14:45:37-05:00">
+	<status><introduced date="1236056400" datetime="2009-03-03"/></status>
+
+	<introduced date="1236056400" datetime="2009-03-03"/>
+	<titles>
+		<title type="official" as="introduced">A resolution establishing a select committee of the Senate to make a thorough and complete study and investigation of the facts and circumstances giving rise to the economic crisis facing the United States and to make recommendations to prevent a future recurrence of such a crisis.</title>
+	</titles>
+	<sponsor id="300037"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="2009-03-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1236056400" datetime="2009-03-03"><text>Read twice and referred to the Committee on Rules and Administration.</text><reference label="text of measure as introduced" ref="CR S2716-2718"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Rules and Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional committees"/>
+		<term name="Congressional operations and organization"/>
+		<term name="Congressional oversight"/>
+		<term name="Economic performance and conditions"/>
+		<term name="Financial crises and failures"/>
+		<term name="Senate"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

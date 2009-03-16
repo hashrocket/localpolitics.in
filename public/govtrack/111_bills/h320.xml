@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="320" updated="2009-03-07T10:25:06-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">CJ's Home Protection Act of 2009</title>
+		<title type="official" as="introduced">To amend the National Manufactured Housing Construction and Safety Standards Act of 1974 to require that weather radios be installed in all manufactured homes manufactured or sold in the United States.</title>
+	</titles>
+	<sponsor id="412206"/>
+	<cosponsors>
+		<cosponsor id="400282" joined="2009-01-08"/>
+		<cosponsor id="400157" joined="2009-01-08"/>
+		<cosponsor id="400010" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Housing and community development"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Atmospheric science and weather"/>
+		<term name="Department of Housing and Urban Development"/>
+		<term name="Emergency communications systems"/>
+		<term name="Government investigations"/>
+		<term name="Housing industry, construction, standards"/>
+		<term name="Natural disasters"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

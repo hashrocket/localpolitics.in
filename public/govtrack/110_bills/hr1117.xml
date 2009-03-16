@@ -1,0 +1,34 @@
+<bill session="110" type="hr" number="1117" updated="2009-01-09T10:12:12-05:00">
+	<status><vote date="1208896440" datetime="2008-04-22T17:34:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1208404800" datetime="2008-04-17"/>
+	<titles>
+		<title type="official" as="introduced">Declaring the support of the House of Representatives for the goals and ideals of Earth Day and for developing the scientific and technological capabilities to achieve those goals.</title>
+	</titles>
+	<sponsor id="412189"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1208404800" datetime="2008-04-17"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1208895660" datetime="2008-04-22T17:21:00-04:00"><text>Mr. McNerney moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1208895720" datetime="2008-04-22T17:22:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2528-2530"/></action>
+		<action date="1208895720" datetime="2008-04-22T17:22:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1117.</text></action>
+		<vote date="1208896440" how="by voice vote" datetime="2008-04-22T17:34:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H2528"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/22/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Expresses support for the goals and ideals of Earth Day.<br/>Encourages the Department of Energy to step up its efforts in research, development, and demonstration of renewable energy technology and energy conservation techniques.<br/>Calls for all segments of American society to work together to ensure that the research and development necessary to uncover solutions to our major environmental problems occurs in a timely manner.<br/>
+	</summary>
+</bill>

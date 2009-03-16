@@ -1,0 +1,37 @@
+<bill session="111" type="s" number="309" updated="2009-03-07T14:10:31-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">Nationwide Freight and Personal Mobility Act</title>
+		<title type="official" as="introduced">A bill to amend title 23, United States Code, to improve highway transportation in the United States, including rural and metropolitan areas.</title>
+	</titles>
+	<sponsor id="300005"/>
+	<cosponsors>
+		<cosponsor id="300030" joined="2009-01-22"/>
+		<cosponsor id="300026" joined="2009-01-22"/>
+		<cosponsor id="412244" joined="2009-01-22"/>
+		<cosponsor id="300058" joined="2009-02-23"/>
+		<cosponsor id="400546" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Environment and Public Works" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Roads and highways"/>
+		<term name="Transportation programs funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2009--Introduced.<br/>Nationwide Freight and Personal Mobility Act - Specifies a formula for the automatic authorization of additional appropriations for National Highway System (NHS) improvement projects, starting FY2010, if apportionments fall below a certain level. Revises the federal share of non-Interstate highway projects to make it: (1) 80% for non-NHS projects; and (2) 85% for NHS projects.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="111" type="h" number="600" updated="2009-03-07T10:58:08-05:00">
+	<status><introduced date="1232082000" datetime="2009-01-16"/></status>
+
+	<introduced date="1232082000" datetime="2009-01-16"/>
+	<titles>
+		<title type="short" as="introduced">FHA Seller-Financed Downpayment Reform Act of 2009</title>
+		<title type="official" as="introduced">To revise the requirements for seller-financed downpayments for mortgages for single-family housing insured by the Secretary of Housing and Urban Development under title II of the National Housing Act.</title>
+	</titles>
+	<sponsor id="400653"/>
+	<cosponsors>
+		<cosponsor id="412227" joined="2009-02-09"/>
+		<cosponsor id="400277" joined="2009-01-16"/>
+		<cosponsor id="412272" joined="2009-02-25"/>
+		<cosponsor id="412199" joined="2009-02-09"/>
+		<cosponsor id="400155" joined="2009-02-09"/>
+		<cosponsor id="400618" joined="2009-02-09"/>
+		<cosponsor id="400237" joined="2009-02-25"/>
+		<cosponsor id="412221" joined="2009-02-25"/>
+		<cosponsor id="400422" joined="2009-01-16"/>
+		<cosponsor id="400623" joined="2009-02-09"/>
+		<cosponsor id="400430" joined="2009-02-09"/>
+		<cosponsor id="412186" joined="2009-02-09"/>
+		<cosponsor id="400204" joined="2009-02-09"/>
+		<cosponsor id="400030" joined="2009-02-09"/>
+		<cosponsor id="400402" joined="2009-02-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1232082000" datetime="2009-01-16"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Housing and community development"/>
+		<term name="Financial services and investments"/>
+		<term name="Housing finance and home ownership"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

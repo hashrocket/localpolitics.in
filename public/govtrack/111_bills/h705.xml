@@ -1,0 +1,49 @@
+<bill session="111" type="h" number="705" updated="2009-03-07T11:10:45-05:00">
+	<status><introduced date="1233032400" datetime="2009-01-27"/></status>
+
+	<introduced date="1233032400" datetime="2009-01-27"/>
+	<titles>
+		<title type="short" as="introduced">National STEM Education Tax Incentive for Teachers Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to encourage teachers to pursue teaching science, technology, engineering, and math subjects at elementary and secondary schools.</title>
+	</titles>
+	<sponsor id="400119"/>
+	<cosponsors>
+		<cosponsor id="412253" joined="2009-01-27"/>
+		<cosponsor id="400144" joined="2009-01-27"/>
+		<cosponsor id="400337" joined="2009-01-27"/>
+		<cosponsor id="400414" joined="2009-02-10"/>
+		<cosponsor id="400155" joined="2009-01-27"/>
+		<cosponsor id="400263" joined="2009-01-27"/>
+		<cosponsor id="412302" joined="2009-01-27"/>
+		<cosponsor id="400638" joined="2009-01-27"/>
+		<cosponsor id="412200" joined="2009-01-27"/>
+		<cosponsor id="400344" joined="2009-01-27"/>
+		<cosponsor id="400326" joined="2009-02-10"/>
+		<cosponsor id="400630" joined="2009-01-27"/>
+		<cosponsor id="400184" joined="2009-01-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1233032400" datetime="2009-01-27"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Income tax credits"/>
+		<term name="Science and engineering education"/>
+		<term name="Special education"/>
+		<term name="Student aid and college costs"/>
+		<term name="Teaching, teachers, curricula"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/2009--Introduced.<br/>National STEM Education Tax Incentive for Teachers Act of 2009 - Amends the Internal Revenue Code to allow certain full-time elementary and secondary school teachers of math, science, engineering, or technology courses a refundable tax credit for 10% of their undergraduate tuition up to $1,000 in any taxable year. Increases such credit amount to $1,500 for teachers in schools serving children with disabilities.<br/>
+	</summary>
+</bill>

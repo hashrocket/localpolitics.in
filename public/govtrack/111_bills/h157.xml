@@ -1,0 +1,49 @@
+<bill session="111" type="h" number="157" updated="2009-03-07T10:06:20-05:00">
+	<status><calendar date="1235538000" datetime="2009-02-25" /></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">District of Columbia House Voting Rights Act of 2009</title>
+		<title type="short" as="reported to house">District of Columbia House Voting Rights Act of 2009</title>
+		<title type="official" as="introduced">To provide for the treatment of the District of Columbia as a Congressional district for purposes of representation in the House of Representatives, and for other purposes.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+		<cosponsor id="412272" joined="2009-02-02"/>
+		<cosponsor id="412307" joined="2009-02-02"/>
+		<cosponsor id="400163" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Sponsor introductory remarks on measure. (CR E26-27)</text></action>
+		<action date="1233205200" datetime="2009-01-29"><text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text></action>
+		<action date="1235538000" datetime="2009-02-25"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1235538000" datetime="2009-02-25" ><text>Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 12.</text></calendar>
+		<action date="1235538000" datetime="2009-02-25"><text>Subcommittee on the Constitution, Civil Rights, and Civil Liberties Discharged.</text></action>
+		<action date="1236022080" datetime="2009-03-02T15:28:00-05:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 111-22.</text></action>
+		<calendar number="8" date="1236022140" datetime="2009-03-02T15:29:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 8.</text></calendar>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, Markup, Reporting" />
+		<committee name="House Judiciary" subcommittee="Constitution, Civil Rights, and Civil Liberties" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="160" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Census and government statistics"/>
+		<term name="Congressional operations and organization"/>
+		<term name="District of Columbia"/>
+		<term name="District of Columbia affairs"/>
+		<term name="Elections, voting, political campaign regulation"/>
+		<term name="House of Representatives"/>
+		<term name="Members of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/2/2009--Reported to House amended. District of Columbia House Voting Rights Act of 2009 - Considers the District of Columbia a congressional district for purposes of representation in the House of Representatives in the 112th Congress and each succeeding Congress. Applies to the District in the same manner as it applies to a state the federal law providing for the fifteenth and subsequent decennial censuses and for apportionment of Representatives in Congress. Limits the District to one Member under any reapportionment of Members. Modifies the formula regarding the number of presidential electors to subject it to the 23rd amendment to the Constitution in the case of the District. Increases membership of the House from 435 to 437 Members. Provides for a reapportionment of Members resulting from such increase. Directs the Clerk of the House to: (1) certify to the Governor of each state the number of Representatives to which the state is entitled; and (2) identify to the Speaker of the House the state (other than the District of Columbia) entitled to one additional Representative. Requires election at large of such additional Representative. Sets forth procedures for expedited judicial review of any action brought to challenge the constitutionality of any provision of this Act or any amendment made by it. 
+	</summary>
+</bill>

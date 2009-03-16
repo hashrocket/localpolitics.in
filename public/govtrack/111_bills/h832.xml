@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="832" updated="2009-03-07T11:26:00-05:00">
+	<status><introduced date="1233637200" datetime="2009-02-03"/></status>
+
+	<introduced date="1233637200" datetime="2009-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Superfund Polluter Pays Act</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend the financing of the Superfund.</title>
+	</titles>
+	<sponsor id="400308"/>
+	<cosponsors>
+		<cosponsor id="400289" joined="2009-03-04"/>
+		<cosponsor id="400033" joined="2009-02-03"/>
+		<cosponsor id="400101" joined="2009-03-06"/>
+		<cosponsor id="400184" joined="2009-03-06"/>
+		<cosponsor id="400062" joined="2009-03-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="564" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Government trust funds"/>
+		<term name="Hazardous wastes and toxic substances"/>
+		<term name="Pollution liability"/>
+		<term name="Sales and excise taxes"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/2009--Introduced.<br/>Superfund Polluter Pays Act - Amends the Internal Revenue Code by reinstating until January 1, 2019, the Hazardous Substance Superfund financing rate and the corporate environmental income tax.<br/>
+	</summary>
+</bill>

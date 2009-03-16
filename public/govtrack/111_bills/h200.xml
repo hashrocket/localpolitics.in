@@ -1,0 +1,56 @@
+<bill session="111" type="h" number="200" updated="2009-03-07T10:11:18-05:00">
+	<status><calendar date="1233032400" datetime="2009-01-27" /></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Helping Families Save Their Homes in Bankruptcy Act of 2009</title>
+		<title type="official" as="introduced">To amend title 11 of the United States Code with respect to modification of certain mortgages on principal residences, and for other purposes.</title>
+	</titles>
+	<sponsor id="400080"/>
+	<cosponsors>
+		<cosponsor id="400199" joined="2009-01-26"/>
+		<cosponsor id="400227" joined="2009-01-27"/>
+		<cosponsor id="400364" joined="2009-01-06"/>
+		<cosponsor id="400289" joined="2009-01-06"/>
+		<cosponsor id="412199" joined="2009-01-14"/>
+		<cosponsor id="412263" joined="2009-01-08"/>
+		<cosponsor id="400162" joined="2009-01-14"/>
+		<cosponsor id="400102" joined="2009-01-06"/>
+		<cosponsor id="400422" joined="2009-01-06"/>
+		<cosponsor id="400424" joined="2009-01-26"/>
+		<cosponsor id="412236" joined="2009-01-08"/>
+		<cosponsor id="400240" joined="2009-02-04"/>
+		<cosponsor id="400215" joined="2009-01-26"/>
+		<cosponsor id="400355" joined="2009-01-06"/>
+		<cosponsor id="400025" joined="2009-01-26"/>
+		<cosponsor id="400163" joined="2009-01-08"/>
+		<cosponsor id="400437" joined="2009-01-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Committee Hearings Held.</text></action>
+		<action date="1233032400" datetime="2009-01-27"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1233032400" datetime="2009-01-27" ><text>Ordered to be Reported (Amended) by the Yeas and Nays: 21 - 15.</text></calendar>
+		<action date="1235505720" datetime="2009-02-24T16:02:00-05:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 111-19.</text></action>
+		<calendar number="7" date="1235505720" datetime="2009-02-24T16:02:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 7.</text></calendar>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="225" />
+		<bill relation="identical" session="111" type="s" number="61" />
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Bankruptcy"/>
+		<term name="Consumer credit"/>
+		<term name="Housing finance and home ownership"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Helping Families Save their Homes in Bankruptcy Act of 2009 - Amends federal bankruptcy law governing a Chapter 13 debtor (adjustment of debts of an individual with regular income). Excludes from computation of debts the secured or unsecured portions of: (1) debts secured by the debtor's principal residence if the current value of that residence is less than the secured debt limit; or (2) debts secured or formerly secured by debtor's principal residence that was either sold in foreclosure or surrendered to the creditor if the current value of such real property is less than the secured debt limit. Declares the credit counseling requirement inapplicable to a Chapter 13 debtor who certifies that he or she has received notice that the holder of a claim secured by the debtor's principal residence may commence a foreclosure on the debtor's principal residence. Requires the court to disallow a claim that is subject to any remedy for damages or rescission due to violations of state or federal consumer protection law, including the Truth in Lending Act, notwithstanding the prior entry of a foreclosure judgment. Allows modification of the rights of claim holders, in the event of a foreclosure notice for a chapter 13 debtor, among other means by: (1) reducing a claim to equal the value of the debtor's interest in the residence securing such claim, and any adjustments to a related adjustable rate of interest; (2) waiving early repayment or prepayment penalties; and (3) extending the repayment period. Denies debtor liability for certain fees and charges incurred while the bankruptcy case is pending and arising from a debt secured by the debtor's principal residence, unless the claim holder observes specified requirements. Adds to conditions for court confirmation of a plan in bankruptcy that: (1) the holder of a claim secured by the debtor's principal residence retain the lien securing the claim until the later of the payment of such claim as reduced and modified or the discharge of a debtor from all debts; and (2) the plan modifies the claim in good faith. Excludes from final discharge of a debtor from all debts: (1) any payments to claim holders whose rights are modified under this Act; and (2) any unpaid portion of a claim as reduced.<br/>
+	</summary>
+</bill>

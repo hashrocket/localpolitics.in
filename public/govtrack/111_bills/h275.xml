@@ -1,0 +1,34 @@
+<bill session="111" type="h" number="275" updated="2009-03-07T10:19:59-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="official" as="introduced">To repeal the imposition of 3 percent withholding on certain payments made to vendors by government entities.</title>
+	</titles>
+	<sponsor id="400270"/>
+	<cosponsors>
+		<cosponsor id="400176" joined="2009-01-07"/>
+		<cosponsor id="400264" joined="2009-01-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="292" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Employment taxes"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Tax administration and collection, taxpayers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="110" type="sr" number="467" updated="2009-01-09T20:56:31-05:00">
+	<status><vote date="1204606800" datetime="2008-03-04" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1204261200" datetime="2008-02-29"/>
+	<titles>
+		<title type="official" as="introduced">A resolution honoring the life of Myron Cope.</title>
+	</titles>
+	<sponsor id="412246"/>
+	<cosponsors>
+		<cosponsor id="300092" joined="2008-02-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1204261200" datetime="2008-02-29"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S1434"/></action>
+		<action date="1204606800" datetime="2008-03-04"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S1545-1546"/></action>
+		<vote date="1204606800" how="by Unanimous Consent" datetime="2008-03-04" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S1546"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/4/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the contributions of Myron Cope (football broadcaster) to the city of Pittsburgh, the game of football, and the Pittsburgh Steelers.<br/>
+	</summary>
+</bill>

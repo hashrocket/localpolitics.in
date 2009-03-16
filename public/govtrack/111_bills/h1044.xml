@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="1044" updated="2009-03-07T11:51:32-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Port Chicago Naval Magazine National Memorial Enhancement Act of 2009</title>
+		<title type="official" as="introduced">To provide for the administration of Port Chicago Naval Magazine National Memorial as a unit of the National Park System, and for other purposes.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to House Natural Resources</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to House Armed Services</text></action>
+		<action date="1235019600" datetime="2009-02-19"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Port Chicago Naval Magazine National Memorial Enhancement Act of 2009 - Amends the Port Chicago National Memorial Act of 1992 to require the Secretary of the Interior to administer the Port Chicago Naval Magazine National Memorial as a unit of the National Park System. Directs the Secretary of Defense to transfer a specified parcel of land within the proposed boundary on the map entitled &quot;Port Chicago Naval Magazine National Memorial, Proposed Boundary,&quot; dated August 2005, to the administrative jurisdiction of the Secretary of the Interior if: (1) the land is excess to military needs; and (2) all environmental remediation actions necessary to respond to environmental contamination have been completed. Authorizes the Secretary of the Interior to enter into an agreement with the city of Concord, California, and the East Bay Regional Park District to establish and operate a facility for visitor orientation and parking, administrative offices, and curatorial storage for the Memorial. Expresses the sense of Congress that the Secretary of Defense should promptly remediate remaining environmental contamination related to the land. Expresses the sense of Congress that the Secretaries of Defense and the Interior should work together to: (1) repair storm damage to the Port Chicago site; and (2) develop a process by which future repairs and necessary modifications to the site can be achieved in as timely and cost-effective a manner as possible. 
+	</summary>
+</bill>

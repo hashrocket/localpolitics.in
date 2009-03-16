@@ -1,0 +1,44 @@
+<bill session="110" type="h" number="57" updated="2009-01-08T16:49:15-05:00">
+	<status><enacted date="1183089600" datetime="2007-06-29" /></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="official" as="introduced">To repeal certain sections of the Act of May 26, 1936, pertaining to the Virgin Islands.</title>
+	</titles>
+	<sponsor id="400073"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1169047080" datetime="2007-01-17T11:18:00-05:00"><text>Mrs. Christensen moved to suspend the rules and pass the bill.</text></action>
+		<action date="1169047140" datetime="2007-01-17T11:19:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H587-588"/></action>
+		<action date="1169047140" datetime="2007-01-17T11:19:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 57.</text></action>
+		<vote date="1169047380" how="by voice vote" datetime="2007-01-17T11:23:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H587"/></vote>
+		<action date="1169096400" datetime="2007-01-18"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<calendar date="1170219600" datetime="2007-01-31" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1171515600" datetime="2007-02-15"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-19.</text></action>
+		<calendar under="General Orders" number="44" date="1171515600" datetime="2007-02-15" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 44.</text></calendar>
+		<vote date="1181620800" how="by Unanimous Consent" datetime="2007-06-12" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S7571-7572"/></vote>
+		<topresident date="1181620800" datetime="2007-06-12" ><text>Cleared for White House.</text></topresident>
+		<action date="1181707200" datetime="2007-06-13"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1182312000" datetime="2007-06-20" ><text>Presented to President.</text></topresident>
+		<signed date="1183089600" datetime="2007-06-29" ><text>Signed by President.</text></signed>
+		<enacted number="110-40" date="1183089600" datetime="2007-06-29" type="public" ><text>Became Public Law No: 110-40.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/29/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Repeals specified provisions pertaining to real property taxation in the U.S. Virgin Islands. Deems such amendment to have taken effect on July 22, 1954.<br/>
+	</summary>
+</bill>

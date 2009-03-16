@@ -1,0 +1,50 @@
+<bill session="110" type="h" number="5712" updated="2009-01-09T04:42:09-05:00">
+	<status><vote date="1209007440" datetime="2008-04-23T12:24:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1207195200" datetime="2008-04-03"/>
+	<titles>
+		<title type="short" as="introduced">Close the Contractor Fraud Loophole Act</title>
+		<title type="short" as="reported to house">Close the Contractor Fraud Loophole Act</title>
+		<title type="short" as="passed house">Close the Contractor Fraud Loophole Act</title>
+		<title type="official" as="introduced">To require disclosure by Federal contractors of certain violations relating to the award or performance of Federal contracts.</title>
+	</titles>
+	<sponsor id="412239"/>
+	<cosponsors>
+		<cosponsor id="400409" joined="2008-04-03"/>
+		<cosponsor id="412208" joined="2008-04-15"/>
+		<cosponsor id="400371" joined="2008-04-22"/>
+		<cosponsor id="412212" joined="2008-04-15"/>
+		<cosponsor id="412220" joined="2008-04-15"/>
+		<cosponsor id="412194" joined="2008-04-15"/>
+		<cosponsor id="400425" joined="2008-04-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1207195200" datetime="2008-04-03"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1207800000" datetime="2008-04-10"><text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text></action>
+		<action date="1208318400" datetime="2008-04-16"><text>Subcommittee on Government Management, Organization, and Procurement Discharged.</text></action>
+		<calendar date="1208318400" datetime="2008-04-16" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1208886180" datetime="2008-04-22T14:43:00-04:00"><text>Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-599.</text></action>
+		<calendar number="372" date="1208886180" datetime="2008-04-22T14:43:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 372.</text></calendar>
+		<action date="1209006480" datetime="2008-04-23T12:08:00-04:00"><text>Mr. Towns moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1209006540" datetime="2008-04-23T12:09:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2572-2574"/></action>
+		<action date="1209006540" datetime="2008-04-23T12:09:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5712.</text></action>
+		<vote date="1209007440" how="by voice vote" datetime="2008-04-23T12:24:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H2572"/></vote>
+		<action date="1209009600" datetime="2008-04-24"><text>Received in the Senate.</text></action>
+		<action date="1209528000" datetime="2008-04-30"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/23/2008--Passed House amended. (This measure has not been amended since it was reported to the House on April 22, 2008. The summary of that version is repeated here.)<br/>Close the Contractor Fraud Loophole Act - Requires the Federal Acquisition Regulation to be amended within 180 days after enactment of this Act to include provisions that require timely notification by federal contractors of violations of federal criminal law or overpayments in connection with the award or performance of covered contracts or subcontracts, including those performed outside the United States and those for commercial items.<br/>Defines the term &quot;covered contract&quot; to mean any contract in an amount greater than $5 million and of more than 120 days' duration.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="140" updated="2009-03-07T10:04:13-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To withhold certain highway funds if a State does not comply with certain requirements in issuing a driver's license or identification card, and for other purposes.</title>
+	</titles>
+	<sponsor id="400144"/>
+	<cosponsors>
+		<cosponsor id="400017" joined="2009-01-06"/>
+		<cosponsor id="400343" joined="2009-01-07"/>
+		<cosponsor id="400570" joined="2009-01-06"/>
+		<cosponsor id="412011" joined="2009-01-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1231218000" datetime="2009-01-06"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Highways and Transit.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Oversight and Government Reform</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Highways and Transit" activity="Referral" />
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Government information and archives"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Licensing and registrations"/>
+		<term name="Motor vehicles"/>
+		<term name="Roads and highways"/>
+		<term name="State and local government operations"/>
+		<term name="Transportation programs funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Requires the Secretary of Transportation to withhold specified graduated percentages of a state's apportionment of certain federal-aid highways funds for FY2010 and thereafter if driver licenses or personal identification cards issued by the state do not meet with certain minimum federal standards to be accepted by a federal agency. 
+	</summary>
+</bill>

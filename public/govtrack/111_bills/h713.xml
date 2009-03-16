@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="713" updated="2009-03-07T11:11:46-05:00">
+	<status><introduced date="1233032400" datetime="2009-01-27"/></status>
+
+	<introduced date="1233032400" datetime="2009-01-27"/>
+	<titles>
+		<title type="short" as="introduced">Hedge Fund Study Act</title>
+		<title type="official" as="introduced">To require the President's Working Group on Financial Markets to conduct a study on the hedge fund industry.</title>
+	</titles>
+	<sponsor id="400070"/>
+	<cosponsors>
+		<cosponsor id="400063" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1233032400" datetime="2009-01-27"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Banking and financial institutions regulation"/>
+		<term name="Employee benefits and pensions"/>
+		<term name="Financial services and investments"/>
+		<term name="Government information and archives"/>
+		<term name="Government investigations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

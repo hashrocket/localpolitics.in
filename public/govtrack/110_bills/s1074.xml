@@ -1,0 +1,33 @@
+<bill session="110" type="s" number="1074" updated="2009-01-09T14:00:45-05:00">
+	<status><introduced date="1175140800" datetime="2007-03-29"/></status>
+
+	<introduced date="1175140800" datetime="2007-03-29"/>
+	<titles>
+		<title type="short" as="introduced">Free Internet Filing Act</title>
+		<title type="official" as="introduced">A bill to provide for direct access to electronic tax return filing, and for other purposes.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="2007-03-29"/>
+		<cosponsor id="300087" joined="2007-04-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1175140800" datetime="2007-03-29"><text>Sponsor introductory remarks on measure. (CR S4212-4213)</text></action>
+		<action date="1175140800" datetime="2007-03-29"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S4213"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/29/2007--Introduced.<br/>Free Internet Filing Act - Directs the Secretary of the Treasury to enable individual taxpayers to file their income tax returns directly through the Internal Revenue Service website without the use of any intermediary.<br/>
+	</summary>
+</bill>

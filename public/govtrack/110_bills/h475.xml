@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="475" updated="2009-01-08T17:46:04-05:00">
+	<status><enacted date="1170392400" datetime="2007-02-02" /></status>
+
+	<introduced date="1168923600" datetime="2007-01-16"/>
+	<titles>
+		<title type="short" as="introduced">House Page Board Revision Act of 2007</title>
+		<title type="short" as="passed house">House Page Board Revision Act of 2007</title>
+		<title type="short" as="passed senate">House Page Board Revision Act of 2007</title>
+		<title type="short" as="enacted">House Page Board Revision Act of 2007</title>
+		<title type="official" as="introduced">To revise the composition of the House of Representatives Page Board to equalize the number of members representing the majority and minority parties and to include a member representing the parents of pages and a member representing former pages, and for other purposes.</title>
+	</titles>
+	<sponsor id="400216"/>
+	<cosponsors>
+		<cosponsor id="400061" joined="2007-01-16"/>
+		<cosponsor id="400101" joined="2007-01-17"/>
+	</cosponsors>
+	<actions>
+		<action date="1168923600" datetime="2007-01-16"><text>Referred to the House Committee on House Administration.</text></action>
+		<action date="1169216820" datetime="2007-01-19T10:27:00-05:00"><text>Consideration initiated by previous special order.</text><reference label="consideration" ref="CR H764-768"/></action>
+		<action date="1169216820" datetime="2007-01-19T10:27:00-05:00"><text>Considered by previous special order.</text></action>
+		<action date="1169216880" datetime="2007-01-19T10:28:00-05:00"><text>DEBATE - Pursuant to a previous special order, the House proceeded with 30 minutes of debate on H.R. 475.</text></action>
+		<action date="1169218140" datetime="2007-01-19T10:49:00-05:00"><text>The previous question was ordered pursuant to a previous order of the House.</text><reference label="consideration" ref="CR H768"/></action>
+		<vote date="1169219820" how="roll" roll="42" datetime="2007-01-19T11:17:00-05:00" where="h" type="vote" result="pass" ><text>On passage Passed by the Yeas and Nays: 416 - 0 (Roll No. 42).</text><reference label="text" ref="CR H765"/></vote>
+		<action date="1169442000" datetime="2007-01-22"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1169528400" how="by Unanimous Consent" datetime="2007-01-23" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S1000"/></vote>
+		<topresident date="1169528400" datetime="2007-01-23" ><text>Cleared for White House.</text></topresident>
+		<action date="1169614800" datetime="2007-01-24"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1169701200" datetime="2007-01-25" ><text>Presented to President.</text></topresident>
+		<signed date="1170392400" datetime="2007-02-02" ><text>Signed by President.</text></signed>
+		<enacted number="110-2" date="1170392400" datetime="2007-02-02" type="public" ><text>Became Public Law No: 110-2.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/2007--Public Law. (This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.) House Page Board Revision Act of 2007 - Amends House Resolution 611, 97th Congress, agreed to November 30, 1982, as enacted into permanent law, to increase from one to two the number of Members of the House appointed to the House Page Board by the House minority leader. Requires the one-year (renewable) appointment to the Page Board, jointly by the Speaker and the minority leader, of: (1) one individual who, at any time during the five-year period ending on the date of his or her appointment, is or was a parent of a page participating in the program; and (2) one individual who is a former page of the House, but who is not a Member of the House or the parent of a page. Requires a vacancy in the position held by such Member to be filled in the same manner as the original appointment. Requires the individual appointed to fill a vacancy to serve for the remainder of the original term. Permits such individual to be reappointed in accordance with this Act. Authorizes per diem travel payments to such individuals for attending Board meetings away from home or business. Authorizes appropriations. Requires the Page Board to meet regularly, in accordance with a schedule established jointly by the Speaker and minority leader.<br/>
+	</summary>
+</bill>

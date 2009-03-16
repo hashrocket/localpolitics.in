@@ -1,0 +1,57 @@
+<bill session="111" type="sc" number="3" updated="2009-03-07T14:36:10-05:00">
+	<status><introduced date="1233118800" datetime="2009-01-28"/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution honoring and praising the National Association for the Advancement of Colored People on the occasion of its 100th anniversary.</title>
+	</titles>
+	<sponsor id="300034"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2009-01-28"/>
+		<cosponsor id="412223" joined="2009-02-12"/>
+		<cosponsor id="400272" joined="2009-01-28"/>
+		<cosponsor id="300070" joined="2009-01-28"/>
+		<cosponsor id="400050" joined="2009-01-28"/>
+		<cosponsor id="400064" joined="2009-01-28"/>
+		<cosponsor id="300059" joined="2009-01-28"/>
+		<cosponsor id="300082" joined="2009-01-28"/>
+		<cosponsor id="300011" joined="2009-01-28"/>
+		<cosponsor id="412330" joined="2009-01-28"/>
+		<cosponsor id="300030" joined="2009-01-28"/>
+		<cosponsor id="300093" joined="2009-02-04"/>
+		<cosponsor id="300098" joined="2009-01-28"/>
+		<cosponsor id="300060" joined="2009-01-28"/>
+		<cosponsor id="300038" joined="2009-01-28"/>
+		<cosponsor id="300066" joined="2009-01-28"/>
+		<cosponsor id="300063" joined="2009-01-28"/>
+		<cosponsor id="300006" joined="2009-01-28"/>
+		<cosponsor id="300073" joined="2009-01-28"/>
+		<cosponsor id="300087" joined="2009-01-28"/>
+		<cosponsor id="412328" joined="2009-02-06"/>
+		<cosponsor id="300081" joined="2009-01-28"/>
+		<cosponsor id="300051" joined="2009-01-28"/>
+		<cosponsor id="300100" joined="2009-01-28"/>
+		<cosponsor id="300064" joined="2009-01-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S998-999"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="hc" number="35" />
+	</relatedbills>
+	<subjects>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Racial and ethnic relations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/2009--Introduced.<br/>Recognizes the 100th anniversary of the historic founding of the National Association for the Advancement of Colored People (NAACP). Honors and praises the NAACP on the occasion of its anniversary for its work to ensure the political, educational, social, and economic equality of all persons.<br/>
+	</summary>
+</bill>

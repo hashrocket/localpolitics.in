@@ -1,0 +1,41 @@
+<bill session="110" type="hr" number="1194" updated="2009-01-09T10:22:49-05:00">
+	<status><vote date="1211474520" datetime="2008-05-22T13:42:00-04:00" where="h" result="pass" how="roll" roll="354"/></status>
+
+	<introduced date="1210737600" datetime="2008-05-14"/>
+	<titles>
+		<title type="official" as="introduced">Reaffirming the support of the House of Representatives for the legitimate, democratically-elected Government of Lebanon under Prime Minister Fouad Siniora.</title>
+	</titles>
+	<sponsor id="400025"/>
+	<cosponsors>
+		<cosponsor id="400430" joined="2008-05-14"/>
+		<cosponsor id="400196" joined="2008-05-14"/>
+		<cosponsor id="400003" joined="2008-05-14"/>
+		<cosponsor id="400636" joined="2008-05-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1210737600" datetime="2008-05-14"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1210737600" datetime="2008-05-14"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1210737600" datetime="2008-05-14" ><text>Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.</text></calendar>
+		<action date="1211310060" datetime="2008-05-20T16:01:00-04:00"><text>Mr. Ackerman moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1211310060" datetime="2008-05-20T16:01:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4213-4217"/></action>
+		<action date="1211310060" datetime="2008-05-20T16:01:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1194.</text></action>
+		<action date="1211311680" datetime="2008-05-20T16:28:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1211474040" datetime="2008-05-22T13:34:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4655-4656"/></action>
+		<vote date="1211474520" how="roll" roll="354" datetime="2008-05-22T13:42:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 401 - 10, 2 Present (Roll no. 354). (text: CR 5/20/2008 H4213-4214)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/22/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Reaffirms support for the legitimate, democratically-elected government of Lebanon under Prime Minister Fouad Siniora. Expresses sympathy to the people of Lebanon who have again been thrust against their will into a Hizballah-initiated conflict. Condemns: (1) Hizballah's illegitimate assault on Lebanon's sovereign government; and (2) Syria and Iran for providing military support to Hizballah in violation of U.N. Security Council Resolutions. Urges: (1) the U.S. government and the international community to support Lebanon's government; (2) the Security Council to condemn Syria and Iran; (3) countries controlling transit routes from Iran to Lebanon to impose controls on the movement of Iranian vehicles, airplanes, and goods to ensure that Iran is not illegally transferring arms to Hizballah and other terrorist groups; and (4) the European Union (EU) to designate Hizballah as a terrorist group.<br/>
+	</summary>
+</bill>

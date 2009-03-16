@@ -1,0 +1,47 @@
+<bill session="111" type="s" number="250" updated="2009-03-07T14:02:58-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="short" as="introduced">Higher Education Opportunity Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide a higher education opportunity credit in place of existing education tax incentives.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="412325" joined="2009-01-14"/>
+		<cosponsor id="400272" joined="2009-01-15"/>
+		<cosponsor id="400050" joined="2009-01-14"/>
+		<cosponsor id="400064" joined="2009-01-15"/>
+		<cosponsor id="300018" joined="2009-01-22"/>
+		<cosponsor id="300011" joined="2009-01-14"/>
+		<cosponsor id="300067" joined="2009-01-14"/>
+		<cosponsor id="412246" joined="2009-01-14"/>
+		<cosponsor id="412243" joined="2009-01-14"/>
+		<cosponsor id="300076" joined="2009-01-14"/>
+		<cosponsor id="300006" joined="2009-01-14"/>
+		<cosponsor id="300061" joined="2009-01-15"/>
+		<cosponsor id="300058" joined="2009-01-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Higher education"/>
+		<term name="Income tax credits"/>
+		<term name="Income tax deductions"/>
+		<term name="Student aid and college costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/14/2009--Introduced.<br/>Higher Education Opportunity Act of 2009 - Amends the Internal Revenue Code to replace the hope scholarship and lifetime learning tax credits with a higher education opportunity tax credit.<br/>Allows a higher education opportunity tax credit for the lesser of: (1) the sum of 100% of qualified tuition and related expenses (including a certain allowance for books) up to $2,000, 50% for such expenses between $2,000 and $4,000, and 25% of such expenses between $4,000 and $8,000; or (2) the excess (if any) of $16,000 over aggregate credits from prior taxable years. Reduces credit amounts for taxpayers with modified adjusted gross incomes over $70,000 ($140,000 in the case of a joint return). Limits such credit to three eligible students per taxpayer in any taxable year. Denies such tax credit to certain part time students and students convicted of a felony drug offense.<br/>Repeals the tax deduction for qualified tuition and related expenses. 
+	</summary>
+</bill>

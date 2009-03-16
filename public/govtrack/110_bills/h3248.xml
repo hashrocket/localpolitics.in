@@ -1,0 +1,46 @@
+<bill session="110" type="h" number="3248" updated="2009-01-08T23:36:33-05:00">
+	<status><vote date="1186017360" datetime="2007-08-01T22:16:00-04:00" where="h" result="pass" how="roll" roll="789"/></status>
+
+	<introduced date="1185854400" datetime="2007-07-31"/>
+	<titles>
+		<title type="short" as="introduced">SAFETEA-LU Technical Corrections Act of 2007</title>
+		<title type="short" as="passed house">SAFETEA-LU Technical Corrections Act of 2007</title>
+		<title type="official" as="introduced">To amend the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users to make technical corrections, and for other purposes.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="400273" joined="2007-07-31"/>
+		<cosponsor id="400116" joined="2007-07-31"/>
+		<cosponsor id="400100" joined="2007-07-31"/>
+	</cosponsors>
+	<actions>
+		<action date="1185854400" datetime="2007-07-31"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1185854400" datetime="2007-07-31"><text>Referred to the Subcommittee on Highways and Transit.</text></action>
+		<action date="1186010460" datetime="2007-08-01T20:21:00-04:00"><text>Mr. Oberstar moved to suspend the rules and pass the bill.</text></action>
+		<action date="1186010460" datetime="2007-08-01T20:21:00-04:00"><text>Considered under suspension of the rules. (consideration: CR 8/2/2007 H9507-9522)</text></action>
+		<action date="1186010460" datetime="2007-08-01T20:21:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3248.</text></action>
+		<action date="1186011960" datetime="2007-08-01T20:46:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1186017060" datetime="2007-08-01T22:11:00-04:00"><text>Considered as unfinished business. (consideration: CR 8/2/2007 H9532-9533)</text></action>
+		<vote date="1186017360" how="roll" roll="789" datetime="2007-08-01T22:16:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 1 (Roll no. 789). (text: CR 8/2/2007 H9507-9519)</text></vote>
+		<action date="1186027200" datetime="2007-08-02"><text>Received in the Senate.</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar date="1211342400" datetime="2008-05-21" ><text>Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1216180800" datetime="2008-07-16"><text>Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="883" date="1216180800" datetime="2008-07-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 883.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/16/2008--Reported to Senate amended. Amends the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (SAFETEA-LU) to revise the item descriptions of specified high priority project authorizations. Increases, decreases, or terminates certain project authorizations. Authorizes funds for a transportation improvement project for reconstructing the I-95/S.R. 1 interchange in the state of Delaware, and adding a fifth lane. Revises the item description of the Cuming Street transportation improvement project in Omaha, Nebraska, to include the narrowing of 24th Street from Cuming Street to Cass Street and adjacent lighting, landscaping, and pedestrian safety enhancements. 
+	</summary>
+</bill>

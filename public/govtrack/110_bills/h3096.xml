@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="3096" updated="2009-01-08T23:17:45-05:00">
+	<status><vote date="1190140080" datetime="2007-09-18T15:28:00-04:00" where="h" result="pass" how="roll" roll="877"/></status>
+
+	<introduced date="1184817600" datetime="2007-07-19"/>
+	<titles>
+		<title type="short" as="introduced">Vietnam Human Rights Act of 2007</title>
+		<title type="short" as="passed house">Vietnam Human Rights Act of 2007</title>
+		<title type="official" as="introduced">To promote freedom and democracy in Vietnam.</title>
+	</titles>
+	<sponsor id="400380"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-07-31"/>
+		<cosponsor id="400348" joined="2007-07-19"/>
+		<cosponsor id="400344" joined="2007-07-19"/>
+		<cosponsor id="400312" joined="2007-07-23"/>
+		<cosponsor id="400245" joined="2007-07-19"/>
+		<cosponsor id="400098" joined="2007-07-19"/>
+		<cosponsor id="400356" joined="2007-07-19"/>
+		<cosponsor id="400343" joined="2007-07-19"/>
+		<cosponsor id="400653" joined="2007-07-19"/>
+		<cosponsor id="412201" joined="2007-07-19"/>
+		<cosponsor id="400141" joined="2007-07-23"/>
+		<cosponsor id="400435" joined="2007-07-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1184817600" datetime="2007-07-19"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1185854400" datetime="2007-07-31"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1185854400" datetime="2007-07-31" ><text>Ordered to be Reported in the Nature of a Substitute by Voice Vote.</text></calendar>
+		<action date="1190051460" datetime="2007-09-17T14:51:00-04:00"><text>Mr. Faleomavaega moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1190051520" datetime="2007-09-17T14:52:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10385-10391"/></action>
+		<action date="1190051520" datetime="2007-09-17T14:52:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3096.</text></action>
+		<action date="1190053380" datetime="2007-09-17T15:23:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1190139660" datetime="2007-09-18T15:21:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10481"/></action>
+		<vote date="1190140080" how="roll" roll="877" datetime="2007-09-18T15:28:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 3 (Roll no. 877). (text: CR 9/17/2007 H10385-10387)</text></vote>
+		<action date="1190174400" datetime="2007-09-19"><text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/18/2007--Passed House amended. Vietnam Human Rights Act of 2007 - Title I: Prohibition on Nonhumanitarian Assistance to the Government of Vietnam - (Sec. 101) Prohibits U.S. nonhumanitarian assistance to the government of Vietnam for FY2008 in excess of FY2007 levels unless the President certifies to Congress that the government of Vietnam has made substantial progress respecting: (1) the release of political and religious prisoners; (2) the right of religious freedom, including the return of church properties; (3) the rights of ethnic minorities; and (4) access to U.S. refugee programs by Vietnamese nationals. Prohibits U.S. nonhumanitarian assistance to the government of Vietnam for subsequent fiscal years in excess of FY2007 levels unless the President certifies to Congress that in addition to such requirements: (1) no government of Vietnam official, agency, or entity wholly or partly owned by the government of Vietnam was complicit in a severe form of trafficking in persons; or (2) the government of Vietnam took all appropriate steps to end any such complicity and hold any official, agency, or entity accountable for such conduct. Authorizes the President to waive such prohibition for reasons of national interest. Title II: Assistance to Support Democracy in Vietnam - (Sec. 201) Authorizes the President to provide assistance through nongovernmental organizations and the Human Rights Defenders Fund for the support of individuals and organizations to promote human rights in Vietnam. Authorizes FY2008-FY2009 appropriations. Title III: United States Public Diplomacy - (Sec. 301) States that it is U.S. policy to take necessary measures to overcome government of Vietnam jamming of Radio Free Asia. Authorizes FY2008-FY2009 appropriations for such activities. (Sec. 302) States that it is U.S. policy that educational and cultural exchange programs with Vietnam should promote progress toward freedom and democracy in Vietnam. Title IV: United States Refugee Policy - (Sec. 401) States that it is U.S. policy to offer refugee resettlement to Vietnam nationals (including members of the Montagnard ethnic minority groups) who are eligible for the Humanitarian Resettlement program, the Orderly Departure program, the Resettlement Opportunities for Vietnamese Returnees program, the Amerasian Homecoming Act of 1988, or any other U.S. refugee program, but who were deemed ineligible for reasons of administrative error or certain circumstances beyond their control. Authorizes funds to be made available from FY2008-FY2010 Department of State refugee assistance for the protection and resettlement of Vietnamese refugees and asylum seekers, including Montagnards in Cambodia. Title V: Annual Report on Progress Toward Freedom and Democracy in Vietnam - (Sec. 501) Directs the Secretary of State to report annually to Congress respecting activities under this Act toward freedom and democracy in Vietnam. 
+	</summary>
+</bill>

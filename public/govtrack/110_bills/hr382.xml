@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="382" updated="2009-01-09T08:40:26-05:00">
+	<status><vote date="1178726640" datetime="2007-05-09T13:04:00-04:00" where="h" result="pass" how="roll" roll="311"/></status>
+
+	<introduced date="1178596800" datetime="2007-05-08"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 1684) to authorize appropriations for the Department of Homeland Security for fiscal year 2008, and for other purposes.</title>
+	</titles>
+	<sponsor id="400663"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1178662020" datetime="2007-05-08T19:07:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-136, by Ms. Matsui.</text></action>
+		<action date="1178662020" datetime="2007-05-08T19:07:00-04:00"><text>All points of order against the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule, the amendment in the nature of a substitute recommended by the Committee on Homeland Security now printed in the bill.</text></action>
+		<calendar date="1178662080" datetime="2007-05-08T19:08:00-04:00" ><text>Placed on the House Calendar, Calendar No. 57.</text></calendar>
+		<action date="1178721540" datetime="2007-05-09T11:39:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H4646-4655"/></action>
+		<action date="1178721780" datetime="2007-05-09T11:43:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 382.</text></action>
+		<action date="1178769300" datetime="2007-05-09T12:55:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 217 - 199 (Roll no. 310).</text><reference label="consideration" ref="CR H4654"/></action>
+		<vote date="1178726640" how="roll" roll="311" datetime="2007-05-09T13:04:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 222 - 197 (Roll no. 311).</text><reference label="text" ref="CR H4646-4647"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/9/2007--Passed House without amendment. Sets forth the rule for consideration of H.R. 1684 (Department of Homeland Security Authorization Act for Fiscal Year 2008).<br/>
+	</summary>
+</bill>

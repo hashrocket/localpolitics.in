@@ -1,0 +1,41 @@
+<bill session="111" type="hr" number="236" updated="2009-03-12T12:05:36-04:00">
+	<status><introduced date="1236744000" datetime="2009-03-11"/></status>
+
+	<introduced date="1236744000" datetime="2009-03-11"/>
+	<titles>
+		<title type="official" as="introduced">Urging Turkey to respect the rights and religious freedoms of the Ecumenical Patriarchate.</title>
+	</titles>
+	<sponsor id="400251"/>
+	<cosponsors>
+		<cosponsor id="412212" joined="2009-03-11"/>
+		<cosponsor id="400140" joined="2009-03-11"/>
+		<cosponsor id="400215" joined="2009-03-11"/>
+		<cosponsor id="400116" joined="2009-03-11"/>
+		<cosponsor id="400308" joined="2009-03-11"/>
+		<cosponsor id="400049" joined="2009-03-11"/>
+		<cosponsor id="412250" joined="2009-03-11"/>
+		<cosponsor id="400024" joined="2009-03-11"/>
+		<cosponsor id="412254" joined="2009-03-11"/>
+		<cosponsor id="412229" joined="2009-03-11"/>
+		<cosponsor id="400263" joined="2009-03-11"/>
+		<cosponsor id="400348" joined="2009-03-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1236744000" datetime="2009-03-11"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Foreign Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="220" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="674" updated="2009-01-08T18:13:33-05:00">
+	<status><vote date="1217544900" datetime="2008-07-31T19:55:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1169614800" datetime="2007-01-24"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to repeal the provision of law requiring termination of the Advisory Committee on Minority Veterans as of December 31, 2009.</title>
+	</titles>
+	<sponsor id="400163"/>
+	<cosponsors>
+		<cosponsor id="400048" joined="2007-01-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1169614800" datetime="2007-01-24"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1172811600" datetime="2007-03-02"><text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Subcommittee on Disability Assistance and Memorial Affairs Discharged.</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1216180800" datetime="2008-07-16" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1216933860" datetime="2008-07-24T18:11:00-04:00"><text>Reported by the Committee on Veterans' Affairs. H. Rept. 110-772.</text></action>
+		<calendar number="491" date="1216933860" datetime="2008-07-24T18:11:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 491.</text></calendar>
+		<action date="1217364600" datetime="2008-07-29T17:50:00-04:00"><text>Mr. Filner moved to suspend the rules and pass the bill.</text></action>
+		<action date="1217364600" datetime="2008-07-29T17:50:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7255-7256"/></action>
+		<action date="1217364600" datetime="2008-07-29T17:50:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 674.</text></action>
+		<action date="1217364900" datetime="2008-07-29T17:55:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lamborn objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1217544900" datetime="2008-07-31T19:55:00-04:00"><text>Considered as unfinished business. (consideration: CR 8/1/2008 H7709)</text></action>
+		<vote date="1217544900" how="by voice vote" datetime="2008-07-31T19:55:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/29/2008 H7255)</text></vote>
+		<action date="1217563200" datetime="2008-08-01"><text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/31/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Repeals a federal law provision requiring the termination of the Advisory Committee on Minority Veterans as of December 31, 2009.<br/>
+	</summary>
+</bill>

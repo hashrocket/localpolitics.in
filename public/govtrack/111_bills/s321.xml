@@ -1,0 +1,43 @@
+<bill session="111" type="s" number="321" updated="2009-03-07T14:11:53-05:00">
+	<status><introduced date="1232946000" datetime="2009-01-26"/></status>
+
+	<introduced date="1232946000" datetime="2009-01-26"/>
+	<titles>
+		<title type="short" as="introduced">Passport Card Travel Enhancement Act of 2009</title>
+		<title type="official" as="introduced">A bill to require the Secretary of Homeland Security and the Secretary of State to accept passport cards at air ports of entry and for other purposes.</title>
+	</titles>
+	<sponsor id="300098"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2009-01-26"/>
+		<cosponsor id="300009" joined="2009-01-28"/>
+		<cosponsor id="300025" joined="2009-03-03"/>
+		<cosponsor id="300075" joined="2009-01-29"/>
+		<cosponsor id="412244" joined="2009-01-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1232946000" datetime="2009-01-26"><text>Sponsor introductory remarks on measure. (CR S838)</text></action>
+		<action date="1232946000" datetime="2009-01-26"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S838"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Bermuda"/>
+		<term name="Canada"/>
+		<term name="Caribbean area"/>
+		<term name="Citizenship and naturalization"/>
+		<term name="Latin America"/>
+		<term name="Mexico"/>
+		<term name="Visas and passports"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/2009--Introduced.<br/>Passport Card Travel Enhancement Act of 2009 - Defines &quot;passport card&quot; as the document: (1) known as a passport card that is issued to a U.S. national on the same basis as a regular passport; and (2) that the Secretary of State began issuing in 2008. Directs the Secretary of Homeland Security and the Secretary of State to permit a passport card issued to a U.S. citizen to serve as proof of identify and citizenship if such citizen is departing from or entering the United States through an airport of entry for travel that terminates or originates in: (1) Bermuda; (2) Canada; (3) a Caribbean country; or (4) Mexico. Prohibits the Secretaries from increasing the passport card fee as a result of such requirement.<br/>
+	</summary>
+</bill>

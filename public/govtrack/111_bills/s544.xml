@@ -1,0 +1,30 @@
+<bill session="111" type="s" number="544" updated="2009-03-10T12:00:10-04:00">
+	<status><introduced date="1236571200" datetime="2009-03-09"/></status>
+
+	<introduced date="1236571200" datetime="2009-03-09"/>
+	<titles>
+		<title type="official" as="introduced">A bill for the relief of Ashley Ross Fuller.</title>
+	</titles>
+	<sponsor id="300041"/>
+	<cosponsors>
+		<cosponsor id="412251" joined="2009-03-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1236571200" datetime="2009-03-09"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/9/2009--Introduced.<br/>Provides for the relief of Ashley Ross Fuller.<br/>
+	</summary>
+</bill>

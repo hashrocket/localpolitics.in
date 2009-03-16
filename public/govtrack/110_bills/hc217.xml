@@ -1,0 +1,39 @@
+<bill session="110" type="hc" number="217" updated="2009-01-08T15:54:28-05:00">
+	<status><vote date="1190741100" datetime="2007-09-25T14:25:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1190606400" datetime="2007-09-24"/>
+	<titles>
+		<title type="official" as="introduced">To correct technical errors in the enrollment of the bill H.R. 3580.</title>
+	</titles>
+	<sponsor id="400110"/>
+	<cosponsors>
+		<cosponsor id="400018" joined="2007-09-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1190606400" datetime="2007-09-24"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1190606400" datetime="2007-09-24"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1190606400" datetime="2007-09-24"><text>Referred to House House Administration</text></action>
+		<action date="1190740920" datetime="2007-09-25T14:22:00-04:00"><text>Mr. Pallone moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1190740920" datetime="2007-09-25T14:22:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10798"/></action>
+		<action date="1190740920" datetime="2007-09-25T14:22:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 217.</text></action>
+		<vote date="1190741100" how="by voice vote" datetime="2007-09-25T14:25:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H10798"/></vote>
+		<action date="1190692800" datetime="2007-09-25"><text>Received in the Senate.</text></action>
+		<action date="1190865600" datetime="2007-09-27"><text>Referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+		<action date="1194498000" datetime="2007-11-08"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/25/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Makes corrections in the enrollment of H.R. 3580 (Food and Drug Administration Amendments Act of 2007): (1) to include devices as well as drugs within the scope of provisions regarding an expanded clinical trial registry data bank; and (2) to require that consideration of a citizen petition or a petition for stay of agency action be made separately from review and approval of any application.<br/>
+	</summary>
+</bill>

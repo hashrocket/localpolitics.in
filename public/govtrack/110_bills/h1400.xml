@@ -1,0 +1,388 @@
+<bill session="110" type="h" number="1400" updated="2009-01-08T19:46:29-05:00">
+	<status><vote date="1190731320" datetime="2007-09-25T11:42:00-04:00" where="h" result="pass" how="roll" roll="895"/></status>
+
+	<introduced date="1173330000" datetime="2007-03-08"/>
+	<titles>
+		<title type="short" as="introduced">Iran Counter-Proliferation Act of 2007</title>
+		<title type="short" as="reported to house">Iran Counter-Proliferation Act of 2007</title>
+		<title type="short" as="passed house">Iran Counter-Proliferation Act of 2007</title>
+		<title type="official" as="introduced">To enhance United States diplomatic efforts with respect to Iran by imposing additional economic sanctions against Iran, and for other purposes.</title>
+	</titles>
+	<sponsor id="400231"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-05-08"/>
+		<cosponsor id="400290" joined="2007-03-23"/>
+		<cosponsor id="400253" joined="2007-07-23"/>
+		<cosponsor id="400279" joined="2007-06-28"/>
+		<cosponsor id="400627" joined="2007-03-23"/>
+		<cosponsor id="400061" joined="2007-06-25"/>
+		<cosponsor id="400273" joined="2007-06-28"/>
+		<cosponsor id="400133" joined="2007-05-14"/>
+		<cosponsor id="400420" joined="2007-05-01"/>
+		<cosponsor id="400327" joined="2007-03-23"/>
+		<cosponsor id="400222" joined="2007-03-19"/>
+		<cosponsor id="400620" joined="2007-05-08"/>
+		<cosponsor id="400034" joined="2007-03-19"/>
+		<cosponsor id="400004" joined="2007-06-25"/>
+		<cosponsor id="400031" joined="2007-03-19"/>
+		<cosponsor id="412229" joined="2007-06-05"/>
+		<cosponsor id="412218" joined="2007-05-08"/>
+		<cosponsor id="400219" joined="2007-05-14"/>
+		<cosponsor id="400280" joined="2007-05-21"/>
+		<cosponsor id="400199" joined="2007-03-19"/>
+		<cosponsor id="400367" joined="2007-03-28"/>
+		<cosponsor id="400659" joined="2007-03-23"/>
+		<cosponsor id="400060" joined="2007-03-28"/>
+		<cosponsor id="400414" joined="2007-06-08"/>
+		<cosponsor id="400177" joined="2007-06-25"/>
+		<cosponsor id="400364" joined="2007-07-11"/>
+		<cosponsor id="400257" joined="2007-05-08"/>
+		<cosponsor id="400289" joined="2007-05-08"/>
+		<cosponsor id="400381" joined="2007-05-14"/>
+		<cosponsor id="400142" joined="2007-07-19"/>
+		<cosponsor id="400160" joined="2007-03-19"/>
+		<cosponsor id="400155" joined="2007-03-19"/>
+		<cosponsor id="400618" joined="2007-03-28"/>
+		<cosponsor id="400092" joined="2007-03-19"/>
+		<cosponsor id="400376" joined="2007-04-16"/>
+		<cosponsor id="400657" joined="2007-03-19"/>
+		<cosponsor id="400626" joined="2007-05-14"/>
+		<cosponsor id="400089" joined="2007-05-14"/>
+		<cosponsor id="400336" joined="2007-03-28"/>
+		<cosponsor id="400330" joined="2007-05-08"/>
+		<cosponsor id="400183" joined="2007-03-19"/>
+		<cosponsor id="400660" joined="2007-03-28"/>
+		<cosponsor id="400242" joined="2007-03-19"/>
+		<cosponsor id="400282" joined="2007-05-08"/>
+		<cosponsor id="400137" joined="2007-05-01"/>
+		<cosponsor id="400317" joined="2007-06-05"/>
+		<cosponsor id="412224" joined="2007-05-08"/>
+		<cosponsor id="400419" joined="2007-04-20"/>
+		<cosponsor id="412234" joined="2007-03-19"/>
+		<cosponsor id="412225" joined="2007-06-25"/>
+		<cosponsor id="400380" joined="2007-03-08"/>
+		<cosponsor id="400122" joined="2007-03-19"/>
+		<cosponsor id="400403" joined="2007-06-25"/>
+		<cosponsor id="400113" joined="2007-05-21"/>
+		<cosponsor id="400246" joined="2007-05-01"/>
+		<cosponsor id="400151" joined="2007-04-20"/>
+		<cosponsor id="400635" joined="2007-04-16"/>
+		<cosponsor id="400333" joined="2007-05-08"/>
+		<cosponsor id="400385" joined="2007-05-24"/>
+		<cosponsor id="400342" joined="2007-06-05"/>
+		<cosponsor id="400623" joined="2007-03-19"/>
+		<cosponsor id="400096" joined="2007-05-01"/>
+		<cosponsor id="400058" joined="2007-05-01"/>
+		<cosponsor id="400430" joined="2007-03-19"/>
+		<cosponsor id="400129" joined="2007-05-14"/>
+		<cosponsor id="400170" joined="2007-03-28"/>
+		<cosponsor id="412190" joined="2007-06-25"/>
+		<cosponsor id="400441" joined="2007-04-16"/>
+		<cosponsor id="412195" joined="2007-05-14"/>
+		<cosponsor id="400348" joined="2007-03-08"/>
+		<cosponsor id="400267" joined="2007-06-28"/>
+		<cosponsor id="400065" joined="2007-05-24"/>
+		<cosponsor id="400633" joined="2007-03-28"/>
+		<cosponsor id="400332" joined="2007-05-08"/>
+		<cosponsor id="400647" joined="2007-03-19"/>
+		<cosponsor id="400297" joined="2007-04-16"/>
+		<cosponsor id="400443" joined="2007-03-28"/>
+		<cosponsor id="400154" joined="2007-08-01"/>
+		<cosponsor id="412230" joined="2007-05-08"/>
+		<cosponsor id="400191" joined="2007-03-28"/>
+		<cosponsor id="400344" joined="2007-03-08"/>
+		<cosponsor id="400198" joined="2007-03-28"/>
+		<cosponsor id="400268" joined="2007-03-19"/>
+		<cosponsor id="400379" joined="2007-07-10"/>
+		<cosponsor id="400276" joined="2007-05-24"/>
+		<cosponsor id="400388" joined="2007-03-19"/>
+		<cosponsor id="400361" joined="2007-06-28"/>
+		<cosponsor id="412192" joined="2007-03-19"/>
+		<cosponsor id="400077" joined="2007-03-23"/>
+		<cosponsor id="412217" joined="2007-05-08"/>
+		<cosponsor id="400124" joined="2007-03-23"/>
+		<cosponsor id="400630" joined="2007-05-24"/>
+		<cosponsor id="400239" joined="2007-08-03"/>
+		<cosponsor id="400003" joined="2007-03-08"/>
+		<cosponsor id="400049" joined="2007-05-21"/>
+		<cosponsor id="400423" joined="2007-05-08"/>
+		<cosponsor id="400260" joined="2007-03-19"/>
+		<cosponsor id="400071" joined="2007-03-28"/>
+		<cosponsor id="400229" joined="2007-05-01"/>
+		<cosponsor id="400132" joined="2007-03-19"/>
+		<cosponsor id="400040" joined="2007-05-14"/>
+		<cosponsor id="412231" joined="2007-07-11"/>
+		<cosponsor id="400406" joined="2007-03-19"/>
+		<cosponsor id="400274" joined="2007-05-08"/>
+		<cosponsor id="400662" joined="2007-07-18"/>
+		<cosponsor id="400241" joined="2007-04-20"/>
+		<cosponsor id="412189" joined="2007-07-19"/>
+		<cosponsor id="400254" joined="2007-06-08"/>
+		<cosponsor id="400052" joined="2007-06-08"/>
+		<cosponsor id="412214" joined="2007-07-17"/>
+		<cosponsor id="400409" joined="2007-03-19"/>
+		<cosponsor id="400264" joined="2007-03-19"/>
+		<cosponsor id="400370" joined="2007-04-16"/>
+		<cosponsor id="400365" joined="2007-03-23"/>
+		<cosponsor id="400101" joined="2007-04-16"/>
+		<cosponsor id="400029" joined="2007-05-01"/>
+		<cosponsor id="400652" joined="2007-05-01"/>
+		<cosponsor id="400396" joined="2007-06-18"/>
+		<cosponsor id="400433" joined="2007-03-28"/>
+		<cosponsor id="412250" joined="2007-04-16"/>
+		<cosponsor id="400184" joined="2007-03-19"/>
+		<cosponsor id="400405" joined="2007-05-21"/>
+		<cosponsor id="400288" joined="2007-07-10"/>
+		<cosponsor id="400285" joined="2007-06-25"/>
+		<cosponsor id="400152" joined="2007-05-01"/>
+		<cosponsor id="400412" joined="2007-03-28"/>
+		<cosponsor id="400055" joined="2007-03-28"/>
+		<cosponsor id="400377" joined="2007-03-28"/>
+		<cosponsor id="400355" joined="2007-05-01"/>
+		<cosponsor id="400427" joined="2007-04-20"/>
+		<cosponsor id="412208" joined="2007-05-24"/>
+		<cosponsor id="400216" joined="2007-04-20"/>
+		<cosponsor id="400373" joined="2007-03-28"/>
+		<cosponsor id="400130" joined="2007-03-19"/>
+		<cosponsor id="412226" joined="2007-05-14"/>
+		<cosponsor id="412197" joined="2007-03-23"/>
+		<cosponsor id="400030" joined="2007-05-01"/>
+		<cosponsor id="400312" joined="2007-07-25"/>
+		<cosponsor id="412198" joined="2007-03-19"/>
+		<cosponsor id="400658" joined="2007-03-19"/>
+		<cosponsor id="400359" joined="2007-03-19"/>
+		<cosponsor id="412188" joined="2007-04-16"/>
+		<cosponsor id="400007" joined="2007-03-23"/>
+		<cosponsor id="400245" joined="2007-04-16"/>
+		<cosponsor id="400225" joined="2007-03-19"/>
+		<cosponsor id="400634" joined="2007-05-01"/>
+		<cosponsor id="400392" joined="2007-04-16"/>
+		<cosponsor id="400402" joined="2007-04-16"/>
+		<cosponsor id="400642" joined="2007-06-18"/>
+		<cosponsor id="400417" joined="2007-05-14"/>
+		<cosponsor id="400235" joined="2007-05-01"/>
+		<cosponsor id="400663" joined="2007-03-19"/>
+		<cosponsor id="400339" joined="2007-05-24"/>
+		<cosponsor id="400224" joined="2007-03-19"/>
+		<cosponsor id="400086" joined="2007-06-28"/>
+		<cosponsor id="400324" joined="2007-03-23"/>
+		<cosponsor id="400640" joined="2007-06-25"/>
+		<cosponsor id="400144" joined="2007-03-28"/>
+		<cosponsor id="400206" joined="2007-04-16"/>
+		<cosponsor id="400648" joined="2007-03-23"/>
+		<cosponsor id="400006" joined="2007-05-08"/>
+		<cosponsor id="400212" joined="2007-06-28"/>
+		<cosponsor id="400068" joined="2007-05-21"/>
+		<cosponsor id="400017" joined="2007-05-01"/>
+		<cosponsor id="400098" joined="2007-06-25"/>
+		<cosponsor id="400147" joined="2007-04-20"/>
+		<cosponsor id="400347" joined="2007-05-14"/>
+		<cosponsor id="400230" joined="2007-05-21"/>
+		<cosponsor id="400038" joined="2007-03-19"/>
+		<cosponsor id="400008" joined="2007-03-23"/>
+		<cosponsor id="412227" joined="2007-05-01"/>
+		<cosponsor id="400356" joined="2007-06-28"/>
+		<cosponsor id="400121" joined="2007-06-25"/>
+		<cosponsor id="412187" joined="2007-03-19"/>
+		<cosponsor id="400277" joined="2007-09-14"/>
+		<cosponsor id="412223" joined="2007-03-19"/>
+		<cosponsor id="400048" joined="2007-06-18"/>
+		<cosponsor id="400432" joined="2007-07-19"/>
+		<cosponsor id="412209" joined="2007-07-16"/>
+		<cosponsor id="400442" joined="2007-04-16"/>
+		<cosponsor id="412235" joined="2007-06-18"/>
+		<cosponsor id="400044" joined="2007-05-14"/>
+		<cosponsor id="400335" joined="2007-05-01"/>
+		<cosponsor id="400051" joined="2007-05-08"/>
+		<cosponsor id="412193" joined="2007-05-01"/>
+		<cosponsor id="400287" joined="2007-03-19"/>
+		<cosponsor id="400220" joined="2007-04-20"/>
+		<cosponsor id="400308" joined="2007-03-19"/>
+		<cosponsor id="400172" joined="2007-05-24"/>
+		<cosponsor id="412205" joined="2007-05-14"/>
+		<cosponsor id="412199" joined="2007-04-20"/>
+		<cosponsor id="400057" joined="2007-03-28"/>
+		<cosponsor id="400631" joined="2007-04-20"/>
+		<cosponsor id="400343" joined="2007-04-20"/>
+		<cosponsor id="400103" joined="2007-04-20"/>
+		<cosponsor id="400110" joined="2007-06-08"/>
+		<cosponsor id="400087" joined="2007-03-19"/>
+		<cosponsor id="400131" joined="2007-04-16"/>
+		<cosponsor id="412211" joined="2007-04-20"/>
+		<cosponsor id="400270" joined="2007-04-16"/>
+		<cosponsor id="400039" joined="2007-03-23"/>
+		<cosponsor id="400158" joined="2007-03-19"/>
+		<cosponsor id="400166" joined="2007-03-19"/>
+		<cosponsor id="412216" joined="2007-05-01"/>
+		<cosponsor id="400436" joined="2007-06-25"/>
+		<cosponsor id="400346" joined="2007-03-19"/>
+		<cosponsor id="400140" joined="2007-09-18"/>
+		<cosponsor id="400570" joined="2007-03-28"/>
+		<cosponsor id="400169" joined="2007-07-11"/>
+		<cosponsor id="400655" joined="2007-05-14"/>
+		<cosponsor id="412240" joined="2007-06-05"/>
+		<cosponsor id="412222" joined="2007-06-25"/>
+		<cosponsor id="412204" joined="2007-05-08"/>
+		<cosponsor id="400400" joined="2007-04-20"/>
+		<cosponsor id="400076" joined="2007-06-08"/>
+		<cosponsor id="400426" joined="2007-03-28"/>
+		<cosponsor id="400653" joined="2007-05-01"/>
+		<cosponsor id="400195" joined="2007-05-01"/>
+		<cosponsor id="400251" joined="2007-03-19"/>
+		<cosponsor id="400439" joined="2007-07-25"/>
+		<cosponsor id="400320" joined="2007-07-26"/>
+		<cosponsor id="400026" joined="2007-03-23"/>
+		<cosponsor id="400175" joined="2007-05-14"/>
+		<cosponsor id="400368" joined="2007-03-28"/>
+		<cosponsor id="412232" joined="2007-03-28"/>
+		<cosponsor id="400411" joined="2007-06-25"/>
+		<cosponsor id="400350" joined="2007-04-20"/>
+		<cosponsor id="400360" joined="2007-03-19"/>
+		<cosponsor id="400234" joined="2007-04-16"/>
+		<cosponsor id="400255" joined="2007-03-23"/>
+		<cosponsor id="400645" joined="2007-03-19"/>
+		<cosponsor id="412239" joined="2007-03-28"/>
+		<cosponsor id="400338" joined="2007-07-17"/>
+		<cosponsor id="400643" joined="2007-04-20"/>
+		<cosponsor id="400107" joined="2007-03-19"/>
+		<cosponsor id="400120" joined="2007-05-08"/>
+		<cosponsor id="400074" joined="2007-03-23"/>
+		<cosponsor id="412201" joined="2007-04-20"/>
+		<cosponsor id="400628" joined="2007-04-20"/>
+		<cosponsor id="400638" joined="2007-03-28"/>
+		<cosponsor id="412200" joined="2007-06-05"/>
+		<cosponsor id="400328" joined="2007-05-21"/>
+		<cosponsor id="400644" joined="2007-04-16"/>
+		<cosponsor id="400081" joined="2007-05-01"/>
+		<cosponsor id="400232" joined="2007-06-05"/>
+		<cosponsor id="400207" joined="2007-05-24"/>
+		<cosponsor id="400189" joined="2007-05-01"/>
+		<cosponsor id="400247" joined="2007-05-01"/>
+		<cosponsor id="400266" joined="2007-03-19"/>
+		<cosponsor id="400125" joined="2007-06-05"/>
+		<cosponsor id="400319" joined="2007-07-25"/>
+		<cosponsor id="400421" joined="2007-03-28"/>
+		<cosponsor id="400193" joined="2007-06-25"/>
+		<cosponsor id="412196" joined="2007-05-14"/>
+		<cosponsor id="400415" joined="2007-05-08"/>
+		<cosponsor id="400171" joined="2007-05-08"/>
+		<cosponsor id="400244" joined="2007-03-19"/>
+		<cosponsor id="412236" joined="2007-03-19"/>
+		<cosponsor id="400009" joined="2007-04-16"/>
+		<cosponsor id="412186" joined="2007-03-28"/>
+		<cosponsor id="400617" joined="2007-06-18"/>
+		<cosponsor id="400093" joined="2007-06-25"/>
+		<cosponsor id="400440" joined="2007-05-21"/>
+		<cosponsor id="412213" joined="2007-03-28"/>
+		<cosponsor id="400371" joined="2007-03-08"/>
+		<cosponsor id="400012" joined="2007-05-08"/>
+		<cosponsor id="412228" joined="2007-05-21"/>
+		<cosponsor id="400145" joined="2007-04-20"/>
+		<cosponsor id="412212" joined="2007-05-01"/>
+		<cosponsor id="400201" joined="2007-03-19"/>
+		<cosponsor id="400109" joined="2007-07-24"/>
+		<cosponsor id="400391" joined="2007-06-28"/>
+		<cosponsor id="400119" joined="2007-03-28"/>
+		<cosponsor id="400641" joined="2007-03-23"/>
+		<cosponsor id="400016" joined="2007-05-14"/>
+		<cosponsor id="400139" joined="2007-05-01"/>
+		<cosponsor id="400047" joined="2007-06-25"/>
+		<cosponsor id="400032" joined="2007-04-20"/>
+		<cosponsor id="412220" joined="2007-05-24"/>
+		<cosponsor id="400283" joined="2007-07-26"/>
+		<cosponsor id="400204" joined="2007-05-21"/>
+		<cosponsor id="400097" joined="2007-05-21"/>
+		<cosponsor id="400090" joined="2007-06-28"/>
+		<cosponsor id="400315" joined="2007-03-08"/>
+		<cosponsor id="400651" joined="2007-05-24"/>
+		<cosponsor id="400042" joined="2007-03-23"/>
+		<cosponsor id="400208" joined="2007-05-01"/>
+		<cosponsor id="400351" joined="2007-05-01"/>
+		<cosponsor id="400218" joined="2007-05-21"/>
+		<cosponsor id="400182" joined="2007-07-10"/>
+		<cosponsor id="400240" joined="2007-03-19"/>
+		<cosponsor id="400438" joined="2007-05-01"/>
+		<cosponsor id="412219" joined="2007-07-31"/>
+		<cosponsor id="400215" joined="2007-06-08"/>
+		<cosponsor id="400024" joined="2007-03-28"/>
+		<cosponsor id="400654" joined="2007-03-19"/>
+		<cosponsor id="400238" joined="2007-05-24"/>
+		<cosponsor id="400363" joined="2007-03-28"/>
+		<cosponsor id="412206" joined="2007-05-14"/>
+		<cosponsor id="400025" joined="2007-03-08"/>
+		<cosponsor id="400141" joined="2007-04-20"/>
+		<cosponsor id="400345" joined="2007-06-08"/>
+		<cosponsor id="400088" joined="2007-03-28"/>
+		<cosponsor id="400163" joined="2007-07-10"/>
+		<cosponsor id="400114" joined="2007-03-19"/>
+		<cosponsor id="412194" joined="2007-04-20"/>
+		<cosponsor id="400011" joined="2007-06-18"/>
+		<cosponsor id="400425" joined="2007-04-20"/>
+		<cosponsor id="400108" joined="2007-05-14"/>
+		<cosponsor id="400321" joined="2007-03-19"/>
+		<cosponsor id="400157" joined="2007-06-08"/>
+		<cosponsor id="400341" joined="2007-04-16"/>
+		<cosponsor id="412011" joined="2007-04-20"/>
+		<cosponsor id="400435" joined="2007-03-23"/>
+		<cosponsor id="412191" joined="2007-03-23"/>
+		<cosponsor id="400639" joined="2007-06-08"/>
+		<cosponsor id="400349" joined="2007-05-24"/>
+		<cosponsor id="400622" joined="2007-03-23"/>
+		<cosponsor id="400434" joined="2007-06-25"/>
+		<cosponsor id="400309" joined="2007-05-21"/>
+		<cosponsor id="412202" joined="2007-06-05"/>
+		<cosponsor id="400186" joined="2007-04-20"/>
+		<cosponsor id="400429" joined="2007-03-19"/>
+		<cosponsor id="412233" joined="2007-04-16"/>
+		<cosponsor id="400656" joined="2007-05-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1173330000" datetime="2007-03-08"><text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Ways and Means, Financial Services, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1173330000" datetime="2007-03-08"><text>Referred to House Foreign Affairs</text></action>
+		<action date="1173330000" datetime="2007-03-08"><text>Referred to House Ways and Means</text></action>
+		<action date="1173330000" datetime="2007-03-08"><text>Referred to House Financial Services</text></action>
+		<action date="1173330000" datetime="2007-03-08"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1173330000" datetime="2007-03-08"><text>Referred to House Judiciary</text></action>
+		<action date="1174276800" datetime="2007-03-19"><committee name="House Ways and Means"/><text>Referred to the Subcommittee on Trade.</text></action>
+		<action date="1182830400" datetime="2007-06-26"><committee name="House Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1182830400" datetime="2007-06-26" ><committee name="House Foreign Affairs"/><text>Ordered to be Reported (Amended) by the Yeas and Nays: 37 - 1.</text></calendar>
+		<action date="1186070820" datetime="2007-08-02T13:07:00-04:00"><text>Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-294, Part I.</text></action>
+		<action date="1186070880" datetime="2007-08-02T13:08:00-04:00"><text>House Committee on Ways and Means Granted an extension for further consideration ending not later than Sept. 7, 2007.</text></action>
+		<action date="1186070880" datetime="2007-08-02T13:08:00-04:00"><text>House Committee on Financial Services Granted an extension for further consideration ending not later than Sept. 7, 2007.</text></action>
+		<action date="1186070880" datetime="2007-08-02T13:08:00-04:00"><text>House Committee on Oversight and Government Granted an extension for further consideration ending not later than Sept. 7, 2007.</text></action>
+		<action date="1186070880" datetime="2007-08-02T13:08:00-04:00"><text>House Committee on Judiciary Granted an extension for further consideration ending not later than Sept. 7, 2007.</text></action>
+		<action date="1188941640" datetime="2007-09-04T18:34:00-04:00"><text>House Committee on Ways and Means Granted an extension for further consideration ending not later than Sept. 21, 2007.</text></action>
+		<action date="1188941640" datetime="2007-09-04T18:34:00-04:00"><text>House Committee on Financial Services Granted an extension for further consideration ending not later than Sept. 21, 2007.</text></action>
+		<action date="1188941640" datetime="2007-09-04T18:34:00-04:00"><text>House Committee on Oversight and Government Granted an extension for further consideration ending not later than Sept. 21, 2007.</text></action>
+		<action date="1188941640" datetime="2007-09-04T18:34:00-04:00"><text>House Committee on Judiciary Granted an extension for further consideration ending not later than Sept. 21, 2007.</text></action>
+		<action date="1190394600" datetime="2007-09-21T14:10:00-04:00"><text>House Committee on Ways and Means Granted an extension for further consideration ending not later than Sept. 24, 2007.</text></action>
+		<action date="1190394660" datetime="2007-09-21T14:11:00-04:00"><text>House Committee on Financial Services Granted an extension for further consideration ending not later than Sept. 24, 2007.</text></action>
+		<action date="1190394660" datetime="2007-09-21T14:11:00-04:00"><text>House Committee on Oversight and Government Granted an extension for further consideration ending not later than Sept. 24, 2007.</text></action>
+		<action date="1190394720" datetime="2007-09-21T14:12:00-04:00"><text>House Committee on Judiciary Granted an extension for further consideration ending not later than Sept. 24, 2007.</text></action>
+		<action date="1190673300" datetime="2007-09-24T19:35:00-04:00"><text>Committee on Ways and Means discharged.</text></action>
+		<action date="1190673300" datetime="2007-09-24T19:35:00-04:00"><text>Committee on Financial Services discharged.</text></action>
+		<action date="1190673300" datetime="2007-09-24T19:35:00-04:00"><text>Committee on Oversight and Government discharged.</text></action>
+		<action date="1190673300" datetime="2007-09-24T19:35:00-04:00"><text>Committee on Judiciary discharged.</text></action>
+		<calendar number="215" date="1190673360" datetime="2007-09-24T19:36:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 215.</text></calendar>
+		<action date="1190727060" datetime="2007-09-25T10:31:00-04:00"><text>Mr. Lantos moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1190727060" datetime="2007-09-25T10:31:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10764-10774"/></action>
+		<action date="1190727060" datetime="2007-09-25T10:31:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1400.</text></action>
+		<vote date="1190731320" how="roll" roll="895" datetime="2007-09-25T11:42:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 16 (Roll no. 895).</text><reference label="text" ref="CR H10764-10767"/></vote>
+		<action date="1190779200" datetime="2007-09-26"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/25/2007--Passed House amended. Iran Counter-Proliferation Act of 2007 - Title I: Support for Diplomatic Efforts Relating to Preventing Iran from Acquiring Nuclear Weapons - (Sec. 101) Expresses the sense of Congress that: (1) the United States should use diplomatic and economic means to resolve the Iranian nuclear problem; (2) the United States should continue to support efforts in the International Atomic Energy Agency (IAEA) and the U.N. Security Council to end Iran's uranium enrichment and nuclear weapons programs; (3) Security Council Resolution 1737 was a useful first step toward pressing Iran to end its nuclear weapons program; and (4) in light of Iran's continued defiance of the international community the Security Council should adopt additional measures against Iran, including measures to prohibit investments in Iran's energy sector. (Sec. 102) States that nothing in this Act shall be construed as authorizing the use of force or the use of the U.S. Armed Forces against Iran.<br/>Title II: Additional Bilateral Sanctions Against Iran - (Sec. 201) Subjects a parent company to sanctions for activities of an entity for an act outside the United States which if committed in the United States or by a U.S. person would violate Executive Order No. 12959, Executive Order No. 13059, or any other prohibition on transactions with respect to Iran under the International Emergency Economic Powers Act if the entity was created or availed of in order to engage in such an act. States that such provision shall not apply to any act carried out under a contract or other obligation of any entity if: (1) the contract or obligation existed on May 22, 2007, unless such contract or obligation is extended in time or expanded to cover additional activities; or (2) the parent company acquired the entity not knowing and not having reason to know that such contract or other obligation existed, unless the contract or other obligation is extended in time or expanded to cover additional activities beyond the terms of such contract or other obligation as it existed at the time of acquisition.<br/>Defines &quot;parent company,&quot; &quot;United States person,&quot; and &quot;entity.&quot;<br/>(Sec. 202) Prohibits importation into the United States of Iranian carpets and certain food items.<br/>(Sec. 203) Prohibits: (1) issuance of licenses (and makes existing licenses invalid) to export or reexport civil aviation goods, services, or technology to Iran; and (2) the export or reexport of such goods, services, or technology to Iran.<br/>(Sec. 204) Provides for a one-year, $1 increase for processing machine readable nonimmigrant visas and combined border crossing identification cards and nonimmigrant visas, effective within 120 days of enactment of this Act.<br/>Title III: Amendments to the Iran Sanctions Act of 1996 - (Sec. 301) Amends the Iran Sanctions Act of 1996 to direct the President to report every six months (under current law, periodically) to the appropriate congressional committees respecting diplomatic activity to establish multilateral sanctions against Iran. Revises report requirements.<br/>(Sec. 302) Requires the imposition of government procurement sanctions as part of the sanctions against a person contributing to Iran's petroleum resources. Authorizes the imposition of additional sanctions on the principal executive officer or officers of any sanctioned person, or on persons performing similar functions as such officer or officers, including blocking such person's property or its transfer to the same extent as the property of a foreign person determined to have committed acts of terrorism. (Sec. 304) Directs the President to report by January 30, 2008, and every six months thereafter, to the House Committee on Foreign Affairs and the Senate Committee on Foreign Relations (Committees) respecting investment and pre-investment activity by any person or entity that could contribute to Iran's ability to develop petroleum resources, and U.S. steps in response to such activity. Defines &quot;investment&quot; and &quot;pre-investment activity.&quot;<br/>(Sec. 305) Redefines &quot;person&quot; to include a financial institution, insurer, underwriter, guarantor, other business organization, foreign subsidiary, or an export credit agency to the extent that it is a governmental agency operating as a business enterprise.<br/>Includes: (1) transportation by tanker within the definitions of &quot;develop&quot; or &quot;development&quot;; and (2) the sale of an oil tanker or liquefied natural gas tanker within the definition of &quot;investment.&quot;<br/>(Sec. 306) Eliminates the national security waivers for imposition of sanctions.<br/>(Sec. 308) States that sections 302, 305, and 306 of this Act shall apply with respect to acts done on or after August 3, 2007.<br/>Title IV: Additional Measures - (Sec. 401) Directs the President to determine and report to the Committees whether the Islamic Revolutionary Guards Corps (IRGC) should be: (1) designated as a foreign terrorist organization; (2) placed on the list of designated global terrorists; and (3) placed on the list of weapons of mass destruction proliferators and their supporters. Authorizes the President to block all property and property interests, to the same extent as the property of a foreign person determined to have committed acts of terrorism, of persons who assist or provide financial, material, technological support, or services for the IRGC or IRGC-owned or -controlled entities.<br/>Defines &quot;specially designated global terrorist&quot; and &quot;weapons of mass destruction proliferators and their supporters.&quot;<br/>(Sec. 402) Authorizes FY2008-FY2010 appropriations for: (1) the Department of the Treasury's Office of Terrorism and Financial Intelligence; and (2) the Financial Crimes Enforcement Network.<br/>(Sec. 403) Authorizes the President to carry out exchange programs with the people of Iran, particularly the young people of Iran. Authorizes FY2008 appropriations.<br/>(Sec. 404) Directs the President to reduce annual U.S. contributions to the International Bank for Reconstruction and Development (World Bank) based upon Bank amounts provided to entities and projects in Iran.<br/>(Sec. 405) States that no cooperative agreement between the United States and Russia or any country that is assisting Iran's nuclear program or transferring advanced conventional weapons or missiles to Iran may be submitted to the President or to Congress, no such agreement may enter into force, no license may be issued for export of any nuclear material, facilities, components, or other goods, services, or technology that would be subject to such agreement, and no approval may be given for the transfer or retransfer to such country of any nuclear material, facilities, components, or other goods, services, or technology that would be subject to such agreement, until the President determines and reports to the Committees that: (1) Iran has ceased its efforts to design, develop, or acquire a nuclear explosive device or related materials or technology; and (2) the government of the country that is assisting Iran's nuclear program or transferring advanced conventional weapons or missiles to Iran has suspended, and agreed to maintain the suspension of, such activities.<br/>Defines &quot;agreement for cooperation,&quot; &quot;assisting the nuclear program of Iran,&quot; and &quot;country that is assisting the nuclear program of Iran or transferring advanced conventional weapons or missiles to Iran.&quot;Title V: Miscellaneous Provisions - (Sec. 501) States that restrictions respecting Iran in sections 203, 404, and 405 of this Act shall not have effect if the President determines and certifies to the Committees that Iran: (1) has ended efforts to develop or acquire nuclear, chemical, or biological weapons, or ballistic missiles; (2) has been removed from the list of countries supporting international terrorism; and (3) poses no significant threat to U.S. national security, interests, or allies.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="110" type="sr" number="618" updated="2009-01-09T21:15:39-05:00">
+	<status><vote date="1217563200" datetime="2008-08-01" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1216699200" datetime="2008-07-22"/>
+	<titles>
+		<title type="official" as="introduced">A resolution recognizing the tenth anniversary of the bombings of the United States embassies in Nairobi, Kenya and Dar es Salaam, Tanzania, and memorializing the citizens of the United States, Kenya, and Tanzania whose lives were claimed as a result of the al Qaeda led terrorist attacks.</title>
+	</titles>
+	<sponsor id="300070"/>
+	<cosponsors>
+		<cosponsor id="400064" joined="2008-07-29"/>
+		<cosponsor id="300008" joined="2008-07-22"/>
+		<cosponsor id="400105" joined="2008-07-29"/>
+		<cosponsor id="412251" joined="2008-07-25"/>
+		<cosponsor id="300042" joined="2008-07-29"/>
+		<cosponsor id="300024" joined="2008-07-24"/>
+		<cosponsor id="300038" joined="2008-07-30"/>
+		<cosponsor id="300078" joined="2008-07-30"/>
+		<cosponsor id="300050" joined="2008-07-25"/>
+		<cosponsor id="300095" joined="2008-07-29"/>
+		<cosponsor id="400194" joined="2008-07-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1216699200" datetime="2008-07-22"><text>Referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S7077"/></action>
+		<calendar date="1217304000" datetime="2008-07-29" ><text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1217304000" datetime="2008-07-29"><text>Committee on Foreign Relations. Reported by Senator Biden without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="912" date="1217304000" datetime="2008-07-29" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 912.</text></calendar>
+		<vote date="1217563200" how="by Unanimous Consent" datetime="2008-08-01" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S8014-8015"/><reference label="text as passed Senate" ref="CR S8015"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/1/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.) Recognizes the historic significance of the 10th anniversary of the al Qaeda bombings of the U.S. embassies in Nairobi, Kenya, and Dar Es Salaam, Tanzania. Mourns the loss of those killed and remembers their families and colleagues. Expresses gratitude to the people of Kenya and Tanzania for their assistance following the attacks and reaffirms support for their striving for future democracy and prosperity. Reaffirms the Senate's resolve to defeat al Qaeda and other terrorist organizations.<br/>
+	</summary>
+</bill>

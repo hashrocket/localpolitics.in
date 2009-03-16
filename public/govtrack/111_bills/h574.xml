@@ -1,0 +1,59 @@
+<bill session="111" type="h" number="574" updated="2009-03-07T10:55:01-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Home Infusion Therapy Coverage Act of 2009</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for the coverage of home infusion therapy under the Medicare Program.</title>
+	</titles>
+	<sponsor id="400122"/>
+	<cosponsors>
+		<cosponsor id="400352" joined="2009-03-05"/>
+		<cosponsor id="400133" joined="2009-01-28"/>
+		<cosponsor id="400017" joined="2009-03-05"/>
+		<cosponsor id="400121" joined="2009-03-05"/>
+		<cosponsor id="400160" joined="2009-01-28"/>
+		<cosponsor id="400263" joined="2009-03-05"/>
+		<cosponsor id="400259" joined="2009-02-13"/>
+		<cosponsor id="400162" joined="2009-02-26"/>
+		<cosponsor id="400013" joined="2009-01-15"/>
+		<cosponsor id="400282" joined="2009-03-05"/>
+		<cosponsor id="400380" joined="2009-01-28"/>
+		<cosponsor id="412232" joined="2009-03-05"/>
+		<cosponsor id="400005" joined="2009-03-05"/>
+		<cosponsor id="412306" joined="2009-03-05"/>
+		<cosponsor id="400391" joined="2009-02-13"/>
+		<cosponsor id="400260" joined="2009-02-26"/>
+		<cosponsor id="400042" joined="2009-03-05"/>
+		<cosponsor id="400285" joined="2009-01-15"/>
+		<cosponsor id="400114" joined="2009-03-05"/>
+		<cosponsor id="400030" joined="2009-03-05"/>
+		<cosponsor id="400321" joined="2009-02-26"/>
+		<cosponsor id="400157" joined="2009-01-15"/>
+		<cosponsor id="400341" joined="2009-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House Ways and Means</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="254" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Drug and radiation therapy"/>
+		<term name="Home and outpatient care"/>
+		<term name="Medicare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Medicare Home Infusion Therapy Coverage Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act to provide for Medicare coverage of home infusion therapy and home infusion drugs. Directs the Secretary of Health and Human Services to implement the Medicare home infusion therapy benefit in a manner that ensures that: (1) Medicare beneficiaries have timely and appropriate access to infusion therapy in their homes; and (2) there is rapid and seamless coordination between drug coverage under Medicare part D (Voluntary Prescription Drug Benefit Program) and home infusion therapy services coverage under Medicare part B (Supplemental Security Income).<br/>
+	</summary>
+</bill>

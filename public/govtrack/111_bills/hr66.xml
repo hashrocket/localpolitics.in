@@ -1,0 +1,45 @@
+<bill session="111" type="hr" number="66" updated="2009-03-07T13:13:43-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives concerning the humanitarian crisis in Gaza.</title>
+	</titles>
+	<sponsor id="400227"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2009-01-21"/>
+		<cosponsor id="400331" joined="2009-01-15"/>
+		<cosponsor id="400080" joined="2009-01-15"/>
+		<cosponsor id="400436" joined="2009-01-15"/>
+		<cosponsor id="400178" joined="2009-01-15"/>
+		<cosponsor id="400211" joined="2009-01-15"/>
+		<cosponsor id="412215" joined="2009-01-15"/>
+		<cosponsor id="400423" joined="2009-01-15"/>
+		<cosponsor id="400262" joined="2009-01-15"/>
+		<cosponsor id="400639" joined="2009-01-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Foreign Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Arab-Israeli relations"/>
+		<term name="Conflicts and wars"/>
+		<term name="Foreign aid and international relief"/>
+		<term name="Gaza Strip"/>
+		<term name="Israel"/>
+		<term name="Middle East"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Calls on the government of Israel and representatives of Hamas to implement an immediate and unconditional ceasefire and to allow unrestricted humanitarian access in Gaza.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,33 @@
+<bill session="111" type="s" number="198" updated="2009-03-07T13:56:55-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="official" as="introduced">A bill to direct the Secretary of Transportation to waive non-Federal share requirements for certain transportation programs and activities through September 30, 2009.</title>
+	</titles>
+	<sponsor id="400357"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Environment and Public Works" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="491" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Roads and highways"/>
+		<term name="Transportation programs funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Directs the Secretary of Transportation to waive, through FY2009, any requirement that would otherwise require a state or local government to contribute non-federal funds toward the cost of a covered transportation program or activity authorized by the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (SAFTETEA-LU) or an amendment made by that Act. Declares, however, that nothing in this Act shall be construed to prohibit a state or local government from contributing non-federal funds toward the cost of a covered transportation program or activity.<br/>
+	</summary>
+</bill>

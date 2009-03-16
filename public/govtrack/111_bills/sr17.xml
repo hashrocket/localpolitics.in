@@ -1,0 +1,43 @@
+<bill session="111" type="sr" number="17" updated="2009-03-07T14:40:28-05:00">
+	<status><vote date="1232082000" datetime="2009-01-16" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1232082000" datetime="2009-01-16"/>
+	<titles>
+		<title type="official" as="introduced">A resolution recognizing and honoring Captain Chesley &quot;Sully&quot; Sullenberger III, his co-pilot Jeffrey Skiles, the crewmembers of U.S. Airways Flight 1549, and the first responders, ferry operators and tug boat drivers of New York City, for their heroic and intuitive roles in the safe emergency landing of U.S. Airways Flight 1549.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="300022" joined="2009-01-16"/>
+		<cosponsor id="300011" joined="2009-01-16"/>
+		<cosponsor id="300042" joined="2009-01-16"/>
+		<cosponsor id="300061" joined="2009-01-16"/>
+		<cosponsor id="400054" joined="2009-01-16"/>
+		<cosponsor id="412324" joined="2009-01-16"/>
+		<cosponsor id="300043" joined="2009-01-16"/>
+	</cosponsors>
+	<actions>
+		<vote date="1232082000" how="by Unanimous Consent" datetime="2009-01-16" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S658-659"/><reference label="text as passed Senate" ref="CR S658-659"/><reference label="text of measure as introduced" ref="CR S656"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="75" />
+		<bill relation="unknown" session="111" type="hr" number="84" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Accidents"/>
+		<term name="Aviation and airports"/>
+		<term name="Congressional tributes"/>
+		<term name="New York City"/>
+		<term name="Transportation employees"/>
+		<term name="Transportation safety and security"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/16/2009--Introduced.<br/>Recognizes and honors Chesley Sullenberger III, Jeffrey Skiles, the crewmembers and passengers of U.S. Airways Flight 1549, and the first responders, ferry operators, and tugboat drivers of New York City for their heroic efforts in saving 155 lives in the safe emergency landing of U.S. Airways Flight 1549.<br/>
+	</summary>
+</bill>

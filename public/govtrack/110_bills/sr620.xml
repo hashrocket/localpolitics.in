@@ -1,0 +1,35 @@
+<bill session="110" type="sr" number="620" updated="2009-01-09T21:15:55-05:00">
+	<status><vote date="1220846400" datetime="2008-09-08" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1216785600" datetime="2008-07-23"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating the week of September 14-20, 2008, as National Polycystic Kidney Disease Awareness Week, to raise public awareness and understanding of polycystic kidney disease, and to foster understanding of the impact polycystic kidney disease has on patients and future generations of their families.</title>
+	</titles>
+	<sponsor id="300061"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="2008-07-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1216785600" datetime="2008-07-23"><text>Sponsor introductory remarks on measure. (CR S7178)</text></action>
+		<action date="1216785600" datetime="2008-07-23"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S7178"/></action>
+		<calendar date="1217476800" datetime="2008-07-31" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1217476800" datetime="2008-07-31"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="922" date="1217476800" datetime="2008-07-31" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 922.</text></calendar>
+		<vote date="1220846400" how="by Unanimous Consent" datetime="2008-09-08" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S8141-8142"/><reference label="text as passed Senate" ref="CR S8142"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/8/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates September 14-September 20, 2008, as National Polycystic Kidney Disease Awareness Week. Recognizes the need for additional research into a cure. 
+	</summary>
+</bill>

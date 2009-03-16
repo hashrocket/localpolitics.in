@@ -1,0 +1,38 @@
+<bill session="110" type="hr" number="1297" updated="2009-01-09T10:35:46-05:00">
+	<status><vote date="1214409900" datetime="2008-06-25T13:05:00-04:00" where="h" result="pass" how="roll" roll="452"/></status>
+
+	<introduced date="1214280000" datetime="2008-06-24"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 6275) to amend the Internal Revenue Code of 1986 to provide individuals temporary relief from the alternative minimum tax, and for other purposes.</title>
+	</titles>
+	<sponsor id="412239"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1214339940" datetime="2008-06-24T17:39:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-731, by Mr. Welch (VT).</text></action>
+		<action date="1214339940" datetime="2008-06-24T17:39:00-04:00"><text>All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.</text></action>
+		<calendar date="1214340000" datetime="2008-06-24T17:40:00-04:00" ><text>Placed on the House Calendar, Calendar No. 241.</text></calendar>
+		<action date="1214403900" datetime="2008-06-25T11:25:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H6022-6025"/></action>
+		<action date="1214403960" datetime="2008-06-25T11:26:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 1297.</text></action>
+		<action date="1214405580" datetime="2008-06-25T11:53:00-04:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 1297, the Chair put the question on ordering the previous question on H.Res. 1297 and by voice vote, announced the ayes had prevailed. Mr. Sessions demanded the yeas and nays and the Chair postponed further proceedings on ordering the previous question on H.Res. 1297 until later in the legislative day.</text></action>
+		<action date="1214452320" datetime="2008-06-25T12:52:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6029-6030"/></action>
+		<action date="1214452740" datetime="2008-06-25T12:59:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 225 - 194 (Roll no. 451).</text><reference label="consideration" ref="CR H6025, H6029-6030"/></action>
+		<vote date="1214409900" how="roll" roll="452" datetime="2008-06-25T13:05:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 224 - 193 (Roll no. 452).</text><reference label="text" ref="CR H6022"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/24/2008--Introduced.<br/>Sets forth the rule for consideration of the bill (H.R. 6275) to amend the Internal Revenue Code of 1986 to provide individuals temporary relief from the alternative minimum tax.<br/>
+	</summary>
+</bill>

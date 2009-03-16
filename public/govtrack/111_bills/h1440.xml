@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="1440" updated="2009-03-12T12:03:32-04:00">
+	<status><introduced date="1236744000" datetime="2009-03-11"/></status>
+
+	<introduced date="1236744000" datetime="2009-03-11"/>
+	<titles>
+		<title type="short" as="introduced">Maritime Law Enforcement Improvement Act of 2009</title>
+		<title type="official" as="introduced">To amend title 46, United States Code, to improve maritime law enforcement.</title>
+	</titles>
+	<sponsor id="400244"/>
+	<cosponsors>
+		<cosponsor id="412302" joined="2009-03-11"/>
+		<cosponsor id="400440" joined="2009-03-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1236744000" datetime="2009-03-11"><text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1236744000" datetime="2009-03-11"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1236744000" datetime="2009-03-11"><text>Referred to House Judiciary</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

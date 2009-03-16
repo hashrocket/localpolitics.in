@@ -1,0 +1,51 @@
+<bill session="111" type="h" number="682" updated="2009-03-07T11:07:52-05:00">
+	<status><introduced date="1232946000" datetime="2009-01-26"/></status>
+
+	<introduced date="1232946000" datetime="2009-01-26"/>
+	<titles>
+		<title type="short" as="introduced">Stop Trading on Congressional Knowledge Act</title>
+		<title type="official" as="introduced">To prohibit securities and commodities trading based on nonpublic information relating to Congress, and to require additional reporting by Members and employees of Congress of securities transaction, and for other purposes.</title>
+	</titles>
+	<sponsor id="400011"/>
+	<cosponsors>
+		<cosponsor id="400378" joined="2009-01-26"/>
+		<cosponsor id="412214" joined="2009-01-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to the Committee on Financial Services, and in addition to the Committees on House Administration, the Judiciary, Agriculture, and Standards of Official Conduct, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to House Financial Services</text></action>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to House House Administration</text></action>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to House Judiciary</text></action>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to House Agriculture</text></action>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to House Standards of Official Conduct</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Agriculture" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Standards of Official Conduct" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Government ethics and transparency, public corruption"/>
+		<term name="Government information and archives"/>
+		<term name="House of Representatives"/>
+		<term name="Legislative rules and procedure"/>
+		<term name="Members of Congress"/>
+		<term name="Public participation and lobbying"/>
+		<term name="Securities"/>
+		<term name="Securities and Exchange Commission (SEC)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

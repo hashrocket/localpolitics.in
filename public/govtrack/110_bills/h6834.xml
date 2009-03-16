@@ -1,0 +1,45 @@
+<bill session="110" type="h" number="6834" updated="2009-01-09T06:55:08-05:00">
+	<status><enacted date="1224561600" datetime="2008-10-21" /></status>
+
+	<introduced date="1220846400" datetime="2008-09-08"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 4 South Main Street in Wallingford, Connecticut, as the &quot;CWO Richard R. Lee Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400103"/>
+	<cosponsors>
+		<cosponsor id="400370" joined="2008-09-08"/>
+		<cosponsor id="412193" joined="2008-09-08"/>
+		<cosponsor id="412194" joined="2008-09-08"/>
+		<cosponsor id="400233" joined="2008-09-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1220846400" datetime="2008-09-08"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1221019200" datetime="2008-09-10"><text>Sponsor introductory remarks on measure. (CR E1751-1752)</text></action>
+		<action date="1222540440" datetime="2008-09-27T15:34:00-04:00"><text>Mr. Clay asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1222540440" datetime="2008-09-27T15:34:00-04:00"><text>Committee on Oversight and Government discharged.</text></action>
+		<action date="1222540500" datetime="2008-09-27T15:35:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10209"/></action>
+		<vote date="1222540500" how="without objection" datetime="2008-09-27T15:35:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H10209"/></vote>
+		<action date="1222660800" datetime="2008-09-29"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1222920000" how="by Unanimous Consent" datetime="2008-10-02" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10422"/></vote>
+		<topresident date="1222920000" datetime="2008-10-02" ><text>Cleared for White House.</text></topresident>
+		<action date="1223006400" datetime="2008-10-03"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1223611200" datetime="2008-10-10" ><text>Presented to President.</text></topresident>
+		<signed date="1224561600" datetime="2008-10-21" ><text>Signed by President.</text></signed>
+		<enacted number="110-444" date="1224561600" datetime="2008-10-21" type="public" ><text>Became Public Law No: 110-444.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/21/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 4 South Main Street in Wallingford, Connecticut, as the &quot;CWO Richard R. Lee Post Office Building.&quot; 
+	</summary>
+</bill>

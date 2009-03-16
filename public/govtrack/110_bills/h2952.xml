@@ -1,0 +1,46 @@
+<bill session="110" type="h" number="2952" updated="2009-01-08T22:59:55-05:00">
+	<status><enacted date="1186977600" datetime="2007-08-13" /></status>
+
+	<introduced date="1184040000" datetime="2007-07-10"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the Saginaw Chippewa Tribe of Indians of the State of Michigan to convey land and interests in land owned by the Tribe.</title>
+	</titles>
+	<sponsor id="400216"/>
+	<cosponsors>
+		<cosponsor id="400058" joined="2007-07-10"/>
+		<cosponsor id="400391" joined="2007-07-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1184040000" datetime="2007-07-10"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1184126400" datetime="2007-07-11"><text>Committee Hearings Held.</text></action>
+		<action date="1184731200" datetime="2007-07-18"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1184731200" datetime="2007-07-18" ><text>Ordered to be Reported (Amended) by Unanimous Consent.</text></calendar>
+		<calendar number="177" date="1185851220" datetime="2007-07-30T12:07:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 177.</text></calendar>
+		<action date="1185851220" datetime="2007-07-30T12:07:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-275.</text></action>
+		<action date="1185851820" datetime="2007-07-30T12:17:00-04:00"><text>Mrs. Christensen asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1185851820" datetime="2007-07-30T12:17:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H8827-8828"/><reference label="text of measure as introduced" ref="CR H8828"/></action>
+		<vote date="1185851880" how="without objection" datetime="2007-07-30T12:18:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed without objection.</text></vote>
+		<action date="1185854400" datetime="2007-07-31"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1186027200" how="by Unanimous Consent" datetime="2007-08-02" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10844"/></vote>
+		<topresident date="1186027200" datetime="2007-08-02" ><text>Cleared for White House.</text></topresident>
+		<action date="1186113600" datetime="2007-08-03"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1186372800" datetime="2007-08-06" ><text>Presented to President.</text></topresident>
+		<signed date="1186977600" datetime="2007-08-13" ><text>Signed by President.</text></signed>
+		<enacted number="110-76" date="1186977600" datetime="2007-08-13" type="public" ><text>Became Public Law No: 110-76.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/13/2007--Public Law. (This measure has not been amended since it was passed by the House on July 30, 2007. The summary of that version is repeated here.) Allows, subject to the provisions of this Act, the Saginaw Chippewa Indian Tribe of Michigan to transfer, lease, encumber, or otherwise convey, without further authorization or approval, all or any part of the Tribe's interest in any real property that is not held in trust by the United States for the benefit of the Tribe. Prohibits anything in this Act from intending to authorize the Tribe to transfer, lease, encumber, or otherwise convey, any lands, or any interest in any lands, that are held in trust by the United States for the benefit of the Tribe. Bars the United States from being held liable to any party (including the Tribe or any agent or instrumentality of the Tribe) for any term of, or any loss resulting from the term of any transfer, lease, encumbrance, or conveyance of land pursuant to this Act, except as specified. Makes such prohibition nonapplicable to land transferred or conveyed by the Tribe to the United States to be held in trust for the benefit of the Tribe.<br/>
+	</summary>
+</bill>

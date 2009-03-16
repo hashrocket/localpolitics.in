@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="62" updated="2009-01-09T08:01:37-05:00">
+	<status><vote date="1169158740" datetime="2007-01-18T18:19:00-05:00" where="h" result="pass" how="roll" roll="41"/></status>
+
+	<introduced date="1168578000" datetime="2007-01-12"/>
+	<titles>
+		<title type="official" as="introduced">Congratulating the Grand Valley State University Lakers for winning the 2006 NCAA Division II Football National Championship.</title>
+	</titles>
+	<sponsor id="400182"/>
+	<cosponsors>
+		<cosponsor id="400119" joined="2007-01-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1168578000" datetime="2007-01-12"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1169044800" datetime="2007-01-17T10:40:00-05:00"><text>Mr. Scott (VA) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1169044800" datetime="2007-01-17T10:40:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H580-582"/></action>
+		<action date="1169044800" datetime="2007-01-17T10:40:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 62.</text></action>
+		<action date="1169045040" datetime="2007-01-17T10:44:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1169158140" datetime="2007-01-18T18:09:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H729-730"/></action>
+		<vote date="1169158740" how="roll" roll="41" datetime="2007-01-18T18:19:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 41). (text: CR 1/17/2007 H580)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/18/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Congratulates the Grand Valley State University Lakers for winning the 2006 NCAA Division II Football National Championship.<br/>
+	</summary>
+</bill>

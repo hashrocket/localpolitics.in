@@ -1,0 +1,48 @@
+<bill session="110" type="h" number="4010" updated="2009-01-09T01:14:03-05:00">
+	<status><enacted date="1224561600" datetime="2008-10-21" /></status>
+
+	<introduced date="1193716800" datetime="2007-10-30"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 100 West Percy Street in Indianola, Mississippi, as the &quot;Minnie Cox Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400402"/>
+	<cosponsors>
+		<cosponsor id="400399" joined="2008-04-22"/>
+		<cosponsor id="412262" joined="2008-06-09"/>
+		<cosponsor id="400319" joined="2008-04-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1193716800" datetime="2007-10-30"><text>Sponsor introductory remarks on measure. (CR E2273-2274)</text></action>
+		<action date="1193716800" datetime="2007-10-30"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1213243200" datetime="2008-06-12"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1213243200" datetime="2008-06-12" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1216056780" datetime="2008-07-14T14:33:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1216056780" datetime="2008-07-14T14:33:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6418-6419"/></action>
+		<action date="1216056780" datetime="2008-07-14T14:33:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4010.</text></action>
+		<vote date="1216057080" how="by voice vote" datetime="2008-07-14T14:38:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H6418"/></vote>
+		<action date="1216094400" datetime="2008-07-15"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1216612800" datetime="2008-07-21"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S10422"/></action>
+		<vote date="1222920000" how="by Unanimous Consent" datetime="2008-10-02" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<topresident date="1222920000" datetime="2008-10-02" ><text>Cleared for White House.</text></topresident>
+		<action date="1223006400" datetime="2008-10-03"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1223611200" datetime="2008-10-10" ><text>Presented to President.</text></topresident>
+		<signed date="1224561600" datetime="2008-10-21" ><text>Signed by President.</text></signed>
+		<enacted number="110-440" date="1224561600" datetime="2008-10-21" type="public" ><text>Became Public Law No: 110-440.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/21/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 100 West Percy Street in Indianola, Mississippi, as the &quot;Minnie Cox Post Office Building.&quot; 
+	</summary>
+</bill>

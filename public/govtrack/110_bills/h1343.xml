@@ -1,0 +1,309 @@
+<bill session="110" type="h" number="1343" updated="2009-01-08T19:39:12-05:00">
+	<status><enacted date="1223438400" datetime="2008-10-08" /></status>
+
+	<introduced date="1173157200" datetime="2007-03-06"/>
+	<titles>
+		<title type="short" as="introduced">Health Centers Renewal Act of 2007</title>
+		<title type="short" as="passed house">Health Centers Renewal Act of 2008</title>
+		<title type="short" as="passed senate">Health Care Safety Net Act of 2008</title>
+		<title type="short" as="enacted">Health Care Safety Net Act of 2008</title>
+		<title type="official" as="introduced">To amend the Public Health Service Act to provide additional authorizations of appropriations for the health centers program under section 330 of such Act.</title>
+		<title type="official" as="amended by house">To amend the Public Health Service Act to provide additional authorizations of appropriations for the health centers program under section 330 of such Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="400160"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-06-05"/>
+		<cosponsor id="400290" joined="2007-06-05"/>
+		<cosponsor id="400661" joined="2008-03-14"/>
+		<cosponsor id="400253" joined="2007-04-17"/>
+		<cosponsor id="400061" joined="2007-05-01"/>
+		<cosponsor id="400059" joined="2007-04-19"/>
+		<cosponsor id="400041" joined="2007-04-17"/>
+		<cosponsor id="400133" joined="2007-04-17"/>
+		<cosponsor id="400420" joined="2007-05-15"/>
+		<cosponsor id="400620" joined="2007-03-23"/>
+		<cosponsor id="400031" joined="2007-04-26"/>
+		<cosponsor id="412229" joined="2008-04-08"/>
+		<cosponsor id="400280" joined="2007-09-27"/>
+		<cosponsor id="400199" joined="2007-05-07"/>
+		<cosponsor id="400337" joined="2007-05-07"/>
+		<cosponsor id="400414" joined="2007-04-19"/>
+		<cosponsor id="400364" joined="2007-04-23"/>
+		<cosponsor id="400289" joined="2007-03-27"/>
+		<cosponsor id="400413" joined="2007-03-21"/>
+		<cosponsor id="400381" joined="2007-04-26"/>
+		<cosponsor id="400616" joined="2007-04-17"/>
+		<cosponsor id="400228" joined="2007-06-22"/>
+		<cosponsor id="400210" joined="2007-05-09"/>
+		<cosponsor id="400155" joined="2007-05-15"/>
+		<cosponsor id="400263" joined="2007-05-24"/>
+		<cosponsor id="400618" joined="2008-04-10"/>
+		<cosponsor id="400407" joined="2007-05-24"/>
+		<cosponsor id="400376" joined="2007-05-17"/>
+		<cosponsor id="400657" joined="2007-05-07"/>
+		<cosponsor id="400162" joined="2007-03-23"/>
+		<cosponsor id="412221" joined="2007-05-07"/>
+		<cosponsor id="400089" joined="2008-04-02"/>
+		<cosponsor id="400336" joined="2007-03-23"/>
+		<cosponsor id="400183" joined="2007-07-11"/>
+		<cosponsor id="400102" joined="2007-03-27"/>
+		<cosponsor id="400660" joined="2007-05-24"/>
+		<cosponsor id="400282" joined="2007-07-11"/>
+		<cosponsor id="400137" joined="2007-03-27"/>
+		<cosponsor id="412224" joined="2007-06-05"/>
+		<cosponsor id="400419" joined="2007-05-24"/>
+		<cosponsor id="412234" joined="2007-06-13"/>
+		<cosponsor id="400302" joined="2007-04-23"/>
+		<cosponsor id="400380" joined="2007-04-17"/>
+		<cosponsor id="400122" joined="2007-03-21"/>
+		<cosponsor id="400403" joined="2007-04-26"/>
+		<cosponsor id="400113" joined="2007-04-23"/>
+		<cosponsor id="400635" joined="2007-04-19"/>
+		<cosponsor id="400333" joined="2007-04-26"/>
+		<cosponsor id="400295" joined="2007-04-17"/>
+		<cosponsor id="400271" joined="2007-07-11"/>
+		<cosponsor id="400096" joined="2007-04-23"/>
+		<cosponsor id="400430" joined="2007-03-27"/>
+		<cosponsor id="400129" joined="2007-03-23"/>
+		<cosponsor id="400441" joined="2007-05-24"/>
+		<cosponsor id="400633" joined="2007-05-17"/>
+		<cosponsor id="400095" joined="2007-04-26"/>
+		<cosponsor id="400647" joined="2007-08-03"/>
+		<cosponsor id="400297" joined="2007-03-29"/>
+		<cosponsor id="400443" joined="2007-05-07"/>
+		<cosponsor id="412215" joined="2007-03-21"/>
+		<cosponsor id="400344" joined="2007-05-07"/>
+		<cosponsor id="400198" joined="2007-05-17"/>
+		<cosponsor id="400268" joined="2007-04-17"/>
+		<cosponsor id="400063" joined="2007-03-21"/>
+		<cosponsor id="400379" joined="2007-05-01"/>
+		<cosponsor id="412192" joined="2007-05-15"/>
+		<cosponsor id="400165" joined="2007-05-07"/>
+		<cosponsor id="400196" joined="2007-05-07"/>
+		<cosponsor id="412210" joined="2007-05-24"/>
+		<cosponsor id="412217" joined="2007-06-13"/>
+		<cosponsor id="400176" joined="2007-05-09"/>
+		<cosponsor id="400124" joined="2007-05-15"/>
+		<cosponsor id="400260" joined="2007-03-23"/>
+		<cosponsor id="400229" joined="2007-05-24"/>
+		<cosponsor id="400040" joined="2007-06-13"/>
+		<cosponsor id="412231" joined="2007-06-22"/>
+		<cosponsor id="400274" joined="2007-04-17"/>
+		<cosponsor id="400662" joined="2007-12-18"/>
+		<cosponsor id="412189" joined="2007-03-29"/>
+		<cosponsor id="400254" joined="2007-05-09"/>
+		<cosponsor id="400409" joined="2007-05-07"/>
+		<cosponsor id="400264" joined="2007-05-09"/>
+		<cosponsor id="400370" joined="2007-03-21"/>
+		<cosponsor id="400101" joined="2007-05-07"/>
+		<cosponsor id="400029" joined="2007-05-07"/>
+		<cosponsor id="400652" joined="2008-04-22"/>
+		<cosponsor id="400384" joined="2007-04-23"/>
+		<cosponsor id="412250" joined="2007-05-17"/>
+		<cosponsor id="400184" joined="2007-12-12"/>
+		<cosponsor id="400285" joined="2007-05-09"/>
+		<cosponsor id="400152" joined="2007-04-26"/>
+		<cosponsor id="400412" joined="2007-05-07"/>
+		<cosponsor id="400355" joined="2007-03-21"/>
+		<cosponsor id="412208" joined="2007-06-22"/>
+		<cosponsor id="400262" joined="2007-04-17"/>
+		<cosponsor id="400373" joined="2007-05-07"/>
+		<cosponsor id="400130" joined="2007-07-11"/>
+		<cosponsor id="400249" joined="2007-05-24"/>
+		<cosponsor id="400437" joined="2007-05-09"/>
+		<cosponsor id="400030" joined="2007-06-13"/>
+		<cosponsor id="400312" joined="2007-05-09"/>
+		<cosponsor id="400658" joined="2007-04-26"/>
+		<cosponsor id="400359" joined="2007-05-24"/>
+		<cosponsor id="412188" joined="2007-06-05"/>
+		<cosponsor id="400007" joined="2007-04-23"/>
+		<cosponsor id="400231" joined="2007-04-26"/>
+		<cosponsor id="400402" joined="2008-01-23"/>
+		<cosponsor id="400642" joined="2007-06-22"/>
+		<cosponsor id="400663" joined="2007-11-13"/>
+		<cosponsor id="400339" joined="2007-05-07"/>
+		<cosponsor id="400387" joined="2007-04-17"/>
+		<cosponsor id="400640" joined="2008-05-21"/>
+		<cosponsor id="400006" joined="2007-05-09"/>
+		<cosponsor id="400068" joined="2007-05-07"/>
+		<cosponsor id="400331" joined="2007-05-07"/>
+		<cosponsor id="412258" joined="2008-05-01"/>
+		<cosponsor id="400386" joined="2007-05-15"/>
+		<cosponsor id="400147" joined="2007-06-28"/>
+		<cosponsor id="400082" joined="2007-05-07"/>
+		<cosponsor id="400347" joined="2007-05-15"/>
+		<cosponsor id="400230" joined="2007-04-17"/>
+		<cosponsor id="400416" joined="2007-05-01"/>
+		<cosponsor id="412227" joined="2007-12-19"/>
+		<cosponsor id="400121" joined="2007-05-15"/>
+		<cosponsor id="412187" joined="2007-04-23"/>
+		<cosponsor id="412223" joined="2007-04-19"/>
+		<cosponsor id="400432" joined="2007-04-23"/>
+		<cosponsor id="412209" joined="2007-05-15"/>
+		<cosponsor id="412235" joined="2007-03-27"/>
+		<cosponsor id="400335" joined="2007-05-01"/>
+		<cosponsor id="400051" joined="2008-04-02"/>
+		<cosponsor id="412193" joined="2007-05-24"/>
+		<cosponsor id="412205" joined="2008-03-05"/>
+		<cosponsor id="412199" joined="2007-04-17"/>
+		<cosponsor id="400001" joined="2007-04-17"/>
+		<cosponsor id="412211" joined="2007-06-05"/>
+		<cosponsor id="400270" joined="2007-05-07"/>
+		<cosponsor id="400259" joined="2007-04-17"/>
+		<cosponsor id="400166" joined="2007-06-13"/>
+		<cosponsor id="400436" joined="2007-04-19"/>
+		<cosponsor id="400346" joined="2007-08-03"/>
+		<cosponsor id="400237" joined="2007-06-28"/>
+		<cosponsor id="400140" joined="2007-05-17"/>
+		<cosponsor id="400070" joined="2007-05-24"/>
+		<cosponsor id="400655" joined="2007-05-15"/>
+		<cosponsor id="400013" joined="2007-04-19"/>
+		<cosponsor id="400340" joined="2007-06-05"/>
+		<cosponsor id="412240" joined="2007-03-29"/>
+		<cosponsor id="412222" joined="2007-05-15"/>
+		<cosponsor id="412204" joined="2007-05-09"/>
+		<cosponsor id="400400" joined="2007-03-21"/>
+		<cosponsor id="400426" joined="2007-06-05"/>
+		<cosponsor id="400653" joined="2007-05-07"/>
+		<cosponsor id="400195" joined="2007-05-24"/>
+		<cosponsor id="400251" joined="2007-03-21"/>
+		<cosponsor id="400178" joined="2007-04-17"/>
+		<cosponsor id="400378" joined="2007-06-05"/>
+		<cosponsor id="400404" joined="2007-05-01"/>
+		<cosponsor id="400350" joined="2007-05-07"/>
+		<cosponsor id="400111" joined="2007-05-07"/>
+		<cosponsor id="400360" joined="2007-04-17"/>
+		<cosponsor id="400234" joined="2007-04-19"/>
+		<cosponsor id="400366" joined="2007-05-24"/>
+		<cosponsor id="400255" joined="2007-04-17"/>
+		<cosponsor id="400645" joined="2007-05-01"/>
+		<cosponsor id="400021" joined="2007-06-05"/>
+		<cosponsor id="412239" joined="2007-05-07"/>
+		<cosponsor id="400153" joined="2007-04-17"/>
+		<cosponsor id="400338" joined="2007-06-05"/>
+		<cosponsor id="400269" joined="2007-05-24"/>
+		<cosponsor id="400120" joined="2007-04-17"/>
+		<cosponsor id="400074" joined="2007-04-17"/>
+		<cosponsor id="412201" joined="2008-04-16"/>
+		<cosponsor id="400118" joined="2007-05-07"/>
+		<cosponsor id="400628" joined="2007-04-19"/>
+		<cosponsor id="412200" joined="2007-03-23"/>
+		<cosponsor id="400328" joined="2007-06-05"/>
+		<cosponsor id="400081" joined="2007-03-29"/>
+		<cosponsor id="400232" joined="2007-04-17"/>
+		<cosponsor id="400207" joined="2007-09-10"/>
+		<cosponsor id="400247" joined="2007-07-17"/>
+		<cosponsor id="400266" joined="2007-04-26"/>
+		<cosponsor id="400125" joined="2007-05-07"/>
+		<cosponsor id="400319" joined="2007-03-06"/>
+		<cosponsor id="400421" joined="2007-05-09"/>
+		<cosponsor id="400193" joined="2007-04-19"/>
+		<cosponsor id="400244" joined="2007-05-07"/>
+		<cosponsor id="412236" joined="2007-03-29"/>
+		<cosponsor id="412186" joined="2007-04-17"/>
+		<cosponsor id="400093" joined="2007-05-01"/>
+		<cosponsor id="400440" joined="2007-07-17"/>
+		<cosponsor id="400326" joined="2007-03-23"/>
+		<cosponsor id="400371" joined="2007-05-15"/>
+		<cosponsor id="412212" joined="2007-04-17"/>
+		<cosponsor id="400201" joined="2008-05-06"/>
+		<cosponsor id="400318" joined="2007-09-27"/>
+		<cosponsor id="400043" joined="2007-05-24"/>
+		<cosponsor id="400109" joined="2007-04-26"/>
+		<cosponsor id="400391" joined="2007-05-07"/>
+		<cosponsor id="400119" joined="2007-04-17"/>
+		<cosponsor id="400641" joined="2007-03-21"/>
+		<cosponsor id="400139" joined="2008-04-08"/>
+		<cosponsor id="400047" joined="2007-05-24"/>
+		<cosponsor id="400032" joined="2007-06-05"/>
+		<cosponsor id="412220" joined="2007-05-15"/>
+		<cosponsor id="400283" joined="2007-05-24"/>
+		<cosponsor id="400204" joined="2007-04-19"/>
+		<cosponsor id="400097" joined="2007-05-07"/>
+		<cosponsor id="400310" joined="2007-05-24"/>
+		<cosponsor id="400286" joined="2007-12-04"/>
+		<cosponsor id="400090" joined="2007-06-28"/>
+		<cosponsor id="400033" joined="2007-04-26"/>
+		<cosponsor id="400042" joined="2007-04-19"/>
+		<cosponsor id="400431" joined="2007-04-26"/>
+		<cosponsor id="400240" joined="2007-06-28"/>
+		<cosponsor id="400046" joined="2007-05-07"/>
+		<cosponsor id="400438" joined="2007-05-07"/>
+		<cosponsor id="412219" joined="2007-05-24"/>
+		<cosponsor id="400150" joined="2007-05-17"/>
+		<cosponsor id="400215" joined="2007-03-23"/>
+		<cosponsor id="400636" joined="2007-04-26"/>
+		<cosponsor id="400654" joined="2007-05-07"/>
+		<cosponsor id="400363" joined="2007-06-28"/>
+		<cosponsor id="400025" joined="2007-03-21"/>
+		<cosponsor id="400301" joined="2007-03-29"/>
+		<cosponsor id="400345" joined="2007-04-23"/>
+		<cosponsor id="400088" joined="2007-05-07"/>
+		<cosponsor id="400163" joined="2007-05-07"/>
+		<cosponsor id="400114" joined="2007-05-01"/>
+		<cosponsor id="400062" joined="2007-03-21"/>
+		<cosponsor id="412194" joined="2007-05-01"/>
+		<cosponsor id="400011" joined="2007-04-23"/>
+		<cosponsor id="400425" joined="2007-03-27"/>
+		<cosponsor id="400233" joined="2007-05-09"/>
+		<cosponsor id="400321" joined="2007-04-26"/>
+		<cosponsor id="400157" joined="2007-04-19"/>
+		<cosponsor id="400341" joined="2007-05-24"/>
+		<cosponsor id="400179" joined="2007-04-17"/>
+		<cosponsor id="400100" joined="2008-04-29"/>
+		<cosponsor id="400435" joined="2007-06-05"/>
+		<cosponsor id="400639" joined="2007-03-21"/>
+		<cosponsor id="400190" joined="2008-05-08"/>
+		<cosponsor id="400434" joined="2007-05-24"/>
+		<cosponsor id="400309" joined="2007-05-24"/>
+		<cosponsor id="400252" joined="2007-05-09"/>
+		<cosponsor id="400186" joined="2007-05-24"/>
+		<cosponsor id="400278" joined="2007-05-01"/>
+		<cosponsor id="400429" joined="2007-05-24"/>
+		<cosponsor id="400656" joined="2007-05-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1173157200" datetime="2007-03-06"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1173243600" datetime="2007-03-07"><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1196744400" datetime="2007-12-04"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1208923200" datetime="2008-04-23"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1208923200" datetime="2008-04-23"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1210132800" datetime="2008-05-07"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1210132800" datetime="2008-05-07" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1212584400" datetime="2008-06-04T10:00:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-680.</text></action>
+		<calendar number="425" date="1212584460" datetime="2008-06-04T10:01:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 425.</text></calendar>
+		<action date="1212589860" datetime="2008-06-04T11:31:00-04:00"><text>Mr. Green, Gene moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1212589920" datetime="2008-06-04T11:32:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4891-4896"/></action>
+		<action date="1212589920" datetime="2008-06-04T11:32:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1343.</text></action>
+		<action date="1212591420" datetime="2008-06-04T11:57:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1212607440" datetime="2008-06-04T16:24:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4935-4936"/></action>
+		<vote date="1212608100" how="roll" roll="372" datetime="2008-06-04T16:35:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 24 (Roll no. 372).</text><reference label="text" ref="CR H4891-4893"/></vote>
+		<action date="1212608100" datetime="2008-06-04T16:35:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1212638400" datetime="2008-06-05"><text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+		<action date="1222228800" datetime="2008-09-24"><text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text></action>
+		<action date="1222228800" datetime="2008-09-24"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S9372-9373"/></action>
+		<vote date="1222228800" how="by Unanimous Consent" datetime="2008-09-24" where="s" type="vote2" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action date="1222372980" datetime="2008-09-25T17:03:00-04:00"><text>Mr. Pallone moved that the House suspend the rules and agree to the Senate amendment.</text><reference label="consideration" ref="CR H9923-9926"/></action>
+		<action date="1222372980" datetime="2008-09-25T17:03:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1343.</text></action>
+		<action date="1222373700" datetime="2008-09-25T17:15:00-04:00"><text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.</text><reference label="text as House agreed to Senate amendment" ref="CR H9923-9924"/></action>
+		<topresident date="1222315200" datetime="2008-09-25" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1222747200" datetime="2008-09-30" ><text>Presented to President.</text></topresident>
+		<signed date="1223438400" datetime="2008-10-08" ><text>Signed by President.</text></signed>
+		<enacted number="110-355" date="1223438400" datetime="2008-10-08" type="public" ><text>Became Public Law No: 110-355.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/8/2008--Public Law. (This measure has not been amended since it was passed by the Senate on September 24, 2008. The summary of that version is repeated here.) Health Care Safety Net Act of 2008 - (Sec. 2) Amends the Public Health Service Act to reauthorize appropriations for FY2008-FY2012 for health centers to meet the health care needs of medically underserved populations. Requires the Comptroller General to study the economic costs and benefits of school-based health centers and their impact on the health of students, including an analysis of: (1) the impact that federal funding could have on the operation of such centers; (2) any cost savings to other federal programs derived from providing health services in such centers; and (3) the impact of such centers in rural or underserved areas.<br/>Requires the Secretary of Health and Human Services, acting through the Administrator of the Health Resources and Services Administration (HRSA), to submit a report to the relevant congressional committees that describes efforts to expand and accelerate quality improvement activities in community health centers.<br/>Requires the Administrator to establish a mechanism for the dissemination of initiatives, best practices, and other information that may assist health care quality improvement efforts in community health centers. Directs the Comptroller General to study: (1) integrated health system models for the delivery of health care services to medically underserved and uninsured populations; and (2) the implications of extending Federal Tort Claims Act coverage to health care professionals who volunteer to furnish care to patients of health centers. Authorizes the Secretary to recognize the unique needs of high poverty areas in making grants for projects to plan and develop health centers to serve medically underserved populations. (Sec. 3) Reauthorizes appropriations for FY2008-FY2012 for: (1) the National Health Service Corps program; and (2) the National Health Service Corps Scholarship Program and National Health Service Corps Loan Repayment Program.<br/>Repeals provisions requiring each center or clinic designated as having a health manpower shortage to demonstrate every six years that it meets the applicable requirements of the definition of a health professional shortage area. Revises requirements for assigning members of the Corps to a health professional shortage area to require that the Secretary determine that an entity demonstrates willingness to support or facilitate mentorship, professional development, and training opportunities for Corps members. Requires the Secretary to assist Corps members in establishing and maintaining professional relationships and developmental opportunities. Includes the District of Columbia and U.S. territories as eligible jurisdictions under a grant program for states to provide educational loan repayment to health professionals in exchange for the provision of primary health services in health professional shortage areas. Reauthorizes appropriations for FY2009-FY2012 for such grants. (Sec. 4) Reauthorizes appropriations for FY2008-FY2012 for grants for expanded delivery of health care services in rural areas, for the planning and implementation of integrated health care networks in rural areas, and for the planning and implementation of small health care provider quality improvement activities. (Sec. 5) Reauthorizes appropriations for grants to help states develop and implement innovative programs to address the dental workforce needs of designated dental health professional shortage areas. (Sec. 6) Requires the Secretary, acting through the Administrator, to: (1) provide guidance and technical assistance to health centers, state and local health departments, and emergency managers to integrate health centers into state and local emergency response plans and to better meet the primary care needs of populations served by health centers during public health emergencies; and (2) encourage employees at health centers to participate in emergency medical response programs. (Sec. 7) Amends title XVIII (Medicare) of the Social Security Act to revise the definition of &quot;rural health clinics&quot; to extend from three years to four years the time frame for making certain designations related to a shortage of health services in an area.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,65 @@
+<bill session="111" type="h" number="758" updated="2009-03-07T11:17:04-05:00">
+	<status><introduced date="1233118800" datetime="2009-01-28"/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="short" as="introduced">Pediatric Research Consortia Establishment Act</title>
+		<title type="official" as="introduced">To amend title IV of the Public Health Service Act to provide for the establishment of pediatric research consortia.</title>
+	</titles>
+	<sponsor id="400101"/>
+	<cosponsors>
+		<cosponsor id="400352" joined="2009-02-04"/>
+		<cosponsor id="400222" joined="2009-01-28"/>
+		<cosponsor id="400034" joined="2009-02-12"/>
+		<cosponsor id="412229" joined="2009-03-04"/>
+		<cosponsor id="400219" joined="2009-01-28"/>
+		<cosponsor id="400199" joined="2009-02-04"/>
+		<cosponsor id="400121" joined="2009-01-28"/>
+		<cosponsor id="412313" joined="2009-02-04"/>
+		<cosponsor id="400160" joined="2009-01-28"/>
+		<cosponsor id="400166" joined="2009-03-04"/>
+		<cosponsor id="400162" joined="2009-01-28"/>
+		<cosponsor id="412274" joined="2009-02-04"/>
+		<cosponsor id="412232" joined="2009-02-04"/>
+		<cosponsor id="400360" joined="2009-01-28"/>
+		<cosponsor id="400211" joined="2009-03-05"/>
+		<cosponsor id="400638" joined="2009-02-04"/>
+		<cosponsor id="412010" joined="2009-01-28"/>
+		<cosponsor id="400647" joined="2009-02-04"/>
+		<cosponsor id="412285" joined="2009-03-04"/>
+		<cosponsor id="400198" joined="2009-01-28"/>
+		<cosponsor id="400063" joined="2009-01-28"/>
+		<cosponsor id="400415" joined="2009-02-04"/>
+		<cosponsor id="412266" joined="2009-03-04"/>
+		<cosponsor id="400184" joined="2009-03-04"/>
+		<cosponsor id="400285" joined="2009-02-04"/>
+		<cosponsor id="400062" joined="2009-01-28"/>
+		<cosponsor id="400341" joined="2009-02-04"/>
+		<cosponsor id="400235" joined="2009-03-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="353" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Child health"/>
+		<term name="Health facilities and institutions"/>
+		<term name="Health information and medical records"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Medical research"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Research administration and funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/2009--Introduced.<br/>Pediatric Research Consortia Establishment Act - Amends the Public Health Service Act to require the Director of the National Institutes of Health (NIH), acting through the Director of the National Institute of Child Health and Human Development, to award grants, contracts, or cooperative agreements for planning, establishing, and providing basic operating support for up to 20 national pediatric research consortia. Requires each such consortium to: (1) supplement, but not replace, the establishment of a comprehensive pediatric research portfolio; (2) conduct basic, clinical, behavioral, social, and translational research; and (3) conduct training and demonstration of advanced diagnostic and treatment methods relating to pediatrics.<br/>Requires the Director of NIH to provide for the coordination of information and ensure regular communication between consortia.<br/>
+	</summary>
+</bill>

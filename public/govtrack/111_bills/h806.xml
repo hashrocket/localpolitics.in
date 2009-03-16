@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="806" updated="2009-03-07T11:22:33-05:00">
+	<status><introduced date="1233637200" datetime="2009-02-03"/></status>
+
+	<introduced date="1233637200" datetime="2009-02-03"/>
+	<titles>
+		<title type="short" as="introduced">TRICARE Mail-Order Pharmacy Pilot Program Act</title>
+		<title type="official" as="introduced">To establish a mail-order pharmacy pilot program for TRICARE beneficiaries.</title>
+	</titles>
+	<sponsor id="412250"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1235451600" datetime="2009-02-24"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Armed Services" subcommittee="Military Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/2009--Introduced.<br/>TRICARE Mail-Order Pharmacy Pilot Program Act - Directs the Secretary of Defense to conduct a two-year pilot program to: (1) educate beneficiaries about the mail-order pharmacy available under TRICARE (a Department of Defense [DOD] managed care program); and (2) motivate such beneficiaries to increase their mail-order pharmacy use. Requires the program to include at least 2,000 eligible beneficiaries in each TRICARE region, of whom at least 1,000 in each region shall be enrolled in Medicare Part B.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="111" type="s" number="242" updated="2009-03-07T14:02:06-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="short" as="introduced">Title I Education Funding Integrity Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Elementary and Secondary Education Act of 1965 to specify the purposes for which funds provided under part A of title I of that Act may be used.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300040" joined="2009-01-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Sponsor introductory remarks on measure. (CR S391-392)</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S392"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Academic performance and assessments"/>
+		<term name="Education of the disadvantaged"/>
+		<term name="Education programs funding"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Preschool education"/>
+		<term name="Teaching, teachers, curricula"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/14/2009--Introduced.<br/>Title I Education Funding Integrity Act of 2009 - Amends the Elementary and Secondary Education Act of 1965 to require local educational agencies (LEAs) to use only for direct or indirect instructional services any funds received under the program established to ensure that students make adequate yearly progress (AYP) toward state academic performance standards. Limits to 10% the portion of such funds that LEAs may use for indirect instructional services. Sets forth the types of direct and indirect instructional services for which such funds may be used.<br/>
+	</summary>
+</bill>

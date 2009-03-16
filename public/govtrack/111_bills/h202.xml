@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="202" updated="2009-03-07T10:11:31-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Museum of Ideas Act of 2009</title>
+		<title type="official" as="introduced">To create a commission to develop a plan for establishing a Museum of Ideas.</title>
+	</titles>
+	<sponsor id="400388"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on Natural Resources, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Natural Resources</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House House Administration</text></action>
+		<action date="1233723600" datetime="2009-02-04"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Arts, culture, religion"/>
+		<term name="Advisory bodies"/>
+		<term name="Archaeology and anthropology"/>
+		<term name="Behavioral sciences"/>
+		<term name="District of Columbia"/>
+		<term name="Economic theory"/>
+		<term name="Historical and cultural resources"/>
+		<term name="Museums, exhibitions, cultural centers"/>
+		<term name="Policy sciences"/>
+		<term name="Research and development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Museum of Ideas Act of 2009 - Establishes the Museum of Ideas Commission to develop a plan for establishing in Washington, D.C., a museum that presents the history and evolution of human ideas. 
+	</summary>
+</bill>

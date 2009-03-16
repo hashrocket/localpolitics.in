@@ -1,0 +1,53 @@
+<bill session="110" type="s" number="1582" updated="2009-01-09T15:05:58-05:00">
+	<status><enacted date="1223611200" datetime="2008-10-10" /></status>
+
+	<introduced date="1181188800" datetime="2007-06-07"/>
+	<titles>
+		<title type="short" as="introduced">Hydrographic Services Improvement Act Amendments of 2007</title>
+		<title type="short" as="passed house">Hydrographic Services Improvement Act Amendments of 2008</title>
+		<title type="short" as="reported to senate">Hydrographic Services Improvement Act Amendments of 2007</title>
+		<title type="short" as="passed senate">Hydrographic Services Improvement Act Amendments of 2008</title>
+		<title type="short" as="enacted">Hydrographic Services Improvement Act Amendments of 2008</title>
+		<title type="official" as="introduced">A bill to reauthorize and amend the Hydrographic Services Improvement Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="300056"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="2007-06-07"/>
+		<cosponsor id="300018" joined="2007-06-07"/>
+		<cosponsor id="300091" joined="2007-06-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1181188800" datetime="2007-06-07"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text><reference label="text of measure as introduced" ref="CR S7378-7380"/></action>
+		<calendar date="1184817600" datetime="2007-07-19" ><text>Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.</text></calendar>
+		<action date="1193976000" datetime="2007-11-02"><text>Committee on Commerce, Science, and Transportation. Reported by Senator Inouye with amendments. With written report No. 110-218.</text></action>
+		<calendar under="General Orders" number="467" date="1193976000" datetime="2007-11-02" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 467.</text></calendar>
+		<action date="1222401600" datetime="2008-09-26"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S9862-9864"/><reference label="text of measure as reported in Senate" ref="CR S9862-9863"/></action>
+		<action date="1222401600" datetime="2008-09-26"><text>Committee amendments withdrawn by Unanimous Consent.</text></action>
+		<vote date="1222401600" how="by Unanimous Consent" datetime="2008-09-26" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action date="1222525260" datetime="2008-09-27T11:21:00-04:00"><text>Received in the House.</text></action>
+		<action date="1222488000" datetime="2008-09-27"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1222571040" datetime="2008-09-27T12:04:00-04:00"><text>Held at the desk.</text></action>
+		<action date="1222709880" datetime="2008-09-29T14:38:00-04:00"><text>Mr. Rahall asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action date="1222709880" datetime="2008-09-29T14:38:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10613-10615"/></action>
+		<vote date="1222709880" how="without objection" datetime="2008-09-29T14:38:00-04:00" where="h" type="vote2" result="pass" ><text>On passage Passed without objection.</text><reference label="text as passed House" ref="CR H10613-10615"/></vote>
+		<topresident date="1222660800" datetime="2008-09-29" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1222920000" datetime="2008-10-02" ><text>Presented to President.</text></topresident>
+		<signed date="1223611200" datetime="2008-10-10" ><text>Signed by President.</text></signed>
+		<enacted number="110-386" date="1223611200" datetime="2008-10-10" type="public" ><text>Became Public Law No: 110-386.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/10/2008--Public Law. Hydrographic Services Improvement Act Amendments of 2008 - (Sec. 2) Amends the Hydrographic Services Improvement Act of 1998 to revise the definitions of: (1) &quot;hydrographic data&quot; to include lidar, radar, remote sensing, shoreline and other ocean- and coastal-related surveying, and water level observations; and (2) &quot;hydrographic services&quot; to include references to shoreline and water level information. (Sec. 3) Requires the Administrator of the National Oceanic and Atmospheric Administration (NOAA) to promote safe, efficient, and environmentally sound marine transportation and to acquire and disseminate hydrographic data and provide hydrographic services. Revises the Administrator's authorities concerning the acquisition of hydrographic data and provision of hydrographic servicesincluding to permit: (1) support for the conservation and management of coastal and ocean resources; (2) saving and protecting life and property and supporting the resumption of commerce in response to emergencies, natural and man-made disasters, and homeland security and maritime domain awareness needs; and (3) the creation and maintenance of joint centers with other federal agencies. (Sec. 4) Modifies membership provisions regarding the Hydrographic Services Review Panel. (Sec. 5) Authorizations appropriations: (1) through FY2012 for specified hydrographic services; and (2) to acquire a replacement hydrographic survey vessel capable of staying at sea continuously for at least 30 days. (Sec. 6) Amends the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 to increase by 58 the number authorized commissioned officers on the NOAA lineal list if: (1) the Secretary of Commerce has submitted to Congress plans for ship recapitalization, aircraft remodernization, and supporting workforce management plans; (2) appropriated funding is available; and (3) the Secretary has justified organizational needs.<br/>
+	</summary>
+</bill>

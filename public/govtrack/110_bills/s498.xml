@@ -1,0 +1,33 @@
+<bill session="110" type="s" number="498" updated="2009-01-09T12:13:15-05:00">
+	<status><introduced date="1170738000" datetime="2007-02-06"/></status>
+
+	<introduced date="1170738000" datetime="2007-02-06"/>
+	<titles>
+		<title type="short" as="introduced">Rural Medicare Equity Act of 2007</title>
+		<title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to improve the Medicare program for beneficiaries residing in rural areas.</title>
+	</titles>
+	<sponsor id="300042"/>
+	<cosponsors>
+		<cosponsor id="300025" joined="2007-02-06"/>
+		<cosponsor id="300088" joined="2007-04-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1170738000" datetime="2007-02-06"><text>Sponsor introductory remarks on measure. (CR S1638-1639)</text></action>
+		<action date="1170738000" datetime="2007-02-06"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S1639-1640"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/6/2007--Introduced.<br/>Rural Medicare Equity Act of 2007 - Amends title XVIII (Medicare) of the Social Security Act (SSA) to eliminate the geographic physician work adjustment factor from the geographic indices used to adjust payments under the physician fee schedule. Directs the Secretary of Health and Human Services to establish a demonstration grants project designed to provide financial or other incentives to hospitals to attract educators and clinical practitioners so that hospitals that serve Medicare beneficiaries residing in underserved areas may host clinical rotations. Directs the Secretary to establish up to 10 demonstration projects to provide for improvements, as recommended by the Institute of Medicine, in the quality of health care provided to individuals residing in rural areas. Amends SSA title XVIII to require proportional representation of rural area interests on the Medicare Payment Advisory Commission (MEDPAC). Directs the Secretary to implement the recommendations contained in the March 2005 GAO report 05-119 entitled &quot;Medicare Physician Fees: Geographic Adjustment Indices are Valid in Design, but Data and Methods Need Refinement.&quot;<br/>
+	</summary>
+</bill>

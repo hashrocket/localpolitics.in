@@ -1,0 +1,58 @@
+<bill session="111" type="hr" number="56" updated="2009-03-07T13:12:30-05:00">
+	<status><vote date="1232645400" datetime="2009-01-22T13:30:00-05:00" where="h" result="pass" how="roll" roll="28"/></status>
+
+	<introduced date="1231822800" datetime="2009-01-13"/>
+	<titles>
+		<title type="official" as="introduced">Expressing support for designation of the week of February 2 through February 6, 2009, as &quot;National School Counseling Week&quot;.</title>
+	</titles>
+	<sponsor id="400355"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2009-01-13"/>
+		<cosponsor id="400230" joined="2009-01-21"/>
+		<cosponsor id="400280" joined="2009-01-21"/>
+		<cosponsor id="400356" joined="2009-01-14"/>
+		<cosponsor id="412209" joined="2009-01-13"/>
+		<cosponsor id="400263" joined="2009-01-13"/>
+		<cosponsor id="400259" joined="2009-01-13"/>
+		<cosponsor id="400080" joined="2009-01-21"/>
+		<cosponsor id="400070" joined="2009-01-13"/>
+		<cosponsor id="400282" joined="2009-01-13"/>
+		<cosponsor id="412228" joined="2009-01-13"/>
+		<cosponsor id="400119" joined="2009-01-13"/>
+		<cosponsor id="400409" joined="2009-01-13"/>
+		<cosponsor id="400215" joined="2009-01-21"/>
+		<cosponsor id="400184" joined="2009-01-21"/>
+		<cosponsor id="400377" joined="2009-01-14"/>
+		<cosponsor id="400262" joined="2009-01-21"/>
+		<cosponsor id="400437" joined="2009-01-13"/>
+		<cosponsor id="400179" joined="2009-01-21"/>
+		<cosponsor id="400402" joined="2009-01-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1231822800" datetime="2009-01-13"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1232558820" datetime="2009-01-21T13:27:00-05:00"><text>Mr. Loebsack moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1232558820" datetime="2009-01-21T13:27:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H402-405"/></action>
+		<action date="1232558820" datetime="2009-01-21T13:27:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 56.</text></action>
+		<action date="1232559720" datetime="2009-01-21T13:42:00-05:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Loebsack objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1232644980" datetime="2009-01-22T13:23:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H468-469"/></action>
+		<vote date="1232645400" how="roll" roll="28" datetime="2009-01-22T13:30:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 28). (text: CR 1/21/2009 H402-403)</text></vote>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Congressional tributes"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Teaching, teachers, curricula"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Honors the contributions of school counselors to the success of students in our elementary and secondary schools. Encourages the observation of National School Counseling Week (February 2-6, 2009) with ceremonies and activities that promote awareness of the crucial role school counselors play in preparing students for fulfilling lives as contributing members of society.<br/>
+	</summary>
+</bill>

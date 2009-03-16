@@ -1,0 +1,39 @@
+<bill session="110" type="h" number="7159" updated="2009-01-09T07:33:18-05:00">
+	<status><introduced date="1222401600" datetime="2008-09-26"/></status>
+
+	<introduced date="1222401600" datetime="2008-09-26"/>
+	<titles>
+		<title type="short" as="introduced">National Windstorm Impact Reduction Reauthorization Act of 2008</title>
+		<title type="official" as="introduced">To reauthorize the National Windstorm Impact Reduction Program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400282"/>
+	<cosponsors>
+		<cosponsor id="400170" joined="2008-09-26"/>
+		<cosponsor id="400344" joined="2008-09-26"/>
+		<cosponsor id="400108" joined="2008-09-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1222401600" datetime="2008-09-26"><text>Referred to the Committee on Science and Technology, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1222401600" datetime="2008-09-26"><text>Referred to House Science and Technology</text></action>
+		<action date="1222401600" datetime="2008-09-26"><committee name="House Science and Technology"/><text>Referred to the Subcommittee on Technology and Innovation.</text></action>
+		<action date="1222401600" datetime="2008-09-26"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1222488000" datetime="2008-09-27"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1222488000" datetime="2008-09-27"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Highways and Transit.</text></action>
+		<action date="1222488000" datetime="2008-09-27"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

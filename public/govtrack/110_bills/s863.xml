@@ -1,0 +1,55 @@
+<bill session="110" type="s" number="863" updated="2009-01-09T13:32:28-05:00">
+	<status><enacted date="1199682000" datetime="2008-01-07" /></status>
+
+	<introduced date="1173758400" datetime="2007-03-13"/>
+	<titles>
+		<title type="short" as="introduced">Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007</title>
+		<title type="short" as="passed house">Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007</title>
+		<title type="short" as="reported to senate">Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007</title>
+		<title type="short" as="passed senate">Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007</title>
+		<title type="short" as="enacted">Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007</title>
+		<title type="official" as="introduced">A bill to amend title 18, United States Code, with respect to fraud in connection with major disaster or emergency funds.</title>
+	</titles>
+	<sponsor id="300088"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="2007-03-27"/>
+		<cosponsor id="400418" joined="2007-03-13"/>
+		<cosponsor id="300048" joined="2007-03-13"/>
+		<cosponsor id="300027" joined="2007-03-13"/>
+		<cosponsor id="300063" joined="2007-03-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1173758400" datetime="2007-03-13"><text>Sponsor introductory remarks on measure. (CR S3072-3073)</text></action>
+		<action date="1173758400" datetime="2007-03-13"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+		<calendar date="1173931200" datetime="2007-03-15" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1179806400" datetime="2007-05-22"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment. With written report No. 110-69. Additional views filed.</text></action>
+		<calendar under="General Orders" number="167" date="1179806400" datetime="2007-05-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 167.</text></calendar>
+		<vote date="1196744400" how="by Unanimous Consent" datetime="2007-12-04" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S14747-14748"/><reference label="text" ref="CR S14747-14748"/></vote>
+		<action date="1196863680" datetime="2007-12-05T10:08:00-05:00"><text>Received in the House.</text></action>
+		<action date="1196830800" datetime="2007-12-05"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1196830800" datetime="2007-12-05"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1198126320" datetime="2007-12-19T12:52:00-05:00"><text>Mr. Conyers moved to suspend the rules and pass the bill.</text></action>
+		<action date="1198126380" datetime="2007-12-19T12:53:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H16864-16866"/></action>
+		<action date="1198126380" datetime="2007-12-19T12:53:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 863.</text></action>
+		<vote date="1198083960" how="by voice vote" datetime="2007-12-19T13:06:00-05:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR S16864-16865"/></vote>
+		<topresident date="1198040400" datetime="2007-12-19" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1198731600" datetime="2007-12-27" ><text>Presented to President.</text></topresident>
+		<signed date="1199682000" datetime="2008-01-07" ><text>Signed by President.</text></signed>
+		<enacted number="110-179" date="1199682000" datetime="2008-01-07" type="public" ><text>Became Public Law No: 110-179.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2008--Public Law. (This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.)<br/>Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007 - Amends the federal criminal code to impose a fine and/or prison term of up to 30 years for: (1) knowingly falsifying, concealing, or covering up by any trick, scheme, or device any material fact; or (2) making any materially false, fictitious, or fraudulent statement or representation, or making or using any false writing or document in any matter involving any benefit authorized, transported, transmitted, transferred, disbursed, or paid in connection with a major disaster or emergency declaration under the Robert T. Stafford Disaster Relief and Emergency Assistance Act, or in connection with the procurement of property or services by a contractor, subcontractor, or supplier during a major disaster or emergency declaration.<br/>Imposes a maximum fine of $1 million and/or prison term of 30 years for engaging in wire, radio, television, or mail fraud during a presidentially declared major disaster or emergency. Directs the U.S. Sentencing Commission to: (1) promulgate sentencing guidelines or amend existing guidelines to provide for increased penalties for persons convicted of fraud or theft offenses in connection with a major disaster or emergency declaration; and (2) submit to the House and Senate Judiciary Committees an explanation of its guidelines and additional recommendations for combating such fraud or theft offenses. 
+	</summary>
+</bill>

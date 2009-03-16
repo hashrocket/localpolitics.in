@@ -1,0 +1,43 @@
+<bill session="110" type="hr" number="1420" updated="2009-01-09T10:52:02-05:00">
+	<status><vote date="1221160080" datetime="2008-09-11T16:08:00-04:00" where="h" result="pass" how="roll" roll="586"/></status>
+
+	<introduced date="1220932800" datetime="2008-09-09"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives regarding the terrorist attacks launched against the United States on September 11, 2001.</title>
+	</titles>
+	<sponsor id="400189"/>
+	<cosponsors>
+		<cosponsor id="400036" joined="2008-09-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1220932800" datetime="2008-09-09"><text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Foreign Affairs, Armed Services, Transportation and Infrastructure, Homeland Security, the Judiciary, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1220932800" datetime="2008-09-09"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1220932800" datetime="2008-09-09"><text>Referred to House Foreign Affairs</text></action>
+		<action date="1220932800" datetime="2008-09-09"><text>Referred to House Armed Services</text></action>
+		<action date="1220932800" datetime="2008-09-09"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1220932800" datetime="2008-09-09"><text>Referred to House Homeland Security</text></action>
+		<action date="1220932800" datetime="2008-09-09"><text>Referred to House Judiciary</text></action>
+		<action date="1220932800" datetime="2008-09-09"><text>Referred to House Intelligence (Permanent Select)</text></action>
+		<action date="1221150960" datetime="2008-09-11T13:36:00-04:00"><text>Mr. Hoyer moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1221150960" datetime="2008-09-11T13:36:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8025-8038"/></action>
+		<action date="1221150960" datetime="2008-09-11T13:36:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1420.</text></action>
+		<action date="1221155460" datetime="2008-09-11T14:51:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1221159600" datetime="2008-09-11T16:00:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8044-8045"/></action>
+		<vote date="1221160080" how="roll" roll="586" datetime="2008-09-11T16:08:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 586).</text><reference label="text" ref="CR H8025-8026"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/11/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes September 11 as a day of solemn commemoration. Extends deepest condolences to friends, families, and loved ones of the innocent victims of the September 11, 2001, terrorist attacks. Honors the heroic service, actions, and sacrifices of first responders, law enforcement personnel, state and local officials, volunteers and others who aided the victims and, in doing so, risked and often sacrificed their own lives. Expresses gratitude to foreign leaders and citizens who have assisted and continue to assist the United States against terrorism. Asserts that the war on terrorism is not a war on any nation, people, or faith. Recognizes the heroic service, actions, and sacrifices of U.S. Armed Forces and civilian personnel in the defense against terrorists and their supporters. Vows to continue to identify, intercept, and defeat terrorists. Reaffirms that the American people will never forget the sacrifices made on and since September 11, 2001, and will defeat those who attacked the United States through our shared determination, spirit, and embrace of democratic values.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="655" updated="2009-03-07T11:04:39-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">Assessment Accuracy and Improvement Act</title>
+		<title type="official" as="introduced">To increase assessment accuracy to better measure student achievement and provide States with greater flexibility on assessment design.</title>
+	</titles>
+	<sponsor id="400318"/>
+	<cosponsors>
+		<cosponsor id="400311" joined="2009-01-22"/>
+		<cosponsor id="400070" joined="2009-01-22"/>
+		<cosponsor id="400185" joined="2009-01-22"/>
+		<cosponsor id="400119" joined="2009-01-22"/>
+		<cosponsor id="400033" joined="2009-02-12"/>
+		<cosponsor id="412315" joined="2009-02-12"/>
+		<cosponsor id="400184" joined="2009-01-26"/>
+		<cosponsor id="400437" joined="2009-01-22"/>
+		<cosponsor id="400011" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Sponsor introductory remarks on measure. (CR E125)</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to the House Committee on Education and Labor.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Academic performance and assessments"/>
+		<term name="Elementary and secondary education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2009--Introduced.<br/>Assessment Accuracy and Improvement Act - Amends the Elementary and Secondary Education Act of 1965 to allow states to require the use of adaptive assessments of student progress toward state academic performance standards that accurately assess student achievement above and below grade level while also measuring grade-level performance. Defines an &quot;adaptive assessment&quot; as one that changes in difficulty in accordance with a student's performance, but reports its outcome on a scale common to all students.<br/>
+	</summary>
+</bill>

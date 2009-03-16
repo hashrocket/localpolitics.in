@@ -1,0 +1,56 @@
+<bill session="110" type="h" number="2602" updated="2009-01-08T22:16:14-05:00">
+	<status><enacted date="1195189200" datetime="2007-11-16" /></status>
+
+	<introduced date="1181102400" datetime="2007-06-06"/>
+	<titles>
+		<title type="official" as="introduced">To name the Department of Veterans Affairs medical facility in Iron Mountain, Michigan, as the &quot;Oscar G. Johnson Department of Veterans Affairs Medical Facility&quot;.</title>
+	</titles>
+	<sponsor id="400391"/>
+	<cosponsors>
+		<cosponsor id="400414" joined="2007-06-19"/>
+		<cosponsor id="400080" joined="2007-06-19"/>
+		<cosponsor id="400342" joined="2007-06-19"/>
+		<cosponsor id="400058" joined="2007-06-19"/>
+		<cosponsor id="400276" joined="2007-06-06"/>
+		<cosponsor id="400260" joined="2007-06-19"/>
+		<cosponsor id="400216" joined="2007-06-19"/>
+		<cosponsor id="400225" joined="2007-06-06"/>
+		<cosponsor id="400110" joined="2007-06-06"/>
+		<cosponsor id="400217" joined="2007-06-06"/>
+		<cosponsor id="412213" joined="2007-06-06"/>
+		<cosponsor id="400119" joined="2007-06-06"/>
+		<cosponsor id="400182" joined="2007-06-06"/>
+		<cosponsor id="400238" joined="2007-06-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1181102400" datetime="2007-06-06"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1181880000" datetime="2007-06-15"><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1182800220" datetime="2007-06-25T16:37:00-04:00"><text>Mr. Hare moved to suspend the rules and pass the bill.</text></action>
+		<action date="1182800220" datetime="2007-06-25T16:37:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7039-7041"/></action>
+		<action date="1182800220" datetime="2007-06-25T16:37:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2602.</text></action>
+		<vote date="1182800880" how="by voice vote" datetime="2007-06-25T16:48:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H7039"/></vote>
+		<action date="1182830400" datetime="2007-06-26"><text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+		<action date="1194411600" datetime="2007-11-07"><text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S14095"/></action>
+		<vote date="1194411600" how="by Unanimous Consent" datetime="2007-11-07" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<action date="1194411600" datetime="2007-11-07"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1194411600" datetime="2007-11-07" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1194930000" datetime="2007-11-13" ><text>Presented to President.</text></topresident>
+		<signed date="1195189200" datetime="2007-11-16" ><text>Signed by President.</text></signed>
+		<enacted number="110-118" date="1195189200" datetime="2007-11-16" type="public" ><text>Became Public Law No: 110-118.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/16/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the Department of Veterans Affairs medical facility in Iron Mountain, Michigan, as the &quot;Oscar G. Johnson Department of Veterans Affairs Medical Facility.&quot;<br/>
+	</summary>
+</bill>

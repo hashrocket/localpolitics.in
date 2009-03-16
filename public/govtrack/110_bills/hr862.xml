@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="862" updated="2009-01-09T09:39:29-05:00">
+	<status><vote date="1197479400" datetime="2007-12-12T13:10:00-05:00" where="h" result="pass" how="roll" roll="1145"/></status>
+
+	<introduced date="1197349200" datetime="2007-12-11"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 4299) to extend the Terrorism Insurance Program of the Department of the Treasury, and for other purposes.</title>
+	</titles>
+	<sponsor id="412224"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1197419640" datetime="2007-12-11T20:34:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-490, by Mr. Arcuri.</text></action>
+		<calendar date="1197419640" datetime="2007-12-11T20:34:00-05:00" ><text>Placed on the House Calendar, Calendar No. 169.</text></calendar>
+		<action date="1197419640" datetime="2007-12-11T20:34:00-05:00"><text>Rule provides for consideration of H.R. 4299 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions.</text></action>
+		<action date="1197518760" datetime="2007-12-12T12:06:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H15334-15339"/></action>
+		<action date="1197518760" datetime="2007-12-12T12:06:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 862.</text></action>
+		<action date="1197521220" datetime="2007-12-12T12:47:00-05:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H15338"/></action>
+		<vote date="1197479400" how="roll" roll="1145" datetime="2007-12-12T13:10:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 189 (Roll no. 1145).</text><reference label="text" ref="CR H15334"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/12/2007--Passed House without amendment. Sets forth the rule for consideration of H.R. 4299 (Terrorism Risk Insurance Program Reauthorization Act of 2007).<br/>
+	</summary>
+</bill>

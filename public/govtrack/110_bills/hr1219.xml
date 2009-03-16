@@ -1,0 +1,99 @@
+<bill session="110" type="hr" number="1219" updated="2009-01-09T10:25:51-05:00">
+	<status><vote date="1213823940" datetime="2008-06-18T18:19:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1211342400" datetime="2008-05-21"/>
+	<titles>
+		<title type="official" as="introduced">Celebrating the symbol of the United States flag and supporting the goals and ideals of Flag Day.</title>
+	</titles>
+	<sponsor id="412256"/>
+	<cosponsors>
+		<cosponsor id="400627" joined="2008-06-05"/>
+		<cosponsor id="400041" joined="2008-06-05"/>
+		<cosponsor id="412218" joined="2008-06-05"/>
+		<cosponsor id="400199" joined="2008-06-04"/>
+		<cosponsor id="412252" joined="2008-06-05"/>
+		<cosponsor id="400099" joined="2008-06-05"/>
+		<cosponsor id="400376" joined="2008-06-05"/>
+		<cosponsor id="400626" joined="2008-06-05"/>
+		<cosponsor id="400209" joined="2008-06-09"/>
+		<cosponsor id="400089" joined="2008-06-05"/>
+		<cosponsor id="400242" joined="2008-06-04"/>
+		<cosponsor id="400419" joined="2008-06-05"/>
+		<cosponsor id="400113" joined="2008-06-05"/>
+		<cosponsor id="400385" joined="2008-06-05"/>
+		<cosponsor id="400342" joined="2008-06-05"/>
+		<cosponsor id="400441" joined="2008-06-05"/>
+		<cosponsor id="400154" joined="2008-06-05"/>
+		<cosponsor id="412230" joined="2008-06-05"/>
+		<cosponsor id="400344" joined="2008-06-05"/>
+		<cosponsor id="400077" joined="2008-06-05"/>
+		<cosponsor id="400116" joined="2008-06-05"/>
+		<cosponsor id="400260" joined="2008-06-05"/>
+		<cosponsor id="400406" joined="2008-06-05"/>
+		<cosponsor id="400241" joined="2008-06-05"/>
+		<cosponsor id="400052" joined="2008-06-05"/>
+		<cosponsor id="400365" joined="2008-06-04"/>
+		<cosponsor id="400652" joined="2008-06-05"/>
+		<cosponsor id="400288" joined="2008-06-04"/>
+		<cosponsor id="400055" joined="2008-06-09"/>
+		<cosponsor id="400377" joined="2008-06-09"/>
+		<cosponsor id="412261" joined="2008-06-05"/>
+		<cosponsor id="412226" joined="2008-06-04"/>
+		<cosponsor id="400030" joined="2008-06-04"/>
+		<cosponsor id="400235" joined="2008-06-05"/>
+		<cosponsor id="400224" joined="2008-06-05"/>
+		<cosponsor id="400640" joined="2008-06-05"/>
+		<cosponsor id="400206" joined="2008-06-05"/>
+		<cosponsor id="400006" joined="2008-06-05"/>
+		<cosponsor id="400068" joined="2008-06-05"/>
+		<cosponsor id="400017" joined="2008-06-05"/>
+		<cosponsor id="400038" joined="2008-06-05"/>
+		<cosponsor id="412235" joined="2008-06-05"/>
+		<cosponsor id="400335" joined="2008-06-05"/>
+		<cosponsor id="400287" joined="2008-06-05"/>
+		<cosponsor id="412216" joined="2008-06-05"/>
+		<cosponsor id="400340" joined="2008-06-05"/>
+		<cosponsor id="400175" joined="2008-06-04"/>
+		<cosponsor id="400404" joined="2008-06-05"/>
+		<cosponsor id="400411" joined="2008-06-05"/>
+		<cosponsor id="400234" joined="2008-06-05"/>
+		<cosponsor id="412201" joined="2008-06-05"/>
+		<cosponsor id="400644" joined="2008-06-05"/>
+		<cosponsor id="400421" joined="2008-06-05"/>
+		<cosponsor id="400005" joined="2008-06-05"/>
+		<cosponsor id="400047" joined="2008-06-17"/>
+		<cosponsor id="400032" joined="2008-06-05"/>
+		<cosponsor id="400636" joined="2008-06-05"/>
+		<cosponsor id="400108" joined="2008-06-05"/>
+		<cosponsor id="400157" joined="2008-06-05"/>
+		<cosponsor id="412191" joined="2008-06-05"/>
+		<cosponsor id="412202" joined="2008-06-05"/>
+		<cosponsor id="412255" joined="2008-06-05"/>
+		<cosponsor id="400252" joined="2008-06-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1211342400" datetime="2008-05-21"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<calendar date="1213243200" datetime="2008-06-12" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1213729440" datetime="2008-06-17T16:04:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1213729440" datetime="2008-06-17T16:04:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5432-5435"/></action>
+		<action date="1213729440" datetime="2008-06-17T16:04:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1219.</text></action>
+		<action date="1213730280" datetime="2008-06-17T16:18:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Issa objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1213823940" datetime="2008-06-18T18:19:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5550"/></action>
+		<vote date="1213823940" how="by voice vote" datetime="2008-06-18T18:19:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 6/17/2008 H5426)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/18/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Celebrates the U.S flag. Expresses support for the goals and ideals of Flag Day. 
+	</summary>
+</bill>

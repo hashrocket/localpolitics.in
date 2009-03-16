@@ -1,0 +1,32 @@
+<bill session="111" type="s" number="475" updated="2009-03-07T14:29:53-05:00">
+	<status><introduced date="1235538000" datetime="2009-02-25"/></status>
+
+	<introduced date="1235538000" datetime="2009-02-25"/>
+	<titles>
+		<title type="short" as="introduced">Military Spouses Residency Relief Act</title>
+		<title type="official" as="introduced">A bill to amend the Servicemembers Civil Relief Act to guarantee the equity of spouses of military personnel with regard to matters of residency, and for other purposes.</title>
+	</titles>
+	<sponsor id="400054"/>
+	<cosponsors>
+		<cosponsor id="412320" joined="2009-03-03"/>
+		<cosponsor id="300043" joined="2009-02-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1235538000" datetime="2009-02-25"><text>Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="1182" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

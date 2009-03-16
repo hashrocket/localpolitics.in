@@ -1,0 +1,44 @@
+<bill session="110" type="sr" number="69" updated="2009-01-09T20:07:06-05:00">
+	<status><vote date="1171688400" datetime="2007-02-17" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1170651600" datetime="2007-02-05"/>
+	<titles>
+		<title type="official" as="introduced">A resolution recognizing the African-American spiritual as a national treasure.</title>
+	</titles>
+	<sponsor id="400272"/>
+	<cosponsors>
+		<cosponsor id="300059" joined="2007-02-05"/>
+		<cosponsor id="300082" joined="2007-02-05"/>
+		<cosponsor id="300008" joined="2007-02-05"/>
+		<cosponsor id="300042" joined="2007-02-05"/>
+		<cosponsor id="300038" joined="2007-02-05"/>
+		<cosponsor id="300066" joined="2007-02-05"/>
+		<cosponsor id="400576" joined="2007-02-05"/>
+		<cosponsor id="300035" joined="2007-02-05"/>
+		<cosponsor id="300022" joined="2007-02-05"/>
+		<cosponsor id="400629" joined="2007-02-05"/>
+		<cosponsor id="300064" joined="2007-02-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1170651600" datetime="2007-02-05"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S1578-1579"/></action>
+		<calendar date="1171515600" datetime="2007-02-15" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1171515600" datetime="2007-02-15"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="30" date="1171515600" datetime="2007-02-15" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 30.</text></calendar>
+		<vote date="1171688400" how="by Unanimous Consent" datetime="2007-02-17" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S2219"/><reference label="text as passed Senate" ref="CR S2219"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/17/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes that African American spirituals are a poignant and powerful genre of music that have become one of the most significant segments of American music in existence. Encourages the people of the United States to reflect on the important contribution of African-American spirituals to U.S. history and to recognize the African-American spiritual as a national treasure. 
+	</summary>
+</bill>

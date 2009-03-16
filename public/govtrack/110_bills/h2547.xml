@@ -1,0 +1,45 @@
+<bill session="110" type="h" number="2547" updated="2009-01-08T22:09:08-05:00">
+	<status><vote date="1184621460" datetime="2007-07-16T18:31:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1179979200" datetime="2007-05-24"/>
+	<titles>
+		<title type="short" as="introduced">FDIC Enforcement Enhancement Act</title>
+		<title type="short" as="passed house">FDIC Enforcement Enhancement Act</title>
+		<title type="official" as="introduced">To amend the Federal Deposit Insurance Act to prevent misrepresentation about deposit insurance coverage, and for other purposes.</title>
+	</titles>
+	<sponsor id="412186"/>
+	<cosponsors>
+		<cosponsor id="400027" joined="2007-05-24"/>
+		<cosponsor id="400150" joined="2007-06-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1179979200" datetime="2007-05-24"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1182830400" datetime="2007-06-26"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1182830400" datetime="2007-06-26" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1184605200" datetime="2007-07-16T14:00:00-04:00"><text>Reported by the Committee on Financial Services. H. Rept. 110-234.</text></action>
+		<calendar number="145" date="1184605260" datetime="2007-07-16T14:01:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 145.</text></calendar>
+		<action date="1184605560" datetime="2007-07-16T14:06:00-04:00"><text>Mr. Sires moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1184605560" datetime="2007-07-16T14:06:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7788-7789"/></action>
+		<action date="1184605560" datetime="2007-07-16T14:06:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2547.</text></action>
+		<action date="1184605980" datetime="2007-07-16T14:13:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1184621400" datetime="2007-07-16T18:30:00-04:00"><text>ORDER OF PROCEDURE - Mr. Hastings(FL) asked unanimous consent that the proceedings by which the yeas and nays were ordered on the motion to suspend the rules and pass H.R. 2547, as amended, be vacated to the end that the Chair put the question de novo. Agreed to without objection.</text></action>
+		<action date="1184621460" datetime="2007-07-16T18:31:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7819"/></action>
+		<vote date="1184621460" how="by voice vote" datetime="2007-07-16T18:31:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H7788"/></vote>
+		<action date="1184644800" datetime="2007-07-17"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/16/2007--Passed House amended. FDIC Enforcement Enhancement Act - Amends the Federal Deposit Insurance Act (FDIA) to prohibit use of the terms &quot;Federal Deposit,&quot; &quot;Federal Deposit Insurance,&quot; &quot;Federal Deposit Insurance Corporation,&quot; any combination of such terms, or the abbreviation &quot;FDIC,&quot; as part of the business name or firm name of any person or business entity, including any advertisement, solicitation, or other document.<br/>Prohibits use of such terms, or any other sign or symbol as part of a document, to represent, suggest, or imply that any deposit liability, obligation, certificate, or share is insured or guaranteed by the Federal Deposit Insurance Corporation (FDIC) if in fact the instrument is not insured or guaranteed by the FDIC.<br/>Prohibits knowing misrepresentations of: (1) the federally insured status of any deposit liability, obligation, certificate, or share; or (2) the extent or the manner in which such instruments are insured by the FDIC. Grants the FDIC jurisdiction over any person that violates this Act, and certain enforcement authority as if the person were a state nonmember insured bank. Empowers the FDIC to issue orders requiring: (1) immediate cessation; and (2) affirmative action to prevent any further violation, or to remedy an existing one.<br/>Subjects violations of this Act to civil money penalties.<br/>
+	</summary>
+</bill>

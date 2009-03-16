@@ -1,0 +1,32 @@
+<bill session="110" type="sr" number="610" updated="2009-01-09T21:14:40-05:00">
+	<status><vote date="1215748800" datetime="2008-07-11" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1215403200" datetime="2008-07-07"/>
+	<titles>
+		<title type="official" as="introduced">A resolution honoring the men and women of the Drug Enforcement Administration on the occasion of the 35th anniversary of the Administration.</title>
+	</titles>
+	<sponsor id="300008"/>
+	<cosponsors>
+		<cosponsor id="300048" joined="2008-07-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1215403200" datetime="2008-07-07"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S6365-6366"/></action>
+		<action date="1215748800" datetime="2008-07-11"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S6611"/></action>
+		<vote date="1215748800" how="by Unanimous Consent" datetime="2008-07-11" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text as passed Senate" ref="CR S6611"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/11/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Congratulates the Drug Enforcement Administration (DEA) on its 35th anniversary, honors the heroic sacrifice of its employees, and gives heartfelt thanks to the men and women of the DEA for their efforts to defend the people of the United States from illegal drugs and terrorism.<br/>
+	</summary>
+</bill>

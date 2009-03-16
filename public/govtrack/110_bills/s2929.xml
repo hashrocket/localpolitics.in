@@ -1,0 +1,49 @@
+<bill session="110" type="s" number="2929" updated="2009-01-09T17:58:07-05:00">
+	<status><enacted date="1210651200" datetime="2008-05-13" /></status>
+
+	<introduced date="1209441600" datetime="2008-04-29"/>
+	<titles>
+		<title type="official" as="introduced">A bill to temporarily extend the programs under the Higher Education Act of 1965.</title>
+	</titles>
+	<sponsor id="300059"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote date="1209441600" how="by Unanimous Consent" datetime="2008-04-29" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S3475"/><reference label="text as passed Senate" ref="CR S3475"/></vote>
+		<action date="1209527280" datetime="2008-04-29T12:48:00-04:00"><text>Received in the House.</text></action>
+		<action date="1209441600" datetime="2008-04-29"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1209505800" datetime="2008-04-29T18:50:00-04:00"><text>Held at the desk.</text></action>
+		<action date="1210011540" datetime="2008-05-05T15:19:00-04:00"><text>Mr. Tierney moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1210011540" datetime="2008-05-05T15:19:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3035-3036"/></action>
+		<action date="1210011540" datetime="2008-05-05T15:19:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 2929.</text></action>
+		<action date="1210011900" datetime="2008-05-05T15:25:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Bonner objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1210103160" datetime="2008-05-06T16:46:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3090-3091"/></action>
+		<vote date="1210103520" how="roll" roll="256" datetime="2008-05-06T16:52:00-04:00" where="h" type="vote2" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 408 - 0 (Roll no. 256). (text: CR 5/5/2008 H3035-3036)</text></vote>
+		<action date="1210103580" datetime="2008-05-06T16:53:00-04:00"><text>Mrs. Emerson moved to reconsider the vote.</text></action>
+		<action date="1210103580" datetime="2008-05-06T16:53:00-04:00"><text>Mr. Hastings (FL) moved to table the motion to reconsider the vote</text><reference label="consideration" ref="CR H3091"/></action>
+		<action date="1210104060" datetime="2008-05-06T17:01:00-04:00"><text>On motion to table the motion to reconsider the vote Agreed to by recorded vote: 223 - 189 (Roll no. 257).</text></action>
+		<action date="1210132800" datetime="2008-05-07"><text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text></action>
+		<action date="1210132800" datetime="2008-05-07"><text>Senate agreed to the House amendment by Unanimous Consent. (consideration: CR S8329-8330; text of measure as Senate agreed to House amendment)</text></action>
+		<topresident date="1210132800" datetime="2008-05-07" ><text>Cleared for White House.</text></topresident>
+		<action date="1210219200" datetime="2008-05-08"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1210651200" datetime="2008-05-13" ><text>Presented to President.</text></topresident>
+		<signed date="1210651200" datetime="2008-05-13" ><text>Signed by President.</text></signed>
+		<enacted number="110-230" date="1210651200" datetime="2008-05-13" type="public" ><text>Became Public Law No: 110-230.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/13/2008--Public Law. (This measure has not been amended since it was passed by the House on May 6, 2008. The summary of that version is repeated here.) Amends the Higher Education Extension Act of 2005 to extend the programs under the Higher Education Act of 1965 through May 31, 2008. Provides that this extension shall take effect as if enacted on April 30, 2008.<br/>
+	</summary>
+</bill>

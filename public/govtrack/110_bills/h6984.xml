@@ -1,0 +1,54 @@
+<bill session="110" type="h" number="6984" updated="2009-01-09T07:12:34-05:00">
+	<status><enacted date="1222747200" datetime="2008-09-30" /></status>
+
+	<introduced date="1222056000" datetime="2008-09-22"/>
+	<titles>
+		<title type="short" as="introduced">Federal Aviation Administration Extension Act of 2008, Part II</title>
+		<title type="short" as="passed house">Federal Aviation Administration Extension Act of 2008, Part II</title>
+		<title type="short" as="passed senate">Federal Aviation Administration Extension Act of 2008, Part II</title>
+		<title type="short" as="enacted">Federal Aviation Administration Extension Act of 2008, Part II</title>
+		<title type="official" as="introduced">To amend title 49, United States Code, to extend authorizations for the airport improvement program, to amend the Internal Revenue Code of 1986 to extend the funding and expenditure authority of the Airport and Airway Trust Fund, and for other purposes.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="400273" joined="2008-09-22"/>
+		<cosponsor id="400333" joined="2008-09-22"/>
+		<cosponsor id="400082" joined="2008-09-22"/>
+		<cosponsor id="400318" joined="2008-09-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1222056000" datetime="2008-09-22"><text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1222056000" datetime="2008-09-22"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1222056000" datetime="2008-09-22"><text>Referred to House Ways and Means</text></action>
+		<action date="1222142400" datetime="2008-09-23"><committee name="House Transportation and Infrastructure"/><text>Provisions extending the AIP program and tax authority from October 1, 2007 were included in Section 148 and 149 of H.J. Res. 52 (P.L. 110-92), as subsequently extended by section 101 of H.R. 3222, H.J. Res. 69 (P.L. 110-137), and H.J. Res. 72 (P.L. 110-149).</text></action>
+		<action date="1222142400" datetime="2008-09-23"><committee name="House Transportation and Infrastructure"/><text>Provisions of measure incorporated in Section 116 of H.R. 2764 (P.L. 110-161)..</text></action>
+		<action date="1222142400" datetime="2008-09-23"><committee name="House Transportation and Infrastructure"/><text>Provisions of measure incorporated into H.R. 5270 (P.L. 110-190).</text></action>
+		<action date="1222142400" datetime="2008-09-23"><committee name="House Transportation and Infrastructure"/><text>Provisions of measure incorporated into H.R. 6327 (P.L. 110-253)..</text></action>
+		<action date="1222142400" datetime="2008-09-23"><committee name="House Transportation and Infrastructure"/><text>Provisions of measure incorporated into H.R. 6984 (P.L. 110-330)..</text></action>
+		<action date="1222176600" datetime="2008-09-23T10:30:00-04:00"><text>Mr. Costello moved to suspend the rules and pass the bill.</text></action>
+		<action date="1222176660" datetime="2008-09-23T10:31:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8588-8590"/></action>
+		<action date="1222176660" datetime="2008-09-23T10:31:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6984.</text></action>
+		<vote date="1222177080" how="by voice vote" datetime="2008-09-23T10:38:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H8588"/></vote>
+		<vote date="1222142400" how="by Unanimous Consent" datetime="2008-09-23" where="s" type="vote2" result="pass" ><text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S9338-9340"/></vote>
+		<topresident date="1222142400" datetime="2008-09-23" ><text>Cleared for White House.</text></topresident>
+		<action date="1222228800" datetime="2008-09-24"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1222401600" datetime="2008-09-26" ><text>Presented to President.</text></topresident>
+		<signed date="1222747200" datetime="2008-09-30" ><text>Signed by President.</text></signed>
+		<enacted number="110-330" date="1222747200" datetime="2008-09-30" type="public" ><text>Became Public Law No: 110-330.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Federal Aviation Administration Extension Act of 2008, Part II - Amends the Internal Revenue Code to extend from September 30, 2008, through March 31, 2009: (1) excise taxes on aviation fuels and air transportation of persons and property; and (2) the expenditure authority for the Airport and Airway Trust Fund. Extends funding from September 30, 2008, through March 31, 2009, for airport improvement program (AIP) projects, including project grant authority. Authorizes obligation at any time during FY2009 of funds made available by this Act. Prescribes a formula for calculating funding apportionments to implement the program. Extends through March 31, 2009, various airport development projects, including: (1) the pilot program for passenger facility fees at nonhub airports; (2) the small community air service development program; (3) small airport grants for airports located in the Marshall Islands, Micronesia, and Palau; (4) state and local airport compatibility projects; (5) the authority of the Metropolitan Washington Airports Authority to apply for an airport development grant and impose a passenger facility fee; (6) the temporary increase to 95% in the government share of certain AIP project costs; (7) Midway Island airport development; and (8) airport planning and development grant programs. Extends through March 31, 2009, Department of Transportation (DOT) insurance coverage for domestic and foreign-flag air carriers. Extends through May 31, 2009, air carrier liability limits for injuries to passengers resulting from acts of terrorism. Extends through March 31, 2009, the authorization of appropriations for: (1) Federal Aviation Administration (FAA) operations; (2) air navigation facilities and equipment; and (3) research, engineering, and development.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="110" type="hr" number="768" updated="2009-01-09T09:27:36-05:00">
+	<status><vote date="1197394320" datetime="2007-12-11T13:32:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1193112000" datetime="2007-10-23"/>
+	<titles>
+		<title type="official" as="introduced">Honoring the life of Thomas &quot;Tommy&quot; Makem.</title>
+	</titles>
+	<sponsor id="412219"/>
+	<cosponsors>
+		<cosponsor id="400219" joined="2007-11-08"/>
+		<cosponsor id="400263" joined="2007-10-30"/>
+		<cosponsor id="412208" joined="2007-12-05"/>
+		<cosponsor id="400312" joined="2007-12-05"/>
+		<cosponsor id="412187" joined="2007-11-08"/>
+		<cosponsor id="412193" joined="2007-12-05"/>
+		<cosponsor id="400087" joined="2007-10-30"/>
+		<cosponsor id="412239" joined="2007-12-05"/>
+		<cosponsor id="400233" joined="2007-12-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1193112000" datetime="2007-10-23"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1195016400" datetime="2007-11-14"><text>Referred to the Subcommittee on Healthy Families and Communities.</text></action>
+		<action date="1197393900" datetime="2007-12-11T13:25:00-05:00"><text>Ms. Shea-Porter moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1197393960" datetime="2007-12-11T13:26:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H15239-15241"/></action>
+		<action date="1197393960" datetime="2007-12-11T13:26:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 768.</text></action>
+		<vote date="1197394320" how="by voice vote" datetime="2007-12-11T13:32:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H15239-15240"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/11/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Honors the life of Thomas &quot;Tommy&quot; Makem, and his accomplishments as a musician, composer, and performer.<br/>
+	</summary>
+</bill>

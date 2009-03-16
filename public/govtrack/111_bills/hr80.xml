@@ -1,0 +1,35 @@
+<bill session="111" type="hr" number="80" updated="2009-03-07T13:15:28-05:00">
+	<status><vote date="1232646000" datetime="2009-01-22T13:40:00-05:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="official" as="introduced">Electing Members to a certain standing committee of the House of Representatives.</title>
+	</titles>
+	<sponsor id="400233"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1232645940" datetime="2009-01-22T13:39:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H470"/></action>
+		<vote date="1232646000" how="without objection" datetime="2009-01-22T13:40:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text" ref="CR H470"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional committees"/>
+		<term name="House Committee on Standards of Official Conduct"/>
+		<term name="House of Representatives"/>
+		<term name="Members of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Elects certain named Majority Members to the House Committee on Standards of Official Conduct, including the Chairman.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="111" type="s" number="65" updated="2009-03-07T13:39:55-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide relief to the Pottawatomi Nation in Canada for settlement of certain claims against the United States.</title>
+	</titles>
+	<sponsor id="300056"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR S67-68)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S68-69"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Canada"/>
+		<term name="Government liability"/>
+		<term name="Indian claims"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Directs the Secretary of the Treasury to pay a specified sum to the Pottawatomi Nation in Canada in settlement and full satisfaction of certain claims. Excludes such payment from the provisions of the Indian Tribal Judgment Funds Use or Distribution Act. 
+	</summary>
+</bill>

@@ -1,0 +1,30 @@
+<bill session="111" type="h" number="935" updated="2009-03-07T11:38:17-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 10, United States Code, to increase the number of persons appointed to the military service academies from the Commonwealth of the Northern Mariana Islands and American Samoa from nominations made by the Delegates in Congress from the Commonwealth of the Northern Mariana Islands and American Samoa.</title>
+	</titles>
+	<sponsor id="412312"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the House Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Introduced.<br/>Increases the authorized number of annual appointments to the military service academies from: (1) the Commonwealth of the Northern Mariana Islands from one to three; and (2) American Samoa from two to three.<br/>
+	</summary>
+</bill>

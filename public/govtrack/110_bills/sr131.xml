@@ -1,0 +1,38 @@
+<bill session="110" type="sr" number="131" updated="2009-01-09T20:14:50-05:00">
+	<status><vote date="1175140800" datetime="2007-03-29" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1175054400" datetime="2007-03-28"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating the first week of April 2007 as &quot;National Asbestos Awareness Week&quot;.</title>
+	</titles>
+	<sponsor id="300005"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2007-03-28"/>
+		<cosponsor id="300059" joined="2007-03-28"/>
+		<cosponsor id="300082" joined="2007-03-28"/>
+		<cosponsor id="300038" joined="2007-03-28"/>
+		<cosponsor id="300076" joined="2007-03-28"/>
+		<cosponsor id="300043" joined="2007-03-28"/>
+		<cosponsor id="412244" joined="2007-03-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1175054400" datetime="2007-03-28"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S4062"/></action>
+		<action date="1175140800" datetime="2007-03-29"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S4223-4224"/></action>
+		<vote date="1175140800" how="by Unanimous Consent" datetime="2007-03-29" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S4224"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/29/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the first week of April 2007 as National Asbestos Awareness Week. Urges the Surgeon General to warn and educate people that asbestos exposure may be hazardous to their health.<br/>
+	</summary>
+</bill>

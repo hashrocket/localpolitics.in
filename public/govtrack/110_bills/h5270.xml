@@ -1,0 +1,53 @@
+<bill session="110" type="h" number="5270" updated="2009-01-09T03:50:48-05:00">
+	<status><enacted date="1204174800" datetime="2008-02-28" /></status>
+
+	<introduced date="1202360400" datetime="2008-02-07"/>
+	<titles>
+		<title type="short" as="introduced">Airport and Airway Extension Act of 2008</title>
+		<title type="short" as="passed house">Airport and Airway Extension Act of 2008</title>
+		<title type="short" as="passed senate">Airport and Airway Extension Act of 2008</title>
+		<title type="short" as="enacted">Airport and Airway Extension Act of 2008</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend the funding and expenditure authority of the Airport and Airway Trust Fund, and for other purposes.</title>
+	</titles>
+	<sponsor id="400333"/>
+	<cosponsors>
+		<cosponsor id="400273" joined="2008-02-07"/>
+		<cosponsor id="400082" joined="2008-02-07"/>
+		<cosponsor id="400299" joined="2008-02-07"/>
+		<cosponsor id="400318" joined="2008-02-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1202360400" datetime="2008-02-07"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1202360400" datetime="2008-02-07"><text>Referred to House Ways and Means</text></action>
+		<action date="1202360400" datetime="2008-02-07"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1202843580" datetime="2008-02-12T15:13:00-05:00"><text>Mr. Crowley moved to suspend the rules and pass the bill.</text></action>
+		<action date="1202843640" datetime="2008-02-12T15:14:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H831-834"/></action>
+		<action date="1202843640" datetime="2008-02-12T15:14:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5270.</text></action>
+		<vote date="1202844720" how="by voice vote" datetime="2008-02-12T15:32:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H831-832"/></vote>
+		<vote date="1202878800" how="by Unanimous Consent" datetime="2008-02-13" where="s" type="vote2" result="pass" ><text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S990-991"/></vote>
+		<topresident date="1202878800" datetime="2008-02-13" ><text>Cleared for White House.</text></topresident>
+		<action date="1202965200" datetime="2008-02-14"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1203915600" datetime="2008-02-25" ><text>Presented to President.</text></topresident>
+		<action date="1204174800" datetime="2008-02-28"><committee name="House Transportation and Infrastructure"/><text>Provisions extending the AIP program and tax authority from October 1, 2007 through December 31, 2007 were included in Section 148 and 149 of H.J.Res.52 (Public Law 110-92), as subsequently extended by Section 101 of H.R.3222, H.J.Res.69 (Public Law 110-137), and H.J.Res.72 (Public Law 110-149).</text></action>
+		<action date="1204174800" datetime="2008-02-28"><committee name="House Transportation and Infrastructure"/><text>Provisions extending tax authority from December 31, 2007 through February 29, 2008 were included in Section 116 of H.R.2764 (Public Law 110-161).</text></action>
+		<action date="1204174800" datetime="2008-02-28"><committee name="House Transportation and Infrastructure"/><text>Provisions extending both the AIP program and tax authority from February 29, 2008 thorugh June 30, 2008 were included in H.R.5270 (Public Law 110-190).</text></action>
+		<signed date="1204174800" datetime="2008-02-28" ><text>Signed by President.</text></signed>
+		<enacted number="110-190" date="1204174800" datetime="2008-02-28" type="public" ><text>Became Public Law No: 110-190.</text></enacted>
+		<action date="1215489600" datetime="2008-07-08"><text>Provisions extending both AIP program and tax authority from July 1, 2008 through September 30, 2008 were included in H.R. 6327 (P.L. 110-253)</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/28/2008--Public Law. (This measure has not been amended since it was passed by the House on February 12, 2008. The summary of that version is repeated here.)<br/>Airport and Airway Extension Act of 2008 - Amends the Internal Revenue Code to extend through June 30, 2008: (1) the excise taxes on aviation fuels and air transportation of persons and property for funding the Airport and Airway Trust Fund; and (2) the expenditure authority for such Trust Fund.<br/>Amends federal transportation law to provide funding for airport planning and development and noise compatibility planning programs for the nine-month period beginning October 1, 2007. Extends until June 30, 2008: (1) the authority of the Secretary of Transportation to incur obligations to make grants under such programs; (2) the increase in the federal government's share (to 95%) of certain airport improvement program costs; and (3) funding for airport development at Midway Island Airport.<br/>Directs the Administrator of the Federal Aviation Administration (FAA) to calculate funding apportionments for airport development programs in FY2008 in accordance with a specified formula.<br/>Extends through FY2008 the period for final orders issued by the Secretary of Transportation with respect to eligibility for essential air service compensation.<br/>
+	</summary>
+</bill>

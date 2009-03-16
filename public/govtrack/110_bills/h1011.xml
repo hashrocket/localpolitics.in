@@ -1,0 +1,63 @@
+<bill session="110" type="h" number="1011" updated="2009-01-08T18:56:47-05:00">
+	<status><vote date="1193173680" datetime="2007-10-23T18:08:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1171342800" datetime="2007-02-13"/>
+	<titles>
+		<title type="short" as="introduced">Virginia Ridge and Valley Act of 2007</title>
+		<title type="short" as="reported to house">Virginia Ridge and Valley Act of 2007</title>
+		<title type="short" as="passed house">Virginia Ridge and Valley Act of 2007</title>
+		<title type="official" as="introduced">To designate additional National Forest System lands in the State of Virginia as wilderness or a wilderness study area, to designate the Kimberling Creek Potential Wilderness Area for eventual incorporation in the Kimberling Creek Wilderness, to establish the Seng Mountain and Bear Creek Scenic Areas, to provide for the development of trail plans for the wilderness areas and scenic areas, and for other purposes.</title>
+	</titles>
+	<sponsor id="400043"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2007-05-03"/>
+		<cosponsor id="400364" joined="2007-02-13"/>
+		<cosponsor id="400095" joined="2007-02-13"/>
+		<cosponsor id="400098" joined="2007-02-13"/>
+		<cosponsor id="400283" joined="2007-02-13"/>
+		<cosponsor id="400435" joined="2007-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1171342800" datetime="2007-02-13"><text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1171342800" datetime="2007-02-13"><text>Referred to House Natural Resources</text></action>
+		<action date="1171342800" datetime="2007-02-13"><text>Referred to House Agriculture</text></action>
+		<action date="1172034000" datetime="2007-02-21"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1172811600" datetime="2007-03-02"><committee name="House Agriculture"/><text>Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.</text></action>
+		<action date="1178769600" datetime="2007-05-10"><committee name="House Natural Resources" subcommittee="National Parks, Forests, and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<calendar date="1183003200" datetime="2007-06-28" ><committee name="House Natural Resources"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1183003200" datetime="2007-06-28"><committee name="House Natural Resources"/><text>Subcommittee on National Parks, Forests, and Public Lands Discharged.</text></action>
+		<action date="1183003200" datetime="2007-06-28"><committee name="House Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<action date="1188931620" datetime="2007-09-04T15:47:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-315, Part I.</text></action>
+		<action date="1188931740" datetime="2007-09-04T15:49:00-04:00"><text>House Committee on Agriculture Granted an extension for further consideration ending not later than Oct. 5, 2007.</text></action>
+		<action date="1191610200" datetime="2007-10-05T15:50:00-04:00"><text>Committee on Agriculture discharged.</text></action>
+		<calendar number="224" date="1191610200" datetime="2007-10-05T15:50:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 224.</text></calendar>
+		<action date="1193090340" datetime="2007-10-22T18:59:00-04:00"><text>Rules Committee Resolution H. Res. 763 Reported to House. Rule provides for consideration of H.R. 1011 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.</text></action>
+		<action date="1193168400" datetime="2007-10-23T16:40:00-04:00"><text>Rule H. Res. 763 passed House.</text></action>
+		<action date="1193170020" datetime="2007-10-23T17:07:00-04:00"><text>Considered under the provisions of rule H. Res. 763.</text><reference label="consideration" ref="CR H11900-11908"/><reference label="text of measure as introduced" ref="CR H11900-11902"/><reference label="text of measure as reported in House" ref="CR H11902-11903"/></action>
+		<action date="1193170020" datetime="2007-10-23T17:07:00-04:00"><text>Rule provides for consideration of H.R. 1011 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.</text></action>
+		<action date="1193170020" datetime="2007-10-23T17:07:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H.R. 1011.</text></action>
+		<action date="1193170920" datetime="2007-10-23T17:22:00-04:00"><text>DEBATE - The House proceeded with 10 minutes of debate on the Goodlatte amendment.</text></action>
+		<action date="1193171520" datetime="2007-10-23T17:32:00-04:00"><text>Mr. Lamborn moved to recommit with instructions to Natural Resources.</text><reference label="consideration" ref="CR H11907-11908"/><reference label="text" ref="CR H11907"/></action>
+		<action date="1193171580" datetime="2007-10-23T17:33:00-04:00"><text>DEBATE - The House proceeded with 10 minutes of debate on the Lamborn motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment inserting a new subsection to motorize access in emergencies.</text></action>
+		<action date="1193171940" datetime="2007-10-23T17:39:00-04:00"><text>The previous question on the motion to recommit with instructions was ordered without objection.</text><reference label="consideration" ref="CR H11907"/></action>
+		<action date="1193173560" datetime="2007-10-23T18:06:00-04:00"><text>On motion to recommit with instructions Agreed to by the Yeas and Nays: 236 - 178 (Roll no. 994).</text></action>
+		<vote date="1193173680" how="by voice vote" datetime="2007-10-23T18:08:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed by voice vote.</text></vote>
+		<action date="1193198400" datetime="2007-10-24"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1208232000" datetime="2008-04-15"><committee name="House Agriculture"/><text>Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/23/2007--Passed House amended. Virginia Ridge and Valley Act of 2007 - Designates certain lands in the Jefferson National Forest, Virginia (Brush Mountain and Brush Mountain East, Seng Mountain and Raccoon Branch, Stone Mountain, Hunting Camp Creek and Garden Mountain, Mountain Lake Additions, Lewis Fork Addition and Little Wilson Creek Additions, Shawvers Run Additions, Peters Mountain Addition, and Kimberling Creek Additions) as wilderness. Designates certain lands in the Jefferson National Forest as: (1) the &quot;Lynn Camp Creek Wilderness Study Area&quot;; and (2) the &quot;Kimberling Creek Potential Wilderness Area&quot; for eventual incorporation in the Kimberling Creek Wilderness. Sets forth requirements regarding ecological restoration. Specifies that the Potential Wilderness Area be designated as wilderness and included in Kimberling Creek Wilderness on the earlier of: (1) the date on which the Secretary of Agriculture publishes in the Federal Register notice that the conditions in such Area that are incompatible with the Wilderness Act have been removed; or (2) five years after enactment of this Act. Designates Seng Mountain and Raccoon Branch, and Bear Creek, as National Scenic Areas (Scenic Areas). Establishes such Areas for purposes of: (1) ensuring the protection and preservation of scenic quality, water quality, natural characteristics, and water resources; (2) protecting wildlife and fish habitat; (3) protecting areas that may develop characteristics of old-growth forests; and (4) providing a variety of recreation opportunities. Authorizes the Secretary to only allow such uses of the Scenic Areas as will further the purposes for which they are established.<br/>Directs the Secretary to: (1) develop a management plan for such Scenic Areas; and (2) establish a trail plan for National Forest System (NFS) lands in order to develop hiking and equestrian trails on the lands in Jefferson National Forest designated as wilderness by this Act and non-motorized recreation trails within the Seng Mountain and Bear Creek Scenic Areas. Instructs the Secretary to establish the trail plan in consultation with interested parties. Requires the Secretary to report on the implementation of such plan, including the identification of priority trails for development.<br/>Directs the Secretary to develop a specified sustainable trail along the southern boundary of the Raccoon Branch Wilderness connecting to forest development road 49352 in Smyth County.<br/>Sets forth provisions regarding roads, vegetation management, motorized travel, fire, insects and disease, water, mining, mineral and geothermal leasing. Permits motorized access to lands designated as wilderness or a wilderness study area by this Act when required in connection with an emergency involving the health and safety of persons, including search and rescue efforts or a response to an Amber Alert. 
+	</summary>
+</bill>

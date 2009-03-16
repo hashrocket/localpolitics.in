@@ -1,0 +1,53 @@
+<bill session="110" type="h" number="6197" updated="2009-01-09T05:39:51-05:00">
+	<status><enacted date="1224648000" datetime="2008-10-22" /></status>
+
+	<introduced date="1212638400" datetime="2008-06-05"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 7095 Highway 57 in Counce, Tennessee, as the &quot;Pickwick Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400032"/>
+	<cosponsors>
+		<cosponsor id="400155" joined="2008-09-22"/>
+		<cosponsor id="400330" joined="2008-09-23"/>
+		<cosponsor id="400096" joined="2008-09-23"/>
+		<cosponsor id="400116" joined="2008-09-22"/>
+		<cosponsor id="400098" joined="2008-09-23"/>
+		<cosponsor id="412235" joined="2008-09-22"/>
+		<cosponsor id="400172" joined="2008-09-23"/>
+		<cosponsor id="400395" joined="2008-09-23"/>
+		<cosponsor id="400655" joined="2008-09-23"/>
+		<cosponsor id="400081" joined="2008-09-23"/>
+		<cosponsor id="400421" joined="2008-09-22"/>
+		<cosponsor id="412236" joined="2008-09-22"/>
+		<cosponsor id="412191" joined="2008-09-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1212638400" datetime="2008-06-05"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1222541100" datetime="2008-09-27T15:45:00-04:00"><text>Mr. Clay asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1222541100" datetime="2008-09-27T15:45:00-04:00"><text>Committee on Oversight and Government discharged.</text></action>
+		<action date="1222541100" datetime="2008-09-27T15:45:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10214"/></action>
+		<vote date="1222541100" how="without objection" datetime="2008-09-27T15:45:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H10214"/></vote>
+		<action date="1222660800" datetime="2008-09-29"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1222920000" how="by Unanimous Consent" datetime="2008-10-02" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10422"/></vote>
+		<topresident date="1222920000" datetime="2008-10-02" ><text>Cleared for White House.</text></topresident>
+		<action date="1223006400" datetime="2008-10-03"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1223611200" datetime="2008-10-10" ><text>Presented to President.</text></topresident>
+		<signed date="1224648000" datetime="2008-10-22" ><text>Signed by President.</text></signed>
+		<enacted number="110-448" date="1224648000" datetime="2008-10-22" type="public" ><text>Became Public Law No: 110-448.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/22/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 7095 Highway 57 in Counce, Tennessee, as the &quot;Pickwick Post Office Building.&quot; 
+	</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="110" type="h" number="6109" updated="2009-01-09T05:29:51-05:00">
+	<status><vote date="1214248200" datetime="2008-06-23T16:10:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1211342400" datetime="2008-05-21"/>
+	<titles>
+		<title type="short" as="introduced">Pre-Disaster Mitigation Act of 2008</title>
+		<title type="short" as="reported to house">Pre-Disaster Mitigation Act of 2008</title>
+		<title type="short" as="passed house">Pre-Disaster Mitigation Act of 2008</title>
+		<title type="official" as="introduced">To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to reauthorize the pre-disaster hazard mitigation program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="400273" joined="2008-05-21"/>
+		<cosponsor id="400295" joined="2008-05-21"/>
+		<cosponsor id="400158" joined="2008-05-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1211342400" datetime="2008-05-21"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1211428800" datetime="2008-05-22"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1211428800" datetime="2008-05-22" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1213914060" datetime="2008-06-19T19:21:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 110-725.</text></action>
+		<calendar number="460" date="1213914060" datetime="2008-06-19T19:21:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 460.</text></calendar>
+		<action date="1214246880" datetime="2008-06-23T15:48:00-04:00"><text>Ms. Norton moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1214246940" datetime="2008-06-23T15:49:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5816-5818"/></action>
+		<action date="1214246940" datetime="2008-06-23T15:49:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6109.</text></action>
+		<vote date="1214248200" how="by voice vote" datetime="2008-06-23T16:10:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H5816"/></vote>
+		<action date="1214280000" datetime="2008-06-24"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/23/2008--Passed House amended. Pre-Disaster Mitigation Act of 2008 - Amends the Robert T. Stafford Disaster Relief and Emergency Assistance Act to: (1) increase the amount guaranteed to each state under the pre-disaster mitigation program; (2) require other financial assistance under the program to be awarded on a competitive basis; and (3) authorize appropriations for the program through FY2011. 
+	</summary>
+</bill>

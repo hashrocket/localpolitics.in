@@ -1,0 +1,56 @@
+<bill session="110" type="h" number="6604" updated="2009-01-09T06:28:41-05:00">
+	<status><vote date="1221757860" datetime="2008-09-18T14:11:00-04:00" where="h" result="pass" how="roll" roll="608"/></status>
+
+	<introduced date="1216872000" datetime="2008-07-24"/>
+	<titles>
+		<title type="short" as="introduced">Commodity Markets Transparency and Accountability Act of 2008</title>
+		<title type="short" as="passed house">Commodity Markets Transparency and Accountability Act of 2008</title>
+		<title type="official" as="introduced">To amend the Commodity Exchange Act to bring greater transparency and accountability to commodity markets, and for other purposes.</title>
+	</titles>
+	<sponsor id="400316"/>
+	<cosponsors>
+		<cosponsor id="400620" joined="2008-07-30"/>
+		<cosponsor id="400073" joined="2008-07-30"/>
+		<cosponsor id="400183" joined="2008-07-30"/>
+		<cosponsor id="400323" joined="2008-07-30"/>
+		<cosponsor id="412262" joined="2008-07-30"/>
+		<cosponsor id="400628" joined="2008-07-30"/>
+		<cosponsor id="400125" joined="2008-07-24"/>
+		<cosponsor id="412228" joined="2008-07-30"/>
+		<cosponsor id="412220" joined="2008-07-30"/>
+	</cosponsors>
+	<actions>
+		<action date="1216872000" datetime="2008-07-24"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action date="1217435100" datetime="2008-07-30T13:25:00-04:00"><text>Mr. Peterson (MN) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1217435160" datetime="2008-07-30T13:26:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7519-7530"/><reference label="text of measure as introduced" ref="CR H7519-7522"/></action>
+		<action date="1217435160" datetime="2008-07-30T13:26:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6604.</text></action>
+		<vote date="1217440500" how="roll" roll="540" datetime="2008-07-30T14:55:00-04:00" where="h" type="vote" suspension="1" result="fail" ><text>On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 276 - 151 (Roll no. 540).</text></vote>
+		<action date="1221686580" datetime="2008-09-17T18:23:00-04:00"><text>Rules Committee Resolution H. Res. 1449 Reported to House. Rule provides for consideration of H.R. 6604 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted.</text></action>
+		<action date="1221794580" datetime="2008-09-18T12:23:00-04:00"><text>Rule H. Res. 1449 passed House.</text></action>
+		<action date="1221794580" datetime="2008-09-18T12:23:00-04:00"><text>Considered under the provisions of rule H. Res. 1449.</text><reference label="consideration" ref="CR H8413-8429"/><reference label="text of measure as introduced" ref="CR H8413-8416"/></action>
+		<action date="1221794580" datetime="2008-09-18T12:23:00-04:00"><text>Rule provides for consideration of H.R. 6604 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted.</text></action>
+		<action date="1221794700" datetime="2008-09-18T12:25:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H.R. 6604.</text></action>
+		<action date="1221755400" datetime="2008-09-18T13:30:00-04:00"><text>Mr. Moran (KS) moved to recommit with instructions to Agriculture.</text><reference label="consideration" ref="CR H827-8429"/><reference label="text" ref="CR H8427"/></action>
+		<action date="1221755400" datetime="2008-09-18T13:30:00-04:00"><text>DEBATE - The House proceeded with ten minutes of debate on the Moran (KS) motion to recommit. The instructions contained in the motion seek to add an amendment stating when the provisions of the bill shall become effective.</text></action>
+		<action date="1221755760" datetime="2008-09-18T13:36:00-04:00"><text>The previous question on the motion to recommit with instructions was ordered without objection.</text><reference label="consideration" ref="CR H8427"/></action>
+		<action date="1221757200" datetime="2008-09-18T14:00:00-04:00"><text>On motion to recommit with instructions Failed by the Yeas and Nays: 196 - 221 (Roll no. 607).</text></action>
+		<vote date="1221757860" how="roll" roll="608" datetime="2008-09-18T14:11:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed by recorded vote: 283 - 133 (Roll no. 608).</text><reference label="text" ref="CR H8413-8419"/></vote>
+		<action date="1222056000" datetime="2008-09-22"><text>Received in the Senate.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/24/2008--Introduced.<br/>Commodity Markets Transparency and Accountability Act of 2008 - Amends the Commodity Exchange Act to define &quot;energy commodity.&quot; Prohibits the Commodity Futures Trading Commission (CFTC) from permitting a foreign board of trade to provide its U.S-located members with access to the CFTC electronic trading system and order matching system for energy or agricultural commodities unless such board meets requirements similar to those imposed upon U.S. exchanges. Subjects swap transactions, transactions for agricultural and energy commodities, and large traders in over-the-counter contracts to reporting and recordkeeping requirements. Directs the Commission to: (1) set position limits for any one person with respect to designated contract markets, derivative transaction execution facilities, and electronic trading facilities; (2) convene a Position Limit Agricultural Advisory Group and a Position Limit Energy Group; (3) appoint at least 100 new full-time employees; (4) review prior actions to ensure compliance with this Act; and (5) review over-the-counter markets. Revises the core principles applicable to position limits for contracts in agricultural and energy commodities to require position limits for speculators. Directs the Government Accountability Office (GAO) to conduct a study of: (1) the international regime for regulating the trading of energy commodity futures and derivatives; and (2) speculators' effects on agriculture and energy futures markets and prices. Directs the Commission to: (1) require regular reporting of fungible over-the-counter agricultural and energy transactions; and (2) determine if such transactions have the potential to disrupt market liquidity or cause market or price disturbances, and if so, to use its discretion to impose position limits. Authorizes the Commission to use expedited procedures to carry out this Act.<br/>
+	</summary>
+</bill>

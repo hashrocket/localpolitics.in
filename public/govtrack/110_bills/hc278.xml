@@ -1,0 +1,83 @@
+<bill session="110" type="hc" number="278" updated="2009-01-08T16:01:54-05:00">
+	<status><vote date="1204777080" datetime="2008-03-05T12:18:00-05:00" where="h" result="pass" how="roll" roll="92"/></status>
+
+	<introduced date="1198040400" datetime="2007-12-19"/>
+	<titles>
+		<title type="official" as="introduced">Supporting Taiwan's fourth direct and democratic presidential elections in March 2008.</title>
+	</titles>
+	<sponsor id="400344"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2008-01-23"/>
+		<cosponsor id="400004" joined="2008-01-23"/>
+		<cosponsor id="400073" joined="2008-01-23"/>
+		<cosponsor id="400367" joined="2008-01-23"/>
+		<cosponsor id="400057" joined="2008-01-29"/>
+		<cosponsor id="400343" joined="2008-01-23"/>
+		<cosponsor id="400618" joined="2008-02-21"/>
+		<cosponsor id="412221" joined="2008-02-07"/>
+		<cosponsor id="400089" joined="2008-01-23"/>
+		<cosponsor id="400242" joined="2008-01-23"/>
+		<cosponsor id="400195" joined="2008-02-07"/>
+		<cosponsor id="400178" joined="2008-02-07"/>
+		<cosponsor id="400122" joined="2008-01-23"/>
+		<cosponsor id="400113" joined="2008-02-07"/>
+		<cosponsor id="400623" joined="2008-01-29"/>
+		<cosponsor id="400107" joined="2008-01-23"/>
+		<cosponsor id="412201" joined="2008-03-05"/>
+		<cosponsor id="400348" joined="2008-01-23"/>
+		<cosponsor id="400328" joined="2008-03-05"/>
+		<cosponsor id="400247" joined="2008-02-07"/>
+		<cosponsor id="412186" joined="2008-01-23"/>
+		<cosponsor id="400196" joined="2008-02-21"/>
+		<cosponsor id="400145" joined="2008-02-07"/>
+		<cosponsor id="400630" joined="2008-01-23"/>
+		<cosponsor id="400423" joined="2008-01-29"/>
+		<cosponsor id="400260" joined="2008-01-23"/>
+		<cosponsor id="400071" joined="2008-01-23"/>
+		<cosponsor id="400139" joined="2008-01-29"/>
+		<cosponsor id="400204" joined="2008-01-29"/>
+		<cosponsor id="400662" joined="2008-01-23"/>
+		<cosponsor id="400042" joined="2008-01-29"/>
+		<cosponsor id="400215" joined="2008-01-23"/>
+		<cosponsor id="400652" joined="2008-01-23"/>
+		<cosponsor id="400024" joined="2008-01-23"/>
+		<cosponsor id="400654" joined="2008-03-05"/>
+		<cosponsor id="400412" joined="2008-01-23"/>
+		<cosponsor id="400055" joined="2008-01-23"/>
+		<cosponsor id="400025" joined="2008-02-07"/>
+		<cosponsor id="400394" joined="2008-01-23"/>
+		<cosponsor id="400437" joined="2008-01-29"/>
+		<cosponsor id="400108" joined="2008-01-23"/>
+		<cosponsor id="400622" joined="2008-01-23"/>
+		<cosponsor id="400245" joined="2008-01-29"/>
+		<cosponsor id="400231" joined="2007-12-19"/>
+		<cosponsor id="400656" joined="2008-02-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1198040400" datetime="2007-12-19"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1204088400" datetime="2008-02-27"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1204088400" datetime="2008-02-27" ><text>Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.</text></calendar>
+		<action date="1204728960" datetime="2008-03-05T10:56:00-05:00"><text>Mr. Berman moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1204728960" datetime="2008-03-05T10:56:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1232-1234"/></action>
+		<action date="1204728960" datetime="2008-03-05T10:56:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 278.</text></action>
+		<action date="1204729920" datetime="2008-03-05T11:12:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1204776600" datetime="2008-03-05T12:10:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1240"/></action>
+		<vote date="1204777080" how="roll" roll="92" datetime="2008-03-05T12:18:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 1, 1 Present (Roll no. 92).</text><reference label="text" ref="CR H1232"/></vote>
+		<action date="1204779600" datetime="2008-03-06"><text>Received in the Senate and referred to the Committee on Foreign Relations.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/5/2008--Passed House amended. Expresses the sense of Congress that: (1) the U.S. government should reaffirm its commitment to Taiwan's democracy and security; and (2) international delegations should be encouraged to visit Taiwan to witness the March 2008 presidential elections.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,72 @@
+<bill session="110" type="hc" number="203" updated="2009-01-08T15:52:44-05:00">
+	<status><vote date="1191355860" datetime="2007-10-02T17:11:00-04:00" where="h" result="pass" how="roll" roll="929"/></status>
+
+	<introduced date="1188964800" datetime="2007-09-05"/>
+	<titles>
+		<title type="official" as="introduced">Condemning the persecution of labor rights advocates in Iran.</title>
+	</titles>
+	<sponsor id="400222"/>
+	<cosponsors>
+		<cosponsor id="400663" joined="2007-09-25"/>
+		<cosponsor id="400344" joined="2007-09-17"/>
+		<cosponsor id="400068" joined="2007-09-10"/>
+		<cosponsor id="412236" joined="2007-09-25"/>
+		<cosponsor id="400008" joined="2007-09-05"/>
+		<cosponsor id="400440" joined="2007-09-10"/>
+		<cosponsor id="400060" joined="2007-09-17"/>
+		<cosponsor id="400414" joined="2007-09-10"/>
+		<cosponsor id="400119" joined="2007-09-10"/>
+		<cosponsor id="400003" joined="2007-09-25"/>
+		<cosponsor id="400047" joined="2007-09-26"/>
+		<cosponsor id="400263" joined="2007-09-10"/>
+		<cosponsor id="400315" joined="2007-09-19"/>
+		<cosponsor id="400033" joined="2007-09-10"/>
+		<cosponsor id="400436" joined="2007-09-17"/>
+		<cosponsor id="400182" joined="2007-09-10"/>
+		<cosponsor id="400237" joined="2007-09-10"/>
+		<cosponsor id="400438" joined="2007-09-10"/>
+		<cosponsor id="400636" joined="2007-09-10"/>
+		<cosponsor id="400024" joined="2007-09-17"/>
+		<cosponsor id="400336" joined="2007-09-17"/>
+		<cosponsor id="400654" joined="2007-09-19"/>
+		<cosponsor id="412204" joined="2007-09-17"/>
+		<cosponsor id="400055" joined="2007-09-10"/>
+		<cosponsor id="400355" joined="2007-09-19"/>
+		<cosponsor id="400320" joined="2007-09-10"/>
+		<cosponsor id="400380" joined="2007-09-17"/>
+		<cosponsor id="400249" joined="2007-09-17"/>
+		<cosponsor id="400122" joined="2007-09-17"/>
+		<cosponsor id="412198" joined="2007-09-10"/>
+		<cosponsor id="400359" joined="2007-09-10"/>
+		<cosponsor id="400430" joined="2007-09-17"/>
+		<cosponsor id="400170" joined="2007-09-19"/>
+		<cosponsor id="400231" joined="2007-09-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1188964800" datetime="2007-09-05"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1190779200" datetime="2007-09-26"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1190779200" datetime="2007-09-26" ><text>Committee Agreed to Seek Consideration Under Suspension of the Rules, (Amended) by Unanimous Consent.</text></calendar>
+		<action date="1191336900" datetime="2007-10-02T11:55:00-04:00"><text>Mr. Sherman moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1191336900" datetime="2007-10-02T11:55:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11092-11093"/></action>
+		<action date="1191336900" datetime="2007-10-02T11:55:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 203.</text></action>
+		<action date="1191380940" datetime="2007-10-02T12:09:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1191355560" datetime="2007-10-02T17:06:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H11126-11127"/></action>
+		<vote date="1191355860" how="roll" roll="929" datetime="2007-10-02T17:11:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 1, 1 Present (Roll no. 929).</text><reference label="text" ref="CR H11092"/></vote>
+		<action date="1191384000" datetime="2007-10-03"><text>Received in the Senate and referred to the Committee on Foreign Relations.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/2/2007--Passed House amended. Condemns the government of Iran for the arrest and imprisonment of Iranian union leaders Mahmoud Salehi and Mansour Osanloo and demands their immediate release. Expresses solidarity with the workers of Iran and stands with them, and with all Iranians, in their effort to bring political freedom and individual liberty to Iran. Calls on the Iranian regime to respect the right of Iranian workers to form independent associations and unions, as required by its membership in the International Labor Organization.<br/>
+	</summary>
+</bill>

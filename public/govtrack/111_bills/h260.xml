@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="260" updated="2009-03-07T10:18:14-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">21st Century Energy Independence Act of 2009</title>
+		<title type="official" as="introduced">To authorize the Secretary of Energy to make loan guarantees for cellulosic ethanol production technology development.</title>
+	</titles>
+	<sponsor id="400199"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to House Science and Technology</text></action>
+		<action date="1231304400" datetime="2009-01-07"><committee name="House Science and Technology"/><text>Referred to the Subcommittee on Energy and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Science and Technology" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Science and Technology" subcommittee="Energy and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Energy"/>
+		<term name="Air quality"/>
+		<term name="Alternative and renewable resources"/>
+		<term name="Business investment and capital"/>
+		<term name="Energy storage, supplies, demand"/>
+		<term name="Industrial facilities"/>
+		<term name="Oil and gas"/>
+		<term name="Solid waste and recycling"/>
+		<term name="Technology transfer and commercialization"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>21st Century Energy Independence Act of 2009 - Instructs the Secretary of Energy to seek to ensure: (1) the availability of 200% of the volume of renewable fuels required to be available in the United States by 2013 under the Energy Policy Act of 2005; and (2) the reduction of carbon dioxide emissions from the production and use of renewable fuels by 25%.<br/>Directs the Secretary to establish a loan guarantee program for up to 80% of the cost of a project for: (1) the harvesting, storing, and delivery of agriculture residues for use in cellulosic or traditional ethanol production plants; (2) cellulosic ethanol production technologies that will reduce the initial capital cost to $2.50 per annual gallon, and operation and maintenance costs to 125% of those at traditional corn ethanol plants; (3) advanced biomass gasifiers that can provide specified thermal input requirements for traditional ethanol plants to produce syngas; and (4) scaled catalytic conversion projects to convert syngas to liquid fuels.<br/>Permits such loan guarantees for: (1) a traditional ethanol plant only if the agriculture residue products are used as feedstock to replace thermal input requirements otherwise provided by fossil fuels; and (2) an existing ethanol plant only if the applicant demonstrates the potential to reduce carbon dioxide emissions related to ethanol production by at least 75%.<br/>Authorizes the Secretary to provide grants for up to 50% of the capital costs of the initial commercialization for certain cellulosic ethanol production technologies.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="111" type="hr" number="218" updated="2009-03-13T12:11:55-04:00">
+	<status><calendar date="1236307980" datetime="2009-03-05T22:53:00-05:00" /></status>
+
+	<introduced date="1236229200" datetime="2009-03-05"/>
+	<titles>
+		<title type="official" as="introduced">Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1236307860" datetime="2009-03-05T22:51:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 111-24, by Mr. McGovern.</text></action>
+		<action date="1236307920" datetime="2009-03-05T22:52:00-05:00"><text>The resolution waives clause 6(a) of rule XIII (requiring a two-thirds vote to consider a rule on the same day it is reported from the Rules Committee) against certain resolutions reported from the Rules Committee. The waiver is applied to any resolution reported on the legislative day of March 6, 2009, providing for consideration or disposition of any measure making appropriations for the fiscal year 2009, and for other purposes.</text></action>
+		<calendar date="1236307980" datetime="2009-03-05T22:53:00-05:00" ><text>Placed on the House Calendar, Calendar No. 15.</text></calendar>
+		<action date="1236866160" datetime="2009-03-12T10:56:00-04:00"><text>Pursuant to the provisions of H. Res. 235, H. Res. 218 is laid on the table.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Rules" subcommittee="" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="235" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="House of Representatives"/>
+		<term name="Legislative rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/5/2009--Introduced.<br/>Waives a specified requirement of Rule XIII (Calendar and Committee Reports) to allow for consideration or disposition of any measure making FY2009 appropriations.<br/>
+	</summary>
+</bill>

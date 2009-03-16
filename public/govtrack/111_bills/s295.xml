@@ -1,0 +1,38 @@
+<bill session="111" type="s" number="295" updated="2009-03-07T14:08:54-05:00">
+	<status><introduced date="1232514000" datetime="2009-01-21"/></status>
+
+	<introduced date="1232514000" datetime="2009-01-21"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Quality and Payment Reform Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to improve the quality and efficiency of the Medicare program through measurement of readmission rates and resource use and to develop a pilot program to provide episodic payments to organized groups of multispecialty and multilevel providers of services and suppliers for hospitalization episodes associated with select, high cost diagnoses.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2009-02-03"/>
+		<cosponsor id="412247" joined="2009-03-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1232514000" datetime="2009-01-21"><text>Sponsor introductory remarks on measure. (CR S723-724)</text></action>
+		<action date="1232514000" datetime="2009-01-21"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S724-726"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Health facilities and institutions"/>
+		<term name="Health personnel"/>
+		<term name="Hospital care"/>
+		<term name="Medicare"/>
+		<term name="Rural conditions and development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

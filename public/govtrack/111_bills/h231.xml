@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="231" updated="2009-03-07T10:14:58-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="official" as="introduced">To require certain warning labels to be placed on video games that are given certain ratings due to violent content.</title>
+	</titles>
+	<sponsor id="400009"/>
+	<cosponsors>
+		<cosponsor id="400387" joined="2009-02-23"/>
+		<cosponsor id="400118" joined="2009-03-05"/>
+		<cosponsor id="400435" joined="2009-01-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Commerce"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Child safety and welfare"/>
+		<term name="Consumer Product Safety Commission"/>
+		<term name="Consumer affairs"/>
+		<term name="Internet and video services"/>
+		<term name="Marketing and advertising"/>
+		<term name="Product safety and quality"/>
+		<term name="Violent crime"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Requires the Consumer Product Safety Commission (CPSC) to issue regulations requiring that a specified warning label be placed on the packaging of any video game that is rated T (Teen) or higher by the Electronics Software Ratings Board.<br/>
+	</summary>
+</bill>

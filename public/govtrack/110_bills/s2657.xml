@@ -1,0 +1,33 @@
+<bill session="110" type="s" number="2657" updated="2009-01-09T17:23:44-05:00">
+	<status><calendar date="1209009600" datetime="2008-04-24" /></status>
+
+	<introduced date="1203051600" datetime="2008-02-15"/>
+	<titles>
+		<title type="official" as="introduced">A bill to require the Secretary of Commerce to prescribe regulations to reduce the incidence of vessels colliding with North Atlantic right whales by limiting the speed of vessels, and for other purposes.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+		<cosponsor id="300091" joined="2008-03-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1203051600" datetime="2008-02-15"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation under authority of the order of the Senate of 02/14/2008.</text></action>
+		<calendar date="1209009600" datetime="2008-04-24" ><text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1216699200" datetime="2008-07-22"><text>Committee on Commerce, Science, and Transportation. Reported by Senator Inouye with an amendment in the nature of a substitute. With written report No. 110-429.</text></action>
+		<calendar under="General Orders" number="893" date="1216699200" datetime="2008-07-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 893.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/22/2008--Reported to Senate amended. Directs the Secretary of Commerce to promulgate a final rule to implement speed restrictions to reduce the threat of ships colliding with North Atlantic right whales. Requires that rule to provide the same or greater level of protection as provided by a specified proposed rule.<br/>
+	</summary>
+</bill>

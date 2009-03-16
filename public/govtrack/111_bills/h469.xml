@@ -1,0 +1,47 @@
+<bill session="111" type="h" number="469" updated="2009-03-07T10:42:45-05:00">
+	<status><vote date="1234375440" datetime="2009-02-11T14:04:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1231822800" datetime="2009-01-13"/>
+	<titles>
+		<title type="short" as="introduced">Produced Water Utilization Act of 2009</title>
+		<title type="short" as="passed house">Produced Water Utilization Act of 2009</title>
+		<title type="official" as="introduced">To encourage research, development, and demonstration of technologies to facilitate the utilization of water produced in connection with the development of domestic energy resources, and for other purposes.</title>
+	</titles>
+	<sponsor id="400165"/>
+	<cosponsors>
+		<cosponsor id="400204" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1231822800" datetime="2009-01-13"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1234374840" datetime="2009-02-11T13:54:00-05:00"><text>Mr. Gordon (TN) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1234374840" datetime="2009-02-11T13:54:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1193-1195"/></action>
+		<action date="1234374840" datetime="2009-02-11T13:54:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 469.</text></action>
+		<vote date="1234375440" how="by voice vote" datetime="2009-02-11T14:04:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H1193-1194"/></vote>
+		<action date="1234414800" datetime="2009-02-12"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Science and Technology" subcommittee="" activity="Referral" />
+		<committee name="Senate Energy and Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Environmental assessment, monitoring, research"/>
+		<term name="Environmental technology"/>
+		<term name="Oil and gas"/>
+		<term name="Research administration and funding"/>
+		<term name="Research and development"/>
+		<term name="Technology transfer and commercialization"/>
+		<term name="Water quality"/>
+		<term name="Water resources funding"/>
+		<term name="Water use and supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Produced Water Utilization Act of 2009 - Defines &quot;produced water&quot; to mean water from an underground source that is brought to the surface as part of the process of exploration for or development of coalbed methane, oil, natural gas, or any other substance to be used as an energy source. Requires the Secretary of Energy, in conjunction with an existing domestic petroleum production program of the Department of Energy (DOE), to conduct a program of research, development, and demonstration of technologies for environmentally sustainable utilization of produced water for agriculture, irrigation, municipal, or industrial uses or other environmentally sustainable purposes. Requires the program to be designed to maximize the utilization of produced water in the United States by increasing its quality and reducing its environmental impacts. Requires that the program address: (1) produced water recovery, including research for desalination and demineralization to reduce total dissolved solids in the produced water; (2) re-injection of produced water into subsurface geological formations to increase energy production; and (3) improving safety and minimizing environmental impacts of such activities.<br/>Requires the Secretary, through the appropriate National Laboratory, to carry out research, development, and demonstration activities that are complementary to and supportive of such program.<br/>Authorizes appropriations.<br/>
+	</summary>
+</bill>

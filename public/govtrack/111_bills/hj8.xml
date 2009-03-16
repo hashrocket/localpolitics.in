@@ -1,0 +1,35 @@
+<bill session="111" type="hj" number="8" updated="2009-03-07T09:34:20-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States authorizing the Congress and the States to prohibit the act of desecration of the flag of the United States and to set criminal penalties for that act.</title>
+	</titles>
+	<sponsor id="400121"/>
+	<cosponsors>
+		<cosponsor id="400376" joined="2009-03-05"/>
+		<cosponsor id="400010" joined="2009-01-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="sj" number="2" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Constitution and constitutional amendments"/>
+		<term name="Crimes against property"/>
+		<term name="First Amendment rights"/>
+		<term name="National symbols"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Constitutional Amendment - Declares that Congress and the states shall have power to prohibit desecration of the U.S. flag and to set criminal penalties for such act.<br/>
+	</summary>
+</bill>

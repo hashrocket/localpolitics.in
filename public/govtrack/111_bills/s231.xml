@@ -1,0 +1,58 @@
+<bill session="111" type="s" number="231" updated="2009-03-07T14:00:47-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate a portion of the Arctic National Wildlife Refuge as wilderness.</title>
+	</titles>
+	<sponsor id="300067"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2009-01-14"/>
+		<cosponsor id="300065" joined="2009-01-14"/>
+		<cosponsor id="400272" joined="2009-01-14"/>
+		<cosponsor id="400413" joined="2009-01-14"/>
+		<cosponsor id="412329" joined="2009-03-06"/>
+		<cosponsor id="400064" joined="2009-01-14"/>
+		<cosponsor id="300059" joined="2009-01-14"/>
+		<cosponsor id="300018" joined="2009-01-14"/>
+		<cosponsor id="300011" joined="2009-01-14"/>
+		<cosponsor id="300093" joined="2009-01-14"/>
+		<cosponsor id="300076" joined="2009-01-14"/>
+		<cosponsor id="300042" joined="2009-01-14"/>
+		<cosponsor id="300060" joined="2009-01-14"/>
+		<cosponsor id="300038" joined="2009-01-14"/>
+		<cosponsor id="300087" joined="2009-01-14"/>
+		<cosponsor id="300061" joined="2009-01-14"/>
+		<cosponsor id="300034" joined="2009-01-14"/>
+		<cosponsor id="400357" joined="2009-01-14"/>
+		<cosponsor id="300043" joined="2009-01-14"/>
+		<cosponsor id="412247" joined="2009-01-14"/>
+		<cosponsor id="300081" joined="2009-01-14"/>
+		<cosponsor id="400412" joined="2009-01-14"/>
+		<cosponsor id="300051" joined="2009-01-14"/>
+		<cosponsor id="300100" joined="2009-01-14"/>
+		<cosponsor id="300064" joined="2009-01-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Sponsor introductory remarks on measure. (CR S389)</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Environment and Public Works" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Alaska"/>
+		<term name="Polar regions"/>
+		<term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/14/2009--Introduced.<br/>Amends the National Wildlife Refuge System Administration Act of 1966 to designate a portion of the Arctic National Wildlife Refuge (ANWR) in Alaska as a component of the National Wilderness Preservation System under the Wilderness Act. 
+	</summary>
+</bill>

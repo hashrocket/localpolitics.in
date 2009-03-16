@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="722" updated="2009-03-07T11:12:49-05:00">
+	<status><introduced date="1233032400" datetime="2009-01-27"/></status>
+
+	<introduced date="1233032400" datetime="2009-01-27"/>
+	<titles>
+		<title type="short" as="introduced">ChiPACC Act of 2009</title>
+		<title type="official" as="introduced">To amend title XIX of the Social Security Act to provide an option of States to cover a children's program of all-inclusive coordinated care (ChiPACC) under the Medicaid Program.</title>
+	</titles>
+	<sponsor id="400283"/>
+	<cosponsors>
+		<cosponsor id="400155" joined="2009-03-04"/>
+		<cosponsor id="400439" joined="2009-01-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1233032400" datetime="2009-01-27"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Child health"/>
+		<term name="Comprehensive health care"/>
+		<term name="Medicaid"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

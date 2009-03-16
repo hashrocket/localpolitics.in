@@ -1,0 +1,35 @@
+<bill session="111" type="hr" number="167" updated="2009-03-07T13:26:32-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives supporting the goals and ideals of Campus Fire Safety Month, and for other purposes.</title>
+	</titles>
+	<sponsor id="400309"/>
+	<cosponsors>
+		<cosponsor id="400433" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the House Committee on Education and Labor.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="sr" number="40" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Educational facilities and institutions"/>
+		<term name="Fires"/>
+		<term name="Higher education"/>
+		<term name="Housing industry, construction, standards"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Supports the goals and ideals of Campus Fire Safety Month. Encourages administrators and municipalities across the country to: (1) provide educational programs to all students during September and throughout the school year; (2) evaluate the level of fire safety being provided in both on- and off-campus student housing; and (3) take the necessary steps to ensure fire-safe living environments through fire safety education, installation of fire suppression and detection systems, and the development and enforcement of applicable codes relating to fire safety.<br/>
+	</summary>
+</bill>

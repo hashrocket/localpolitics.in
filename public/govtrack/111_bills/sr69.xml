@@ -1,0 +1,44 @@
+<bill session="111" type="sr" number="69" updated="2009-03-10T12:01:36-04:00">
+	<status><vote date="1236571200" datetime="2009-03-09" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1236571200" datetime="2009-03-09"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating March 2009 as &quot;National Reading Month&quot; and authorizing the collection of nonmonetary book donations in Senate office buildings during the period beginning March 9, 2009 and ending March 27, 2009 from Senators and officers and employees of the Senate to assist elementary school students in the Washington, D.C. metropolitan area.</title>
+	</titles>
+	<sponsor id="300064"/>
+	<cosponsors>
+		<cosponsor id="300058" joined="2009-03-09"/>
+		<cosponsor id="300066" joined="2009-03-09"/>
+		<cosponsor id="300060" joined="2009-03-09"/>
+		<cosponsor id="300059" joined="2009-03-09"/>
+		<cosponsor id="300023" joined="2009-03-09"/>
+		<cosponsor id="300091" joined="2009-03-09"/>
+		<cosponsor id="300081" joined="2009-03-09"/>
+		<cosponsor id="300051" joined="2009-03-09"/>
+	</cosponsors>
+	<actions>
+		<vote date="1236571200" how="by Unanimous Consent" type="vote" datetime="2009-03-09" where="s" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S2874"/><reference label="text as passed Senate" ref="CR S2874"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Books and print media"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional officers and employees"/>
+		<term name="Literacy and language arts"/>
+		<term name="Members of Congress"/>
+		<term name="Senate"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="110" type="s" number="2371" updated="2009-01-09T16:47:49-05:00">
+	<status><enacted date="1198213200" datetime="2007-12-21" /></status>
+
+	<introduced date="1195102800" datetime="2007-11-15"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Higher Education Act of 1965 to make technical corrections.</title>
+	</titles>
+	<sponsor id="300059"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote date="1195102800" how="by Unanimous Consent" datetime="2007-11-15" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S14567-14568"/><reference label="text as passed Senate" ref="CR S14568"/></vote>
+		<action date="1195166760" datetime="2007-11-15T18:46:00-05:00"><text>Received in the House.</text></action>
+		<action date="1195102800" datetime="2007-11-15"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1195178460" datetime="2007-11-15T22:01:00-05:00"><text>Held at the desk.</text></action>
+		<action date="1196875800" datetime="2007-12-05T13:30:00-05:00"><text>Mrs. McCarthy (NY) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1196875920" datetime="2007-12-05T13:32:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H14184-14185"/></action>
+		<action date="1196875920" datetime="2007-12-05T13:32:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 2371.</text></action>
+		<vote date="1196876220" how="by voice vote" datetime="2007-12-05T13:37:00-05:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H14184-14185"/></vote>
+		<action date="1196830800" datetime="2007-12-05"><text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text></action>
+		<action date="1196917200" datetime="2007-12-06"><text>Senate concurred in House amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S14827"/><reference label="text as Senate agreed to House amendment" ref="CR S14827"/></action>
+		<action date="1196917200" datetime="2007-12-06"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1196917200" datetime="2007-12-06" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1197349200" datetime="2007-12-11" ><text>Presented to President.</text></topresident>
+		<signed date="1198213200" datetime="2007-12-21" ><text>Signed by President.</text></signed>
+		<enacted number="110-153" date="1198213200" datetime="2007-12-21" type="public" ><text>Became Public Law No: 110-153.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/21/2007--Public Law. (This measure has not been amended since it was passed by the House on December 5, 2007. The summary of that version is repeated here.) Makes technical changes to amendments the College Cost Reduction and Access Act (the Act) made to the Higher Education Act of 1965 (HEA). Specifies the untaxed income and benefits which the Act excluded from the list of untaxed income and benefits considered in federal student need analyses (thereby, specifically excluding them from such analyses). Provides that, for married borrowers who file separate tax returns, income-based loan repayments under the HEA shall be determined solely on the basis of the individual borrower's student loan debt and adjusted gross income. Amends the Act to make technical amendments with respect to Teacher Education Assistance for College and Higher Education (TEACH) Grants.<br/>
+	</summary>
+</bill>

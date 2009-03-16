@@ -1,0 +1,56 @@
+<bill session="111" type="h" number="756" updated="2009-03-07T11:16:46-05:00">
+	<status><introduced date="1233118800" datetime="2009-01-28"/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="short" as="introduced">National Pain Care Policy Act of 2009</title>
+		<title type="official" as="introduced">To amend the Public Health Service Act with respect to pain care.</title>
+	</titles>
+	<sponsor id="400062"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="2009-03-03"/>
+		<cosponsor id="412209" joined="2009-03-03"/>
+		<cosponsor id="400160" joined="2009-03-03"/>
+		<cosponsor id="400155" joined="2009-02-24"/>
+		<cosponsor id="400263" joined="2009-03-03"/>
+		<cosponsor id="400162" joined="2009-03-04"/>
+		<cosponsor id="400013" joined="2009-03-02"/>
+		<cosponsor id="412232" joined="2009-03-03"/>
+		<cosponsor id="400360" joined="2009-03-03"/>
+		<cosponsor id="400342" joined="2009-01-28"/>
+		<cosponsor id="400211" joined="2009-03-02"/>
+		<cosponsor id="412228" joined="2009-03-02"/>
+		<cosponsor id="400260" joined="2009-02-24"/>
+		<cosponsor id="400152" joined="2009-03-04"/>
+		<cosponsor id="400245" joined="2009-03-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Education programs funding"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Government information and archives"/>
+		<term name="Health care coverage and access"/>
+		<term name="Health information and medical records"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Medical education"/>
+		<term name="Medical research"/>
+		<term name="Neurological disorders"/>
+		<term name="Research administration and funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

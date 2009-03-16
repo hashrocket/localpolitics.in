@@ -1,0 +1,41 @@
+<bill session="110" type="s" number="3367" updated="2009-01-09T18:55:09-05:00">
+	<status><introduced date="1217390400" datetime="2008-07-30"/></status>
+
+	<introduced date="1217390400" datetime="2008-07-30"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to revise the timeframe for recognition of certain designations in certifying rural health clinics under the Medicare program.</title>
+	</titles>
+	<sponsor id="300090"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2008-07-30"/>
+		<cosponsor id="412251" joined="2008-07-30"/>
+		<cosponsor id="300093" joined="2008-09-22"/>
+		<cosponsor id="300051" joined="2008-09-17"/>
+		<cosponsor id="300023" joined="2008-07-30"/>
+		<cosponsor id="300083" joined="2008-09-15"/>
+		<cosponsor id="400357" joined="2008-07-30"/>
+		<cosponsor id="300026" joined="2008-09-08"/>
+		<cosponsor id="412244" joined="2008-07-30"/>
+		<cosponsor id="300058" joined="2008-09-25"/>
+		<cosponsor id="300100" joined="2008-07-30"/>
+	</cosponsors>
+	<actions>
+		<action date="1217390400" datetime="2008-07-30"><text>Sponsor introductory remarks on measure. (CR S7785)</text></action>
+		<action date="1217390400" datetime="2008-07-30"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S7786"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/30/2008--Introduced.<br/>Amends title XVIII (Medicare) of the Social Security Act to extend from three to four years the lookback timeframe for recognition of certain designations and certification with respect to rural health clinics under the Medicare program.<br/>
+	</summary>
+</bill>

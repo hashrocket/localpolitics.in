@@ -1,0 +1,42 @@
+<bill session="111" type="hj" number="22" updated="2009-03-07T09:35:58-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="official" as="introduced">Requiring the President to issue each year a proclamation recognizing the anniversary of the birth of President Abraham Lincoln, and for other purposes.</title>
+	</titles>
+	<sponsor id="412314"/>
+	<cosponsors>
+		<cosponsor id="400222" joined="2009-02-12"/>
+		<cosponsor id="400631" joined="2009-02-12"/>
+		<cosponsor id="412278" joined="2009-02-12"/>
+		<cosponsor id="400350" joined="2009-02-12"/>
+		<cosponsor id="400360" joined="2009-02-12"/>
+		<cosponsor id="400198" joined="2009-02-12"/>
+		<cosponsor id="400005" joined="2009-02-12"/>
+		<cosponsor id="400093" joined="2009-02-12"/>
+		<cosponsor id="400630" joined="2009-02-12"/>
+		<cosponsor id="400373" joined="2009-02-12"/>
+		<cosponsor id="412191" joined="2009-02-12"/>
+		<cosponsor id="400252" joined="2009-02-12"/>
+		<cosponsor id="412292" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="165" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

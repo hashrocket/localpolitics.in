@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="1350" updated="2009-01-09T10:42:50-05:00">
+	<status><vote date="1216311660" datetime="2008-07-17T13:21:00-04:00" where="h" result="pass" how="roll" roll="510"/></status>
+
+	<introduced date="1216180800" datetime="2008-07-16"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of motions to suspend the rules.</title>
+	</titles>
+	<sponsor id="412239"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1216239180" datetime="2008-07-16T17:13:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-761, by Mr. Welch (VT).</text></action>
+		<action date="1216239180" datetime="2008-07-16T17:13:00-04:00"><text>It shall be in order at any time on the legislative day of Thursday, July 17, 2008, for the Speaker to entertain motions that the House suspend the rules relating to a measure concerning the domestic production of oil and natural gas.</text></action>
+		<calendar date="1216239180" datetime="2008-07-16T17:13:00-04:00" ><text>Placed on the House Calendar, Calendar No. 250.</text></calendar>
+		<action date="1216305540" datetime="2008-07-17T11:39:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H6688-6697"/></action>
+		<action date="1216305540" datetime="2008-07-17T11:39:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 1350.</text></action>
+		<action date="1216311120" datetime="2008-07-17T13:12:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 228 - 188 (Roll no. 509).</text><reference label="consideration" ref="CR H6695-6696"/></action>
+		<vote date="1216311660" how="roll" roll="510" datetime="2008-07-17T13:21:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by recorded vote: 222 - 194 (Roll no. 510).</text><reference label="text" ref="CR H6688"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/16/2008--Introduced.<br/>Makes it in order at any time on July 17, 2008, for the Speaker of the House of Representatives to entertain motions that the House suspend the rules relating to a measure concerning the domestic production of oil and natural gas. 
+	</summary>
+</bill>

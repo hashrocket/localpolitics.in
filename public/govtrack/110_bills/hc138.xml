@@ -1,0 +1,97 @@
+<bill session="110" type="hc" number="138" updated="2009-01-08T15:44:21-05:00">
+	<status><vote date="1212530220" datetime="2008-06-03T18:57:00-04:00" where="h" result="pass" how="roll" roll="367"/></status>
+
+	<introduced date="1177992000" datetime="2007-05-01"/>
+	<titles>
+		<title type="official" as="introduced">Supporting National Men's Health Week.</title>
+	</titles>
+	<sponsor id="400090"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-06-05"/>
+		<cosponsor id="400266" joined="2007-05-14"/>
+		<cosponsor id="400268" joined="2007-06-05"/>
+		<cosponsor id="400331" joined="2007-06-06"/>
+		<cosponsor id="400244" joined="2007-06-11"/>
+		<cosponsor id="412236" joined="2007-06-15"/>
+		<cosponsor id="400219" joined="2007-06-20"/>
+		<cosponsor id="400199" joined="2007-06-11"/>
+		<cosponsor id="412186" joined="2007-07-11"/>
+		<cosponsor id="400093" joined="2007-06-11"/>
+		<cosponsor id="400196" joined="2007-06-05"/>
+		<cosponsor id="400048" joined="2007-06-11"/>
+		<cosponsor id="400145" joined="2007-06-11"/>
+		<cosponsor id="400201" joined="2007-06-11"/>
+		<cosponsor id="400177" joined="2007-06-05"/>
+		<cosponsor id="400257" joined="2007-05-16"/>
+		<cosponsor id="400308" joined="2007-06-15"/>
+		<cosponsor id="400099" joined="2007-06-20"/>
+		<cosponsor id="400260" joined="2007-06-20"/>
+		<cosponsor id="400057" joined="2007-07-18"/>
+		<cosponsor id="400132" joined="2007-06-11"/>
+		<cosponsor id="400616" joined="2007-06-11"/>
+		<cosponsor id="400139" joined="2007-06-05"/>
+		<cosponsor id="400263" joined="2007-05-14"/>
+		<cosponsor id="400204" joined="2007-07-17"/>
+		<cosponsor id="400286" joined="2007-07-19"/>
+		<cosponsor id="400254" joined="2007-05-07"/>
+		<cosponsor id="400080" joined="2007-06-11"/>
+		<cosponsor id="400042" joined="2007-06-20"/>
+		<cosponsor id="400240" joined="2007-05-14"/>
+		<cosponsor id="400237" joined="2007-06-11"/>
+		<cosponsor id="400264" joined="2007-07-19"/>
+		<cosponsor id="412221" joined="2007-07-17"/>
+		<cosponsor id="400184" joined="2007-06-11"/>
+		<cosponsor id="400183" joined="2007-05-16"/>
+		<cosponsor id="400152" joined="2007-06-15"/>
+		<cosponsor id="400282" joined="2007-07-17"/>
+		<cosponsor id="400055" joined="2007-05-02"/>
+		<cosponsor id="400653" joined="2007-07-11"/>
+		<cosponsor id="400216" joined="2007-07-30"/>
+		<cosponsor id="400130" joined="2007-07-11"/>
+		<cosponsor id="400380" joined="2007-06-20"/>
+		<cosponsor id="412232" joined="2007-06-15"/>
+		<cosponsor id="400030" joined="2007-06-15"/>
+		<cosponsor id="400217" joined="2007-06-05"/>
+		<cosponsor id="400333" joined="2007-06-15"/>
+		<cosponsor id="400179" joined="2007-06-15"/>
+		<cosponsor id="400366" joined="2007-06-15"/>
+		<cosponsor id="400295" joined="2007-06-05"/>
+		<cosponsor id="400359" joined="2007-06-11"/>
+		<cosponsor id="400271" joined="2007-06-05"/>
+		<cosponsor id="400096" joined="2007-07-17"/>
+		<cosponsor id="400645" joined="2007-07-30"/>
+		<cosponsor id="400007" joined="2007-08-03"/>
+		<cosponsor id="400430" joined="2007-07-18"/>
+		<cosponsor id="400153" joined="2007-07-11"/>
+		<cosponsor id="400309" joined="2007-06-11"/>
+		<cosponsor id="400402" joined="2007-06-05"/>
+		<cosponsor id="400074" joined="2008-02-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1177992000" datetime="2007-05-01"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1210824000" datetime="2008-05-15"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1210824000" datetime="2008-05-15" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1212513240" datetime="2008-06-03T14:14:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1212513240" datetime="2008-06-03T14:14:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4837-3838"/></action>
+		<action date="1212513240" datetime="2008-06-03T14:14:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 138.</text></action>
+		<action date="1212513780" datetime="2008-06-03T14:23:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1212528720" datetime="2008-06-03T18:32:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4856-4857"/></action>
+		<vote date="1212530220" how="roll" roll="367" datetime="2008-06-03T18:57:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 362 - 0 (Roll no. 367).</text><reference label="text" ref="CR H4837"/></vote>
+		<action date="1212552000" datetime="2008-06-04"><text>Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/3/2008--Passed House amended. Expresses support for the annual National Men's Health Week.<br/>
+	</summary>
+</bill>

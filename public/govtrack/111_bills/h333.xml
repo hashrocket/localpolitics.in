@@ -1,0 +1,89 @@
+<bill session="111" type="h" number="333" updated="2009-03-07T10:26:47-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">Disabled Veterans Tax Termination Act</title>
+		<title type="official" as="introduced">To amend title 10, United States Code, to permit retired members of the Armed Forces who have a service-connected disability rated less than 50 percent to receive concurrent payment of both retired pay and veterans' disability compensation, to eliminate the phase-in period for concurrent receipt, to extend eligibility for concurrent receipt to chapter 61 disability retirees with less than 20 years of service, and for other purposes.</title>
+	</titles>
+	<sponsor id="400254"/>
+	<cosponsors>
+		<cosponsor id="400627" joined="2009-01-08"/>
+		<cosponsor id="400041" joined="2009-01-09"/>
+		<cosponsor id="400133" joined="2009-01-16"/>
+		<cosponsor id="400017" joined="2009-01-13"/>
+		<cosponsor id="400331" joined="2009-01-27"/>
+		<cosponsor id="400199" joined="2009-03-02"/>
+		<cosponsor id="400337" joined="2009-01-09"/>
+		<cosponsor id="412223" joined="2009-01-08"/>
+		<cosponsor id="412193" joined="2009-01-08"/>
+		<cosponsor id="412199" joined="2009-01-08"/>
+		<cosponsor id="400001" joined="2009-01-27"/>
+		<cosponsor id="412267" joined="2009-03-02"/>
+		<cosponsor id="400155" joined="2009-01-13"/>
+		<cosponsor id="400270" joined="2009-03-02"/>
+		<cosponsor id="400259" joined="2009-03-02"/>
+		<cosponsor id="400399" joined="2009-01-08"/>
+		<cosponsor id="412307" joined="2009-02-12"/>
+		<cosponsor id="400140" joined="2009-03-04"/>
+		<cosponsor id="412240" joined="2009-03-02"/>
+		<cosponsor id="400400" joined="2009-01-22"/>
+		<cosponsor id="400282" joined="2009-01-08"/>
+		<cosponsor id="412224" joined="2009-02-13"/>
+		<cosponsor id="400251" joined="2009-02-03"/>
+		<cosponsor id="412234" joined="2009-01-13"/>
+		<cosponsor id="400645" joined="2009-02-13"/>
+		<cosponsor id="400299" joined="2009-02-12"/>
+		<cosponsor id="400118" joined="2009-01-13"/>
+		<cosponsor id="400628" joined="2009-01-08"/>
+		<cosponsor id="400638" joined="2009-03-02"/>
+		<cosponsor id="400443" joined="2009-01-13"/>
+		<cosponsor id="412215" joined="2009-03-04"/>
+		<cosponsor id="400266" joined="2009-01-08"/>
+		<cosponsor id="400379" joined="2009-01-16"/>
+		<cosponsor id="400361" joined="2009-01-08"/>
+		<cosponsor id="400043" joined="2009-01-08"/>
+		<cosponsor id="400185" joined="2009-03-04"/>
+		<cosponsor id="400047" joined="2009-01-08"/>
+		<cosponsor id="400274" joined="2009-01-16"/>
+		<cosponsor id="400097" joined="2009-02-23"/>
+		<cosponsor id="400651" joined="2009-01-08"/>
+		<cosponsor id="412299" joined="2009-01-09"/>
+		<cosponsor id="412219" joined="2009-01-08"/>
+		<cosponsor id="412301" joined="2009-01-27"/>
+		<cosponsor id="400184" joined="2009-01-22"/>
+		<cosponsor id="400152" joined="2009-01-27"/>
+		<cosponsor id="400363" joined="2009-01-27"/>
+		<cosponsor id="400030" joined="2009-01-08"/>
+		<cosponsor id="400316" joined="2009-01-16"/>
+		<cosponsor id="400100" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to House Armed Services</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to House Veterans' Affairs</text></action>
+		<action date="1231390800" datetime="2009-01-08"><committee name="House Veterans' Affairs"/><text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text></action>
+		<action date="1233896400" datetime="2009-02-06"><committee name="House Armed Services"/><text>Referred to the Subcommittee on Military Personnel.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Armed Services" subcommittee="Military Personnel" activity="Referral" />
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Disability Assistance and Memorial Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Disability and paralysis"/>
+		<term name="Military personnel and dependents"/>
+		<term name="Veterans' pensions and compensation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Disabled Veterans Tax Termination Act - Amends federal military retired pay provisions to: (1) permit veterans with a service-connected disability of less than 50% to concurrently receive both retired pay and disability compensation; (2) eliminate provisions requiring a phase in between January 1, 2004, and December 31, 2013, of concurrent receipt of retired pay and disability compensation; (3) eliminate the four-year phase-in of concurrent receipt of retired pay and disability compensation for disabled veterans determined to be individually unemployable; and (4) require a limited reduction in retired pay for combat-related disability retirees with less than 20 years of retirement-creditable service.<br/>
+	</summary>
+</bill>

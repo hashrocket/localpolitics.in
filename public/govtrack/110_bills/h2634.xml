@@ -1,0 +1,167 @@
+<bill session="110" type="h" number="2634" updated="2009-01-08T22:20:13-05:00">
+	<status><vote date="1208370540" datetime="2008-04-16T15:29:00-04:00" where="h" result="pass" how="roll" roll="199"/></status>
+
+	<introduced date="1181188800" datetime="2007-06-07"/>
+	<titles>
+		<title type="short" as="introduced">Jubilee Act for Responsible Lending and Expanded Debt Cancellation of 2007</title>
+		<title type="short" as="reported to house">Jubilee Act for Responsible Lending and Expanded Debt Cancellation of 2008</title>
+		<title type="short" as="passed house">Jubilee Act for Responsible Lending and Expanded Debt Cancellation of 2008</title>
+		<title type="official" as="introduced">To provide for greater responsibility in lending and expanded cancellation of debts owed to the United States and the international financial institutions by low-income countries, and for other purposes.</title>
+	</titles>
+	<sponsor id="400422"/>
+	<cosponsors>
+		<cosponsor id="400661" joined="2007-07-11"/>
+		<cosponsor id="400133" joined="2007-07-11"/>
+		<cosponsor id="400031" joined="2007-10-25"/>
+		<cosponsor id="400073" joined="2007-06-28"/>
+		<cosponsor id="400199" joined="2007-06-19"/>
+		<cosponsor id="400227" joined="2007-07-30"/>
+		<cosponsor id="400027" joined="2008-04-02"/>
+		<cosponsor id="400263" joined="2007-06-26"/>
+		<cosponsor id="400092" joined="2007-06-28"/>
+		<cosponsor id="400080" joined="2007-06-28"/>
+		<cosponsor id="400162" joined="2007-06-19"/>
+		<cosponsor id="412221" joined="2008-02-06"/>
+		<cosponsor id="400102" joined="2007-10-25"/>
+		<cosponsor id="400419" joined="2007-10-22"/>
+		<cosponsor id="400122" joined="2007-10-25"/>
+		<cosponsor id="400246" joined="2007-11-05"/>
+		<cosponsor id="400333" joined="2007-06-26"/>
+		<cosponsor id="400295" joined="2007-06-19"/>
+		<cosponsor id="400623" joined="2007-10-12"/>
+		<cosponsor id="400271" joined="2007-12-05"/>
+		<cosponsor id="400430" joined="2007-07-11"/>
+		<cosponsor id="400129" joined="2007-10-22"/>
+		<cosponsor id="400170" joined="2007-06-19"/>
+		<cosponsor id="400424" joined="2007-07-11"/>
+		<cosponsor id="412215" joined="2007-10-12"/>
+		<cosponsor id="400344" joined="2008-04-10"/>
+		<cosponsor id="400198" joined="2007-07-11"/>
+		<cosponsor id="400268" joined="2007-06-26"/>
+		<cosponsor id="400063" joined="2007-12-13"/>
+		<cosponsor id="400124" joined="2007-10-25"/>
+		<cosponsor id="400423" joined="2007-09-24"/>
+		<cosponsor id="412214" joined="2008-02-27"/>
+		<cosponsor id="400409" joined="2007-12-05"/>
+		<cosponsor id="412208" joined="2007-11-01"/>
+		<cosponsor id="400262" joined="2007-09-07"/>
+		<cosponsor id="400130" joined="2007-07-30"/>
+		<cosponsor id="400249" joined="2007-11-05"/>
+		<cosponsor id="400437" joined="2007-06-19"/>
+		<cosponsor id="400030" joined="2007-07-11"/>
+		<cosponsor id="400312" joined="2007-06-07"/>
+		<cosponsor id="400010" joined="2007-06-07"/>
+		<cosponsor id="400245" joined="2007-07-11"/>
+		<cosponsor id="400402" joined="2007-11-05"/>
+		<cosponsor id="412253" joined="2007-10-12"/>
+		<cosponsor id="400387" joined="2007-06-28"/>
+		<cosponsor id="400147" joined="2007-11-01"/>
+		<cosponsor id="400416" joined="2008-01-17"/>
+		<cosponsor id="400008" joined="2007-11-13"/>
+		<cosponsor id="400048" joined="2007-06-28"/>
+		<cosponsor id="412209" joined="2007-10-22"/>
+		<cosponsor id="400103" joined="2007-07-11"/>
+		<cosponsor id="400087" joined="2007-10-12"/>
+		<cosponsor id="400270" joined="2007-10-25"/>
+		<cosponsor id="400436" joined="2007-07-11"/>
+		<cosponsor id="400346" joined="2008-04-08"/>
+		<cosponsor id="400237" joined="2007-06-07"/>
+		<cosponsor id="400140" joined="2007-11-01"/>
+		<cosponsor id="400013" joined="2007-10-02"/>
+		<cosponsor id="400383" joined="2007-10-22"/>
+		<cosponsor id="400653" joined="2007-07-11"/>
+		<cosponsor id="400251" joined="2007-06-07"/>
+		<cosponsor id="400178" joined="2007-06-19"/>
+		<cosponsor id="400350" joined="2007-06-26"/>
+		<cosponsor id="400217" joined="2007-12-05"/>
+		<cosponsor id="400111" joined="2007-10-12"/>
+		<cosponsor id="400360" joined="2007-06-26"/>
+		<cosponsor id="400366" joined="2007-07-11"/>
+		<cosponsor id="412239" joined="2007-09-24"/>
+		<cosponsor id="400211" joined="2007-12-13"/>
+		<cosponsor id="400299" joined="2007-07-11"/>
+		<cosponsor id="400074" joined="2007-06-19"/>
+		<cosponsor id="400118" joined="2007-09-24"/>
+		<cosponsor id="400638" joined="2007-10-15"/>
+		<cosponsor id="400415" joined="2007-10-12"/>
+		<cosponsor id="412236" joined="2007-09-07"/>
+		<cosponsor id="400009" joined="2008-04-02"/>
+		<cosponsor id="400093" joined="2007-10-12"/>
+		<cosponsor id="400326" joined="2007-12-10"/>
+		<cosponsor id="400371" joined="2008-04-08"/>
+		<cosponsor id="412212" joined="2008-02-06"/>
+		<cosponsor id="400201" joined="2007-06-19"/>
+		<cosponsor id="400043" joined="2007-11-13"/>
+		<cosponsor id="400185" joined="2007-09-24"/>
+		<cosponsor id="400047" joined="2007-07-11"/>
+		<cosponsor id="412220" joined="2008-04-01"/>
+		<cosponsor id="400283" joined="2007-06-26"/>
+		<cosponsor id="400204" joined="2007-06-26"/>
+		<cosponsor id="400097" joined="2007-09-24"/>
+		<cosponsor id="400310" joined="2007-09-24"/>
+		<cosponsor id="400033" joined="2007-06-19"/>
+		<cosponsor id="400208" joined="2007-10-02"/>
+		<cosponsor id="400240" joined="2007-07-11"/>
+		<cosponsor id="400438" joined="2007-11-07"/>
+		<cosponsor id="400025" joined="2007-09-24"/>
+		<cosponsor id="400301" joined="2007-09-07"/>
+		<cosponsor id="400163" joined="2007-06-07"/>
+		<cosponsor id="400114" joined="2007-08-02"/>
+		<cosponsor id="400062" joined="2007-06-28"/>
+		<cosponsor id="412194" joined="2007-09-24"/>
+		<cosponsor id="400100" joined="2007-10-22"/>
+		<cosponsor id="400639" joined="2007-06-07"/>
+		<cosponsor id="400186" joined="2007-10-22"/>
+		<cosponsor id="400278" joined="2007-07-11"/>
+		<cosponsor id="400067" joined="2007-06-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1181188800" datetime="2007-06-07"><text>Sponsor introductory remarks on measure. (CR E1244-1245)</text></action>
+		<action date="1181188800" datetime="2007-06-07"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1184644800" datetime="2007-07-17"><text>Referred to the Subcommittee on Domestic and International Monetary Policy, Trade, and Technology.</text></action>
+		<action date="1194498000" datetime="2007-11-08"><text>Committee Hearings Held.</text></action>
+		<action date="1194498000" datetime="2007-11-08"><text>Subcommittee on Domestic and International Monetary Policy, Trade, and Technology Discharged.</text></action>
+		<action date="1207195200" datetime="2008-04-03"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1207195200" datetime="2008-04-03" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1207849020" datetime="2008-04-10T14:37:00-04:00"><text>Reported (Amended) by the Committee on Financial Services. H. Rept. 110-575.</text></action>
+		<calendar number="354" date="1207849020" datetime="2008-04-10T14:37:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 354.</text></calendar>
+		<action date="1208211060" datetime="2008-04-14T19:11:00-04:00"><text>Rules Committee Resolution H. Res. 1103 Reported to House. Rule provides for consideration of H.R. 2634 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Financial Services now printed in the bill.</text></action>
+		<action date="1208402760" datetime="2008-04-16T12:26:00-04:00"><text>Rule H. Res. 1103 passed House.</text></action>
+		<action date="1208403660" datetime="2008-04-16T12:41:00-04:00"><text>Considered under the provisions of rule H. Res. 1103.</text><reference label="consideration" ref="CR H2376-2394"/></action>
+		<action date="1208403660" datetime="2008-04-16T12:41:00-04:00"><text>Rule provides for consideration of H.R. 2634 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Financial Services now printed in the bill.</text></action>
+		<action date="1208403720" datetime="2008-04-16T12:42:00-04:00"><text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1103 and Rule XVIII.</text></action>
+		<action date="1208403720" datetime="2008-04-16T12:42:00-04:00"><text>The Speaker designated the Honorable Ed Pastor to act as Chairman of the Committee.</text></action>
+		<action date="1208403720" datetime="2008-04-16T12:42:00-04:00"><text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2634.</text></action>
+		<action date="1208364660" datetime="2008-04-16T13:51:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 1103, the Committee of the Whole proceeded with 10 minutes of debate on the Frank (MA) amendment.</text></action>
+		<action date="1208364960" datetime="2008-04-16T13:56:00-04:00"><text>POSTPONED PROCEEDINGS - At the end of debate on the Frank (MA) amendment, the Chair put the question on adoption of the amendment, and by voice vote, announced that the ayes had prevailed. Mr. Frank (MA) demanded a recorded vote and the Chair postponed further proceedings on the question until later in the legislative day.</text></action>
+		<action date="1208364960" datetime="2008-04-16T13:56:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 1109, the Committee of the Whole proceeded with ten minutes of debate on the Rohrabacher amendment.</text></action>
+		<action date="1208365320" datetime="2008-04-16T14:02:00-04:00"><text>POSTPONED PROCEEDINGS - At the end of debate on the Rohrabacher amendment, the Chair put the question on adoption of the amendment, and by voice vote, announced that the ayes had prevailed. Mr. Rohrabacher demanded a recorded vote and the Chair postponed further proceedings on the question until later in the legislative day.</text></action>
+		<action date="1208365380" datetime="2008-04-16T14:03:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 1103, the Committee of the Whole proceeded with ten minutes of debate on the Hastings (FL) amendment.</text></action>
+		<action date="1208367360" datetime="2008-04-16T14:36:00-04:00"><text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of the Rohrabacher amendment, which had been debated earlier and on which further proceedings had been postponed.</text></action>
+		<action date="1208367900" datetime="2008-04-16T14:45:00-04:00"><text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2634.</text></action>
+		<action date="1208367900" datetime="2008-04-16T14:45:00-04:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H2391"/></action>
+		<action date="1208367960" datetime="2008-04-16T14:46:00-04:00"><text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text><reference label="text" ref="CR H2385-2387"/></action>
+		<action date="1208368020" datetime="2008-04-16T14:47:00-04:00"><text>Mr. Diaz-Balart, M. moved to recommit with instructions to Financial Services.</text><reference label="consideration" ref="CR H2391-2393"/><reference label="text" ref="CR H2391"/></action>
+		<action date="1208368020" datetime="2008-04-16T14:47:00-04:00"><text>DEBATE - The House proceeded with ten minutes of debate on the Mario Diaz-Balart motion to recommit with instructions. The instructions contained in the motion seek to add language to the bill that excludes any country whose government has business interests with Iran.</text></action>
+		<action date="1208368620" datetime="2008-04-16T14:57:00-04:00"><text>The previous question on the motion to recommit with instructions was ordered without objection.</text><reference label="consideration" ref="CR H2392"/></action>
+		<action date="1208370060" datetime="2008-04-16T15:21:00-04:00"><text>On motion to recommit with instructions Agreed to by the Yeas and Nays: 291 - 130, 1 Present (Roll no. 198).</text></action>
+		<vote date="1208370540" how="roll" roll="199" datetime="2008-04-16T15:29:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed by recorded vote: 285 - 132 (Roll no. 199).</text></vote>
+		<action date="1208958360" datetime="2008-04-23T10:46:00-04:00"><text>CLERK TO CORRECT AUTHORITY - Mr. Bachus asked unanimous consent that in the engrossment of H.R. 2634, the Clerk be directed to execute the second instruction in the amendment conveyed by the motion to recommit as though it read &amp;quot;all that follows on that line&amp;quot; rather than &amp;quot;all that follows&amp;quot;. Agreed to without objection.</text></action>
+		<action date="1209009600" datetime="2008-04-24"><text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/16/2008--Passed House amended. Jubilee Act for Responsible Lending and Expanded Debt Cancellation of 2008 - (Sec. 3) Amends the International Financial Institutions Act to direct the Secretary of the Treasury, within the Paris Club of Official Creditors, the International Monetary Fund (IMF), the International Bank for Reconstruction and Development (World Bank), and other defined international financial institutions, to negotiate an agreement to accomplish the following: (1) debt cancellation of eligible low-income countries to such institutions (without undermining their financial integrity) and to the United States; (2) ensuring that the provision of debt cancellation to eligible low-income countries is not followed by a reduction in the provision of any other development assistance; and (3) encouraging the government of each eligible low-income country to allocate at least 20% of its national budget towards poverty-alleviation programs. Directs the Secretary to commence immediate efforts, within the Paris Club of Official Creditors, the IMF, the World Bank, and the other defined international financial institutions to ensure that each of the institutions continues to make efforts to promote greater transparency regarding the activities of the institution. Directs the Secretary to commence immediate efforts to establish a framework for responsible lending that will ensure that all creditors contribute to preserving the gains of debt relief for low-income debtor countries. Directs the Government Accountability Office (GAO) to: (1) audit the debt portfolios of previous governments in countries such as South Africa and the Democratic Republic of Congo where there is significant evidence that onerous or illegal loans were made to the government and report to the appropriate congressional committees; and (2) report to Congress on the availability of the ongoing operations, procedures, and accounts of the IMF, the World Bank, and the other international financial institutions for low-income country debt cancellation. Directs the Secretary to make available on the Department of the Treasury website the full record of the remarks of the United States Executive Director respecting debt cancellation or reduction owed to respective institutions. Directs the President to report annually to the appropriate congressional committees on the progress made in accomplishing the purposes of this section, including a list of the countries that have received debt cancellation and countries whose request for debt cancellation has been denied or is under consideration. Defines &quot;eligible low-income country.&quot; (Sec. 4) Directs the Secretary to begin immediate efforts, within the Paris Club of Official Creditors, the IMF, the World Bank, and the other defined international financial institutions to ensure that debt cancellation to eligible low-income governments is subject only to specified conditions, including that a country: (1) take steps to apply the financial benefits of debt relief to combat poverty and to redress environmental degradation; (2) make transparent policy and budget decisions; (3) adopt an integrated development strategy to support poverty reduction through economic growth; and (4) broaden public participation. Directs the President to report annually to the appropriate congressional committees respecting such activities. (Sec. 5) Expresses the sense of Congress that to further debt reduction goals for low-income countries, in addition to the efforts under this Act, the United States should pay off outstanding arrearages of $595.8 million to the International Development Association and regional development banks, and become current on all debt reduction efforts, including those carried out by the International Development Association and under the Enhanced Heavily Indebted Poor Countries Initiative and the Multilateral Debt Relief Initiative. (Sec. 6) Expresses the sense of Congress that due to the current humanitarian and political instability in Haiti, including food shortages and political turmoil, the Secretary should use the Secretary's influence to expedite cancellation of Haiti's debts to all international financial institutions, or if such debt cancellation cannot be provided, to urge the institutions to suspend Haiti's debt service payments.<br/>
+	</summary>
+</bill>

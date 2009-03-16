@@ -1,0 +1,35 @@
+<bill session="110" type="s" number="2011" updated="2009-01-09T16:00:58-05:00">
+	<status><vote date="1186113600" datetime="2007-08-03" where="s" result="fail" how="roll" roll="310"/></status>
+
+	<introduced date="1186113600" datetime="2007-08-03"/>
+	<titles>
+		<title type="official" as="introduced">A bill entitled &quot;The Protect America Act of 2007&quot;.</title>
+	</titles>
+	<sponsor id="300066"/>
+	<cosponsors>
+		<cosponsor id="300084" joined="2007-08-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1186113600" datetime="2007-08-03"><text>Introduced in the Senate, read twice.</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S10861-10872"/></action>
+		<vote date="1186113600" how="roll" roll="310" datetime="2007-08-03" where="s" type="vote" result="fail" ><text>Failed of passage in Senate by Yea-Nay Vote. 43 - 45. Record Vote Number: 310.</text></vote>
+		<action date="1186113600" datetime="2007-08-03"><text>Pursuant to the order of August 3, 2007, having failed to achieve the required 60 votes in the affirmative, the measure was ordered to be placed on the calendar.</text></action>
+		<calendar under="General Orders" number="332" date="1186113600" datetime="2007-08-03" calendar="Senate Legislative" ><text>Ordered placed on Senate Legislative Calendar under General Orders. Calendar No. 332.</text></calendar>
+		<action date="1190692800" datetime="2007-09-25"><text>Committee on the Judiciary. Hearings held.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/3/2007--Introduced.<br/>Protect America Act of 2007 - Amends the Foreign Intelligence Surveillance Act of 1978 (FISA) to provide that a court order is not required for the electronic surveillance of communication between persons who are not located within the United States for collecting foreign intelligence information, without respect to whether the communication passes through the United States or the surveillance device is located within the United States. Authorizes the Attorney General (AG) to apply to the Foreign Intelligence Surveillance Court (Court) for an order, or the extension of an order, authorizing for up to one year the electronic surveillance for foreign intelligence purposes of persons outside the United States. Allows the Director of National Intelligence (DNI) and the AG to authorize the immediate electronic surveillance (without prior Court order) of persons reasonably believed to be outside the United States if: (1) the DNI and AG determine that it is in the U.S. national security interest to begin such surveillance; and (2) the AG submits to the Court, within five days after the commencement of the surveillance, a certification of and application for such surveillance. Authorizes the AG, with respect to an authorized surveillance, to issue a directive to a communications service provider, custodian, or other person to: (1) furnish all appropriate information, facilities, and assistance necessary to accomplish the surveillance; and (2) maintain under security procedures any surveillance records. Directs the Inspector General to report to the congressional intelligence and judiciary committees on surveillance conducted during the previous four-month period.<br/>
+	</summary>
+</bill>

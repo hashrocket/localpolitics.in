@@ -1,0 +1,48 @@
+<bill session="110" type="h" number="6531" updated="2009-01-09T06:19:51-05:00">
+	<status><enacted date="1224129600" datetime="2008-10-16" /></status>
+
+	<introduced date="1216267200" datetime="2008-07-17"/>
+	<titles>
+		<title type="short" as="introduced">Vessel Hull Design Protection Amendments of 2008</title>
+		<title type="short" as="passed house">Vessel Hull Design Protection Amendments of 2008</title>
+		<title type="short" as="passed senate">Vessel Hull Design Protection Amendments of 2008</title>
+		<title type="short" as="enacted">Vessel Hull Design Protection Amendments of 2008</title>
+		<title type="official" as="introduced">To amend chapter 13 of title 17, United States Code (relating to the vessel hull design protection), to clarify the definitions of a hull and a deck.</title>
+	</titles>
+	<sponsor id="400025"/>
+	<cosponsors>
+		<cosponsor id="400381" joined="2008-07-17"/>
+		<cosponsor id="400080" joined="2008-07-17"/>
+		<cosponsor id="400076" joined="2008-07-17"/>
+	</cosponsors>
+	<actions>
+		<action date="1216267200" datetime="2008-07-17"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1216746660" datetime="2008-07-22T14:11:00-04:00"><text>Mr. Scott (VA) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1216746660" datetime="2008-07-22T14:11:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6740-6741"/></action>
+		<action date="1216746660" datetime="2008-07-22T14:11:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6531.</text></action>
+		<vote date="1216747320" how="by voice vote" datetime="2008-07-22T14:22:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H6740"/></vote>
+		<action date="1216785600" datetime="2008-07-23"><text>Received in the Senate.</text></action>
+		<calendar under="General Orders" number="931" date="1217563200" datetime="2008-08-01" calendar="Senate Legislative" ><text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 931.</text></calendar>
+		<vote date="1222747200" how="by Unanimous Consent" datetime="2008-09-30" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10186"/></vote>
+		<topresident date="1222747200" datetime="2008-09-30" ><text>Cleared for White House.</text></topresident>
+		<action date="1222833600" datetime="2008-10-01"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1223352000" datetime="2008-10-07" ><text>Presented to President.</text></topresident>
+		<signed date="1224129600" datetime="2008-10-16" ><text>Signed by President.</text></signed>
+		<enacted number="110-434" date="1224129600" datetime="2008-10-16" type="public" ><text>Became Public Law No: 110-434.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/22/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Vessel Hull Design Protection Amendments of 2008 - Amends federal copyright law to specify that the design of a vessel's hull, deck, or combination of a hull and deck, including a plug or mold are protected (currently, only the design of the vessel hull is protected, including a plug or mold). Requires that Department of Defense (DOD) rights in a registered design, including the right to build to such a design, be determined solely by provisions of federal Armed Forces law relating to rights in technical data or by the instrument under which the design was developed for the U.S. government. Redefines &quot;useful article&quot; and &quot;hull.&quot; Defines &quot;deck&quot; as the horizontal surface of the vessel that covers the hull, including exterior cabin and cockpit surfaces, and exclusive of masts, sails, yards, rigging, hardware, fixtures, and other attachments.<br/>
+	</summary>
+</bill>

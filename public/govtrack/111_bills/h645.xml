@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="645" updated="2009-03-07T11:03:28-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">National Emergency Centers Establishment Act</title>
+		<title type="official" as="introduced">To direct the Secretary of Homeland Security to establish national emergency centers on military installations.</title>
+	</titles>
+	<sponsor id="400170"/>
+	<cosponsors>
+		<cosponsor id="400147" joined="2009-02-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Sponsor introductory remarks on measure. (CR E122-123)</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to House Armed Services</text></action>
+		<action date="1232686800" datetime="2009-01-23"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1233896400" datetime="2009-02-06"><committee name="House Armed Services"/><text>Referred to the Subcommittee on Terrorism, Unconventional Threats and Capabilities.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings and Emergency Management" activity="Referral" />
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Armed Services" subcommittee="Terrorism, Unconventional Threats and Capabilities" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Emergency management"/>
+		<term name="Disaster relief and insurance"/>
+		<term name="Emergency medical services"/>
+		<term name="Emergency planning and evacuation"/>
+		<term name="Homelessness and emergency shelter"/>
+		<term name="Military facilities and property"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2009--Introduced.<br/>National Emergency Centers Establishment Act - Directs the Secretary of Homeland Security to establish at least six national emergency centers on military installations to use existing infrastructure to provide: (1) temporary housing, medical, and humanitarian assistance to individuals and families dislocated due to an emergency or major disaster; and (2) centralized locations for the training of first responders and the coordination of preparedness, response, and recovery efforts. Lists minimum requirements for sites for such centers, including that they be capable of: (1) meeting for an extended period the housing, health, transportation, education, public works, humanitarian, and other transition needs of a large number of individuals affected; (2) being scaled up or down to accommodate major disaster preparedness and response drills, operations, and procedures; (3) housing existing permanent structures necessary to meet training and first responders coordination requirements during non-disaster periods; and (4) hosting the infrastructure necessary to rapidly adjust to temporary housing, medical, and humanitarian assistance needs.<br/>Sets forth center location requirements, including requiring the Secretary to designate closed military installations as sites whenever possible and to designate portions of existing military installations as centers otherwise.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="423" updated="2009-03-07T10:37:28-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Samuel B. Moody Bataan Death March Compensation Act</title>
+		<title type="official" as="introduced">To provide compensation for certain World War II veterans who survived the Bataan Death March and were held as prisoners of war by the Japanese.</title>
+	</titles>
+	<sponsor id="400273"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1233896400" datetime="2009-02-06"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Armed Services" subcommittee="Military Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Asia"/>
+		<term name="Conflicts and wars"/>
+		<term name="Japan"/>
+		<term name="Military history"/>
+		<term name="Military personnel and dependents"/>
+		<term name="Philippines"/>
+		<term name="Veterans' pensions and compensation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Samuel B. Moody Bataan Death March Compensation Act - Directs the Secretary of the military department concerned to pay certain compensation to individuals (or their survivors) who, as members of the Armed Forces during World War II: (1) were captured on the peninsula of Bataan or the island of Corregidor in the Philippines by Japanese forces; and (2) participated in and survived the Bataan Death March. Allows a survivor payment to be made to the nearest surviving relative of such individual.<br/>
+	</summary>
+</bill>

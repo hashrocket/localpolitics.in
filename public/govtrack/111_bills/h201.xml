@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="201" updated="2009-03-07T10:11:25-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Deficit Accountability Act of 2009</title>
+		<title type="official" as="introduced">To provide that no automatic pay adjustment for Members of Congress shall be made in the year following a fiscal year in which there is a Federal budget deficit.</title>
+	</titles>
+	<sponsor id="400388"/>
+	<cosponsors>
+		<cosponsor id="400076" joined="2009-01-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House House Administration</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Oversight and Government Reform</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Budget deficits and national debt"/>
+		<term name="Inflation and prices"/>
+		<term name="Members of Congress"/>
+		<term name="Wages and earnings"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Deficit Accountability Act of 2009 - Amends the Legislative Reorganization Act of 1946 to provide that pay for Members of Congress may not be increased by any adjustment scheduled to take effect in a calendar year if the Office of Management and Budget (OMB) determines there was a deficit in the preceding fiscal year.<br/>
+	</summary>
+</bill>

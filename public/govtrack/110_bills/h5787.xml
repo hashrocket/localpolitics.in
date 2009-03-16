@@ -1,0 +1,55 @@
+<bill session="110" type="h" number="5787" updated="2009-01-09T04:51:03-05:00">
+	<status><vote date="1211398260" datetime="2008-05-21T16:31:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1208145600" datetime="2008-04-14"/>
+	<titles>
+		<title type="short" as="introduced">Federal Real Property Disposal Enhancement Act of 2008</title>
+		<title type="short" as="reported to house">Federal Real Property Disposal Enhancement Act of 2008</title>
+		<title type="short" as="passed house">Federal Real Property Disposal Enhancement Act of 2008</title>
+		<title type="official" as="introduced">To amend title 40, United States Code, to enhance authorities with regard to real property that has yet to be reported excess, and for other purposes.</title>
+	</titles>
+	<sponsor id="400282"/>
+	<cosponsors>
+		<cosponsor id="400177" joined="2008-04-23"/>
+		<cosponsor id="412210" joined="2008-04-22"/>
+		<cosponsor id="400116" joined="2008-04-14"/>
+		<cosponsor id="400409" joined="2008-04-22"/>
+		<cosponsor id="400370" joined="2008-04-22"/>
+		<cosponsor id="400055" joined="2008-04-22"/>
+		<cosponsor id="400044" joined="2008-04-23"/>
+		<cosponsor id="400395" joined="2008-04-29"/>
+		<cosponsor id="400166" joined="2008-04-23"/>
+		<cosponsor id="400425" joined="2008-04-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1208145600" datetime="2008-04-14"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1208232000" datetime="2008-04-15"><text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text></action>
+		<action date="1209614400" datetime="2008-05-01"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1209614400" datetime="2008-05-01" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1209614400" datetime="2008-05-01"><text>Subcommittee on Government Management, Organization, and Procurement Discharged.</text></action>
+		<action date="1210884120" datetime="2008-05-15T17:42:00-04:00"><text>Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-651.</text></action>
+		<calendar number="412" date="1210884180" datetime="2008-05-15T17:43:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 412.</text></calendar>
+		<action date="1211217360" datetime="2008-05-19T14:16:00-04:00"><text>Ms. Watson moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1211217360" datetime="2008-05-19T14:16:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4091-4094"/></action>
+		<action date="1211217360" datetime="2008-05-19T14:16:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5787.</text></action>
+		<action date="1211217840" datetime="2008-05-19T14:24:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Issa objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1211398260" datetime="2008-05-21T16:31:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4402"/></action>
+		<vote date="1211398260" how="by voice vote" datetime="2008-05-21T16:31:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 5/19/2008 H4091-4092)</text></vote>
+		<action date="1211428800" datetime="2008-05-22"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/21/2008--Passed House amended. Federal Real Property Disposal Enhancement Act of 2008 - Requires the Administrator of the General Services Administration (GSA) to issue guidance for federal agency real property plans, including recommendations on how to identify and dispose of excess properties, evaluate disposal costs and benefits, and prioritize disposal decisions based on agency missions and anticipated future need for holdings.<br/>Requires the Administrator to: (1) report to specified congressional committees annually for five years on agency efforts to reduce their real property assets; and (2) assist agencies in the identification and disposal of excess real property.<br/>Requires agencies to: (1) maintain adequate inventory controls and accountability systems for property under their control; (2) continuously survey such property to identify excess property; (3) promptly report excess property to the Administrator; (4) perform the care and handling of excess property; and (5) transfer or dispose of excess property as promptly as possible.<br/>Requires each agency to: (1) develop and implement a real property plan to identify and declare excess property; (2) identify and categorize all real property owned, leased, or managed by the agency; (3) establish goals and incentives to reduce excess real property in its inventory; and (4) use authorities to identify and prepare real property to be reported as excess.<br/>Requires each agency to: (1) reassign to another activity within the agency property that is no longer required for the purposes for which it was purchased; (2) transfer excess property to other federal agencies and to specified organizations; and (3) obtain excess properties from other agencies to meet mission needs before acquiring nonfederal property.<br/>(Sec. 4) Includes among the amounts the Administrator is authorized to obligate from proceeds from the disposition of surplus real and related personal property: (1) amounts to pay the costs related to identifying and preparing properties to be reported excess by another agency; and (2) amounts to pay the costs associated with the reversion, custody, and disposal of reverted real property.<br/>Requires the Administrator to: (1) take control of certain property for which reversion is recommended or determined to be necessary and to sell it at fair market value; and (2) make such property available to state and local governments and certain nonprofit entities prior to sale.<br/>(Sec. 6) Requires: (1) excess or surplus property proceeds to be deposited into the appropriate agency's real property account (currently, into the Treasury as miscellaneous receipts); and (2) the funds from such deposits to be expended only as authorized in annual appropriations Acts for activities related to federal real property asset management and disposal.<br/>
+	</summary>
+</bill>

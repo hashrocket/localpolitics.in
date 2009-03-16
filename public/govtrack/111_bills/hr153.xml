@@ -1,0 +1,64 @@
+<bill session="111" type="hr" number="153" updated="2009-03-07T13:24:20-05:00">
+	<status><vote date="1236293460" datetime="2009-03-05T18:51:00-05:00" where="h" result="pass" how="roll" roll="106"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="official" as="introduced">Commending the University of Southern California Trojan football team for its victory in the 2009 Rose Bowl.</title>
+	</titles>
+	<sponsor id="400423"/>
+	<cosponsors>
+		<cosponsor id="412253" joined="2009-02-10"/>
+		<cosponsor id="400290" joined="2009-02-10"/>
+		<cosponsor id="412218" joined="2009-02-11"/>
+		<cosponsor id="400008" joined="2009-02-10"/>
+		<cosponsor id="400227" joined="2009-02-10"/>
+		<cosponsor id="400616" joined="2009-02-10"/>
+		<cosponsor id="400166" joined="2009-02-11"/>
+		<cosponsor id="412221" joined="2009-02-10"/>
+		<cosponsor id="400422" joined="2009-02-10"/>
+		<cosponsor id="400178" joined="2009-02-10"/>
+		<cosponsor id="412327" joined="2009-02-10"/>
+		<cosponsor id="400217" joined="2009-02-10"/>
+		<cosponsor id="400645" joined="2009-02-10"/>
+		<cosponsor id="400021" joined="2009-02-10"/>
+		<cosponsor id="400129" joined="2009-02-10"/>
+		<cosponsor id="400170" joined="2009-02-10"/>
+		<cosponsor id="400211" joined="2009-02-10"/>
+		<cosponsor id="400424" joined="2009-02-10"/>
+		<cosponsor id="400196" joined="2009-02-10"/>
+		<cosponsor id="400204" joined="2009-02-10"/>
+		<cosponsor id="400097" joined="2009-02-10"/>
+		<cosponsor id="400409" joined="2009-02-10"/>
+		<cosponsor id="400240" joined="2009-02-10"/>
+		<cosponsor id="400384" joined="2009-02-10"/>
+		<cosponsor id="400363" joined="2009-02-10"/>
+		<cosponsor id="400262" joined="2009-02-10"/>
+		<cosponsor id="400030" joined="2009-02-10"/>
+		<cosponsor id="412011" joined="2009-03-03"/>
+		<cosponsor id="400278" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1236142380" datetime="2009-03-03T12:53:00-05:00"><text>Mr. Polis (CO) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1236142440" datetime="2009-03-03T12:54:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2897-2898"/></action>
+		<action date="1236142440" datetime="2009-03-03T12:54:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 153.</text></action>
+		<action date="1236099840" datetime="2009-03-03T13:04:00-05:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Polis (CO) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1236292920" datetime="2009-03-05T18:42:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3025-3026"/></action>
+		<vote date="1236293460" how="roll" roll="106" datetime="2009-03-05T18:51:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 362 - 15, 4 Present (Roll no. 106). (text: CR 3/03/2009 H2897)</text></vote>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Introduced.<br/>Commends the University of Southern California (USC) Trojan football team and USC President Steven B. Sample for USC's victory in the 2009 Rose Bowl. Applauds Coach Pete Carroll for his leadership on the football field and in the community.<br/>
+	</summary>
+</bill>

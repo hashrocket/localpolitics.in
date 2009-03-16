@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="473" updated="2009-03-07T10:43:15-05:00">
+	<status><introduced date="1231822800" datetime="2009-01-13"/></status>
+
+	<introduced date="1231822800" datetime="2009-01-13"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend eligibility under the new markets tax credit for community development entities created or organized in American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, Puerto Rico, and the Virgin Islands.</title>
+	</titles>
+	<sponsor id="400041"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="2009-01-13"/>
+		<cosponsor id="400073" joined="2009-01-13"/>
+		<cosponsor id="412312" joined="2009-01-13"/>
+		<cosponsor id="412306" joined="2009-01-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1231822800" datetime="2009-01-13"><text>Sponsor introductory remarks on measure. (CR E76)</text></action>
+		<action date="1231822800" datetime="2009-01-13"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="American Samoa"/>
+		<term name="Caribbean area"/>
+		<term name="Guam"/>
+		<term name="Income tax credits"/>
+		<term name="Northern Mariana Islands"/>
+		<term name="Puerto Rico"/>
+		<term name="Rural conditions and development"/>
+		<term name="Urban and suburban affairs and development"/>
+		<term name="Virgin Islands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/13/2009--Introduced.<br/>Amends the Internal Revenue Code to qualify corporations and partnerships created or organized as community development entities in American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, Puerto Rico, or the Virgin Islands for the new markets tax credit.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="111" type="s" number="235" updated="2009-03-07T14:01:16-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="short" as="introduced">Credit Cardholders' Bill of Rights Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Truth in Lending Act to establish fair and transparent practices relating to the extension of credit under an open end consumer credit plan, and for other purposes.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="400412" joined="2009-01-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Sponsor introductory remarks on measure. (CR S389-390)</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="627" />
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Banking and financial institutions regulation"/>
+		<term name="Consumer credit"/>
+		<term name="Federal Reserve System"/>
+		<term name="Government information and archives"/>
+		<term name="Interest and interest rates"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="110" type="s" number="2478" updated="2009-01-09T17:01:17-05:00">
+	<status><enacted date="1205208000" datetime="2008-03-11" /></status>
+
+	<introduced date="1197522000" datetime="2007-12-13"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the facility of the United States Postal Service located at 59 Colby Corner in East Hampstead, New Hampshire, as the &quot;Captain Jonathan D. Grassbaugh Post Office&quot;.</title>
+	</titles>
+	<sponsor id="300095"/>
+	<cosponsors>
+		<cosponsor id="400050" joined="2007-12-19"/>
+		<cosponsor id="300049" joined="2007-12-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1197522000" datetime="2007-12-13"><text>Sponsor introductory remarks on measure. (CR S15468-15469)</text></action>
+		<action date="1197522000" datetime="2007-12-13"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1198040400" datetime="2007-12-19"><text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S16055"/></action>
+		<vote date="1198040400" how="by Unanimous Consent" datetime="2007-12-19" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="text" ref="CR S16055"/></vote>
+		<action date="1198126800" datetime="2007-12-20"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1198196340" datetime="2007-12-20T20:19:00-05:00"><text>Received in the House.</text></action>
+		<action date="1198196400" datetime="2007-12-20T20:20:00-05:00"><text>Held at the desk.</text></action>
+		<action date="1200373200" datetime="2008-01-15"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1201582800" datetime="2008-01-29"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1201582800" datetime="2008-01-29" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1204208280" datetime="2008-02-28T10:18:00-05:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1204208280" datetime="2008-02-28T10:18:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1159-1160"/></action>
+		<action date="1204208280" datetime="2008-02-28T10:18:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 2478.</text></action>
+		<vote date="1204208880" how="by voice vote" datetime="2008-02-28T10:28:00-05:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H1159"/></vote>
+		<topresident date="1204174800" datetime="2008-02-28" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1204606800" datetime="2008-03-04" ><text>Presented to President.</text></topresident>
+		<signed date="1205208000" datetime="2008-03-11" ><text>Signed by President.</text></signed>
+		<enacted number="110-194" date="1205208000" datetime="2008-03-11" type="public" ><text>Became Public Law No: 110-194.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 59 Colby Corner in East Hampstead, New Hampshire, as the &quot;Captain Jonathan D. Grassbaugh Post Office.&quot; 
+	</summary>
+</bill>

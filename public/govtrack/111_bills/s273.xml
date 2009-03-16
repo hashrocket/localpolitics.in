@@ -1,0 +1,38 @@
+<bill session="111" type="s" number="273" updated="2009-03-07T14:06:20-05:00">
+	<status><vote date="1231995600" datetime="2009-01-15" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="official" as="introduced">A bill to require the designation of the federally occupied building located at McKinley Avenue and Third Street, S.W., Canton, Ohio, as the &quot;Ralph Regula Federal Office Building and Courthouse&quot;.</title>
+	</titles>
+	<sponsor id="400050"/>
+	<cosponsors>
+		<cosponsor id="300098" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<vote date="1231995600" how="by Unanimous Consent" datetime="2009-01-15" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S630"/><reference label="text as passed Senate" ref="CR S630"/></vote>
+		<action date="1232082000" datetime="2009-01-16"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1232136360" datetime="2009-01-16T16:06:00-05:00"><text>Received in the House.</text></action>
+		<action date="1232082000" datetime="2009-01-16"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Congressional tributes"/>
+		<term name="Government buildings, facilities, and property"/>
+		<term name="House of Representatives"/>
+		<term name="Members of Congress"/>
+		<term name="Ohio"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Directs the Administrator of General Services to ensure that the federally occupied building located at McKinley Avenue and Third Street, S.W., Canton, Ohio, is known and designated as the &quot;Ralph Regula Federal Office Building and Courthouse.&quot;<br/>
+	</summary>
+</bill>

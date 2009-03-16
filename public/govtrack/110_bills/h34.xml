@@ -1,0 +1,37 @@
+<bill session="110" type="h" number="34" updated="2009-01-08T16:45:48-05:00">
+	<status><vote date="1171306620" datetime="2007-02-12T14:57:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="official" as="introduced">To establish a pilot program in certain United States district courts to encourage enhancement of expertise in patent cases among district judges.</title>
+	</titles>
+	<sponsor id="400196"/>
+	<cosponsors>
+		<cosponsor id="400361" joined="2007-01-04"/>
+		<cosponsor id="412236" joined="2007-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1170392400" datetime="2007-02-02"><text>Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.</text></action>
+		<action date="1171305300" datetime="2007-02-12T14:35:00-05:00"><text>Mr. Berman moved to suspend the rules and pass the bill.</text></action>
+		<action date="1171305360" datetime="2007-02-12T14:36:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1430-1433"/></action>
+		<action date="1171305360" datetime="2007-02-12T14:36:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 34.</text></action>
+		<vote date="1171306620" how="by voice vote" datetime="2007-02-12T14:57:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H1430"/></vote>
+		<action date="1171342800" datetime="2007-02-13"><text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Establishes a pilot program in certain U.S. district courts under which: (1) those district judges who request to hear cases involving patent or plant variety protection issues are designated by the chief judge to hear them; (2) such cases are randomly assigned to the district court judges, regardless of whether they are designated; (3) a judge not designated to whom such a case is assigned may decline to accept the case; and (4) a case so declined is randomly reassigned to one of those judges so designated. 
+	</summary>
+</bill>

@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="425" updated="2009-03-07T10:37:41-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to prevent the alternative minimum tax from effectively repealing the Federal tax exemption for interest on State and local private activity bonds.</title>
+	</titles>
+	<sponsor id="400291"/>
+	<cosponsors>
+		<cosponsor id="400351" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="138" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax rates"/>
+		<term name="Interest and interest rates"/>
+		<term name="Securities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Amends the Internal Revenue Code to eliminate tax-exempt interest earned on private activity bonds as an item of tax preference for purposes of calculating the alternative minimum tax. 
+	</summary>
+</bill>

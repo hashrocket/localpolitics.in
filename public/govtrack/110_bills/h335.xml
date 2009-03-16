@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="335" updated="2009-01-08T17:26:00-05:00">
+	<status><enacted date="1173243600" datetime="2007-03-07" /></status>
+
+	<introduced date="1168318800" datetime="2007-01-09"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 152 North 5th Street in Laramie, Wyoming, as the &quot;Gale W. McGee Post Office&quot;.</title>
+	</titles>
+	<sponsor id="400088"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1168318800" datetime="2007-01-09"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1170096360" datetime="2007-01-29T14:46:00-05:00"><text>Ms. Norton moved to suspend the rules and pass the bill.</text></action>
+		<action date="1170096420" datetime="2007-01-29T14:47:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H955-956"/></action>
+		<action date="1170096420" datetime="2007-01-29T14:47:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 335.</text></action>
+		<vote date="1170096600" how="by voice vote" datetime="2007-01-29T14:50:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H955"/></vote>
+		<action date="1170219600" datetime="2007-01-31"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<calendar date="1171515600" datetime="2007-02-15" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1171688400" datetime="2007-02-17"><text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S2217-2218"/></action>
+		<vote date="1171688400" how="by Unanimous Consent" datetime="2007-02-17" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<topresident date="1171688400" datetime="2007-02-17" ><text>Cleared for White House.</text></topresident>
+		<action date="1171947600" datetime="2007-02-20"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1173070800" datetime="2007-03-05" ><text>Presented to President.</text></topresident>
+		<signed date="1173243600" datetime="2007-03-07" ><text>Signed by President.</text></signed>
+		<enacted number="110-8" date="1173243600" datetime="2007-03-07" type="public" ><text>Became Public Law No: 110-8.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/7/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 152 North 5th Street in Laramie, Wyoming, as the &quot;Gale W. McGee Post Office.&quot; 
+	</summary>
+</bill>

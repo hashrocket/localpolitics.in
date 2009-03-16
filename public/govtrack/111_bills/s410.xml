@@ -1,0 +1,44 @@
+<bill session="111" type="s" number="410" updated="2009-03-07T14:22:13-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="short" as="introduced">Resource Family Recruitment and Retention Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend part E of title IV of the Social Security Act to ensure States follow best policies and practices for supporting and retaining foster parents and to require the Secretary of Health and Human Services to award grants to States to improve the empowerment, leadership, support, training, recruitment, and retention of foster care, kinship care, and adoptive parents.</title>
+	</titles>
+	<sponsor id="300068"/>
+	<cosponsors>
+		<cosponsor id="300025" joined="2009-02-11"/>
+		<cosponsor id="300091" joined="2009-02-11"/>
+		<cosponsor id="412246" joined="2009-02-11"/>
+		<cosponsor id="300093" joined="2009-02-11"/>
+		<cosponsor id="300060" joined="2009-02-11"/>
+		<cosponsor id="300063" joined="2009-02-11"/>
+		<cosponsor id="300006" joined="2009-02-11"/>
+		<cosponsor id="300084" joined="2009-02-11"/>
+		<cosponsor id="300058" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Adoption and foster care"/>
+		<term name="Child health"/>
+		<term name="Child safety and welfare"/>
+		<term name="Family relationships"/>
+		<term name="Poverty and welfare assistance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Introduced.<br/>Resource Family Recruitment and Retention Act of 2009 - Amends part E (Foster Care and Adoption Assistance) of title IV of the Social Security Act (SSA) with respect to the requirement that state foster care and adoption assistance plans require development of standards to ensure that children in foster care placements in public or private agencies receive quality services that protect their safety and health. Requires such standards to require each public and private placement agency, subject to renewal of its license or other state approval, to certify annually to the state that it provides foster parents with specified services and information. Numbers among such services and information: (1) notifications of scheduled meetings to allow foster parents the opportunity to participate actively in the case planning and decision-making regarding placement of a child in their home; (2) support services to assist with care of the child; (3) information about the child's medical history, educational history, general behaviors, life experiences, the placement circumstances of the child, and the relationship between the child and his or her parents; (4) timely and complete information about all permanency options available to the child; and (5) assistance with the coordination of services for dealing with family loss and separation when a child leaves the foster home. Amends SSA title IV part B (Child and Family Services) to direct the Secretary of Health and Human Services to award grants to eligible states for innovative programs to empower, provide leadership for, and improve the recruitment, support, training, and retention of foster care, kinship care, and adoptive parents. 
+	</summary>
+</bill>

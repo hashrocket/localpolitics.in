@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="2239" updated="2009-01-08T21:32:03-05:00">
+	<status><vote date="1179957060" datetime="2007-05-23T18:51:00-04:00" where="h" result="pass" how="roll" roll="414"/></status>
+
+	<introduced date="1178683200" datetime="2007-05-09"/>
+	<titles>
+		<title type="short" as="introduced">Early Access to Vocational Rehabilitation and Employment Benefits Act</title>
+		<title type="short" as="passed house">Early Access to Vocational Rehabilitation and Employment Benefits Act</title>
+		<title type="official" as="introduced">To amend title 38, United States Code, to expand eligibility for vocational rehabilitation benefits administered by the Secretary of Veterans Affairs.</title>
+	</titles>
+	<sponsor id="400040"/>
+	<cosponsors>
+		<cosponsor id="412234" joined="2007-05-17"/>
+		<cosponsor id="412215" joined="2007-05-21"/>
+		<cosponsor id="400204" joined="2007-05-17"/>
+		<cosponsor id="400033" joined="2007-05-22"/>
+		<cosponsor id="412219" joined="2007-05-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1178683200" datetime="2007-05-09"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1178856000" datetime="2007-05-11"><text>Referred to the Subcommittee on Economic Opportunity.</text></action>
+		<action date="1179115200" datetime="2007-05-14"><text>Subcommittee on Economic Opportunity Discharged.</text></action>
+		<action date="1179201600" datetime="2007-05-15"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1179201600" datetime="2007-05-15" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1179953280" datetime="2007-05-23T17:48:00-04:00"><text>Mr. Filner moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1179953280" datetime="2007-05-23T17:48:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5678-5680"/></action>
+		<action date="1179953280" datetime="2007-05-23T17:48:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2239.</text></action>
+		<action date="1179953880" datetime="2007-05-23T17:58:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1179956700" datetime="2007-05-23T18:45:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5683"/></action>
+		<vote date="1179957060" how="roll" roll="414" datetime="2007-05-23T18:51:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 414).</text><reference label="text" ref="CR H5678"/></vote>
+		<action date="1179979200" datetime="2007-05-24"><text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/23/2007--Passed House amended. Early Access to Vocational Rehabilitation and Employment Benefits Act - Entitles to veterans vocational rehabilitation benefits any member of the Armed Forces hospitalized or receiving outpatient medical care, services, or treatment who is: (1) determined to have a permanent total disability incurred or aggravated in the line of duty; and (2) likely to be discharged or released from active service for such disability.<br/>
+	</summary>
+</bill>

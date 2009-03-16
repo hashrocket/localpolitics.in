@@ -1,0 +1,36 @@
+<bill session="111" type="s" number="165" updated="2009-03-07T13:52:53-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Student Credit Card Protection Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Truth in Lending Act, to prevent credit card issuers from taking unfair advantage of college students and their parents, and for other purposes.</title>
+	</titles>
+	<sponsor id="300061"/>
+	<cosponsors>
+		<cosponsor id="300038" joined="2009-01-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Sponsor introductory remarks on measure. (CR S174-175)</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Consumer credit"/>
+		<term name="Federal Reserve System"/>
+		<term name="Higher education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

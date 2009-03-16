@@ -1,0 +1,35 @@
+<bill session="111" type="sr" number="37" updated="2009-03-07T14:42:45-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="official" as="introduced">A bill calling on officials of the Government of Brazil and the federal courts of Brazil to comply with the requirements of the Convention on the Civil Aspects of International Child Abduction and to assist in the safe return of Sean Goldman to his father, David Goldman.</title>
+	</titles>
+	<sponsor id="300064"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="2009-02-11"/>
+		<cosponsor id="300042" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S2164"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Foreign Relations" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Brazil"/>
+		<term name="International law and treaties"/>
+		<term name="Latin America"/>
+		<term name="Separation, divorce, custody, support"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Introduced.<br/>Calls on officials of the government and the federal courts of Brazil to fulfill Brazil's obligations under the Convention on the Civil Aspects of International Child Abduction and to assist in the safe return of Sean Goldman to his father, David Goldman, in the United States.<br/>
+	</summary>
+</bill>

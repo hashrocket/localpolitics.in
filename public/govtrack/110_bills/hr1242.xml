@@ -1,0 +1,99 @@
+<bill session="110" type="hr" number="1242" updated="2009-01-09T10:28:45-05:00">
+	<status><vote date="1214258160" datetime="2008-06-23T18:56:00-04:00" where="h" result="pass" how="roll" roll="438"/></status>
+
+	<introduced date="1212638400" datetime="2008-06-05"/>
+	<titles>
+		<title type="official" as="introduced">Honoring the life, musical accomplishments, and contributions of Louis Jordan on the 100th anniversary of his birth.</title>
+	</titles>
+	<sponsor id="400383"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2008-06-05"/>
+		<cosponsor id="400041" joined="2008-06-17"/>
+		<cosponsor id="400073" joined="2008-06-05"/>
+		<cosponsor id="400280" joined="2008-06-05"/>
+		<cosponsor id="400177" joined="2008-06-05"/>
+		<cosponsor id="400257" joined="2008-06-05"/>
+		<cosponsor id="400616" joined="2008-06-05"/>
+		<cosponsor id="400263" joined="2008-06-17"/>
+		<cosponsor id="400282" joined="2008-06-05"/>
+		<cosponsor id="400170" joined="2008-06-05"/>
+		<cosponsor id="400198" joined="2008-06-05"/>
+		<cosponsor id="400323" joined="2008-06-05"/>
+		<cosponsor id="400229" joined="2008-06-05"/>
+		<cosponsor id="400274" joined="2008-06-05"/>
+		<cosponsor id="400396" joined="2008-06-05"/>
+		<cosponsor id="400184" joined="2008-06-05"/>
+		<cosponsor id="400152" joined="2008-06-05"/>
+		<cosponsor id="412208" joined="2008-06-05"/>
+		<cosponsor id="400216" joined="2008-06-05"/>
+		<cosponsor id="400262" joined="2008-06-05"/>
+		<cosponsor id="400312" joined="2008-06-05"/>
+		<cosponsor id="400007" joined="2008-06-05"/>
+		<cosponsor id="400402" joined="2008-06-05"/>
+		<cosponsor id="400331" joined="2008-06-05"/>
+		<cosponsor id="412187" joined="2008-06-05"/>
+		<cosponsor id="400048" joined="2008-06-17"/>
+		<cosponsor id="400103" joined="2008-06-05"/>
+		<cosponsor id="400270" joined="2008-06-05"/>
+		<cosponsor id="400039" joined="2008-06-05"/>
+		<cosponsor id="400237" joined="2008-06-10"/>
+		<cosponsor id="400013" joined="2008-06-05"/>
+		<cosponsor id="412204" joined="2008-06-05"/>
+		<cosponsor id="400195" joined="2008-06-05"/>
+		<cosponsor id="400178" joined="2008-06-10"/>
+		<cosponsor id="400026" joined="2008-06-05"/>
+		<cosponsor id="400111" joined="2008-06-05"/>
+		<cosponsor id="400360" joined="2008-06-05"/>
+		<cosponsor id="400366" joined="2008-06-12"/>
+		<cosponsor id="412239" joined="2008-06-05"/>
+		<cosponsor id="400120" joined="2008-06-05"/>
+		<cosponsor id="400232" joined="2008-06-05"/>
+		<cosponsor id="400193" joined="2008-06-05"/>
+		<cosponsor id="412236" joined="2008-06-05"/>
+		<cosponsor id="400005" joined="2008-06-05"/>
+		<cosponsor id="400093" joined="2008-06-05"/>
+		<cosponsor id="400326" joined="2008-06-05"/>
+		<cosponsor id="412228" joined="2008-06-05"/>
+		<cosponsor id="412257" joined="2008-06-05"/>
+		<cosponsor id="412220" joined="2008-06-05"/>
+		<cosponsor id="400283" joined="2008-06-05"/>
+		<cosponsor id="400204" joined="2008-06-05"/>
+		<cosponsor id="400097" joined="2008-06-05"/>
+		<cosponsor id="400310" joined="2008-06-05"/>
+		<cosponsor id="400042" joined="2008-06-05"/>
+		<cosponsor id="400208" joined="2008-06-05"/>
+		<cosponsor id="400218" joined="2008-06-05"/>
+		<cosponsor id="400240" joined="2008-06-10"/>
+		<cosponsor id="400238" joined="2008-06-05"/>
+		<cosponsor id="400363" joined="2008-06-05"/>
+		<cosponsor id="400345" joined="2008-06-05"/>
+		<cosponsor id="400062" joined="2008-06-05"/>
+		<cosponsor id="400233" joined="2008-06-05"/>
+		<cosponsor id="400100" joined="2008-06-05"/>
+		<cosponsor id="400639" joined="2008-06-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1212638400" datetime="2008-06-05"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1214251740" datetime="2008-06-23T17:09:00-04:00"><text>Mr. Sarbanes moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1214251740" datetime="2008-06-23T17:09:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5831-5832"/></action>
+		<action date="1214251740" datetime="2008-06-23T17:09:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1242.</text></action>
+		<action date="1214252460" datetime="2008-06-23T17:21:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1214256720" datetime="2008-06-23T18:32:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5841-5842"/></action>
+		<vote date="1214258160" how="roll" roll="438" datetime="2008-06-23T18:56:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 348 - 0 (Roll no. 438).</text><reference label="text" ref="CR H5831"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/23/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Honors the life of Louis Jordan on the 100th anniversary of his birth. Recognizes his important contributions to American music as a musician, composer, and entertainer. 
+	</summary>
+</bill>

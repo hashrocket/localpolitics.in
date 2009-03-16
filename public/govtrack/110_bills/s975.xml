@@ -1,0 +1,47 @@
+<bill session="110" type="s" number="975" updated="2009-01-09T13:47:44-05:00">
+	<status><enacted date="1186977600" datetime="2007-08-13" /></status>
+
+	<introduced date="1174622400" datetime="2007-03-23"/>
+	<titles>
+		<title type="official" as="introduced">A bill granting the consent and approval of Congress to an interstate forest fire protection compact.</title>
+	</titles>
+	<sponsor id="400546"/>
+	<cosponsors>
+		<cosponsor id="400619" joined="2007-03-23"/>
+		<cosponsor id="300041" joined="2007-03-23"/>
+		<cosponsor id="300003" joined="2007-03-23"/>
+		<cosponsor id="300097" joined="2007-03-23"/>
+		<cosponsor id="300058" joined="2007-06-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1174622400" datetime="2007-03-23"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+		<action date="1184299200" datetime="2007-07-13"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S9226"/></action>
+		<vote date="1184299200" how="by Unanimous Consent" datetime="2007-07-13" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="text as passed Senate" ref="CR S9226"/></vote>
+		<action date="1184558400" datetime="2007-07-16"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1184605320" datetime="2007-07-16T14:02:00-04:00"><text>Received in the House.</text></action>
+		<action date="1184558400" datetime="2007-07-16"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1185835320" datetime="2007-07-30T19:42:00-04:00"><text>Ms. Lofgren, Zoe moved to suspend the rules and pass the bill.</text></action>
+		<action date="1185835320" datetime="2007-07-30T19:42:00-04:00"><text>Considered under suspension of the rules. (consideration: CR 7/31/2007 H8917-8919)</text></action>
+		<action date="1185835320" datetime="2007-07-30T19:42:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 975.</text></action>
+		<vote date="1185835800" how="by voice vote" datetime="2007-07-30T19:50:00-04:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/31/2007 H8917-8918)</text></vote>
+		<topresident date="1185768000" datetime="2007-07-30" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1186113600" datetime="2007-08-03" ><text>Presented to President.</text></topresident>
+		<signed date="1186977600" datetime="2007-08-13" ><text>Signed by President.</text></signed>
+		<enacted number="110-79" date="1186977600" datetime="2007-08-13" type="public" ><text>Became Public Law No: 110-79.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/13/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Grants the consent and approval of Congress to the interstate forest fire protection compact for the Great Plains region of the United States set forth in this Act. 
+	</summary>
+</bill>

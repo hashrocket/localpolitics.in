@@ -1,0 +1,38 @@
+<bill session="110" type="hr" number="1214" updated="2009-01-09T10:25:16-05:00">
+	<status><vote date="1211388900" datetime="2008-05-21T13:55:00-04:00" where="h" result="pass" how="roll" roll="342"/></status>
+
+	<introduced date="1211256000" datetime="2008-05-20"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the conference report to accompany the concurrent resolution (S. Con. Res. 70) setting forth the congressional budget for the United States Government for fiscal year 2009 and including the appropriate budgetary levels for fiscal years 2008 and 2010 through 2013.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1211325060" datetime="2008-05-20T20:11:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-662, by Mr. McGovern.</text></action>
+		<action date="1211325060" datetime="2008-05-20T20:11:00-04:00"><text>All points of order against the conference report and against its consideration are waived. The conference report shall be considered as read.</text></action>
+		<calendar date="1211325060" datetime="2008-05-20T20:11:00-04:00" ><text>Placed on the House Calendar, Calendar No. 225.</text></calendar>
+		<action date="1211426340" datetime="2008-05-21T12:19:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H4341-4346"/></action>
+		<action date="1211426400" datetime="2008-05-21T12:20:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 1214.</text></action>
+		<action date="1211428740" datetime="2008-05-21T12:59:00-04:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate, the Chair put the question on ordering the previous question and by voice vote announced that the ayes had prevailed. The yeas and nays were demanded and the Chair postponed further proceedings on the question until later in the legislative day.</text></action>
+		<action date="1211388000" datetime="2008-05-21T13:40:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4348-4349"/></action>
+		<action date="1211388420" datetime="2008-05-21T13:47:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 229 - 186 (Roll no. 341).</text><reference label="consideration" ref="CR H4348-4349"/></action>
+		<vote date="1211388900" how="roll" roll="342" datetime="2008-05-21T13:55:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 199 (Roll no. 342).</text><reference label="text" ref="CR H4341"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/2008--Introduced.<br/>Sets forth the rule for consideration of the conference report to accompany the concurrent resolution (S. Con. Res. 70) setting forth the congressional budget for the United States Government for fiscal year 2009 and including the appropriate budgetary levels for fiscal years 2008 and 2010 through 2013.<br/>
+	</summary>
+</bill>

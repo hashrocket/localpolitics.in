@@ -1,0 +1,73 @@
+<bill session="111" type="h" number="393" updated="2009-03-07T10:33:55-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Federal Sunset Act of 2009</title>
+		<title type="official" as="introduced">To provide for the periodic review of the efficiency and public need for Federal agencies, to establish a Commission for the purpose of reviewing the efficiency and public need of such agencies, and to provide for the abolishment of agencies for which a public need does not exist.</title>
+	</titles>
+	<sponsor id="400046"/>
+	<cosponsors>
+		<cosponsor id="400086" joined="2009-01-09"/>
+		<cosponsor id="400627" joined="2009-01-09"/>
+		<cosponsor id="400206" joined="2009-01-09"/>
+		<cosponsor id="400017" joined="2009-01-09"/>
+		<cosponsor id="400034" joined="2009-01-09"/>
+		<cosponsor id="400367" joined="2009-01-09"/>
+		<cosponsor id="400027" joined="2009-01-09"/>
+		<cosponsor id="400655" joined="2009-01-09"/>
+		<cosponsor id="400400" joined="2009-01-09"/>
+		<cosponsor id="400175" joined="2009-01-09"/>
+		<cosponsor id="400441" joined="2009-01-09"/>
+		<cosponsor id="400643" joined="2009-01-09"/>
+		<cosponsor id="400118" joined="2009-01-09"/>
+		<cosponsor id="400644" joined="2009-01-09"/>
+		<cosponsor id="400247" joined="2009-02-03"/>
+		<cosponsor id="400388" joined="2009-03-03"/>
+		<cosponsor id="400165" joined="2009-02-23"/>
+		<cosponsor id="400221" joined="2009-01-09"/>
+		<cosponsor id="400077" joined="2009-01-09"/>
+		<cosponsor id="400176" joined="2009-01-09"/>
+		<cosponsor id="400145" joined="2009-01-09"/>
+		<cosponsor id="400018" joined="2009-01-09"/>
+		<cosponsor id="400032" joined="2009-01-15"/>
+		<cosponsor id="400315" joined="2009-01-09"/>
+		<cosponsor id="400651" joined="2009-01-09"/>
+		<cosponsor id="400182" joined="2009-01-09"/>
+		<cosponsor id="400365" joined="2009-01-09"/>
+		<cosponsor id="400654" joined="2009-01-28"/>
+		<cosponsor id="400288" joined="2009-01-09"/>
+		<cosponsor id="400055" joined="2009-01-09"/>
+		<cosponsor id="400157" joined="2009-02-04"/>
+		<cosponsor id="400010" joined="2009-01-09"/>
+		<cosponsor id="412191" joined="2009-03-03"/>
+		<cosponsor id="400656" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1235451600" datetime="2009-02-24"><text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="Government Management, Organization, and Procurement" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Advisory bodies"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional oversight"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Legislative rules and procedure"/>
+		<term name="Performance measurement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Federal Sunset Act of 2009 - Establishes the Federal Agency Sunset Commission to: (1) submit to Congress a schedule for review by the Commission, at least once every 12 years, of the abolishment or reorganization of each agency; (2) review and evaluate the efficiency and public need for each agency using specified criteria; (3) recommend whether each agency should be abolished or reorganized; and (4) report to Congress on all legislation introduced that would establish a new agency or a new program to be carried out by an existing agency. Requires the abolishment of any agency within one year of the Commission's review, unless the agency is reauthorized by Congress. Authorizes the deadline for abolishing an agency to be extended for an additional two years by legislation enacted by a super majority of the House of Representatives and the Senate. Terminates the Commission on December 31, 2033. Directs the Comptroller General and the Director of the Congressional Budget Office, in cooperation with the Director of the Congressional Research Service (CRS), to prepare an inventory of federal programs within each agency for the purpose of advising and assisting Congress and the Commission in carrying out the requirements of this Act.<br/>
+	</summary>
+</bill>

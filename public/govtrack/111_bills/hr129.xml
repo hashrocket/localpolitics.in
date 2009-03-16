@@ -1,0 +1,36 @@
+<bill session="111" type="hr" number="129" updated="2009-03-07T13:21:29-05:00">
+	<status><vote date="1234413120" datetime="2009-02-11T12:32:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the historical significance of the Merced Assembly Center to the Nation and the importance of establishing an appropriate memorial at that site to serve as a place for remembering the hardships endured by Japanese Americans, so that the United States remains vigilant in protecting our Nation's core values of equality, due process of law, justice, and fundamental fairness.</title>
+	</titles>
+	<sponsor id="400065"/>
+	<cosponsors>
+		<cosponsor id="400663" joined="2009-02-04"/>
+		<cosponsor id="400618" joined="2009-02-04"/>
+		<cosponsor id="400185" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234367700" datetime="2009-02-11T11:55:00-05:00"><text>Mr. Cohen moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1234367700" datetime="2009-02-11T11:55:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1175-1180"/></action>
+		<action date="1234367700" datetime="2009-02-11T11:55:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 129.</text></action>
+		<vote date="1234413120" how="by voice vote" datetime="2009-02-11T12:32:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H1175"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the historical significance of the Merced Assembly Center to the nation and the importance of establishing an appropriate memorial at that site to serve as a place for remembering the hardships endured by Japanese-Americans, so that the United States remains vigilant in protecting the nation's core values of equality, due process of law, justice, and fundamental fairness.<br/>
+	</summary>
+</bill>

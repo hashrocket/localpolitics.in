@@ -1,0 +1,41 @@
+<bill session="111" type="s" number="370" updated="2009-03-07T14:17:34-05:00">
+	<status><introduced date="1233637200" datetime="2009-02-03"/></status>
+
+	<introduced date="1233637200" datetime="2009-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Guantanamo Bay Detention Facility Safe Closure Act of 2009</title>
+		<title type="official" as="introduced">A bill to prohibit the use of funds to transfer detainees of the United States at Naval Station, Guantanamo Bay, Cuba, to any facility in the United States or to construct any facility for such detainees in the United States, and for other purposes.</title>
+	</titles>
+	<sponsor id="300055"/>
+	<cosponsors>
+		<cosponsor id="400576" joined="2009-02-03"/>
+		<cosponsor id="300083" joined="2009-02-03"/>
+		<cosponsor id="400105" joined="2009-02-03"/>
+		<cosponsor id="400546" joined="2009-02-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1233637200" datetime="2009-02-03"><text>Read twice and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="1012" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Appropriations"/>
+		<term name="Caribbean area"/>
+		<term name="Correctional facilities and imprisonment"/>
+		<term name="Cuba"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Latin America"/>
+		<term name="Military facilities and property"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/2009--Introduced.<br/>Guantanamo Bay Detention Facility Safe Closure Act of 2009 - Prohibits federal funds from being used to: (1) transfer any detainee at the Naval Station Guantanamo Bay, Cuba, to any facility in the United States or its territories; (2) construct or enhance any facility in the United States in order to house any such detainee; or (3) house or otherwise incarcerate any such detainee in the United States or its territories.<br/>
+	</summary>
+</bill>

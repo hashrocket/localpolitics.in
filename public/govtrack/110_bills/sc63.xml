@@ -1,0 +1,35 @@
+<bill session="110" type="sc" number="63" updated="2009-01-09T19:47:55-05:00">
+	<status><vote date="1200978000" datetime="2008-01-22" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1198040400" datetime="2007-12-19"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress regarding the need for additional research into the chronic neurological condition hydrocephalus, and for other purposes.</title>
+	</titles>
+	<sponsor id="300022"/>
+	<cosponsors>
+		<cosponsor id="300092" joined="2008-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1198040400" datetime="2007-12-19"><text>Referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S16018"/></action>
+		<action date="1200978000" datetime="2008-01-22"><text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S155-156"/></action>
+		<vote date="1200978000" how="by Unanimous Consent" datetime="2008-01-22" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text as passed Senate" ref="CR S155-156"/></vote>
+		<action date="1201150800" datetime="2008-01-24"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1201543200" datetime="2008-01-28T14:00:00-05:00"><text>Received in the House.</text></action>
+		<action date="1201548300" datetime="2008-01-28T15:25:00-05:00"><text>Held at the desk.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Commends the Director of the National Institutes of Health (NIH) for working with leading scientists and researchers to organize the first-ever NIH conference on hydrocephalus (a neurological condition characterized by the abnormal buildup of cerebrospinal fluids in the ventricles of the brain).<br/>Urges the Director to continue the current collaboration with respect to hydrocephalus among national research institutes.<br/>Calls for: (1) further research into the epidemiology, pathophysiology, disease burden, and improved treatment of hydrocephalus; and (2) increased public awareness and professional education regarding hydrocephalus through partnerships between the federal government and patient advocacy organizations.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="111" type="s" number="365" updated="2009-03-07T14:17:00-05:00">
+	<status><introduced date="1233637200" datetime="2009-02-03"/></status>
+
+	<introduced date="1233637200" datetime="2009-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Nationwide Mortgage Fraud Task Force Act of 2009</title>
+		<title type="official" as="introduced">A bill to establish in the Department of Justice the Nationwide Mortgage Fraud Task Force to address mortgage fraud in the United States, and for other purposes.</title>
+	</titles>
+	<sponsor id="300078"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233637200" datetime="2009-02-03"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="529" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Department of Justice"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Fraud offenses"/>
+		<term name="Housing finance and home ownership"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Investigation, prosecution, interrogation methods"/>
+		<term name="Licensing and registrations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/2009--Introduced.<br/>Nationwide Mortgage Fraud Task Force Act of 2009 - Establishes in the Department of Justice (DOJ) a Nationwide Mortgage Fraud Task Force to: (1) establish branches in the 10 states with the highest concentration of mortgage fraud; (2) establish coordinating entities, and solicit the voluntary participation of federal, state, and local law enforcement and prosecutorial agencies, to organize initiatives to address mortgage fraud; (3) train such agencies; (4) collect and disseminate mortgage fraud data; and (5) perform other related functions. Authorizes the Task Force, including its branches, to perform other functions as well, including: (1) initiating federal mortgage fraud investigations and coordinating state and local investigations; (2) establishing a toll-free hotline; and (3) creating a database of mortgage industry license suspensions and revocations.<br/>
+	</summary>
+</bill>

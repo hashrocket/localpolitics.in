@@ -1,0 +1,40 @@
+<bill session="111" type="s" number="202" updated="2009-03-07T13:57:22-05:00">
+	<status><introduced date="1231736400" datetime="2009-01-12"/></status>
+
+	<introduced date="1231736400" datetime="2009-01-12"/>
+	<titles>
+		<title type="short" as="introduced">Passenger Vehicle Loss Disclosure Act of 2009</title>
+		<title type="official" as="introduced">A bill to improve consumer access to passenger vehicle loss data held by insurers.</title>
+	</titles>
+	<sponsor id="300040"/>
+	<cosponsors>
+		<cosponsor id="300042" joined="2009-01-12"/>
+		<cosponsor id="300078" joined="2009-01-12"/>
+		<cosponsor id="412248" joined="2009-01-12"/>
+		<cosponsor id="300037" joined="2009-01-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1231736400" datetime="2009-01-12"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="164" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Consumer affairs"/>
+		<term name="Department of Transportation"/>
+		<term name="Insurance industry and regulation"/>
+		<term name="Motor vehicles"/>
+		<term name="Transportation safety and security"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/12/2009--Introduced.<br/>Passenger Vehicle Loss Disclosure Act of 2009 - Directs the Secretary of Transportation to require all insurers and self-insurers of passenger motor vehicles to disclose to the public, in a commercially reasonable, electronically accessible manner, for each passenger motor vehicle declared or determined to be a total loss: (1) the vehicle identification number and odometer reading; (2) the date of and primary reason for the total loss determination; and (3) whether the airbags deployed.<br/>
+	</summary>
+</bill>

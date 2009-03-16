@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="40" updated="2009-03-07T09:52:29-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Commission to Study Reparation Proposals for African-Americans Act</title>
+		<title type="official" as="introduced">To acknowledge the fundamental injustice, cruelty, brutality, and inhumanity of slavery in the United States and the 13 American colonies between 1619 and 1865 and to establish a commission to examine the institution of slavery, subsequently de jure and de facto racial and economic discrimination against African-Americans, and the impact of these forces on living African-Americans, to make recommendations to the Congress on appropriate remedies, and for other purposes.</title>
+	</titles>
+	<sponsor id="400080"/>
+	<cosponsors>
+		<cosponsor id="400364" joined="2009-01-06"/>
+		<cosponsor id="412236" joined="2009-01-14"/>
+		<cosponsor id="400163" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR E9-10)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Constitution, Civil Rights, and Civil Liberties" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Advisory bodies"/>
+		<term name="Government liability"/>
+		<term name="Racial and ethnic relations"/>
+		<term name="U.S. history"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Commission to Study Reparation Proposals for African Americans Act - Establishes the Commission to Study Reparation Proposals for African Americans to examine slavery and discrimination in the colonies and the United States from 1619 to the present and recommend appropriate remedies. 
+	</summary>
+</bill>

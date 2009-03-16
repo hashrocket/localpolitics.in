@@ -1,0 +1,37 @@
+<bill session="111" type="hr" number="222" updated="2009-03-10T12:04:25-04:00">
+	<status><vote date="1236636360" datetime="2009-03-09T19:06:00-04:00" where="h" result="pass" how="roll" roll="111"/></status>
+
+	<introduced date="1236571200" datetime="2009-03-09"/>
+	<titles>
+		<title type="official" as="introduced">Congratulating the National Assessment Governing Board on its 20th Anniversary in measuring student academic achievement.</title>
+	</titles>
+	<sponsor id="400070"/>
+	<cosponsors>
+		<cosponsor id="400278" joined="2009-03-09"/>
+		<cosponsor id="400267" joined="2009-03-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1236571200" datetime="2009-03-09"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1236619980" datetime="2009-03-09T14:33:00-04:00"><text>Ms. Woolsey moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1236619980" datetime="2009-03-09T14:33:00-04:00"><text>Considered under suspension of the rules.</text></action>
+		<action date="1236619980" datetime="2009-03-09T14:33:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 222.</text></action>
+		<action date="1236620640" datetime="2009-03-09T14:44:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1236635880" datetime="2009-03-09T18:58:00-04:00"><text>Considered as unfinished business.</text></action>
+		<vote date="1236636360" how="roll" roll="111" datetime="2009-03-09T19:06:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 388 - 9, 1 Present (Roll no. 111).</text></vote>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="111" type="h" number="152" updated="2009-03-07T10:05:38-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Home Heating Fuels Cost Relief Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code to provide for a refundable tax credit for heating fuels and to create a grant program for States to provide individuals with loans to weatherize their homes.</title>
+	</titles>
+	<sponsor id="400257"/>
+	<cosponsors>
+		<cosponsor id="400031" joined="2009-01-15"/>
+		<cosponsor id="412227" joined="2009-01-15"/>
+		<cosponsor id="412263" joined="2009-01-15"/>
+		<cosponsor id="400426" joined="2009-01-06"/>
+		<cosponsor id="412234" joined="2009-01-06"/>
+		<cosponsor id="400178" joined="2009-01-06"/>
+		<cosponsor id="400638" joined="2009-01-15"/>
+		<cosponsor id="412236" joined="2009-01-06"/>
+		<cosponsor id="412186" joined="2009-01-06"/>
+		<cosponsor id="412228" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Ways and Means</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Energy and Commerce</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Housing and community development"/>
+		<term name="Energy efficiency and conservation"/>
+		<term name="Government lending"/>
+		<term name="Housing and community development funding"/>
+		<term name="Income tax credits"/>
+		<term name="Lighting and heating"/>
+		<term name="Oil and gas"/>
+		<term name="Residential rehabilitation and home repair"/>
+		<term name="State and local finance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Home Heating Fuels Cost Relief Act of 2009 - Amends the Internal Revenue Code to allow an income-based refundable tax credit for up to $1,000 ($2,000 in the case of a joint return) of the cost of heating oil, natural gas, and propane to heat a principal residence. Terminates such credit after 2009.<br/>Directs the Secretary of the Treasury to make grants to states to create revolving loan funds for home weatherization loans. 
+	</summary>
+</bill>

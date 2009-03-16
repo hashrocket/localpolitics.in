@@ -1,0 +1,35 @@
+<bill session="111" type="s" number="398" updated="2009-03-07T14:20:50-05:00">
+	<status><introduced date="1234155600" datetime="2009-02-09"/></status>
+
+	<introduced date="1234155600" datetime="2009-02-09"/>
+	<titles>
+		<title type="short" as="introduced">Idaho Efficient Vehicle Demonstration Act of 2009</title>
+		<title type="official" as="introduced">A bill to permit commercial vehicles at weights up to 129,000 pounds to use certain highways of the Interstate System in the State of Idaho which would provide significant savings in the transportation of goods throughout the United States, and for other purposes.</title>
+	</titles>
+	<sponsor id="300030"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234155600" datetime="2009-02-09"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Environment and Public Works" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="969" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Idaho"/>
+		<term name="Motor vehicles"/>
+		<term name="Roads and highways"/>
+		<term name="Transportation programs funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

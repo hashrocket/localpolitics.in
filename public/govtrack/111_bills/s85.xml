@@ -1,0 +1,42 @@
+<bill session="111" type="s" number="85" updated="2009-03-07T13:42:15-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Title X Family Planning Act</title>
+		<title type="official" as="introduced">A bill to amend title X of the Public Health Service Act to prohibit family planning grants from being awarded to any entity that performs abortions.</title>
+	</titles>
+	<sponsor id="400418"/>
+	<cosponsors>
+		<cosponsor id="400576" joined="2009-01-27"/>
+		<cosponsor id="400432" joined="2009-01-13"/>
+		<cosponsor id="300055" joined="2009-01-26"/>
+		<cosponsor id="400105" joined="2009-01-12"/>
+		<cosponsor id="400621" joined="2009-01-22"/>
+		<cosponsor id="300013" joined="2009-01-15"/>
+		<cosponsor id="300041" joined="2009-01-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Abortion"/>
+		<term name="Birth control"/>
+		<term name="Congressional oversight"/>
+		<term name="Health facilities and institutions"/>
+		<term name="Health programs administration and funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Title X Family Planning Act - Amends the Public Health Service Act to prohibit federal family planning funds from being awarded to any grantees who perform abortions or whose subgrantees perform abortions, except where a woman suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the woman in danger of death unless an abortion is performed. (Current law prohibits such funds from being used in programs where abortion is a method of family planning.) Excludes hospitals from such provisions as long as the hospital does not subgrant to a non-hospital entity that performs abortions. Requires the Secretary of Health and Human Services to submit to Congress a list of grantees who perform abortions, regardless of how such abortions are funded. Makes such a grantee ineligible for family planning funds for subsequent fiscal years unless the grantee certifies that neither the grantee nor any subgrantee performs abortions that are not explicitly permitted under this Act.<br/>
+	</summary>
+</bill>

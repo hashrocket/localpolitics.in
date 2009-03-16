@@ -1,0 +1,34 @@
+<bill session="111" type="hr" number="3" updated="2009-03-07T12:54:03-05:00">
+	<status><vote date="1231266660" datetime="2009-01-06T14:31:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">Authorizing the Speaker to appoint a committee to notify the President of the assembly of the Congress.</title>
+	</titles>
+	<sponsor id="400189"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231266660" datetime="2009-01-06T14:31:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H6"/></action>
+		<vote date="1231266660" how="by voice vote" datetime="2009-01-06T14:31:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H6"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional operations and organization"/>
+		<term name="Congressional-executive branch relations"/>
+		<term name="Presidents and presidential powers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Provides for appointment of a House of Representatives committee joined with a Senate committee to notify the President that a quorum of each House has assembled. 
+	</summary>
+</bill>

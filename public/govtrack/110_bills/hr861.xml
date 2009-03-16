@@ -1,0 +1,38 @@
+<bill session="110" type="hr" number="861" updated="2009-01-09T09:39:22-05:00">
+	<status><vote date="1197480780" datetime="2007-12-12T13:33:00-05:00" where="h" result="pass" how="roll" roll="1148"/></status>
+
+	<introduced date="1197349200" datetime="2007-12-11"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 4351) to amend the Internal Revenue Code to provide individuals temporary relief from the alternative minimum tax, and for other purposes.</title>
+	</titles>
+	<sponsor id="400065"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1197419640" datetime="2007-12-11T20:34:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-489, by Mr. Cardoza.</text></action>
+		<calendar date="1197419640" datetime="2007-12-11T20:34:00-05:00" ><text>Placed on the House Calendar, Calendar No. 168.</text></calendar>
+		<action date="1197419640" datetime="2007-12-11T20:34:00-05:00"><text>Rule provides for consideration of H.R. 4351 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit.</text></action>
+		<action date="1197471720" datetime="2007-12-12T11:02:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H15327-15334"/></action>
+		<action date="1197471720" datetime="2007-12-12T11:02:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 861.</text></action>
+		<action date="1197518700" datetime="2007-12-12T12:05:00-05:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 861, the Chair put the question on ordering the previous question, and by voice vote, announced that the ayes had prevailed. Mr. Hastings (WA) demanded the yeas and nays and the Chair postponed further proceedings on the question of ordering the previous question until later in the legislative day.</text></action>
+		<action date="1197479940" datetime="2007-12-12T13:19:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H15340-15341"/></action>
+		<action date="1197480300" datetime="2007-12-12T13:25:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 222 - 193 (Roll no. 1147).</text><reference label="consideration" ref="CR H15340"/></action>
+		<vote date="1197480780" how="roll" roll="1148" datetime="2007-12-12T13:33:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 225 - 191 (Roll no. 1148).</text><reference label="text" ref="CR H15327"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/12/2007--Passed House without amendment. Sets forth the rule for consideration of H.R. 4351 (AMT Relief Act of 2007).<br/>
+	</summary>
+</bill>

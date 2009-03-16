@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="1429" updated="2009-03-12T12:02:09-04:00">
+	<status><introduced date="1236744000" datetime="2009-03-11"/></status>
+
+	<introduced date="1236744000" datetime="2009-03-11"/>
+	<titles>
+		<title type="short" as="introduced">Stop AIDS in Prison Act of 2009</title>
+		<title type="official" as="introduced">To provide for an effective HIV/AIDS program in Federal prisons.</title>
+	</titles>
+	<sponsor id="400422"/>
+	<cosponsors>
+		<cosponsor id="400237" joined="2009-03-11"/>
+		<cosponsor id="400364" joined="2009-03-11"/>
+		<cosponsor id="400381" joined="2009-03-11"/>
+		<cosponsor id="400073" joined="2009-03-11"/>
+		<cosponsor id="400080" joined="2009-03-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1236744000" datetime="2009-03-11"><text>Referred to the House Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

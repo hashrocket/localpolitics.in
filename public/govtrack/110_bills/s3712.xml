@@ -1,0 +1,47 @@
+<bill session="110" type="s" number="3712" updated="2009-01-09T19:36:43-05:00">
+	<status><enacted date="1230008400" datetime="2008-12-23" /></status>
+
+	<introduced date="1227157200" datetime="2008-11-20"/>
+	<titles>
+		<title type="official" as="introduced">A bill to make a technical correction in the Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act of 2008.</title>
+	</titles>
+	<sponsor id="300059"/>
+	<cosponsors>
+		<cosponsor id="300041" joined="2008-11-20"/>
+		<cosponsor id="300036" joined="2008-11-20"/>
+	</cosponsors>
+	<actions>
+		<vote date="1227157200" how="by Unanimous Consent" datetime="2008-11-20" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10769"/><reference label="text as passed Senate" ref="CR S10769"/></vote>
+		<action date="1227502800" datetime="2008-11-24"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1228835040" datetime="2008-12-09T11:04:00-05:00"><text>Received in the House.</text></action>
+		<action date="1228798800" datetime="2008-12-09"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Labor, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1228798800" datetime="2008-12-09"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1228798800" datetime="2008-12-09"><text>Referred to House Education and Labor</text></action>
+		<action date="1228798800" datetime="2008-12-09"><text>Referred to House Ways and Means</text></action>
+		<action date="1228956840" datetime="2008-12-10T20:54:00-05:00"><text>Mrs. Capps asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1228956840" datetime="2008-12-10T20:54:00-05:00"><text>Committee on Energy and Commerce discharged.</text></action>
+		<action date="1228956840" datetime="2008-12-10T20:54:00-05:00"><text>Committee on Education and Labor discharged.</text></action>
+		<action date="1228956840" datetime="2008-12-10T20:54:00-05:00"><text>Committee on Ways and Means discharged.</text></action>
+		<action date="1228956840" datetime="2008-12-10T20:54:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10944"/></action>
+		<vote date="1228956900" how="without objection" datetime="2008-12-10T20:55:00-05:00" where="h" type="vote2" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H10944"/></vote>
+		<topresident date="1228885200" datetime="2008-12-10" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1229058000" datetime="2008-12-12" ><text>Presented to President.</text></topresident>
+		<signed date="1230008400" datetime="2008-12-23" ><text>Signed by President.</text></signed>
+		<enacted number="110-460" date="1230008400" datetime="2008-12-23" type="public" ><text>Became Public Law No: 110-460.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

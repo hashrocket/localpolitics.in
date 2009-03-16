@@ -1,0 +1,46 @@
+<bill session="110" type="h" number="580" updated="2009-01-08T18:01:35-05:00">
+	<status><vote date="1174947120" datetime="2007-03-26T19:12:00-04:00" where="h" result="pass" how="roll" roll="189"/></status>
+
+	<introduced date="1169182800" datetime="2007-01-19"/>
+	<titles>
+		<title type="official" as="introduced">To amend chapter 35 of title 28, United States Code, to provide for a 120-day limit to the term of a United States attorney appointed on an interim basis by the Attorney General, and for other purposes.</title>
+	</titles>
+	<sponsor id="400025"/>
+	<cosponsors>
+		<cosponsor id="400364" joined="2007-01-19"/>
+		<cosponsor id="400080" joined="2007-01-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1169182800" datetime="2007-01-19"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1170392400" datetime="2007-02-02"><text>Referred to the Subcommittee on Commercial and Administrative Law.</text></action>
+		<action date="1172725200" datetime="2007-03-01"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1173157200" datetime="2007-03-06"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1173931200" datetime="2007-03-15"><text>Subcommittee on Commercial and Administrative Law Discharged.</text></action>
+		<action date="1173931200" datetime="2007-03-15"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1173931200" datetime="2007-03-15" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1174426620" datetime="2007-03-20T18:37:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 110-58.</text></action>
+		<calendar number="29" date="1174426620" datetime="2007-03-20T18:37:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 29.</text></calendar>
+		<action date="1174940940" datetime="2007-03-26T17:29:00-04:00"><text>Mr. Conyers moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1174940940" datetime="2007-03-26T17:29:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3036-3041"/></action>
+		<action date="1174941000" datetime="2007-03-26T17:30:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 580.</text></action>
+		<action date="1174942740" datetime="2007-03-26T17:59:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1174946640" datetime="2007-03-26T19:04:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3054-3055"/></action>
+		<vote date="1174947120" how="roll" roll="189" datetime="2007-03-26T19:12:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 329 - 78 (Roll no. 189).</text><reference label="text" ref="CR H3036"/></vote>
+		<calendar under="General Orders" number="92" date="1174968000" datetime="2007-03-27" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 92.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/26/2007--Passed House amended. (This measure has not been amended since it was reported to the House on March 20, 2007. The summary of that version is repeated here.) Amends the federal judicial code to provide for a person appointed as U.S. attorney to serve until the earlier of: (1) the qualification of a U.S. attorney for such district appointed by the President (as under current law); or (2) the expiration of 120 days after appointment by the Attorney General. Authorizes the U.S. district court for the particular district, if such a 120-day temporary appointment expires, to appoint a U.S. attorney to serve until the vacancy is filled. States that this Act is the exclusive means for appointing a person to perform temporarily the functions of a U.S. attorney for a district in which the office of a U.S. attorney is vacant.<br/>
+	</summary>
+</bill>

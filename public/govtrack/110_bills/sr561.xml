@@ -1,0 +1,34 @@
+<bill session="110" type="sr" number="561" updated="2009-01-09T21:08:27-05:00">
+	<status><vote date="1210651200" datetime="2008-05-13" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1210651200" datetime="2008-05-13"/>
+	<titles>
+		<title type="official" as="introduced">A resolution commemorating the 50th anniversary of the North American Aerospace Defense Command.</title>
+	</titles>
+	<sponsor id="300003"/>
+	<cosponsors>
+		<cosponsor id="300030" joined="2008-05-13"/>
+		<cosponsor id="400619" joined="2008-05-13"/>
+		<cosponsor id="300077" joined="2008-05-13"/>
+		<cosponsor id="300007" joined="2008-05-13"/>
+		<cosponsor id="300050" joined="2008-05-13"/>
+	</cosponsors>
+	<actions>
+		<vote date="1210651200" how="by Unanimous Consent" datetime="2008-05-13" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S4119-4120"/><reference label="text as passed Senate" ref="CR S4120"/><reference label="text of measure as introduced" ref="CR S4114"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/13/2008--Introduced.<br/>Recognizes the contributions made by the North American Aerospace Defense Command (NORAD) to the security of North America and commemorates 50 years of excellence and distinctive service to the United States and Canada.<br/>
+	</summary>
+</bill>

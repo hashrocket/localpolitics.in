@@ -1,0 +1,44 @@
+<bill session="110" type="h" number="122" updated="2009-01-08T16:57:52-05:00">
+	<status><vote date="1173118680" datetime="2007-03-05T14:18:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="short" as="introduced">Inland Empire Regional Water Recycling Initiative</title>
+		<title type="short" as="passed house">Inland Empire Regional Water Recycling Initiative</title>
+		<title type="official" as="introduced">To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior to participate in the Inland Empire regional recycling project and in the Cucamonga Valley Water District recycling project.</title>
+	</titles>
+	<sponsor id="400115"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2007-01-04"/>
+		<cosponsor id="400277" joined="2007-01-04"/>
+		<cosponsor id="400057" joined="2007-01-04"/>
+		<cosponsor id="400009" joined="2007-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1167973200" datetime="2007-01-05"><text>Sponsor introductory remarks on measure. (CR E15)</text></action>
+		<action date="1170824400" datetime="2007-02-07"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1173070800" datetime="2007-03-05"><text>Subcommittee on Water and Power Discharged.</text></action>
+		<action date="1173117900" datetime="2007-03-05T14:05:00-05:00"><text>Mr. Grijalva moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1173117960" datetime="2007-03-05T14:06:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2124-2125"/></action>
+		<action date="1173117960" datetime="2007-03-05T14:06:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 122.</text></action>
+		<vote date="1173118680" how="by voice vote" datetime="2007-03-05T14:18:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H2124"/></vote>
+		<action date="1173157200" datetime="2007-03-06"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1185940800" datetime="2007-08-01"><text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/5/2007--Passed House amended. Inland Empire Regional Water Recycling Initiative - Amends the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior: (1) in cooperation with the Inland Empire Utilities Agency, to participate in the design, planning, and construction of the Inland Empire regional water recycling project; and (2) in cooperation with the Cucamonga Valley Water District, to participate in the design, planning, and construction of the Cucamonga Valley Water District satellite recycling plants in Rancho Cucamonga, California, to reclaim and recycle approximately two million gallons per day of domestic wastewater. Limits the federal share of the cost of each project to 25%. Terminates the Secretary's authority to carry out the provisions of this Act 10 years after its enactment.<br/>
+	</summary>
+</bill>

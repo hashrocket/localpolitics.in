@@ -1,0 +1,52 @@
+<bill session="111" type="hc" number="52" updated="2009-03-07T09:31:09-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="official" as="introduced">Honoring and remembering the life of Lawrence &quot;Larry&quot; King.</title>
+	</titles>
+	<sponsor id="400062"/>
+	<cosponsors>
+		<cosponsor id="400416" joined="2009-02-12"/>
+		<cosponsor id="400257" joined="2009-02-12"/>
+		<cosponsor id="400289" joined="2009-02-12"/>
+		<cosponsor id="400436" joined="2009-02-12"/>
+		<cosponsor id="400140" joined="2009-02-12"/>
+		<cosponsor id="400013" joined="2009-02-12"/>
+		<cosponsor id="400653" joined="2009-02-13"/>
+		<cosponsor id="400360" joined="2009-02-12"/>
+		<cosponsor id="400129" joined="2009-02-13"/>
+		<cosponsor id="400093" joined="2009-02-13"/>
+		<cosponsor id="400101" joined="2009-02-12"/>
+		<cosponsor id="400355" joined="2009-03-04"/>
+		<cosponsor id="400312" joined="2009-02-13"/>
+		<cosponsor id="412233" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the House Committee on Education and Labor.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="sc" number="7" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Assault and harassment offenses"/>
+		<term name="Congressional tributes"/>
+		<term name="Crime prevention"/>
+		<term name="Crime victims"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Hate crimes"/>
+		<term name="Sex, gender, sexual orientation discrimination"/>
+		<term name="Teaching, teachers, curricula"/>
+		<term name="Violent crime"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Honors the life and remembers and condemns the murder of Lawrence King. Encourages: (1) efforts to address anti-lesbian, -gay, -bisexual, and -transgender name-calling, bullying, harassment, and discrimination on school campuses; (2) training to enable school staff to identify and address such actions effectively and in a timely way; (3) the implementation of age-appropriate, inclusive curricula to help students understand and respect difference within the school community and society as a whole; and (4) each state, city, and local education authority to adopt laws and policies to prohibit such actions against students, teachers, and other school staff regardless of their sexual orientation, gender identity, or gender expression.<br/>
+	</summary>
+</bill>

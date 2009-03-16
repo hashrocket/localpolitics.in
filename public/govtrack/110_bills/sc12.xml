@@ -1,0 +1,47 @@
+<bill session="110" type="sc" number="12" updated="2009-01-09T19:41:43-05:00">
+	<status><vote date="1171515600" datetime="2007-02-15" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1171515600" datetime="2007-02-15"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution supporting the goals and ideals of a National Medal of Honor and to celebrate and honor the recipients of the Medal of Honor on the anniversary of the first award of that medal in 1863.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="2007-02-15"/>
+		<cosponsor id="300029" joined="2007-02-15"/>
+		<cosponsor id="300009" joined="2007-02-15"/>
+		<cosponsor id="300030" joined="2007-02-15"/>
+		<cosponsor id="300071" joined="2007-02-15"/>
+		<cosponsor id="300060" joined="2007-02-15"/>
+		<cosponsor id="400619" joined="2007-02-15"/>
+		<cosponsor id="300066" joined="2007-02-15"/>
+		<cosponsor id="412249" joined="2007-02-15"/>
+		<cosponsor id="300037" joined="2007-02-15"/>
+		<cosponsor id="400050" joined="2007-02-15"/>
+		<cosponsor id="300040" joined="2007-02-15"/>
+		<cosponsor id="300091" joined="2007-02-15"/>
+		<cosponsor id="300099" joined="2007-02-15"/>
+	</cosponsors>
+	<actions>
+		<vote date="1171515600" how="by Unanimous Consent" datetime="2007-02-15" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S2116-2117"/><reference label="text as passed Senate" ref="CR S2116-2117"/><reference label="text of measure as introduced" ref="CR S2112-2113"/></vote>
+		<action date="1171685820" datetime="2007-02-16T12:17:00-05:00"><text>Received in the House.</text></action>
+		<action date="1171602000" datetime="2007-02-16"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1171602000" datetime="2007-02-16"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1190692800" datetime="2007-09-25"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/15/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the: (1) heroism and sacrifice of Medal of Honor recipients; and (2) educational opportunity that a National Medal of Honor Day would present to the people of the United States. Supports the goals and ideals of such a Day to celebrate and honor the contributions of such recipients.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="161" updated="2009-01-09T08:13:42-05:00">
+	<status><vote date="1171658160" datetime="2007-02-16T16:36:00-05:00" where="h" result="pass" how="roll" roll="101"/></status>
+
+	<introduced date="1171429200" datetime="2007-02-14"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of motions to suspend the rules.</title>
+	</titles>
+	<sponsor id="412224"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1171492320" datetime="2007-02-14T18:32:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-13, by Mr. Arcuri.</text></action>
+		<action date="1171492320" datetime="2007-02-14T18:32:00-05:00"><text>The resolution authorizes the Speaker to entertain motions that the House suspend the rules at any time on the legislative day of Friday, February 16, 2007, for consideration of the bill H.R. 976.</text></action>
+		<calendar date="1171492320" datetime="2007-02-14T18:32:00-05:00" ><text>Placed on the House Calendar, Calendar No. 10.</text></calendar>
+		<action date="1171653960" datetime="2007-02-16T15:26:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H1848-1852, S1853-1854"/></action>
+		<action date="1171654080" datetime="2007-02-16T15:28:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 161.</text></action>
+		<action date="1171657680" datetime="2007-02-16T16:28:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 218 - 188 (Roll no. 100).</text><reference label="consideration" ref="CR H1853"/></action>
+		<vote date="1171658160" how="roll" roll="101" datetime="2007-02-16T16:36:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by recorded vote: 220 - 184 (Roll no. 101).</text><reference label="text" ref="CR H1848"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/16/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Makes it in order at any time on February 16, 2007, for the Speaker of the House of Representatives to entertain motions that the House suspend the rules relating to H.R. 976 (Small Business Tax Relief Act of 2007). 
+	</summary>
+</bill>

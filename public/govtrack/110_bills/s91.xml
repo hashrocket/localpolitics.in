@@ -1,0 +1,32 @@
+<bill session="110" type="s" number="91" updated="2009-01-09T11:19:03-05:00">
+	<status><introduced date="1167886800" datetime="2007-01-04"/></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to require the Congressional Budget Office and the Joint Committee on Taxation to use dynamic economic modeling in addition to static economic modeling in the preparation of budgetary estimates of proposed changes in Federal revenue law.</title>
+	</titles>
+	<sponsor id="300040"/>
+	<cosponsors>
+		<cosponsor id="300030" joined="2007-01-04"/>
+		<cosponsor id="300088" joined="2007-01-30"/>
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Read twice and referred to the Committee on the Budget.</text></action>
+		<action date="1168318800" datetime="2007-01-09"><text>Star Print ordered on the bill.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/4/2007--Introduced.<br/>Expresses the sense of Congress that it is necessary to ensure that Congress is presented with reliable information from the Congressional Budget Office (CBO) and the Joint Committee on Taxation as to the dynamic macroeconomic feedback effects to changes in federal law and the probable behavioral responses of taxpayers, businesses, and other parties to such changes. Requires the Joint Committee and CBO, using among other methods dynamic estimating techniques, to prepare fiscal estimates of each proposed change in federal revenue law on the basis of assumptions that estimate the probable behavioral responses of personal and business taxpayers and other relevant entities to such change and its dynamic macroeconomic feedback effects. Applies such requirement only to proposed changes that, pursuant to static fiscal estimates, have a fiscal impact exceeding $250 million in any fiscal year.<br/>
+	</summary>
+</bill>

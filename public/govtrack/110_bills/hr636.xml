@@ -1,0 +1,38 @@
+<bill session="110" type="hr" number="636" updated="2009-01-09T09:11:22-05:00">
+	<status><vote date="1189174260" datetime="2007-09-07T11:11:00-04:00" where="h" result="pass" how="roll" roll="860"/></status>
+
+	<introduced date="1189051200" datetime="2007-09-06"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 1908) to amend title 35, United States Code, to provide for patent reform.</title>
+	</titles>
+	<sponsor id="412239"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1189111620" datetime="2007-09-06T17:47:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-319, by Mr. Welch (VT).</text></action>
+		<action date="1189111620" datetime="2007-09-06T17:47:00-04:00"><text>All points of order againist consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The resolution provides that the amendment in the nature of a substitute recommended by the Committee on the Judiciary, now printed in the bill shall be considered as an original bill.</text></action>
+		<calendar date="1189111680" datetime="2007-09-06T17:48:00-04:00" ><text>Placed on the House Calendar, Calendar No. 108.</text></calendar>
+		<action date="1189167360" datetime="2007-09-07T09:16:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H10249-10255"/></action>
+		<action date="1189167480" datetime="2007-09-07T09:18:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 636.</text></action>
+		<action date="1189170840" datetime="2007-09-07T10:14:00-04:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H10255"/></action>
+		<action date="1189170840" datetime="2007-09-07T10:14:00-04:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 636, the Chair put the question of agreeing to the resolution and by voice vote, announced that the ayes had prevailed. Mr. Lincoln Diaz-Balart demanded the yeas and nays and the Chair postponed further proceedings on the question of agreeing to the resolution until later in the legislative day.</text></action>
+		<action date="1189172820" datetime="2007-09-07T10:47:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10258-10259"/></action>
+		<vote date="1189174260" how="roll" roll="860" datetime="2007-09-07T11:11:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 222 - 181 (Roll no. 860).</text><reference label="text" ref="CR H10249"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/7/2007--Passed House without amendment. Sets forth the rule for consideration of H.R. 1908 (Patent Reform Act of 2007). 
+	</summary>
+</bill>

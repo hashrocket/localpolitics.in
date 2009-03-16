@@ -1,0 +1,34 @@
+<bill session="111" type="h" number="1090" updated="2009-03-07T11:56:53-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="short" as="introduced">Homefront Heroes Tax Relief Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow a credit for care packages provided for soldiers in combat zones and a credit for providing volunteer service to military families through the America Supports You program of the Department of Defense.</title>
+	</titles>
+	<sponsor id="400177"/>
+	<cosponsors>
+		<cosponsor id="400031" joined="2009-03-04"/>
+		<cosponsor id="412232" joined="2009-03-03"/>
+		<cosponsor id="412228" joined="2009-02-26"/>
+		<cosponsor id="400047" joined="2009-02-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

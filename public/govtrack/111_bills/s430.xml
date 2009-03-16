@@ -1,0 +1,32 @@
+<bill session="111" type="s" number="430" updated="2009-03-07T14:24:36-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Economic Development Administration Reauthorization Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Public Works and Economic Development Act of 1965 to reauthorize that Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="300055"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Sponsor introductory remarks on measure. (CR S2243)</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Read twice and referred to the Committee on Environment and Public Works.</text><reference label="text of measure as introduced" ref="CR S2243-2244"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Environment and Public Works" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

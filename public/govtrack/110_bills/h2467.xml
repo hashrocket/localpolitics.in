@@ -1,0 +1,57 @@
+<bill session="110" type="h" number="2467" updated="2009-01-08T21:59:34-05:00">
+	<status><enacted date="1193198400" datetime="2007-10-24" /></status>
+
+	<introduced date="1179892800" datetime="2007-05-23"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 69 Montgomery Street in Jersey City, New Jersey, as the &quot;Frank J. Guarini Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="412186"/>
+	<cosponsors>
+		<cosponsor id="400142" joined="2007-05-23"/>
+		<cosponsor id="400380" joined="2007-06-05"/>
+		<cosponsor id="400132" joined="2007-05-23"/>
+		<cosponsor id="400184" joined="2007-05-23"/>
+		<cosponsor id="400312" joined="2007-05-23"/>
+		<cosponsor id="400359" joined="2007-05-23"/>
+		<cosponsor id="400008" joined="2007-05-23"/>
+		<cosponsor id="400308" joined="2007-05-23"/>
+		<cosponsor id="400346" joined="2007-05-23"/>
+		<cosponsor id="400244" joined="2007-05-23"/>
+		<cosponsor id="400145" joined="2007-06-05"/>
+		<cosponsor id="400309" joined="2007-05-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1179892800" datetime="2007-05-23"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1184817600" datetime="2007-07-19"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1184817600" datetime="2007-07-19" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1189480260" datetime="2007-09-10T12:11:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1189480260" datetime="2007-09-10T12:11:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10326-10327"/></action>
+		<action date="1189480260" datetime="2007-09-10T12:11:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2467.</text></action>
+		<vote date="1189480740" how="by voice vote" datetime="2007-09-10T12:19:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H10326"/></vote>
+		<action date="1189483200" datetime="2007-09-11"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<calendar date="1190779200" datetime="2007-09-26" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1190779200" datetime="2007-09-26"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="389" date="1190779200" datetime="2007-09-26" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 389.</text></calendar>
+		<vote date="1191384000" how="by Unanimous Consent" datetime="2007-10-03" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S12692-12693"/></vote>
+		<topresident date="1191384000" datetime="2007-10-03" ><text>Cleared for White House.</text></topresident>
+		<action date="1191470400" datetime="2007-10-04"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1192420800" datetime="2007-10-15" ><text>Presented to President.</text></topresident>
+		<signed date="1193198400" datetime="2007-10-24" ><text>Signed by President.</text></signed>
+		<enacted number="110-98" date="1193198400" datetime="2007-10-24" type="public" ><text>Became Public Law No: 110-98.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/24/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 69 Montgomery Street in Jersey City, New Jersey, as the &quot;Frank J. Guarini Post Office Building.&quot; 
+	</summary>
+</bill>

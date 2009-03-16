@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="3311" updated="2009-01-08T23:44:08-05:00">
+	<status><enacted date="1186372800" datetime="2007-08-06" /></status>
+
+	<introduced date="1186027200" datetime="2007-08-02"/>
+	<titles>
+		<title type="official" as="introduced">To authorize additional funds for emergency repairs and reconstruction of the Interstate I-35 bridge located in Minneapolis, Minnesota, that collapsed on August 1, 2007, to waive the $100,000,000 limitation on emergency relief funds for those emergency repairs and reconstruction, and for other purposes.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="400332" joined="2007-08-02"/>
+		<cosponsor id="412215" joined="2007-08-02"/>
+		<cosponsor id="412214" joined="2007-08-02"/>
+		<cosponsor id="400316" joined="2007-08-02"/>
+		<cosponsor id="400224" joined="2007-08-02"/>
+		<cosponsor id="400259" joined="2007-08-02"/>
+		<cosponsor id="412216" joined="2007-08-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1186027200" datetime="2007-08-02"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1186027200" datetime="2007-08-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1186027200" datetime="2007-08-02" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1186172160" datetime="2007-08-03T17:16:00-04:00"><text>Mr. Oberstar moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1186172160" datetime="2007-08-03T17:16:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9675-9681"/></action>
+		<action date="1186172160" datetime="2007-08-03T17:16:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3311.</text></action>
+		<vote date="1186176600" how="roll" roll="819" datetime="2007-08-03T18:30:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 819).</text><reference label="text" ref="CR H9675-9676"/></vote>
+		<action date="1186113600" datetime="2007-08-03"><text>Received in the Senate, read twice.</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S10873-10874"/></action>
+		<vote date="1186113600" how="by Unanimous Consent" datetime="2007-08-03" where="s" type="vote2" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action date="1186113600" datetime="2007-08-03"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1186269960" datetime="2007-08-04T20:26:00-04:00"><text>Under the special order previously agreed to, the Chair announced that the Senate amendment to H.R. 3311 was before the House.</text></action>
+		<action date="1186269960" datetime="2007-08-04T20:26:00-04:00"><text>On motion that the House agree to the Senate amendment Agreed to without objection.</text><reference label="consideration" ref="CR H9952"/><reference label="text as House agree to Senate amendment" ref="CR H9952"/></action>
+		<topresident date="1186200000" datetime="2007-08-04" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1186372800" datetime="2007-08-06" ><text>Presented to President.</text></topresident>
+		<signed date="1186372800" datetime="2007-08-06" ><text>Signed by President.</text></signed>
+		<enacted number="110-56" date="1186372800" datetime="2007-08-06" type="public" ><text>Became Public Law No: 110-56.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/6/2007--Public Law. Authorizes the Secretary of Transportation to carry out a project for the repair and reconstruction of the Interstate I-35 bridge located in Minneapolis, Minnesota, that collapsed on August 1, 2007. Makes the federal share of the project cost 100%. Authorizes appropriations. Waives, for such project, the $100 million per state single-failure (or, single-disaster) highway-related total obligation limitation. Amends the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users to authorize the Secretary to: (1) use such single-failure (or, single-disaster) highway-related funds for the repair and reconstruction of the Interstate I-35W bridge in Minneapolis, Minnesota, that collapsed on August 1, 2007; and (2) use no more than $5 million of funds made available for FY2007 for Federal Transit Administration Discretionary Programs, Bus and Bus Facilities (without any local matching funds requirement) to reimburse the Minnesota state department of transportation for actual and necessary costs of maintenance and operation (less the amount of fares earned) for providing temporary substitute highway traffic service following the collapse of the Interstate I-35W bridge in Minneapolis, Minnesota, on August 1, 2007, until highway traffic service is restored on such bridge. Makes the federal share of the project cost 100%.<br/>
+	</summary>
+</bill>

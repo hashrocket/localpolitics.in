@@ -1,0 +1,47 @@
+<bill session="111" type="h" number="266" updated="2009-03-07T10:18:57-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Cybersecurity Education Enhancement Act of 2009</title>
+		<title type="official" as="introduced">To authorize the Secretary of Homeland Security to establish a program to award grants to institutions of higher education for the establishment or expansion of cybersecurity professional development programs, and for other purposes.</title>
+	</titles>
+	<sponsor id="400199"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the Committee on Science and Technology, and in addition to the Committees on Education and Labor, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to House Science and Technology</text></action>
+		<action date="1231304400" datetime="2009-01-07"><committee name="House Science and Technology"/><text>Referred to the Subcommittee on Technology and Innovation.</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to House Education and Labor</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to House Homeland Security</text></action>
+		<action date="1233810000" datetime="2009-02-05"><committee name="House Homeland Security"/><text>Referred to the Subcommittee on Emerging Threats, Cybersecurity, and Science and Technology.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Science and Technology" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Science and Technology" subcommittee="Technology and Innovation" activity="Referral" />
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Homeland Security" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Homeland Security" subcommittee="Emerging Threats, Cybersecurity, and Science and Technology" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Computer crimes and identity theft"/>
+		<term name="Education programs funding"/>
+		<term name="Educational technology and distance education"/>
+		<term name="Higher education"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Minority education"/>
+		<term name="Public participation and lobbying"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Cybersecurity Education Enhancement Act of 2009 - Directs the Secretary of Homeland Security, acting through the Assistant Secretary of Cybersecurity, to establish, in conjunction with the National Science Foundation, a program to award grants to institutions of higher education for: (1) cybersecurity professional development programs; (2) associate degree programs in cybersecurity; and (3) the purchase of equipment to provide training in cybersecurity for either professional development or degree programs. Requires the Director of the National Science Foundation to operate the program. Amends the Homeland Security Act of 2002 to direct the Secretary to establish an E-Security Fellows program to bring state, local, tribal, and private sector officials to participate in the work of the National Cybersecurity Division in order to become familiar with Department of Homeland Security cybersecurity missions and capabilities.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="361" updated="2009-03-07T10:29:58-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide a 1-year extension of the increased expensing of certain depreciable business assets and the special depreciation allowance for certain business property.</title>
+	</titles>
+	<sponsor id="412267"/>
+	<cosponsors>
+		<cosponsor id="412300" joined="2009-01-26"/>
+		<cosponsor id="412301" joined="2009-01-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Business investment and capital"/>
+		<term name="Income tax deductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Amends the Internal Revenue Code to extend through 2009: (1) the increased ($250,000) expensing allowance for depreciable business assets; and (2) the additional 50% depreciation allowance for certain types of investment property (bonus depreciation). 
+	</summary>
+</bill>

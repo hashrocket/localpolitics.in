@@ -1,0 +1,53 @@
+<bill session="111" type="hr" number="8" updated="2009-03-07T12:58:38-05:00">
+	<status><vote date="1231273980" datetime="2009-01-06T16:33:00-05:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">Electing Members to certain standing committees of the House of Representatives.</title>
+	</titles>
+	<sponsor id="400233"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231273980" datetime="2009-01-06T16:33:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H20-21"/></action>
+		<vote date="1231273980" how="without objection" datetime="2009-01-06T16:33:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text" ref="CR H20-21"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional committees"/>
+		<term name="House Committee on Agriculture"/>
+		<term name="House Committee on Appropriations"/>
+		<term name="House Committee on Armed Services"/>
+		<term name="House Committee on Education and Labor"/>
+		<term name="House Committee on Energy and Commerce"/>
+		<term name="House Committee on Financial Services"/>
+		<term name="House Committee on Foreign Affairs"/>
+		<term name="House Committee on Homeland Security"/>
+		<term name="House Committee on House Administration"/>
+		<term name="House Committee on Natural Resources"/>
+		<term name="House Committee on Oversight and Government Reform"/>
+		<term name="House Committee on Rules"/>
+		<term name="House Committee on Science and Technology"/>
+		<term name="House Committee on Small Business"/>
+		<term name="House Committee on Transportation and Infrastructure"/>
+		<term name="House Committee on Veterans' Affairs"/>
+		<term name="House Committee on Ways and Means"/>
+		<term name="House Committee on the Budget"/>
+		<term name="House Committee on the Judiciary"/>
+		<term name="House of Representatives"/>
+		<term name="Members of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Elects certain named Majority Members to specified Committees of the House, including ranking Members.<br/>
+	</summary>
+</bill>

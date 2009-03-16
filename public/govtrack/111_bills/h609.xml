@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="609" updated="2009-03-07T10:59:11-05:00">
+	<status><introduced date="1232082000" datetime="2009-01-16"/></status>
+
+	<introduced date="1232082000" datetime="2009-01-16"/>
+	<titles>
+		<title type="short" as="introduced">Right to Clean Vehicles Act</title>
+		<title type="official" as="introduced">To permit California and other States to effectively control greenhouse gas emissions from motor vehicles, and for other purposes.</title>
+	</titles>
+	<sponsor id="400371"/>
+	<cosponsors>
+		<cosponsor id="412239" joined="2009-01-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1232082000" datetime="2009-01-16"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Air quality"/>
+		<term name="California"/>
+		<term name="Climate change"/>
+		<term name="Federal preemption"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Motor vehicles"/>
+		<term name="State and local government operations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/16/2009--Introduced.<br/>Right to Clean Vehicles Act - Amends the Clean Air Act to approve the application of the state of California for a waiver of federal preemption of its motor vehicle emission standards. 
+	</summary>
+</bill>

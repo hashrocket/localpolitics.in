@@ -1,0 +1,58 @@
+<bill session="110" type="h" number="3774" updated="2009-01-09T00:46:10-05:00">
+	<status><vote date="1212518160" datetime="2008-06-03T15:36:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1191902400" datetime="2007-10-09"/>
+	<titles>
+		<title type="short" as="introduced">Senior Executive Service Diversity Assurance Act</title>
+		<title type="short" as="reported to house">Senior Executive Service Diversity Assurance Act</title>
+		<title type="short" as="passed house">Senior Executive Service Diversity Assurance Act</title>
+		<title type="official" as="introduced">To provide for greater diversity within, and to improve policy direction and oversight of, the Senior Executive Service.</title>
+	</titles>
+	<sponsor id="400093"/>
+	<cosponsors>
+		<cosponsor id="400227" joined="2007-10-09"/>
+		<cosponsor id="400295" joined="2007-10-09"/>
+		<cosponsor id="400170" joined="2007-12-17"/>
+		<cosponsor id="400152" joined="2007-10-09"/>
+		<cosponsor id="400249" joined="2007-10-09"/>
+		<cosponsor id="412199" joined="2008-02-06"/>
+		<cosponsor id="400074" joined="2007-10-09"/>
+		<cosponsor id="412236" joined="2007-11-05"/>
+		<cosponsor id="412212" joined="2007-10-09"/>
+		<cosponsor id="400283" joined="2008-01-28"/>
+		<cosponsor id="400090" joined="2007-10-09"/>
+		<cosponsor id="400179" joined="2007-10-31"/>
+	</cosponsors>
+	<actions>
+		<action date="1191902400" datetime="2007-10-09"><text>Sponsor introductory remarks on measure. (CR E2089-2090)</text></action>
+		<action date="1191902400" datetime="2007-10-09"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1192075200" datetime="2007-10-11"><text>Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia.</text></action>
+		<action date="1207195200" datetime="2008-04-03"><text>Committee on Homeland Security and Governmental Affairs Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia. Hearings held.</text></action>
+		<action date="1208232000" datetime="2008-04-15"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1209614400" datetime="2008-05-01"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1209614400" datetime="2008-05-01" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1211501220" datetime="2008-05-22T21:07:00-04:00"><text>Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-672.</text></action>
+		<calendar number="423" date="1211501280" datetime="2008-05-22T21:08:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 423.</text></calendar>
+		<action date="1212517440" datetime="2008-06-03T15:24:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1212517440" datetime="2008-06-03T15:24:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4846-4848"/></action>
+		<action date="1212517440" datetime="2008-06-03T15:24:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3774.</text></action>
+		<vote date="1212518160" how="by voice vote" datetime="2008-06-03T15:36:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H4846-4847"/></vote>
+		<action date="1212552000" datetime="2008-06-04"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1213848000" datetime="2008-06-19"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/3/2008--Passed House amended. Senior Executive Service Diversity Assurance Act - Requires the Director of the Office of Personnel Management (OPM) to establish within OPM the Senior Executive Service Resource Office to make recommendations to the Director with respect to regulations, and to provide guidance to agencies, concerning the structure, management, and diverse composition of the Senior Executive Service (SES).<br/>Makes it the Office's mission to: (1) improve the efficiency, effectiveness, and productivity of the SES through policy formulation and oversight; (2) advance the professionalism of the SES; and (3) ensure that, in seeking to achieve an SES reflective of the nation's diversity, recruitment is from qualified individuals from appropriate sources.<br/>Requires the Office to make statistics concerning career reserved positions accessible to the public through the official public website of OPM.<br/>Revises the career appointments recruiting process to require agency heads to ensure diversity of executive resources boards, and any subgroup or other evaluation panel related to the merit staffing process for career appointees, by including members of racial and ethnic minority groups, women, and individuals with disabilities. Requires the Director to promulgate necessary regulations and report to Congress on agency efforts to improve diversity in executive resources boards and of qualifications review boards, based on the collection of statistics concerning race, ethnicity, sex, and disability required by this Act.<br/>Requires each agency, within one year after enactment of this Act, to submit to OPM a plan to enhance and maximize opportunities for the advancement and appointment of minorities, women, and individuals with disabilities in the agency to the SES. Requires the plans to: (1) address how the agency is identifying and eliminating barriers that impair the ability of such employees to obtain appointments and any actions the agency is taking to provide advancement opportunities; and (2) be updated at least biennially. Requires the Director to report to Congress on plans and updates.<br/>
+	</summary>
+</bill>

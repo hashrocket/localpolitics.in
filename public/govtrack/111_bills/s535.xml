@@ -1,0 +1,38 @@
+<bill session="111" type="s" number="535" updated="2009-03-06T12:01:30-05:00">
+	<status><introduced date="1236229200" datetime="2009-03-05"/></status>
+
+	<introduced date="1236229200" datetime="2009-03-05"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title 10, United States Code, to repeal requirement for reduction of survivor annuities under the Survivor Benefit Plan by veterans' dependency and indemnity compensation, and for other purposes.</title>
+	</titles>
+	<sponsor id="300078"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="2009-03-05"/>
+		<cosponsor id="300060" joined="2009-03-05"/>
+		<cosponsor id="300043" joined="2009-03-05"/>
+		<cosponsor id="300055" joined="2009-03-05"/>
+		<cosponsor id="300091" joined="2009-03-05"/>
+		<cosponsor id="300068" joined="2009-03-05"/>
+		<cosponsor id="300088" joined="2009-03-05"/>
+		<cosponsor id="300073" joined="2009-03-05"/>
+		<cosponsor id="400418" joined="2009-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1236229200" datetime="2009-03-05"><text>Read twice and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

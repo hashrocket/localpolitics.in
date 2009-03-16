@@ -1,0 +1,46 @@
+<bill session="111" type="h" number="819" updated="2009-03-07T11:24:30-05:00">
+	<status><introduced date="1233637200" datetime="2009-02-03"/></status>
+
+	<introduced date="1233637200" datetime="2009-02-03"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to provide for the payment of dependency and indemnity compensation to the survivors of former prisoners of war who died on or before September 30, 1999, under the same eligibility conditions as apply to payment of dependency and indemnity compensation to the survivors of former prisoners of war who die after that date.</title>
+	</titles>
+	<sponsor id="400183"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2009-02-03"/>
+		<cosponsor id="400331" joined="2009-02-03"/>
+		<cosponsor id="412199" joined="2009-02-03"/>
+		<cosponsor id="400436" joined="2009-02-03"/>
+		<cosponsor id="412234" joined="2009-02-10"/>
+		<cosponsor id="400295" joined="2009-02-03"/>
+		<cosponsor id="400077" joined="2009-02-03"/>
+		<cosponsor id="400047" joined="2009-02-03"/>
+		<cosponsor id="412231" joined="2009-02-13"/>
+		<cosponsor id="400274" joined="2009-02-10"/>
+		<cosponsor id="400286" joined="2009-02-10"/>
+		<cosponsor id="412301" joined="2009-02-03"/>
+		<cosponsor id="400285" joined="2009-02-03"/>
+		<cosponsor id="400130" joined="2009-02-13"/>
+		<cosponsor id="400316" joined="2009-03-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Disability Assistance and Memorial Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/2009--Introduced.<br/>Amends veterans' benefit provisions to provide for the payment of dependency and indemnity compensation to the survivors of veterans rated totally disabled at the time of death who were former prisoners of war (under current law, to the survivors of such veterans who died after September 30, 1999).<br/>
+	</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="111" type="s" number="322" updated="2009-03-07T14:12:00-05:00">
+	<status><introduced date="1232946000" datetime="2009-01-26"/></status>
+
+	<introduced date="1232946000" datetime="2009-01-26"/>
+	<titles>
+		<title type="short" as="introduced">Commuter Benefits Equity Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to equalize the exclusion from gross income of parking and transportation fringe benefits and to provide for a common cost-of-living adjustment, and for other purposes.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="2009-01-26"/>
+		<cosponsor id="300009" joined="2009-01-26"/>
+		<cosponsor id="400064" joined="2009-01-26"/>
+		<cosponsor id="300059" joined="2009-01-26"/>
+		<cosponsor id="300011" joined="2009-01-26"/>
+		<cosponsor id="300067" joined="2009-01-26"/>
+		<cosponsor id="300060" joined="2009-01-26"/>
+		<cosponsor id="300092" joined="2009-01-26"/>
+		<cosponsor id="300034" joined="2009-01-26"/>
+		<cosponsor id="300019" joined="2009-01-26"/>
+		<cosponsor id="412249" joined="2009-02-25"/>
+		<cosponsor id="412326" joined="2009-02-02"/>
+		<cosponsor id="300100" joined="2009-01-26"/>
+		<cosponsor id="300064" joined="2009-01-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1232946000" datetime="2009-01-26"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="891" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Commuting"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Income tax exclusion"/>
+		<term name="Transportation costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/2009--Introduced.<br/>Commuter Benefits Equity Act of 2009 - Amends the Internal Revenue Code to equalize and increase to $230, with a cost-of-living adjustment after 2009, the tax exclusion for both transportation and parking fringe benefits. Extends such benefits to federal employees.<br/>
+	</summary>
+</bill>

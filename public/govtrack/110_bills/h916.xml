@@ -1,0 +1,113 @@
+<bill session="110" type="h" number="916" updated="2009-01-08T18:43:40-05:00">
+	<status><vote date="1179253440" datetime="2007-05-15T15:24:00-04:00" where="h" result="pass" how="roll" roll="347"/></status>
+
+	<introduced date="1170910800" datetime="2007-02-08"/>
+	<titles>
+		<title type="short" as="introduced">John R. Justice Prosecutors and Defenders Incentive Act of 2007</title>
+		<title type="short" as="reported to house">John R. Justice Prosecutors and Defenders Incentive Act of 2007</title>
+		<title type="short" as="passed house">John R. Justice Prosecutors and Defenders Incentive Act of 2007</title>
+		<title type="official" as="introduced">To provide for loan repayment for prosecutors and public defenders.</title>
+	</titles>
+	<sponsor id="400363"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="2007-02-08"/>
+		<cosponsor id="400133" joined="2007-03-21"/>
+		<cosponsor id="400199" joined="2007-04-23"/>
+		<cosponsor id="400227" joined="2007-02-27"/>
+		<cosponsor id="400364" joined="2007-02-08"/>
+		<cosponsor id="400289" joined="2007-02-08"/>
+		<cosponsor id="400099" joined="2007-02-08"/>
+		<cosponsor id="400616" joined="2007-02-08"/>
+		<cosponsor id="400155" joined="2007-02-08"/>
+		<cosponsor id="400092" joined="2007-04-23"/>
+		<cosponsor id="400080" joined="2007-02-08"/>
+		<cosponsor id="400162" joined="2007-05-07"/>
+		<cosponsor id="400102" joined="2007-02-08"/>
+		<cosponsor id="400282" joined="2007-02-08"/>
+		<cosponsor id="412224" joined="2007-02-08"/>
+		<cosponsor id="400246" joined="2007-02-08"/>
+		<cosponsor id="400333" joined="2007-03-21"/>
+		<cosponsor id="400623" joined="2007-02-08"/>
+		<cosponsor id="400096" joined="2007-02-16"/>
+		<cosponsor id="400424" joined="2007-05-02"/>
+		<cosponsor id="412215" joined="2007-02-08"/>
+		<cosponsor id="400063" joined="2007-02-16"/>
+		<cosponsor id="400361" joined="2007-02-08"/>
+		<cosponsor id="400260" joined="2007-02-08"/>
+		<cosponsor id="400132" joined="2007-03-12"/>
+		<cosponsor id="400274" joined="2007-03-12"/>
+		<cosponsor id="400101" joined="2007-02-16"/>
+		<cosponsor id="400652" joined="2007-05-03"/>
+		<cosponsor id="400384" joined="2007-02-08"/>
+		<cosponsor id="400412" joined="2007-02-16"/>
+		<cosponsor id="400355" joined="2007-03-06"/>
+		<cosponsor id="412208" joined="2007-05-07"/>
+		<cosponsor id="400130" joined="2007-02-08"/>
+		<cosponsor id="400249" joined="2007-02-08"/>
+		<cosponsor id="400030" joined="2007-02-08"/>
+		<cosponsor id="400312" joined="2007-02-08"/>
+		<cosponsor id="400010" joined="2007-03-21"/>
+		<cosponsor id="400231" joined="2007-04-19"/>
+		<cosponsor id="400144" joined="2007-05-01"/>
+		<cosponsor id="400442" joined="2007-02-16"/>
+		<cosponsor id="400103" joined="2007-02-08"/>
+		<cosponsor id="400270" joined="2007-04-17"/>
+		<cosponsor id="400436" joined="2007-02-08"/>
+		<cosponsor id="400346" joined="2007-04-17"/>
+		<cosponsor id="400237" joined="2007-02-08"/>
+		<cosponsor id="400013" joined="2007-03-12"/>
+		<cosponsor id="400195" joined="2007-02-27"/>
+		<cosponsor id="400439" joined="2007-04-19"/>
+		<cosponsor id="400360" joined="2007-02-08"/>
+		<cosponsor id="400645" joined="2007-05-01"/>
+		<cosponsor id="400021" joined="2007-05-14"/>
+		<cosponsor id="400107" joined="2007-02-16"/>
+		<cosponsor id="400120" joined="2007-05-01"/>
+		<cosponsor id="412200" joined="2007-02-16"/>
+		<cosponsor id="400081" joined="2007-02-16"/>
+		<cosponsor id="400125" joined="2007-03-12"/>
+		<cosponsor id="400421" joined="2007-04-19"/>
+		<cosponsor id="412236" joined="2007-05-14"/>
+		<cosponsor id="400093" joined="2007-02-08"/>
+		<cosponsor id="400090" joined="2007-05-14"/>
+		<cosponsor id="400218" joined="2007-03-29"/>
+		<cosponsor id="400240" joined="2007-02-08"/>
+		<cosponsor id="400215" joined="2007-04-19"/>
+		<cosponsor id="400025" joined="2007-02-08"/>
+		<cosponsor id="400163" joined="2007-03-12"/>
+		<cosponsor id="400190" joined="2007-03-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1170910800" datetime="2007-02-08"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1172725200" datetime="2007-03-01"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+		<action date="1177387200" datetime="2007-04-24"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1177560000" datetime="2007-04-26"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1177560000" datetime="2007-04-26"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1178078400" datetime="2007-05-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1178078400" datetime="2007-05-02" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1179201120" datetime="2007-05-14T12:52:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 110-148.</text></action>
+		<calendar number="88" date="1179201180" datetime="2007-05-14T12:53:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 88.</text></calendar>
+		<action date="1179237540" datetime="2007-05-15T10:59:00-04:00"><text>Mr. Conyers moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1179237540" datetime="2007-05-15T10:59:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4978-4982"/></action>
+		<action date="1179237540" datetime="2007-05-15T10:59:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 916.</text></action>
+		<action date="1179239100" datetime="2007-05-15T11:25:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1179252960" datetime="2007-05-15T15:16:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5015-5016"/></action>
+		<vote date="1179253440" how="roll" roll="347" datetime="2007-05-15T15:24:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 341 - 73 (Roll no. 347).</text><reference label="text" ref="CR H4978-4979"/></vote>
+		<calendar under="General Orders" number="149" date="1179288000" datetime="2007-05-16" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 149.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/15/2007--Passed House amended. (This measure has not been amended since it was reported to the House on May 14, 2007. The summary of that version is repeated here.)<br/>John R. Justice Prosecutors and Defenders Incentive Act of 2007 - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to add a program for student loan repayment for prosecutors and public defenders. Defines &quot;prosecutor&quot; as a full-time state or local agency employee who: (1) is continually licensed to practice law; and (2) prosecutes criminal or juvenile delinquency cases, including an employee who supervises, educates, or trains other attorneys prosecuting such cases.<br/>Defines &quot;public defender&quot; as a licensed attorney who is a full-time state or local agency employee or a full-time employee of a nonprofit organization who provides legal representation to indigent persons in criminal or juvenile delinquency cases, including an attorney who supervises, educates, or trains other attorneys to provide such representation. Includes in such definition a full-time federal defender attorney.<br/>Directs the Attorney General to establish a program to assume the obligation to repay the student loans of any borrowers who are employed as prosecutors or public defenders and who are not in default on their loans. Sets forth requirements for such program, including that: (1) the borrower will remain employed as a prosecutor or public defender for not less than three years; and (2) the borrower will repay to the Attorney General any repayment benefits received if the borrower is fired from employment for misconduct or voluntarily separates from employment.<br/>Limits the amount payable under such program for any borrower to $10,000 per year andan aggregate total of $60,000.<br/>Authorizes the Attorney General to enter into subsequent agreements with a borrower for another three-year period or a lesser period.<br/>Requires the Attorney General to give priority in granting repayment benefits to borrowers who have the least ability to repay their loans.<br/>Authorizes the Attorney General to issue regulations to carry out this Act.<br/>Requires the Inspector General of the Department of Justice to report to Congress on the cost of loan repayment program under this Act and the impact of such program on the hiring and retention of prosecutors and public defenders.<br/>Directs the Comptroller General to study and report to Congress on the impact of law school accreditation requirements and other factors on law school costs and access, including the impact of such requirements on racial and ethnic minorities.<br/>Authorizes appropriations for FY2008-FY2013.<br/>
+	</summary>
+</bill>

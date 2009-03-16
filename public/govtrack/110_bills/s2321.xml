@@ -1,0 +1,37 @@
+<bill session="110" type="s" number="2321" updated="2009-01-09T16:41:32-05:00">
+	<status><calendar date="1195016400" datetime="2007-11-14" /></status>
+
+	<introduced date="1194411600" datetime="2007-11-07"/>
+	<titles>
+		<title type="short" as="introduced">E-Government Reauthorization Act of 2007</title>
+		<title type="short" as="reported to senate">E-Government Reauthorization Act of 2007</title>
+		<title type="official" as="introduced">A bill to amend the E-Government Act of 2002 (Public Law 107-347) to reauthorize appropriations, and for other purposes.</title>
+	</titles>
+	<sponsor id="300067"/>
+	<cosponsors>
+		<cosponsor id="300025" joined="2007-11-07"/>
+		<cosponsor id="300019" joined="2007-11-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1194411600" datetime="2007-11-07"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<calendar date="1195016400" datetime="2007-11-14" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1197349200" datetime="2007-12-11"><text>Committee on Homeland Security and Governmental Affairs. Hearings held.</text></action>
+		<action date="1221537600" datetime="2008-09-16"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. With written report No. 110-465.</text></action>
+		<calendar under="General Orders" number="970" date="1221537600" datetime="2008-09-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 970.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/16/2008--Reported to Senate amended. E-Government Reauthorization Act of 2007 - Amends the E-Government Act of 2002 to reauthorize appropriations through FY2012 for: (1) the integrated Internet-based system providing public access to government information and services (federal Internet portal); (2) the governmentwide repository and website; (3) the study of best practices at community technology centers, development and dissemination of the online tutorial, and promotion of community technology centers; (4) common protocols for geographic information systems; and (5) the Office of Management and Budget (OMB) electronic government services, and federal management and promotion of such services. Extends the authorization of appropriations through FY2012 for: (1) coordination of federal information policy (information security); (2) the E-Government Fund; and (3) the Information Exchange Program. Amends the National Institute of Standards and Technology Act to extend the Computer Standards Program through FY2012. Amends the Paperwork Reduction Act to require the Director of the Office of Science and Technology Policy to: (1) develop best practices for agencies to follow in conducting privacy impact assessments; and (2) ensure that publicly available online federal government information and services are made more accessible to external search capabilities, including commercial and governmental.<br/>
+	</summary>
+</bill>

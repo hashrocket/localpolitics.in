@@ -1,0 +1,33 @@
+<bill session="111" type="sr" number="27" updated="2009-03-07T14:41:38-05:00">
+	<status><vote date="1233723600" datetime="2009-02-04" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="official" as="introduced">A resolution congratulating the Pittsburgh Steelers on winning Super Bowl XLIII.</title>
+	</titles>
+	<sponsor id="412246"/>
+	<cosponsors>
+		<cosponsor id="300092" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<vote date="1233723600" how="by Unanimous Consent" datetime="2009-02-04" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S1612-1613"/><reference label="text as passed Senate" ref="CR S1613"/><reference label="text of measure as introduced" ref="CR S1550"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="110" />
+	</relatedbills>
+	<subjects>
+		<term name="Sports and recreation"/>
+		<term name="Congressional tributes"/>
+		<term name="Pennsylvania"/>
+		<term name="Professional sports"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

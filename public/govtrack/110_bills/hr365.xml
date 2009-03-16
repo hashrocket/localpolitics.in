@@ -1,0 +1,65 @@
+<bill session="110" type="hr" number="365" updated="2009-01-09T08:38:22-05:00">
+	<status><vote date="1194992100" datetime="2007-11-13T18:15:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1178078400" datetime="2007-05-02"/>
+	<titles>
+		<title type="official" as="introduced">Honoring San Jose State University for its 150 years of commitment to public higher education.</title>
+		<title type="official" as="amended by house">Resolution honoring San Jose' State University for its 150 years of commitment to public higher education.</title>
+	</titles>
+	<sponsor id="400185"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2007-10-22"/>
+		<cosponsor id="400618" joined="2007-11-01"/>
+		<cosponsor id="400330" joined="2007-11-01"/>
+		<cosponsor id="400403" joined="2007-10-22"/>
+		<cosponsor id="400129" joined="2007-05-02"/>
+		<cosponsor id="412190" joined="2007-11-09"/>
+		<cosponsor id="400267" joined="2007-11-01"/>
+		<cosponsor id="400065" joined="2007-10-22"/>
+		<cosponsor id="400124" joined="2007-05-02"/>
+		<cosponsor id="412189" joined="2007-05-02"/>
+		<cosponsor id="400396" joined="2007-10-22"/>
+		<cosponsor id="400384" joined="2007-10-22"/>
+		<cosponsor id="400355" joined="2007-11-01"/>
+		<cosponsor id="400245" joined="2007-05-02"/>
+		<cosponsor id="400231" joined="2007-10-22"/>
+		<cosponsor id="412253" joined="2007-10-22"/>
+		<cosponsor id="400663" joined="2007-11-01"/>
+		<cosponsor id="400387" joined="2007-10-22"/>
+		<cosponsor id="400347" joined="2007-11-01"/>
+		<cosponsor id="400166" joined="2007-10-22"/>
+		<cosponsor id="400237" joined="2007-11-01"/>
+		<cosponsor id="400021" joined="2007-11-01"/>
+		<cosponsor id="400009" joined="2007-11-01"/>
+		<cosponsor id="400371" joined="2007-11-01"/>
+		<cosponsor id="400119" joined="2007-11-01"/>
+		<cosponsor id="400097" joined="2007-11-01"/>
+		<cosponsor id="400025" joined="2007-11-09"/>
+		<cosponsor id="400062" joined="2007-11-01"/>
+		<cosponsor id="400278" joined="2007-10-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1178078400" datetime="2007-05-02"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1184644800" datetime="2007-07-17"><text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text></action>
+		<action date="1194991680" datetime="2007-11-13T18:08:00-05:00"><text>Mr. Bishop (NY) moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1194991740" datetime="2007-11-13T18:09:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H13816-13818"/></action>
+		<action date="1194991740" datetime="2007-11-13T18:09:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 365.</text></action>
+		<vote date="1194992100" how="by voice vote" datetime="2007-11-13T18:15:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H13816"/></vote>
+		<action date="1194992100" datetime="2007-11-13T18:15:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/13/2007--Passed House amended. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Honors San Jose State University in California for its 150 years of commitment to public higher education.<br/>
+	</summary>
+</bill>

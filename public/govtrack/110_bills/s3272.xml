@@ -1,0 +1,37 @@
+<bill session="110" type="s" number="3272" updated="2009-01-09T18:43:00-05:00">
+	<status><introduced date="1216180800" datetime="2008-07-16"/></status>
+
+	<introduced date="1216180800" datetime="2008-07-16"/>
+	<titles>
+		<title type="short" as="introduced">NIH Emergency Supplemental Appropriations Act of 2008</title>
+		<title type="official" as="introduced">A bill to make emergency supplemental appropriations for the National Institutes of Health for the fiscal year ending September 30, 2008, and for other purposes.</title>
+	</titles>
+	<sponsor id="300092"/>
+	<cosponsors>
+		<cosponsor id="300025" joined="2008-07-21"/>
+		<cosponsor id="300059" joined="2008-07-21"/>
+		<cosponsor id="300024" joined="2008-07-21"/>
+		<cosponsor id="300051" joined="2008-07-16"/>
+		<cosponsor id="300054" joined="2008-07-21"/>
+		<cosponsor id="300090" joined="2008-07-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1216180800" datetime="2008-07-16"><text>Sponsor introductory remarks on measure. (CR S6872)</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Read twice and referred to the Committee on Appropriations.</text><reference label="text of measure as introduced" ref="CR S6873"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/16/2008--Introduced.<br/>NIH Emergency Supplemental Appropriations Act of 2008 - Makes emergency supplemental appropriations to the National Institutes of Health (NIH) and the National Cancer Institute for FY2008 to support additional scientific research.<br/>
+	</summary>
+</bill>

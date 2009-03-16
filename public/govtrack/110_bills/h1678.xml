@@ -1,0 +1,81 @@
+<bill session="110" type="h" number="1678" updated="2009-01-08T20:21:15-05:00">
+	<status><vote date="1177529100" datetime="2007-04-25T16:25:00-04:00" where="h" result="pass" how="roll" roll="260"/></status>
+
+	<introduced date="1174881600" datetime="2007-03-26"/>
+	<titles>
+		<title type="short" as="introduced">Torture Victims Relief Reauthorization Act of 2007</title>
+		<title type="short" as="reported to house">Torture Victims Relief Reauthorization Act of 2007</title>
+		<title type="short" as="passed house">Torture Victims Relief Reauthorization Act of 2007</title>
+		<title type="short" as="reported to senate">Torture Victims Relief Reauthorization Act of 2007</title>
+		<title type="official" as="introduced">To amend the Torture Victims Relief Act of 1998 to authorize appropriations to provide assistance for domestic and foreign programs and centers for the treatment of victims of torture, and for other purposes.</title>
+	</titles>
+	<sponsor id="400380"/>
+	<cosponsors>
+		<cosponsor id="400222" joined="2007-04-17"/>
+		<cosponsor id="400199" joined="2007-04-16"/>
+		<cosponsor id="400413" joined="2007-03-26"/>
+		<cosponsor id="400263" joined="2007-03-26"/>
+		<cosponsor id="400162" joined="2007-03-26"/>
+		<cosponsor id="400336" joined="2007-03-26"/>
+		<cosponsor id="400333" joined="2007-03-26"/>
+		<cosponsor id="412215" joined="2007-03-27"/>
+		<cosponsor id="400198" joined="2007-04-18"/>
+		<cosponsor id="400268" joined="2007-03-26"/>
+		<cosponsor id="400003" joined="2007-03-26"/>
+		<cosponsor id="400423" joined="2007-03-26"/>
+		<cosponsor id="400274" joined="2007-03-26"/>
+		<cosponsor id="412189" joined="2007-04-16"/>
+		<cosponsor id="412214" joined="2007-04-16"/>
+		<cosponsor id="400412" joined="2007-03-26"/>
+		<cosponsor id="400312" joined="2007-03-26"/>
+		<cosponsor id="400245" joined="2007-04-16"/>
+		<cosponsor id="400231" joined="2007-03-26"/>
+		<cosponsor id="400640" joined="2007-03-26"/>
+		<cosponsor id="400259" joined="2007-03-26"/>
+		<cosponsor id="400251" joined="2007-03-26"/>
+		<cosponsor id="400320" joined="2007-03-26"/>
+		<cosponsor id="400360" joined="2007-03-26"/>
+		<cosponsor id="400120" joined="2007-03-26"/>
+		<cosponsor id="400299" joined="2007-03-26"/>
+		<cosponsor id="400025" joined="2007-03-26"/>
+		<cosponsor id="400425" joined="2007-04-16"/>
+		<cosponsor id="400100" joined="2007-03-26"/>
+		<cosponsor id="400435" joined="2007-03-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1174881600" datetime="2007-03-26"><text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1174881600" datetime="2007-03-26"><text>Referred to House Foreign Affairs</text></action>
+		<action date="1174881600" datetime="2007-03-26"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1174968000" datetime="2007-03-27"><committee name="House Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1174968000" datetime="2007-03-27" ><committee name="House Foreign Affairs"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1174968000" datetime="2007-03-27"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1177085520" datetime="2007-04-20T13:12:00-04:00"><text>Reported by the Committee on Foreign Affairs. H. Rept. 110-103, Part I.</text></action>
+		<action date="1177085520" datetime="2007-04-20T13:12:00-04:00"><text>Committee on Energy and Commerce discharged.</text></action>
+		<calendar number="63" date="1177085520" datetime="2007-04-20T13:12:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 63.</text></calendar>
+		<action date="1177511580" datetime="2007-04-25T11:33:00-04:00"><text>Mr. Ackerman moved to suspend the rules and pass the bill.</text></action>
+		<action date="1177511580" datetime="2007-04-25T11:33:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4065-4068"/></action>
+		<action date="1177511580" datetime="2007-04-25T11:33:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1678.</text></action>
+		<action date="1177512660" datetime="2007-04-25T11:51:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1177528680" datetime="2007-04-25T16:18:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4107-4108"/></action>
+		<vote date="1177529100" how="roll" roll="260" datetime="2007-04-25T16:25:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 7 (Roll no. 260).</text><reference label="text" ref="CR H4065"/></vote>
+		<action date="1177560000" datetime="2007-04-26"><text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text></action>
+		<calendar date="1189483200" datetime="2007-09-11" ><committee name="House Energy and Commerce"/><text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1191902400" datetime="2007-10-09"><text>Committee on Foreign Relations. Reported by Senator Biden under authority of the order of the Senate of 10/04/2007 without amendment. With written report No. 110-194.</text></action>
+		<calendar under="General Orders" number="416" date="1191902400" datetime="2007-10-09" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 416.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/9/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Torture Victims Relief Reauthorization Act of 2007 - Amends the Torture Victims Relief Act of 1998 to authorize appropriations for FY2008-FY2009 to: (1) the Department of Health and Human Services (HHS) to provide grants to programs in the United States to cover the costs of services provided by domestic treatment centers in the rehabilitation of victims of torture (including treatment of the physical and psychological effects of torture), social and legal services, and research and training of health care providers outside of treatment centers or programs to enable them to provide such services; (2) the President for grants to treatment centers and programs in foreign countries that carry out projects and activities specifically designed to treat victims of torture for the physical and psychological effects of torture; and (3) the United Nations Voluntary Fund for Victims of Torture.<br/>
+	</summary>
+</bill>

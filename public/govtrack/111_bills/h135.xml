@@ -1,0 +1,55 @@
+<bill session="111" type="h" number="135" updated="2009-03-07T10:03:39-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Twenty-First Century Water Commission Act of 2009</title>
+		<title type="official" as="introduced">To establish the Twenty-First Century Water Commission to study and develop recommendations for a comprehensive water strategy to address future water needs.</title>
+	</titles>
+	<sponsor id="400242"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2009-01-06" withdrawn="2009-02-04"/>
+		<cosponsor id="400041" joined="2009-01-06"/>
+		<cosponsor id="400099" joined="2009-01-08"/>
+		<cosponsor id="412199" joined="2009-01-08"/>
+		<cosponsor id="400057" joined="2009-01-21"/>
+		<cosponsor id="400618" joined="2009-01-06"/>
+		<cosponsor id="400162" joined="2009-02-10"/>
+		<cosponsor id="400154" joined="2009-01-15"/>
+		<cosponsor id="400179" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on Natural Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Natural Resources</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1231218000" datetime="2009-01-06"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on Water and Power.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment" activity="Referral" />
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Water and Power" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Advisory bodies"/>
+		<term name="Environmental technology"/>
+		<term name="Infrastructure development"/>
+		<term name="Intergovernmental relations"/>
+		<term name="State and local government operations"/>
+		<term name="Water quality"/>
+		<term name="Water resources funding"/>
+		<term name="Water storage"/>
+		<term name="Water use and supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Twenty-First Century Water Commission Act of 2009 - Establishes the Twenty-First Century Water Commission to: (1) project future water supply and demand; (2) study current water management programs of federal, interstate, state, and local agencies and private sector entities directed at increasing water supplies and improving the availability, reliability, and quality of freshwater resources; and (3) consult with representatives of such agencies and entities to develop recommendations for a comprehensive water strategy. Requires that such strategy: (1) identify incentives intended to ensure an adequate and dependable water supply to meet U.S. needs for the next 50 years; (2) suggest strategies that avoid increased mandates on state and local governments, considering all available technologies; and (3) suggest financing options.<br/>
+	</summary>
+</bill>

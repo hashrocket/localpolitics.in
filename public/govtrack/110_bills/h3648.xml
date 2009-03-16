@@ -1,0 +1,85 @@
+<bill session="110" type="h" number="3648" updated="2009-01-09T00:31:15-05:00">
+	<status><enacted date="1198126800" datetime="2007-12-20" /></status>
+
+	<introduced date="1190692800" datetime="2007-09-25"/>
+	<titles>
+		<title type="short" as="reported to house">Mortgage Forgiveness Debt Relief Act of 2007</title>
+		<title type="short" as="passed house">Mortgage Forgiveness Debt Relief Act of 2007</title>
+		<title type="short" as="passed senate">Mortgage Forgiveness Debt Relief Act of 2007</title>
+		<title type="short" as="enacted">Mortgage Forgiveness Debt Relief Act of 2007</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to exclude discharges of indebtedness on principal residences from gross income, and for other purposes.</title>
+	</titles>
+	<sponsor id="400333"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-09-25"/>
+		<cosponsor id="412229" joined="2007-09-25"/>
+		<cosponsor id="400289" joined="2007-09-25"/>
+		<cosponsor id="400155" joined="2007-10-01"/>
+		<cosponsor id="400332" joined="2007-09-25"/>
+		<cosponsor id="400647" joined="2007-09-25"/>
+		<cosponsor id="400323" joined="2007-09-25"/>
+		<cosponsor id="400184" joined="2007-10-01"/>
+		<cosponsor id="400262" joined="2007-09-25"/>
+		<cosponsor id="400130" joined="2007-10-01"/>
+		<cosponsor id="412188" joined="2007-10-01"/>
+		<cosponsor id="400387" joined="2007-09-25"/>
+		<cosponsor id="400008" joined="2007-09-25"/>
+		<cosponsor id="400051" joined="2007-10-01"/>
+		<cosponsor id="400087" joined="2007-09-25"/>
+		<cosponsor id="400270" joined="2007-09-25"/>
+		<cosponsor id="400251" joined="2007-09-25"/>
+		<cosponsor id="400120" joined="2007-09-25"/>
+		<cosponsor id="400415" joined="2007-09-25"/>
+		<cosponsor id="400291" joined="2007-09-25"/>
+		<cosponsor id="400033" joined="2007-09-25"/>
+		<cosponsor id="400024" joined="2007-09-25"/>
+		<cosponsor id="400238" joined="2007-09-25"/>
+		<cosponsor id="400233" joined="2007-09-25"/>
+		<cosponsor id="400309" joined="2007-09-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1190692800" datetime="2007-09-25"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action date="1190779200" datetime="2007-09-26"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1190779200" datetime="2007-09-26" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1191258840" datetime="2007-10-01T14:14:00-04:00"><text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-356.</text></action>
+		<calendar number="220" date="1191258900" datetime="2007-10-01T14:15:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 220.</text></calendar>
+		<action date="1191361560" datetime="2007-10-02T18:46:00-04:00"><text>Rules Committee Resolution H. Res. 703 Reported to House. Rule provides for consideration of H.R. 3648 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution, shall be considered as adopted.</text></action>
+		<action date="1191554280" datetime="2007-10-04T12:18:00-04:00"><text>Rule H. Res. 703 passed House.</text></action>
+		<action date="1191516480" datetime="2007-10-04T13:48:00-04:00"><text>Considered under the provisions of rule H. Res. 703.</text><reference label="consideration" ref="CR H11287-11298"/><reference label="text of measure as introduced" ref="CR H11287-11288"/></action>
+		<action date="1191516480" datetime="2007-10-04T13:48:00-04:00"><text>Rule provides for consideration of H.R. 3648 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution, shall be considered as adopted.</text></action>
+		<action date="1191516600" datetime="2007-10-04T13:50:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H.R. 3648.</text></action>
+		<action date="1191519360" datetime="2007-10-04T14:36:00-04:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H11296"/></action>
+		<action date="1191519360" datetime="2007-10-04T14:36:00-04:00"><text>Mr. Cantor moved to recommit with instructions to Ways and Means.</text><reference label="consideration" ref="CR H11296-11297"/><reference label="text" ref="CR H11296"/></action>
+		<action date="1191519360" datetime="2007-10-04T14:36:00-04:00"><text>DEBATE - The House proceeded with ten minutes of debate on the Cantor motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment striking sections 5 and 6 from the bill.</text></action>
+		<action date="1191519840" datetime="2007-10-04T14:44:00-04:00"><text>The previous question on the motion to recommit with instructions was ordered without objection.</text><reference label="consideration" ref="CR H11296"/></action>
+		<action date="1191521280" datetime="2007-10-04T15:08:00-04:00"><text>On motion to recommit with instructions Failed by the Yeas and Nays: 201 - 212, 1 Present (Roll no. 947).</text><reference label="consideration" ref="CR H11297"/></action>
+		<vote date="1191521760" how="roll" roll="948" datetime="2007-10-04T15:16:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed by recorded vote: 386 - 27 (Roll No. 948).</text><reference label="text" ref="CR H11288-11289"/></vote>
+		<action date="1191470400" datetime="2007-10-04"><text>Received in the Senate and Read twice and referred to the Committee on Finance.</text></action>
+		<action date="1197608400" datetime="2007-12-14"><text>Senate Committee on Finance discharged by Unanimous Consent.</text></action>
+		<action date="1197608400" datetime="2007-12-14"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S15642-15643"/></action>
+		<vote date="1197608400" how="by Unanimous Consent" datetime="2007-12-14" where="s" type="vote2" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action date="1197608400" datetime="2007-12-14"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1198007940" datetime="2007-12-18T15:59:00-05:00"><text>Mrs. Jones (OH) moved that the House suspend the rules and agree to the Senate amendment.</text><reference label="consideration" ref="CR H16768-16772"/></action>
+		<action date="1198007940" datetime="2007-12-18T15:59:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R.3648.</text></action>
+		<action date="1198009380" datetime="2007-12-18T16:23:00-05:00"><text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.</text><reference label="text as House agreed to Senate amendment" ref="CR H16768-16770"/></action>
+		<topresident date="1197954000" datetime="2007-12-18" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1198040400" datetime="2007-12-19" ><text>Presented to President.</text></topresident>
+		<signed date="1198126800" datetime="2007-12-20" ><text>Signed by President.</text></signed>
+		<enacted number="110-142" date="1198126800" datetime="2007-12-20" type="public" ><text>Became Public Law No: 110-142.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/20/2007--Public Law. (This measure has not been amended since it was passed by the Senate on December 14, 2007. The summary of that version is repeated here.)<br/>Mortgage Forgiveness Debt Relief Act of 2007 - Amends the Internal Revenue Code to exclude from gross income amounts attributable to a discharge, prior to January 1, 2010, of indebtedness incurred to acquire a principal residence. Limits to $2 million the excludable amount of such indebtedness. Reduces the basis of a principal residence by the amount of discharged indebtedness excluded from gross income. Disallows an exclusion for a discharge of indebtedness on account of services performed for the lender or any other factor not directly related to a decline in the value of the residence or to the financial condition of the taxpayer. Sets forth rules for determining the allowable amount of the exclusion for taxpayers with nonqualifying indebtedness and taxpayers who are insolvent. Extends through 2010 the tax deduction for mortgage insurance premiums. Sets forth alternative tests for qualifying as a cooperative housing corporation for purposes of the tax deduction for payments to such corporations. Qualifies a corporation if: (1) 80% or more of the total square footage of the corporation's property is used or available for use by its tenant-stockholders for residential purposes, or (2) 90% of the corporation's expenditures are for the acquisition, construction, management, maintenance, or care of its property for the benefit of the tenant-stockholders. Allows members of a qualified volunteer emergency response organization (i.e., an organization that provides firefighting and emergency medical services) an exclusion from gross income for state and local tax benefits and for certain payments for services. Terminates such exclusion after 2010.<br/>Allows certain full-time students who are single parents and their children to live in housing units eligible for the low-income housing tax credit provided that their children are not dependents of another individual (other than a parent of such children).<br/>Allows a surviving spouse to exclude from gross income up to $500,000 of the gain from the sale or exchange of a principal residence owned jointly with a deceased spouse if the sale or exchange occurs within two years of the death of the spouse and other ownership and use requirements have been met. Increases the penalty for failure to file a partnership tax return and extends from five to 12 the number of months in which such penalty may be imposed. Limits disclosure of tax return information that includes individual taxpayer identify information.<br/>Imposes an additional penalty on S corporations for failure to file required tax returns.<br/>Amends the Tax Increase Prevention and Reconciliation Act of 2005 to increase the estimated tax payment due in the third quarter of 2012 for corporations with assets of at least $1 billion.<br/>
+	</summary>
+</bill>

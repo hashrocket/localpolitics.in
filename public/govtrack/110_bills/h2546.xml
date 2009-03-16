@@ -1,0 +1,56 @@
+<bill session="110" type="h" number="2546" updated="2009-01-08T22:09:01-05:00">
+	<status><enacted date="1195102800" datetime="2007-11-15" /></status>
+
+	<introduced date="1179979200" datetime="2007-05-24"/>
+	<titles>
+		<title type="official" as="introduced">To designate the Department of Veterans Affairs Medical Center in Asheville, North Carolina, as the &quot;Charles George Department of Veterans Affairs Medical Center&quot;.</title>
+	</titles>
+	<sponsor id="412225"/>
+	<cosponsors>
+		<cosponsor id="400280" joined="2007-05-24"/>
+		<cosponsor id="400616" joined="2007-05-24"/>
+		<cosponsor id="400209" joined="2007-05-24"/>
+		<cosponsor id="400424" joined="2007-05-24"/>
+		<cosponsor id="400288" joined="2007-05-24"/>
+		<cosponsor id="400172" joined="2007-05-24"/>
+		<cosponsor id="400076" joined="2007-05-24"/>
+		<cosponsor id="400643" joined="2007-05-24"/>
+		<cosponsor id="400644" joined="2007-05-24"/>
+		<cosponsor id="400266" joined="2007-05-24"/>
+		<cosponsor id="400125" joined="2007-05-24"/>
+		<cosponsor id="400326" joined="2007-05-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1179979200" datetime="2007-05-24"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1180411200" datetime="2007-05-29"><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1182799620" datetime="2007-06-25T16:27:00-04:00"><text>Mr. Hare moved to suspend the rules and pass the bill.</text></action>
+		<action date="1182799680" datetime="2007-06-25T16:28:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7037-7039"/></action>
+		<action date="1182799680" datetime="2007-06-25T16:28:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2546.</text></action>
+		<action date="1182800220" datetime="2007-06-25T16:37:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1182806640" datetime="2007-06-25T18:24:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7051"/></action>
+		<vote date="1182807000" how="roll" roll="550" datetime="2007-06-25T18:30:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 0 (Roll no. 550).</text><reference label="text" ref="CR H7037"/></vote>
+		<action date="1182830400" datetime="2007-06-26"><text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+		<action date="1193889600" datetime="2007-11-01"><text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S13713"/></action>
+		<vote date="1193889600" how="by Unanimous Consent" datetime="2007-11-01" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<topresident date="1193889600" datetime="2007-11-01" ><text>Cleared for White House.</text></topresident>
+		<action date="1193976000" datetime="2007-11-02"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1194325200" datetime="2007-11-06" ><text>Presented to President.</text></topresident>
+		<signed date="1195102800" datetime="2007-11-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-117" date="1195102800" datetime="2007-11-15" type="public" ><text>Became Public Law No: 110-117.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/15/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the Department of Veterans Affairs Medical Center located at 1100 Tunnel Road, Asheville, North Carolina, as the &quot;Charles George Department of Veterans Affairs Medical Center.&quot;<br/>
+	</summary>
+</bill>

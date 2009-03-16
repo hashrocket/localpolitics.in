@@ -1,0 +1,50 @@
+<bill session="110" type="s" number="1927" updated="2009-01-09T15:49:59-05:00">
+	<status><enacted date="1186286400" datetime="2007-08-05" /></status>
+
+	<introduced date="1185940800" datetime="2007-08-01"/>
+	<titles>
+		<title type="short" as="introduced">Protect America Act of 2007</title>
+		<title type="short" as="passed house">Protect America Act of 2007</title>
+		<title type="short" as="passed senate">Protect America Act of 2007</title>
+		<title type="short" as="enacted">Protect America Act of 2007</title>
+		<title type="official" as="introduced">A bill to amend the Foreign Intelligence Surveillance Act of 1978 to provide additional procedures for authorizing certain acquisitions of foreign intelligence information and for other purposes.</title>
+	</titles>
+	<sponsor id="300072"/>
+	<cosponsors>
+		<cosponsor id="300010" joined="2007-08-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1185940800" datetime="2007-08-01"><text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar date="1186027200" datetime="2007-08-02" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 324.</text></calendar>
+		<action date="1186113600" datetime="2007-08-03"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S10861-10872"/></action>
+		<vote date="1186113600" how="roll" roll="309" datetime="2007-08-03" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment by Yea-Nay Vote. 60 - 28. Record Vote Number: 309.</text><reference label="text" ref="CR S10871-10872"/></vote>
+		<action date="1186113600" datetime="2007-08-03"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1186236480" datetime="2007-08-04T11:08:00-04:00"><text>Received in the House.</text></action>
+		<action date="1186237200" datetime="2007-08-04T11:20:00-04:00"><text>Held at the desk.</text></action>
+		<action date="1186270260" datetime="2007-08-04T20:31:00-04:00"><text>Consideration initiated pursuant to a previous order.</text><reference label="consideration" ref="CR H9952-9966"/></action>
+		<action date="1186270260" datetime="2007-08-04T20:31:00-04:00"><text>Considered pursuant to a previous order.</text></action>
+		<action date="1186270260" datetime="2007-08-04T20:31:00-04:00"><text>DEBATE - Pursuant to a previous special order, the House proceeded with one hour of debate on S. 1927.</text></action>
+		<action date="1186275540" datetime="2007-08-04T21:59:00-04:00"><text>The previous question was ordered pursuant to a previous order of the House.</text><reference label="consideration" ref="CR H9965"/></action>
+		<vote date="1186276740" how="roll" roll="836" datetime="2007-08-04T22:19:00-04:00" where="h" type="vote2" result="pass" ><text>On passage Passed by the Yeas and Nays: 227 - 183 (Roll no. 836).</text><reference label="text" ref="CR H9953-9954"/></vote>
+		<topresident date="1186200000" datetime="2007-08-04" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1186286400" datetime="2007-08-05" ><text>Presented to President.</text></topresident>
+		<signed date="1186286400" datetime="2007-08-05" ><text>Signed by President.</text></signed>
+		<enacted number="110-55" date="1186286400" datetime="2007-08-05" type="public" ><text>Became Public Law No: 110-55.</text></enacted>
+		<action date="1190692800" datetime="2007-09-25"><text>Committee on the Judiciary. Hearings held.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/5/2007--Public Law. (This measure has not been amended since it was passed by the Senate on August 3, 2007. The summary of that version is repeated here.) Protect America Act of 2007 - Amends the Foreign Intelligence Surveillance Act of 1978 (FISA) to state that nothing under its definition of &quot;electronic surveillance&quot; shall be construed to encompass surveillance directed at a person reasonably believed to be located outside the United States. Allows the Director of National Intelligence (DNI) and the Attorney General (AG), for periods up to one year, to authorize the acquisition of foreign intelligence information concerning persons outside the United States if the DNI and AG determine that: (1) there are reasonable procedures in place for determining that such acquisition concerns persons outside the United States, and such procedures will be subject to review by the Foreign Intelligence Surveillance Court (Court); (2) the acquisition does not constitute electronic surveillance; (3) the acquisition involves obtaining foreign intelligence information from or with the assistance of a communication service provider or other person who has access to communications; (4) a significant purpose of the acquisition is to obtain foreign intelligence information; and (5) the minimization procedures (procedures to ensure the smallest level of privacy intrusion while obtaining such information) to be used meet the definition of minimization procedures under FISA. Requires such determination to be certified and submitted to the Court. Requires the AG to report to: (1) the Court the procedures by which the government determines that such acquisitions do not constitute electronic surveillance; and (2) the congressional intelligence and judiciary committees semiannually concerning acquisitions made during the previous six-month period. Terminates this Act 180 days after its enactment. Makes authorizations for the acquisition of information made by this Act, and directives issued pursuant to such authorizations, effective until their expiration.<br/>
+	</summary>
+</bill>

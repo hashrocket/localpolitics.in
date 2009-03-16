@@ -1,0 +1,47 @@
+<bill session="110" type="s" number="2206" updated="2009-01-09T16:26:21-05:00">
+	<status><enacted date="1195448400" datetime="2007-11-19" /></status>
+
+	<introduced date="1192680000" datetime="2007-10-18"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide technical corrections to Public Law 109-116 (2 U.S.C. 2131a note) to extend the time period for the Joint Committee on the Library to enter into an agreement to obtain a statue of Rosa Parks, and for other purposes.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300093" joined="2007-10-18"/>
+		<cosponsor id="300060" joined="2007-10-18"/>
+		<cosponsor id="300038" joined="2007-10-18"/>
+		<cosponsor id="300066" joined="2007-10-18"/>
+		<cosponsor id="300034" joined="2007-10-18"/>
+		<cosponsor id="300007" joined="2007-10-18"/>
+		<cosponsor id="300078" joined="2007-10-18"/>
+	</cosponsors>
+	<actions>
+		<vote date="1192680000" how="by Unanimous Consent" datetime="2007-10-18" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S13133-13134"/><reference label="text as passed Senate" ref="CR S13133-13134"/></vote>
+		<action date="1192766400" datetime="2007-10-19"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1193072760" datetime="2007-10-22T14:06:00-04:00"><text>Received in the House.</text></action>
+		<action date="1193025600" datetime="2007-10-22"><text>Referred to the House Committee on House Administration.</text></action>
+		<action date="1194292560" datetime="2007-11-05T15:56:00-05:00"><text>Mr. Brady (PA) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1194292620" datetime="2007-11-05T15:57:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H12478-12480"/></action>
+		<action date="1194292620" datetime="2007-11-05T15:57:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 2206.</text></action>
+		<vote date="1194293280" how="by voice vote" datetime="2007-11-05T16:08:00-05:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H12479"/></vote>
+		<topresident date="1194238800" datetime="2007-11-05" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1194411600" datetime="2007-11-07" ><text>Presented to President.</text></topresident>
+		<signed date="1195448400" datetime="2007-11-19" ><text>Signed by President.</text></signed>
+		<enacted number="110-120" date="1195448400" datetime="2007-11-19" type="public" ><text>Became Public Law No: 110-120.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/19/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Amends P.L. 109-116 (relating to obtaining a statue of Rosa Parks and placing it in the U.S. Capitol in National Statuary Hall) to extend the time period that the Joint Committee on the Library has to enter into an agreement to obtain a statue of Rosa Parks. Allows the Joint Committee to authorize the Architect of the Capitol to enter into the agreement and related contracts required under such law on its behalf, under such terms and conditions as it may require. Makes such amendments effective as if included in the enactment of P.L. 109-116. 
+	</summary>
+</bill>

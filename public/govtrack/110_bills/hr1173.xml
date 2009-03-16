@@ -1,0 +1,75 @@
+<bill session="110" type="hr" number="1173" updated="2009-01-09T10:20:07-05:00">
+	<status><vote date="1210796880" datetime="2008-05-14T17:28:00-04:00" where="h" result="pass" how="roll" roll="319"/></status>
+
+	<introduced date="1209960000" datetime="2008-05-05"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing AmeriCorps Week.</title>
+	</titles>
+	<sponsor id="400663"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2008-05-06"/>
+		<cosponsor id="400253" joined="2008-05-06"/>
+		<cosponsor id="400420" joined="2008-05-06"/>
+		<cosponsor id="400031" joined="2008-05-13"/>
+		<cosponsor id="400177" joined="2008-05-06"/>
+		<cosponsor id="400257" joined="2008-05-06"/>
+		<cosponsor id="400263" joined="2008-05-06"/>
+		<cosponsor id="400403" joined="2008-05-06"/>
+		<cosponsor id="400246" joined="2008-05-13"/>
+		<cosponsor id="400170" joined="2008-05-06"/>
+		<cosponsor id="400065" joined="2008-05-06"/>
+		<cosponsor id="412192" joined="2008-05-06"/>
+		<cosponsor id="412231" joined="2008-05-06"/>
+		<cosponsor id="400370" joined="2008-05-05"/>
+		<cosponsor id="400396" joined="2008-05-06"/>
+		<cosponsor id="412208" joined="2008-05-13"/>
+		<cosponsor id="400007" joined="2008-05-06"/>
+		<cosponsor id="400331" joined="2008-05-06"/>
+		<cosponsor id="412209" joined="2008-05-06"/>
+		<cosponsor id="412211" joined="2008-05-06"/>
+		<cosponsor id="400251" joined="2008-05-06"/>
+		<cosponsor id="400026" joined="2008-05-06"/>
+		<cosponsor id="400366" joined="2008-05-13"/>
+		<cosponsor id="400266" joined="2008-05-13"/>
+		<cosponsor id="400125" joined="2008-05-13"/>
+		<cosponsor id="400193" joined="2008-05-13"/>
+		<cosponsor id="400415" joined="2008-05-13"/>
+		<cosponsor id="400093" joined="2008-05-06"/>
+		<cosponsor id="400326" joined="2008-05-05"/>
+		<cosponsor id="412228" joined="2008-05-06"/>
+		<cosponsor id="412212" joined="2008-05-06"/>
+		<cosponsor id="400109" joined="2008-05-06"/>
+		<cosponsor id="400185" joined="2008-05-13"/>
+		<cosponsor id="400097" joined="2008-05-06"/>
+		<cosponsor id="400240" joined="2008-05-06"/>
+		<cosponsor id="400345" joined="2008-05-06"/>
+		<cosponsor id="400062" joined="2008-05-06"/>
+		<cosponsor id="400425" joined="2008-05-06"/>
+		<cosponsor id="400321" joined="2008-05-05"/>
+		<cosponsor id="400100" joined="2008-05-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1209960000" datetime="2008-05-05"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1210704120" datetime="2008-05-13T15:42:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1210704180" datetime="2008-05-13T15:43:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3715-3717"/></action>
+		<action date="1210704180" datetime="2008-05-13T15:43:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1173.</text></action>
+		<action date="1210705140" datetime="2008-05-13T15:59:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Simpson objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1210796400" datetime="2008-05-14T17:20:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3846-3847"/></action>
+		<vote date="1210796880" how="roll" roll="319" datetime="2008-05-14T17:28:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 344 - 69 (Roll no. 319). (text: CR 5/13/2008 H3715)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/14/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Encourages all citizens to join in a national effort to salute AmeriCorps members and alumni. Acknowledges the significant accomplishments of AmeriCorps members, alumni, and community partners. Encourages citizens of all ages to consider serving in AmeriCorps.<br/>
+	</summary>
+</bill>

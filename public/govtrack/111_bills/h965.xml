@@ -1,0 +1,47 @@
+<bill session="111" type="h" number="965" updated="2009-03-07T11:41:48-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="short" as="introduced">Chesapeake Bay Gateways and Watertrails Network Continuing Authorization Act</title>
+		<title type="official" as="introduced">To amend the Chesapeake Bay Initiative Act of 1998 to provide for the continuing authorization of the Chesapeake Bay Gateways and Watertrails Network.</title>
+	</titles>
+	<sponsor id="412212"/>
+	<cosponsors>
+		<cosponsor id="400017" joined="2009-02-10"/>
+		<cosponsor id="400364" joined="2009-02-10"/>
+		<cosponsor id="412263" joined="2009-02-10"/>
+		<cosponsor id="400070" joined="2009-02-10"/>
+		<cosponsor id="400295" joined="2009-02-10"/>
+		<cosponsor id="412289" joined="2009-02-10"/>
+		<cosponsor id="400189" joined="2009-02-10"/>
+		<cosponsor id="400415" joined="2009-02-10"/>
+		<cosponsor id="400283" joined="2009-02-10"/>
+		<cosponsor id="400090" joined="2009-02-10"/>
+		<cosponsor id="412301" joined="2009-02-10"/>
+		<cosponsor id="400321" joined="2009-02-10"/>
+		<cosponsor id="400349" joined="2009-02-10"/>
+		<cosponsor id="412255" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Sponsor introductory remarks on measure. (CR E236)</text></action>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Introduced.<br/>Chesapeake Bay Gateways and Watertrails Network Continuing Authorization Act - Amends the Chesapeake Bay Initiative Act of 1998 to make permanent the authorization of appropriations for the Chesapeake Bay Gateways and Watertrails Network.<br/>
+	</summary>
+</bill>

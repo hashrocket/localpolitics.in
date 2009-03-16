@@ -1,0 +1,57 @@
+<bill session="110" type="h" number="3402" updated="2009-01-08T23:59:32-05:00">
+	<status><vote date="1222378080" datetime="2008-09-25T18:28:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1186113600" datetime="2007-08-03"/>
+	<titles>
+		<title type="short" as="introduced">Calling Card Consumer Protection Act</title>
+		<title type="short" as="passed house">Calling Card Consumer Protection Act</title>
+		<title type="official" as="introduced">To require accurate and reasonable disclosure of the terms and conditions of prepaid telephone calling cards and services.</title>
+	</titles>
+	<sponsor id="400122"/>
+	<cosponsors>
+		<cosponsor id="400132" joined="2007-08-03"/>
+		<cosponsor id="400409" joined="2007-08-03"/>
+		<cosponsor id="400384" joined="2007-11-14"/>
+		<cosponsor id="400152" joined="2008-09-16"/>
+		<cosponsor id="400055" joined="2007-09-06"/>
+		<cosponsor id="400262" joined="2007-11-07"/>
+		<cosponsor id="400347" joined="2008-07-10"/>
+		<cosponsor id="400178" joined="2007-09-05"/>
+		<cosponsor id="412232" joined="2007-11-06"/>
+		<cosponsor id="412254" joined="2008-05-13"/>
+		<cosponsor id="412236" joined="2007-09-25"/>
+		<cosponsor id="412186" joined="2007-11-09"/>
+		<cosponsor id="400641" joined="2007-10-01"/>
+		<cosponsor id="400283" joined="2007-09-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1186113600" datetime="2007-08-03"><text>Sponsor introductory remarks on measure. (CR 8/4/2007 E1764-1765)</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text></action>
+		<action date="1221537600" datetime="2008-09-16"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1221537600" datetime="2008-09-16"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1222142400" datetime="2008-09-23"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1222142400" datetime="2008-09-23" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1222377300" datetime="2008-09-25T18:15:00-04:00"><text>Mr. Rush moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1222377300" datetime="2008-09-25T18:15:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9935-9938"/></action>
+		<action date="1222377360" datetime="2008-09-25T18:16:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3402.</text></action>
+		<vote date="1222378080" how="by voice vote" datetime="2008-09-25T18:28:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H9935-9936"/></vote>
+		<action date="1222401600" datetime="2008-09-26"><text>Received in the Senate.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/25/2008--Passed House amended. Calling Card Consumer Protection Act - (Sec. 3) Requires providers or distributors of prepaid calling cards, including cards that use interconnected Voice over Internet Protocol (VoIP) or a successor protocol, to clearly and conspicuously disclose information about: (1) the provider's name, customer service number, and hours of service; (2) the card's number of minutes or dollar value; (3) per minute rates or a toll-free number to obtain rates; (4) fees and charges; (5) time period limits, any predetermined decrease in value over a period of time, and expiration dates; and (6) refund and recharge policies. (Sec. 4) Treats a violation as an unfair or deceptive act or practice under the Federal Trade Commission Act and requires the Federal Trade Commission (FTC) to enforce this Act. Gives the FTC, for this Act, jurisdiction over common carriers subject to the Communications Act of 1934, notwithstanding any other provision of law. (Sec. 5) Allows civil enforcement actions to be brought, except when an FTC action is pending, by a state attorney general, a state utilities commission, or a consumer protection agency for an injunction, to enforce this Act, to obtain damages, restitution, or other compensation on behalf of state residents, or for other relief. Allows actions under state laws. Shields a distributor who is a retail seller of prepaid cards and who, with respect to such cards, is exclusively engaged in point-of-sale transactions from liability for damages unless the distributor acted with actual knowledge that the act or practice giving rise to the action is unfair or deceptive and is unlawful under this Act. (Sec. 7) Prohibits a state, after final regulations are promulgated under this Act, from establishing or continuing in effect any provision of law that prescribes prepaid card disclosure requirements unless those requirements are identical to those in this Act. (Sec. 8) Requires the Comptroller General to report to Congress on the effectiveness of this Act and its required disclosures.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,105 @@
+<bill session="110" type="h" number="1198" updated="2009-01-08T19:20:40-05:00">
+	<status><vote date="1207678440" datetime="2008-04-08T15:14:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1172552400" datetime="2007-02-27"/>
+	<titles>
+		<title type="short" as="introduced">Early Hearing Detection and Intervention Act of 2007</title>
+		<title type="short" as="passed house">Early Hearing Detection and Intervention Act of 2008</title>
+		<title type="official" as="introduced">To amend the Public Health Service Act regarding early detection, diagnosis, and treatment of hearing loss.</title>
+	</titles>
+	<sponsor id="400062"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="2007-02-27"/>
+		<cosponsor id="400219" joined="2007-05-22"/>
+		<cosponsor id="400414" joined="2007-05-14"/>
+		<cosponsor id="400257" joined="2007-02-27"/>
+		<cosponsor id="400160" joined="2007-02-27"/>
+		<cosponsor id="400263" joined="2008-03-04"/>
+		<cosponsor id="400162" joined="2007-02-27"/>
+		<cosponsor id="400137" joined="2007-04-20"/>
+		<cosponsor id="400380" joined="2007-02-27"/>
+		<cosponsor id="400342" joined="2007-11-15"/>
+		<cosponsor id="400058" joined="2007-12-13"/>
+		<cosponsor id="400268" joined="2007-02-27"/>
+		<cosponsor id="400124" joined="2007-02-27"/>
+		<cosponsor id="400260" joined="2007-03-07"/>
+		<cosponsor id="400132" joined="2007-11-06"/>
+		<cosponsor id="400254" joined="2007-09-04"/>
+		<cosponsor id="412214" joined="2007-06-05"/>
+		<cosponsor id="400264" joined="2007-02-27"/>
+		<cosponsor id="400101" joined="2007-09-20"/>
+		<cosponsor id="412250" joined="2007-11-06"/>
+		<cosponsor id="400285" joined="2007-11-06"/>
+		<cosponsor id="400262" joined="2007-02-27"/>
+		<cosponsor id="400312" joined="2007-02-27"/>
+		<cosponsor id="400010" joined="2007-02-27"/>
+		<cosponsor id="400007" joined="2007-04-24"/>
+		<cosponsor id="400245" joined="2007-09-20"/>
+		<cosponsor id="400225" joined="2007-10-31"/>
+		<cosponsor id="400634" joined="2007-07-11"/>
+		<cosponsor id="400642" joined="2007-02-27"/>
+		<cosponsor id="400324" joined="2007-04-20"/>
+		<cosponsor id="400331" joined="2007-05-14"/>
+		<cosponsor id="400098" joined="2008-01-28"/>
+		<cosponsor id="400147" joined="2007-11-06"/>
+		<cosponsor id="400442" joined="2007-04-24"/>
+		<cosponsor id="412199" joined="2007-02-27"/>
+		<cosponsor id="400259" joined="2007-02-27"/>
+		<cosponsor id="400436" joined="2007-02-27"/>
+		<cosponsor id="400013" joined="2007-09-26"/>
+		<cosponsor id="400195" joined="2007-10-31"/>
+		<cosponsor id="400251" joined="2007-10-23"/>
+		<cosponsor id="400178" joined="2007-02-27"/>
+		<cosponsor id="412232" joined="2007-12-11"/>
+		<cosponsor id="400217" joined="2007-02-27"/>
+		<cosponsor id="400360" joined="2007-02-27"/>
+		<cosponsor id="400366" joined="2007-10-31"/>
+		<cosponsor id="400338" joined="2008-03-04"/>
+		<cosponsor id="400125" joined="2007-05-14"/>
+		<cosponsor id="400319" joined="2007-06-05"/>
+		<cosponsor id="400244" joined="2007-09-26"/>
+		<cosponsor id="400093" joined="2007-02-27"/>
+		<cosponsor id="400201" joined="2007-02-27"/>
+		<cosponsor id="400043" joined="2007-10-31"/>
+		<cosponsor id="400185" joined="2007-06-05"/>
+		<cosponsor id="400119" joined="2007-02-27"/>
+		<cosponsor id="400139" joined="2007-02-27"/>
+		<cosponsor id="400090" joined="2007-02-27"/>
+		<cosponsor id="400438" joined="2008-03-12"/>
+		<cosponsor id="400024" joined="2007-07-11"/>
+		<cosponsor id="400163" joined="2007-02-27"/>
+		<cosponsor id="400114" joined="2007-06-05"/>
+		<cosponsor id="400425" joined="2007-08-03"/>
+		<cosponsor id="400434" joined="2007-09-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1172552400" datetime="2007-02-27"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1172638800" datetime="2007-02-28"><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1205208000" datetime="2008-03-11"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1205208000" datetime="2008-03-11"><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action date="1205380800" datetime="2008-03-13"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1205380800" datetime="2008-03-13" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1207710000" datetime="2008-04-08T12:00:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-565.</text></action>
+		<calendar number="347" date="1207710060" datetime="2008-04-08T12:01:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 347.</text></calendar>
+		<action date="1207677840" datetime="2008-04-08T15:04:00-04:00"><text>Mrs. Capps moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1207677900" datetime="2008-04-08T15:05:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2025-2027"/></action>
+		<action date="1207677900" datetime="2008-04-08T15:05:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1198.</text></action>
+		<vote date="1207678440" how="by voice vote" datetime="2008-04-08T15:14:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H2026"/></vote>
+		<action date="1207713600" datetime="2008-04-09"><text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/8/2008--Passed House amended. Early Hearing Detection and Intervention Act of 2008 - Amends the Public Health Service Act to expand the newborns and infants hearing loss program to include diagnostic services among the services provided. Requires the Secretary of Health and Human Services, acting through the Administrator of the Health Resources and Services Administration (HRSA), to assist in the recruitment, retention, education, and training of qualified personnel and health care providers. Includes within the purposes of such program: (1) prompt evaluation and diagnosis of children referred from screening programs; (2) appropriate education, audiological, and medical interventions for children identified with hearing loss; (3) developing efficient models to ensure that newborns and infants who are identified with a hearing loss through screening receive follow-up by a qualified health care provider; and (4) ensuring an adequate supply of qualified personnel to meet the screening, evaluation, and early intervention needs of children. Requires the Director of the National Institutes of Health (NIH), acting through the Director of the National Institute on Deafness and Other Communication Disorders, to establish a postdoctoral fellowship program to foster research and development in the area of early hearing detection and intervention. Amends the definition of &quot;early intervention&quot; to require that families be given the opportunity to obtain the full range of appropriate early intervention services, educational and program placements, and other options for their child from highly qualified providers. Authorizes appropriations for FY2009-FY2014 for hearing screening programs and research.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,37 @@
+<bill session="111" type="s" number="267" updated="2009-03-07T14:05:36-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Summer and Year-Round Jobs for Youth Stimulus Act of 2009</title>
+		<title type="official" as="introduced">A bill to provide funding for summer and year-round youth jobs and training programs.</title>
+	</titles>
+	<sponsor id="300076"/>
+	<cosponsors>
+		<cosponsor id="300093" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S617"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="268" />
+		<bill relation="unknown" session="111" type="s" number="269" />
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Alternative and renewable resources"/>
+		<term name="Employment and training programs"/>
+		<term name="Energy efficiency and conservation"/>
+		<term name="Environmental technology"/>
+		<term name="Youth employment and child labor"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Summer and Year-Round Jobs for Youth Stimulus Act of 2009 - Authorizes appropriations to the Secretary of Labor for summer and year-round youth jobs and training programs under the Workforce Investment Act of 1998 which are directly linked to academic and occupational learning for calendar 2009-2010. Prohibits the use of such funds for unpaid jobs, statewide workforce investment activities, or the award of certain youth opportunity grants. Requires local areas receiving such funds to give priority to providing: (1) work experiences in public and nonprofit sector green-collar jobs and in other viable industries such as health care; and (2) job referral services for youth to work jobs in green-collar industries. Defines &quot;green-collar industries&quot; as those industries that offer jobs for compensation that promote energy efficiency, energy conservation (including renewable energy and clean technology), and environmental protection.<br/>
+	</summary>
+</bill>

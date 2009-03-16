@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="210" updated="2009-03-07T10:12:29-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To direct the Secretary of Veterans Affairs to conduct a study on the acquisition of a parcel of land adjacent to Beaufort National Cemetery, Beaufort, South Carolina.</title>
+	</titles>
+	<sponsor id="400433"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Disability Assistance and Memorial Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="217" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Government investigations"/>
+		<term name="Land transfers"/>
+		<term name="Military cemeteries and funerals"/>
+		<term name="South Carolina"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Directs the Secretary of Veterans Affairs to conduct, and report to Congress on, a study on the acquisition of a specified parcel of land in Beaufort, South Carolina, to be used for expansion of the Beaufort National Cemetery.<br/>
+	</summary>
+</bill>

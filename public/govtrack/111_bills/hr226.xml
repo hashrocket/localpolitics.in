@@ -1,0 +1,62 @@
+<bill session="111" type="hr" number="226" updated="2009-03-12T12:06:42-04:00">
+	<status><vote date="1236796680" datetime="2009-03-11T15:38:00-04:00" where="h" result="pass" how="roll" roll="121"/></status>
+
+	<introduced date="1236571200" datetime="2009-03-09"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the plight of the Tibetan people on the 50th anniversary of His Holiness the Dalai Lama being forced into exile and calling for a sustained multilateral effort to bring about a durable and peaceful solution to the Tibet issue.</title>
+	</titles>
+	<sponsor id="400184"/>
+	<cosponsors>
+		<cosponsor id="412268" joined="2009-03-09"/>
+		<cosponsor id="400253" joined="2009-03-09"/>
+		<cosponsor id="412215" joined="2009-03-09"/>
+		<cosponsor id="400344" joined="2009-03-09"/>
+		<cosponsor id="400013" joined="2009-03-09"/>
+		<cosponsor id="400238" joined="2009-03-11"/>
+		<cosponsor id="400025" joined="2009-03-09"/>
+		<cosponsor id="400227" joined="2009-03-09"/>
+		<cosponsor id="400124" joined="2009-03-11"/>
+		<cosponsor id="400246" joined="2009-03-09"/>
+		<cosponsor id="400360" joined="2009-03-09"/>
+		<cosponsor id="400295" joined="2009-03-09"/>
+		<cosponsor id="400003" joined="2009-03-11"/>
+		<cosponsor id="400435" joined="2009-03-09"/>
+		<cosponsor id="412263" joined="2009-03-11"/>
+		<cosponsor id="400263" joined="2009-03-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1236571200" datetime="2009-03-09"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1236791160" datetime="2009-03-11T14:06:00-04:00"><text>Mr. Berman moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1236791220" datetime="2009-03-11T14:07:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3307-3315"/></action>
+		<action date="1236791220" datetime="2009-03-11T14:07:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 226.</text></action>
+		<action date="1236794160" datetime="2009-03-11T14:56:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1236796200" datetime="2009-03-11T15:30:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3317"/></action>
+		<vote date="1236796680" how="roll" roll="121" datetime="2009-03-11T15:38:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 422 - 1 (Roll no. 121).</text><reference label="text" ref="CR H3307"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Foreign Affairs" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Asia"/>
+		<term name="China"/>
+		<term name="Congressional tributes"/>
+		<term name="Detention of persons"/>
+		<term name="Diplomacy, foreign officials, Americans abroad"/>
+		<term name="Human rights"/>
+		<term name="India"/>
+		<term name="Racial and ethnic relations"/>
+		<term name="Refugees, asylum, displaced persons"/>
+		<term name="Religion"/>
+		<term name="Tibet"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/9/2009--Introduced.<br/>Recognizes: (1) the Tibetan people for their perseverance in the face of adversity and for creating a democratic community in exile that sustains the Tibetan identity; and (2) the government and people of India for their generosity toward the Tibetan refugee population. Calls upon: (1) the government of the People's Republic of China (PRC) to respond to the Dalai Lama's initiatives to find a lasting solution to the Tibetan issue; and (2) the Administration to recommit to a sustained effort to press the PRC to respect the Tibetans' identity and human rights. 
+	</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="110" type="sc" number="20" updated="2009-01-09T19:42:42-05:00">
+	<status><vote date="1173931200" datetime="2007-03-15" where="s" result="pass" how="roll" roll="77"/></status>
+
+	<introduced date="1173931200" datetime="2007-03-15"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution expressing the sense of Congress that no funds should be cut off or reduced for American Troops in the field which would result in undermining their safety or their ability to complete their assigned mission.</title>
+	</titles>
+	<sponsor id="300049"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="2007-03-15"/>
+		<cosponsor id="300029" joined="2007-03-15"/>
+		<cosponsor id="400105" joined="2007-03-15"/>
+		<cosponsor id="300047" joined="2007-03-15"/>
+		<cosponsor id="300024" joined="2007-03-15"/>
+		<cosponsor id="300088" joined="2007-03-15"/>
+		<cosponsor id="400621" joined="2007-03-15"/>
+		<cosponsor id="400546" joined="2007-03-15"/>
+		<cosponsor id="400576" joined="2007-03-15"/>
+		<cosponsor id="300083" joined="2007-03-15"/>
+		<cosponsor id="300089" joined="2007-03-15"/>
+		<cosponsor id="300003" joined="2007-03-15"/>
+		<cosponsor id="300027" joined="2007-03-15"/>
+		<cosponsor id="300021" joined="2007-03-15"/>
+		<cosponsor id="300069" joined="2007-03-15"/>
+		<cosponsor id="400194" joined="2007-03-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1173931200" datetime="2007-03-15"><text>Submitted in the Senate.</text><reference label="text of measure as introduced" ref="CR S3226-3227"/></action>
+		<action date="1173931200" datetime="2007-03-15"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S3188"/></action>
+		<vote date="1173931200" how="roll" roll="77" datetime="2007-03-15" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Yea-Nay Vote. 82 - 16. Record Vote Number: 77.</text><reference label="text" ref="CR S3188"/></vote>
+		<action date="1173931200" datetime="2007-03-15"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1174100700" datetime="2007-03-16T12:05:00-04:00"><text>Received in the House.</text></action>
+		<action date="1174017600" datetime="2007-03-16"><text>Referred to the House Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/15/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Expresses the sense of Congress that Congress should not take any action that will endanger U.S. military forces in the field, including the elimination or reduction of funds for troops in the field, as such action would undermine their safety or harm their effectiveness in pursuing assigned missions.<br/>
+	</summary>
+</bill>

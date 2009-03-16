@@ -1,0 +1,66 @@
+<bill session="111" type="h" number="442" updated="2009-03-07T10:39:37-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Veterans' Heritage Firearms Act of 2009</title>
+		<title type="official" as="introduced">To provide an amnesty period during which veterans and their family members can register certain firearms in the National Firearms Registration and Transfer Record, and for other purposes.</title>
+	</titles>
+	<sponsor id="400335"/>
+	<cosponsors>
+		<cosponsor id="400279" joined="2009-02-23"/>
+		<cosponsor id="400061" joined="2009-03-02"/>
+		<cosponsor id="400006" joined="2009-02-09"/>
+		<cosponsor id="400017" joined="2009-02-09"/>
+		<cosponsor id="400343" joined="2009-03-02"/>
+		<cosponsor id="400376" joined="2009-02-10"/>
+		<cosponsor id="400209" joined="2009-02-10"/>
+		<cosponsor id="400340" joined="2009-02-23"/>
+		<cosponsor id="412270" joined="2009-03-02"/>
+		<cosponsor id="400385" joined="2009-02-09"/>
+		<cosponsor id="412256" joined="2009-02-23"/>
+		<cosponsor id="400018" joined="2009-02-23"/>
+		<cosponsor id="400260" joined="2009-02-09"/>
+		<cosponsor id="400047" joined="2009-02-09"/>
+		<cosponsor id="400040" joined="2009-02-23"/>
+		<cosponsor id="400032" joined="2009-02-23"/>
+		<cosponsor id="400286" joined="2009-03-02"/>
+		<cosponsor id="400055" joined="2009-02-23"/>
+		<cosponsor id="400377" joined="2009-02-23"/>
+		<cosponsor id="412261" joined="2009-03-02"/>
+		<cosponsor id="400141" joined="2009-02-09"/>
+		<cosponsor id="400321" joined="2009-02-23"/>
+		<cosponsor id="400341" joined="2009-02-09"/>
+		<cosponsor id="412255" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to House Judiciary</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to House Ways and Means</text></action>
+		<action date="1234155600" datetime="2009-02-09"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security" activity="Referral" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Criminal justice information and records"/>
+		<term name="Evidence and witnesses"/>
+		<term name="Firearms"/>
+		<term name="Government information and archives"/>
+		<term name="Historical and cultural resources"/>
+		<term name="Military personnel and dependents"/>
+		<term name="Museums, exhibitions, cultural centers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Veterans' Heritage Firearms Act of 2009 - Provides a 90-day amnesty period during which veterans and their family members can register in the National Firearms Registration and Transfer Record any firearm acquired before October 31, 1968, by a veteran while a member of the Armed Forces stationed outside the continental United States. Grants such an individual limited immunity under the federal criminal code and the Internal Revenue Code with respect to the acquisition, possession, transportation, or alteration of such firearm before or concurrent with such registration. Extends such immunity to a veteran who attempts to register a qualifying firearm outside of the amnesty period if the veteran surrenders the firearm within 30 days after being notified of potential criminal liability for continued possession.<br/>Requires the Attorney General to: (1) transfer each firearm qualifying as a curio or relic which has been forfeited to the United States to the first qualified museum that requests it; and (2) publish information identifying each such firearm which is available to be transferred to a museum. Prohibits the Attorney General from destroying any such firearm which has been forfeited until five years after the forfeiture. Requires that any firearm transferred to a qualified museum be registered to the transferee.<br/>Makes a prohibition against transfer or possession of a machine-gun inapplicable to a transfer to or by, or possession by, a museum which is open to the public and incorporated as a not-for-profit corporation under applicable state law.<br/>
+	</summary>
+</bill>

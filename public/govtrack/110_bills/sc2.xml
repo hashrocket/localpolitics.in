@@ -1,0 +1,56 @@
+<bill session="110" type="sc" number="2" updated="2009-01-09T19:40:26-05:00">
+	<status><calendar date="1169614800" datetime="2007-01-24" /></status>
+
+	<introduced date="1169010000" datetime="2007-01-17"/>
+	<titles>
+		<title type="popular" as="">Iraq War Policy resolution</title>
+		<title type="official" as="introduced">A concurrent resolution expressing the bipartisan resolution on Iraq.</title>
+	</titles>
+	<sponsor id="300008"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2007-01-30"/>
+		<cosponsor id="400064" joined="2007-01-18"/>
+		<cosponsor id="300018" joined="2007-01-25"/>
+		<cosponsor id="300093" joined="2007-01-18"/>
+		<cosponsor id="400619" joined="2007-01-24"/>
+		<cosponsor id="300038" joined="2007-01-22"/>
+		<cosponsor id="300066" joined="2007-01-17"/>
+		<cosponsor id="300073" joined="2007-01-18"/>
+		<cosponsor id="300081" joined="2007-01-18"/>
+		<cosponsor id="300022" joined="2007-01-18"/>
+		<cosponsor id="300091" joined="2007-01-17"/>
+		<cosponsor id="412243" joined="2007-01-25"/>
+		<cosponsor id="300076" joined="2007-01-22"/>
+		<cosponsor id="300078" joined="2007-01-24"/>
+		<cosponsor id="300050" joined="2007-01-17"/>
+		<cosponsor id="300084" joined="2007-01-22"/>
+		<cosponsor id="300100" joined="2007-01-22"/>
+		<cosponsor id="300064" joined="2007-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1169010000" datetime="2007-01-17"><text>Sponsor introductory remarks on measure. (CR S704)</text></action>
+		<action date="1169010000" datetime="2007-01-17"><text>Referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S703-704"/></action>
+		<calendar date="1169614800" datetime="2007-01-24" ><text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1169614800" datetime="2007-01-24"><text>Committee on Foreign Relations. Reported by Senator Biden with an amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="12" date="1169614800" datetime="2007-01-24" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 12.</text></calendar>
+		<action date="1169787600" datetime="2007-01-26"><text>Motion to proceed to consideration of measure made in Senate.</text><reference label="consideration" ref="CR S1232"/></action>
+		<action date="1169787600" datetime="2007-01-26"><text>Cloture motion on the motion to proceed presented in Senate.</text><reference label="consideration" ref="CR S1232-1233"/><reference label="text" ref="CR S1232-1233"/></action>
+		<action date="1169787600" datetime="2007-01-26"><text>Motion to proceed to consideration of measure withdrawn in Senate.</text><reference label="consideration" ref="CR S1233"/></action>
+		<vote-aux date="1170306000" how="roll" roll="43" datetime="2007-02-01" where="s" type="cloture" result="fail" ><text>Cloture on the motion to proceed not invoked in Senate by Yea-Nay Vote. 0 - 97. Record Vote Number: 43.</text><reference label="consideration" ref="CR S1512-1513"/><reference label="text" ref="CR S1512"/></vote-aux>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/24/2007--Reported to Senate amended. Expresses the sense of Congress that: (1) it is not in the U.S. national interest to deepen its military involvement in Iraq, particularly by increasing the U.S. military presence in Iraq; (2) the primary objective of U.S. strategy in Iraq should be to have the Iraqi political leaders make the political compromises necessary to end the violence in Iraq; (3) greater regional and international support would assist the Iraqis in achieving a political solution and national reconciliation; (4) main elements of U.S. forces in Iraq should transition to helping ensure Iraq's territorial integrity, conduct counterterrorism activities, reduce regional interference in Iraq's internal affairs, and accelerate training of Iraqi troops; (5) the United States should transfer, under an appropriately expedited timeline, responsibility for internal security and halting sectarian violence in Iraq to the government of Iraq and Iraqi security forces; and (6) the United States should engage nations in the Middle East to develop a regional, internationally-sponsored peace and reconciliation process for Iraq.<br/>
+	</summary>
+</bill>

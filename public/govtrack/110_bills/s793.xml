@@ -1,0 +1,78 @@
+<bill session="110" type="s" number="793" updated="2009-01-09T13:19:41-05:00">
+	<status><enacted date="1209355200" datetime="2008-04-28" /></status>
+
+	<introduced date="1173243600" datetime="2007-03-07"/>
+	<titles>
+		<title type="short" as="introduced">Reauthorization of the Traumatic Brain Injury Act</title>
+		<title type="short" as="passed house">Traumatic Brain Injury Act of 2008</title>
+		<title type="short" as="reported to senate">Reauthorization of the Traumatic Brain Injury Act</title>
+		<title type="short" as="passed senate">Reauthorization of the Traumatic Brain Injury Act</title>
+		<title type="short" as="enacted">Traumatic Brain Injury Act of 2008</title>
+		<title type="official" as="introduced">A bill to provide for the expansion and improvement of traumatic brain injury programs.</title>
+	</titles>
+	<sponsor id="300052"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2007-04-12"/>
+		<cosponsor id="300029" joined="2007-03-20"/>
+		<cosponsor id="300009" joined="2007-06-25"/>
+		<cosponsor id="300059" joined="2007-03-07"/>
+		<cosponsor id="300008" joined="2007-06-26"/>
+		<cosponsor id="400619" joined="2007-12-07"/>
+		<cosponsor id="300038" joined="2007-03-09"/>
+		<cosponsor id="300073" joined="2007-06-27"/>
+		<cosponsor id="300034" joined="2007-06-25"/>
+		<cosponsor id="300041" joined="2007-06-26"/>
+		<cosponsor id="412247" joined="2007-03-29"/>
+		<cosponsor id="300081" joined="2007-06-25"/>
+		<cosponsor id="300051" joined="2007-06-25"/>
+		<cosponsor id="400050" joined="2007-03-15"/>
+		<cosponsor id="300022" joined="2007-03-09"/>
+		<cosponsor id="300076" joined="2007-06-26"/>
+		<cosponsor id="400629" joined="2007-06-25"/>
+		<cosponsor id="400357" joined="2007-06-27"/>
+		<cosponsor id="300058" joined="2007-06-25"/>
+		<cosponsor id="300064" joined="2007-06-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1173243600" datetime="2007-03-07"><text>Sponsor introductory remarks on measure. (CR S2801-2802)</text></action>
+		<action date="1173243600" datetime="2007-03-07"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S2802-2803"/></action>
+		<calendar date="1182916800" datetime="2007-06-27" ><text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1185940800" datetime="2007-08-01"><text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. With written report No. 110-140.</text></action>
+		<calendar under="General Orders" number="317" date="1185940800" datetime="2007-08-01" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 317.</text></calendar>
+		<action date="1197349200" datetime="2007-12-11"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S15152-15154"/><reference label="text of measure as reported in Senate" ref="CR S15152-15153"/></action>
+		<action date="1197349200" datetime="2007-12-11"><text>The committee substitute as amended agreed to by Unanimous Consent.</text></action>
+		<vote date="1197349200" how="by Unanimous Consent" datetime="2007-12-11" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action date="1197468900" datetime="2007-12-12T10:15:00-05:00"><text>Received in the House.</text></action>
+		<action date="1197435600" datetime="2007-12-12"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1197435600" datetime="2007-12-12"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1197435600" datetime="2007-12-12"><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1207681560" datetime="2008-04-08T16:06:00-04:00"><text>Ms. Baldwin moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1207681560" datetime="2008-04-08T16:06:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2041-2045"/></action>
+		<action date="1207681560" datetime="2008-04-08T16:06:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 793.</text></action>
+		<action date="1207682460" datetime="2008-04-08T16:21:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1207692480" datetime="2008-04-08T19:08:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2047-2048"/></action>
+		<vote date="1207693020" how="roll" roll="163" datetime="2008-04-08T19:17:00-04:00" where="h" type="vote2" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 1 (Roll no. 163).</text><reference label="text" ref="CR H2041-2043"/></vote>
+		<action date="1207713600" datetime="2008-04-09"><text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text></action>
+		<action date="1207800000" datetime="2008-04-10"><text>Senate agreed to House amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S2952-2954"/><reference label="text as Senate agreed to House amendment" ref="CR S2952-2953"/></action>
+		<topresident date="1207800000" datetime="2008-04-10" ><text>Cleared for White House.</text></topresident>
+		<action date="1208145600" datetime="2008-04-14"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1208404800" datetime="2008-04-17" ><text>Presented to President.</text></topresident>
+		<signed date="1209355200" datetime="2008-04-28" ><text>Signed by President.</text></signed>
+		<enacted number="110-206" date="1209355200" datetime="2008-04-28" type="public" ><text>Became Public Law No: 110-206.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/28/2008--Public Law. (This measure has not been amended since it was passed by the House on April 8, 2008. The summary of that version is repeated here.) Traumatic Brain Injury Act of 2008 - (Sec. 3) Amends the Public Health Service Act to revise the national program for traumatic brain injury registries to make grants for state traumatic brain injury surveillance systems or registries (currently, only for registries) to: (1) determine the incidence and prevalence of traumatic brain injury and related disability; (2) ensure the uniformity of reporting under each such system or registry; (3) link individuals with traumatic brain injury to services and supports; and (4) link such individuals with academic institutions to conduct applied research. Requires the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention (CDC) and the Director of the National Institutes of Health (NIH), to report to the relevant congressional committees on activities and procedures that can be implemented by the CDC to improve the collection and dissemination of compatible epidemiological studies on the incidence and prevalence of traumatic brain injury in individuals who were formerly in the military. (Sec. 4) Authorizes the Secretary, acting through the Director of CDC, to conduct a study to: (1) determine the incidence of traumatic brain injury and prevalence of traumatic brain injury related disability; (2) report national trends in traumatic brain injury; (3) identify common therapeutic interventions which are used for the rehabilitation of individuals with such injuries; (4) identify interventions and therapies that can prevent or remediate the development of secondary neurologic conditions related to traumatic brain injury; and (5) develop practice guidelines for such rehabilitation. (Sec. 5) Authorizes appropriations for FY2009-FY2012 for NIH's trauma research program. (Sec. 6) Allows the Secretary, acting through the Administrator of the Health Resources Services Administration (HRSA), to make grants to states and American Indian consortia (currently, only to states) to improve access to rehabilitation and other services (currently, to health and other services) regarding traumatic brain injury. Authorizes appropriations for such grants for FY2009-FY2012. Requires the Administrator and the Commissioner of the Administration on Developmental Disabilities to coordinate the collection of data regarding protection and advocacy services. Directs the Administrator to make a grant for training and technical assistance to protection and advocacy systems, if funds permit. Authorizes appropriations for FY2009-FY2012.<br/>
+	</summary>
+</bill>

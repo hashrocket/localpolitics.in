@@ -1,0 +1,48 @@
+<bill session="111" type="s" number="374" updated="2009-03-07T14:18:02-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Consumer Product Safety Act to provide regulatory relief to small and family-owned businesses.</title>
+	</titles>
+	<sponsor id="400105"/>
+	<cosponsors>
+		<cosponsor id="400576" joined="2009-02-11"/>
+		<cosponsor id="400432" joined="2009-02-04"/>
+		<cosponsor id="400418" joined="2009-02-04"/>
+		<cosponsor id="300055" joined="2009-02-11"/>
+		<cosponsor id="300030" joined="2009-02-11"/>
+		<cosponsor id="300021" joined="2009-02-04"/>
+		<cosponsor id="300013" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="968" />
+	</relatedbills>
+	<subjects>
+		<term name="Commerce"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Administrative remedies"/>
+		<term name="Child health"/>
+		<term name="Child safety and welfare"/>
+		<term name="Consumer Product Safety Commission"/>
+		<term name="Consumer affairs"/>
+		<term name="Department of Justice"/>
+		<term name="Government information and archives"/>
+		<term name="Hazardous wastes and toxic substances"/>
+		<term name="Product safety and quality"/>
+		<term name="Retail and wholesale trades"/>
+		<term name="Small business"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Introduced.<br/>Amends the Consumer Product Safety Act to allow a secondhand seller to sell, offer for sale, or distribute a product or substance that is not in conformity with a consumer product safety rule relating to lead in children's products or to currently-required labeling for children's products. Defines &quot;secondhand seller&quot; to include: (1) a consignment or thrift shop; (2) an individual who uses the Internet, a yard sale, or other casual means; or (3) a person who sells such a product at an auction to benefit a nonprofit organization.<br/>Delays by six months each required step down in the allowed lead level in children's products. Applies this change as though it had taken effect on August 15, 2008.<br/>Prevents a specified requirement for third-party children's product safety testing from going into effect before August 9, 2009. Applies this change as though it had taken effect on August 15, 2008.<br/>Relieves a manufacturer from the requirement to test or certify a product regarding lead content if the manufacturer has tested and certifies each component of the product.<br/>Prohibits either the Consumer Product Safety Commission (CPSC) or any state attorney general from initiating an enforcement proceeding under the Consumer Product Safety Act or the Federal Hazardous Substances Act regarding product certification and labeling and children's products containing lead until 30 days after the issuance of final rules, regulations, or guidance.<br/>Requires the CPSC to waive any civil penalty for a good faith first violation of a prohibition under the Act.<br/>Requires the CPSC to develop, publish, and distribute a guide to assist small enterprises in complying with the requirements of the Consumer Product Safety Act and other Acts enforced by the CPSC.<br/>
+	</summary>
+</bill>

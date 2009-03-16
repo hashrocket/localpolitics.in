@@ -1,0 +1,47 @@
+<bill session="110" type="s" number="2733" updated="2009-01-09T17:33:13-05:00">
+	<status><enacted date="1206331200" datetime="2008-03-24" /></status>
+
+	<introduced date="1204866000" datetime="2008-03-07"/>
+	<titles>
+		<title type="short" as="introduced">Higher Education Extension Act of 2008</title>
+		<title type="short" as="passed house">Higher Education Extension Act of 2008</title>
+		<title type="short" as="passed senate">Higher Education Extension Act of 2008</title>
+		<title type="short" as="enacted">Higher Education Extension Act of 2008</title>
+		<title type="official" as="introduced">A bill to temporarily extend the programs under the Higher Education Act of 1965.</title>
+	</titles>
+	<sponsor id="300059"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote date="1204866000" how="by Unanimous Consent" datetime="2008-03-07" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S1782"/><reference label="text as passed Senate" ref="CR S1782"/></vote>
+		<action date="1204866000" datetime="2008-03-07"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1205187240" datetime="2008-03-10T19:14:00-04:00"><text>Received in the House.</text></action>
+		<action date="1205188440" datetime="2008-03-10T19:34:00-04:00"><text>Held at the desk.</text></action>
+		<action date="1205261580" datetime="2008-03-11T15:53:00-04:00"><text>Mr. Miller, George moved to suspend the rules and pass the bill.</text></action>
+		<action date="1205261580" datetime="2008-03-11T15:53:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1498-1499"/></action>
+		<action date="1205261640" datetime="2008-03-11T15:54:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 2733.</text></action>
+		<action date="1205261880" datetime="2008-03-11T15:58:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1205353380" datetime="2008-03-12T17:23:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1574-1575"/></action>
+		<vote date="1205353800" how="roll" roll="134" datetime="2008-03-12T17:30:00-04:00" where="h" type="vote2" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 4 (Roll no. 134). (text: CR 3/11/2008 H1498)</text></vote>
+		<topresident date="1205294400" datetime="2008-03-12" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1205380800" datetime="2008-03-13" ><text>Presented to President.</text></topresident>
+		<signed date="1206331200" datetime="2008-03-24" ><text>Signed by President.</text></signed>
+		<enacted number="110-198" date="1206331200" datetime="2008-03-24" type="public" ><text>Became Public Law No: 110-198.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/24/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Higher Education Extension Act of 2008 - Amends the Higher Education Extension Act of 2005 to extend the programs under the Higher Education Act of 1965 through April 30, 2008.<br/>
+	</summary>
+</bill>

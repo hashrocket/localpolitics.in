@@ -1,0 +1,37 @@
+<bill session="110" type="hc" number="375" updated="2009-01-08T16:14:33-05:00">
+	<status><vote date="1215658980" datetime="2008-07-09T12:03:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1213934400" datetime="2008-06-20"/>
+	<titles>
+		<title type="official" as="introduced">To honor the goal of the International Year of Astronomy, and for other purposes.</title>
+	</titles>
+	<sponsor id="412188"/>
+	<cosponsors>
+		<cosponsor id="400089" joined="2008-07-09"/>
+		<cosponsor id="400195" joined="2008-07-09"/>
+		<cosponsor id="400204" joined="2008-07-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1213934400" datetime="2008-06-20"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1215615000" datetime="2008-07-09T11:50:00-04:00"><text>Mr. Lampson moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1215615000" datetime="2008-07-09T11:50:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6252-6254"/></action>
+		<action date="1215615000" datetime="2008-07-09T11:50:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 375.</text></action>
+		<vote date="1215658980" how="by voice vote" datetime="2008-07-09T12:03:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H6252-6253"/></vote>
+		<action date="1215662400" datetime="2008-07-10"><text>Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/9/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Honors the goal of the International Year of Astronomy (IYA) to celebrate astronomical discoveries.<br/>Encourages the public to participate in IYA celebrations and activities, and discover more about the Universe and the science of astronomy.<br/>Applauds the efforts of the employees, centers, and laboratories of the National Aeronautics and Space Administration (NASA) and the National Science Foundation (NSF) in promoting public understanding of the astronomical sciences during the IYA celebration.<br/>
+	</summary>
+</bill>

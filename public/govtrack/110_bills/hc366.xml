@@ -1,0 +1,43 @@
+<bill session="110" type="hc" number="366" updated="2009-01-08T16:13:27-05:00">
+	<status><vote date="1212598380" datetime="2008-06-04T13:53:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1212465600" datetime="2008-06-03"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of Congress that increasing American capabilities in science, mathematics, and technology education should be a national priority.</title>
+	</titles>
+	<sponsor id="400204"/>
+	<cosponsors>
+		<cosponsor id="400155" joined="2008-06-03"/>
+		<cosponsor id="400630" joined="2008-06-03"/>
+		<cosponsor id="400442" joined="2008-06-03"/>
+		<cosponsor id="400237" joined="2008-06-03"/>
+		<cosponsor id="412204" joined="2008-06-03"/>
+		<cosponsor id="412228" joined="2008-06-03"/>
+		<cosponsor id="400185" joined="2008-06-03"/>
+		<cosponsor id="400240" joined="2008-06-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1212465600" datetime="2008-06-03"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1212595680" datetime="2008-06-04T13:08:00-04:00"><text>Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1212595680" datetime="2008-06-04T13:08:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4911-4917"/></action>
+		<action date="1212595680" datetime="2008-06-04T13:08:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 366.</text></action>
+		<action date="1212596100" datetime="2008-06-04T13:15:00-04:00"><text>DEBATE - The House resumed debate on H. Con. Res. 366.</text></action>
+		<vote date="1212598380" how="by voice vote" datetime="2008-06-04T13:53:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H4912"/></vote>
+		<action date="1212638400" datetime="2008-06-05"><text>Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/4/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Declares that it is the sense of Congress that: (1) this nation should dedicate its resources to the development of a broad pool of citizens who are functionally literate in science, mathematics, and technology; (2) a national science education policy in the coming decade should address specified crucial need areas; and (3) this national challenge can be met through strong leadership from the White House Office of Science and Technology Policy, other federal, state, and local governments, and with long-term commitments from the civic, business, and engineering communities. 
+	</summary>
+</bill>

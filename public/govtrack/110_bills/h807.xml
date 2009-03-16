@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="807" updated="2009-01-08T18:30:21-05:00">
+	<status><vote date="1173121560" datetime="2007-03-05T15:06:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1170651600" datetime="2007-02-05"/>
+	<titles>
+		<title type="short" as="introduced">Columbia Space Shuttle Memorial Study Act</title>
+		<title type="short" as="passed house">Columbia Space Shuttle Memorial Study Act</title>
+		<title type="official" as="introduced">To direct the Secretary of the Interior to conduct a special resource study to determine the feasibility and suitability of establishing a memorial to the Space Shuttle Columbia in the State of Texas and for its inclusion as a unit of the National Park System.</title>
+	</titles>
+	<sponsor id="400651"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1170651600" datetime="2007-02-05"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1170910800" datetime="2007-02-08"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1173121140" datetime="2007-03-05T14:59:00-05:00"><text>Mr. Grijalva moved to suspend the rules and pass the bill.</text></action>
+		<action date="1173121140" datetime="2007-03-05T14:59:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2134-2136"/></action>
+		<action date="1173121140" datetime="2007-03-05T14:59:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 807.</text></action>
+		<vote date="1173121560" how="by voice vote" datetime="2007-03-05T15:06:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H2134-2135"/></vote>
+		<action date="1173157200" datetime="2007-03-06"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1189483200" datetime="2007-09-11"><text>Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held.</text></action>
+		<calendar date="1201669200" datetime="2008-01-30" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1207800000" datetime="2008-04-10"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-314.</text></action>
+		<calendar under="General Orders" number="666" date="1207800000" datetime="2008-04-10" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 666.</text></calendar>
+		<action date="1213156800" datetime="2008-06-11"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S5530"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/5/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Columbia Space Shuttle Memorial Study Act - Directs the Secretary of Interior, acting through the Director of the National Park Service, to conduct a special resource study to determine the suitability and feasibility of establishing a memorial as a unit or units of the National Park System to the Space Shuttle Columbia on the four specified parcels of land in Texas on which large debris from the Space Shuttle was recovered. Authorizes the Secretary to recommend to Congress additional sites in Texas relating to the Space Shuttle Columbia for establishment as memorials to the Space Shuttle. 
+	</summary>
+</bill>

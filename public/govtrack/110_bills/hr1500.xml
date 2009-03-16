@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="1500" updated="2009-01-09T11:02:21-05:00">
+	<status><vote date="1222446300" datetime="2008-09-26T13:25:00-04:00" where="h" result="pass" how="roll" roll="652"/></status>
+
+	<introduced date="1222315200" datetime="2008-09-25"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of motions to suspend the rules.</title>
+	</titles>
+	<sponsor id="412239"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1222400520" datetime="2008-09-25T12:42:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-883, by Mr. Welch (VT).</text></action>
+		<action date="1222400520" datetime="2008-09-25T12:42:00-04:00"><text>Providing for consideration of motions to suspend the rules.</text></action>
+		<calendar date="1222400580" datetime="2008-09-25T12:43:00-04:00" ><text>Placed on the House Calendar, Calendar No. 275.</text></calendar>
+		<action date="1222484580" datetime="2008-09-26T12:03:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H10043-10049"/></action>
+		<action date="1222484580" datetime="2008-09-26T12:03:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 1500.</text></action>
+		<action date="1222445580" datetime="2008-09-26T13:13:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 225 - 192 (Roll no. 651).</text><reference label="consideration" ref="CR H10047-10048"/></action>
+		<vote date="1222446300" how="roll" roll="652" datetime="2008-09-26T13:25:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 222 - 196 (Roll no. 652).</text><reference label="text" ref="CR H10043"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/25/2008--Introduced.<br/>Makes it in order at any time through the calendar day of September 28, 2008, for the Speaker of the House of Representatives to entertain motions that the House suspend the rules. Requires the Speaker or her designee to consult with the Minority Leader or his designee on the designation of any matter for consideration pursuant to this resolution. 
+	</summary>
+</bill>

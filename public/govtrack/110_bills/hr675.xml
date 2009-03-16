@@ -1,0 +1,40 @@
+<bill session="110" type="hr" number="675" updated="2009-01-09T09:16:05-05:00">
+	<status><vote date="1190752800" datetime="2007-09-25T17:40:00-04:00" where="h" result="pass" how="roll" roll="904"/></status>
+
+	<introduced date="1190606400" datetime="2007-09-24"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the consideration of the Senate amendments to the bill (H.R. 976) to amend the Internal Revenue Code of 1986 to provide tax relief for small businesses, and for other purposes.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1190682240" datetime="2007-09-24T22:04:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-346, by Mr. McGovern.</text></action>
+		<action date="1190682300" datetime="2007-09-24T22:05:00-04:00"><text>Providing for the consideration of the Senate amendments to H.R. 976.</text></action>
+		<calendar date="1190682300" datetime="2007-09-24T22:05:00-04:00" ><text>Placed on the House Calendar, Calendar No. 121.</text></calendar>
+		<action date="1190745000" datetime="2007-09-25T15:30:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H10803-10815"/></action>
+		<action date="1190745120" datetime="2007-09-25T15:32:00-04:00"><text>Point of order raised by Mr. Rogers (MI) on the content of the measure. Mr. Rogers (MI) stated that the provisions of H. Res. 675 violate House earmark rules. Point of order overruled by the Chair.</text></action>
+		<action date="1190745360" datetime="2007-09-25T15:36:00-04:00"><text>Mr. Rogers (MI) appealed the ruling of the chair. The question was then put on sustaining the ruling of the chair.</text></action>
+		<action date="1190745420" datetime="2007-09-25T15:37:00-04:00"><text>Mr. McGovern moved to table the motion to appeal the ruling of the chair</text><reference label="consideration" ref="CR H10804"/></action>
+		<action date="1190746560" datetime="2007-09-25T15:56:00-04:00"><text>On motion to table the motion to appeal the ruling of the chair Agreed to by recorded vote: 224 - 190 (Roll no. 902).</text></action>
+		<action date="1190746620" datetime="2007-09-25T15:57:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 675.</text></action>
+		<action date="1190752320" datetime="2007-09-25T17:32:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 218 - 197 (Roll no. 903).</text><reference label="consideration" ref="CR H10814-10815"/></action>
+		<vote date="1190752800" how="roll" roll="904" datetime="2007-09-25T17:40:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by recorded vote: 215 - 199, 2 Present (Roll no. 904).</text><reference label="text" ref="CR H10803"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/25/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Sets forth a rule for the consideration of H.R. 976 (Children's Health Insurance Program Reauthorization Act of 2007).<br/>
+	</summary>
+</bill>

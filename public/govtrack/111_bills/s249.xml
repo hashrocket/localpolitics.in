@@ -1,0 +1,38 @@
+<bill session="111" type="s" number="249" updated="2009-02-14T16:57:31-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to qualify formerly homeless youth who are students for purposes of low income tax credit.</title>
+	</titles>
+	<sponsor id="300093"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2009-01-26"/>
+		<cosponsor id="400272" joined="2009-01-20"/>
+		<cosponsor id="300076" joined="2009-01-14"/>
+		<cosponsor id="300066" joined="2009-02-03"/>
+		<cosponsor id="300087" joined="2009-01-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="475" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Higher education"/>
+		<term name="Homelessness and emergency shelter"/>
+		<term name="Income tax credits"/>
+		<term name="Low- and moderate-income housing"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

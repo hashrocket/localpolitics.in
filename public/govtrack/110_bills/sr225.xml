@@ -1,0 +1,35 @@
+<bill session="110" type="sr" number="225" updated="2009-01-09T20:26:15-05:00">
+	<status><vote date="1182830400" datetime="2007-06-26" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1181188800" datetime="2007-06-07"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating the month of August 2007 as &quot;National Medicine Abuse Awareness Month&quot;.</title>
+	</titles>
+	<sponsor id="300008"/>
+	<cosponsors>
+		<cosponsor id="300048" joined="2007-06-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1181188800" datetime="2007-06-07"><text>Sponsor introductory remarks on measure. (CR S7388)</text></action>
+		<action date="1181188800" datetime="2007-06-07"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S7388"/></action>
+		<calendar date="1182398400" datetime="2007-06-21" ><text>Committee on the Judiciary. Ordered to be reported favorably.</text></calendar>
+		<action date="1182398400" datetime="2007-06-21"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="214" date="1182398400" datetime="2007-06-21" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 214.</text></calendar>
+		<vote date="1182830400" how="by Unanimous Consent" datetime="2007-06-26" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S8520-8521"/><reference label="text as passed Senate" ref="CR S8520-8521"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/26/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates August 2007 as National Medicine Abuse Awareness Month. Urges communities to carry out appropriate programs and activities to educate parents and youth of the potential dangers associated with medicine abuse.<br/>
+	</summary>
+</bill>

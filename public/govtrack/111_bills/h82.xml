@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="82" updated="2009-03-07T09:57:22-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To expand retroactive eligibility of the Army Combat Action Badge to include members of the Army who participated in combat during which they personally engaged, or were personally engaged by, the enemy at any time on or after December 7, 1941.</title>
+	</titles>
+	<sponsor id="400051"/>
+	<cosponsors>
+		<cosponsor id="400047" joined="2009-03-05"/>
+		<cosponsor id="400286" joined="2009-03-05"/>
+		<cosponsor id="400654" joined="2009-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1233291600" datetime="2009-01-30"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Armed Services" subcommittee="Military Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Conflicts and wars"/>
+		<term name="Military personnel and dependents"/>
+		<term name="Military procurement, research, weapons development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Authorizes the Secretary of the Army to award the Army Combat Action Badge to any member of the Army who participated in combat during which the person actually engaged, or was personally engaged by, the enemy at any time between December 7, 1941, and September 18, 2001, as long as such person has not been previously recognized for such participation.<br/>
+	</summary>
+</bill>

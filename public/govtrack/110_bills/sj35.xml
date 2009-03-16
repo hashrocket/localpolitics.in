@@ -1,0 +1,52 @@
+<bill session="110" type="sj" number="35" updated="2009-01-09T19:57:26-05:00">
+	<status><enacted date="1223006400" datetime="2008-10-03" /></status>
+
+	<introduced date="1211428800" datetime="2008-05-22"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution to amend Public Law 108-331 to provide for the construction and related activities in support of the Very Energetic Radiation Imaging Telescope Array System (VERITAS) project in Arizona.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="300034" joined="2008-05-22"/>
+		<cosponsor id="300023" joined="2008-05-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1211428800" datetime="2008-05-22"><text>Read twice and referred to the Committee on Rules and Administration.</text></action>
+		<action date="1216267200" datetime="2008-07-17"><text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text></action>
+		<vote date="1216267200" how="by Unanimous Consent" datetime="2008-07-17" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6946"/><reference label="text as passed Senate" ref="CR S6946"/></vote>
+		<action date="1216353600" datetime="2008-07-18"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1216697580" datetime="2008-07-21T12:33:00-04:00"><text>Received in the House.</text></action>
+		<action date="1216612800" datetime="2008-07-21"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1216699200" datetime="2008-07-22"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1217476800" datetime="2008-07-31"><text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text></action>
+		<action date="1217476800" datetime="2008-07-31"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1217476800" datetime="2008-07-31" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1221521700" datetime="2008-09-15T20:35:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 110-850.</text></action>
+		<calendar number="551" date="1221521700" datetime="2008-09-15T20:35:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 551.</text></calendar>
+		<action date="1221682260" datetime="2008-09-17T17:11:00-04:00"><text>Ms. Johnson, E. B. moved to suspend the rules and pass the resolution.</text></action>
+		<action date="1221682320" datetime="2008-09-17T17:12:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8349-8350"/></action>
+		<action date="1221682320" datetime="2008-09-17T17:12:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S.J. Res. 35.</text></action>
+		<action date="1221682680" datetime="2008-09-17T17:18:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Graves objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1221771240" datetime="2008-09-18T17:54:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8454"/></action>
+		<vote date="1221771240" how="by voice vote" datetime="2008-09-18T17:54:00-04:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR 9/17/2008 H8349)</text></vote>
+		<topresident date="1221710400" datetime="2008-09-18" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1222315200" datetime="2008-09-25" ><text>Presented to President.</text></topresident>
+		<signed date="1223006400" datetime="2008-10-03" ><text>Signed by President.</text></signed>
+		<enacted number="110-341" date="1223006400" datetime="2008-10-03" type="public" ><text>Became Public Law No: 110-341.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/18/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Amends Public Law 108-331 (authorizing the Board of Regents of the Smithsonian Institution to carry out construction and related activities in support of the Very Energetic Radiation Imaging Telescope Array System [VERITAS] project on Kitt Peak near Tucson, Arizona) to authorize the Board to carry out construction and related activities in support of the VERITAS project at the Fred Lawrence Whipple Observatory Base Camp on Mount Hopkins, Arizona, or other similar location. 
+	</summary>
+</bill>

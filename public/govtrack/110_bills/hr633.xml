@@ -1,0 +1,38 @@
+<bill session="110" type="hr" number="633" updated="2009-01-09T09:10:58-05:00">
+	<status><vote date="1189088340" datetime="2007-09-06T11:19:00-04:00" where="h" result="pass" how="roll" roll="855"/></status>
+
+	<introduced date="1188964800" datetime="2007-09-05"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 2786) to reauthorize the programs for housing assistance for Native Americans.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1189024080" datetime="2007-09-05T17:28:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-316, by Mr. McGovern.</text></action>
+		<action date="1189024080" datetime="2007-09-05T17:28:00-04:00"><text>Rule provides for consideration of H.R. 2786 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is open to amendments.</text></action>
+		<calendar date="1189024080" datetime="2007-09-05T17:28:00-04:00" ><text>Placed on the House Calendar, Calendar No. 107.</text></calendar>
+		<action date="1189085100" datetime="2007-09-06T10:25:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H10164-10166"/></action>
+		<action date="1189085160" datetime="2007-09-06T10:26:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 633.</text></action>
+		<action date="1189086180" datetime="2007-09-06T10:43:00-04:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H10166"/></action>
+		<action date="1189086240" datetime="2007-09-06T10:44:00-04:00"><text>POSTPONED PROCEEDINGS - At the conclusion of the debate on H.Res. 633, the Chair put the question on adoption of the resolution and by voice vote, announced that the ayes had prevailed. Mr. McGovern objected to the voice vote based upon the absence of a quorum. The Chair postponed further proceedings on the question of adoption until later in the legislative day. The point of no quorum is considered as withdrawn.</text></action>
+		<action date="1189087740" datetime="2007-09-06T11:09:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10167-10168"/></action>
+		<vote date="1189088340" how="roll" roll="855" datetime="2007-09-06T11:19:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 221 - 178 (Roll no. 855).</text><reference label="text" ref="CR H10164"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/6/2007--Passed House without amendment. Sets forth the rule for consideration of H.R. 2786 (Native American Housing Assistance and Self-Determination Reauthorization Act of 2007).<br/>
+	</summary>
+</bill>

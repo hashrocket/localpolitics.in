@@ -1,0 +1,36 @@
+<bill session="110" type="s" number="2142" updated="2009-01-09T16:17:09-05:00">
+	<status><calendar date="1195016400" datetime="2007-11-14" /></status>
+
+	<introduced date="1191470400" datetime="2007-10-04"/>
+	<titles>
+		<title type="short" as="introduced">Veterans Emergency Care Fairness Act of 2007</title>
+		<title type="short" as="reported to senate">Veterans Emergency Care Fairness Act of 2008</title>
+		<title type="official" as="introduced">A bill to amend title 38, United States Code, to require the Secretary of Veterans Affairs to reimburse veterans receiving emergency treatment in non-Department of Veterans Affairs facilities for such treatment until such veterans are transferred to Department facilities, and for other purposes.</title>
+	</titles>
+	<sponsor id="400050"/>
+	<cosponsors>
+		<cosponsor id="300091" joined="2008-03-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1191470400" datetime="2007-10-04"><text>Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+		<action date="1193198400" datetime="2007-10-24"><text>Committee on Veterans' Affairs. Hearings held.</text></action>
+		<calendar date="1195016400" datetime="2007-11-14" ><text>Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1203915600" datetime="2008-02-25"><text>Committee on Veterans' Affairs. Reported by Senator Akaka with amendments. With written report No. 110-263.</text></action>
+		<calendar under="General Orders" number="579" date="1203915600" datetime="2008-02-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 579.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/25/2008--Reported to Senate amended. Veterans Emergency Care Fairness Act of 2008 - Requires (current law authorizes) the Secretary of Veterans Affairs to reimburse certain veterans without a service-connected disability enrolled as active participants of the Department of Veterans Affairs (VA) health care plan for the cost of emergency treatment received in a non-VA facility until such time as such veterans are transferred to a VA or other federal facility. Requires (current law authorizes) the Secretary to reimburse certain veterans with a service-connected disability or a non-service-connected disability associated with or aggravating a service-connected disability for the customary and usual charges of emergency treatment for which such veterans have made payment from sources other than the VA.<br/>
+	</summary>
+</bill>

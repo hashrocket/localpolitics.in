@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="1172" updated="2009-03-07T12:08:03-05:00">
+	<status><introduced date="1235538000" datetime="2009-02-25"/></status>
+
+	<introduced date="1235538000" datetime="2009-02-25"/>
+	<titles>
+		<title type="official" as="introduced">To direct the Secretary of Veterans Affairs to include on the Internet website of the Department of Veterans Affairs a list of organizations that provide scholarships to veterans and their survivors.</title>
+	</titles>
+	<sponsor id="400040"/>
+	<cosponsors>
+		<cosponsor id="400056" joined="2009-02-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to the Subcommittee on Economic Opportunity.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Government information and archives"/>
+		<term name="Higher education"/>
+		<term name="Student aid and college costs"/>
+		<term name="Veterans' education, employment, rehabilitation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

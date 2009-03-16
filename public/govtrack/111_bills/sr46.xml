@@ -1,0 +1,33 @@
+<bill session="111" type="sr" number="46" updated="2009-03-07T14:43:48-05:00">
+	<status><calendar date="1234414800" datetime="2009-02-12" /></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="official" as="introduced">An original resolution authorizing expenditures by the Committee on Rules and Administration.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Committee on Rules and Administration. Original measure reported to Senate by Senator Schumer. Without written report.</text></action>
+		<calendar date="1234414800" datetime="2009-02-12" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 22.</text><reference label="text of measure as introduced" ref="CR S2251-2252"/></calendar>
+	</actions>
+	<committees>
+		<committee name="Senate Rules and Administration" subcommittee="" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional committees"/>
+		<term name="Senate Committee on Rules and Administration"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

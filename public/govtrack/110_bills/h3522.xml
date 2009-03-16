@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="3522" updated="2009-01-09T00:16:15-05:00">
+	<status><enacted date="1211860800" datetime="2008-05-27" /></status>
+
+	<introduced date="1189396800" datetime="2007-09-10"/>
+	<titles>
+		<title type="official" as="introduced">To ratify a conveyance of a portion of the Jicarilla Apache Reservation to Rio Arriba County, State of New Mexico, pursuant to the settlement of litigation between the Jicarilla Apache Nation and Rio Arriba County, State of New Mexico, to authorize issuance of a patent for said lands, and to change the exterior boundary of the Jicarilla Apache Reservation accordingly, and for other purposes.</title>
+	</titles>
+	<sponsor id="400413"/>
+	<cosponsors>
+		<cosponsor id="400313" joined="2008-04-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1189396800" datetime="2007-09-10"><text>Sponsor introductory remarks on measure. (CR E1847-1848)</text></action>
+		<action date="1189396800" datetime="2007-09-10"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1207713600" datetime="2008-04-09"><text>Committee Hearings Held.</text></action>
+		<action date="1208404800" datetime="2008-04-17"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1208404800" datetime="2008-04-17" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1209488460" datetime="2008-04-29T14:01:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 110-610.</text></action>
+		<calendar number="380" date="1209488460" datetime="2008-04-29T14:01:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 380.</text></calendar>
+		<action date="1209489120" datetime="2008-04-29T14:12:00-04:00"><text>Mr. Rahall moved to suspend the rules and pass the bill.</text></action>
+		<action date="1209489180" datetime="2008-04-29T14:13:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2770-2771"/></action>
+		<action date="1209489180" datetime="2008-04-29T14:13:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3522.</text></action>
+		<vote date="1209489360" how="by voice vote" datetime="2008-04-29T14:16:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H2770"/></vote>
+		<action date="1209528000" datetime="2008-04-30"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1209614400" how="by Unanimous Consent" datetime="2008-05-01" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S3727"/></vote>
+		<topresident date="1209614400" datetime="2008-05-01" ><text>Cleared for White House.</text></topresident>
+		<action date="1209700800" datetime="2008-05-02"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1211169600" datetime="2008-05-19" ><text>Presented to President.</text></topresident>
+		<signed date="1211860800" datetime="2008-05-27" ><text>Signed by President.</text></signed>
+		<enacted number="110-236" date="1211860800" datetime="2008-05-27" type="public" ><text>Became Public Law No: 110-236.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/27/2008--Public Law. (This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.)<br/>Ratifies and approves the Jicarilla Apache Nation's quitclaim deed for the Settlement Lands to Rio Arriba County, New Mexico, but such ratification and approval shall be effective only upon satisfaction of the following conditions: (1) that the Board of Commissioners of the Rio Arriba County, New Mexico, has enacted a resolution permanently abandoning a specified disputed county road and has submitted a copy of that resolution to the Secretary of the Interior; and (2) that the Jicarilla Apache Nation has executed a quitclaim deed to Rio Arriba County for specified settlement lands subject to the exceptions identified in the Settlement Agreement and has submitted a copy of such deed to the Secretary. Makes such ratification and approval effective only as of the date that the Secretary publishes findings in the Federal Register that the conditions have been met.<br/>Requires the Secretary, following publication of the findings, to issue to the County a patent for the Settlement lands. Subjects the patent to all valid existing rights of third parties, including but not limited to easements of record. Requires that the patent include a specified perpetual restrictive covenant running with the Settlement Lands for the benefit of the lands comprising the Jicarilla Apache Reservation adjacent to the Settlement Lands. Provides that the lands conveyed to the County in such patent shall cease to be a part of the Jicarilla Apache Reservation and the exterior boundary of the Reservation shall be deemed relocated accordingly.<br/>
+	</summary>
+</bill>

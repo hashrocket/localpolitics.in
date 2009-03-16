@@ -1,0 +1,46 @@
+<bill session="110" type="h" number="1140" updated="2009-01-08T19:13:33-05:00">
+	<status><vote date="1178564100" datetime="2007-05-07T15:55:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1171602000" datetime="2007-02-16"/>
+	<titles>
+		<title type="short" as="introduced">South Orange County Recycled Water Enhancement Act</title>
+		<title type="short" as="passed house">South Orange County Recycled Water Enhancement Act</title>
+		<title type="official" as="introduced">To authorize the Secretary, in cooperation with the City of San Juan Capistrano, California, to participate in the design, planning, and construction of an advanced water treatment plant facility and recycled water system, and for other purposes.</title>
+	</titles>
+	<sponsor id="400057"/>
+	<cosponsors>
+		<cosponsor id="400277" joined="2007-02-16"/>
+		<cosponsor id="412011" joined="2007-02-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1171602000" datetime="2007-02-16"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1172466000" datetime="2007-02-26"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1176955200" datetime="2007-04-19"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1176955200" datetime="2007-04-19"><text>Forwarded by Subcommittee to Full Committee by Unanimous Consent .</text></action>
+		<action date="1178078400" datetime="2007-05-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1178078400" datetime="2007-05-02" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1178560620" datetime="2007-05-07T14:57:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 110-125.</text></action>
+		<calendar number="74" date="1178560620" datetime="2007-05-07T14:57:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 74.</text></calendar>
+		<action date="1178563680" datetime="2007-05-07T15:48:00-04:00"><text>Mrs. Napolitano moved to suspend the rules and pass the bill.</text></action>
+		<action date="1178563680" datetime="2007-05-07T15:48:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4508-4509"/></action>
+		<action date="1178563740" datetime="2007-05-07T15:49:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1140.</text></action>
+		<vote date="1178564100" how="by voice vote" datetime="2007-05-07T15:55:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H4508-4509"/></vote>
+		<action date="1178596800" datetime="2007-05-08"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1207627200" datetime="2008-04-08"><text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/7/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) South Orange County Recycled Water Enhancement Act - Amends the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior, in cooperation with: (1) the city of San Juan Capistrano, California, to participate in the design, planning, and construction of an advanced water treatment plant facility and recycled water system; and (2) the city of San Clemente, California, to participate in the design, planning, and construction of a project to expand reclaimed water distribution, storage, and treatment facilities. Limits the federal share of the cost of each project to 25%. Bars the Secretary from providing funds for operation and maintenance. Authorizes appropriations. Terminates the Secretary's authority to carry out this Act 10 years after the date of its enactment.<br/>
+	</summary>
+</bill>

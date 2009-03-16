@@ -1,0 +1,40 @@
+<bill session="111" type="s" number="394" updated="2009-03-07T14:20:23-05:00">
+	<status><introduced date="1234155600" datetime="2009-02-09"/></status>
+
+	<introduced date="1234155600" datetime="2009-02-09"/>
+	<titles>
+		<title type="short" as="introduced">Art and Collectibles Capital Gains Tax Treatment Parity Act</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide the same capital gains treatment for art and collectibles as for other investment property and to provide that a deduction equal to fair market value shall be allowed for charitable contributions of literacy, musical, artistic, or scholarly compositions created by the donor.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="300030" joined="2009-02-09"/>
+		<cosponsor id="300093" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234155600" datetime="2009-02-09"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="1126" />
+		<bill relation="unknown" session="111" type="s" number="405" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Art, artists, authorship"/>
+		<term name="Capital gains tax"/>
+		<term name="Income tax deductions"/>
+		<term name="Income tax rates"/>
+		<term name="Literature"/>
+		<term name="Music"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/9/2009--Introduced.<br/>Art and Collectibles Capital Gains Tax Treatment Parity Act - Amends the Internal Revenue Code to: (1) eliminate the 28-percent capital gains tax rate for collectibles, thus allowing gain from the sale of collectibles (including art works) to be taxed at the 15-percent tax rate applicable to other investment property; (2) allow the creator of a literary, musical, artistic, or scholarly property a fair market value tax deduction for the donation of such property to a tax-exempt organization, if properly appraised and donated no sooner than 18 months after its creation. 
+	</summary>
+</bill>

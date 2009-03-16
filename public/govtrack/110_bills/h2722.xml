@@ -1,0 +1,49 @@
+<bill session="110" type="h" number="2722" updated="2009-01-08T22:30:46-05:00">
+	<status><vote date="1185905640" datetime="2007-07-31T15:14:00-04:00" where="h" result="pass" how="roll" roll="773"/></status>
+
+	<introduced date="1181793600" datetime="2007-06-14"/>
+	<titles>
+		<title type="short" as="introduced">Integrated Deepwater Program Reform Act</title>
+		<title type="short" as="reported to house">Integrated Deepwater Program Reform Act</title>
+		<title type="short" as="passed house">Integrated Deepwater Program Reform Act</title>
+		<title type="official" as="introduced">To restructure the Coast Guard Integrated Deepwater Program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400090"/>
+	<cosponsors>
+		<cosponsor id="400031" joined="2007-06-15"/>
+		<cosponsor id="400299" joined="2007-06-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1181793600" datetime="2007-06-14"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1181880000" datetime="2007-06-15"><text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text></action>
+		<action date="1182830400" datetime="2007-06-26"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1182830400" datetime="2007-06-26"><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action date="1183003200" datetime="2007-06-28"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1183003200" datetime="2007-06-28" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1185850800" datetime="2007-07-30T12:00:00-04:00"><text>Reported (Amended) by the Committee on Transportation. H. Rept. 110-270.</text></action>
+		<calendar number="172" date="1185850860" datetime="2007-07-30T12:01:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 172.</text></calendar>
+		<action date="1185838680" datetime="2007-07-30T20:38:00-04:00"><text>Mr. Cummings moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1185838740" datetime="2007-07-30T20:39:00-04:00"><text>Considered under suspension of the rules. (consideration: CR 7/31/2007 H8930-8935)</text></action>
+		<action date="1185838740" datetime="2007-07-30T20:39:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2722.</text></action>
+		<action date="1185839640" datetime="2007-07-30T20:54:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1185905220" datetime="2007-07-31T15:07:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H9229-9230"/></action>
+		<vote date="1185905640" how="roll" roll="773" datetime="2007-07-31T15:14:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 426 - 0 (Roll No. 773).</text><reference label="text" ref="CR H8930-8932"/></vote>
+		<action date="1185940800" datetime="2007-08-01"><text>Received in the Senate.</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/31/2007--Passed House amended. Integrated Deepwater Program Reform Act - Prohibits the Secretary of the department in which the Coast Guard is operating from using a private sector entity as a lead systems integrator for future Integrated Deepwater Systems Program (Program) procurements. Allows completion of existing delivery and task orders. Allows the Secretary to obtain assistance from federal agencies and, by grant, contract, or cooperative agreement, from private sector entities. Directs the Secretary, subject to exception, to use full and open competition for certain Deepwater Program acquisitions. Imposes other Program requirements, including certain required contract terms, development of a life cycle cost estimate, and assignment of a separate contract officers. (Sec. 3) Requires the Coast Guard commandant to appoint or designate a career reserved employee as Chief Acquisition Officer for the Coast Guard to monitor Coast Guard acquisition activities, increase the use of full and open competition, and ensure the use of detailed performance specifications when performance-based contracting is used. Requires the commandant, subject to appropriations, to establish special rate supplements that provide higher pay levels for employees necessary to carry out the amendment made by this paragraph. (Sec. 4) Directs the Secretary to cause each cutter, other than a National Security Cutter, acquired after enactment of this Act to be classed by the American Bureau of Shipping. Requires certain other testing and certification to be done by independent third parties. Requires the Secretary to cause the first in class of a major asset acquisition of a cutter or an aircraft to be subjected to an assessment of operational capability conducted by the Secretary of the Navy. (Sec. 5) Requires specified reports, including concerning : (1) National Security Cutters; (2) the Program, (3) change orders; (4) technology risks and maturity; (5) cost overruns, (6) a plan for management of acquisitions programs, financial management, engineering and logistics management, and contract management; and (7) any Coast Guard mission performance gap due to the removal of Program assets from service. (Sec. 7) Authorizes the Secretary to enter into a memorandum of understanding or a memorandum of agreement with the Secretary of the Navy to provide for the use of the Navy Systems Commands to assist the Coast Guard with the oversight of Coast Guard major acquisition programs.<br/>
+	</summary>
+</bill>

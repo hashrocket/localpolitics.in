@@ -1,0 +1,46 @@
+<bill session="111" type="h" number="1388" updated="2009-03-12T12:07:39-04:00">
+	<status><calendar date="1236744000" datetime="2009-03-11" /></status>
+
+	<introduced date="1236571200" datetime="2009-03-09"/>
+	<titles>
+		<title type="short" as="introduced">Generations Invigorating Volunteerism and Education Act</title>
+		<title type="short" as="introduced">GIVE Act</title>
+		<title type="short" as="introduced">Congressional Commission on Civic Service Act</title>
+		<title type="official" as="introduced">To reauthorize and reform the national service laws.</title>
+	</titles>
+	<sponsor id="400257"/>
+	<cosponsors>
+		<cosponsor id="400162" joined="2009-03-09"/>
+		<cosponsor id="412312" joined="2009-03-09"/>
+		<cosponsor id="412204" joined="2009-03-09"/>
+		<cosponsor id="412319" joined="2009-03-09"/>
+		<cosponsor id="400008" joined="2009-03-09"/>
+		<cosponsor id="400216" joined="2009-03-09"/>
+		<cosponsor id="412232" joined="2009-03-09"/>
+		<cosponsor id="412193" joined="2009-03-09"/>
+		<cosponsor id="400179" joined="2009-03-09"/>
+		<cosponsor id="412308" joined="2009-03-09"/>
+		<cosponsor id="400278" joined="2009-03-09"/>
+		<cosponsor id="412200" joined="2009-03-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1236571200" datetime="2009-03-09"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1236744000" datetime="2009-03-11"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1236744000" datetime="2009-03-11" ><text>Ordered to be Reported (Amended) by the Yeas and Nays: 34 - 3.</text></calendar>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, Markup, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

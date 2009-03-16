@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="562" updated="2009-01-09T09:02:04-05:00">
+	<status><vote date="1185421380" datetime="2007-07-25T12:43:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1185163200" datetime="2007-07-23"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 3093) making appropriations for the Departments of Commerce and Justice, and Science, and Related Agencies for the fiscal year ending September 30, 2008, and for other purposes.</title>
+	</titles>
+	<sponsor id="412224"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1185225240" datetime="2007-07-23T18:14:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-255, by Mr. Arcuri.</text></action>
+		<action date="1185225240" datetime="2007-07-23T18:14:00-04:00"><text>All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.</text></action>
+		<calendar date="1185225240" datetime="2007-07-23T18:14:00-04:00" ><text>Placed on the House Calendar, Calendar No. 90.</text></calendar>
+		<action date="1185374040" datetime="2007-07-25T11:34:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H8412-8418"/></action>
+		<action date="1185374100" datetime="2007-07-25T11:35:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 562.</text></action>
+		<action date="1185421380" datetime="2007-07-25T12:43:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 221 - 195 (Roll no. 716).</text><reference label="consideration" ref="CR H8417-8418"/></action>
+		<vote date="1185421380" how="by voice vote" datetime="2007-07-25T12:43:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H8412"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/25/2007--Passed House without amendment. Sets forth the rule for consideration of H.R. 3093 (Commerce, Justice, Science, and Related Agencies Appropriations Act, 2008).<br/>
+	</summary>
+</bill>

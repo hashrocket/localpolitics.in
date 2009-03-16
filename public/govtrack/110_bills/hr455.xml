@@ -1,0 +1,41 @@
+<bill session="110" type="hr" number="455" updated="2009-01-09T08:49:02-05:00">
+	<status><vote date="1181659380" datetime="2007-06-12T11:43:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1181016000" datetime="2007-06-05"/>
+	<titles>
+		<title type="official" as="introduced">Supporting the goals and ideals of National Internet Safety Month.</title>
+	</titles>
+	<sponsor id="400631"/>
+	<cosponsors>
+		<cosponsor id="400414" joined="2007-06-05"/>
+		<cosponsor id="400177" joined="2007-06-05"/>
+		<cosponsor id="400160" joined="2007-06-05"/>
+		<cosponsor id="400373" joined="2007-06-05"/>
+		<cosponsor id="412223" joined="2007-06-05"/>
+		<cosponsor id="412205" joined="2007-06-05"/>
+		<cosponsor id="400255" joined="2007-06-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1181016000" datetime="2007-06-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1181016000" datetime="2007-06-05"><text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text></action>
+		<action date="1181658300" datetime="2007-06-12T11:25:00-04:00"><text>Mr. Butterfield moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1181658300" datetime="2007-06-12T11:25:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6254-6257"/></action>
+		<action date="1181658300" datetime="2007-06-12T11:25:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 455.</text></action>
+		<vote date="1181659380" how="by voice vote" datetime="2007-06-12T11:43:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H6254"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/12/2007--Passed House amended. Supports the goals and ideals of recognizing National Internet Safety Month. Recognizes that the month provides U.S. citizens an opportunity to learn more about Internet dangers and the importance of being safe and responsible online. Commends and recognizes national and community organizations for promoting Internet danger awareness and helping develop critical thinking and decision-making skills that are needed to use the Internet safely. Calls for increased efforts to raise awareness for the need for online safety in the United States.<br/>
+	</summary>
+</bill>

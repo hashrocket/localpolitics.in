@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="193" retreived_date="1226018414" updated="2008-11-06T19:40:14-05:00">
+	<status><introduced date="1167886800" datetime="2007-01-04"/></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="short" as="introduced">Make College Affordable Act of 2007</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make higher education more affordable by providing a full tax deduction for higher education expenses and interest on student loans.</title>
+	</titles>
+	<sponsor id="400311"/>
+	<cosponsors>
+		<cosponsor id="400279" joined="2007-01-04"/>
+		<cosponsor id="400385" joined="2007-08-03"/>
+		<cosponsor id="400260" joined="2007-01-04"/>
+		<cosponsor id="400071" joined="2007-09-14"/>
+		<cosponsor id="400229" joined="2008-03-04"/>
+		<cosponsor id="400017" joined="2007-03-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action date="1167973200" datetime="2007-01-05"><text>Sponsor introductory remarks on measure. (CR E20)</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="College costs"/>
+		<term name="Education"/>
+		<term name="Finance"/>
+		<term name="Higher education"/>
+		<term name="Income tax"/>
+		<term name="Interest"/>
+		<term name="Job training"/>
+		<term name="Student loan funds"/>
+		<term name="Tax deductions"/>
+		<term name="Vocational education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/4/2007--Introduced.<br/>Make College Affordable Act of 2007 - Amends the Internal Revenue Code to allow taxpayers, their spouses, dependents, and grandchildren a tax deduction from gross income for certain higher education expenses and for interest on certain student loans. Includes as higher education expenses undergraduate tuition and fees and reasonable living expenses while attending an institution of higher education.<br/>
+	</summary>
+</bill>

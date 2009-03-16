@@ -1,0 +1,44 @@
+<bill session="110" type="hr" number="1185" updated="2009-01-09T10:21:41-05:00">
+	<status><vote date="1211292300" datetime="2008-05-20T11:05:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1210219200" datetime="2008-05-08"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives that Congress should recognize the important contributions of Americans who serve as foster parents and, in doing so, unselfishly open their homes and family lives to children in need.</title>
+	</titles>
+	<sponsor id="400262"/>
+	<cosponsors>
+		<cosponsor id="400092" joined="2008-05-14"/>
+		<cosponsor id="400065" joined="2008-05-14"/>
+		<cosponsor id="400130" joined="2008-05-14"/>
+		<cosponsor id="400387" joined="2008-05-14"/>
+		<cosponsor id="400324" joined="2008-05-08"/>
+		<cosponsor id="400103" joined="2008-05-14"/>
+		<cosponsor id="400270" joined="2008-05-14"/>
+		<cosponsor id="412216" joined="2008-05-14"/>
+		<cosponsor id="400081" joined="2008-05-14"/>
+		<cosponsor id="400240" joined="2008-05-14"/>
+		<cosponsor id="400429" joined="2008-05-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1210219200" datetime="2008-05-08"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action date="1211291640" datetime="2008-05-20T10:54:00-04:00"><text>Mr. McDermott moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1211291700" datetime="2008-05-20T10:55:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4171-4173"/></action>
+		<action date="1211291700" datetime="2008-05-20T10:55:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1185.</text></action>
+		<vote date="1211292300" how="by voice vote" datetime="2008-05-20T11:05:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H4171-4172"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Expresses the sense of Congress that all Americans should work together to strengthen families and reduce the need of foster care placement for children.<br/>Urges Congress to continue its commitment to providing critical assistance to children and families involved in the foster care system through part E (Foster Care and Adoption Assistance) of title IV of the Social Security Act and other programs designed to help children reunite with their parents or find a loving and permanent home when they cannot return to their biological parents.<br/>
+	</summary>
+</bill>

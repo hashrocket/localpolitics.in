@@ -1,0 +1,54 @@
+<bill session="111" type="h" number="958" updated="2009-03-07T11:40:58-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 5, United States Code, to make unused sick leave creditable, for purposes of the Federal Employees' Retirement System, in the same manner as provided for under the Civil Service Retirement System.</title>
+	</titles>
+	<sponsor id="400283"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2009-03-03"/>
+		<cosponsor id="412258" joined="2009-02-25"/>
+		<cosponsor id="400227" joined="2009-02-25"/>
+		<cosponsor id="412272" joined="2009-02-10"/>
+		<cosponsor id="412263" joined="2009-02-10"/>
+		<cosponsor id="400263" joined="2009-02-13"/>
+		<cosponsor id="400436" joined="2009-02-13"/>
+		<cosponsor id="400162" joined="2009-03-04"/>
+		<cosponsor id="400346" joined="2009-03-03"/>
+		<cosponsor id="400140" joined="2009-02-13"/>
+		<cosponsor id="412204" joined="2009-02-13"/>
+		<cosponsor id="400195" joined="2009-02-13"/>
+		<cosponsor id="400111" joined="2009-02-25"/>
+		<cosponsor id="400299" joined="2009-03-04"/>
+		<cosponsor id="412215" joined="2009-02-13"/>
+		<cosponsor id="400344" joined="2009-03-04"/>
+		<cosponsor id="400415" joined="2009-03-04"/>
+		<cosponsor id="412212" joined="2009-02-10"/>
+		<cosponsor id="400318" joined="2009-02-10"/>
+		<cosponsor id="412299" joined="2009-02-25"/>
+		<cosponsor id="400184" joined="2009-02-10"/>
+		<cosponsor id="400435" joined="2009-02-10"/>
+		<cosponsor id="400349" joined="2009-02-10"/>
+		<cosponsor id="400245" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Sponsor introductory remarks on measure. (CR E235-236)</text></action>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Introduced.<br/>Requires the total service of an employee who retires eligible for an annuity under the Federal Employees' Retirement System (FERS) (currently, an employee who retires on an immediate FERS annuity from the position of a registered nurse with the Veterans Health Administration), or who dies leaving a survivor entitled to benefits, to include the employee's days of unused sick leave for annuity computation purposes. Provides that those days will not be counted in determining average pay or annuity eligibility.<br/>
+	</summary>
+</bill>

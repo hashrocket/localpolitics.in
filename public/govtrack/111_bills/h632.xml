@@ -1,0 +1,73 @@
+<bill session="111" type="h" number="632" updated="2009-03-07T11:01:55-05:00">
+	<status><vote date="1234307400" datetime="2009-02-10T19:10:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">Kristen's Act Reauthorization of 2009</title>
+		<title type="short" as="introduced">National Silver Alert Act 2009</title>
+		<title type="short" as="passed house">Kristen's Act Reauthorization of 2009</title>
+		<title type="short" as="passed house">National Silver Alert Act 2009</title>
+		<title type="official" as="introduced">To encourage, enhance, and integrate Silver Alert plans throughout the United States, to authorize grants for the assistance of organizations to find missing adults, and for other purposes.</title>
+	</titles>
+	<sponsor id="400111"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2009-02-10"/>
+		<cosponsor id="400230" joined="2009-02-10"/>
+		<cosponsor id="400199" joined="2009-01-22"/>
+		<cosponsor id="400289" joined="2009-02-10"/>
+		<cosponsor id="412199" joined="2009-01-22"/>
+		<cosponsor id="400160" joined="2009-02-10"/>
+		<cosponsor id="400237" joined="2009-02-10"/>
+		<cosponsor id="412221" joined="2009-01-22"/>
+		<cosponsor id="400383" joined="2009-01-22"/>
+		<cosponsor id="400422" joined="2009-02-10"/>
+		<cosponsor id="400251" joined="2009-02-10"/>
+		<cosponsor id="400302" joined="2009-01-22"/>
+		<cosponsor id="400415" joined="2009-01-22"/>
+		<cosponsor id="412186" joined="2009-01-22"/>
+		<cosponsor id="400276" joined="2009-02-10"/>
+		<cosponsor id="400326" joined="2009-01-22"/>
+		<cosponsor id="412220" joined="2009-02-10"/>
+		<cosponsor id="400240" joined="2009-01-22"/>
+		<cosponsor id="400101" joined="2009-02-10"/>
+		<cosponsor id="412250" joined="2009-01-22"/>
+		<cosponsor id="400024" joined="2009-01-22"/>
+		<cosponsor id="400288" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234306080" datetime="2009-02-10T18:48:00-05:00"><text>Mr. Johnson (GA) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1234306080" datetime="2009-02-10T18:48:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1123-1128"/></action>
+		<action date="1234306080" datetime="2009-02-10T18:48:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 632.</text></action>
+		<vote date="1234307400" how="by voice vote" datetime="2009-02-10T19:10:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H1123-1125"/></vote>
+		<action date="1234328400" datetime="2009-02-11"><text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral" />
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Advisory bodies"/>
+		<term name="Aging"/>
+		<term name="Criminal justice information and records"/>
+		<term name="Department of Justice"/>
+		<term name="Emergency communications systems"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Government information and archives"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Investigation, prosecution, interrogation methods"/>
+		<term name="Law enforcement administration and funding"/>
+		<term name="Public-private cooperation"/>
+		<term name="State and local government operations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)<br/>Title I: Silver Alert Communications Network - National Silver Alert Act 2009 - (Sec. 103) Directs the Attorney General to establish a national Silver Alert communications network within the Department of Justice (DOJ) to assist regional and local search efforts for missing seniors in coordination with states, local governments, and law enforcement agencies. Defines &quot;missing senior&quot; as any individual who is reported to, or identified by, a law enforcement agency as a missing person and who meets state requirements for designation.<br/>(Sec. 104) Directs the Attorney General to designate a DOJ employee as the National Coordinator of the Silver Alert communications network. Sets forth the duties of the Coordinator, including the establishment of voluntary guidelines for states to use in developing Silver Alert plans, the development of protocols for efforts to recover missing seniors and for notifying law enforcement agencies that a senior is missing, and the establishment of an advisory group to assist states, local governments, law enforcement agencies, and other entities involved in the network.<br/>Directs the Coordinator to: (1) report to Congress annually on the Coordinator's activities and the effectiveness and status of the Silver Alert plans of each state; (2) establish minimum standards for the issuance of alerts through the network; (3) make available to states, local governments, law enforcement and other agencies training and educational programs and materials; and (4) coordinate training and educational activities with the Assistant Secretary for Aging of the Department of Health and Human Services (DHS) and the head of the Missing Alzheimer's Disease Patient Alert Program within DOJ. (Sec. 107) Authorizes appropriations to carry out the Silver Alert communications network.<br/>(Sec. 108) Directs the Attorney General to provide grants to states for the development and enhancement of state programs and activities to support Silver Alert plans and the network. Authorizes appropriations for FY2009-FY2013<br/>Title II: Kristen's Act Reauthorization - Kristen's Act Reauthorization of 2009 - (Sec. 203) Directs the Attorney General to make competitive grants to public agencies or nonprofit private organizations to: (1) maintain a national resource center and information clearinghouse for missing and unidentified adults; (2) maintain a national, interconnected database to track missing adults endangered due to age, diminished mental capacity, or the the circumstances of disappearance, when foul play is suspected or circumstances are unknown; (3) coordinate public and private programs that locate or recover missing adults; (4) provide assistance and training to law enforcement agencies, state and local governments, and other agencies involved with missing adults; (5) provide assistance to families in locating and recovering missing adults; and (6) assist in public notification and victim advocacy related to missing adults. Requires the Attorney General to: (1) periodically solicit applications for grants using the Federal Register and the DOJ website; (2) coordinate federally-funded programs relating to missing adults; and (3) encourage coordination among grant recipients. (Sec. 204) Authorizes appropriations for FY2010-FY2020.<br/>
+	</summary>
+</bill>

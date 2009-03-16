@@ -1,0 +1,37 @@
+<bill session="111" type="hr" number="52" updated="2009-03-07T13:12:01-05:00">
+	<status><vote date="1231993500" datetime="2009-01-14T12:25:00-05:00" where="h" result="pass" how="roll" roll="14"/></status>
+
+	<introduced date="1231822800" datetime="2009-01-13"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 2) to amend title XXI of the Social Security Act to extend and improve the Children's Health Insurance Program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400170"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231896000" datetime="2009-01-13T21:20:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 111-1, by Mr. Hastings (FL).</text></action>
+		<action date="1231896000" datetime="2009-01-13T21:20:00-05:00"><text>The Resolution waives all points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI.</text></action>
+		<calendar date="1231896000" datetime="2009-01-13T21:20:00-05:00" ><text>Placed on the House Calendar, Calendar No. 1.</text></calendar>
+		<action date="1231943640" datetime="2009-01-14T10:34:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H203-216"/></action>
+		<action date="1231943640" datetime="2009-01-14T10:34:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 52.</text></action>
+		<action date="1231948740" datetime="2009-01-14T11:59:00-05:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H216"/></action>
+		<vote date="1231993500" how="roll" roll="14" datetime="2009-01-14T12:25:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by recorded vote: 244 - 178 (Roll no. 14).</text><reference label="text" ref="CR H203"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Rules" subcommittee="" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="2" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Legislative rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/13/2009--Introduced.<br/>Sets forth the rule for consideration of the bill (H.R. 2) to amend title XXI of the Social Security Act to extend and improve the Children's Health Insurance Program.<br/>
+	</summary>
+</bill>

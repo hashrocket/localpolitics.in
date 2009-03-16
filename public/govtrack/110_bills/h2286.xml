@@ -1,0 +1,58 @@
+<bill session="110" type="h" number="2286" updated="2009-01-08T21:37:38-05:00">
+	<status><vote date="1182798900" datetime="2007-06-25T16:15:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1178769600" datetime="2007-05-10"/>
+	<titles>
+		<title type="short" as="introduced">Bail Bond Fairness Act of 2007</title>
+		<title type="short" as="reported to house">Bail Bond Fairness Act of 2007</title>
+		<title type="short" as="passed house">Bail Bond Fairness Act of 2007</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, and the Federal Rules of Criminal Procedure with respect to bail bond forfeitures.</title>
+	</titles>
+	<sponsor id="400430"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-06-06"/>
+		<cosponsor id="400199" joined="2007-06-21"/>
+		<cosponsor id="400080" joined="2007-06-07"/>
+		<cosponsor id="412195" joined="2007-05-10"/>
+		<cosponsor id="400365" joined="2007-05-10"/>
+		<cosponsor id="400652" joined="2007-05-10"/>
+		<cosponsor id="400212" joined="2007-05-10"/>
+		<cosponsor id="400048" joined="2007-06-20"/>
+		<cosponsor id="400131" joined="2007-06-13"/>
+		<cosponsor id="400570" joined="2007-06-13"/>
+		<cosponsor id="400211" joined="2007-06-22"/>
+		<cosponsor id="412213" joined="2007-05-10"/>
+		<cosponsor id="400233" joined="2007-05-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1178769600" datetime="2007-05-10"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1180670400" datetime="2007-06-01"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+		<action date="1181188800" datetime="2007-06-07"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1181620800" datetime="2007-06-12"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1181620800" datetime="2007-06-12"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1181707200" datetime="2007-06-13"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1181707200" datetime="2007-06-13" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1182532260" datetime="2007-06-22T14:11:00-04:00"><text>Reported by the Committee on Judiciary. H. Rept. 110-208.</text></action>
+		<calendar number="127" date="1182532320" datetime="2007-06-22T14:12:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 127.</text></calendar>
+		<action date="1182797880" datetime="2007-06-25T15:58:00-04:00"><text>Mr. Conyers moved to suspend the rules and pass the bill.</text></action>
+		<action date="1182797880" datetime="2007-06-25T15:58:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7033-7036"/></action>
+		<action date="1182797880" datetime="2007-06-25T15:58:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2286.</text></action>
+		<vote date="1182798900" how="by voice vote" datetime="2007-06-25T16:15:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H7033-7034"/></vote>
+		<action date="1182830400" datetime="2007-06-26"><text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/25/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Bail Bond Fairness Act of 2007 - Amends the federal criminal code to prohibit a judicial officer from declaring forfeited a bail bond for violation of specified collateral release conditions other than failing to appear in court. Makes forfeiture of a bail bond for violation of such collateral release conditions unavailable as a sanction.<br/>Amends the Federal Rules of Criminal Procedure to provide that if a defendant fails to appear physically before the court (currently, if there is a breach of a condition of a bond), the court shall declare a forfeiture of the bail.<br/>
+	</summary>
+</bill>

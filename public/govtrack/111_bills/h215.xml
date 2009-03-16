@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="215" updated="2009-03-07T10:13:04-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Congressional Pay Reform Act of 2009</title>
+		<title type="official" as="introduced">To provide that rates of pay for Members of Congress shall not be subject to automatic adjustment; and to provide that any bill or resolution, and any amendment to any bill or resolution, which would increase Members' pay may be adopted only by a recorded vote.</title>
+	</titles>
+	<sponsor id="400433"/>
+	<cosponsors>
+		<cosponsor id="400016" joined="2009-02-10"/>
+		<cosponsor id="400656" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Government Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House House Administration</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Rules</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Rules" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="156" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Inflation and prices"/>
+		<term name="Legislative rules and procedure"/>
+		<term name="Members of Congress"/>
+		<term name="Wages and earnings"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

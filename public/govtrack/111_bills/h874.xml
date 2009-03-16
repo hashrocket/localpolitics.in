@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="874" updated="2009-03-07T11:31:00-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Freedom to Travel to Cuba Act</title>
+		<title type="official" as="introduced">To allow travel between the United States and Cuba.</title>
+	</titles>
+	<sponsor id="400102"/>
+	<cosponsors>
+		<cosponsor id="400121" joined="2009-02-04"/>
+		<cosponsor id="400311" joined="2009-02-04"/>
+		<cosponsor id="400103" joined="2009-02-04"/>
+		<cosponsor id="412263" joined="2009-02-04"/>
+		<cosponsor id="400263" joined="2009-02-04"/>
+		<cosponsor id="400134" joined="2009-02-04"/>
+		<cosponsor id="400129" joined="2009-02-04"/>
+		<cosponsor id="400284" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Foreign Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Introduced.<br/>Freedom to Travel to Cuba Act - Prohibits the President from regulating or prohibiting travel to or from Cuba by U.S. citizens or legal residents or any of the transactions ordinarily incident to such travel, except in time of war or armed hostilities between the United States and Cuba, or of imminent danger to the public health or the physical safety of U.S. travelers. 
+	</summary>
+</bill>

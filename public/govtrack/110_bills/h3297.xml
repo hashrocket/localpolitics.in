@@ -1,0 +1,64 @@
+<bill session="110" type="h" number="3297" updated="2009-01-08T23:42:27-05:00">
+	<status><enacted date="1196398800" datetime="2007-11-30" /></status>
+
+	<introduced date="1185940800" datetime="2007-08-01"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 950 West Trenton Avenue in Morrisville, Pennsylvania, as the &quot;Nate DeTample Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="412233"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-08-01"/>
+		<cosponsor id="400210" joined="2007-08-01"/>
+		<cosponsor id="400183" joined="2007-08-01"/>
+		<cosponsor id="400317" joined="2007-09-07"/>
+		<cosponsor id="412234" joined="2007-08-01"/>
+		<cosponsor id="400647" joined="2007-08-01"/>
+		<cosponsor id="412231" joined="2007-08-01"/>
+		<cosponsor id="409888" joined="2007-08-01"/>
+		<cosponsor id="400285" joined="2007-08-01"/>
+		<cosponsor id="400130" joined="2007-08-01"/>
+		<cosponsor id="400648" joined="2007-08-01"/>
+		<cosponsor id="400147" joined="2007-08-01"/>
+		<cosponsor id="400320" joined="2007-08-01"/>
+		<cosponsor id="412232" joined="2007-08-01"/>
+		<cosponsor id="400047" joined="2007-08-01"/>
+		<cosponsor id="400286" joined="2007-08-01"/>
+		<cosponsor id="400114" joined="2007-08-01"/>
+		<cosponsor id="400321" joined="2007-08-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1185940800" datetime="2007-08-01"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1190260800" datetime="2007-09-20"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1190260800" datetime="2007-09-20" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1192472760" datetime="2007-10-15T15:26:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1192472820" datetime="2007-10-15T15:27:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11508-11509"/></action>
+		<action date="1192472820" datetime="2007-10-15T15:27:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3297.</text></action>
+		<vote date="1192473360" how="by voice vote" datetime="2007-10-15T15:36:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H11508"/></vote>
+		<action date="1192507200" datetime="2007-10-16"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1192766400" datetime="2007-10-19"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+		<calendar date="1195016400" datetime="2007-11-14" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1195016400" datetime="2007-11-14"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="497" date="1195016400" datetime="2007-11-14" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 497.</text></calendar>
+		<vote date="1195189200" how="by Unanimous Consent" datetime="2007-11-16" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S14656-14657"/></vote>
+		<action date="1195189200" datetime="2007-11-16"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1195189200" datetime="2007-11-16" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1196053200" datetime="2007-11-26" ><text>Presented to President.</text></topresident>
+		<signed date="1196398800" datetime="2007-11-30" ><text>Signed by President.</text></signed>
+		<enacted number="110-123" date="1196398800" datetime="2007-11-30" type="public" ><text>Became Public Law No: 110-123.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/30/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 950 West Trenton Avenue in Morrisville, Pennsylvania, as the &quot;Nate DeTample Post Office Building.&quot; 
+	</summary>
+</bill>

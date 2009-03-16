@@ -1,0 +1,57 @@
+<bill session="111" type="h" number="549" updated="2009-03-07T10:52:09-05:00">
+	<status><vote date="1233694920" datetime="2009-02-03T17:02:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">National Bombing Prevention Act of 2009</title>
+		<title type="short" as="passed house">National Bombing Prevention Act of 2009</title>
+		<title type="official" as="introduced">To amend the Homeland Security Act of 2002 to establish the Office for Bombing Prevention, to address terrorist explosive threats, and for other purposes.</title>
+	</titles>
+	<sponsor id="400219"/>
+	<cosponsors>
+		<cosponsor id="400402" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Homeland Security.</text></action>
+		<action date="1233693900" datetime="2009-02-03T16:45:00-05:00"><text>Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1233693900" datetime="2009-02-03T16:45:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H901-905"/></action>
+		<action date="1233693900" datetime="2009-02-03T16:45:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 549.</text></action>
+		<vote date="1233694920" how="by voice vote" datetime="2009-02-03T17:02:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H902-903"/></vote>
+		<action date="1233723600" datetime="2009-02-04"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Homeland Security" subcommittee="" activity="Referral" />
+		<committee name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Emergency management"/>
+		<term name="Advanced technology and technological innovations"/>
+		<term name="Advisory bodies"/>
+		<term name="Animal protection and human-animal relationships"/>
+		<term name="Crime prevention"/>
+		<term name="Department of Homeland Security"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Government information and archives"/>
+		<term name="Government investigations"/>
+		<term name="Homeland security"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Law enforcement officers"/>
+		<term name="Military procurement, research, weapons development"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Public-private cooperation"/>
+		<term name="Research and development"/>
+		<term name="State and local government operations"/>
+		<term name="Technology transfer and commercialization"/>
+		<term name="Terrorism"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>National Bombing Prevention Act of 2009 - Amends the Homeland Security Act of 2002 to direct the Secretary of Homeland Security to establish an Office for Bombing Prevention within the Department of Homeland Security's (DHS) Protective Security Coordination Division of the Office of Infrastructure Protection. Assigns the Office primary responsibility for enhancing the ability and coordinating the efforts of the nation to deter, detect, prevent, protect against, and respond to terrorist explosive attacks in the United States.<br/>Directs the Secretary to partner with other federal, state, local, and tribal agencies, nonprofit organizations, universities, and the private sector to: (1) develop a pilot program that includes a domestic breeding program for explosives detection canines; (2) increase the number of capability assessments of explosives detection canine units; (3) continue development of a scientifically-based training curriculum to enhance consensus-based national training and certification standards to provide for the effective use of explosives detection canines; and (4) continue engagement in explosives detection canine research and development activities through partnerships with the Science and Technology Directorate and the Technical Support Working Group.<br/>Directs the Secretary to develop and periodically update a national strategy to prevent and prepare for terrorist explosive attacks in the United States.<br/>Directs the Secretary, acting through the Under Secretary for Science and Technology, to: (1) ensure coordination and information sharing regarding nonmilitary research, development, testing, and evaluation activities relating to the detection and prevention of, protection against, and response to terrorist attacks in the United States using explosives or improvised explosive devices and the development of tools and technologies necessary to neutralize and disable explosive devices; (2) coordinate with relevant federal department heads to ensure that military policies, procedures, activities, tools, and technologies to prevent and respond to terrorist attacks are adapted to nonmilitary uses; (3) establish a technology transfer program to facilitate the identification, modification, and commercialization of technology and equipment for use by agencies, emergency response providers, and the private sector against such attacks; and (4) establish a working group to advise and assist in the identification of military technologies developed by the Department of Defense (DOD) or the private sector to protect against and respond to explosive attacks.<br/>Amends the Implementing Recommendations of the 9/11 Commission Act of 2007 to direct the Comptroller General to utilize explosives detection canine teams of the Transportation Security Administration (TSA) and other DHS agencies to strengthen security and capacity.<br/>Directs the Secretary to submit a report to specified congressional committees on the administration of canine procurement activities by DHS to deter, prevent, detect, and protect against terrorist explosive attacks in the United States that includes consideration of the feasibility of reducing the price paid for the procurement of untrained canines.<br/>
+	</summary>
+</bill>

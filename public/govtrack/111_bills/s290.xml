@@ -1,0 +1,34 @@
+<bill session="111" type="s" number="290" updated="2009-03-07T14:08:16-05:00">
+	<status><introduced date="1232514000" datetime="2009-01-21"/></status>
+
+	<introduced date="1232514000" datetime="2009-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to repeal a requirement with respect to the procurement and acquisition of alternative fuels.</title>
+	</titles>
+	<sponsor id="300055"/>
+	<cosponsors>
+		<cosponsor id="400576" joined="2009-01-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1232514000" datetime="2009-01-21"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Energy and Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="1063" />
+	</relatedbills>
+	<subjects>
+		<term name="Energy"/>
+		<term name="Alternative and renewable resources"/>
+		<term name="Climate change"/>
+		<term name="Motor fuels"/>
+		<term name="Public contracts and procurement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/2009--Introduced.<br/>Amends the Energy Independence and Security Act of 2007 to repeal provisions prohibiting any federal agency from entering into a contract for procurement of an alternative or synthetic fuel for any mobility-related use, other than for research or testing, unless the contract specifies that the lifecycle greenhouse gas emissions associated with the production and combustion of the fuel must be less than or equal to such emissions from the equivalent conventional fuel.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="453" updated="2009-01-09T08:48:49-05:00">
+	<status><vote date="1181149680" datetime="2007-06-06T14:08:00-04:00" where="h" result="pass" how="roll" roll="431"/></status>
+
+	<introduced date="1181016000" datetime="2007-06-05"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 2446) to reauthorize the Afghanistan Freedom Support Act of 2002, and for other purposes.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1181087040" datetime="2007-06-05T20:44:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-174, by Mr. McGovern.</text></action>
+		<action date="1181087040" datetime="2007-06-05T20:44:00-04:00"><text>All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. Notwithstanding clause 11 of rule XVIII, no amendment to the bill shall be in order except those printed in the report of the Committee on Rules accompanying this resolution.</text></action>
+		<calendar date="1181087160" datetime="2007-06-05T20:46:00-04:00" ><text>Placed on the House Calendar, Calendar No. 67.</text></calendar>
+		<action date="1181146320" datetime="2007-06-06T13:12:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H6042-6046"/></action>
+		<action date="1181146500" datetime="2007-06-06T13:15:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 453.</text></action>
+		<action date="1181148180" datetime="2007-06-06T13:43:00-04:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H6045"/></action>
+		<vote date="1181149680" how="roll" roll="431" datetime="2007-06-06T14:08:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 195 (Roll no. 431).</text><reference label="text" ref="CR H6042"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/6/2007--Passed House without amendment. Sets forth the rule for consideration of H.R. 2446 (Afghanistan Freedom and Security Support Act of 2007).<br/>
+	</summary>
+</bill>

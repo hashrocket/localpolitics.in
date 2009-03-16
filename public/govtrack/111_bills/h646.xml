@@ -1,0 +1,55 @@
+<bill session="111" type="h" number="646" updated="2009-03-07T11:03:34-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">Federal Acupuncture Coverage Act of 2009</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for coverage of qualified acupuncturist services under part B of the Medicare Program, and to amend title 5, United States Code, to provide for coverage of such services under the Federal Employees Health Benefits Program.</title>
+	</titles>
+	<sponsor id="400178"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2009-01-22"/>
+		<cosponsor id="400199" joined="2009-01-22"/>
+		<cosponsor id="400227" joined="2009-01-22"/>
+		<cosponsor id="400311" joined="2009-01-22"/>
+		<cosponsor id="400289" joined="2009-01-22"/>
+		<cosponsor id="400162" joined="2009-01-22"/>
+		<cosponsor id="400140" joined="2009-01-22"/>
+		<cosponsor id="400360" joined="2009-01-22"/>
+		<cosponsor id="400129" joined="2009-01-22"/>
+		<cosponsor id="400647" joined="2009-02-12"/>
+		<cosponsor id="412285" joined="2009-01-22"/>
+		<cosponsor id="400415" joined="2009-01-22"/>
+		<cosponsor id="400003" joined="2009-01-22"/>
+		<cosponsor id="400301" joined="2009-02-12"/>
+		<cosponsor id="400100" joined="2009-01-22"/>
+		<cosponsor id="400435" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to House Ways and Means</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to House Oversight and Government Reform</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Alternative treatments"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Health care coverage and access"/>
+		<term name="Medicare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2009--Introduced.<br/>Federal Acupuncture Coverage Act of 2009 - Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act and federal civil service law relating to the Federal Employees Health Benefits Program to cover qualified acupuncturist services.<br/>
+	</summary>
+</bill>

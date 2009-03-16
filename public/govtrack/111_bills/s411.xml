@@ -1,0 +1,35 @@
+<bill session="111" type="s" number="411" updated="2009-03-07T14:22:20-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize the Secretary of Transportation to release restrictions on the use of certain property conveyed to the City of St. George, Utah for airport purposes.</title>
+	</titles>
+	<sponsor id="300007"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Sponsor introductory remarks on measure. (CR S2148)</text></action>
+		<action date="1234328400" datetime="2009-02-11"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Aviation and airports"/>
+		<term name="Land transfers"/>
+		<term name="Land use and conservation"/>
+		<term name="Utah"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

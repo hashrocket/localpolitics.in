@@ -1,0 +1,42 @@
+<bill session="110" type="s" number="457" updated="2009-01-09T12:07:50-05:00">
+	<status><calendar date="1171515600" datetime="2007-02-15" /></status>
+
+	<introduced date="1170219600" datetime="2007-01-31"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend the date on which the National Security Personnel System will first apply to certain defense laboratories.</title>
+	</titles>
+	<sponsor id="300098"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="2007-01-31"/>
+		<cosponsor id="300059" joined="2007-01-31"/>
+		<cosponsor id="300088" joined="2007-01-31"/>
+		<cosponsor id="300081" joined="2007-01-31"/>
+		<cosponsor id="400050" joined="2007-01-31"/>
+		<cosponsor id="300022" joined="2007-01-31"/>
+		<cosponsor id="300067" joined="2007-01-31"/>
+		<cosponsor id="300036" joined="2007-01-31"/>
+		<cosponsor id="300006" joined="2007-03-08"/>
+		<cosponsor id="300069" joined="2007-01-31"/>
+	</cosponsors>
+	<actions>
+		<action date="1170219600" datetime="2007-01-31"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<calendar date="1171515600" datetime="2007-02-15" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1181534400" datetime="2007-06-11"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-79.</text></action>
+		<calendar under="General Orders" number="196" date="1181534400" datetime="2007-06-11" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 196.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/11/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Delays until October 1, 2011, the application of the National Security Personnel System to certain defense research laboratories.<br/>
+	</summary>
+</bill>

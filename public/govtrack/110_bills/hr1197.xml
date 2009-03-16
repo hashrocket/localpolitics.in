@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="1197" updated="2009-01-09T10:23:12-05:00">
+	<status><vote date="1210907160" datetime="2008-05-15T12:06:00-04:00" where="h" result="pass" how="roll" roll="324"/></status>
+
+	<introduced date="1210737600" datetime="2008-05-14"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the Senate amendment to the bill (H.R. 2642) making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2008, and for other purposes.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1210804620" datetime="2008-05-14T19:37:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-636, by Ms. Slaughter.</text></action>
+		<action date="1210804620" datetime="2008-05-14T19:37:00-04:00"><text>The resolution provides for consideration of a motion that the House concur in the Senate amendment to H.R. 2642 with each of the three amendments printed in the report. The motion shall be debatable for two hours equally divided and controlled by the Chairman and ranking minority member of the Committee on Appropriations.</text></action>
+		<calendar date="1210804680" datetime="2008-05-14T19:38:00-04:00" ><text>Placed on the House Calendar, Calendar No. 218.</text></calendar>
+		<action date="1210857480" datetime="2008-05-15T10:18:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H3891-3903"/></action>
+		<action date="1210857600" datetime="2008-05-15T10:20:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 1197.</text></action>
+		<action date="1210863420" datetime="2008-05-15T11:57:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 224 - 195 (Roll no. 323).</text><reference label="consideration" ref="CR H3902"/></action>
+		<vote date="1210907160" how="roll" roll="324" datetime="2008-05-15T12:06:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 221 - 200 (Roll no. 324).</text><reference label="text" ref="CR H3891"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/14/2008--Introduced.<br/>Sets forth the rule for consideration of the Senate amendment to the bill (H.R. 2642) making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2008.<br/>
+	</summary>
+</bill>

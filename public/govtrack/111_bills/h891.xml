@@ -1,0 +1,76 @@
+<bill session="111" type="h" number="891" updated="2009-03-07T11:32:59-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Commuter Benefits Equity Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to equalize the exclusion from gross income of parking and transportation fringe benefits and to provide for a common cost-of-living adjustment, and for other purposes.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="2009-02-04"/>
+		<cosponsor id="400133" joined="2009-02-04"/>
+		<cosponsor id="400222" joined="2009-02-04"/>
+		<cosponsor id="400031" joined="2009-02-04"/>
+		<cosponsor id="400219" joined="2009-02-04"/>
+		<cosponsor id="400227" joined="2009-02-23"/>
+		<cosponsor id="400289" joined="2009-02-04"/>
+		<cosponsor id="412272" joined="2009-02-04"/>
+		<cosponsor id="400407" joined="2009-02-04"/>
+		<cosponsor id="400259" joined="2009-02-09"/>
+		<cosponsor id="400237" joined="2009-02-04"/>
+		<cosponsor id="400140" joined="2009-02-04"/>
+		<cosponsor id="412222" joined="2009-02-04"/>
+		<cosponsor id="400102" joined="2009-02-04"/>
+		<cosponsor id="400426" joined="2009-02-23"/>
+		<cosponsor id="400195" joined="2009-02-04"/>
+		<cosponsor id="400178" joined="2009-02-04"/>
+		<cosponsor id="400246" joined="2009-02-04"/>
+		<cosponsor id="400366" joined="2009-02-04"/>
+		<cosponsor id="400638" joined="2009-02-04"/>
+		<cosponsor id="400647" joined="2009-02-04"/>
+		<cosponsor id="400193" joined="2009-02-04"/>
+		<cosponsor id="400063" joined="2009-02-04"/>
+		<cosponsor id="400415" joined="2009-02-04"/>
+		<cosponsor id="412186" joined="2009-02-04"/>
+		<cosponsor id="400093" joined="2009-02-04"/>
+		<cosponsor id="400326" joined="2009-02-04"/>
+		<cosponsor id="412228" joined="2009-02-09"/>
+		<cosponsor id="400283" joined="2009-02-04"/>
+		<cosponsor id="412296" joined="2009-02-04"/>
+		<cosponsor id="400033" joined="2009-02-04"/>
+		<cosponsor id="412299" joined="2009-02-09"/>
+		<cosponsor id="400240" joined="2009-02-23"/>
+		<cosponsor id="400396" joined="2009-02-04"/>
+		<cosponsor id="400184" joined="2009-02-09"/>
+		<cosponsor id="400025" joined="2009-02-04"/>
+		<cosponsor id="400262" joined="2009-02-09"/>
+		<cosponsor id="400114" joined="2009-02-04"/>
+		<cosponsor id="400062" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to House Ways and Means</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to House Oversight and Government Reform</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="322" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Commuting"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Income tax exclusion"/>
+		<term name="Transportation costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Introduced.<br/>Commuter Benefits Equity Act of 2009 - Amends the Internal Revenue Code to equalize and increase to $230, with a cost-of-living adjustment after 2009, the tax exclusion for both transportation and parking fringe benefits. Extends such benefits to federal employees.<br/>
+	</summary>
+</bill>

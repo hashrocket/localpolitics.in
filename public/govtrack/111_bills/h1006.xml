@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="1006" updated="2009-03-07T11:46:45-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="short" as="introduced">Secondary Metal Theft Prevention Act of 2009</title>
+		<title type="official" as="introduced">To require secondary metal recycling agents to keep records of their transactions in order to deter individuals and enterprises engaged in the theft and interstate sale of stolen secondary metal, and for other purposes.</title>
+	</titles>
+	<sponsor id="400391"/>
+	<cosponsors>
+		<cosponsor id="400224" joined="2009-03-05"/>
+		<cosponsor id="412303" joined="2009-02-11"/>
+		<cosponsor id="400400" joined="2009-02-11"/>
+		<cosponsor id="400380" joined="2009-02-25"/>
+		<cosponsor id="400310" joined="2009-03-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="418" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Business records"/>
+		<term name="Civil actions and liability"/>
+		<term name="Crimes against property"/>
+		<term name="Government information and archives"/>
+		<term name="Metals"/>
+		<term name="Solid waste and recycling"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Introduced.<br/>Secondary Metal Theft Prevention Act of 2009 - Expresses the sense of Congress that government agencies should work with representatives of the secondary metal recycling industry to combat the theft and sale of stolen secondary metal. Defines &quot;secondary metal&quot; as: (1) wire or cable commonly used by communications and electrical utilities; and (2) copper, aluminum, or other metal (including when combined with other materials) that is valuable for recycling or reuse as raw metal.<br/>Makes it unlawful to sell certain secondary metal unless the seller documents ownership and maintains written or electronic records of each secondary metal purchase. Includes within the prohibition: (1) secondary metal that is marked with the name, logo, or initials of a railroad, a utility company, or a state or local government; (2) highway or street poles, fixtures, rails, or signs; (3) unused or undamaged building construction or utility material; (4) historical markers or grave markers; and (5) large bulk containers for beer. Prohibits cash purchases of secondary metal in excess of $75 or small multiple cash purchases within a 48-hour period. Requires purchasers of secondary metal in excess of $75 to pay by check.<br/>Empowers the Federal Trade Commission (FTC) and state attorneys general to enforce this Act. Imposes a civil penalty for violations. Declares that this Act does not preempt any state or local law regulating the sale or purchase of secondary metal. 
+	</summary>
+</bill>

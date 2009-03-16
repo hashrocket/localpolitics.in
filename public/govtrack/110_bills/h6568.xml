@@ -1,0 +1,63 @@
+<bill session="110" type="h" number="6568" updated="2009-01-09T06:24:27-05:00">
+	<status><vote date="1222370940" datetime="2008-09-25T16:29:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1216699200" datetime="2008-07-22"/>
+	<titles>
+		<title type="short" as="introduced">Tom Lantos Pulmonary Hypertension Research and Education Act of 2008</title>
+		<title type="short" as="passed house">Tom Lantos Pulmonary Hypertension Research and Education Act of 2008</title>
+		<title type="official" as="introduced">To direct the Secretary of Health and Human Services to encourage research and carry out an educational campaign with respect to pulmonary hypertension, and for other purposes.</title>
+	</titles>
+	<sponsor id="400046"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2008-09-16"/>
+		<cosponsor id="400031" joined="2008-09-16"/>
+		<cosponsor id="400219" joined="2008-09-08"/>
+		<cosponsor id="400155" joined="2008-09-08"/>
+		<cosponsor id="400263" joined="2008-07-31"/>
+		<cosponsor id="400407" joined="2008-09-16"/>
+		<cosponsor id="400380" joined="2008-09-08"/>
+		<cosponsor id="400333" joined="2008-09-08"/>
+		<cosponsor id="400424" joined="2008-09-16"/>
+		<cosponsor id="400268" joined="2008-09-08"/>
+		<cosponsor id="400254" joined="2008-09-08"/>
+		<cosponsor id="400370" joined="2008-07-31"/>
+		<cosponsor id="400007" joined="2008-09-08"/>
+		<cosponsor id="400352" joined="2008-09-09"/>
+		<cosponsor id="400057" joined="2008-09-23"/>
+		<cosponsor id="400001" joined="2008-09-08"/>
+		<cosponsor id="400193" joined="2008-07-31"/>
+		<cosponsor id="400326" joined="2008-09-10"/>
+		<cosponsor id="400301" joined="2008-09-08"/>
+		<cosponsor id="400062" joined="2008-07-22"/>
+		<cosponsor id="412194" joined="2008-08-01"/>
+		<cosponsor id="400011" joined="2008-09-08"/>
+		<cosponsor id="400321" joined="2008-09-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1216699200" datetime="2008-07-22"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1216699200" datetime="2008-07-22"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1216699200" datetime="2008-07-22"><text>Referred to House Ways and Means</text></action>
+		<action date="1222142400" datetime="2008-09-23"><committee name="House Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1222142400" datetime="2008-09-23" ><committee name="House Energy and Commerce"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1222370160" datetime="2008-09-25T16:16:00-04:00"><text>Mr. Pallone moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1222370160" datetime="2008-09-25T16:16:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9914-9916"/></action>
+		<action date="1222370160" datetime="2008-09-25T16:16:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6568.</text></action>
+		<vote date="1222370940" how="by voice vote" datetime="2008-09-25T16:29:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H9914"/></vote>
+		<action date="1222401600" datetime="2008-09-26"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/25/2008--Passed House amended. Tom Lantos Pulmonary Hypertension Research and Education Act of 2008 - Title I: Research on Pulmonary Hypertension - (Sec. 101) Expresses the sense of the Congress that: (1) the Secretary of Health and Human Services, acting through the Director of the National Institutes of Health (NIH) and the Director of the National Heart, Lung, and Blood Institute, should continue aggressive work on pulmonary hypertension; and (2) the Director of the Institute should continue research to expand the understanding of the causes of, and to find a cure for, pulmonary hypertension.<br/>Requires inclusion of information on the status of pulmonary hypertension research at NIH in biennial reports to Congress. Title II: Increasing Awareness of Pulmonary Hypertension - (Sec. 201) Requires the Secretary, acting through the Director of the Centers for Disease Control and Prevention (CDC), to carry out an educational campaign to increase public awareness of pulmonary hypertension, which may include information on: (1) pulmonary hypertension and its symptoms; (2) the incidence and prevalence of pulmonary hypertension; (3) diseases and conditions that can lead to pulmonary hypertension as a secondary diagnosis; (4) the importance of early diagnosis; and (5) the availability of a range of treatment options.<br/>(Sec. 202) Requires the Secretary, acting through the Administrator of the Health Resources and Services Administration (HRSA) and the Director of CDC, to carry out an educational campaign to increase awareness of pulmonary hypertension among health care providers, which may include information on: (1) the symptoms of pulmonary hypertension; (2) the importance of early diagnosis; (3) current diagnostic criteria; and (4) Food and Drug Administration-approved therapies for the disease. Requires such campaign to target health care providers, including cardiologists, pulmonologists, rheumatologists, primary care physicians, pediatricians, and nurse practitioners.<br/>Sets forth reporting requirements.<br/>Authorizes appropriations for FY2009-FY2011.<br/>
+	</summary>
+</bill>

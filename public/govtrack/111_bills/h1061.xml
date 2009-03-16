@@ -1,0 +1,31 @@
+<bill session="111" type="h" number="1061" updated="2009-03-07T11:53:29-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="short" as="introduced">Hoh Indian Tribe Safe Homelands Act</title>
+		<title type="official" as="introduced">To transfer certain land to the United States to be held in trust for the Hoh Indian Tribe, to place land into trust for the Hoh Indian Tribe, and for other purposes.</title>
+	</titles>
+	<sponsor id="400109"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the House Committee on Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="443" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2009--Introduced.<br/>Hoh Indian Tribe Safe Homelands Act - Directs the Secretary of the Interior to transfer certain federal and nonfederal land to the Hoh Indian Tribe, to be held in trust by the United States for the benefit of the Tribe. Prohibits on such land: (1) the placement of commercial, residential, or industrial buildings; (2) logging and hunting activities; or (3) gaming.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="1029" updated="2009-03-07T11:49:45-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Alien Smuggling and Terrorism Prevention Act of 2009</title>
+		<title type="official" as="introduced">To amend the Immigration and Nationality Act and title 18, United States Code, to combat the crime of alien smuggling and related activities, and for other purposes.</title>
+	</titles>
+	<sponsor id="400177"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to House Judiciary</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to House Homeland Security</text></action>
+		<action date="1235538000" datetime="2009-02-25"><committee name="House Homeland Security"/><text>Referred to the Subcommittee on Border, Maritime, and Global Counterterrorism.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Homeland Security" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Homeland Security" subcommittee="Border, Maritime, and Global Counterterrorism" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Alien Smuggling and Terrorism Prevention Act of 2009 - Directs the Secretary of Homeland Security to check against all available terrorist watchlists those alien smugglers and smuggled individuals who are interdicted at U.S. land, air, and sea borders. Revises alien smuggling and related criminal offense and penalty provisions. Provides extraterritorial jurisdiction over such offenses. Limits a defense of necessity for knowingly bringing an illegal alien into the United States from the high seas. Exempts from certain of such violations (transporting or harboring in the United States) a bona fide nonprofit, religious organization in the United States (or its agents or officers), unless the organization recruits, encourages, or induces an alien to come to or enter the United States, that encourages, invites, or enables an alien who is present in the United States to serve as a volunteer minister or missionary for such organization in the United States, provided the minister or missionary has been a member of the denomination for at least one year. Directs the United States Sentencing Commission to review and amend as appropriate sentencing guidelines and policy statements applicable to persons convicted of alien smuggling offenses and criminal failure to heave to or obstruction of boarding.<br/>
+	</summary>
+</bill>

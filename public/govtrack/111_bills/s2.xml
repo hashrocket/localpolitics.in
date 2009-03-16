@@ -1,0 +1,56 @@
+<bill session="111" type="s" number="2" updated="2009-03-07T13:33:13-05:00">
+	<status><calendar date="1231304400" datetime="2009-01-07" /></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Middle Class Opportunity Act of 2009</title>
+		<title type="official" as="introduced">A bill to improve the lives of middle class families and provide them with greater opportunity to achieve the American dream.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2009-01-06"/>
+		<cosponsor id="400272" joined="2009-01-06"/>
+		<cosponsor id="300009" joined="2009-01-06"/>
+		<cosponsor id="400050" joined="2009-01-07"/>
+		<cosponsor id="300059" joined="2009-01-06"/>
+		<cosponsor id="300022" joined="2009-01-06"/>
+		<cosponsor id="300011" joined="2009-01-06"/>
+		<cosponsor id="300067" joined="2009-01-06"/>
+		<cosponsor id="412246" joined="2009-01-06"/>
+		<cosponsor id="300093" joined="2009-01-06"/>
+		<cosponsor id="412243" joined="2009-01-06"/>
+		<cosponsor id="300060" joined="2009-01-06"/>
+		<cosponsor id="300038" joined="2009-01-06"/>
+		<cosponsor id="300066" joined="2009-01-06"/>
+		<cosponsor id="300073" joined="2009-01-06"/>
+		<cosponsor id="300087" joined="2009-01-06"/>
+		<cosponsor id="412326" joined="2009-01-06"/>
+		<cosponsor id="300064" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text><reference label="text of measure as introduced" ref="CR S44"/></action>
+		<calendar date="1231304400" datetime="2009-01-07" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 2.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Economics and public finance"/>
+		<term name="Child care and development"/>
+		<term name="Economic performance and conditions"/>
+		<term name="Employee benefits and pensions"/>
+		<term name="Employment discrimination and employee rights"/>
+		<term name="Income tax rates"/>
+		<term name="Labor-management relations"/>
+		<term name="Wages and earnings"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Middle Class Opportunity Act of 2009 - Declares that Congress should enact, and the President should sign, legislation to improve the lives of middle class families and provide them with greater opportunity to achieve the American dream by: (1) providing middle class tax relief while making the tax laws simpler and more reliable; (2) promoting investments in the new economy and enacting policies that create good, well-paying domestic jobs, and promoting families by improving the access and affordability of child and elder care; (3) enhancing the incentives and protections to help middle class families adequately meet their needs in retirement; (4) improving programs to help families acquire the education and training to be productive participants in the modern economy; (5) restoring fairness, prosperity, and economic security for working families by ensuring workers can exercise their rights to freely choose to form a union without employer interference; and (7) removing barriers to fair pay for all workers. 
+	</summary>
+</bill>

@@ -1,0 +1,31 @@
+<bill session="110" type="hr" number="885" updated="2009-01-09T09:42:14-05:00">
+	<status><vote date="1197999960" datetime="2007-12-18T13:46:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1197954000" datetime="2007-12-18"/>
+	<titles>
+		<title type="official" as="introduced">Electing Minority Members to certain standing committees of the House of Representatives.</title>
+	</titles>
+	<sponsor id="400328"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1197999900" datetime="2007-12-18T13:45:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H16752"/></action>
+		<vote date="1197999960" how="by voice vote" datetime="2007-12-18T13:46:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H16752"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/18/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Elects specified Minority Members to the Committees on Agriculture, on Energy and Commerce, on Foreign Affairs, and on Science and Technology.<br/>
+	</summary>
+</bill>

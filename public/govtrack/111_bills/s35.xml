@@ -1,0 +1,40 @@
+<bill session="111" type="s" number="35" updated="2009-03-07T13:36:24-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide a permanent deduction for State and local general sales taxes.</title>
+	</titles>
+	<sponsor id="300054"/>
+	<cosponsors>
+		<cosponsor id="300002" joined="2009-01-06"/>
+		<cosponsor id="300040" joined="2009-01-06"/>
+		<cosponsor id="300027" joined="2009-01-06"/>
+		<cosponsor id="400621" joined="2009-01-06"/>
+		<cosponsor id="300041" joined="2009-01-07"/>
+		<cosponsor id="400546" joined="2009-01-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR S53)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S53"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="16" />
+		<bill relation="unknown" session="111" type="s" number="23" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax deductions"/>
+		<term name="Sales and excise taxes"/>
+		<term name="State and local taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Amends the Internal Revenue Code to make permanent the election to deduct state and local sales taxes in lieu of state and local income taxes.<br/>
+	</summary>
+</bill>

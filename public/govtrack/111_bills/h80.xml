@@ -1,0 +1,76 @@
+<bill session="111" type="h" number="80" updated="2009-03-07T09:57:08-05:00">
+	<status><vote date="1235498940" datetime="2009-02-24T14:09:00-05:00" where="h" result="pass" how="roll" roll="76"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Captive Primate Safety Act</title>
+		<title type="short" as="passed house">Captive Primate Safety Act</title>
+		<title type="official" as="introduced">To amend the Lacey Act Amendments of 1981 to treat nonhuman primates as prohibited wildlife species under that Act, to make corrections in the provisions relating to captive wildlife offenses under that Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="400033"/>
+	<cosponsors>
+		<cosponsor id="400387" joined="2009-01-27"/>
+		<cosponsor id="400041" joined="2009-02-23"/>
+		<cosponsor id="400222" joined="2009-01-06"/>
+		<cosponsor id="400199" joined="2009-02-23"/>
+		<cosponsor id="400227" joined="2009-02-23"/>
+		<cosponsor id="400308" joined="2009-01-27"/>
+		<cosponsor id="400289" joined="2009-01-27"/>
+		<cosponsor id="400436" joined="2009-02-12"/>
+		<cosponsor id="400162" joined="2009-02-12"/>
+		<cosponsor id="400237" joined="2009-01-22"/>
+		<cosponsor id="400282" joined="2009-01-22"/>
+		<cosponsor id="400195" joined="2009-02-12"/>
+		<cosponsor id="400251" joined="2009-02-23"/>
+		<cosponsor id="412282" joined="2009-02-23"/>
+		<cosponsor id="412232" joined="2009-02-23"/>
+		<cosponsor id="400129" joined="2009-01-09"/>
+		<cosponsor id="400415" joined="2009-01-22"/>
+		<cosponsor id="400049" joined="2009-01-09"/>
+		<cosponsor id="400283" joined="2009-01-09"/>
+		<cosponsor id="400204" joined="2009-01-27"/>
+		<cosponsor id="412290" joined="2009-01-27"/>
+		<cosponsor id="400238" joined="2009-02-12"/>
+		<cosponsor id="400025" joined="2009-02-12"/>
+		<cosponsor id="412208" joined="2009-02-23"/>
+		<cosponsor id="400062" joined="2009-02-23"/>
+		<cosponsor id="400245" joined="2009-02-23"/>
+		<cosponsor id="400278" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR E14)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text></action>
+		<action date="1235415360" datetime="2009-02-23T14:56:00-05:00"><text>Ms. Bordallo moved to suspend the rules and pass the bill.</text></action>
+		<action date="1235415360" datetime="2009-02-23T14:56:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1616-1622"/></action>
+		<action date="1235415360" datetime="2009-02-23T14:56:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 80.</text></action>
+		<action date="1235417400" datetime="2009-02-23T15:30:00-05:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Broun (GA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1235498460" datetime="2009-02-24T14:01:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2606-2607, H2622"/></action>
+		<vote date="1235498940" how="roll" roll="76" datetime="2009-02-24T14:09:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 323 - 95 (Roll no. 76). (text: CR 2/23/2009 H1617)</text></vote>
+		<action date="1235538000" datetime="2009-02-25"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral" />
+		<committee name="House Natural Resources" subcommittee="Insular Affairs, Oceans and Wildlife" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Animals"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Animal protection and human-animal relationships"/>
+		<term name="Crimes against animals and natural resources"/>
+		<term name="Department of the Interior"/>
+		<term name="Law enforcement administration and funding"/>
+		<term name="Law enforcement officers"/>
+		<term name="Smuggling and trafficking"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Captive Primate Safety Act - Amends the Lacey Act Amendments of 1981 to add nonhuman primates to the definition of &quot;prohibited wildlife species&quot; for purposes of the prohibition against the sale or purchase of such species in interstate or foreign commerce.<br/>Makes it unlawful for a person to import, export, transport, sell, receive, acquire, or purchase a live animal of any prohibited wildlife species in interstate or foreign commerce (i.e., for pet trade purposes). Sets forth exceptions to such prohibition, including, under certain conditions, for: (1) transporting a nonhuman primate to or from a veterinarian; (2) transporting a nonhuman primate to a legally designated caregiver as a result of the death of the preceding owner; and (3) transporting a single primate of the genus Cebus that was obtained from and trained by a charitable organization to assist a permanently disabled individual with a severe mobility impairment. Sets forth civil and criminal penalties for violations of the requirements of this Act. Extends the authorization of appropriations to carry out such prohibition for FY2010-FY2014.<br/>Authorizes appropriations to the Secretary for FY2010 to hire additional law enforcement personnel of the United States Fish and Wildlife Service to enforce the Lacey Act Amendments of 1981.<br/>
+	</summary>
+</bill>

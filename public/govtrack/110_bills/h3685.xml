@@ -1,0 +1,76 @@
+<bill session="110" type="h" number="3685" updated="2009-01-09T00:35:40-05:00">
+	<status><vote date="1194474180" datetime="2007-11-07T18:23:00-05:00" where="h" result="pass" how="roll" roll="1057"/></status>
+
+	<introduced date="1190865600" datetime="2007-09-27"/>
+	<titles>
+		<title type="short" as="introduced">Employment Non-Discrimination Act of 2007</title>
+		<title type="short" as="reported to house">Employment Non-Discrimination Act of 2007</title>
+		<title type="short" as="passed house">Employment Non-Discrimination Act of 2007</title>
+		<title type="official" as="introduced">To prohibit employment discrimination on the basis of sexual orientation.</title>
+	</titles>
+	<sponsor id="400140"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2007-10-05"/>
+		<cosponsor id="400327" joined="2007-09-27"/>
+		<cosponsor id="400623" joined="2007-10-05"/>
+		<cosponsor id="400370" joined="2007-09-27"/>
+		<cosponsor id="400008" joined="2007-09-27"/>
+		<cosponsor id="400166" joined="2007-10-05"/>
+		<cosponsor id="400436" joined="2007-10-05"/>
+		<cosponsor id="412236" joined="2007-10-05"/>
+		<cosponsor id="400278" joined="2007-09-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1190865600" datetime="2007-09-27"><text>Referred to the Committee on Education and Labor, and in addition to the Committees on House Administration, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1190865600" datetime="2007-09-27"><text>Referred to House Education and Labor</text></action>
+		<action date="1190865600" datetime="2007-09-27"><text>Referred to House House Administration</text></action>
+		<action date="1190865600" datetime="2007-09-27"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1190865600" datetime="2007-09-27"><text>Referred to House Judiciary</text></action>
+		<action date="1192161600" datetime="2007-10-12"><committee name="House Judiciary"/><text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text></action>
+		<action date="1192680000" datetime="2007-10-18"><committee name="House Education and Labor"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1192680000" datetime="2007-10-18" ><committee name="House Education and Labor"/><text>Ordered to be Reported by the Yeas and Nays: 27 - 21.</text></calendar>
+		<action date="1193094720" datetime="2007-10-22T20:12:00-04:00"><text>Reported by the Committee on Education and Labor. H. Rept. 110-406, Part I.</text></action>
+		<action date="1193094780" datetime="2007-10-22T20:13:00-04:00"><text>Committee on House Administration discharged.</text></action>
+		<action date="1193094780" datetime="2007-10-22T20:13:00-04:00"><text>Committee on Oversight and Government discharged.</text></action>
+		<action date="1193094780" datetime="2007-10-22T20:13:00-04:00"><text>Committee on Judiciary discharged.</text></action>
+		<calendar number="257" date="1193094840" datetime="2007-10-22T20:14:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 257.</text></calendar>
+		<action date="1194303060" datetime="2007-11-05T18:51:00-05:00"><text>Rules Committee Resolution H. Res. 793 Reported to House. Rule provides for consideration of H.R. 3685 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.</text></action>
+		<action date="1194461880" datetime="2007-11-07T14:58:00-05:00"><text>Rule H. Res. 793 passed House.</text></action>
+		<action date="1194461940" datetime="2007-11-07T14:59:00-05:00"><text>Considered under the provisions of rule H. Res. 793.</text><reference label="consideration" ref="CR H13216-13253"/></action>
+		<action date="1194461940" datetime="2007-11-07T14:59:00-05:00"><text>Rule provides for consideration of H.R. 3685 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.</text></action>
+		<action date="1194461940" datetime="2007-11-07T14:59:00-05:00"><text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 793 and Rule XVIII.</text></action>
+		<action date="1194461940" datetime="2007-11-07T14:59:00-05:00"><text>The Speaker designated the Honorable Ellen O. Tauscher to act as Chairwoman of the Committee.</text></action>
+		<action date="1194462000" datetime="2007-11-07T15:00:00-05:00"><text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 3685.</text></action>
+		<action date="1194466920" datetime="2007-11-07T16:22:00-05:00"><text>DEBATE - Pursuant to the provisions of H.Res. 793, the Committee of the Whole proceeded with 20 minutes of debate on the George Miller (CA) amendment.</text></action>
+		<action date="1194468300" datetime="2007-11-07T16:45:00-05:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on the George Miller (CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. George Miller (CA) demanded a recorded vote and the Chair postponed further proceeding on the question of adoption of the amendment until later in the legislative day.</text></action>
+		<action date="1194468300" datetime="2007-11-07T16:45:00-05:00"><text>DEBATE - Pursuant to the provisions of H.Res. 793, the Committee of the Whole proceeded with 10 minutes of debate on the Souder amendment.</text></action>
+		<action date="1194469020" datetime="2007-11-07T16:57:00-05:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Souder amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. George Miller (CA) demanded a recorded vote and the Chair postponed further proceeding on the question of adoption of the amendment until later in the legislative day.</text></action>
+		<action date="1194469020" datetime="2007-11-07T16:57:00-05:00"><text>DEBATE - Pursuant to the provisions of H.Res. 793, the Committee of the Whole proceeded with 10 minutes of debate on the Baldwin amendment.</text></action>
+		<action date="1194469740" datetime="2007-11-07T17:09:00-05:00"><text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.</text></action>
+		<action date="1194471780" datetime="2007-11-07T17:43:00-05:00"><text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3685.</text></action>
+		<action date="1194471780" datetime="2007-11-07T17:43:00-05:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H13250"/></action>
+		<action date="1194471780" datetime="2007-11-07T17:43:00-05:00"><text>The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.</text><reference label="text" ref="CR H13241-13243"/></action>
+		<action date="1194471900" datetime="2007-11-07T17:45:00-05:00"><text>Mr. Forbes moved to recommit with instructions to Education and Labor.</text><reference label="consideration" ref="CR H13250-13252"/><reference label="text" ref="CR H13250"/></action>
+		<action date="1194471960" datetime="2007-11-07T17:46:00-05:00"><text>DEBATE - The House proceeded with 10 minutes of debate on the Forbes motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add at the end of section 8(c) that &amp;quot;nothing in this Act may be construed to modify, limit, restrict, or in any way overturn any State or Federal definition of marriage as between one man and one woman, including the use of this Act as a legal predicate in litigation on the issue of marriage.&amp;quot;</text></action>
+		<action date="1194472680" datetime="2007-11-07T17:58:00-05:00"><text>The previous question on the motion to recommit with instructions was ordered without objection.</text><reference label="consideration" ref="CR H13252"/></action>
+		<action date="1194473760" datetime="2007-11-07T18:16:00-05:00"><text>On motion to recommit with instructions Failed by the Yeas and Nays: 198 - 222 (Roll no. 1056).</text></action>
+		<vote date="1194474180" how="roll" roll="1057" datetime="2007-11-07T18:23:00-05:00" where="h" type="vote" result="pass" ><text>On passage Passed by the Yeas and Nays: 235 - 184 (Roll no. 1057).</text></vote>
+		<action date="1194498000" datetime="2007-11-08"><text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar under="General Orders" number="479" date="1194930000" datetime="2007-11-13" calendar="Senate Legislative" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 479.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/7/2007--Passed House amended. Employment Non-Discrimination Act of 2007 - (Sec. 4) Makes it an unlawful employment practice for covered entities (employers, employment agencies, labor organizations, or joint labor-management committees) to discriminate against an individual on the basis of actual or perceived sexual orientation, including actions based on the actual or perceived sexual orientation of a person with whom the individual associates or has associated. Prohibits preferential treatment or quotas. Allows only disparate treatment claims. (Sec. 5) Makes it an unlawful employment practice to discriminate against an individual because the individual opposed any practice made an unlawful employment practice by this Act or made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under this Act. (Sec. 6) Makes this Act inapplicable to a corporation, association, educational institution, or society that is exempt from religious discrimination provisions under the Civil Rights Act of 1964.<br/>(Sec. 7) Makes this Act inapplicable to the relationship between the United States and members of the Armed Forces, including the Coast Guard. Declares that this Act does not repeal or modify any federal, state, territorial, or local law creating a special right or preference concerning employment for a veteran.<br/>(Sec. 8) Prohibits construing this Act to prohibit a covered entity from enforcing rules and policies that do not intentionally circumvent this Act's purposes if the rules or policies are designed for, and uniformly applied to, all individuals regardless of actual or perceived sexual orientation.<br/>Prohibits construing this Act to limit a covered entity from taking adverse action against an individual because of a charge of sexual harassment against that individual, provided that sexual harassment rules and policies are designed for, and uniformly applied to, all individuals regardless of actual or perceived sexual orientation.<br/>Prohibits construing this Act to require a covered entity to treat a couple who are not married in the same manner as the covered entity treats a married couple for purposes of employee benefits.<br/>Declares that, in this Act, the terms &quot;married&quot; and &quot;marry&quot; refer to a legal union between one man and one woman as husband and wife.<br/>(Sec. 9) Prohibits the Equal Employment Opportunity Commission (EEOC) from collecting statistics from covered entities on actual or perceived sexual orientation or compelling the collection by covered entities of such statistics.<br/>(Sec. 10) Provides for enforcement, including giving the EEOC, the Librarian of Congress, the Attorney General, and U.S. courts the same enforcement powers as they have under specified provisions of the Civil Rights Act of 1964, the Government Employee Rights Act of 1991, and other specified laws.<br/>(Sec. 11) Allows actions and proceedings against state governments and, subject to limitation, the federal government.<br/>(Sec. 12) Allows, in some circumstances, the awarding to the prevailing party of a reasonable attorney's fee as part of the costs. Makes the EEOC and the United States liable for the costs to the same extent as a private person. (Sec. 13) Requires the posting of related notices by covered entities. (Sec. 14) Grants authority to issue regulations to the EEOC, the Librarian of Congress, the Board of Directors of the Office of Compliance in accordance with provisions of the Congressional Accountability Act of 1995, and the President.<br/>(Sec. 15) Declares that this Act does not invalidate or limit the rights, remedies, or procedures available under any other federal law or regulation or any law or regulation of a state or political subdivision of a state.<br/>
+	</summary>
+</bill>

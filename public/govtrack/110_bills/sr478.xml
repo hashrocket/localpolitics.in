@@ -1,0 +1,33 @@
+<bill session="110" type="sr" number="478" updated="2009-01-09T20:57:54-05:00">
+	<status><vote date="1206936000" datetime="2008-03-31" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1205121600" datetime="2008-03-10"/>
+	<titles>
+		<title type="official" as="introduced">A resolution supporting the goals and ideals of &quot;World Water Day&quot;.</title>
+	</titles>
+	<sponsor id="300090"/>
+	<cosponsors>
+		<cosponsor id="300060" joined="2008-03-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1205121600" datetime="2008-03-10"><text>Sponsor introductory remarks on measure. (CR S1821)</text></action>
+		<action date="1205121600" datetime="2008-03-10"><text>Referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S1821"/></action>
+		<action date="1206936000" datetime="2008-03-31"><text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S2250"/></action>
+		<vote date="1206936000" how="by Unanimous Consent" datetime="2008-03-31" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S2250"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/31/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Supports the goals and ideals of World Water Day. Urges the investment of greater resources by the Department of State, the United States Agency for International Development (USAID), and all relevant federal departments and agencies toward providing sustainable and equitable access to safe drinking water and sanitation for the poor.<br/>
+	</summary>
+</bill>

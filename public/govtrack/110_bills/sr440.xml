@@ -1,0 +1,37 @@
+<bill session="110" type="sr" number="440" updated="2009-01-09T20:53:16-05:00">
+	<status><vote date="1214193600" datetime="2008-06-23" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1201755600" datetime="2008-01-31"/>
+	<titles>
+		<title type="official" as="introduced">A resolution recognizing soil as an essential natural resource, and soils professionals as playing a critical role in managing our Nation's soil resources.</title>
+	</titles>
+	<sponsor id="400050"/>
+	<cosponsors>
+		<cosponsor id="300098" joined="2008-01-31"/>
+		<cosponsor id="300042" joined="2008-06-19"/>
+		<cosponsor id="400619" joined="2008-06-19"/>
+		<cosponsor id="300051" joined="2008-06-19"/>
+		<cosponsor id="300048" joined="2008-06-19"/>
+		<cosponsor id="300026" joined="2008-06-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1201755600" datetime="2008-01-31"><text>Referred to the Committee on Agriculture, Nutrition, and Forestry.</text><reference label="text of measure as introduced" ref="CR S551"/></action>
+		<action date="1214193600" datetime="2008-06-23"><text>Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S5971"/></action>
+		<vote date="1214193600" how="by Unanimous Consent" datetime="2008-06-23" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text as passed Senate" ref="CR S5971"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/23/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Recognizes: (1) the necessity to develop and implement best practices for the long-term use of the nation's soil resources; and (2) the important role of soil scientists and soils professionals. Acknowledges the promise of soil scientists and soils professionals to continue to enrich the lives of all Americans by improving stewardship of the soil, combating soil degradation, and ensuring the future protection and sustainable use of our air, soil, and water resources. 
+	</summary>
+</bill>

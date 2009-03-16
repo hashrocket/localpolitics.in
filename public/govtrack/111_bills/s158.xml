@@ -1,0 +1,37 @@
+<bill session="111" type="s" number="158" updated="2009-03-07T13:51:42-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to expand the availability of industrial development bonds to facilities manufacturing intangible property.</title>
+	</titles>
+	<sponsor id="300091"/>
+	<cosponsors>
+		<cosponsor id="400050" joined="2009-01-06"/>
+		<cosponsor id="300060" joined="2009-01-06"/>
+		<cosponsor id="300068" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR S140-141)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S141"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax exclusion"/>
+		<term name="Industrial facilities"/>
+		<term name="Manufacturing"/>
+		<term name="Securities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Amends the Internal Revenue Code to: (1) qualify manufacturing facilities that create intangible property for tax-exempt bond financing; and (2) revise the definition of &quot;manufacturing facility&quot; for purposes of certain limitations on tax-exempt bond financing to include facilities which are functionally related and subordinate to a manufacturing facility.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="111" type="h" number="748" updated="2009-03-07T11:15:52-05:00">
+	<status><vote date="1233686580" datetime="2009-02-03T14:43:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="short" as="introduced">CAMPUS Safety Act of 2009</title>
+		<title type="short" as="introduced">Center to Advance, Monitor, and Preserve University Security Safety Act of 2009</title>
+		<title type="short" as="passed house">CAMPUS Safety Act of 2009</title>
+		<title type="short" as="passed house">Center to Advance, Monitor, and Preserve University Security Safety Act of 2009</title>
+		<title type="official" as="introduced">To establish and operate a National Center for Campus Public Safety.</title>
+	</titles>
+	<sponsor id="400364"/>
+	<cosponsors>
+		<cosponsor id="400651" joined="2009-01-28"/>
+		<cosponsor id="400652" joined="2009-02-03"/>
+		<cosponsor id="400184" joined="2009-02-03"/>
+		<cosponsor id="400355" joined="2009-02-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Sponsor introductory remarks on measure. (CR E167)</text></action>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1233685440" datetime="2009-02-03T14:24:00-05:00"><text>Mr. Scott (VA) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1233685440" datetime="2009-02-03T14:24:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H881-884"/></action>
+		<action date="1233685500" datetime="2009-02-03T14:25:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 748.</text></action>
+		<vote date="1233686580" how="by voice vote" datetime="2009-02-03T14:43:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H881-882"/></vote>
+		<action date="1233723600" datetime="2009-02-04"><text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral" />
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Crime prevention"/>
+		<term name="Criminal justice information and records"/>
+		<term name="Department of Justice"/>
+		<term name="Education programs funding"/>
+		<term name="Emergency planning and evacuation"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Government information and archives"/>
+		<term name="Higher education"/>
+		<term name="Mental health"/>
+		<term name="Violent crime"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Center to Advance, Monitor, and Preserve University Security Safety Act of 2009 or the CAMPUS Safety Act of 2009 - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to authorize the Director of the Office of Community Oriented Policing Services to establish and operate a National Center for Campus Public Safety. Tasks the Center with strengthening the safety and security of institutions of higher education (IHEs) by: (1) training IHE public safety agencies and their collaborative partners; (2) fostering relevant research; (3) collecting, coordinating, and disseminating information and best practices regarding campus safety; (4) developing protocols to prevent, protect against, respond to, and recover from natural and man-made emergencies that threaten the campus community; and (5) increasing cooperation between IHEs and the law enforcement, mental health, and other agencies and jurisdictions that serve them. Authorizes the Director to award grants to IHEs and other nonprofit organizations for activities that will assist the Center in performing its functions.<br/>
+	</summary>
+</bill>

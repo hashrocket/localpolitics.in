@@ -1,0 +1,38 @@
+<bill session="111" type="s" number="77" updated="2009-03-07T13:41:20-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Children's Mental Health Parity Act</title>
+		<title type="official" as="introduced">A bill to amend title XXI of the Social Security Act to provide for equal coverage of mental health services under the State Children's Health Insurance Program.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+		<cosponsor id="300091" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR S83)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Child health"/>
+		<term name="Drug, alcohol, tobacco use"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Mental health"/>
+		<term name="Poverty and welfare assistance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Children's Mental Health Parity Act - Amends title XXI (State Children's Health Insurance) (SCHIP) of the Social Security Act to require a state child health plan to ensure that the financial requirements and treatment limitations applicable to mental health or substance abuse benefits are no more restrictive than (have parity with) those applied to substantially all medical and surgical benefits covered by the plan. 
+	</summary>
+</bill>

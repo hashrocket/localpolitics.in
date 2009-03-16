@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="1004" updated="2009-03-07T11:46:31-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="short" as="introduced">Veterans Health Care Full Funding Act</title>
+		<title type="official" as="introduced">To amend title 38, United States Code, to provide an enhanced funding process to ensure an adequate level of funding for veterans health care programs of the Department of Veterans Affairs, to establish standards of access to care for veterans seeking health care from the Department of Veterans Affairs, and for other purposes.</title>
+	</titles>
+	<sponsor id="400380"/>
+	<cosponsors>
+		<cosponsor id="400244" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Introduced.<br/>Veterans Health Care Full Funding Act - Requires: (1) that in the President's budget for each fiscal year, amounts shall be requested for veterans health care programs in accordance with the provisions of this Act and that amounts appropriated shall be available for a period of two consecutive fiscal years; and (2) the Veterans Health Care Funding Review Board (established in this Act) to determine the level of funding needed for each period. Outlines the health care needs required to be included under the Board's determination. Establishes the Board. Provides standards for access to Department of Veterans Affairs (VA) care for veterans seeking: (1) primary care; and: (2) specialized care.<br/>
+	</summary>
+</bill>

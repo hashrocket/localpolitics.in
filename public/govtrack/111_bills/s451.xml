@@ -1,0 +1,41 @@
+<bill session="111" type="s" number="451" updated="2009-03-07T14:27:01-05:00">
+	<status><introduced date="1235365200" datetime="2009-02-23"/></status>
+
+	<introduced date="1235365200" datetime="2009-02-23"/>
+	<titles>
+		<title type="short" as="introduced">Girl Scouts USA Centennial Commemorative Coin Act</title>
+		<title type="official" as="introduced">A bill to require the Secretary of the Treasury to mint coins in commemoration of the centennial of the establishment of the Girl Scouts of the United States of America.</title>
+	</titles>
+	<sponsor id="300025"/>
+	<cosponsors>
+		<cosponsor id="300054" joined="2009-02-23"/>
+		<cosponsor id="300011" joined="2009-02-23"/>
+		<cosponsor id="300093" joined="2009-02-23"/>
+		<cosponsor id="300063" joined="2009-02-23"/>
+		<cosponsor id="300073" joined="2009-02-23"/>
+		<cosponsor id="412248" joined="2009-02-23"/>
+		<cosponsor id="300068" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1235365200" datetime="2009-02-23"><text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="621" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Child care and development"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Currency"/>
+		<term name="Women's education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/2009--Introduced.<br/>Girl Scouts USA Centennial Commemorative Coin Act - Directs the Secretary of the Treasury to mint and issue up to 350,000 $1 coins in commemoration of the centennial of the founding of the Girl Scouts of the USA. Requires the coin design to be emblematic of the 100 years of the organization. Restricts issuance of such coins to calendar year 2011. Subjects coin sales to a surcharge of $10 per coin. Requires payment of such surcharges to the Girl Scouts of the United States of America for Girl Scout program development and delivery.<br/>
+	</summary>
+</bill>

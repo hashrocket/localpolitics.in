@@ -1,0 +1,49 @@
+<bill session="110" type="h" number="5506" updated="2009-01-09T04:18:08-05:00">
+	<status><vote date="1216056720" datetime="2008-07-14T14:32:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1204088400" datetime="2008-02-27"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 369 Martin Luther King Jr. Drive in Jersey City, New Jersey, as the &quot;Bishop Ralph E. Brower Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="412186"/>
+	<cosponsors>
+		<cosponsor id="400142" joined="2008-05-08"/>
+		<cosponsor id="400380" joined="2008-05-08"/>
+		<cosponsor id="400132" joined="2008-05-08"/>
+		<cosponsor id="400184" joined="2008-05-08"/>
+		<cosponsor id="400312" joined="2008-05-08"/>
+		<cosponsor id="400359" joined="2008-05-08"/>
+		<cosponsor id="400008" joined="2008-05-08"/>
+		<cosponsor id="400308" joined="2008-05-08"/>
+		<cosponsor id="400346" joined="2008-05-08"/>
+		<cosponsor id="400244" joined="2008-02-28"/>
+		<cosponsor id="400145" joined="2008-05-08"/>
+		<cosponsor id="400309" joined="2008-04-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1204088400" datetime="2008-02-27"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1213243200" datetime="2008-06-12"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1213243200" datetime="2008-06-12" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1216056480" datetime="2008-07-14T14:28:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1216056480" datetime="2008-07-14T14:28:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6417-6418"/></action>
+		<action date="1216056480" datetime="2008-07-14T14:28:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5506.</text></action>
+		<vote date="1216056720" how="by voice vote" datetime="2008-07-14T14:32:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H6417"/></vote>
+		<action date="1216094400" datetime="2008-07-15"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1216612800" datetime="2008-07-21"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/27/2008--Introduced.<br/>Designates the facility of the United States Postal Service located at 369 Martin Luther King Jr. Drive in Jersey City, New Jersey, as the &quot;Bishop Ralph E. Brower Post Office Building.&quot;<br/>
+	</summary>
+</bill>

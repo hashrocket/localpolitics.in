@@ -1,0 +1,61 @@
+<bill session="111" type="hj" number="26" updated="2009-03-07T09:36:25-05:00">
+	<status><introduced date="1235970000" datetime="2009-03-02"/></status>
+
+	<introduced date="1235970000" datetime="2009-03-02"/>
+	<titles>
+		<title type="official" as="introduced">Proclaiming Casimir Pulaski to be an honorary citizen of the United States posthumously.</title>
+	</titles>
+	<sponsor id="400227"/>
+	<cosponsors>
+		<cosponsor id="400352" joined="2009-03-03"/>
+		<cosponsor id="400031" joined="2009-03-05"/>
+		<cosponsor id="400082" joined="2009-03-02"/>
+		<cosponsor id="400199" joined="2009-03-02"/>
+		<cosponsor id="400001" joined="2009-03-02"/>
+		<cosponsor id="400110" joined="2009-03-02"/>
+		<cosponsor id="400210" joined="2009-03-02"/>
+		<cosponsor id="400027" joined="2009-03-02"/>
+		<cosponsor id="400340" joined="2009-03-03"/>
+		<cosponsor id="412232" joined="2009-03-02"/>
+		<cosponsor id="400350" joined="2009-03-02"/>
+		<cosponsor id="400360" joined="2009-03-02"/>
+		<cosponsor id="400342" joined="2009-03-02"/>
+		<cosponsor id="400211" joined="2009-03-02"/>
+		<cosponsor id="400628" joined="2009-03-02"/>
+		<cosponsor id="400415" joined="2009-03-02"/>
+		<cosponsor id="412212" joined="2009-03-02"/>
+		<cosponsor id="400043" joined="2009-03-02"/>
+		<cosponsor id="400630" joined="2009-03-02"/>
+		<cosponsor id="400260" joined="2009-03-02"/>
+		<cosponsor id="409888" joined="2009-03-02"/>
+		<cosponsor id="412219" joined="2009-03-02"/>
+		<cosponsor id="400373" joined="2009-03-02"/>
+		<cosponsor id="400163" joined="2009-03-02"/>
+		<cosponsor id="400114" joined="2009-03-02"/>
+		<cosponsor id="400435" joined="2009-03-05"/>
+		<cosponsor id="412202" joined="2009-03-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1235970000" datetime="2009-03-02"><text>Referred to the House Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="sj" number="12" />
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Citizenship and naturalization"/>
+		<term name="Europe"/>
+		<term name="Military history"/>
+		<term name="Poland"/>
+		<term name="U.S. history"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

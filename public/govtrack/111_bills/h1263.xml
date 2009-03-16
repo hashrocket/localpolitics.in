@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="1263" updated="2009-03-07T12:23:07-05:00">
+	<status><introduced date="1236056400" datetime="2009-03-03"/></status>
+
+	<introduced date="1236056400" datetime="2009-03-03"/>
+	<titles>
+		<title type="short" as="introduced">Federal Retirement Reform Act of 2009</title>
+		<title type="short" as="introduced">Thrift Savings Plan Enhancement Act of 2009</title>
+		<title type="official" as="introduced">To amend title 5, United States Code, to provide for the automatic enrollment of new participants in the Thrift Savings Plan, and to clarify the method for computing certain annuities based on part-time service; to allow certain employees of the District of Columbia to have certain periods of service credited for purposes relating to retirement eligibility; and for other purposes.</title>
+	</titles>
+	<sponsor id="400249"/>
+	<cosponsors>
+		<cosponsor id="400295" joined="2009-03-05"/>
+		<cosponsor id="400093" joined="2009-03-04"/>
+		<cosponsor id="400283" joined="2009-03-04"/>
+		<cosponsor id="400425" joined="2009-03-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1236056400" datetime="2009-03-03"><text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1236056400" datetime="2009-03-03"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1236056400" datetime="2009-03-03"><text>Referred to House Ways and Means</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

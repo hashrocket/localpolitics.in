@@ -1,0 +1,35 @@
+<bill session="110" type="sc" number="43" updated="2009-01-09T19:45:30-05:00">
+	<status><vote2 date="1186277880" datetime="2007-08-04T22:38:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1186113600" datetime="2007-08-03"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution providing for a conditional adjournment or recess of the Senate, and a conditional adjournment of the House of Representatives.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote date="1186113600" how="by Unanimous Consent" datetime="2007-08-03" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10978"/><reference label="text as passed Senate" ref="CR S10978"/><reference label="text of measure as introduced" ref="CR S10944"/></vote>
+		<action date="1186245300" datetime="2007-08-04T13:35:00-04:00"><text>Received in the House.</text></action>
+		<action date="1186200000" datetime="2007-08-04"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1186264320" datetime="2007-08-04T18:52:00-04:00"><text>Held at the desk.</text></action>
+		<action date="1186277820" datetime="2007-08-04T22:37:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H9966-9967"/></action>
+		<vote date="1186277880" how="without objection" datetime="2007-08-04T22:38:00-04:00" where="h" type="vote2" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text" ref="CR H9966-9967"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/4/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Provides for: (1) a recess or an adjournment of the Senate from any day between August 3, 2007-August 31, 2007, until September 4, 2007 (or until another time of reassembly under this concurrent resolution); and (2) an adjournment of the House of Representatives from any legislative day between August 3, 2007-August 8, 2007, until September 4, 2007 (or until another time of reassembly).<br/>Authorizes the Majority Leader of the Senate and the Speaker of the House, acting jointly after consultation with the Senate and House Minority Leaders, to notify the Members to reassemble whenever the public interest shall warrant it.<br/>
+	</summary>
+</bill>

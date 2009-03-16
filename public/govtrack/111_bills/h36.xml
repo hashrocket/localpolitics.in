@@ -1,0 +1,50 @@
+<bill session="111" type="h" number="36" updated="2009-03-07T09:52:02-05:00">
+	<status><vote date="1231389660" datetime="2009-01-07T12:41:00-05:00" where="h" result="pass" how="roll" roll="6"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Presidential Library Donation Reform Act of 2009</title>
+		<title type="short" as="passed house">Presidential Library Donation Reform Act of 2009</title>
+		<title type="official" as="introduced">To amend title 44, United States Code, to require information on contributors to Presidential library fundraising organizations.</title>
+	</titles>
+	<sponsor id="400409"/>
+	<cosponsors>
+		<cosponsor id="400074" joined="2009-01-06"/>
+		<cosponsor id="400196" joined="2009-01-06"/>
+		<cosponsor id="400371" joined="2009-01-06"/>
+		<cosponsor id="400116" joined="2009-01-06"/>
+		<cosponsor id="400425" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1231339020" datetime="2009-01-07T10:37:00-05:00"><text>Mr. Towns moved to suspend the rules and pass the bill.</text></action>
+		<action date="1231339020" datetime="2009-01-07T10:37:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H45-48"/></action>
+		<action date="1231339020" datetime="2009-01-07T10:37:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 36.</text></action>
+		<action date="1231340040" datetime="2009-01-07T10:54:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1231389120" datetime="2009-01-07T12:32:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H50"/></action>
+		<vote date="1231389660" how="roll" roll="6" datetime="2009-01-07T12:41:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 31 (Roll no. 6).</text><reference label="text" ref="CR H45"/></vote>
+		<action date="1231390800" datetime="2009-01-08"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral" />
+		<committee name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Fraud offenses"/>
+		<term name="Government information and archives"/>
+		<term name="Land transfers"/>
+		<term name="Libraries and archives"/>
+		<term name="Presidential administrations"/>
+		<term name="Presidents and presidential powers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Presidential Library Donation Reform Act of 2009 - Amends federal law regarding presidential archival depositories to require any presidential library fundraising organization to submit quarterly reports to the National Archives and Records Administration and specified congressional committees on every contributor who gave the organization a contribution or contributions (whether monetary or in-kind) totaling $200 or more for the quarterly period. Requires the Archivist of the United States to make such information available to the public through the Internet as soon as is practicable after each quarterly filing. Makes it unlawful for contributors or fundraising organizations to knowingly and willfully submit false information or omit material information. Prescribes criminal penalties for violation of such prohibitions.<br/>
+	</summary>
+</bill>

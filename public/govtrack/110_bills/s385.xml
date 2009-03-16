@@ -1,0 +1,38 @@
+<bill session="110" type="s" number="385" updated="2009-01-09T11:57:13-05:00">
+	<status><calendar date="1171342800" datetime="2007-02-13" /></status>
+
+	<introduced date="1169614800" datetime="2007-01-24"/>
+	<titles>
+		<title type="short" as="introduced">Interoperable Emergency Communications Act</title>
+		<title type="official" as="introduced">A bill to improve the interoperability of emergency communications equipment.</title>
+	</titles>
+	<sponsor id="300056"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="2007-01-24"/>
+		<cosponsor id="300060" joined="2007-01-24"/>
+		<cosponsor id="300091" joined="2007-01-24"/>
+		<cosponsor id="300090" joined="2007-01-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1169614800" datetime="2007-01-24"><text>Sponsor introductory remarks on measure. (CR S1071)</text></action>
+		<action date="1169614800" datetime="2007-01-24"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text><reference label="text of measure as introduced" ref="CR S1071-1072"/></action>
+		<calendar date="1171342800" datetime="2007-02-13" ><text>Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.</text></calendar>
+		<action date="1173070800" datetime="2007-03-05"><text>Committee on Commerce, Science, and Transportation. Reported by Senator Inouye with amendments and an amendment to the title. With written report No. 110-30.</text></action>
+		<calendar under="General Orders" number="67" date="1173070800" datetime="2007-03-05" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 67.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/24/2007--Introduced.<br/>Interoperable Emergency Communications Act - Amends the Digital Television Transition and Public Safety Act of 2005 to revise provisions concerning the grant program to assist public agencies in establishing the interoperability of public safety emergency communications to specify five (currently, one) specific grant activities. Requires the awarding of at least $1 billion by September 30, 2007, pursuant to provisions of the Call Home Act of 2006. Amends the Post-Katrina Emergency Management Reform Act of 2006 to prohibit construing such Act or any amendments made by it as limiting the authority of the Department of Commerce or the Federal Communications Commission.<br/>
+	</summary>
+</bill>

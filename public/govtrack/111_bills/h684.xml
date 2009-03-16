@@ -1,0 +1,58 @@
+<bill session="111" type="h" number="684" updated="2009-03-07T11:08:06-05:00">
+	<status><introduced date="1232946000" datetime="2009-01-26"/></status>
+
+	<introduced date="1232946000" datetime="2009-01-26"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Prescription Drug Savings and Choice Act of 2009</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to deliver a meaningful benefit and lower prescription drug prices under the Medicare Program.</title>
+	</titles>
+	<sponsor id="400026"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2009-01-26"/>
+		<cosponsor id="400031" joined="2009-01-26"/>
+		<cosponsor id="400001" joined="2009-01-26"/>
+		<cosponsor id="400407" joined="2009-01-26"/>
+		<cosponsor id="400259" joined="2009-01-26"/>
+		<cosponsor id="400436" joined="2009-02-04"/>
+		<cosponsor id="400237" joined="2009-01-26"/>
+		<cosponsor id="412307" joined="2009-01-26"/>
+		<cosponsor id="400140" joined="2009-01-26"/>
+		<cosponsor id="400251" joined="2009-01-26"/>
+		<cosponsor id="412234" joined="2009-03-05"/>
+		<cosponsor id="400178" joined="2009-01-26"/>
+		<cosponsor id="400360" joined="2009-01-26"/>
+		<cosponsor id="400430" joined="2009-03-05"/>
+		<cosponsor id="400415" joined="2009-01-26"/>
+		<cosponsor id="412236" joined="2009-02-26"/>
+		<cosponsor id="400630" joined="2009-02-12"/>
+		<cosponsor id="400274" joined="2009-02-12"/>
+		<cosponsor id="400286" joined="2009-02-12"/>
+		<cosponsor id="400215" joined="2009-01-26"/>
+		<cosponsor id="400301" joined="2009-02-04"/>
+		<cosponsor id="400062" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to House Ways and Means</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="330" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Administrative remedies"/>
+		<term name="Medicare"/>
+		<term name="Prescription drugs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/2009--Introduced.<br/>Medicare Prescription Drug Savings and Choice Act of 2009 - Amends part D (Voluntary Prescription Drug Benefit Program) of title XVIII (Medicare) of the Social Security Act to provide for: (1) establishment of one or more Medicare operated prescription drug plan options; and (2) an appeals process for denials of benefits under a Medicare operated prescription drug plan. 
+	</summary>
+</bill>

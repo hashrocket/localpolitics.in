@@ -1,0 +1,41 @@
+<bill session="111" type="hc" number="32" updated="2009-03-07T09:28:43-05:00">
+	<status><introduced date="1233118800" datetime="2009-01-28"/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of Congress that the 40th anniversary of the oil spill off the coast of Santa Barbara, California, should be remembered as an ecological and economic disaster that triggered major environmental legislation and helped launch the modern environmental movement, and for other purposes.</title>
+	</titles>
+	<sponsor id="400062"/>
+	<cosponsors>
+		<cosponsor id="400124" joined="2009-02-09"/>
+		<cosponsor id="400436" joined="2009-01-28"/>
+		<cosponsor id="400129" joined="2009-01-28"/>
+		<cosponsor id="400278" joined="2009-02-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the House Committee on Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Alternative and renewable resources"/>
+		<term name="Aquatic ecology"/>
+		<term name="California"/>
+		<term name="Coal"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Economic performance and conditions"/>
+		<term name="Marine pollution"/>
+		<term name="Oil and gas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="110" type="sc" number="62" updated="2009-01-09T19:47:48-05:00">
+	<status><vote2 date="1198084200" datetime="2007-12-19T13:10:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1198040400" datetime="2007-12-19"/>
+	<titles>
+		<title type="official" as="introduced">A resolution to correct the enrollment of H.R. 660.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="300092" joined="2007-12-18"/>
+		<cosponsor id="300062" joined="2007-12-18"/>
+	</cosponsors>
+	<actions>
+		<vote date="1198040400" how="by Unanimous Consent" datetime="2007-12-19" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR 12/18/2007 S15939; text as passed Senate: CR 12/18/2007 CR S15939; text of measure as introduced: CR 12/18/2007 S15926)</text></vote>
+		<action date="1198073040" datetime="2007-12-19T10:04:00-05:00"><text>Received in the House.</text></action>
+		<action date="1198075320" datetime="2007-12-19T10:42:00-05:00"><text>Held at the desk.</text></action>
+		<action date="1198040400" datetime="2007-12-19"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1198083960" datetime="2007-12-19T13:06:00-05:00"><text>Mr. Conyers moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1198084020" datetime="2007-12-19T13:07:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H16866-16867"/></action>
+		<action date="1198084020" datetime="2007-12-19T13:07:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 62.</text></action>
+		<vote date="1198084200" how="by voice vote" datetime="2007-12-19T13:10:00-05:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H16866"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/19/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Makes corrections to the enrollment of H.R. 660 (Court Security Improvement Act of 2007) to exclude bankruptcy and territorial judges from certain life insurance coverage granted to magistrate judges.<br/>
+	</summary>
+</bill>

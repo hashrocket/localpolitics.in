@@ -1,0 +1,41 @@
+<bill session="111" type="s" number="400" updated="2009-03-07T14:21:04-05:00">
+	<status><introduced date="1234155600" datetime="2009-02-09"/></status>
+
+	<introduced date="1234155600" datetime="2009-02-09"/>
+	<titles>
+		<title type="short" as="introduced">Financial Crisis Investigation Act of 2009</title>
+		<title type="official" as="introduced">A bill to expand the authority and responsibilities of the Oversight Panel of the Troubled Asset Relief Program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400357"/>
+	<cosponsors>
+		<cosponsor id="400050" joined="2009-02-09"/>
+		<cosponsor id="412326" joined="2009-02-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1234155600" datetime="2009-02-09"><text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Banking and financial institutions regulation"/>
+		<term name="Commodities markets"/>
+		<term name="Congressional oversight"/>
+		<term name="Financial crises and failures"/>
+		<term name="Financial services and investments"/>
+		<term name="Government corporations and government-sponsored enterprises"/>
+		<term name="Housing finance and home ownership"/>
+		<term name="Securities"/>
+		<term name="Securities and Exchange Commission (SEC)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

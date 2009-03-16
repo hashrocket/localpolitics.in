@@ -1,0 +1,37 @@
+<bill session="110" type="s" number="1695" updated="2009-01-09T15:20:58-05:00">
+	<status><calendar date="1182916800" datetime="2007-06-27" /></status>
+
+	<introduced date="1182830400" datetime="2007-06-26"/>
+	<titles>
+		<title type="short" as="introduced">Biologics Price Competition and Innovation Act of 2007</title>
+		<title type="official" as="introduced">A bill to amend the Public Health Service Act to establish a pathway for the licensure of biosimilar biological products, to promote innovation in the life sciences, and for other purposes.</title>
+	</titles>
+	<sponsor id="300059"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="2007-06-26"/>
+		<cosponsor id="300087" joined="2007-06-27"/>
+		<cosponsor id="300041" joined="2007-06-26"/>
+		<cosponsor id="300022" joined="2007-06-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1182830400" datetime="2007-06-26"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+		<calendar date="1182916800" datetime="2007-06-27" ><text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1227070800" datetime="2008-11-19"><text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="1127" date="1227070800" datetime="2008-11-19" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1127.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/26/2007--Introduced.<br/>Biologics Price Competition and Innovation Act of 2007 - Amends the Public Health Service Act to allow a person to submit an application for licensure of a biological product based on its similarity to a licensed biological product (the reference product). Requires the Secretary of Health and Human Services to license the biological product if it is biosimilar to or interchangeable with the reference product. Allows a determination of interchangeability if the product is: (1) biosimilar to the reference product and can be expected to produce the same clinical result in any given patient; and (2) the risk in terms of safety or diminished efficacy of alternating or switching between the products is not greater than the risk of using the reference product without switching.<br/>Prohibits the Secretary from determining that a second or subsequent biological product is interchangeable for any condition of use until one year after the first commercial marketing of the first product to be approved as interchangeable for that reference product.<br/>Prohibits the Secretary from making approval of an application under this Act f effective until 12 years after the date on which the reference product was first licensed.<br/>Authorizes the Secretary to issue product class-specific guidance.<br/>Sets forth provisions governing patent infringement actions related to the exchange of confidential information, good faith negotiations, and the filing of an infringement action.<br/>Requires the Secretary to: (1) develop recommendations with respect to the goals for the process for the review of biosimilar biological product applications; and (2) collect and evaluate data regarding the cost of reviewing such applications.<br/>
+	</summary>
+</bill>

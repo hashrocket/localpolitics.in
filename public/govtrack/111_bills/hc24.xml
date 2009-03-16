@@ -1,0 +1,39 @@
+<bill session="111" type="hc" number="24" updated="2009-03-07T09:27:48-05:00">
+	<status><introduced date="1232514000" datetime="2009-01-21"/></status>
+
+	<introduced date="1232514000" datetime="2009-01-21"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of Congress on the need for a national AIDS strategy.</title>
+	</titles>
+	<sponsor id="400237"/>
+	<cosponsors>
+		<cosponsor id="400073" joined="2009-01-21"/>
+		<cosponsor id="400416" joined="2009-01-21"/>
+		<cosponsor id="400185" joined="2009-01-21"/>
+		<cosponsor id="400422" joined="2009-01-21"/>
+		<cosponsor id="400425" joined="2009-01-21"/>
+		<cosponsor id="400271" joined="2009-01-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1232514000" datetime="2009-01-21"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="HIV-AIDS"/>
+		<term name="Health promotion and preventive care"/>
+		<term name="Medical tests and diagnostic methods"/>
+		<term name="Minority health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/2009--Introduced.<br/>Calls on: (1) the President to develop a national AIDS strategy; (2) the federal government to partner with African-American communities to develop strategies to reduce and reverse the impact of the epidemic; (3) the Department of Health and Human Services (HHS) to increase education and outreach regarding HIV prevention, testing, and treatment; and (4) the people of the United States to educate themselves about HIV infection and the ways in which they can protect themselves.<br/>
+	</summary>
+</bill>

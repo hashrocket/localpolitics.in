@@ -1,0 +1,45 @@
+<bill session="110" type="hr" number="487" updated="2009-01-09T08:52:52-05:00">
+	<status><vote date="1184612880" datetime="2007-07-16T16:08:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1181793600" datetime="2007-06-14"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the contribution of modeling and simulation technology to the security and prosperity of the United States, and recognizing modeling and simulation as a National Critical Technology.</title>
+	</titles>
+	<sponsor id="400137"/>
+	<cosponsors>
+		<cosponsor id="400004" joined="2007-06-27"/>
+		<cosponsor id="400364" joined="2007-07-16"/>
+		<cosponsor id="400302" joined="2007-06-14"/>
+		<cosponsor id="400095" joined="2007-06-14"/>
+		<cosponsor id="400658" joined="2007-06-14"/>
+		<cosponsor id="400212" joined="2007-06-14"/>
+		<cosponsor id="400098" joined="2007-06-14"/>
+		<cosponsor id="400131" joined="2007-06-14"/>
+		<cosponsor id="400655" joined="2007-06-14"/>
+		<cosponsor id="400434" joined="2007-06-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1181793600" datetime="2007-06-14"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1182484800" datetime="2007-06-22"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1182484800" datetime="2007-06-22" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1184612280" datetime="2007-07-16T15:58:00-04:00"><text>Mr. Gordon moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1184612340" datetime="2007-07-16T15:59:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7807-7811"/></action>
+		<action date="1184612340" datetime="2007-07-16T15:59:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 487.</text></action>
+		<vote date="1184612880" how="by voice vote" datetime="2007-07-16T16:08:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H7807-7808"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/16/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Commends members of the modeling and simulation community in government, industry, and academia who have contributed to the modeling and simulation efforts that have developed essential characteristics of our nation and recognizes modeling and simulation as a national critical technology. 
+	</summary>
+</bill>

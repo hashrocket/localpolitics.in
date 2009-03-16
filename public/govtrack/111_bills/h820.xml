@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="820" updated="2009-03-07T11:24:37-05:00">
+	<status><introduced date="1233637200" datetime="2009-02-03"/></status>
+
+	<introduced date="1233637200" datetime="2009-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Nanotechnology Advancement and New Opportunities Act</title>
+		<title type="official" as="introduced">To ensure the development and responsible stewardship of nanotechnology.</title>
+	</titles>
+	<sponsor id="400185"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233637200" datetime="2009-02-03"><text>Sponsor introductory remarks on measure. (CR E188)</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to the Committee on Science and Technology, and in addition to the Committees on Energy and Commerce, Ways and Means, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to House Science and Technology</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to House Ways and Means</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to House Homeland Security</text></action>
+		<action date="1233896400" datetime="2009-02-06"><committee name="House Science and Technology"/><text>Referred to the Subcommittee on Research and Science Education.</text></action>
+		<action date="1235106000" datetime="2009-02-20"><committee name="House Homeland Security"/><text>Referred to the Subcommittee on Emerging Threats, Cybersecurity, and Science and Technology.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Science and Technology" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Science and Technology" subcommittee="Research and Science Education" activity="Referral" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Homeland Security" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Homeland Security" subcommittee="Emerging Threats, Cybersecurity, and Science and Technology" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/2009--Introduced.<br/>Nanotechnology Advancement and New Opportunities Act - Directs the Secretary of Commerce, if $100 million is made available from the private sector for establishing a Nanomanufacturing Investment Partnership, to establish such a Partnership to provide funding for precommercial nanomanufacturing research and development projects. Allows the Partnership to provide funding through direct investments in specified mechanisms designed to advance nanomanufacturing. Requires return on investment of amounts resulting from the commercialization of developed technologies to the Partnership.<br/>Requires establishment of an advisory board to assist the Secretary in carrying out the Partnership.<br/>Amends the Internal Revenue Code (IRC) to allow a tax credit for the purchase of qualified nanotechnology developer stock. Authorizes establishment within the Technology Administration of a grant program to support the establishment and development of incubators (entities affiliated with or housed in degree-granting institutions that provide space and coordinated and specialized services to certain entrepreneurial businesses). Establishes a Nanotechnology Startup Advisory Council.<br/>Directs the National Science Foundation (NSF) to establish a Nanoscale Science and Engineering Center for the development of computer aided design tools for nanotechnology applications. Requires the establishment of nanotechnology research grant programs by the: (1) Secretary of Energy to address the need for clean, cheap, renewable energy; (2) Administrator of the Environmental Protection Agency (EPA) to address technologies for remediation of pollution and other environmental protection technologies; (3) Secretary of Homeland Security (DHS) to address the need for sensors and other materials related to homeland security needs; and (4) Secretary of Health and Human Services (HHS) to address health related applications of nanotechnology. Requires the Director of the National Nanotechnology Coordination Office to transmit a nanotechnology research strategy that establishes priorities for the federal government and industry. Amends the IRC to: (1) allow a tax credit for nanotechnology education and training program expenses; and (2) revise, for purposes of Hope and Lifetime Learning tax credits, the definition of &quot;eligible educational institution&quot; to include commercial nanotechnology training providers.<br/>Directs the NSF to establish: (1) a grant program for the development of curriculum materials for interdisciplinary nanotechnology courses at institutions of higher education; and (2) establish a program to encourage manufacturing companies to enter into partnerships with occupational training centers for the development of training to support nanotechnology manufacturing. Directs the Secretary of Energy to transmit a strategy for increasing interaction on nanotechnology issues between scientists and engineers at the Department of Energy's national laboratories and in the informal science education community.<br/>
+	</summary>
+</bill>

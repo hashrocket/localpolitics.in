@@ -1,0 +1,56 @@
+<bill session="110" type="h" number="4043" updated="2009-01-09T01:17:58-05:00">
+	<status><vote date="1196916300" datetime="2007-12-05T12:45:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1193889600" datetime="2007-11-01"/>
+	<titles>
+		<title type="short" as="introduced">Preserving and Expanding Minority Depository Institutions Act</title>
+		<title type="short" as="reported to house">Preserving and Expanding Minority Depository Institutions Act</title>
+		<title type="short" as="passed house">Preserving and Expanding Minority Depository Institutions Act</title>
+		<title type="official" as="introduced">To amend the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 to preserve and expand minority depository institutions, and for other purposes.</title>
+	</titles>
+	<sponsor id="400424"/>
+	<cosponsors>
+		<cosponsor id="400661" joined="2007-11-01"/>
+		<cosponsor id="400257" joined="2007-11-01"/>
+		<cosponsor id="400271" joined="2007-11-01"/>
+		<cosponsor id="412215" joined="2007-11-01"/>
+		<cosponsor id="400063" joined="2007-11-01"/>
+		<cosponsor id="400277" joined="2007-11-01"/>
+		<cosponsor id="400140" joined="2007-11-01"/>
+		<cosponsor id="400653" joined="2007-11-01"/>
+		<cosponsor id="400074" joined="2007-11-01"/>
+		<cosponsor id="400009" joined="2007-11-07"/>
+		<cosponsor id="400363" joined="2007-11-07"/>
+		<cosponsor id="400163" joined="2007-11-01"/>
+		<cosponsor id="400179" joined="2007-11-05"/>
+		<cosponsor id="400639" joined="2007-11-01"/>
+		<cosponsor id="400067" joined="2007-11-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1193889600" datetime="2007-11-01"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1194411600" datetime="2007-11-07"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1194411600" datetime="2007-11-07" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1196798400" datetime="2007-12-04T16:00:00-05:00"><text>Reported by the Committee on Financial Services. H. Rept. 110-465.</text></action>
+		<calendar number="289" date="1196798400" datetime="2007-12-04T16:00:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 289.</text></calendar>
+		<action date="1196915580" datetime="2007-12-05T12:33:00-05:00"><text>Mr. Watt moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1196915640" datetime="2007-12-05T12:34:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H14174-14176"/></action>
+		<action date="1196915640" datetime="2007-12-05T12:34:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4043.</text></action>
+		<vote date="1196916300" how="by voice vote" datetime="2007-12-05T12:45:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H14174"/></vote>
+		<action date="1196917200" datetime="2007-12-06"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/5/2007--Passed House amended. Preserving and Expanding Minority Depository Institutions Act - Amends the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (FIRREA) to include the Chairman of the Board of Governors of the Federal Reserve System (Federal Reserve Board) and the Comptroller of the Currency among the persons with whom the Secretary of the Treasury must consult regarding methods for best preserving: (1) the present number of minority depository institutions; and (2) their minority character in cases involving mergers or acquisition of a minority depository institution.<br/>Directs the Secretary of the Treasury, the Chairman of the Federal Reserve Board, the Comptroller of the Currency, the Director of the Office of Thrift Supervision (OTS), and the Chairperson of the Federal Deposit Insurance Corporation each to submit an annual report to Congress describing actions taken with respect to the preservation and expansion of minority depository institutions. Amends the Home Owners' Loan Act to repeal its (redundant) requirement that the OTS Director report annually to Congress on actions taken with respect to the preservation and expansion of minority depository institutions.<br/>
+	</summary>
+</bill>

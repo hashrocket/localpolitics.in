@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="942" updated="2009-03-07T11:39:05-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="short" as="introduced">Veterans Self-Employment Act of 2009</title>
+		<title type="official" as="introduced">To direct the Secretary of Veterans Affairs to conduct a pilot project on the use of educational assistance under programs of the Department of Veterans Affairs to defray training costs associated with the purchase of certain franchise enterprises.</title>
+	</titles>
+	<sponsor id="400006"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to House Veterans' Affairs</text></action>
+		<action date="1234242000" datetime="2009-02-10"><committee name="House Veterans' Affairs"/><text>Referred to the Subcommittee on Economic Opportunity.</text></action>
+		<action date="1234242000" datetime="2009-02-10"><committee name="House Veterans' Affairs"/><text>Referred to House Armed Services</text></action>
+		<action date="1236142800" datetime="2009-03-04"><committee name="House Veterans' Affairs" subcommittee="Economic Opportunity"/><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Referral, Hearings" />
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Employment and training programs"/>
+		<term name="Performance measurement"/>
+		<term name="Retail and wholesale trades"/>
+		<term name="Veterans' education, employment, rehabilitation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Introduced.<br/>Veterans Self-Employment Act of 2009 - Directs the Secretary of Veterans Affairs to conduct a five-year pilot project to test the feasibility and advisability of the use of educational assistance under certain programs of the Department of Veterans Affairs (VA) to pay for training costs associated with the purchase of a franchise enterprise. Prohibits the use of such assistance unless: (1) training is required and provided in connection with the purchase and operation of a franchise; and (2) such training, and the training entity, are approved by the Secretary. Provides training and entity approval requirements.<br/>
+	</summary>
+</bill>

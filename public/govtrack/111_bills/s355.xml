@@ -1,0 +1,40 @@
+<bill session="111" type="s" number="355" updated="2009-03-07T14:15:52-05:00">
+	<status><introduced date="1233205200" datetime="2009-01-29"/></status>
+
+	<introduced date="1233205200" datetime="2009-01-29"/>
+	<titles>
+		<title type="short" as="introduced">Increasing America's Global Development Capacity Act of 2009</title>
+		<title type="official" as="introduced">A bill to enhance the capacity of the United States to undertake global development activities, and for other purposes.</title>
+	</titles>
+	<sponsor id="300038"/>
+	<cosponsors>
+		<cosponsor id="300010" joined="2009-03-04"/>
+		<cosponsor id="400064" joined="2009-01-29"/>
+		<cosponsor id="300076" joined="2009-01-29"/>
+		<cosponsor id="300034" joined="2009-01-29"/>
+		<cosponsor id="412247" joined="2009-01-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1233205200" datetime="2009-01-29"><text>Sponsor introductory remarks on measure. (CR S1066)</text></action>
+		<action date="1233205200" datetime="2009-01-29"><text>Read twice and referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S1066-1067"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Foreign Relations" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Department of State"/>
+		<term name="Diplomacy, foreign officials, Americans abroad"/>
+		<term name="Foreign aid and international relief"/>
+		<term name="U.S. Agency for International Development (USAID)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/29/2009--Introduced.<br/>Increasing America's Global Development Capacity Act of 2009 - Requires the Administrator of the United States Agency for International Development (USAID) to increase the number of full-time Foreign Service officers employed by USAID.<br/>
+	</summary>
+</bill>

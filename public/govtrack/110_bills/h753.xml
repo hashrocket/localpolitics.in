@@ -1,0 +1,55 @@
+<bill session="110" type="h" number="753" updated="2009-01-08T18:23:23-05:00">
+	<status><enacted date="1178078400" datetime="2007-05-02" /></status>
+
+	<introduced date="1170219600" datetime="2007-01-31"/>
+	<titles>
+		<title type="official" as="introduced">To redesignate the Federal building located at 167 North Main Street in Memphis, Tennessee, as the &quot;Clifford Davis/Odell Horton Federal Building&quot;.</title>
+		<title type="official" as="amended by house">To redesignate the Federal building located at 167 North Main Street in Memphis, Tennessee, as the &quot;Clifford Davis and Odell Horton Federal Building&quot;.</title>
+	</titles>
+	<sponsor id="412236"/>
+	<cosponsors>
+		<cosponsor id="400155" joined="2007-02-07"/>
+		<cosponsor id="400096" joined="2007-02-07"/>
+		<cosponsor id="400116" joined="2007-02-07"/>
+		<cosponsor id="412235" joined="2007-02-07"/>
+		<cosponsor id="400395" joined="2007-02-07"/>
+		<cosponsor id="400081" joined="2007-02-07"/>
+		<cosponsor id="400421" joined="2007-02-07"/>
+		<cosponsor id="400032" joined="2007-02-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1170219600" datetime="2007-01-31"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1170306000" datetime="2007-02-01"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1172725200" datetime="2007-03-01"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1172725200" datetime="2007-03-01" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1172725200" datetime="2007-03-01"><text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text></action>
+		<calendar number="32" date="1174928700" datetime="2007-03-26T14:05:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 32.</text></calendar>
+		<action date="1174928700" datetime="2007-03-26T14:05:00-04:00"><text>Reported (Amended) by the Committee on Transportation. H. Rept. 110-72.</text></action>
+		<action date="1174928760" datetime="2007-03-26T14:06:00-04:00"><text>Mr. Cohen moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1174928820" datetime="2007-03-26T14:07:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3021-3022"/></action>
+		<action date="1174928820" datetime="2007-03-26T14:07:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 753.</text></action>
+		<vote date="1174929480" how="by voice vote" datetime="2007-03-26T14:18:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H3021"/></vote>
+		<action date="1174968000" datetime="2007-03-27"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1176177600" how="by Unanimous Consent" datetime="2007-04-10" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S4316-4317"/></vote>
+		<topresident date="1176177600" datetime="2007-04-10" ><text>Cleared for White House.</text></topresident>
+		<action date="1176264000" datetime="2007-04-11"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1177387200" datetime="2007-04-24" ><text>Presented to President.</text></topresident>
+		<signed date="1178078400" datetime="2007-05-02" ><text>Signed by President.</text></signed>
+		<enacted number="110-20" date="1178078400" datetime="2007-05-02" type="public" ><text>Became Public Law No: 110-20.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/2/2007--Public Law. (This measure has not been amended since it was passed by the House on March 26, 2007. The summary of that version is repeated here.) Designates the federal building located at 167 North Main Street in Memphis, Tennessee, as the &quot;Clifford Davis and Odell Horton Federal Building.&quot;<br/>
+	</summary>
+</bill>

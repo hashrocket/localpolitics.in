@@ -1,0 +1,46 @@
+<bill session="110" type="h" number="5909" updated="2009-01-09T05:05:53-05:00">
+	<status><vote date="1213800600" datetime="2008-06-18T11:50:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1209009600" datetime="2008-04-24"/>
+	<titles>
+		<title type="short" as="reported to house">Catching Operational Vulnerabilities by Ensuring Random Testing Act of 2008</title>
+		<title type="short" as="reported to house">COVERT Act of 2008</title>
+		<title type="short" as="passed house">Catching Operational Vulnerabilities by Ensuring Random Testing Act of 2008</title>
+		<title type="short" as="passed house">COVERT Act of 2008</title>
+		<title type="official" as="introduced">To amend the Aviation and Transportation Security Act to prohibit advance notice to certain individuals, including security screeners, of covert testing of security screening procedures for the purpose of enhancing transportation security at airports, and for other purposes.</title>
+	</titles>
+	<sponsor id="400246"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1209009600" datetime="2008-04-24"><text>Referred to the House Committee on Homeland Security.</text></action>
+		<action date="1209355200" datetime="2008-04-28"><text>Referred to the Subcommittee on Transportation Security and Infrastructure Protection.</text></action>
+		<action date="1209614400" datetime="2008-05-01"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1211256000" datetime="2008-05-20"><text>Subcommittee on Transportation Security and Infrastructure Protection Discharged.</text></action>
+		<action date="1211256000" datetime="2008-05-20"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1211256000" datetime="2008-05-20" ><text>Ordered to be Reported (Amended) by Unanimous Consent.</text></calendar>
+		<action date="1212684240" datetime="2008-06-05T13:44:00-04:00"><text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-687.</text></action>
+		<calendar number="431" date="1212684300" datetime="2008-06-05T13:45:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 431.</text></calendar>
+		<action date="1213799100" datetime="2008-06-18T11:25:00-04:00"><text>Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1213799100" datetime="2008-06-18T11:25:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5498-5502"/></action>
+		<action date="1213799100" datetime="2008-06-18T11:25:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5909.</text></action>
+		<vote date="1213800600" how="by voice vote" datetime="2008-06-18T11:50:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H5498-5499"/></vote>
+		<action date="1213848000" datetime="2008-06-19"><text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/18/2008--Passed House amended. (This measure has not been amended since it was reported to the House on June 5, 2008. The summary of that version is repeated here.) Catching Operational Vulnerabilities by Ensuring Random Testing Act of 2008, or the COVERT Act of 2008 - Amends the Aviation and Transportation Security Act to require the Secretary of Homeland Security to make sure that advance notice of a covert test of a transportation security system is not provided to any individual (including any security screener) before completion of the test, except: (1) that such information may be provided to certain federal, state, and local government employees, officers, and contractors (including military personnel); and (2) an individual conducting such a test may disclose his or her status if a security screener or other non-covered employee identifies such tester as a potential threat. Requires the head of each covert testing office to make sure that a covert testing person or group is accompanied by a cover team to monitor the test and confirm the identity of personnel involved. States, however, that a cover team is not required to be present during a test of the screening of persons or baggage at an aviation security checkpoint if the test: (1) is approved by the Federal Security Director for the airport; and (2) is administered under an aviation screening assessment program of the Department of Homeland Security. Directs the Secretary of Homeland Security to study and report to Congress on the impact of implementing covert testing procedures under this Act on the Department's efforts to improve transportation security.<br/>
+	</summary>
+</bill>

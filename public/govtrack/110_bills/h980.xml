@@ -1,0 +1,337 @@
+<bill session="110" type="h" number="980" updated="2009-01-08T18:52:39-05:00">
+	<status><vote date="1184729520" datetime="2007-07-17T12:32:00-04:00" where="h" result="pass" how="roll" roll="633"/></status>
+
+	<introduced date="1171256400" datetime="2007-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Public Safety Employer-Employee Cooperation Act of 2007</title>
+		<title type="short" as="reported to house">Public Safety Employer-Employee Cooperation Act of 2007</title>
+		<title type="short" as="passed house">Public Safety Employer-Employee Cooperation Act of 2007</title>
+		<title type="official" as="introduced">To provide collective bargaining rights for public safety officers employed by States or their political subdivisions.</title>
+	</titles>
+	<sponsor id="400216"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-03-27"/>
+		<cosponsor id="400290" joined="2007-03-21"/>
+		<cosponsor id="400661" joined="2007-06-19"/>
+		<cosponsor id="400253" joined="2007-05-23"/>
+		<cosponsor id="400061" joined="2007-05-02"/>
+		<cosponsor id="400133" joined="2007-03-14"/>
+		<cosponsor id="400420" joined="2007-04-24"/>
+		<cosponsor id="400327" joined="2007-05-22"/>
+		<cosponsor id="400222" joined="2007-04-17"/>
+		<cosponsor id="400620" joined="2007-06-11"/>
+		<cosponsor id="400031" joined="2007-04-17"/>
+		<cosponsor id="412229" joined="2007-04-25"/>
+		<cosponsor id="400073" joined="2007-05-23"/>
+		<cosponsor id="400219" joined="2007-03-27"/>
+		<cosponsor id="400280" joined="2007-04-17"/>
+		<cosponsor id="400199" joined="2007-02-16"/>
+		<cosponsor id="400337" joined="2007-06-05"/>
+		<cosponsor id="400227" joined="2007-05-01"/>
+		<cosponsor id="400414" joined="2007-05-24"/>
+		<cosponsor id="400177" joined="2007-03-08"/>
+		<cosponsor id="400364" joined="2007-06-19"/>
+		<cosponsor id="400257" joined="2007-05-02"/>
+		<cosponsor id="400289" joined="2007-06-26"/>
+		<cosponsor id="400413" joined="2007-03-14"/>
+		<cosponsor id="400616" joined="2007-05-22"/>
+		<cosponsor id="400228" joined="2007-03-23"/>
+		<cosponsor id="400027" joined="2007-03-29"/>
+		<cosponsor id="400160" joined="2007-03-14"/>
+		<cosponsor id="400155" joined="2007-04-17"/>
+		<cosponsor id="400263" joined="2007-03-29"/>
+		<cosponsor id="400407" joined="2007-04-25"/>
+		<cosponsor id="400092" joined="2007-03-01"/>
+		<cosponsor id="400080" joined="2007-06-12"/>
+		<cosponsor id="400657" joined="2007-06-05"/>
+		<cosponsor id="400162" joined="2007-03-14"/>
+		<cosponsor id="412221" joined="2007-05-24"/>
+		<cosponsor id="400336" joined="2007-03-08"/>
+		<cosponsor id="400183" joined="2007-04-25"/>
+		<cosponsor id="400102" joined="2007-06-15"/>
+		<cosponsor id="400660" joined="2007-03-29"/>
+		<cosponsor id="400282" joined="2007-02-16"/>
+		<cosponsor id="412224" joined="2007-03-29"/>
+		<cosponsor id="412225" joined="2007-05-01"/>
+		<cosponsor id="400302" joined="2007-06-05"/>
+		<cosponsor id="400380" joined="2007-03-29"/>
+		<cosponsor id="400122" joined="2007-05-23"/>
+		<cosponsor id="400403" joined="2007-06-05"/>
+		<cosponsor id="400246" joined="2007-06-19"/>
+		<cosponsor id="400635" joined="2007-02-16"/>
+		<cosponsor id="400333" joined="2007-06-18"/>
+		<cosponsor id="400342" joined="2007-03-29"/>
+		<cosponsor id="400295" joined="2007-05-24"/>
+		<cosponsor id="400623" joined="2007-03-29"/>
+		<cosponsor id="400271" joined="2007-04-17"/>
+		<cosponsor id="400096" joined="2007-05-07"/>
+		<cosponsor id="400058" joined="2007-06-15"/>
+		<cosponsor id="400430" joined="2007-04-17"/>
+		<cosponsor id="400129" joined="2007-03-21"/>
+		<cosponsor id="400170" joined="2007-05-07"/>
+		<cosponsor id="400424" joined="2007-05-02"/>
+		<cosponsor id="412195" joined="2007-06-15"/>
+		<cosponsor id="400313" joined="2007-06-22"/>
+		<cosponsor id="400065" joined="2007-05-16"/>
+		<cosponsor id="400633" joined="2007-03-29"/>
+		<cosponsor id="400332" joined="2007-02-16"/>
+		<cosponsor id="400647" joined="2007-03-01"/>
+		<cosponsor id="400443" joined="2007-03-27"/>
+		<cosponsor id="412215" joined="2007-06-11"/>
+		<cosponsor id="400191" joined="2007-06-19"/>
+		<cosponsor id="400344" joined="2007-05-07"/>
+		<cosponsor id="400198" joined="2007-06-19"/>
+		<cosponsor id="400268" joined="2007-05-22"/>
+		<cosponsor id="400063" joined="2007-05-16"/>
+		<cosponsor id="400379" joined="2007-03-13"/>
+		<cosponsor id="400276" joined="2007-03-27"/>
+		<cosponsor id="400361" joined="2007-05-22"/>
+		<cosponsor id="412192" joined="2007-05-24"/>
+		<cosponsor id="400077" joined="2007-07-10"/>
+		<cosponsor id="400124" joined="2007-06-27"/>
+		<cosponsor id="400630" joined="2007-02-16"/>
+		<cosponsor id="400116" joined="2007-02-12"/>
+		<cosponsor id="400323" joined="2007-04-17"/>
+		<cosponsor id="400003" joined="2007-05-23"/>
+		<cosponsor id="400423" joined="2007-05-23"/>
+		<cosponsor id="400260" joined="2007-03-29"/>
+		<cosponsor id="400229" joined="2007-07-10"/>
+		<cosponsor id="400132" joined="2007-03-23"/>
+		<cosponsor id="412231" joined="2007-05-16"/>
+		<cosponsor id="400406" joined="2007-05-07"/>
+		<cosponsor id="400274" joined="2007-03-29"/>
+		<cosponsor id="409888" joined="2007-05-24"/>
+		<cosponsor id="400241" joined="2007-05-10"/>
+		<cosponsor id="412189" joined="2007-03-29"/>
+		<cosponsor id="400084" joined="2007-06-26"/>
+		<cosponsor id="412214" joined="2007-05-24"/>
+		<cosponsor id="400264" joined="2007-03-27"/>
+		<cosponsor id="400370" joined="2007-03-01"/>
+		<cosponsor id="400101" joined="2007-06-05"/>
+		<cosponsor id="400652" joined="2007-04-20"/>
+		<cosponsor id="400396" joined="2007-03-14"/>
+		<cosponsor id="400384" joined="2007-04-17"/>
+		<cosponsor id="400184" joined="2007-02-13"/>
+		<cosponsor id="400405" joined="2007-04-25"/>
+		<cosponsor id="400285" joined="2007-03-27"/>
+		<cosponsor id="400152" joined="2007-04-17"/>
+		<cosponsor id="400412" joined="2007-05-24"/>
+		<cosponsor id="400377" joined="2007-03-14"/>
+		<cosponsor id="400355" joined="2007-03-21"/>
+		<cosponsor id="412208" joined="2007-04-17"/>
+		<cosponsor id="400262" joined="2007-03-14"/>
+		<cosponsor id="400373" joined="2007-03-27"/>
+		<cosponsor id="400130" joined="2007-03-14"/>
+		<cosponsor id="400249" joined="2007-06-19"/>
+		<cosponsor id="400437" joined="2007-04-20"/>
+		<cosponsor id="412197" joined="2007-05-24"/>
+		<cosponsor id="400030" joined="2007-05-22"/>
+		<cosponsor id="400312" joined="2007-04-17"/>
+		<cosponsor id="412198" joined="2007-06-20"/>
+		<cosponsor id="400359" joined="2007-02-13"/>
+		<cosponsor id="412188" joined="2007-03-29"/>
+		<cosponsor id="400316" joined="2007-05-23"/>
+		<cosponsor id="400007" joined="2007-03-21"/>
+		<cosponsor id="400245" joined="2007-05-10"/>
+		<cosponsor id="400392" joined="2007-04-20"/>
+		<cosponsor id="400231" joined="2007-05-22"/>
+		<cosponsor id="400402" joined="2007-06-12"/>
+		<cosponsor id="400642" joined="2007-05-24"/>
+		<cosponsor id="400417" joined="2007-03-13"/>
+		<cosponsor id="400235" joined="2007-02-16"/>
+		<cosponsor id="400663" joined="2007-05-10"/>
+		<cosponsor id="400352" joined="2007-04-17"/>
+		<cosponsor id="400339" joined="2007-05-23"/>
+		<cosponsor id="400387" joined="2007-06-15"/>
+		<cosponsor id="400324" joined="2007-03-13"/>
+		<cosponsor id="400144" joined="2007-05-02"/>
+		<cosponsor id="400648" joined="2007-03-14"/>
+		<cosponsor id="400006" joined="2007-05-24"/>
+		<cosponsor id="400212" joined="2007-06-19"/>
+		<cosponsor id="400331" joined="2007-04-17"/>
+		<cosponsor id="400098" joined="2007-03-13"/>
+		<cosponsor id="400147" joined="2007-03-01"/>
+		<cosponsor id="400082" joined="2007-02-16"/>
+		<cosponsor id="400347" joined="2007-05-23"/>
+		<cosponsor id="400230" joined="2007-06-19"/>
+		<cosponsor id="400038" joined="2007-03-29"/>
+		<cosponsor id="400008" joined="2007-05-16"/>
+		<cosponsor id="412227" joined="2007-04-25"/>
+		<cosponsor id="400356" joined="2007-06-12"/>
+		<cosponsor id="400121" joined="2007-03-29"/>
+		<cosponsor id="412223" joined="2007-05-22"/>
+		<cosponsor id="400048" joined="2007-03-14"/>
+		<cosponsor id="412209" joined="2007-03-27"/>
+		<cosponsor id="400442" joined="2007-03-21"/>
+		<cosponsor id="412235" joined="2007-04-17"/>
+		<cosponsor id="400335" joined="2007-06-18"/>
+		<cosponsor id="400051" joined="2007-05-07"/>
+		<cosponsor id="412193" joined="2007-04-17"/>
+		<cosponsor id="400308" joined="2007-03-14"/>
+		<cosponsor id="412205" joined="2007-04-25"/>
+		<cosponsor id="412199" joined="2007-02-16"/>
+		<cosponsor id="400631" joined="2007-03-29"/>
+		<cosponsor id="400001" joined="2007-03-14"/>
+		<cosponsor id="400103" joined="2007-03-14"/>
+		<cosponsor id="400110" joined="2007-05-23"/>
+		<cosponsor id="400087" joined="2007-05-16"/>
+		<cosponsor id="412211" joined="2007-03-13"/>
+		<cosponsor id="400270" joined="2007-04-17"/>
+		<cosponsor id="400039" joined="2007-06-22"/>
+		<cosponsor id="400158" joined="2007-03-13"/>
+		<cosponsor id="400259" joined="2007-03-21"/>
+		<cosponsor id="400166" joined="2007-03-13"/>
+		<cosponsor id="412216" joined="2007-05-22"/>
+		<cosponsor id="400436" joined="2007-04-24"/>
+		<cosponsor id="400346" joined="2007-03-13"/>
+		<cosponsor id="400237" joined="2007-05-23"/>
+		<cosponsor id="400140" joined="2007-06-06"/>
+		<cosponsor id="400013" joined="2007-04-24"/>
+		<cosponsor id="400383" joined="2007-06-11"/>
+		<cosponsor id="412240" joined="2007-05-22"/>
+		<cosponsor id="412222" joined="2007-06-13"/>
+		<cosponsor id="400422" joined="2007-06-27"/>
+		<cosponsor id="412204" joined="2007-02-16"/>
+		<cosponsor id="400400" joined="2007-03-29"/>
+		<cosponsor id="400426" joined="2007-06-22"/>
+		<cosponsor id="400653" joined="2007-06-05"/>
+		<cosponsor id="400195" joined="2007-05-23"/>
+		<cosponsor id="400251" joined="2007-03-14"/>
+		<cosponsor id="400178" joined="2007-06-18"/>
+		<cosponsor id="400026" joined="2007-05-22"/>
+		<cosponsor id="400378" joined="2007-05-22"/>
+		<cosponsor id="412232" joined="2007-05-22"/>
+		<cosponsor id="400411" joined="2007-06-13"/>
+		<cosponsor id="400350" joined="2007-05-16"/>
+		<cosponsor id="400217" joined="2007-05-22"/>
+		<cosponsor id="400360" joined="2007-03-14"/>
+		<cosponsor id="400366" joined="2007-05-22"/>
+		<cosponsor id="400255" joined="2007-03-08"/>
+		<cosponsor id="400645" joined="2007-06-13"/>
+		<cosponsor id="400021" joined="2007-06-19"/>
+		<cosponsor id="412239" joined="2007-03-08"/>
+		<cosponsor id="400338" joined="2007-06-06"/>
+		<cosponsor id="400269" joined="2007-06-15"/>
+		<cosponsor id="400107" joined="2007-05-01"/>
+		<cosponsor id="400120" joined="2007-03-14"/>
+		<cosponsor id="400299" joined="2007-03-14"/>
+		<cosponsor id="400074" joined="2007-03-09"/>
+		<cosponsor id="400628" joined="2007-05-22"/>
+		<cosponsor id="400638" joined="2007-03-29"/>
+		<cosponsor id="412200" joined="2007-05-01"/>
+		<cosponsor id="400081" joined="2007-04-17"/>
+		<cosponsor id="400232" joined="2007-03-29"/>
+		<cosponsor id="400207" joined="2007-03-27"/>
+		<cosponsor id="400193" joined="2007-05-01"/>
+		<cosponsor id="412196" joined="2007-05-10"/>
+		<cosponsor id="400415" joined="2007-03-13"/>
+		<cosponsor id="400244" joined="2007-03-08"/>
+		<cosponsor id="412236" joined="2007-05-07"/>
+		<cosponsor id="400009" joined="2007-05-16"/>
+		<cosponsor id="412186" joined="2007-03-13"/>
+		<cosponsor id="400093" joined="2007-02-16"/>
+		<cosponsor id="400440" joined="2007-05-16"/>
+		<cosponsor id="400326" joined="2007-03-23"/>
+		<cosponsor id="400371" joined="2007-05-10"/>
+		<cosponsor id="412228" joined="2007-03-01"/>
+		<cosponsor id="412212" joined="2007-03-27"/>
+		<cosponsor id="400291" joined="2007-06-19"/>
+		<cosponsor id="400201" joined="2007-06-13"/>
+		<cosponsor id="400318" joined="2007-04-17"/>
+		<cosponsor id="400109" joined="2007-03-29"/>
+		<cosponsor id="400391" joined="2007-06-11"/>
+		<cosponsor id="400185" joined="2007-05-10"/>
+		<cosponsor id="400641" joined="2007-03-29"/>
+		<cosponsor id="400139" joined="2007-03-23"/>
+		<cosponsor id="400047" joined="2007-02-16"/>
+		<cosponsor id="412220" joined="2007-05-22"/>
+		<cosponsor id="400283" joined="2007-05-16"/>
+		<cosponsor id="400204" joined="2007-06-12"/>
+		<cosponsor id="400097" joined="2007-04-17"/>
+		<cosponsor id="400310" joined="2007-04-20"/>
+		<cosponsor id="400286" joined="2007-05-22"/>
+		<cosponsor id="400090" joined="2007-04-23"/>
+		<cosponsor id="400033" joined="2007-05-07"/>
+		<cosponsor id="400042" joined="2007-04-25"/>
+		<cosponsor id="400208" joined="2007-06-20"/>
+		<cosponsor id="400351" joined="2007-03-27"/>
+		<cosponsor id="400218" joined="2007-03-21"/>
+		<cosponsor id="400182" joined="2007-06-06"/>
+		<cosponsor id="400431" joined="2007-05-23"/>
+		<cosponsor id="400240" joined="2007-04-17"/>
+		<cosponsor id="400438" joined="2007-06-05"/>
+		<cosponsor id="412219" joined="2007-05-16"/>
+		<cosponsor id="400215" joined="2007-05-23"/>
+		<cosponsor id="400024" joined="2007-03-13"/>
+		<cosponsor id="400238" joined="2007-03-13"/>
+		<cosponsor id="400363" joined="2007-03-21"/>
+		<cosponsor id="412206" joined="2007-05-16"/>
+		<cosponsor id="400025" joined="2007-03-27"/>
+		<cosponsor id="400301" joined="2007-05-16"/>
+		<cosponsor id="400345" joined="2007-03-13"/>
+		<cosponsor id="400163" joined="2007-06-11"/>
+		<cosponsor id="400114" joined="2007-03-13"/>
+		<cosponsor id="400062" joined="2007-03-08"/>
+		<cosponsor id="412194" joined="2007-05-01"/>
+		<cosponsor id="400011" joined="2007-03-14"/>
+		<cosponsor id="400425" joined="2007-04-20"/>
+		<cosponsor id="400233" joined="2007-04-25"/>
+		<cosponsor id="400108" joined="2007-05-07"/>
+		<cosponsor id="400321" joined="2007-03-08"/>
+		<cosponsor id="400179" joined="2007-05-01"/>
+		<cosponsor id="400100" joined="2007-05-07"/>
+		<cosponsor id="400639" joined="2007-03-09"/>
+		<cosponsor id="400349" joined="2007-05-23"/>
+		<cosponsor id="400434" joined="2007-03-13"/>
+		<cosponsor id="400309" joined="2007-05-22"/>
+		<cosponsor id="412202" joined="2007-03-27"/>
+		<cosponsor id="400186" joined="2007-05-02"/>
+		<cosponsor id="400278" joined="2007-03-13"/>
+		<cosponsor id="400067" joined="2007-05-22"/>
+		<cosponsor id="400429" joined="2007-03-01"/>
+		<cosponsor id="412233" joined="2007-05-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1171256400" datetime="2007-02-12"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1181016000" datetime="2007-06-05"><text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text></action>
+		<action date="1181016000" datetime="2007-06-05"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1181016000" datetime="2007-06-05"><text>Subcommittee on Health, Employment, Labor, and Pensions Discharged.</text></action>
+		<action date="1182312000" datetime="2007-06-20"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1182312000" datetime="2007-06-20" ><text>Ordered to be Reported (Amended) by the Yeas and Nays: 42 - 1.</text></calendar>
+		<action date="1184354460" datetime="2007-07-13T16:21:00-04:00"><text>Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-232.</text></action>
+		<calendar number="143" date="1184354460" datetime="2007-07-13T16:21:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 143.</text></calendar>
+		<action date="1184679300" datetime="2007-07-17T10:35:00-04:00"><text>Mr. Kildee moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1184679300" datetime="2007-07-17T10:35:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7859-7866"/></action>
+		<action date="1184679300" datetime="2007-07-17T10:35:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 980.</text></action>
+		<action date="1184681520" datetime="2007-07-17T11:12:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1184728020" datetime="2007-07-17T12:07:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7871-7872"/></action>
+		<vote date="1184729520" how="roll" roll="633" datetime="2007-07-17T12:32:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 314 - 97 (Roll no. 633).</text><reference label="text" ref="CR H7859-7861"/></vote>
+		<action date="1184731200" datetime="2007-07-18"><text>Received in the Senate.</text></action>
+		<action date="1184904000" datetime="2007-07-20"><text>Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar under="General Orders" number="275" date="1184904000" datetime="2007-07-20" calendar="Senate Legislative" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 275.</text></calendar>
+		<action date="1210132800" datetime="2008-05-07"><text>Motion to proceed to consideration of measure made in Senate.</text><reference label="consideration" ref="CR S3883"/><reference label="text" ref="CR S3883"/></action>
+		<action date="1210132800" datetime="2008-05-07"><text>Cloture motion on the motion to proceed to the measure presented in Senate.</text></action>
+		<action date="1210132800" datetime="2008-05-07"><text>Motion to proceed to consideration of measure withdrawn in Senate.</text></action>
+		<action date="1210651200" datetime="2008-05-13"><text>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 69 - 29. Record Vote Number: 126.</text><reference label="consideration" ref="CR S4072"/><reference label="text" ref="CR S4072"/></action>
+		<action date="1210651200" datetime="2008-05-13"><text>Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S4072"/></action>
+		<action date="1210651200" datetime="2008-05-13"><text>Measure laid before Senate by motion.</text><reference label="consideration" ref="CR S4072, S4073-4095"/></action>
+		<action date="1210737600" datetime="2008-05-14"><text>Considered by Senate.</text><reference label="consideration" ref="CR S4130-4150"/></action>
+		<action date="1210737600" datetime="2008-05-14"><text>Cloture motion on the measure presented in Senate.</text><reference label="consideration" ref="CR S4150"/><reference label="text" ref="CR S4150"/></action>
+		<action date="1210824000" datetime="2008-05-15"><text>Cloture motion on the measure withdrawn by unanimous consent in Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/17/2007--Passed House amended. (This measure has not been amended since it was reported to the House on July 13, 2007. The summary of that version is repeated here.) Public Safety Employer-Employee Cooperation Act of 2007 - Provides collective bargaining rights for public safety officers employed by states or local governments. Directs the Federal Labor Relations Authority (Authority) to determine whether state law provides specified rights and responsibilities for public safety officers, including: (1) granting public safety employees the right to form and join a labor organization which excludes management and supervisory employees, and which is, or seeks to be, recognized as the exclusive bargaining agent for such employees; and (2) requiring public safety employers to recognize and agree to bargain with the employees' labor organization. Authorizes the Authority, upon the request of an employer or a labor organization, to make a subsequent determination as to whether such state law provides such rights and responsibilities if there is a subsequent material change in the state law or its interpretation. Allows a person aggrieved by an Authority determination to petition the U.S. Court of Appeals for judicial review. Requires the Authority to issue regulations establishing rights and responsibilities for public safety employers and employees in states that do not substantially provide for such public safety employee rights and responsibilities. Directs the Authority, in such cases, to: (1) determine the appropriateness of units for labor organization representation; (2) supervise or conduct elections to determine whether a labor organization has been selected as an exclusive representative by a voting majority of the employees in an appropriate unit; (3) resolve issues relating to the duty to bargain in good faith; (4) conduct hearings and resolve complaints of unfair labor practices; (5) resolve exceptions to arbitrator's awards; and (6) protect the rights of each employee to join, or assist any labor organization. Grants the Authority, and under appropriate circumstances an interested party, the right to seek enforcement of Authority orders and regulations in the appropriate U.S. Court of Appeals or U.S. district court, respectively. Prohibits public safety employers, employees, and labor organizations from engaging in lockouts or strikes. Provides that existing collective bargaining units and agreements shall not be invalidated by this Act. Declares that nothing in this Act shall be construed to: (1) preempt or limit any remedies, rights, and procedures of any state law that provides greater or comparable rights and responsibilities than those contained in this Act; (2) prevent a state from enforcing a state law that prohibits employers and labor organizations from negotiating a labor agreement that requires union membership or payment of union fees as a condition of employment; (3) preempt any state law that provides for the rights and responsibilities contained in this Act solely because such state law permits an employee to appear on his or her own behalf with respect to his or her employment relations with a public safety agency, excludes employees of a state militia or national guard from its coverage, or provides that a contract or memorandum of understanding between a public safety employer and a labor organization must be presented to the state legislature as part of its approval process; (4) permit parties subject to the National Labor Relations Act and its regulations to negotiate provisions that would prohibit an employee from engaging in part-time employment or volunteer activities during off-duty hours; or (5) preempt any state law that substantially provides for the rights and responsibilities described in this Act solely because such law does not require bargaining with respect to pension and retirement benefits. Allows a state to exempt from its state law, or from the requirements of this Act, a political subdivision of the state with a population of less than 5,000 or that employs fewer than 25 full-time employees. Authorizes appropriations.<br/>
+	</summary>
+</bill>

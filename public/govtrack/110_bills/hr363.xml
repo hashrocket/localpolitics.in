@@ -1,0 +1,34 @@
+<bill session="110" type="hr" number="363" updated="2009-01-09T08:38:08-05:00">
+	<status><vote date="1178160300" datetime="2007-05-02T23:45:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1178078400" datetime="2007-05-02"/>
+	<titles>
+		<title type="official" as="introduced">Amending the Rules of the House of Representatives to clarify certain matters relating to official conduct.</title>
+	</titles>
+	<sponsor id="400316"/>
+	<cosponsors>
+		<cosponsor id="400158" joined="2007-05-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1178078400" datetime="2007-05-02"><text>Referred to the House Committee on Standards of Official Conduct.</text></action>
+		<action date="1178160240" datetime="2007-05-02T23:44:00-04:00"><text>Committee on Standards of Official Conduct discharged.</text></action>
+		<action date="1178160240" datetime="2007-05-02T23:44:00-04:00"><text>Mrs. Jones (OH) asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1178160240" datetime="2007-05-02T23:44:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H4411-4412"/></action>
+		<vote date="1178160300" how="without objection" datetime="2007-05-02T23:45:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text" ref="CR H45411-4412"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/2/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends Rule XXIII (Code of Official Conduct) of the Rules of the House of Representatives to authorize a Member of Congress to use personal, official, or campaign funds for a flight on an aircraft that is operated: (1) by an air carrier or commercial operator certificated by the Federal Aviation Administration (FAA), and the flight is required to be conducted under air carrier safety rules; or (2) in the case of travel abroad, by an air carrier or commercial operator certificated by an appropriate foreign civil aviation authority, and the flight is similarly required to be conducted under air carrier safety rules. Allows the use of such funds also if the aircraft: (1) is owned or leased by the Member or a family member (including a privately owned aircraft in which such Member or family member has an ownership interest, and the Member does not use the aircraft any more than the proportionate share of ownership allows); or (3) is operated by a state or federal entity. Allows the use of such funds also for a flight that consists of the personal use of an aircraft supplied to a Member by an individual on the basis of personal friendship.<br/>
+	</summary>
+</bill>

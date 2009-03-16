@@ -1,0 +1,63 @@
+<bill session="110" type="h" number="700" updated="2009-01-08T18:16:53-05:00">
+	<status><vote date="1173379440" datetime="2007-03-08T14:44:00-05:00" where="h" result="pass" how="roll" roll="130"/></status>
+
+	<introduced date="1170046800" datetime="2007-01-29"/>
+	<titles>
+		<title type="short" as="introduced">Healthy Communities Water Supply Act of 2007</title>
+		<title type="short" as="reported to house">Healthy Communities Water Supply Act of 2007</title>
+		<title type="short" as="passed house">Healthy Communities Water Supply Act of 2007</title>
+		<title type="official" as="introduced">To amend the Federal Water Pollution Control Act to extend the pilot program for alternative water source projects.</title>
+	</titles>
+	<sponsor id="412189"/>
+	<cosponsors>
+		<cosponsor id="400396" joined="2007-01-29"/>
+		<cosponsor id="412240" joined="2007-02-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1170046800" datetime="2007-01-29"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1170133200" datetime="2007-01-30"><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action date="1170219600" datetime="2007-01-31"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1170219600" datetime="2007-01-31"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1170219600" datetime="2007-01-31"><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action date="1170824400" datetime="2007-02-07"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1170824400" datetime="2007-02-07" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1171656780" datetime="2007-02-16T16:13:00-05:00"><text>Reported by the Committee on Transportation. H. Rept. 110-15.</text></action>
+		<calendar number="6" date="1171656840" datetime="2007-02-16T16:14:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 6.</text></calendar>
+		<action date="1173215700" datetime="2007-03-06T17:15:00-05:00"><text>Rules Committee Resolution H. Res. 215 Reported to House. Rule provides for consideration of H.R. 700 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is open to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.</text></action>
+		<action date="1173364320" datetime="2007-03-08T10:32:00-05:00"><text>Rule H. Res. 215 passed House.</text></action>
+		<action date="1173415500" datetime="2007-03-08T12:45:00-05:00"><text>Considered under the provisions of rule H. Res. 215.</text><reference label="consideration" ref="CR H2321-2330"/></action>
+		<action date="1173415500" datetime="2007-03-08T12:45:00-05:00"><text>Rule provides for consideration of H.R. 700 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is open to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.</text></action>
+		<action date="1173415500" datetime="2007-03-08T12:45:00-05:00"><text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 215 and Rule XVIII.</text></action>
+		<action date="1173415500" datetime="2007-03-08T12:45:00-05:00"><text>The Speaker designated the Honorable Michael R. McNulty to act as Chairman of the Committee.</text></action>
+		<action date="1173415560" datetime="2007-03-08T12:46:00-05:00"><text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 700.</text></action>
+		<action date="1173373620" datetime="2007-03-08T13:07:00-05:00"><text>DEBATE - The Committee of the Whole proceeded with debate on the Kucinich amendment under the five-minute rule.</text></action>
+		<action date="1173374160" datetime="2007-03-08T13:16:00-05:00"><text>DEBATE - The Committee of the Whole proceeded with debate on the Price(GA) amendment under the five-minute rule.</text></action>
+		<action date="1173374700" datetime="2007-03-08T13:25:00-05:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Price (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes prevailed. Mr. Price (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.</text></action>
+		<action date="1173374760" datetime="2007-03-08T13:26:00-05:00"><text>DEBATE - The Committee of the Whole proceeded with debate on the Sessions amendment under the five-minute rule.</text></action>
+		<action date="1173374940" datetime="2007-03-08T13:29:00-05:00"><text>DEBATE - The Committee of the Whole proceeded with debate on the Conaway amendment under the five-minute rule.</text></action>
+		<action date="1173375360" datetime="2007-03-08T13:36:00-05:00"><text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.</text></action>
+		<action date="1173377040" datetime="2007-03-08T14:04:00-05:00"><text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 700.</text></action>
+		<action date="1173377100" datetime="2007-03-08T14:05:00-05:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H2328"/></action>
+		<action date="1173377100" datetime="2007-03-08T14:05:00-05:00"><text>The House adopted the amendment as agreed to by the Committee of the Whole House on the state of the Union.</text></action>
+		<action date="1173377100" datetime="2007-03-08T14:05:00-05:00"><text>Mr. Price (GA) moved to recommit with instructions to Transportation.</text><reference label="consideration" ref="CR H2328-2329"/><reference label="text" ref="CR H2328"/></action>
+		<action date="1173377520" datetime="2007-03-08T14:12:00-05:00"><text>The previous question on the motion to recommit with instructions was ordered without objection.</text><reference label="consideration" ref="CR H2329"/></action>
+		<action date="1173378900" datetime="2007-03-08T14:35:00-05:00"><text>On motion to recommit with instructions Agreed to by the Yeas and Nays: 427 - 0 (Roll no. 129).</text></action>
+		<vote date="1173379440" how="roll" roll="130" datetime="2007-03-08T14:44:00-05:00" where="h" type="vote" result="pass" ><text>On passage Passed by the Yeas and Nays: 368 - 59 (Roll no. 130).</text></vote>
+		<action date="1173416400" datetime="2007-03-09"><text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/8/2007--Passed House amended. Healthy Communities Water Supply Act of 2007 - Amends the Federal Water Pollution Control Act to authorize appropriations for the pilot program for alternative water source projects. Requires the Administrator of the Environmental Protection Agency (EPA), in making grants under the program, to consider whether a project is located in an area which is served by a public water system serving 10,000 individuals or fewer. Prohibits the funds authorized by this Act from being used to lobby governmental entities or officers or to pay for expenses related to memberships in organizations or associations.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,64 @@
+<bill session="111" type="h" number="911" updated="2009-03-07T11:35:31-05:00">
+	<status><vote date="1235430060" datetime="2009-02-23T19:01:00-05:00" where="h" result="pass" how="roll" roll="72"/></status>
+
+	<introduced date="1234155600" datetime="2009-02-09"/>
+	<titles>
+		<title type="short" as="introduced">Stop Child Abuse in Residential Programs for Teens Act of 2009</title>
+		<title type="short" as="passed house">Stop Child Abuse in Residential Programs for Teens Act of 2009</title>
+		<title type="official" as="introduced">To require certain standards and enforcement provisions to prevent child abuse and neglect in residential programs, and for other purposes.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+		<cosponsor id="400031" joined="2009-02-13"/>
+		<cosponsor id="412319" joined="2009-02-09"/>
+		<cosponsor id="400008" joined="2009-02-13"/>
+		<cosponsor id="412209" joined="2009-02-13"/>
+		<cosponsor id="400227" joined="2009-02-09"/>
+		<cosponsor id="400364" joined="2009-02-13"/>
+		<cosponsor id="400257" joined="2009-02-09"/>
+		<cosponsor id="400103" joined="2009-02-13"/>
+		<cosponsor id="400263" joined="2009-02-09"/>
+		<cosponsor id="412308" joined="2009-02-09"/>
+		<cosponsor id="400436" joined="2009-02-09"/>
+		<cosponsor id="400162" joined="2009-02-09"/>
+		<cosponsor id="412204" joined="2009-02-09"/>
+		<cosponsor id="412327" joined="2009-02-09"/>
+		<cosponsor id="412232" joined="2009-02-09"/>
+		<cosponsor id="400271" joined="2009-02-13"/>
+		<cosponsor id="412200" joined="2009-02-09"/>
+		<cosponsor id="400093" joined="2009-02-09"/>
+		<cosponsor id="400185" joined="2009-02-09"/>
+		<cosponsor id="400240" joined="2009-02-09"/>
+		<cosponsor id="400184" joined="2009-02-09"/>
+		<cosponsor id="400216" joined="2009-02-09"/>
+		<cosponsor id="400179" joined="2009-02-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1234328400" datetime="2009-02-11"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1234328400" datetime="2009-02-11" ><text>Ordered to be Reported by the Yeas and Nays: 32 - 10.</text></calendar>
+		<action date="1235420280" datetime="2009-02-23T16:18:00-05:00"><text>Mrs. McCarthy (NY) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1235420280" datetime="2009-02-23T16:18:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1629-1634"/></action>
+		<action date="1235420280" datetime="2009-02-23T16:18:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 911.</text></action>
+		<action date="1235421060" datetime="2009-02-23T16:31:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1235428440" datetime="2009-02-23T18:34:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1634-1635"/></action>
+		<vote date="1235430060" how="roll" roll="72" datetime="2009-02-23T19:01:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 295 - 102 (Roll no. 72).</text><reference label="text" ref="CR H1629-1632"/></vote>
+		<action date="1235451600" datetime="2009-02-24"><text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, Markup" />
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/9/2009--Introduced.<br/>Stop Child Abuse in Residential Programs for Teens Act of 2009 - Directs the Assistant Secretary for Children and Families of the Department of Health and Human Services to require each location of a covered program to meet specified minimum standards if individually or together with other locations it has an effect on interstate commerce. Defines &quot;covered program&quot; as one operated by a public or private entity that with respect to one or more children unrelated to the program owner or operator: (1) provides a residential environment; and (2) operates with a focus on serving children with emotional, behavioral, or mental health problems or disorders, or problems with alcohol or substance abuse. Directs the Assistant Secretary to: (1) implement an ongoing review process for investigating and evaluating reports of child abuse and neglect; (2) establish public websites with information about each covered program, as well as a national toll-free telephone hotline to receive complaints; (3) establish civil penalties for violations of standards; and (4) establish a process to ensure that complaints received by the hotline are promptly reviewed by persons with appropriate expertise. Requires the Assistant Secretary to refer any violation of such standards to the Attorney General for appropriate action. Authorizes the Attorney General to file such a complaint on his or her own initiative regardless of whether such a referral has been made. Amends the Child Abuse Prevention and Treatment Act to establish additional eligibility requirements for grants to states to prevent child abuse and neglect at residential programs. Require such states to develop policies and procedures to prevent child abuse and neglect at covered programs consistent with the standards specified by this Act. Directs the Secretary of Health and Human Services to study and report to Congress on outcomes for children in both private and public covered programs under this Act encompassing a broad representation of treatment facilities and geographic regions.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="110" type="hc" number="67" updated="2009-01-08T15:35:18-05:00">
+	<status><vote2 date="1171688400" datetime="2007-02-17" where="s" result="pass" how="roll" roll="52"/></status>
+
+	<introduced date="1171602000" datetime="2007-02-16"/>
+	<titles>
+		<title type="official" as="introduced">Providing for a conditional adjournment of the House of Representatives and a conditional recess or adjournment of the Senate.</title>
+	</titles>
+	<sponsor id="400075"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1171653720" datetime="2007-02-16T15:22:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H1847-1848"/></action>
+		<vote date="1171653900" how="without objection" datetime="2007-02-16T15:25:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text" ref="CR H1847-1848"/></vote>
+		<action date="1171602000" datetime="2007-02-16"><text>Received in the Senate.</text></action>
+		<action date="1171688400" datetime="2007-02-17"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S2199-2200"/></action>
+		<vote date="1171688400" how="roll" roll="52" datetime="2007-02-17" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate without amendment by Yea-Nay Vote. 47 - 33. Record Vote Number: 52.</text></vote>
+		<action date="1171947600" datetime="2007-02-20"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/17/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Provides for an adjournment of the House of Representatives from February 16 or 17, 2007, until February 27, 2007 (or until another time of reassembly under this concurrent resolution), and a recess or an adjournment of the Senate from February 17, 2007-February 24, 2007, until February 26, 2007 (or until another time of reassembly). Authorizes the Speaker of the House and the Majority Leader of the Senate, or their respective designees, acting jointly after consultation with the Minority Leaders of the House and of the Senate, to notify the Members of the House and the Senate, respectively, to reassemble at such place and time as they may designate whenever, in their opinion, the public interest shall warrant it.<br/>
+	</summary>
+</bill>

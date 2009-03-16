@@ -1,0 +1,41 @@
+<bill session="111" type="hc" number="22" updated="2009-03-07T09:27:34-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="official" as="introduced">Establishing the Joint Select Committee on Reorganization and Reform of Foreign Assistance Agencies and Programs.</title>
+	</titles>
+	<sponsor id="400344"/>
+	<cosponsors>
+		<cosponsor id="400260" joined="2009-02-10"/>
+		<cosponsor id="400652" joined="2009-02-10"/>
+		<cosponsor id="400242" joined="2009-02-10"/>
+		<cosponsor id="400055" joined="2009-01-15"/>
+		<cosponsor id="400622" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Rules.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Rules" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional committees"/>
+		<term name="Congressional operations and organization"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Foreign aid and international relief"/>
+		<term name="Government investigations"/>
+		<term name="Legislative rules and procedure"/>
+		<term name="Performance measurement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Establishes in the Senate and the House of Representatives the Joint Select Committee on Reorganization and Reform of Foreign Assistance Agencies and Programs which shall investigate: (1) the organization of the various federal agencies and departments that oversee and implement U.S. foreign assistance programs; (2) U.S. foreign assistance program objectives, staffing and funding levels, and performance; and (3) legislative procedures and organization related to the authorization and appropriation of funding for and oversight of U.S. foreign assistance programs and agencies. 
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="203" updated="2009-03-07T10:11:38-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Fraud Prevention Act of 2009</title>
+		<title type="official" as="introduced">To amend titles XI and XVIII of the Social Security Act to provide increased civil and criminal penalties for acts involving fraud and abuse under the Medicare Program and to increase the amount of the surety bond required for suppliers of durable medical equipment.</title>
+	</titles>
+	<sponsor id="400388"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Ways and Means</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Energy and Commerce</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Criminal procedure and sentencing"/>
+		<term name="Fraud offenses"/>
+		<term name="Health technology, devices, supplies"/>
+		<term name="Medicare"/>
+		<term name="Public contracts and procurement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Medicare Fraud Prevention Act of 2009 - Amends title XI of the Social Security Act (SSA) to increase civil money penalties, criminal fines, and prison sentences for fraud and abuse under the SSA title XVIII (Medicare) program. Amends SSA title XVIII to increase the amount of the surety bond required for suppliers of durable medical equipment (DME). 
+	</summary>
+</bill>

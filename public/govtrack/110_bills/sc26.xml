@@ -1,0 +1,43 @@
+<bill session="110" type="sc" number="26" updated="2009-01-09T19:43:26-05:00">
+	<status><vote date="1185854400" datetime="2007-07-31" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1176350400" datetime="2007-04-12"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution recognizing the 75th anniversary of the Military Order of the Purple Heart and commending recipients of the Purple Heart for their courageous demonstrations of gallantry and heroism on behalf of the United States.</title>
+	</titles>
+	<sponsor id="300022"/>
+	<cosponsors>
+		<cosponsor id="300030" joined="2007-04-23"/>
+		<cosponsor id="300092" joined="2007-04-24"/>
+		<cosponsor id="300068" joined="2007-06-12"/>
+		<cosponsor id="300023" joined="2007-05-02"/>
+		<cosponsor id="300035" joined="2007-05-09"/>
+		<cosponsor id="300091" joined="2007-04-23"/>
+		<cosponsor id="300050" joined="2007-04-12"/>
+		<cosponsor id="400194" joined="2007-05-21"/>
+		<cosponsor id="300100" joined="2007-04-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1176350400" datetime="2007-04-12"><text>Referred to the Committee on Armed Services.</text><reference label="text of measure as introduced" ref="CR S4452"/></action>
+		<action date="1185854400" datetime="2007-07-31"><text>Senate Committee on Armed Services discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S10529"/></action>
+		<vote date="1185854400" how="by Unanimous Consent" datetime="2007-07-31" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text as passed Senate" ref="CR S10529"/></vote>
+		<action date="1185973380" datetime="2007-08-01T10:03:00-04:00"><text>Received in the House.</text></action>
+		<action date="1185940800" datetime="2007-08-01"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1185986580" datetime="2007-08-01T13:43:00-04:00"><text>Held at the desk.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/31/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Congratulates the Military Order of the Purple Heart on its 75th anniversary as a national organization whose goals are to preserve and sustain the honor of the Armed Forces. Commends all Purple Heart recipients for their gallantry and heroism on behalf of the United States. Encourages the people of the United States to learn about the Purple Heart and the honor, courage, and bravery it symbolizes.<br/>
+	</summary>
+</bill>

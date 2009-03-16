@@ -1,0 +1,32 @@
+<bill session="111" type="h" number="1170" updated="2009-03-07T12:07:49-05:00">
+	<status><introduced date="1235538000" datetime="2009-02-25"/></status>
+
+	<introduced date="1235538000" datetime="2009-02-25"/>
+	<titles>
+		<title type="official" as="introduced">To amend chapter 21 of title 38, United States Code, to establish a grant program to encourage the development of new assistive technologies for specially adapted housing.</title>
+	</titles>
+	<sponsor id="400040"/>
+	<cosponsors>
+		<cosponsor id="400056" joined="2009-02-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to the Subcommittee on Economic Opportunity.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

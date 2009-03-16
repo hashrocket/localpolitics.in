@@ -1,0 +1,41 @@
+<bill session="110" type="h" number="5919" updated="2009-01-09T05:07:13-05:00">
+	<status><enacted date="1211860800" datetime="2008-05-27" /></status>
+
+	<introduced date="1209441600" datetime="2008-04-29"/>
+	<titles>
+		<title type="official" as="introduced">To make technical corrections regarding the Newborn Screening Saves Lives Act of 2007.</title>
+	</titles>
+	<sponsor id="400347"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1209441600" datetime="2008-04-29"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1209574560" datetime="2008-04-30T13:56:00-04:00"><text>Ms. Roybal-Allard moved to suspend the rules and pass the bill.</text></action>
+		<action date="1209574560" datetime="2008-04-30T13:56:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2890-2891"/></action>
+		<action date="1209574560" datetime="2008-04-30T13:56:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5919.</text></action>
+		<vote date="1209574800" how="by voice vote" datetime="2008-04-30T14:00:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H2890"/></vote>
+		<action date="1209614400" datetime="2008-05-01"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1209700800" how="by Unanimous Consent" datetime="2008-05-02" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S3749"/></vote>
+		<action date="1209700800" datetime="2008-05-02"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1209700800" datetime="2008-05-02" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1211169600" datetime="2008-05-19" ><text>Presented to President.</text></topresident>
+		<signed date="1211860800" datetime="2008-05-27" ><text>Signed by President.</text></signed>
+		<enacted number="110-237" date="1211860800" datetime="2008-05-27" type="public" ><text>Became Public Law No: 110-237.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/27/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends the Public Health Service Act to make technical corrections to the Newborn Screening Saves Lives Act of 2007. Revises the authorizations of appropriations from FY2008-FY2012 to FY2009-FY2013.<br/>
+	</summary>
+</bill>

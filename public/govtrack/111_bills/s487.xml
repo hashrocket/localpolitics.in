@@ -1,0 +1,37 @@
+<bill session="111" type="s" number="487" updated="2009-03-07T14:31:18-05:00">
+	<status><introduced date="1235624400" datetime="2009-02-26"/></status>
+
+	<introduced date="1235624400" datetime="2009-02-26"/>
+	<titles>
+		<title type="short" as="introduced">Stem Cell Research Enhancement Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Public Health Service Act to provide for human embryonic stem cell research.</title>
+	</titles>
+	<sponsor id="300051"/>
+	<cosponsors>
+		<cosponsor id="300059" joined="2009-02-26"/>
+		<cosponsor id="300082" joined="2009-02-26"/>
+		<cosponsor id="412323" joined="2009-03-03"/>
+		<cosponsor id="300052" joined="2009-02-26"/>
+		<cosponsor id="300092" joined="2009-02-26"/>
+		<cosponsor id="300043" joined="2009-02-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1235624400" datetime="2009-02-26"><text>Sponsor introductory remarks on measure. (CR S2562)</text></action>
+		<action date="1235624400" datetime="2009-02-26"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S2562-2563"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

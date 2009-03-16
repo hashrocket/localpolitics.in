@@ -1,0 +1,33 @@
+<bill session="111" type="s" number="547" updated="2009-03-10T12:00:37-04:00">
+	<status><introduced date="1236571200" datetime="2009-03-09"/></status>
+
+	<introduced date="1236571200" datetime="2009-03-09"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title XIX of the Social Security Act to reduce the costs of prescription drugs for enrollees of Medicaid managed care organizations by extending the discounts offered under fee-for-service Medicaid to such organizations.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+		<cosponsor id="412247" joined="2009-03-09"/>
+		<cosponsor id="412246" joined="2009-03-09"/>
+		<cosponsor id="300093" joined="2009-03-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1236571200" datetime="2009-03-09"><text>Sponsor introductory remarks on measure. (CR S2911-2912)</text></action>
+		<action date="1236571200" datetime="2009-03-09"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S2911-2912"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="110" type="h" number="6901" updated="2009-01-09T07:03:00-05:00">
+	<status><vote date="1222370160" datetime="2008-09-25T16:16:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1221451200" datetime="2008-09-15"/>
+	<titles>
+		<title type="short" as="introduced">Meth Free Families and Communities Act</title>
+		<title type="short" as="passed house">Meth Free Families and Communities Act</title>
+		<title type="official" as="introduced">To amend the Public Health Service Act to provide for the establishment of a drug-free workplace information clearinghouse, to support residential methamphetamine treatment programs for pregnant and parenting women, to improve the prevention and treatment of methamphetamine addiction, and for other purposes.</title>
+	</titles>
+	<sponsor id="400186"/>
+	<cosponsors>
+		<cosponsor id="400088" joined="2008-09-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1221451200" datetime="2008-09-15"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1221624000" datetime="2008-09-17"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1221624000" datetime="2008-09-17" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1222212660" datetime="2008-09-23T20:31:00-04:00"><text>Mr. Pallone moved to suspend the rules and pass the bill.</text></action>
+		<action date="1222212720" datetime="2008-09-23T20:32:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8678-8681"/></action>
+		<action date="1222212720" datetime="2008-09-23T20:32:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6901.</text></action>
+		<action date="1222213380" datetime="2008-09-23T20:43:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Burgess objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1222370100" datetime="2008-09-25T16:15:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H9913"/></action>
+		<vote date="1222370160" how="by voice vote" datetime="2008-09-25T16:16:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 9/23/2008 H8678-8679)</text></vote>
+		<action date="1222401600" datetime="2008-09-26"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/25/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)<br/>Meth Free Families and Communities Act - (Sec. 2) Amends the Public Health Service Act to require the Director of the Center for Substance Abuse Treatment to collaborate with professionals in the addiction field and primary health care providers to raise awareness about how to: (1) recognize the signs of a substance abuse disorder; and (2) apply evidence-based practices for screening and treating individuals with, or at-risk for developing, an addiction.<br/>(Sec. 3) Revises provisions governing a grant program for substance abuse residential treatment for pregnant and parenting women (currently, for postpartum women) to: (1) include treatment for addiction to methamphetamine, outpatient treatment services, and referrals for dental services; and (2) require programs to be accessible to pregnant and parenting women in low-income households and in health disparity populations.<br/>Requires the Director to give grant priority to a program serving an area that: (1) is a rural area, an area with a shortage of mental health professionals, or an area with a shortage of family-based substance abuse treatment options; and (2) has high rates of addiction to methamphetamine or other drugs.<br/>Requires the Director to: (1) include in biennial reports to Congress data on the number of pregnant and parenting women in need of, but not receiving, treatment for substance abuse and on recovery and relapse rates of women receiving such treatment; and (2) expand, intensify, and coordinate efforts to provide pregnant and parenting women treatment for addiction to methamphetamine or other drugs.<br/>Reauthorizes appropriations for FY2009-FY2013 for the substance abuse program.<br/>(Sec. 4) Requires the Director of the Office for Substance Abuse Prevention to develop a clearinghouse that provides information and educational materials to employers and employees about drug testing policies and programs.<br/>(Sec. 5) Authorizes amounts made available for methamphetamine or inhalant prevention programs in schools and communities to be used to develop a student-driven methamphetamine awareness project.<br/>
+	</summary>
+</bill>

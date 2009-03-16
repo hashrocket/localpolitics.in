@@ -1,0 +1,72 @@
+<bill session="110" type="h" number="5464" updated="2009-01-09T04:13:15-05:00">
+	<status><vote date="1216066020" datetime="2008-07-14T17:07:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1202965200" datetime="2008-02-14"/>
+	<titles>
+		<title type="short" as="introduced">A Child Is Missing Alert and Recovery Center Act</title>
+		<title type="short" as="reported to house">A Child Is Missing Alert and Recovery Center Act</title>
+		<title type="short" as="passed house">A Child Is Missing Alert and Recovery Center Act</title>
+		<title type="official" as="introduced">To direct the Attorney General to make an annual grant to the A Child Is Missing Alert and Recovery Center to assist law enforcement agencies in the rapid recovery of missing children, and for other purposes.</title>
+	</titles>
+	<sponsor id="412198"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2008-03-05"/>
+		<cosponsor id="400199" joined="2008-04-30"/>
+		<cosponsor id="400364" joined="2008-02-14"/>
+		<cosponsor id="400289" joined="2008-02-14"/>
+		<cosponsor id="400080" joined="2008-03-04"/>
+		<cosponsor id="400623" joined="2008-02-14"/>
+		<cosponsor id="400271" joined="2008-04-02"/>
+		<cosponsor id="400430" joined="2008-02-14"/>
+		<cosponsor id="400170" joined="2008-02-14"/>
+		<cosponsor id="400344" joined="2008-03-06"/>
+		<cosponsor id="400071" joined="2008-02-14"/>
+		<cosponsor id="400365" joined="2008-02-14" withdrawn="2008-03-13"/>
+		<cosponsor id="400055" joined="2008-02-14"/>
+		<cosponsor id="412197" joined="2008-02-14"/>
+		<cosponsor id="412258" joined="2008-05-05"/>
+		<cosponsor id="400230" joined="2008-03-11"/>
+		<cosponsor id="400442" joined="2008-02-14"/>
+		<cosponsor id="412199" joined="2008-02-14"/>
+		<cosponsor id="400270" joined="2008-02-14"/>
+		<cosponsor id="412236" joined="2008-02-14"/>
+		<cosponsor id="400371" joined="2008-05-19"/>
+		<cosponsor id="412228" joined="2008-02-14"/>
+		<cosponsor id="400283" joined="2008-03-04"/>
+		<cosponsor id="400157" joined="2008-02-14"/>
+		<cosponsor id="400349" joined="2008-02-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1202965200" datetime="2008-02-14"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1205726400" datetime="2008-03-17"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+		<action date="1208404800" datetime="2008-04-17"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1210046400" datetime="2008-05-06"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1210651200" datetime="2008-05-13"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1210651200" datetime="2008-05-13"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1210737600" datetime="2008-05-14"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1210737600" datetime="2008-05-14" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1215721380" datetime="2008-07-10T17:23:00-04:00"><text>Reported by the Committee on Judiciary. H. Rept. 110-753.</text></action>
+		<calendar number="479" date="1215721440" datetime="2008-07-10T17:24:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 479.</text></calendar>
+		<action date="1216065360" datetime="2008-07-14T16:56:00-04:00"><text>Mr. Schiff moved to suspend the rules and pass the bill.</text></action>
+		<action date="1216065360" datetime="2008-07-14T16:56:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6443-6445"/></action>
+		<action date="1216065360" datetime="2008-07-14T16:56:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5464.</text></action>
+		<vote date="1216066020" how="by voice vote" datetime="2008-07-14T17:07:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H6443"/></vote>
+		<action date="1216094400" datetime="2008-07-15"><text>Received in the Senate.</text></action>
+		<action date="1217563200" datetime="2008-08-01"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/14/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)<br/>A Child Is Missing Alert and Recovery Center Act - Directs the Attorney General, acting through the Administrator of the Office of Juvenile Justice and Delinquency Prevention, to make annual grants to the A Child Is Missing Alert and Recovery Center to: (1) assist federal, state, and local law enforcement agencies to promote the quick recovery of a missing child by using rapid alert telephone calls, text messaging, and satellite mapping technology; (2) maintain and expand technological assistance; (3) establish and maintain regional centers to provide training and information to law enforcement agencies; and (4) share information with the National Center for Missing and Exploited Children, the AMBER Alert Coordinator, and appropriate law enforcement agencies and assist such entities with education programs.<br/>Defines &quot;missing child&quot; as an individual whose whereabouts are unknown to a federal, state, or local law enforcement agency. Authorizes appropriations for FY2009-FY2014.<br/>
+	</summary>
+</bill>

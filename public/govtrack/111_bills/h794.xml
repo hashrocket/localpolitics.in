@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="794" updated="2009-03-07T11:21:10-05:00">
+	<status><introduced date="1233637200" datetime="2009-02-03"/></status>
+
+	<introduced date="1233637200" datetime="2009-02-03"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit the use of funds to transfer enemy combatants detained by the United States at Naval Station, Guantanamo Bay, Cuba, to the Florence Federal Correctional Complex in Colorado, or to construct facilities for such enemy combatants at such location.</title>
+	</titles>
+	<sponsor id="412191"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to the Committee on Armed Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to House Armed Services</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to House Judiciary</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="633" />
+		<bill relation="unknown" session="111" type="h" number="701" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Appropriations"/>
+		<term name="Caribbean area"/>
+		<term name="Colorado"/>
+		<term name="Correctional facilities and imprisonment"/>
+		<term name="Cuba"/>
+		<term name="Detention of persons"/>
+		<term name="Latin America"/>
+		<term name="Military facilities and property"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/2009--Introduced.<br/>Prohibits federal funds from being used to: (1) transfer any enemy combatant detained by the United States at Naval Station Guantanamo Bay, Cuba, to the Florence Federal Correctional Complex, Colorado; or (2) construct housing facilities for such individuals at the Florence Complex.<br/>
+	</summary>
+</bill>

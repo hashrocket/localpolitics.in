@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="410" updated="2009-03-07T10:35:57-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Kalaupapa Memorial Act of 2009</title>
+		<title type="official" as="introduced">To provide for the establishment of a memorial within Kalaupapa National Historical Park located on the island of Molokai, in the State of Hawaii, to honor and perpetuate the memory of those individuals who were forcibly relocated to the Kalaupapa Peninsula from 1866 to 1969, and for other purposes.</title>
+	</titles>
+	<sponsor id="412200"/>
+	<cosponsors>
+		<cosponsor id="400001" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Sponsor introductory remarks on measure. (CR E58-59)</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Hawaii"/>
+		<term name="Historic sites and heritage areas"/>
+		<term name="Infectious and parasitic diseases"/>
+		<term name="Monuments and memorials"/>
+		<term name="Parks, recreation areas, trails"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Kalaupapa Memorial Act of 2009 - Requires the Secretary of the Interior to authorize Ka 'Ohana O Kalaupapa, a nonprofit organization consisting of patient residents at Kalaupapa National Historical Park, to establish a memorial at the location(s) approved by the Secretary at Kalawao or Kalaupapa within the boundaries of Kalaupapa National Historical Park on the island of Molokai, Hawaii, to honor those individuals who were forcibly relocated to Kalaupapa Peninsula from 1866 to 1969. 
+	</summary>
+</bill>

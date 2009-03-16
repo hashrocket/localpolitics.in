@@ -1,0 +1,34 @@
+<bill session="111" type="h" number="1031" updated="2009-03-07T11:49:59-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Health Information Technology Promotion Act of 2009</title>
+		<title type="official" as="introduced">To promote a better health information system.</title>
+	</titles>
+	<sponsor id="400052"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to House Ways and Means</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Health Information Technology Promotion Act of 2009 - Amends titles XI (General Provisions, Peer Review, and Administrative Simplification) and XVIII (Medicare) of the Social Security Act (SSA) to create safe harbors from civil and criminal penalties in current anti-kickback laws for providing certain health information technology and training services.<br/>Preempts state law imposing civil or criminal penalties where the conditions of this Act have been met.<br/>Requires the Secretary of Health and Human Services to report to Congress on the impact of such safe harbors.<br/>Directs the Secretary to encourage and facilitate the adoption of state reciprocity agreements for practitioner licensure in order to expedite the provision of telehealth services across state lines.<br/>Requires the Secretary to report to Congress on: (1) including coverage for telehealth services as part of Medicare home health services; and (2) expanding the list of telehealth payment-eligible originating sites to include publicly funded mental health facilities.<br/>Directs the Secretary, acting through the Director of the Office for the Advancement of Telehealth, to report to Congress on the use of store and forward technologies in the provision of telehealth services.<br/>Amends the Public Health Service Act to deem that any health care provider participating in certain government health programs meets any requirement for the maintenance of data in paper form if the required data is maintained in an electronic form.<br/>Directs the Secretary to: (1) report to Congress on state, regional, and community health information exchanges; and (2) establish a project to demonstrate the impact of health information technology on disease management under state Medicaid plans.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="111" type="h" number="737" updated="2009-03-07T11:14:34-05:00">
+	<status><introduced date="1233118800" datetime="2009-01-28"/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="short" as="introduced">State Temporary Economic Priority (STEP) Act</title>
+		<title type="official" as="introduced">To authorize a State to transfer or consolidate funds made available to such State under certain transportation, education, and job training programs after the United States experiences economic growth at an annual rate of less than 1 percent for 2 calendar quarters.</title>
+	</titles>
+	<sponsor id="400182"/>
+	<cosponsors>
+		<cosponsor id="400144" joined="2009-01-28"/>
+		<cosponsor id="400311" joined="2009-01-28"/>
+		<cosponsor id="400242" joined="2009-01-28"/>
+		<cosponsor id="400342" joined="2009-01-28"/>
+		<cosponsor id="400260" joined="2009-01-28"/>
+		<cosponsor id="400315" joined="2009-03-06"/>
+		<cosponsor id="400433" joined="2009-01-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the Committee on Education and Labor, and in addition to the Committees on Transportation and Infrastructure, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to House Education and Labor</text></action>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to House Ways and Means</text></action>
+		<action date="1233205200" datetime="2009-01-29"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Highways and Transit.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Highways and Transit" activity="Referral" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Economics and public finance"/>
+		<term name="Economic performance and conditions"/>
+		<term name="Education programs funding"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Employment and training programs"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Roads and highways"/>
+		<term name="State and local finance"/>
+		<term name="Transportation programs funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/2009--Introduced.<br/>State Temporary Economic Priority (STEP) Act - Authorizes states to transfer or consolidate funds made available to them under certain federal transportation, education, and job training programs: (1) beginning with the calendar quarter after the United States experiences economic growth at an annual rate of less than 1% for two consecutive calendar quarters; and (2) continuing until 18 months after it experiences economic growth at an annual rate of 1% or more for two consecutive calendar quarters.<br/>
+	</summary>
+</bill>

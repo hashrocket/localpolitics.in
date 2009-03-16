@@ -1,0 +1,54 @@
+<bill session="111" type="h" number="559" updated="2009-03-07T10:53:19-05:00">
+	<status><vote date="1233703140" datetime="2009-02-03T19:19:00-05:00" where="h" result="pass" how="roll" roll="49"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Fair, Accurate, Secure, and Timely Redress Act of 2009</title>
+		<title type="short" as="introduced">FAST Redress Act of 2009</title>
+		<title type="short" as="passed house">Fair, Accurate, Secure, and Timely Redress Act of 2009</title>
+		<title type="short" as="passed house">FAST Redress Act of 2009</title>
+		<title type="official" as="introduced">To amend the Homeland Security Act of 2002 to establish an appeal and redress process for individuals wrongly delayed or prohibited from boarding a flight, or denied a right, benefit, or privilege, and for other purposes.</title>
+	</titles>
+	<sponsor id="412221"/>
+	<cosponsors>
+		<cosponsor id="400219" joined="2009-01-15"/>
+		<cosponsor id="412192" joined="2009-01-15"/>
+		<cosponsor id="400402" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Homeland Security.</text></action>
+		<action date="1233692460" datetime="2009-02-03T16:21:00-05:00"><text>Mr. Thompson (MS) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1233692460" datetime="2009-02-03T16:21:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H898-901"/></action>
+		<action date="1233692460" datetime="2009-02-03T16:21:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 559.</text></action>
+		<action date="1233693840" datetime="2009-02-03T16:44:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1233702540" datetime="2009-02-03T19:09:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H907-908"/></action>
+		<vote date="1233703140" how="roll" roll="49" datetime="2009-02-03T19:19:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 3 (Roll no. 49).</text><reference label="text" ref="CR H898-899"/></vote>
+		<action date="1233723600" datetime="2009-02-04"><text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Homeland Security" subcommittee="" activity="Referral" />
+		<committee name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Emergency management"/>
+		<term name="Administrative remedies"/>
+		<term name="Criminal justice information and records"/>
+		<term name="Department of Homeland Security"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Government information and archives"/>
+		<term name="Homeland security"/>
+		<term name="Intergovernmental relations"/>
+		<term name="State and local government operations"/>
+		<term name="Terrorism"/>
+		<term name="Transportation safety and security"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

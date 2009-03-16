@@ -1,0 +1,44 @@
+<bill session="110" type="s" number="2913" updated="2009-01-09T17:56:03-05:00">
+	<status><vote date="1222401600" datetime="2008-09-26" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1209009600" datetime="2008-04-24"/>
+	<titles>
+		<title type="short" as="introduced">Shawn Bentley Orphan Works Act of 2008</title>
+		<title type="short" as="reported to senate">Shawn Bentley Orphan Works Act of 2008</title>
+		<title type="short" as="passed senate">Shawn Bentley Orphan Works Act of 2008</title>
+		<title type="official" as="introduced">A bill to provide a limitation on judicial remedies in copyright infringement cases involving orphan works.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="2008-04-24"/>
+		<cosponsor id="300007" joined="2008-09-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1209009600" datetime="2008-04-24"><text>Sponsor introductory remarks on measure. (CR S3405-3406)</text></action>
+		<action date="1209009600" datetime="2008-04-24"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S3406-3407"/></action>
+		<calendar date="1210824000" datetime="2008-05-15" ><text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1210824000" datetime="2008-05-15"><text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="738" date="1210824000" datetime="2008-05-15" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 738.</text></calendar>
+		<action date="1222401600" datetime="2008-09-26"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S9867-9872"/><reference label="text of measure as reported in Senate" ref="CR S9867-9869"/></action>
+		<action date="1222401600" datetime="2008-09-26"><text>The committee substitute as amended agreed to by Unanimous Consent.</text></action>
+		<vote date="1222401600" how="by Unanimous Consent" datetime="2008-09-26" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text><reference label="text" ref="CR S9870-9872"/></vote>
+		<action date="1222525260" datetime="2008-09-27T11:21:00-04:00"><text>Received in the House.</text></action>
+		<action date="1222488000" datetime="2008-09-27"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1222488000" datetime="2008-09-27"><text>Referred to the House Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/26/2008--Passed Senate amended. Shawn Bentley Orphan Works Act of 2008 - Limits the remedies in a civil action brought for infringement of copyright in an orphan work, notwithstanding specified provisions and subject to exceptions, if the infringer meets certain requirements, including proving that: (1) the infringer performed and documented a reasonably diligent search in good faith to locate and identify the copyright owner before using the work, but was unable to locate and identify the owner; and (2) the infringing use of the work provided attribution to the owner of the copyright, if known. Requires a search to include methods that are reasonable and appropriate given the circumstances, including in some circumstances: (1) Copyright Office records that are not available through the Internet; and (2) resources for which a charge or subscription is imposed. Limits monetary compensation to reasonable compensation for the use of the infringed work. Prohibits such compensation if the infringer is a nonprofit educational institution, museum, library, or archive, or a public broadcasting entity and if the infringer proves that: (1) the infringement is performed without any purpose of commercial advantage and is primarily educational, religious, or charitable in nature;and (2) the infringer ceases the infringement expeditiously after receiving notice of the claim for infringement. Allows injunctive relief to prevent or restrain infringement, subject to exception and limitation. Directs the Register of Copyrights to: (1) undertake a process to certify that databases are available that facilitate searching for pictorial, graphic, and sculptural works protected by copyright; (2) report to the House and Senate judiciary committees on the implementation and effects of certain amendments made by this Act, including any recommendations for legislative changes; and (3) report to those committees on remedies for copyright infringement claims by an individual copyright owner or a related group of copyright owners seeking small amounts of monetary relief. Directs the Comptroller General to report to such committees on the function of the deposit requirement in the copyright registration system. 
+	</summary>
+</bill>

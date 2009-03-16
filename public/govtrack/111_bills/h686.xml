@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="686" updated="2009-03-07T11:08:20-05:00">
+	<status><introduced date="1232946000" datetime="2009-01-26"/></status>
+
+	<introduced date="1232946000" datetime="2009-01-26"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XIX of the Social Security Act to permit local public agencies to act as Medicaid enrollment brokers.</title>
+	</titles>
+	<sponsor id="400097"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2009-01-26"/>
+		<cosponsor id="400570" joined="2009-01-26"/>
+		<cosponsor id="400196" joined="2009-01-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Medicaid"/>
+		<term name="Public contracts and procurement"/>
+		<term name="State and local government operations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/2009--Introduced.<br/>Amends title XIX (Medicaid) of the Social Security Act (SSA) to permit local public agencies to act as Medicaid enrollment brokers.<br/>
+	</summary>
+</bill>

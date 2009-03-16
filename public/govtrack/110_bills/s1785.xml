@@ -1,0 +1,42 @@
+<bill session="110" type="s" number="1785" updated="2009-01-09T15:32:07-05:00">
+	<status><calendar date="1185854400" datetime="2007-07-31" /></status>
+
+	<introduced date="1184212800" datetime="2007-07-12"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Clean Air Act to establish deadlines by which the Administrator of the Environmental Protection Agency shall issue a decision on whether to grant certain waivers of preemption under that Act.</title>
+	</titles>
+	<sponsor id="300078"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="2007-07-12"/>
+		<cosponsor id="400064" joined="2007-07-12"/>
+		<cosponsor id="300011" joined="2007-07-12"/>
+		<cosponsor id="412247" joined="2007-07-13"/>
+		<cosponsor id="300081" joined="2007-07-16"/>
+		<cosponsor id="400357" joined="2007-07-12"/>
+		<cosponsor id="300043" joined="2007-07-12"/>
+		<cosponsor id="300064" joined="2007-07-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1184212800" datetime="2007-07-12"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<action date="1185422400" datetime="2007-07-26"><text>Committee on Environment and Public Works. Hearings held.</text></action>
+		<calendar date="1185854400" datetime="2007-07-31" ><text>Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1186027200" datetime="2007-08-02"><text>Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="320" date="1186027200" datetime="2007-08-02" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 320.</text></calendar>
+		<action date="1197435600" datetime="2007-12-12"><text>By Senator Boxer from Committee on Environment and Public Works filed written report. Report No. 110-243.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/2/2007--Reported to Senate amended. Amends the Clean Air Act to require the Administrator of the Environmental Protection Agency (EPA) to issue a decision on each request submitted by a state for a waiver of preemption under that Act: (1) within 30 days, but in no case later than September 30, 2007, for requests submitted before January 31, 2006, but pending as of the date of enactment of this Act; and (2) within 180 days after receipt for requests submitted after enactment of this Act.<br/>
+	</summary>
+</bill>

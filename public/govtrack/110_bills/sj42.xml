@@ -1,0 +1,34 @@
+<bill session="110" type="sj" number="42" updated="2009-01-09T19:58:16-05:00">
+	<status><calendar date="1219377600" datetime="2008-08-22" /></status>
+
+	<introduced date="1214280000" datetime="2008-06-24"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution relating to the approval of the proposed agreement for nuclear cooperation between the United States and the Russian Federation.</title>
+	</titles>
+	<sponsor id="300008"/>
+	<cosponsors>
+		<cosponsor id="300070" joined="2008-06-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1214280000" datetime="2008-06-24"><text>Sponsor introductory remarks on measure. (CR S6024)</text></action>
+		<action date="1214280000" datetime="2008-06-24"><text>Read twice and referred to the Committee on Foreign Relations pursuant to 42 U.S.C. 2159, for not to exceed 45 calendar days.</text></action>
+		<action date="1219377600" datetime="2008-08-22"><text>Senate Committee on Foreign Relations discharged pursuant to 42 U.S.C. 2159.</text></action>
+		<calendar date="1219377600" datetime="2008-08-22" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 942.</text></calendar>
+		<action date="1221105600" datetime="2008-09-11"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S8454-8455"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/24/2008--Introduced.<br/>States that Congress does favor the proposed agreement for cooperation (concerning civilian nuclear cooperation with the Russian Federation) transmitted to Congress by the President on May 13, 2008.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="110" type="h" number="6159" updated="2009-01-09T05:35:33-05:00">
+	<status><vote date="1222101000" datetime="2008-09-22T13:30:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1211428800" datetime="2008-05-22"/>
+	<titles>
+		<title type="short" as="introduced">Deafy Glade Land Exchange Act</title>
+		<title type="short" as="reported to house">Deafy Glade Land Exchange Act</title>
+		<title type="short" as="passed house">Deafy Glade Land Exchange Act</title>
+		<title type="official" as="introduced">To provide for a land exchange involving certain National Forest System lands in the Mendocino National Forest in the State of California, and for other purposes.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+		<cosponsor id="400403" joined="2008-07-08"/>
+		<cosponsor id="400396" joined="2008-07-08"/>
+		<cosponsor id="400617" joined="2008-07-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1211428800" datetime="2008-05-22"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1212379200" datetime="2008-06-02"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1216094400" datetime="2008-07-15"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1216785600" datetime="2008-07-23"><text>Subcommittee on National Parks, Forests, and Public Lands Discharged.</text></action>
+		<action date="1216785600" datetime="2008-07-23"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1216785600" datetime="2008-07-23" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1221765060" datetime="2008-09-18T16:11:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-861.</text></action>
+		<calendar number="557" date="1221765240" datetime="2008-09-18T16:14:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 557.</text></calendar>
+		<action date="1222100820" datetime="2008-09-22T13:27:00-04:00"><text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1222100880" datetime="2008-09-22T13:28:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8497-8498"/></action>
+		<action date="1222100880" datetime="2008-09-22T13:28:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6159.</text></action>
+		<vote date="1222101000" how="by voice vote" datetime="2008-09-22T13:30:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H8497-8498"/></vote>
+		<action date="1222142400" datetime="2008-09-23"><text>Received in the Senate.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/22/2008--Passed House amended. Deafy Glade Land Exchange Act - Directs the Secretary of Agriculture to convey to Solano County, California, all right, title, and interest of the United States in and to the parcel of land in the Mendocino National Forest comprising approximately 82 acres and known as the Fouts Springs Ranch, as depicted on the map entitled &quot;Fouts Springs-Deafy Glade Federal and Non-Federal Lands&quot; and dated July 17, 2008, if the county conveys to the Secretary all right, title, and interest of the county in and to four parcels of land consisting of approximately 160 acres identified on such map.<br/>Authorizes the Secretary of Commerce to sell or exchange to the city of Norfolk, Virginia, certain real property under the administrative jurisdiction of the National Oceanic and Atmospheric Administration (NOAA), including land and improvements, located in Norfolk if the Secretary: (1) determines that such conveyance is in the best interests of NOAA and the federal government; and (2) has provided prior notification to the appropriate congressional committees.<br/>Requires the proceeds of any conveyance under this Act to be made available for: (1) activities related to the operations of, or capital improvements to, NOAA property; or (2) relocation and other costs associated with the sale or exchange.<br/>
+	</summary>
+</bill>

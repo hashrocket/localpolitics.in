@@ -1,0 +1,47 @@
+<bill session="110" type="s" number="801" updated="2009-01-09T13:22:08-05:00">
+	<status><enacted date="1183608000" datetime="2007-07-05" /></status>
+
+	<introduced date="1173243600" datetime="2007-03-07"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate a United States courthouse located in Fresno, California, as the &quot;Robert E. Coyle United States Courthouse&quot;.</title>
+	</titles>
+	<sponsor id="300011"/>
+	<cosponsors>
+		<cosponsor id="300043" joined="2007-03-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1173243600" datetime="2007-03-07"><text>Sponsor introductory remarks on measure. (CR S2811-2812)</text></action>
+		<action date="1173243600" datetime="2007-03-07"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar date="1175140800" datetime="2007-03-29" ><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1175140800" datetime="2007-03-29"><text>Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="106" date="1175140800" datetime="2007-03-29" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 106.</text></calendar>
+		<vote date="1176177600" how="by Unanimous Consent" datetime="2007-04-10" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S4316-4317"/><reference label="text as passed Senate" ref="CR S4316-4317"/></vote>
+		<action date="1176264000" datetime="2007-04-11"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1176743040" datetime="2007-04-16T14:04:00-04:00"><text>Received in the House.</text></action>
+		<action date="1176696000" datetime="2007-04-16"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1176782400" datetime="2007-04-17"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1182791640" datetime="2007-06-25T14:14:00-04:00"><text>Ms. Norton moved to suspend the rules and pass the bill.</text></action>
+		<action date="1182791640" datetime="2007-06-25T14:14:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7013-7014"/></action>
+		<action date="1182791640" datetime="2007-06-25T14:14:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 801.</text></action>
+		<vote date="1182791820" how="by voice vote" datetime="2007-06-25T14:17:00-04:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H7013-7014"/></vote>
+		<topresident date="1182744000" datetime="2007-06-25" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1183003200" datetime="2007-06-28" ><text>Presented to President.</text></topresident>
+		<signed date="1183608000" datetime="2007-07-05" ><text>Signed by President.</text></signed>
+		<enacted number="110-46" date="1183608000" datetime="2007-07-05" type="public" ><text>Became Public Law No: 110-46.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/5/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the U.S. courthouse bordered by O Street, P Street, Tulare Street, and Capitol Street in Fresno, California, as the &quot;Robert E. Coyle United States Courthouse.&quot;<br/>
+	</summary>
+</bill>

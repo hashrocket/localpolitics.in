@@ -1,0 +1,64 @@
+<bill session="110" type="hr" number="385" updated="2009-01-09T08:40:47-05:00">
+	<status><vote date="1179180960" datetime="2007-05-14T19:16:00-04:00" where="h" result="pass" how="roll" roll="344"/></status>
+
+	<introduced date="1178683200" datetime="2007-05-09"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing National AmeriCorps Week.</title>
+	</titles>
+	<sponsor id="412211"/>
+	<cosponsors>
+		<cosponsor id="400337" joined="2007-05-14"/>
+		<cosponsor id="400257" joined="2007-05-09"/>
+		<cosponsor id="400289" joined="2007-05-14"/>
+		<cosponsor id="400129" joined="2007-05-14"/>
+		<cosponsor id="400063" joined="2007-05-14"/>
+		<cosponsor id="412231" joined="2007-05-14"/>
+		<cosponsor id="400370" joined="2007-05-09"/>
+		<cosponsor id="400184" joined="2007-05-14"/>
+		<cosponsor id="400355" joined="2007-05-14"/>
+		<cosponsor id="400262" joined="2007-05-14"/>
+		<cosponsor id="400437" joined="2007-05-14"/>
+		<cosponsor id="400007" joined="2007-05-14"/>
+		<cosponsor id="400663" joined="2007-05-09"/>
+		<cosponsor id="412209" joined="2007-05-14"/>
+		<cosponsor id="400103" joined="2007-05-14"/>
+		<cosponsor id="400259" joined="2007-05-14"/>
+		<cosponsor id="412204" joined="2007-05-14"/>
+		<cosponsor id="400251" joined="2007-05-14"/>
+		<cosponsor id="400415" joined="2007-05-14"/>
+		<cosponsor id="400093" joined="2007-05-14"/>
+		<cosponsor id="400326" joined="2007-05-09"/>
+		<cosponsor id="412212" joined="2007-05-14"/>
+		<cosponsor id="400185" joined="2007-05-14"/>
+		<cosponsor id="400283" joined="2007-05-14"/>
+		<cosponsor id="400204" joined="2007-05-14"/>
+		<cosponsor id="400286" joined="2007-05-14"/>
+		<cosponsor id="412219" joined="2007-05-14"/>
+		<cosponsor id="400321" joined="2007-05-09"/>
+		<cosponsor id="412233" joined="2007-05-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1178683200" datetime="2007-05-09"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1179159360" datetime="2007-05-14T13:16:00-04:00"><text>Mr. Yarmuth moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1179159360" datetime="2007-05-14T13:16:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4927-4929"/></action>
+		<action date="1179159420" datetime="2007-05-14T13:17:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 385.</text></action>
+		<action date="1179160200" datetime="2007-05-14T13:30:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1179180540" datetime="2007-05-14T19:09:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4932-4933"/></action>
+		<vote date="1179180960" how="roll" roll="344" datetime="2007-05-14T19:16:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 346 - 21, 1 Present (Roll no. 344).</text><reference label="text" ref="CR H4927"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/14/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Encourages all citizens to join in a national effort to salute AmeriCorps members and alumni. Acknowledges the significant accomplishments of AmeriCorps members, alumni, and community partners. Encourages citizens of all ages to participate in service opportunities in their communities, including in AmeriCorps programs.<br/>
+	</summary>
+</bill>

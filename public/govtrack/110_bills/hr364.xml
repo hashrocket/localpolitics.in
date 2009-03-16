@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="364" updated="2009-01-09T08:38:15-05:00">
+	<status><vote date="1178202780" datetime="2007-05-03T11:33:00-04:00" where="h" result="pass" how="roll" roll="297"/></status>
+
+	<introduced date="1178078400" datetime="2007-05-02"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 1592) to provide Federal assistance to States, local jurisdictions, and Indian tribes to prosecute hate crimes, and for other purposes.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1178144940" datetime="2007-05-02T19:29:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-120, by Mr. McGovern.</text></action>
+		<action date="1178144940" datetime="2007-05-02T19:29:00-04:00"><text>All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. An amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill, modified by the amendment printed in the report of the Committee on Rules shall be considered as adopted.</text></action>
+		<calendar date="1178145000" datetime="2007-05-02T19:30:00-04:00" ><text>Placed on the House Calendar, Calendar No. 49.</text></calendar>
+		<action date="1178198520" datetime="2007-05-03T10:22:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H4421-4429"/></action>
+		<action date="1178198580" datetime="2007-05-03T10:23:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 364.</text></action>
+		<action date="1178202240" datetime="2007-05-03T11:24:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 217 - 196 (Roll no. 296).</text><reference label="consideration" ref="CR H4428-4429"/></action>
+		<vote date="1178202780" how="roll" roll="297" datetime="2007-05-03T11:33:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by recorded vote: 213 - 199 (Roll no. 297).</text><reference label="text" ref="CR H4421"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/3/2007--Passed House without amendment. Sets forth the rule for consideration of H.R. 1592 (Local Law Enforcement Hate Crimes Prevention Act of 2007).<br/>
+	</summary>
+</bill>

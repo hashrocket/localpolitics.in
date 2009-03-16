@@ -1,0 +1,54 @@
+<bill session="111" type="hc" number="38" updated="2009-03-12T12:07:24-04:00">
+	<status><vote date="1236829920" datetime="2009-03-11T12:52:00-04:00" where="h" result="pass" how="roll" roll="118"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="official" as="introduced">Authorizing the use of the Capitol Grounds for the National Peace Officers' Memorial Service.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+		<cosponsor id="400189" joined="2009-02-04"/>
+		<cosponsor id="400415" joined="2009-02-04"/>
+		<cosponsor id="400108" joined="2009-02-04"/>
+		<cosponsor id="412272" joined="2009-02-04"/>
+		<cosponsor id="400435" joined="2009-02-04"/>
+		<cosponsor id="412263" joined="2009-02-04"/>
+		<cosponsor id="400283" joined="2009-02-04"/>
+		<cosponsor id="400090" joined="2009-02-04"/>
+		<cosponsor id="412289" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1233810000" datetime="2009-02-05"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1234414800" datetime="2009-02-12" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1236743220" datetime="2009-03-10T12:47:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 111-33.</text></action>
+		<calendar number="23" date="1236743280" datetime="2009-03-10T12:48:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 23.</text></calendar>
+		<action date="1236702180" datetime="2009-03-10T13:23:00-04:00"><text>Ms. Edwards (MD) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1236702180" datetime="2009-03-10T13:23:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3122-3123"/><reference label="text as reported in House" ref="CR H3122"/></action>
+		<action date="1236702180" datetime="2009-03-10T13:23:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 38.</text></action>
+		<action date="1236702300" datetime="2009-03-10T13:25:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Edwards (MD) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1236829200" datetime="2009-03-11T12:40:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3296-3297"/></action>
+		<vote date="1236829920" how="roll" roll="118" datetime="2009-03-11T12:52:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 417 - 0 (Roll no. 118). (text: CR 3/10/09 H3122)</text></vote>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, Markup, Reporting" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings and Emergency Management" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Law enforcement officers"/>
+		<term name="U.S. Capitol"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Introduced.<br/>Permits the Grand Lodge of the Fraternal Order of Police and its auxiliary to sponsor a free public event, the 28th annual National Peace Officers' Memorial Service, on the Capitol grounds on May 15, 2009, to honor the law enforcement officers who died in the line of duty during 2008.<br/>
+	</summary>
+</bill>

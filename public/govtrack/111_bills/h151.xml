@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="151" updated="2009-03-07T10:05:31-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Daniel Webster Congressional Clerkship Act of 2009</title>
+		<title type="official" as="introduced">To establish the Daniel Webster Congressional Clerkship Program.</title>
+	</titles>
+	<sponsor id="400245"/>
+	<cosponsors>
+		<cosponsor id="400259" joined="2009-03-04"/>
+		<cosponsor id="400617" joined="2009-01-06"/>
+		<cosponsor id="400323" joined="2009-01-28"/>
+		<cosponsor id="400152" joined="2009-01-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on House Administration.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="27" />
+		<bill relation="identical" session="111" type="s" number="127" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional officers and employees"/>
+		<term name="Higher education"/>
+		<term name="Lawyers and legal services"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Daniel Webster Congressional Clerkship Act of 2009 - Establishes the Daniel Webster Congressional Clerkship Program for the appointment of individuals who are graduates of accredited law schools to serve as Congressional Clerks in the Senate or House of Representatives. Requires the Senate Committee on Rules and Administration and the House Committee on House Administration to each select at least six individuals for a one-year term to serve as employees in their respective chambers.<br/>Specifies eligibility criteria for a Congressional Clerk, including that the selected candidate be a graduate of such a law school as of the starting date of his or her clerkship.<br/>Requires the committees to ensure that Congressional Clerks selected under this Act are apportioned equally between majority and minority party offices.<br/>Entitles each clerk selected to the same compensation as, and comparable benefits to, an individual who holds the position of a judicial clerkship for the U.S. District Court for the District of Columbia within three months of graduating from law school.<br/>
+	</summary>
+</bill>

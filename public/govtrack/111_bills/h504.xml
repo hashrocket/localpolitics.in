@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="504" updated="2009-03-07T10:46:53-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Hearing Enhancement and Auditory Rehabilitation (HEAR) Act of 2009</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to cover hearing aids and auditory rehabilitation services under the Medicare Program.</title>
+	</titles>
+	<sponsor id="412250"/>
+	<cosponsors>
+		<cosponsor id="400140" joined="2009-01-14"/>
+		<cosponsor id="400380" joined="2009-01-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to House Ways and Means</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Health technology, devices, supplies"/>
+		<term name="Hearing, speech, and vision care"/>
+		<term name="Medicare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/14/2009--Introduced.<br/>Medicare Hearing Enhancement and Auditory Rehabilitation (HEAR) Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act to cover hearing aids and auditory rehabilitation services under the Medicare program.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,64 @@
+<bill session="111" type="h" number="548" updated="2009-03-07T10:52:02-05:00">
+	<status><vote date="1236110940" datetime="2009-03-03T16:09:00-05:00" where="h" result="pass" how="roll" roll="92"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Civil War Battlefield Preservation Act of 2009</title>
+		<title type="short" as="passed house">Civil War Battlefield Preservation Act of 2009</title>
+		<title type="official" as="introduced">To assist citizens, public and private institutions, and governments at all levels in planning, interpreting, and protecting sites where historic battles were fought on American soil during the armed conflicts that shaped the growth and development of the United States, and for other purposes.</title>
+	</titles>
+	<sponsor id="400277"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="2009-01-26"/>
+		<cosponsor id="400155" joined="2009-01-15"/>
+		<cosponsor id="400089" joined="2009-01-26"/>
+		<cosponsor id="400195" joined="2009-01-15"/>
+		<cosponsor id="400302" joined="2009-02-09"/>
+		<cosponsor id="412232" joined="2009-02-25"/>
+		<cosponsor id="412256" joined="2009-01-28"/>
+		<cosponsor id="400318" joined="2009-01-28"/>
+		<cosponsor id="400049" joined="2009-01-15"/>
+		<cosponsor id="400218" joined="2009-01-26"/>
+		<cosponsor id="400652" joined="2009-03-03"/>
+		<cosponsor id="400184" joined="2009-01-28"/>
+		<cosponsor id="400114" joined="2009-01-26"/>
+		<cosponsor id="412011" joined="2009-01-26"/>
+		<cosponsor id="400010" joined="2009-02-09"/>
+		<cosponsor id="400349" joined="2009-01-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action date="1236018540" datetime="2009-03-02T14:29:00-05:00"><text>Mr. Holt moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1236018540" datetime="2009-03-02T14:29:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2882-2883"/></action>
+		<action date="1236018540" datetime="2009-03-02T14:29:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 548.</text></action>
+		<action date="1236018960" datetime="2009-03-02T14:36:00-05:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Holt objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1236110340" datetime="2009-03-03T15:59:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2899-2900"/></action>
+		<vote date="1236110940" how="roll" roll="92" datetime="2009-03-03T16:09:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 13 (Roll no. 92). (text: CR 3/02/2009 H2882)</text></vote>
+		<action date="1236142800" datetime="2009-03-04"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+		<committee name="Senate Energy and Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Conflicts and wars"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Historic sites and heritage areas"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Land transfers"/>
+		<term name="Public-private cooperation"/>
+		<term name="State and local government operations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Civil War Battlefield Preservation Act of 2009 - Directs the Secretary of the Interior, acting through the American Battlefield Protection Program, to assist and work in partnership with citizens, federal, state, local, and tribal governments, other public entities, educational institutions, and private nonprofits in the identification, research, evaluation, interpretation, and protection of historic battlefields and associated sites. Establishes a battlefield acquisition grant program under which the Secretary may provide grants to eligible entities to pay the federal share of the cost to acquire interests in eligible sites for the preservation and protection of those sites. 
+	</summary>
+</bill>

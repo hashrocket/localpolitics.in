@@ -1,0 +1,100 @@
+<bill session="111" type="hr" number="110" updated="2009-03-07T13:19:00-05:00">
+	<status><vote date="1234550460" datetime="2009-02-13T14:41:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1233637200" datetime="2009-02-03"/>
+	<titles>
+		<title type="official" as="introduced">Congratulating the National Football League champion Pittsburgh Steelers for winning Super Bowl XLIII and becoming the most successful franchise in NFL history with their record 6th Super Bowl title.</title>
+	</titles>
+	<sponsor id="400114"/>
+	<cosponsors>
+		<cosponsor id="400352" joined="2009-02-04"/>
+		<cosponsor id="400253" joined="2009-02-04"/>
+		<cosponsor id="400086" joined="2009-02-04"/>
+		<cosponsor id="400031" joined="2009-02-04"/>
+		<cosponsor id="412229" joined="2009-02-04"/>
+		<cosponsor id="400147" joined="2009-02-04"/>
+		<cosponsor id="412227" joined="2009-02-04"/>
+		<cosponsor id="400442" joined="2009-02-04"/>
+		<cosponsor id="400364" joined="2009-02-04"/>
+		<cosponsor id="400257" joined="2009-02-04"/>
+		<cosponsor id="400616" joined="2009-02-04"/>
+		<cosponsor id="400103" joined="2009-02-04"/>
+		<cosponsor id="400110" joined="2009-02-04"/>
+		<cosponsor id="400210" joined="2009-02-04"/>
+		<cosponsor id="412317" joined="2009-02-04"/>
+		<cosponsor id="400183" joined="2009-02-04"/>
+		<cosponsor id="412204" joined="2009-02-04"/>
+		<cosponsor id="400426" joined="2009-02-04"/>
+		<cosponsor id="412234" joined="2009-02-04"/>
+		<cosponsor id="400320" joined="2009-02-04"/>
+		<cosponsor id="400178" joined="2009-02-04"/>
+		<cosponsor id="412225" joined="2009-02-04"/>
+		<cosponsor id="412232" joined="2009-02-04"/>
+		<cosponsor id="400403" joined="2009-02-04"/>
+		<cosponsor id="400350" joined="2009-02-04"/>
+		<cosponsor id="400255" joined="2009-02-04"/>
+		<cosponsor id="400430" joined="2009-02-04"/>
+		<cosponsor id="412239" joined="2009-02-04"/>
+		<cosponsor id="412195" joined="2009-02-04"/>
+		<cosponsor id="400074" joined="2009-02-04"/>
+		<cosponsor id="400628" joined="2009-02-04"/>
+		<cosponsor id="400647" joined="2009-02-04"/>
+		<cosponsor id="400125" joined="2009-02-04"/>
+		<cosponsor id="400193" joined="2009-02-04"/>
+		<cosponsor id="400063" joined="2009-02-04"/>
+		<cosponsor id="400009" joined="2009-02-04"/>
+		<cosponsor id="412266" joined="2009-02-04"/>
+		<cosponsor id="400291" joined="2009-02-04"/>
+		<cosponsor id="400043" joined="2009-02-04"/>
+		<cosponsor id="400391" joined="2009-02-04"/>
+		<cosponsor id="400641" joined="2009-02-04"/>
+		<cosponsor id="400047" joined="2009-02-04"/>
+		<cosponsor id="412231" joined="2009-02-04"/>
+		<cosponsor id="409888" joined="2009-02-04"/>
+		<cosponsor id="400286" joined="2009-02-04"/>
+		<cosponsor id="400042" joined="2009-02-04"/>
+		<cosponsor id="412311" joined="2009-02-03"/>
+		<cosponsor id="400218" joined="2009-02-04"/>
+		<cosponsor id="400409" joined="2009-02-04"/>
+		<cosponsor id="412273" joined="2009-02-04"/>
+		<cosponsor id="412250" joined="2009-02-04"/>
+		<cosponsor id="400285" joined="2009-02-03"/>
+		<cosponsor id="400355" joined="2009-02-04"/>
+		<cosponsor id="400216" joined="2009-02-04"/>
+		<cosponsor id="400373" joined="2009-02-04"/>
+		<cosponsor id="400130" joined="2009-02-04"/>
+		<cosponsor id="400163" joined="2009-02-04"/>
+		<cosponsor id="400249" joined="2009-02-04"/>
+		<cosponsor id="400321" joined="2009-02-04"/>
+		<cosponsor id="400309" joined="2009-02-04"/>
+		<cosponsor id="400417" joined="2009-02-04"/>
+		<cosponsor id="412233" joined="2009-02-04"/>
+		<cosponsor id="400075" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1234328400" datetime="2009-02-11"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1234328400" datetime="2009-02-11" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1234460820" datetime="2009-02-12T13:47:00-05:00"><text>Mr. Lynch moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1234460880" datetime="2009-02-12T13:48:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1263-1267"/></action>
+		<action date="1234460880" datetime="2009-02-12T13:48:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 110.</text></action>
+		<action date="1234462440" datetime="2009-02-12T14:14:00-05:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lynch objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1234550460" datetime="2009-02-13T14:41:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1589"/></action>
+		<vote date="1234550460" how="by voice vote" datetime="2009-02-13T14:41:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 2/12/2009 H1263)</text></vote>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, Markup" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="sr" number="27" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Congratulates the National Football League (NFL) champion Pittsburgh Steelers for winning Super Bowl XLIII and setting a new championship standard for the entire NFL. 
+	</summary>
+</bill>

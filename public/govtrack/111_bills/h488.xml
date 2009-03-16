@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="488" updated="2009-03-07T10:45:00-05:00">
+	<status><introduced date="1231822800" datetime="2009-01-13"/></status>
+
+	<introduced date="1231822800" datetime="2009-01-13"/>
+	<titles>
+		<title type="official" as="introduced">To decrease the matching funds requirement and authorize additional appropriations for Keweenaw National Historical Park in the State of Michigan.</title>
+	</titles>
+	<sponsor id="400391"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231822800" datetime="2009-01-13"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="135" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Historic sites and heritage areas"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Michigan"/>
+		<term name="Parks, recreation areas, trails"/>
+		<term name="State and local finance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/13/2009--Introduced.<br/>Decreases the matching funds requirement, and authorizes additional appropriations, for the Keweenaw National Historical Park in Michigan. 
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="111" type="s" number="200" updated="2009-03-07T13:57:08-05:00">
+	<status><introduced date="1231650000" datetime="2009-01-11"/></status>
+
+	<introduced date="1231650000" datetime="2009-01-11"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize a cost of living adjustment for the Federal judiciary.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="300092" joined="2009-01-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1231650000" datetime="2009-01-11"><text>Sponsor introductory remarks on measure. (CR S272)</text></action>
+		<action date="1231650000" datetime="2009-01-11"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Law"/>
+		<term name="Federal appellate courts"/>
+		<term name="Federal district courts"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Judges"/>
+		<term name="Supreme Court"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/11/2009--Introduced.<br/>Authorizes a cost of living adjustment for FY2009 for justices and judges of the United States.<br/>
+	</summary>
+</bill>

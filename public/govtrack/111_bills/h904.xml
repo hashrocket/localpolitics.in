@@ -1,0 +1,34 @@
+<bill session="111" type="h" number="904" updated="2009-03-07T11:34:42-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Medicaid Prescription Drug Rebate Equalization Act of 2009</title>
+		<title type="official" as="introduced">To amend title XIX of the Social Security Act to reduce the costs of prescription drugs for enrollees of Medicaid managed care organizations by extending the discounts offered under fee-for-service Medicaid to such organizations.</title>
+	</titles>
+	<sponsor id="400391"/>
+	<cosponsors>
+		<cosponsor id="400352" joined="2009-02-04"/>
+		<cosponsor id="412227" joined="2009-02-13"/>
+		<cosponsor id="400162" joined="2009-02-24"/>
+		<cosponsor id="400321" joined="2009-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

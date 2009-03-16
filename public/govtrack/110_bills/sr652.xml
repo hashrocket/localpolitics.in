@@ -1,0 +1,32 @@
+<bill session="110" type="sr" number="652" updated="2009-01-09T21:19:50-05:00">
+	<status><vote date="1222056000" datetime="2008-09-22" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1220932800" datetime="2008-09-09"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating the week beginning September 8, 2008, as &quot;National Assisted Living Week&quot;.</title>
+	</titles>
+	<sponsor id="300030"/>
+	<cosponsors>
+		<cosponsor id="400546" joined="2008-09-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1220932800" datetime="2008-09-09"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S8186"/></action>
+		<action date="1222056000" datetime="2008-09-22"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S9179-9185"/></action>
+		<vote date="1222056000" how="by Unanimous Consent" datetime="2008-09-22" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S9181"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/22/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the week beginning September 8, 2008, as National Assisted Living Week.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="232" updated="2009-03-07T10:15:05-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Greenhouse Gas Registry Act</title>
+		<title type="official" as="introduced">To provide for the creation of a Federal greenhouse gas registry, and for other purposes.</title>
+	</titles>
+	<sponsor id="400013"/>
+	<cosponsors>
+		<cosponsor id="400237" joined="2009-01-07"/>
+		<cosponsor id="400193" joined="2009-01-07"/>
+		<cosponsor id="400184" joined="2009-01-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Air quality"/>
+		<term name="Business records"/>
+		<term name="Civil actions and liability"/>
+		<term name="Climate change"/>
+		<term name="Electric power generation and transmission"/>
+		<term name="Environmental Protection Agency (EPA)"/>
+		<term name="Environmental assessment, monitoring, research"/>
+		<term name="Environmental regulatory procedures"/>
+		<term name="Government information and archives"/>
+		<term name="Industrial facilities"/>
+		<term name="Public utilities and utility rates"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Greenhouse Gas Registry Act - Requires the Administrator of the Environmental Protection Agency (EPA) to: (1) determine and publish the quantity of each greenhouse gas (GHG) that makes the same contribution to global warming as one metric ton of carbon dioxide; and (2) designate as a GHG any directly emitted anthropogenic gas that is included in the Inventory of the United States Greenhouse Gases and Sinks, one metric ton of which makes the same or greater contribution to global warming as one metric ton of carbon dioxide. Directs each covered entity to report to the Administrator its GHG emissions for the prior calendar year.<br/>Directs the Administrator to issue regulations establishing a federal GHG registry. Specifies that such regulations shall: (1) ensure accuracy and reliability of data submitted; (2) take into account best practices for measuring, accounting, reporting, and verifying GHG emissions and the latest scientific research; (3) require that submitted data are monitored using monitoring systems for fuel use, fuel flow, or emissions, wherever feasible; (4) require annual reporting on the emission of GHGs; (5) establish consistent policies for calculating carbon content and GHG emissions for each type of fossil fuel reported; (6) provide for immediate public dissemination of data reported, with certain exceptions; and (7) take into account the work done by the Climate Registry and other mandatory state or multistate authorized programs and explain the major differences in approach between the system established under the regulations and the respective registries or programs. Provides that nothing in this Act preempts any state or regional GHG registry efforts.<br/>Authorizes the Administrator to bring a civil action against entities that fail to comply with this Act's requirements. Sets forth civil penalties for violations.<br/>
+	</summary>
+</bill>

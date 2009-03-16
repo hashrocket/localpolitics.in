@@ -1,0 +1,39 @@
+<bill session="110" type="hr" number="16" updated="2009-01-09T07:56:06-05:00">
+	<status><vote date="1185852060" datetime="2007-07-30T12:21:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing Virginia's James River as &quot;America's Founding River&quot;.</title>
+	</titles>
+	<sponsor id="400095"/>
+	<cosponsors>
+		<cosponsor id="400364" joined="2007-01-23"/>
+		<cosponsor id="400137" joined="2007-03-07"/>
+		<cosponsor id="400154" joined="2007-03-07"/>
+		<cosponsor id="400098" joined="2007-03-12"/>
+		<cosponsor id="400435" joined="2007-03-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1170824400" datetime="2007-02-07"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1185852060" datetime="2007-07-30T12:21:00-04:00"><text>Committee on Natural Resources discharged.</text></action>
+		<action date="1185852060" datetime="2007-07-30T12:21:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H8830"/></action>
+		<action date="1185852060" datetime="2007-07-30T12:21:00-04:00"><text>Mrs. Christensen asked unanimous consent to discharge from committee and consider.</text></action>
+		<vote date="1185852060" how="without objection" datetime="2007-07-30T12:21:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text" ref="CR H8830"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/30/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes Virginia's James River as America's Founding River and recommits to protecting and restoring it.<br/>
+	</summary>
+</bill>

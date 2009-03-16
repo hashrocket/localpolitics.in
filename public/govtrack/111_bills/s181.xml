@@ -1,0 +1,138 @@
+<bill session="111" type="s" number="181" updated="2009-03-07T13:54:42-05:00">
+	<status><enacted date="1233205200" datetime="2009-01-29" /></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">Lilly Ledbetter Fair Pay Act of 2009</title>
+		<title type="short" as="passed house">Lilly Ledbetter Fair Pay Act of 2009</title>
+		<title type="short" as="passed senate">Lilly Ledbetter Fair Pay Act of 2009</title>
+		<title type="short" as="enacted">Lilly Ledbetter Fair Pay Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend title VII of the Civil Rights Act of 1964 and the Age Discrimination in Employment Act of 1967, and to modify the operation of the Americans with Disabilities Act of 1990 and the Rehabilitation Act of 1973, to clarify that a discriminatory compensation decision or other practice that is unlawful under such Acts occurs each time compensation is paid pursuant to the discriminatory compensation decision or other practice, and for other purposes.</title>
+	</titles>
+	<sponsor id="300073"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2009-01-08"/>
+		<cosponsor id="412242" joined="2009-01-08"/>
+		<cosponsor id="412325" joined="2009-01-08"/>
+		<cosponsor id="300065" joined="2009-01-08"/>
+		<cosponsor id="412321" joined="2009-01-08"/>
+		<cosponsor id="400272" joined="2009-01-08"/>
+		<cosponsor id="400413" joined="2009-01-08"/>
+		<cosponsor id="300009" joined="2009-01-08"/>
+		<cosponsor id="412329" joined="2009-01-22"/>
+		<cosponsor id="400050" joined="2009-01-08"/>
+		<cosponsor id="400064" joined="2009-01-08"/>
+		<cosponsor id="300080" joined="2009-01-08"/>
+		<cosponsor id="300059" joined="2009-01-08"/>
+		<cosponsor id="300022" joined="2009-01-08"/>
+		<cosponsor id="300018" joined="2009-01-08"/>
+		<cosponsor id="300082" joined="2009-01-08"/>
+		<cosponsor id="300011" joined="2009-01-08"/>
+		<cosponsor id="300001" joined="2009-01-08"/>
+		<cosponsor id="300067" joined="2009-01-08"/>
+		<cosponsor id="300091" joined="2009-01-08"/>
+		<cosponsor id="412246" joined="2009-01-08"/>
+		<cosponsor id="412323" joined="2009-01-08"/>
+		<cosponsor id="300093" joined="2009-01-08"/>
+		<cosponsor id="412243" joined="2009-01-08"/>
+		<cosponsor id="300076" joined="2009-01-08"/>
+		<cosponsor id="300042" joined="2009-01-08"/>
+		<cosponsor id="300060" joined="2009-01-08"/>
+		<cosponsor id="300078" joined="2009-01-08"/>
+		<cosponsor id="400619" joined="2009-01-08"/>
+		<cosponsor id="300038" joined="2009-01-08"/>
+		<cosponsor id="300066" joined="2009-01-08"/>
+		<cosponsor id="300063" joined="2009-01-08"/>
+		<cosponsor id="300006" joined="2009-01-09"/>
+		<cosponsor id="300087" joined="2009-01-08"/>
+		<cosponsor id="300061" joined="2009-01-08"/>
+		<cosponsor id="300034" joined="2009-01-08"/>
+		<cosponsor id="400357" joined="2009-01-08"/>
+		<cosponsor id="300019" joined="2009-01-08"/>
+		<cosponsor id="300016" joined="2009-01-08"/>
+		<cosponsor id="412324" joined="2009-01-08"/>
+		<cosponsor id="300043" joined="2009-01-08"/>
+		<cosponsor id="300068" joined="2009-01-08"/>
+		<cosponsor id="412247" joined="2009-01-08"/>
+		<cosponsor id="300081" joined="2009-01-08"/>
+		<cosponsor id="400412" joined="2009-01-08"/>
+		<cosponsor id="412249" joined="2009-01-08"/>
+		<cosponsor id="300037" joined="2009-01-08"/>
+		<cosponsor id="412244" joined="2009-01-08"/>
+		<cosponsor id="300084" joined="2009-01-08"/>
+		<cosponsor id="300051" joined="2009-01-08"/>
+		<cosponsor id="412326" joined="2009-01-08"/>
+		<cosponsor id="300058" joined="2009-01-08"/>
+		<cosponsor id="300100" joined="2009-01-08"/>
+		<cosponsor id="300064" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar date="1231477200" datetime="2009-01-09" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 14.</text></calendar>
+		<action date="1231822800" datetime="2009-01-13"><text>Motion to proceed to consideration of measure made in Senate.</text><reference label="consideration" ref="CR S349"/></action>
+		<action date="1231822800" datetime="2009-01-13"><text>Cloture motion on the motion to proceed to the measure presented in Senate.</text><reference label="consideration" ref="CR S349"/></action>
+		<action date="1231822800" datetime="2009-01-13"><text>Motion to proceed to consideration of measure withdrawn in Senate.</text><reference label="consideration" ref="CR S349"/></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Motion to proceed to measure considered in Senate.</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 72 - 23. Record Vote Number: 4.</text><reference label="consideration" ref="CR S557-559"/><reference label="text" ref="CR S559"/></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S557-559, S588-590"/></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Measure laid before Senate by motion.</text><reference label="consideration" ref="CR S557-559, S588-590"/></action>
+		<action date="1232514000" datetime="2009-01-21"><text>Considered by Senate.</text><reference label="consideration" ref="CR S693-712"/></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Considered by Senate.</text><reference label="consideration" ref="CR S739-759, S759-776"/></action>
+		<vote date="1232600400" how="roll" roll="14" datetime="2009-01-22" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Yea-Nay Vote. 61 - 36. Record Vote Number: 14.</text><reference label="text" ref="CR S775-776"/></vote>
+		<action date="1232769780" datetime="2009-01-23T12:03:00-05:00"><text>Received in the House.</text></action>
+		<action date="1232769780" datetime="2009-01-23T12:03:00-05:00"><text>Held at the desk.</text></action>
+		<action date="1232686800" datetime="2009-01-23"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1233017760" datetime="2009-01-26T20:56:00-05:00"><text>Rules Committee Resolution H. Res. 87 Reported to House. Rule provides for consideration of S. 181 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.</text></action>
+		<action date="1233081000" datetime="2009-01-27T14:30:00-05:00"><text>Rule H. Res. 87 passed House.</text></action>
+		<action date="1233082740" datetime="2009-01-27T14:59:00-05:00"><text>Considered under the provisions of rule H. Res. 87.</text><reference label="consideration" ref="CR H546-556"/></action>
+		<action date="1233082740" datetime="2009-01-27T14:59:00-05:00"><text>Rule provides for consideration of S. 181 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.</text></action>
+		<action date="1233082800" datetime="2009-01-27T15:00:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on S. 181.</text></action>
+		<action date="1233085200" datetime="2009-01-27T15:40:00-05:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H554"/></action>
+		<action date="1233085260" datetime="2009-01-27T15:41:00-05:00"><text>Mr. McKeon moved to commit to Education and Labor.</text><reference label="consideration" ref="CR H554-556"/></action>
+		<action date="1233085260" datetime="2009-01-27T15:41:00-05:00"><text>Floor summary: DEBATE - The House proceeded with ten minutes of debate on the McKeon motion to commit S. 181 to the Committee on Education and Labor.</text></action>
+		<action date="1233085560" datetime="2009-01-27T15:46:00-05:00"><text>The previous question on the motion to commit was ordered without objection.</text><reference label="consideration" ref="CR H555"/></action>
+		<action date="1233087360" datetime="2009-01-27T16:16:00-05:00"><text>On motion to commit Failed by the Yeas and Nays: 176 - 250 (Roll no. 36).</text></action>
+		<vote date="1233087900" how="roll" roll="37" datetime="2009-01-27T16:25:00-05:00" where="h" type="vote2" result="pass" ><text>On passage Passed by the Yeas and Nays: 250 - 177 (Roll no. 37).</text><reference label="text" ref="CR H546-547"/></vote>
+		<topresident date="1233032400" datetime="2009-01-27" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1233118800" datetime="2009-01-28" ><text>Presented to President.</text></topresident>
+		<signed date="1233205200" datetime="2009-01-29" ><text>Signed by President.</text></signed>
+		<enacted number="111-2" date="1233205200" datetime="2009-01-29" type="public" ><text>Became Public Law No: 111-2.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="111" type="hr" number="87" />
+		<bill relation="identical" session="111" type="h" number="11" />
+		<bill relation="unknown" session="111" type="h" number="11" />
+	</relatedbills>
+	<subjects>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Aging"/>
+		<term name="Civil actions and liability"/>
+		<term name="Disability and health-based discrimination"/>
+		<term name="Employment discrimination and employee rights"/>
+		<term name="Racial and ethnic relations"/>
+		<term name="Sex, gender, sexual orientation discrimination"/>
+		<term name="Wages and earnings"/>
+		<term name="Women's employment"/>
+	</subjects>
+	<amendments>
+		<amendment number="s25"/>
+		<amendment number="s26"/>
+		<amendment number="s27"/>
+		<amendment number="s28"/>
+		<amendment number="s29"/>
+		<amendment number="s30"/>
+		<amendment number="s31"/>
+		<amendment number="s32"/>
+		<amendment number="s33"/>
+		<amendment number="s34"/>
+		<amendment number="s35"/>
+		<amendment number="s36"/>
+		<amendment number="s37"/>
+	</amendments>
+	<summary>
+	1/29/2009--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Lilly Ledbetter Fair Pay Act of 2009 - Amends the Civil Rights Act of 1964 to declare that an unlawful employment practice occurs when: (1) a discriminatory compensation decision or other practice is adopted; (2) an individual becomes subject to the decision or practice; or (3) an individual is affected by application of the decision or practice, including each time wages, benefits, or other compensation is paid. Allows liability to accrue, and allows an aggrieved person to obtain relief, including recovery of back pay, for up to two years preceding the filing of the charge, where the unlawful employment practices that have occurred during the charge filing period are similar or related to practices that occurred outside the time for filing a charge. Applies the preceding provisions to claims of compensation discrimination under the Americans with Disabilities Act of 1990 and the Rehabilitation Act of 1973. Amends the Age Discrimination in Employment Act of 1967 to declare that an unlawful practice occurs when a discriminatory compensation decision or other practice is adopted, when a person becomes subject to the decision or other practice, or when a person is affected by the decision or practice, including each time wages, benefits, or other compensation is paid.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="110" type="h" number="2065" updated="2009-01-08T21:10:27-05:00">
+	<status><introduced date="1177560000" datetime="2007-04-26"/></status>
+
+	<introduced date="1177560000" datetime="2007-04-26"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Drug Savings Through Choice Act of 2007</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for a Medicare operated prescription drug plan option to deliver a meaningful drug benefit and lower prescription drug prices under the Medicare Program.</title>
+	</titles>
+	<sponsor id="412194"/>
+	<cosponsors>
+		<cosponsor id="400364" joined="2007-05-10"/>
+		<cosponsor id="400616" joined="2007-05-01"/>
+		<cosponsor id="400430" joined="2007-07-17"/>
+		<cosponsor id="412215" joined="2007-05-01"/>
+		<cosponsor id="412193" joined="2007-04-26"/>
+		<cosponsor id="400103" joined="2007-05-01"/>
+		<cosponsor id="412228" joined="2007-05-09"/>
+		<cosponsor id="400283" joined="2007-06-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1177560000" datetime="2007-04-26"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1177560000" datetime="2007-04-26"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1177560000" datetime="2007-04-26"><text>Referred to House Ways and Means</text></action>
+		<action date="1177905600" datetime="2007-04-30"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1178078400" datetime="2007-05-02"><committee name="House Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/26/2007--Introduced.<br/>Medicare Drug Savings Through Choice Act of 2007 - Amends part D (Voluntary Prescription Drug Benefit Program) of title XVIII (Medicare) of the Social Security Act to direct the Secretary of Health and Human Services to: (1) offer a Medicare operated prescription drug plan with a service area that consists of the entire United States; (2) negotiate with pharmaceutical manufacturers to reduce the purchase cost of covered Medicare part D drugs; and (3) encourage the use of more affordable therapeutic equivalents. Requires the monthly beneficiary premium charged under such a plan to be uniform nationally. Requires adjustment of such premium amount in case of supplemental prescription drug coverage.<br/>
+	</summary>
+</bill>

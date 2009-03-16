@@ -1,0 +1,42 @@
+<bill session="111" type="hj" number="11" updated="2009-03-07T09:34:41-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to provide that Representatives shall be apportioned among the several States according to their respective numbers, counting the number of persons in each State who are citizens of the United States.</title>
+	</titles>
+	<sponsor id="400276"/>
+	<cosponsors>
+		<cosponsor id="400648" joined="2009-01-21"/>
+		<cosponsor id="400340" joined="2009-01-27"/>
+		<cosponsor id="400266" joined="2009-01-27"/>
+		<cosponsor id="400119" joined="2009-02-03"/>
+		<cosponsor id="400040" joined="2009-01-28"/>
+		<cosponsor id="400032" joined="2009-01-22"/>
+		<cosponsor id="400288" joined="2009-01-26"/>
+		<cosponsor id="400341" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Constitution, Civil Rights, and Civil Liberties" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Constitution and constitutional amendments"/>
+		<term name="House of Representatives"/>
+		<term name="Members of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Constitutional Amendment - Requires Representatives to be apportioned among the several states according to their respective numbers, which shall be determined by counting the number of persons in each state who are U.S. citizens.<br/>
+	</summary>
+</bill>

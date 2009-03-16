@@ -1,0 +1,34 @@
+<bill session="110" type="sr" number="650" updated="2009-01-09T21:19:36-05:00">
+	<status><vote date="1221710400" datetime="2008-09-18" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1217563200" datetime="2008-08-01"/>
+	<titles>
+		<title type="official" as="introduced">A resolution recognizing the importance of National Neighbor Day, National Good Neighbor Day, and National Neighborhood Day.</title>
+	</titles>
+	<sponsor id="300081"/>
+	<cosponsors>
+		<cosponsor id="300005" joined="2008-08-01"/>
+		<cosponsor id="412247" joined="2008-08-01"/>
+		<cosponsor id="412244" joined="2008-08-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1217563200" datetime="2008-08-01"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S8050"/></action>
+		<action date="1221710400" datetime="2008-09-18"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S9164-9165"/></action>
+		<vote date="1221710400" how="by Unanimous Consent" datetime="2008-09-18" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S9165"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/18/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Calls upon the people of the United States and interested groups and organizations to celebrate the goals of National Neighbor Day, National Good Neighbor Day, and National Neighborhood Day in 2008.<br/>
+	</summary>
+</bill>

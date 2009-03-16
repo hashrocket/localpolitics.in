@@ -1,0 +1,56 @@
+<bill session="110" type="h" number="6580" updated="2009-01-09T06:25:52-05:00">
+	<status><enacted date="1219982400" datetime="2008-08-29" /></status>
+
+	<introduced date="1216785600" datetime="2008-07-23"/>
+	<titles>
+		<title type="short" as="introduced">Hubbard Act</title>
+		<title type="short" as="passed house">Hubbard Act</title>
+		<title type="short" as="passed senate">Hubbard Act</title>
+		<title type="short" as="enacted">Hubbard Act</title>
+		<title type="official" as="introduced">To ensure the fair treatment of a member of the Armed Forces who is discharged from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early discharge of a member who is the only surviving child in a family in which the father or mother, or one or more siblings, served in the Armed Forces and, because of hazards incident to such service, was killed, died as a result of wounds, accident, or disease, is in a captured or missing in action status, or is permanently disabled, to amend the Internal Revenue Code of 1986 to repeal the dollar limitation on contributions to funeral trusts, and for other purposes.</title>
+	</titles>
+	<sponsor id="400218"/>
+	<cosponsors>
+		<cosponsor id="400618" joined="2008-07-23"/>
+		<cosponsor id="400330" joined="2008-07-23"/>
+		<cosponsor id="412190" joined="2008-07-23"/>
+		<cosponsor id="400065" joined="2008-07-23"/>
+		<cosponsor id="400297" joined="2008-07-23"/>
+		<cosponsor id="412189" joined="2008-07-23"/>
+		<cosponsor id="412227" joined="2008-07-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1216785600" datetime="2008-07-23"><text>Referred to the Committee on Armed Services, and in addition to the Committees on Veterans' Affairs, Ways and Means, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1216785600" datetime="2008-07-23"><text>Referred to House Armed Services</text></action>
+		<action date="1216785600" datetime="2008-07-23"><text>Referred to House Veterans' Affairs</text></action>
+		<action date="1216785600" datetime="2008-07-23"><text>Referred to House Ways and Means</text></action>
+		<action date="1216785600" datetime="2008-07-23"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1217372820" datetime="2008-07-29T20:07:00-04:00"><text>Mr. Kind moved to suspend the rules and pass the bill.</text></action>
+		<action date="1217372820" datetime="2008-07-29T20:07:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7276-7280"/></action>
+		<action date="1217372820" datetime="2008-07-29T20:07:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6580.</text></action>
+		<vote date="1217373900" how="by voice vote" datetime="2008-07-29T20:25:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H7276-7278"/></vote>
+		<action date="1217390400" datetime="2008-07-30"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1217563200" how="by Unanimous Consent" datetime="2008-08-01" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S8004-8005"/></vote>
+		<action date="1217563200" datetime="2008-08-01"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1217563200" datetime="2008-08-01" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1219636800" datetime="2008-08-25" ><text>Presented to President.</text></topresident>
+		<signed date="1219982400" datetime="2008-08-29" ><text>Signed by President.</text></signed>
+		<enacted number="110-317" date="1219982400" datetime="2008-08-29" type="public" ><text>Became Public Law No: 110-317.</text></enacted>
+		<action date="1220500800" datetime="2008-09-04"><committee name="House Armed Services"/><text>Referred to the Subcommittee on Military Personnel.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/29/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Hubbard Act - Amends federal employment, armed forces, military pay, and veterans' benefits law to authorize the provision of the following benefits to a member of the Armed Forces who is discharged at the member's request pursuant to a Department of Defense (DOD) policy permitting the early discharge of a member who is the only surviving child in a family in which the father or mother, or one or more siblings, served in the Armed Forces and, incident to such service, was killed, died as a result of wounds, accident, or disease, is in a captured or missing in action status, or is permanently disabled: (1) continued payment, through the original agreed-upon service period, of any bonus, incentive, or similar benefit to which the member was entitled during service; (2) separation pay, even though the member has completed less than six years of active service before discharge; (3) transitional health care, on the same basis as an active-duty member, for 180 days after discharge; (4) transitional commissary and exchange benefits, on the same basis as an active-duty member, for two years after discharge; (5) veterans' housing loan, employment and training, and basic educational assistance; (6) federal unemployment compensation; and (7) veteran's preference for federal employment purposes. Amends the Internal Revenue Code to repeal the limitation on contributions to funeral trusts. Makes this Act effective with respect to any such discharge granted after September 11, 2001.<br/>
+	</summary>
+</bill>

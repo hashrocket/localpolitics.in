@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="302" updated="2009-03-07T10:23:03-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="official" as="introduced">To require the Securities and Exchange Commission to reinstate the uptick rule on short sales of securities.</title>
+	</titles>
+	<sponsor id="400003"/>
+	<cosponsors>
+		<cosponsor id="400222" joined="2009-03-05"/>
+		<cosponsor id="400257" joined="2009-01-08"/>
+		<cosponsor id="400426" joined="2009-01-08"/>
+		<cosponsor id="400251" joined="2009-01-08"/>
+		<cosponsor id="400403" joined="2009-02-03"/>
+		<cosponsor id="400246" joined="2009-01-08"/>
+		<cosponsor id="400063" joined="2009-01-08"/>
+		<cosponsor id="412192" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Financial services and investments"/>
+		<term name="Securities"/>
+		<term name="Securities and Exchange Commission (SEC)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

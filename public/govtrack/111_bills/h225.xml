@@ -1,0 +1,78 @@
+<bill session="111" type="h" number="225" updated="2009-03-07T10:14:13-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Emergency Homeownership and Equity Protection Act</title>
+		<title type="official" as="introduced">To amend title 11 of the United States Code with respect to modification of certain mortgages on principal residences, and for other purposes.</title>
+	</titles>
+	<sponsor id="400280"/>
+	<cosponsors>
+		<cosponsor id="400387" joined="2009-01-07"/>
+		<cosponsor id="400133" joined="2009-01-08"/>
+		<cosponsor id="400073" joined="2009-01-07"/>
+		<cosponsor id="400347" joined="2009-01-08"/>
+		<cosponsor id="400199" joined="2009-01-07"/>
+		<cosponsor id="400356" joined="2009-01-08"/>
+		<cosponsor id="412193" joined="2009-01-07"/>
+		<cosponsor id="412276" joined="2009-01-08"/>
+		<cosponsor id="412199" joined="2009-01-07"/>
+		<cosponsor id="400616" joined="2009-01-07"/>
+		<cosponsor id="400110" joined="2009-01-08"/>
+		<cosponsor id="412263" joined="2009-01-07"/>
+		<cosponsor id="400160" joined="2009-02-13"/>
+		<cosponsor id="400407" joined="2009-02-13"/>
+		<cosponsor id="400259" joined="2009-02-13"/>
+		<cosponsor id="400092" joined="2009-01-07"/>
+		<cosponsor id="400162" joined="2009-01-07"/>
+		<cosponsor id="400237" joined="2009-01-07"/>
+		<cosponsor id="400140" joined="2009-01-07"/>
+		<cosponsor id="400422" joined="2009-01-08"/>
+		<cosponsor id="400178" joined="2009-01-07"/>
+		<cosponsor id="400411" joined="2009-01-21"/>
+		<cosponsor id="400360" joined="2009-01-09"/>
+		<cosponsor id="400623" joined="2009-01-07"/>
+		<cosponsor id="400129" joined="2009-01-21"/>
+		<cosponsor id="400424" joined="2009-01-07"/>
+		<cosponsor id="412305" joined="2009-02-13"/>
+		<cosponsor id="400638" joined="2009-02-13"/>
+		<cosponsor id="412215" joined="2009-01-07"/>
+		<cosponsor id="400063" joined="2009-01-07"/>
+		<cosponsor id="400415" joined="2009-01-07"/>
+		<cosponsor id="412236" joined="2009-01-07"/>
+		<cosponsor id="412186" joined="2009-01-07"/>
+		<cosponsor id="412228" joined="2009-01-09"/>
+		<cosponsor id="412212" joined="2009-01-21"/>
+		<cosponsor id="400283" joined="2009-01-09"/>
+		<cosponsor id="400204" joined="2009-01-07"/>
+		<cosponsor id="400090" joined="2009-01-09"/>
+		<cosponsor id="400033" joined="2009-01-07"/>
+		<cosponsor id="400240" joined="2009-01-07"/>
+		<cosponsor id="412219" joined="2009-01-21"/>
+		<cosponsor id="400355" joined="2009-01-07"/>
+		<cosponsor id="400216" joined="2009-01-21"/>
+		<cosponsor id="400278" joined="2009-01-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Committee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="200" />
+		<bill relation="unknown" session="111" type="s" number="61" />
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Bankruptcy"/>
+		<term name="Housing finance and home ownership"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Emergency Homeownership and Equity Protection Act - Amends federal bankruptcy law governing a Chapter 13 debtor (adjustment of debts of an individual with regular income). Excludes from computation of debts the secured or unsecured portions of: (1) debts secured by the debtor's principal residence if the current value of that residence is less than the secured debt limit; or (2) debts secured or formerly secured by debtor's principal residence that was either sold in foreclosure or surrendered to the creditor if the current value of such real property is less than the secured debt limit. Declares the credit counseling requirement inapplicable to a Chapter 13 debtor who certifies that he or she has received notice that the holder of a claim secured by the debtor's principal residence may commence a foreclosure on the debtor's principal residence. Allows modification of the rights of claim holders, in the event of a foreclosure notice for a chapter 13 debtor, among other means by: (1) reducing a claim to equal the value of the debtor's interest in the residence securing such claim, and any adjustments to a related adjustable rate of interest; (2) waiving early repayment or prepayment penalties; and (3) extending the repayment period. Denies debtor liability for certain fees and charges incurred while the bankruptcy case is pending and arising from a debt secured by the debtor's principal residence, unless the claim holder observes specified requirements. Adds to conditions for court confirmation of a plan in bankruptcy that: (1) the holder of a claim secured by the debtor's principal residence retain the lien securing the claim until the later of the payment of such claim as reduced and modified or the discharge of a debtor from all debts; and (2) the plan modifies the claim in good faith. Excludes from final discharge of a debtor from all debts: (1) any payments to claim holders whose rights are modified under this Act; and (2) any unpaid portion of a claim as reduced. 
+	</summary>
+</bill>

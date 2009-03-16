@@ -1,0 +1,128 @@
+<bill session="110" type="s" number="1382" updated="2009-01-09T14:40:43-05:00">
+	<status><enacted date="1223438400" datetime="2008-10-08" /></status>
+
+	<introduced date="1179115200" datetime="2007-05-14"/>
+	<titles>
+		<title type="short" as="introduced">ALS Registry Act</title>
+		<title type="short" as="reported to senate">ALS Registry Act</title>
+		<title type="short" as="enacted">ALS Registry Act</title>
+		<title type="official" as="introduced">A bill to amend the Public Health Service Act to provide for the establishment of an Amyotrophic Lateral Sclerosis Registry.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="2007-12-06"/>
+		<cosponsor id="300056" joined="2007-05-21"/>
+		<cosponsor id="412242" joined="2007-06-11"/>
+		<cosponsor id="300065" joined="2007-10-18"/>
+		<cosponsor id="300029" joined="2007-05-21"/>
+		<cosponsor id="400272" joined="2007-06-04"/>
+		<cosponsor id="300005" joined="2007-05-21"/>
+		<cosponsor id="300009" joined="2007-06-20"/>
+		<cosponsor id="300025" joined="2007-09-28"/>
+		<cosponsor id="300070" joined="2008-07-15"/>
+		<cosponsor id="400064" joined="2007-09-21"/>
+		<cosponsor id="300018" joined="2007-09-25"/>
+		<cosponsor id="300011" joined="2007-05-15"/>
+		<cosponsor id="300008" joined="2007-10-15"/>
+		<cosponsor id="400105" joined="2007-06-28"/>
+		<cosponsor id="300030" joined="2008-02-07"/>
+		<cosponsor id="412251" joined="2008-05-12"/>
+		<cosponsor id="300047" joined="2007-09-10"/>
+		<cosponsor id="300093" joined="2007-07-23"/>
+		<cosponsor id="300098" joined="2008-05-19"/>
+		<cosponsor id="300071" joined="2008-02-14"/>
+		<cosponsor id="300052" joined="2008-04-01"/>
+		<cosponsor id="300060" joined="2007-10-17"/>
+		<cosponsor id="300024" joined="2007-05-24"/>
+		<cosponsor id="300088" joined="2007-10-03"/>
+		<cosponsor id="400621" joined="2007-07-23"/>
+		<cosponsor id="300038" joined="2007-05-21"/>
+		<cosponsor id="300066" joined="2007-10-25"/>
+		<cosponsor id="300073" joined="2007-10-01"/>
+		<cosponsor id="300087" joined="2007-06-19"/>
+		<cosponsor id="300013" joined="2007-10-02"/>
+		<cosponsor id="300034" joined="2007-06-13"/>
+		<cosponsor id="300019" joined="2007-10-26"/>
+		<cosponsor id="300068" joined="2007-11-14"/>
+		<cosponsor id="412247" joined="2007-09-21"/>
+		<cosponsor id="300081" joined="2007-05-22"/>
+		<cosponsor id="412249" joined="2007-12-14"/>
+		<cosponsor id="300037" joined="2007-07-11"/>
+		<cosponsor id="300077" joined="2008-05-14"/>
+		<cosponsor id="300051" joined="2007-05-17"/>
+		<cosponsor id="400546" joined="2007-06-05"/>
+		<cosponsor id="300023" joined="2007-05-24"/>
+		<cosponsor id="300007" joined="2007-07-09"/>
+		<cosponsor id="300035" joined="2007-06-06"/>
+		<cosponsor id="400432" joined="2008-02-27"/>
+		<cosponsor id="400050" joined="2007-05-17"/>
+		<cosponsor id="400418" joined="2007-06-19"/>
+		<cosponsor id="300080" joined="2007-11-14"/>
+		<cosponsor id="300022" joined="2007-06-04"/>
+		<cosponsor id="300014" joined="2007-06-05"/>
+		<cosponsor id="300048" joined="2007-09-25"/>
+		<cosponsor id="300001" joined="2007-09-21"/>
+		<cosponsor id="300067" joined="2007-09-19"/>
+		<cosponsor id="300091" joined="2007-07-11"/>
+		<cosponsor id="412246" joined="2007-08-02"/>
+		<cosponsor id="412243" joined="2007-10-19"/>
+		<cosponsor id="300076" joined="2007-05-15"/>
+		<cosponsor id="300078" joined="2007-06-13"/>
+		<cosponsor id="300075" joined="2007-06-06"/>
+		<cosponsor id="300050" joined="2007-06-18"/>
+		<cosponsor id="300063" joined="2007-09-28"/>
+		<cosponsor id="300036" joined="2008-05-22"/>
+		<cosponsor id="300021" joined="2007-10-18"/>
+		<cosponsor id="300006" joined="2007-06-18"/>
+		<cosponsor id="300095" joined="2007-11-14"/>
+		<cosponsor id="400357" joined="2007-05-21"/>
+		<cosponsor id="400054" joined="2007-06-12"/>
+		<cosponsor id="300043" joined="2007-05-24"/>
+		<cosponsor id="300069" joined="2007-06-28"/>
+		<cosponsor id="300026" joined="2007-05-25"/>
+		<cosponsor id="412244" joined="2007-09-11"/>
+		<cosponsor id="400194" joined="2007-05-17"/>
+		<cosponsor id="300058" joined="2007-06-11"/>
+		<cosponsor id="300099" joined="2007-06-19"/>
+		<cosponsor id="300090" joined="2007-09-12"/>
+		<cosponsor id="300100" joined="2007-10-01"/>
+		<cosponsor id="300064" joined="2007-06-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1179115200" datetime="2007-05-14"><text>Sponsor introductory remarks on measure. (CR S6062)</text></action>
+		<action date="1179115200" datetime="2007-05-14"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S6062-6063"/></action>
+		<calendar date="1195016400" datetime="2007-11-14" ><text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1196744400" datetime="2007-12-04"><text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="518" date="1196744400" datetime="2007-12-04" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 518.</text></calendar>
+		<action date="1222142400" datetime="2008-09-23"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S9230-9232"/></action>
+		<vote date="1222142400" how="by Unanimous Consent" datetime="2008-09-23" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text><reference label="text" ref="CR S9230-9231"/></vote>
+		<action date="1222261380" datetime="2008-09-24T10:03:00-04:00"><text>Received in the House.</text></action>
+		<action date="1222228800" datetime="2008-09-24"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1222265160" datetime="2008-09-24T11:06:00-04:00"><text>Held at the desk.</text></action>
+		<action date="1222370940" datetime="2008-09-25T16:29:00-04:00"><text>Mr. Pallone moved to suspend the rules and pass the bill.</text></action>
+		<action date="1222370940" datetime="2008-09-25T16:29:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9916-9917"/></action>
+		<action date="1222371000" datetime="2008-09-25T16:30:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 1382.</text></action>
+		<action date="1222371480" datetime="2008-09-25T16:38:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Terry objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1222440900" datetime="2008-09-26T11:55:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10042-10043"/></action>
+		<vote date="1222484520" how="roll" roll="650" datetime="2008-09-26T12:02:00-04:00" where="h" type="vote2" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 415 - 2 (Roll no. 650). (text: CR 9/25/2008 H9916)</text></vote>
+		<topresident date="1222401600" datetime="2008-09-26" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1222660800" datetime="2008-09-29" ><text>Presented to President.</text></topresident>
+		<signed date="1223438400" datetime="2008-10-08" ><text>Signed by President.</text></signed>
+		<enacted number="110-373" date="1223438400" datetime="2008-10-08" type="public" ><text>Became Public Law No: 110-373.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/8/2008--Public Law. ALS Registry Act - (Sec. 2) Amends the Public Health Service Act to authorize the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention (CDC), if scientifically advisable, to: (1) develop a system to collect data on amyotrophic lateral sclerosis (ALS) and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, or progress to ALS; and (2) establish a national registry for the collection and storage of such data to develop a population-based registry of cases. Authorizes the Secretary, acting through the Director, to establish the Advisory Committee on the National ALS Registry, which may review information and make recommendations to the Secretary concerning: (1) the development and maintenance of the registry; (2) the type of information to be included; (3) the manner in which data is to be collected; (4) the use and availability of such data; and (5) the collection of information about diseases and disorders that primarily affect motor neurons that are considered essential to furthering the study and cure of ALS. Allows the Secretary, acting through the Director, to award grants to, and enter into contracts and cooperative agreements with, public or private nonprofit entities for the collection, analysis, and reporting of data on ALS and other motor neuron disorders. Authorizes the Secretary, acting through the Director, to: (1) identify, build upon, expand, and coordinate among existing data and surveillance systems, surveys, registries, and other federal public health and environmental infrastructure wherever possible; and (2) provide for research access to ALS data as recommended by the Advisory Committee in a manner that protects personal privacy. Allows the Secretary to ensure that epidemiological and other types of information is made available to the National Institutes of Health (NIH) and the Department of Veterans Affairs (VA). (Sec. 3) Authorizes the Secretary to report to the appropriate congressional committees on ALS registries, including: (1) the registries currently under way and future planned registries; (2) the criteria involved in determining what registries to conduct, defer, or suspend; (3) the scope of those registries; and (4) the activities the Secretary undertakes to establish partnerships with research and patient advocacy communities to expand registries.<br/>
+	</summary>
+</bill>

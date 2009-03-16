@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="245" updated="2009-03-07T10:16:33-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Local Emergency Radio Service Preservation Act of 2009</title>
+		<title type="official" as="introduced">To preserve local radio broadcast emergency and other services and to require the Federal Communications Commission to conduct a rulemaking for that purpose.</title>
+	</titles>
+	<sponsor id="400160"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Science, technology, communications"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Broadcasting, cable, digital media"/>
+		<term name="Emergency communications systems"/>
+		<term name="Federal Communications Commission (FCC)"/>
+		<term name="Spacecraft and satellites"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Local Emergency Radio Service Preservation Act of 2009 - Directs the Federal Communications Commission (FCC), consistent with the representations made by digital audio radio satellite service licensees that digital audio radio satellite service would be a national service, to revise its regulations to provide that digital audio radio satellite service (DARSS): (1) licensees shall not provide services that are locally differentiated or that result in programming being delivered to consumers in one geographic market that is different from programming delivered in any other geographic market; and (2) repeaters shall be restricted to simultaneously retransmitting the programming transmitted by satellite directly to DARSS subscribers' receivers. Requires the FCC to complete a rulemaking proceeding to determine whether DARSS licensees should be permitted to provide locally oriented services on nationally distributed channels, taking into account, among other things, the ability of such licensees to afford listeners the same emergency and other information as is afforded listeners of local broadcast stations.<br/>
+	</summary>
+</bill>

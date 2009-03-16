@@ -1,0 +1,37 @@
+<bill session="110" type="h" number="6455" updated="2009-01-09T06:10:53-05:00">
+	<status><vote date="1216130460" datetime="2008-07-15T11:01:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1215662400" datetime="2008-07-10"/>
+	<titles>
+		<title type="short" as="introduced">NASA 50th Anniversary Commemorative Coin Act</title>
+		<title type="short" as="passed house">NASA 50th Anniversary Commemorative Coin Act</title>
+		<title type="official" as="introduced">To require the Secretary of the Treasury to mint coins in commemoration of the 50th anniversary of the establishment of the National Aeronautics and Space Administration.</title>
+	</titles>
+	<sponsor id="400199"/>
+	<cosponsors>
+		<cosponsor id="400089" joined="2008-07-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1215662400" datetime="2008-07-10"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1216128660" datetime="2008-07-15T10:31:00-04:00"><text>Mr. Green, Al moved to suspend the rules and pass the bill.</text></action>
+		<action date="1216128660" datetime="2008-07-15T10:31:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6480-6487"/></action>
+		<action date="1216128660" datetime="2008-07-15T10:31:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6455.</text></action>
+		<vote date="1216130460" how="by voice vote" datetime="2008-07-15T11:01:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H6480-6482"/></vote>
+		<calendar under="General Orders" number="885" date="1216180800" datetime="2008-07-16" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 885.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/15/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) NASA 50th Anniversary Commemorative Coin Act - Directs the Secretary of the Treasury, in commemoration of the 50th anniversary of the establishment of the National Aeronautics and Space Administration (NASA), to mint and issue $50 gold and $1 silver coins emblematic of the 50 years of exemplary and unparalleled achievements of NASA. Requires all such coin sales to include a surcharge of $50 per $50 coin, and of $10 per $1 coin. Requires distribution of the first $4 million to the NASA Family Assistance Fund for financial assistance to the families of NASA personnel who die as a result of injuries suffered in the performance of their official duties. Requires distribution of: (1) one-half of the next $1 million of the remaining amounts to the Dr. Ronald E. McNair Educational (D.R.E.M.E.) Science Literacy Foundation and the Challenger Center for Space Science Education; and (2) the remainder to the Secretary of the Smithsonian Institution for the preservation, maintenance, and display of space artifacts at the National Air and Space Museum (including the Steven F. Udvar-Hazy Center). Authorizes the Secretary to strike and sell bronze duplicates of the $50 gold coins.<br/>
+	</summary>
+</bill>

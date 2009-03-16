@@ -1,0 +1,40 @@
+<bill session="111" type="sr" number="70" updated="2009-03-12T12:01:40-04:00">
+	<status><vote date="1236744000" datetime="2009-03-11" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1236571200" datetime="2009-03-09"/>
+	<titles>
+		<title type="official" as="introduced">A resolution congratulating the people of the Republic of Lithuania on the 1000th anniversary of Lithuania and celebrating the rich history of Lithuania.</title>
+	</titles>
+	<sponsor id="300038"/>
+	<cosponsors>
+		<cosponsor id="300016" joined="2009-03-10"/>
+		<cosponsor id="300043" joined="2009-03-09"/>
+		<cosponsor id="400621" joined="2009-03-11"/>
+		<cosponsor id="300098" joined="2009-03-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1236571200" datetime="2009-03-09"><text>Referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S2913-2914"/></action>
+		<action date="1236744000" datetime="2009-03-11"><text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S3033-3034"/></action>
+		<vote date="1236744000" how="by Unanimous Consent" datetime="2009-03-11" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S3034"/></vote>
+	</actions>
+	<committees>
+		<committee name="Senate Foreign Relations" subcommittee="" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Europe"/>
+		<term name="Human rights"/>
+		<term name="Lithuania"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="110" type="hc" number="258" updated="2009-01-08T15:59:40-05:00">
+	<status><vote2 date="1195016400" datetime="2007-11-14" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1195016400" datetime="2007-11-14"/>
+	<titles>
+		<title type="official" as="introduced">Directing the Clerk of the House of Representatives to correct the enrollment of H.R. 1429.</title>
+	</titles>
+	<sponsor id="400216"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1195061460" datetime="2007-11-14T13:31:00-05:00"><text>Mr. Kildee asked unanimous consent to consider as introduced.</text></action>
+		<action date="1195061520" datetime="2007-11-14T13:32:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H13885"/></action>
+		<vote date="1195061520" how="without objection" datetime="2007-11-14T13:32:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text" ref="CR H13885"/></vote>
+		<vote date="1195016400" how="by Unanimous Consent" datetime="2007-11-14" where="s" type="vote2" result="pass" ><text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S14385, S14387"/></vote>
+		<action date="1195016400" datetime="2007-11-14"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/14/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Makes corrections in the enrollment of H.R. 1429 (Improving Head Start for School Readiness Act of 2007) to require the Secretary of Health and Human Services to issue regulations that require Head Start agencies to implement policies and procedures to ensure that homeless children are identified and prioritized for enrollment.<br/>
+	</summary>
+</bill>

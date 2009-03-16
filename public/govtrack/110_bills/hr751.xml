@@ -1,0 +1,48 @@
+<bill session="110" type="hr" number="751" updated="2009-01-09T09:25:29-05:00">
+	<status><vote date="1193083080" datetime="2007-10-22T16:58:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1192507200" datetime="2007-10-16"/>
+	<titles>
+		<title type="official" as="introduced">Supporting the goals and ideals of National Chemistry Week.</title>
+	</titles>
+	<sponsor id="400337"/>
+	<cosponsors>
+		<cosponsor id="400327" joined="2007-10-17"/>
+		<cosponsor id="400151" joined="2007-10-16"/>
+		<cosponsor id="412210" joined="2007-10-22"/>
+		<cosponsor id="412217" joined="2007-10-22"/>
+		<cosponsor id="400184" joined="2007-10-16"/>
+		<cosponsor id="400412" joined="2007-10-16"/>
+		<cosponsor id="400245" joined="2007-10-16"/>
+		<cosponsor id="412235" joined="2007-10-16"/>
+		<cosponsor id="412239" joined="2007-10-16"/>
+		<cosponsor id="400185" joined="2007-10-16"/>
+		<cosponsor id="400119" joined="2007-10-16"/>
+		<cosponsor id="400204" joined="2007-10-16"/>
+		<cosponsor id="400301" joined="2007-10-16"/>
+		<cosponsor id="400179" joined="2007-10-16"/>
+		<cosponsor id="400435" joined="2007-10-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1192507200" datetime="2007-10-16"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1193082660" datetime="2007-10-22T16:51:00-04:00"><text>Mr. Gordon moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1193082660" datetime="2007-10-22T16:51:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11816-11817"/></action>
+		<action date="1193082660" datetime="2007-10-22T16:51:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 751.</text></action>
+		<vote date="1193083080" how="by voice vote" datetime="2007-10-22T16:58:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H11816"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/22/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes that the important contributions of chemical scientists and engineers to technological progress and the health of many industries that have created new jobs, boosted economic growth, and improved the Nation's health and standard of living. Recognizes the need to increase the number of Americans from under-represented groups participating in science and technology fields like chemistry. Supports the goals of National Chemistry Week, as founded by the American Chemical Society.<br/>
+	</summary>
+</bill>

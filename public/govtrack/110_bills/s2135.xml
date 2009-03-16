@@ -1,0 +1,69 @@
+<bill session="110" type="s" number="2135" updated="2009-01-09T16:16:15-05:00">
+	<status><enacted date="1223006400" datetime="2008-10-03" /></status>
+
+	<introduced date="1191384000" datetime="2007-10-03"/>
+	<titles>
+		<title type="short" as="introduced">Child Soldiers Accountability Act of 2007</title>
+		<title type="short" as="passed house">Child Soldiers Accountability Act of 2008</title>
+		<title type="short" as="reported to senate">Child Soldiers Accountability Act of 2007</title>
+		<title type="short" as="passed senate">Child Soldiers Accountability Act of 2007</title>
+		<title type="short" as="enacted">Child Soldiers Accountability Act of 2008</title>
+		<title type="official" as="introduced">A bill to prohibit the recruitment or use of child soldiers, to designate persons who recruit or use child soldiers as inadmissible aliens, to allow the deportation of persons who recruit or use child soldiers, and for other purposes.</title>
+	</titles>
+	<sponsor id="300038"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2007-12-14"/>
+		<cosponsor id="400272" joined="2007-10-17"/>
+		<cosponsor id="300042" joined="2007-10-03"/>
+		<cosponsor id="300060" joined="2007-10-15"/>
+		<cosponsor id="300013" joined="2007-10-03"/>
+		<cosponsor id="300034" joined="2007-10-15"/>
+		<cosponsor id="300068" joined="2007-12-10"/>
+		<cosponsor id="400576" joined="2007-10-03"/>
+		<cosponsor id="400629" joined="2007-10-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1191384000" datetime="2007-10-03"><text>Sponsor introductory remarks on measure. (CR S12535)</text></action>
+		<action date="1191384000" datetime="2007-10-03"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S12535-12536"/></action>
+		<calendar date="1194498000" datetime="2007-11-08" ><text>Committee on the Judiciary. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action date="1197349200" datetime="2007-12-11"><text>Committee on the Judiciary. Reported by Senator Leahy with an amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="532" date="1197349200" datetime="2007-12-11" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 532.</text></calendar>
+		<action date="1198040400" datetime="2007-12-19"><text>Measure laid before Senate by unanimous consent. (consideration: CR 12/18/2007 S15941-15943; text of measure as reported in Senate: CR 12/18/2007 S15943; text as passed Senate: CR 12/18/2007 S15941)</text></action>
+		<vote date="1198040400" how="by Unanimous Consent" datetime="2007-12-19" where="s" type="vote" result="pass" ><text>Passed Senate with amendments by Unanimous Consent.</text></vote>
+		<action date="1198073040" datetime="2007-12-19T10:04:00-05:00"><text>Received in the House.</text></action>
+		<action date="1198040400" datetime="2007-12-19"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1198040400" datetime="2007-12-19"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1202101200" datetime="2008-02-04"><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+		<action date="1202101200" datetime="2008-02-04"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+		<action date="1207627200" datetime="2008-04-08"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1210046400" datetime="2008-05-06"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1220896440" datetime="2008-09-08T14:54:00-04:00"><text>Ms. Jackson-Lee moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1220896560" datetime="2008-09-08T14:56:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7820-7823"/></action>
+		<action date="1220896560" datetime="2008-09-08T14:56:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 2135.</text></action>
+		<action date="1220897400" datetime="2008-09-08T15:10:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1220911980" datetime="2008-09-08T19:13:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7825"/></action>
+		<vote date="1220912400" how="roll" roll="569" datetime="2008-09-08T19:20:00-04:00" where="h" type="vote2" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 0 (Roll no. 569).</text><reference label="text" ref="CR H7820"/></vote>
+		<action date="1220932800" datetime="2008-09-09"><text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text></action>
+		<action date="1221451200" datetime="2008-09-15"><text>Senate agreed to House amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S8513-8516"/><reference label="text as Senate agreed to House amendment" ref="CR S8515-8516"/></action>
+		<topresident date="1221451200" datetime="2008-09-15" ><text>Cleared for White House.</text></topresident>
+		<action date="1221537600" datetime="2008-09-16"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1222315200" datetime="2008-09-25" ><text>Presented to President.</text></topresident>
+		<signed date="1223006400" datetime="2008-10-03" ><text>Signed by President.</text></signed>
+		<enacted number="110-340" date="1223006400" datetime="2008-10-03" type="public" ><text>Became Public Law No: 110-340.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/2008--Public Law. (This measure has not been amended since it was passed by the House on September 8, 2008. The summary of that version is repeated here.)<br/>Child Soldiers Accountability Act of 2008- Amends the federal criminal code to impose a fine and/or 20-year prison term for knowingly recruiting, enlisting, or conscripting a person under 15 years of age into an armed force or group (other than a group assembled solely for nonviolent political association) or using such person to participate actively in combat hostilities, or attempting or conspiring to do so, knowing such person is under 15 years of age. Imposes a life sentence if the death of any person results from a violation of this Act. Provides for: (1) expanded jurisdiction for prosecuting U.S. nationals and resident aliens who violate this Act; and (2) a 10-year limitation period for prosecuting violations. Amends the Immigration and Nationality Act to render any alien who has recruited or used child soldiers inadmissible or deportable.<br/>Directs the Attorney General and the Secretary of Homeland Security to promulgate final regulations to deny asylum or withholding of removal to aliens who are either inadmissible to the United States or deportable for recruiting or using child soldiers.<br/>
+	</summary>
+</bill>

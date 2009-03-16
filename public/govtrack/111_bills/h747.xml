@@ -1,0 +1,49 @@
+<bill session="111" type="h" number="747" updated="2009-03-07T11:15:45-05:00">
+	<status><introduced date="1233118800" datetime="2009-01-28"/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="short" as="introduced">All Healthy Children Act of 2009</title>
+		<title type="official" as="introduced">To amend the Social Security Act to provide health insurance coverage for children and pregnant women throughout the United States by combining the children and pregnant woman health coverage under Medicaid and SCHIP into a new All Healthy Children Program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400364"/>
+	<cosponsors>
+		<cosponsor id="412199" joined="2009-01-28"/>
+		<cosponsor id="400259" joined="2009-01-28"/>
+		<cosponsor id="400162" joined="2009-01-28"/>
+		<cosponsor id="400346" joined="2009-01-28"/>
+		<cosponsor id="400424" joined="2009-01-28"/>
+		<cosponsor id="412212" joined="2009-01-28"/>
+		<cosponsor id="400030" joined="2009-01-28"/>
+		<cosponsor id="400402" joined="2009-01-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Advisory bodies"/>
+		<term name="Child health"/>
+		<term name="Comprehensive health care"/>
+		<term name="Employee benefits and pensions"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Medicaid"/>
+		<term name="Poverty and welfare assistance"/>
+		<term name="Sex and reproductive health"/>
+		<term name="Women's health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/2009--Introduced.<br/>All Healthy Children Act of 2009 - Amends the Social Security Act (SSA) to establish under a new title XXII (All Healthy Children Program) a state-operated program receiving federal financial assistance to provide comprehensive health coverage for children and pregnant and postpartum women in place of benefits previously provided for them under SSA titles XIX (Medicaid) and XXI (State Children's Health Insurance Program) (SCHIP). Establishes a Commission on Children's Health Coverage to: (1) evaluate annually for Congress the status of children's health coverage in the United States; and (2) report to Congress a legislative proposal that would assure health benefits coverage for all U.S. children. 
+	</summary>
+</bill>

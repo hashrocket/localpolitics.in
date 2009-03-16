@@ -1,0 +1,48 @@
+<bill session="110" type="h" number="1830" updated="2009-01-08T20:40:15-05:00">
+	<status><enacted date="1183176000" datetime="2007-06-30" /></status>
+
+	<introduced date="1175140800" datetime="2007-03-29"/>
+	<titles>
+		<title type="official" as="introduced">To extend the authorities of the Andean Trade Preference Act until September 30, 2009.</title>
+		<title type="official" as="amended by house">To extend the authorities of the Andean Trade Preference Act until February 29, 2008.</title>
+	</titles>
+	<sponsor id="400333"/>
+	<cosponsors>
+		<cosponsor id="400122" joined="2007-03-29"/>
+		<cosponsor id="400055" joined="2007-03-29"/>
+		<cosponsor id="400033" joined="2007-06-05"/>
+		<cosponsor id="400238" joined="2007-03-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1175140800" datetime="2007-03-29"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action date="1182916800" datetime="2007-06-27"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<action date="1182978720" datetime="2007-06-27T18:12:00-04:00"><text>Mr. Rangel moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1182978780" datetime="2007-06-27T18:13:00-04:00"><text>Considered under suspension of the rules.</text></action>
+		<action date="1182978780" datetime="2007-06-27T18:13:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1830.</text></action>
+		<action date="1182981600" datetime="2007-06-27T19:00:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1182987120" datetime="2007-06-27T20:32:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7271-7277, H7284-7285"/><reference label="text" ref="CR H7271"/></action>
+		<vote date="1182987840" how="roll" roll="583" datetime="2007-06-27T20:44:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 59 (Roll no. 583).</text></vote>
+		<action date="1182987840" datetime="2007-06-27T20:44:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<vote date="1183003200" how="by Unanimous Consent" datetime="2007-06-28" where="s" type="vote2" result="pass" ><text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S8724"/></vote>
+		<action date="1183003200" datetime="2007-06-28"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1183003200" datetime="2007-06-28" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1183089600" datetime="2007-06-29" ><text>Presented to President.</text></topresident>
+		<signed date="1183176000" datetime="2007-06-30" ><text>Signed by President.</text></signed>
+		<enacted number="110-42" date="1183176000" datetime="2007-06-30" type="public" ><text>Became Public Law No: 110-42.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/30/2007--Public Law. (This measure has not been amended since it was passed by the House on June 27, 2008. The summary of that version is repeated here.) Amends the Andean Trade Preference Act to extend through February 29, 2008, the duty-free treatment or other preferential treatment for beneficiary countries (Bolivia, Ecuador, Colombia, and Peru) under the Act. Repeals certain provisions subjecting the extension of such treatment to such countries to certain conditions. Extends preferential treatment through FY2008 to apparel articles assembled in one or more beneficiary countries from regional fabrics or regional components, and other type apparel (brassieres) that are both cut and sewn or otherwise assembled in the United States, or one or more beneficiary countries, or both, with certain limitations. Amends the Consolidated Omnibus Budget Reconciliation Act of 1985 to extend certain customs fees for the processing of merchandise entered into the United States through October 14, 2014. Amends the Tax Increase Prevention and Reconciliation Act of 2005 to increase the amount of any corporate estimated tax installment otherwise due by a corporation with assets of not less than $1 billion in July, August, or September of 2012 to 114.50% of such amount.<br/>
+	</summary>
+</bill>

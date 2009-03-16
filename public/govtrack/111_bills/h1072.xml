@@ -1,0 +1,31 @@
+<bill session="111" type="h" number="1072" updated="2009-03-07T11:54:47-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit United States contributions to the United Nations for the purpose of paying or reimbursing the legal expenses of United Nations officers or employees charged with malfeasance, and for other purposes.</title>
+	</titles>
+	<sponsor id="400344"/>
+	<cosponsors>
+		<cosponsor id="400380" joined="2009-02-13"/>
+		<cosponsor id="400348" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Foreign Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2009--Introduced.<br/>Prohibits any U.S. contributions to the United Nations from being used for the payment or reimbursement of the legal expenses of U.N. officers or employees charged with employment-related malfeasance. Directs the President to ensure that no U.S. contributions are used for such purposes, including by withholding from U.S. contributions to the U.N. regularly assessed biennial budget any amounts so paid or reimbursed.<br/>
+	</summary>
+</bill>

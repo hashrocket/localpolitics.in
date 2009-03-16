@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="383" updated="2009-03-07T10:32:28-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the Secretary of the Interior to participate in additional phases of the project to reclaim and reuse water within the service area of the Orange County Water District in California.</title>
+	</titles>
+	<sponsor id="400356"/>
+	<cosponsors>
+		<cosponsor id="400277" joined="2009-01-21"/>
+		<cosponsor id="400057" joined="2009-01-09"/>
+		<cosponsor id="400343" joined="2009-01-09"/>
+		<cosponsor id="400348" joined="2009-01-09"/>
+		<cosponsor id="412011" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on Water and Power.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Water and Power" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="California"/>
+		<term name="Water resources funding"/>
+		<term name="Water use and supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

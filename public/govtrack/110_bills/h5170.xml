@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="5170" updated="2009-01-09T03:39:12-05:00">
+	<status><vote date="1217457540" datetime="2008-07-30T19:39:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1201582800" datetime="2008-01-29"/>
+	<titles>
+		<title type="short" as="introduced">Department of Homeland Security Component Privacy Officer Act of 2008</title>
+		<title type="short" as="reported to house">Department of Homeland Security Component Privacy Officer Act of 2008</title>
+		<title type="short" as="passed house">Department of Homeland Security Component Privacy Officer Act of 2008</title>
+		<title type="official" as="introduced">To amend the Homeland Security Act of 2002 to provide for a privacy official within each component of the Department of Homeland Security, and for other purposes.</title>
+	</titles>
+	<sponsor id="412234"/>
+	<cosponsors>
+		<cosponsor id="400402" joined="2008-01-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1201582800" datetime="2008-01-29"><text>Sponsor introductory remarks on measure. (CR E103-104)</text></action>
+		<action date="1201582800" datetime="2008-01-29"><text>Referred to the House Committee on Homeland Security.</text></action>
+		<action date="1202965200" datetime="2008-02-14"><text>Referred to the Subcommittee on Management, Investigations, and Oversight.</text></action>
+		<action date="1214452800" datetime="2008-06-26"><text>Subcommittee on Management, Investigations, and Oversight Discharged.</text></action>
+		<action date="1214452800" datetime="2008-06-26"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1214452800" datetime="2008-06-26" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<calendar number="482" date="1215721380" datetime="2008-07-10T17:23:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 482.</text></calendar>
+		<action date="1215721380" datetime="2008-07-10T17:23:00-04:00"><text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-755.</text></action>
+		<action date="1217388300" datetime="2008-07-29T12:25:00-04:00"><text>Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1217388300" datetime="2008-07-29T12:25:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7175-7176"/></action>
+		<action date="1217388300" datetime="2008-07-29T12:25:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5170.</text></action>
+		<action date="1217388900" datetime="2008-07-29T12:35:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Bilirakis objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1217457540" datetime="2008-07-30T19:39:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7596"/></action>
+		<vote date="1217457540" how="by voice vote" datetime="2008-07-30T19:39:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/29/2008 H7175)</text></vote>
+		<action date="1217476800" datetime="2008-07-31"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/30/2008--Passed House amended. Department of Homeland Security Component Privacy Officer Act of 2008 - Amends the Homeland Security Act of 2002 to direct the Secretary of Homeland Security to designate a full-time privacy official for each of the following Department of Homeland Security (DHS) components: (1) the Transportation Security Administration (TSA); (2) the Bureau of Citizenship and Immigration Services (CIS); (3) Customs and Border Protection (CBP); (4) Immigration and Customs Enforcement (ICE); (5) the Federal Emergency Management Agency (FEMA); (6) the Coast Guard; (7) the Directorate of Science and Technology; (8) the Office of Intelligence and Analysis; and (9) the Directorate for National Protection and Programs. Grants each component's privacy official primary responsibility for implementing the privacy policy for DHS established by DHS's privacy officer.<br/>Requires each designated privacy official to report directly to both the component head and DHS's privacy officer. Lists the responsibilities of each component privacy official, including: (1) serving as DHS's privacy officer's main point of contact at the component to implement that officer's policies and directives; (2) advising the component head on privacy considerations when any law, regulation, or guideline is proposed, developed, or implemented; (3) assuring that the use of technologies sustains or enhances privacy protections; (4) identifying privacy issues related to component programs; (5) monitoring the component's compliance with all applicable federal privacy laws and regulations; (6) assisting in drafting and reviewing privacy impact assessments, privacy threshold assessments, and system of records notices; (7) implementing and monitoring privacy training for component employees and contractors in coordination with DHS's privacy officer; and (8) providing DHS's privacy officer with written materials and information regarding the relevant activities of the component, including privacy violations and abuse, that are needed to successfully prepare reports for Congress and on behalf of DHS.<br/>Directs each component head to ensure that the component's privacy official: (1) has the information, resources, and access to material and personnel necessary to fulfill his or her responsibilities; (2) is advised of proposed policy changes and the development of new programs, regulations, procedures, or guidelines during the planning stages; and (3) is included in decision-making. 
+	</summary>
+</bill>

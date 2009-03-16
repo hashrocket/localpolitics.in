@@ -1,0 +1,53 @@
+<bill session="111" type="hr" number="71" updated="2009-03-07T13:14:21-05:00">
+	<status><vote date="1234468920" datetime="2009-02-12T16:02:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="official" as="introduced">Acknowledging the lifelong service of Griffin Boyette Bell to the State of Georgia and the United States as a legal icon.</title>
+	</titles>
+	<sponsor id="400221"/>
+	<cosponsors>
+		<cosponsor id="400627" joined="2009-01-15"/>
+		<cosponsor id="412252" joined="2009-01-15"/>
+		<cosponsor id="400099" joined="2009-01-15"/>
+		<cosponsor id="412199" joined="2009-01-15"/>
+		<cosponsor id="400626" joined="2009-01-15"/>
+		<cosponsor id="400242" joined="2009-01-15"/>
+		<cosponsor id="400151" joined="2009-01-15"/>
+		<cosponsor id="400628" joined="2009-01-15"/>
+		<cosponsor id="400254" joined="2009-01-15"/>
+		<cosponsor id="400240" joined="2009-01-15"/>
+		<cosponsor id="400363" joined="2009-01-15"/>
+		<cosponsor id="400030" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234303440" datetime="2009-02-10T18:04:00-05:00"><text>Mr. Johnson (GA) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1234303440" datetime="2009-02-10T18:04:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1116-1118"/></action>
+		<action date="1234303440" datetime="2009-02-10T18:04:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 71.</text></action>
+		<action date="1234304160" datetime="2009-02-10T18:16:00-05:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Johnson (GA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1234468860" datetime="2009-02-12T16:01:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1273"/></action>
+		<vote date="1234468920" how="by voice vote" datetime="2009-02-12T16:02:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H1116-1117"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="sr" number="15" />
+	</relatedbills>
+	<subjects>
+		<term name="Law"/>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Congressional tributes"/>
+		<term name="Department of Justice"/>
+		<term name="Federal officials"/>
+		<term name="Georgia"/>
+		<term name="Lawyers and legal services"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Acknowledges the lifelong services of Griffin Boyette Bell to the State of Georgia and the United States as a legal icon. Commends him for his tenure as Attorney General of the United States and his commitment to the American Civil Rights Movement. 
+	</summary>
+</bill>

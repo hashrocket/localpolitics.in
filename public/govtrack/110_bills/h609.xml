@@ -1,0 +1,37 @@
+<bill session="110" type="h" number="609" updated="2009-01-08T18:05:26-05:00">
+	<status><vote date="1176825840" datetime="2007-04-17T13:04:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1169442000" datetime="2007-01-22"/>
+	<titles>
+		<title type="short" as="passed house">Central Texas Water Recycling Act of 2007</title>
+		<title type="official" as="introduced">To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior to participate in the Central Texas Water Recycling and Reuse Project, and for other purposes.</title>
+	</titles>
+	<sponsor id="400118"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1169442000" datetime="2007-01-22"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1176868620" datetime="2007-04-17T12:57:00-04:00"><text>Mr. Grijalva moved to suspend the rules and pass the bill.</text></action>
+		<action date="1176868620" datetime="2007-04-17T12:57:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3412-3413"/></action>
+		<action date="1176868620" datetime="2007-04-17T12:57:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 609.</text></action>
+		<vote date="1176825840" how="by voice vote" datetime="2007-04-17T13:04:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H3412"/></vote>
+		<action date="1176868800" datetime="2007-04-18"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1185940800" datetime="2007-08-01"><text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/17/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Central Texas Water Recycling Act of 2007 - Amends the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior, in cooperation with the city of Waco and other participating communities in the Central Texas Water Recycling and Reuse Project, to participate in the design, planning, and construction of permanent facilities to reclaim and reuse water in McLennan County, Texas. Limits the federal share of project costs to 25% of the total. Prohibits the Secretary from providing funds for project operation and maintenance. Terminates the Secretary's authority to carry out this Act 10 years after its enactment.<br/>
+	</summary>
+</bill>

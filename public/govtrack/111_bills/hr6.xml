@@ -1,0 +1,35 @@
+<bill session="111" type="hr" number="6" updated="2009-03-07T12:57:16-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the significant contribution coaches make in the life of children who participate in organized sports and supporting the goals and ideals of National Coaches Appreciation Week.</title>
+	</titles>
+	<sponsor id="400266"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1231301220" datetime="2009-01-06T12:07:00-05:00"><text>Rule provides for consideration of H.R. 10.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="10" />
+	</relatedbills>
+	<subjects>
+		<term name="Sports and recreation"/>
+		<term name="Child health"/>
+		<term name="Child safety and welfare"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Expresses support for the goals and ideals of National Coach Appreciation Week. 
+	</summary>
+</bill>

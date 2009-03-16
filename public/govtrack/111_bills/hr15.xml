@@ -1,0 +1,39 @@
+<bill session="111" type="hr" number="15" updated="2009-03-07T13:01:03-05:00">
+	<status><vote date="1231874160" datetime="2009-01-13T15:16:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">Authorizing and directing the Committee on the Judiciary to inquire whether the House should impeach G. Thomas Porteous, a judge of the United States District Court for the Eastern District of Louisiana.</title>
+	</titles>
+	<sponsor id="400080"/>
+	<cosponsors>
+		<cosponsor id="400381" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Rules.</text></action>
+		<action date="1231873260" datetime="2009-01-13T15:01:00-05:00"><text>Ms. Matsui moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1231873260" datetime="2009-01-13T15:01:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H179-182"/></action>
+		<action date="1231873260" datetime="2009-01-13T15:01:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 15.</text></action>
+		<vote date="1231874160" how="by voice vote" datetime="2009-01-13T15:16:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H179"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Rules" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Federal district courts"/>
+		<term name="Government ethics and transparency, public corruption"/>
+		<term name="Government investigations"/>
+		<term name="House of Representatives"/>
+		<term name="Louisiana"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/13/2009--Passed House amended. Directs the Committee on the Judiciary to inquire whether the House should impeach G. Thomas Porteous, a judge of the United States Court for the Eastern District of Louisiana. 
+	</summary>
+</bill>

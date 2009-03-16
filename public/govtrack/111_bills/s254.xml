@@ -1,0 +1,38 @@
+<bill session="111" type="s" number="254" updated="2009-03-07T14:03:37-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Home Infusion Therapy Coverage Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide for the coverage of home infusion therapy under the Medicare Program.</title>
+	</titles>
+	<sponsor id="300068"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2009-03-02"/>
+		<cosponsor id="300083" joined="2009-02-24"/>
+		<cosponsor id="300091" joined="2009-01-15"/>
+		<cosponsor id="300093" joined="2009-02-24"/>
+		<cosponsor id="400194" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S613-614"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="574" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Drug and radiation therapy"/>
+		<term name="Home and outpatient care"/>
+		<term name="Medicare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Medicare Home Infusion Therapy Coverage Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act to provide for Medicare coverage of home infusion therapy and home infusion drugs. Directs the Secretary of Health and Human Services to implement the Medicare home infusion therapy benefit in a manner that ensures that: (1) Medicare beneficiaries have timely and appropriate access to infusion therapy in their homes; and (2) there is rapid and seamless coordination between drug coverage under Medicare part D (Voluntary Prescription Drug Benefit Program) and home infusion therapy services coverage under Medicare part B (Supplemental Security Income).<br/>
+	</summary>
+</bill>

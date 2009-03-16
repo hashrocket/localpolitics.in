@@ -1,0 +1,35 @@
+<bill session="110" type="sr" number="585" updated="2009-01-09T21:11:31-05:00">
+	<status><vote date="1213675200" datetime="2008-06-17" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1212638400" datetime="2008-06-05"/>
+	<titles>
+		<title type="official" as="introduced">A resolution supporting National Men's Health Week.</title>
+	</titles>
+	<sponsor id="300030"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="2008-06-05"/>
+		<cosponsor id="300052" joined="2008-06-05"/>
+		<cosponsor id="300035" joined="2008-06-05"/>
+		<cosponsor id="300089" joined="2008-06-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1212638400" datetime="2008-06-05"><text>Referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S5217"/></action>
+		<action date="1213675200" datetime="2008-06-17"><text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S5704"/></action>
+		<vote date="1213675200" how="by Unanimous Consent" datetime="2008-06-17" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S5704"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/17/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Expresses support for the annual National Men's Health Week.<br/>
+	</summary>
+</bill>

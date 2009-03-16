@@ -1,0 +1,34 @@
+<bill session="111" type="s" number="29" updated="2009-03-07T13:35:42-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Coverage Continuity Act</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to increase the credit for the health insurance costs of eligible individuals, to expand such credit to individuals covered under COBRA, and to extend the period of COBRA continuation coverage for certain individuals.</title>
+	</titles>
+	<sponsor id="400050"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Income tax credits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Coverage Continuity Act - Amends the Internal Revenue Code to: (1) increase from 65 to 85% the rate of the tax credit for the health insurance costs of taxpayers who are Trade Adjustment Assistance (TAA) or Pension Benefit Guaranty Corporation (PBGC) benefit recipients; and (2) extend such tax credit to certain individuals who are eligible for health insurance continuation benefits under the Consolidated Omnibus Budget Reconciliation Act (COBRA).<br/>Allows individuals whose eligibility for COBRA continuation coverage terminates between January 1, 2009, and December 31, 2009, to extend such coverage for an additional 12 months.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="110" type="h" number="6894" updated="2009-01-09T07:02:12-05:00">
+	<status><enacted date="1223438400" datetime="2008-10-08" /></status>
+
+	<introduced date="1221451200" datetime="2008-09-15"/>
+	<titles>
+		<title type="short" as="introduced">Defense Production Act Extension and Reauthorization of 2008</title>
+		<title type="short" as="passed house">Defense Production Act Extension and Reauthorization of 2008</title>
+		<title type="short" as="passed senate">Defense Production Act Extension and Reauthorization of 2008</title>
+		<title type="short" as="enacted">Defense Production Act Extension and Reauthorization of 2008</title>
+		<title type="official" as="introduced">To extend and reauthorize the Defense Production Act of 1950, and for other purposes.</title>
+	</titles>
+	<sponsor id="400163"/>
+	<cosponsors>
+		<cosponsor id="400010" joined="2008-09-15"/>
+		<cosponsor id="400140" joined="2008-09-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1221451200" datetime="2008-09-15"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1222217940" datetime="2008-09-23T21:59:00-04:00"><text>Mr. Gutierrez moved to suspend the rules and pass the bill.</text></action>
+		<action date="1222217940" datetime="2008-09-23T21:59:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8699-8700"/></action>
+		<action date="1222217940" datetime="2008-09-23T21:59:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6894.</text></action>
+		<vote date="1222218300" how="by voice vote" datetime="2008-09-23T22:05:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H8699"/></vote>
+		<action date="1222228800" datetime="2008-09-24"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1222315200" how="by Unanimous Consent" datetime="2008-09-25" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S9551-9552"/></vote>
+		<topresident date="1222315200" datetime="2008-09-25" ><text>Cleared for White House.</text></topresident>
+		<action date="1222401600" datetime="2008-09-26"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1222660800" datetime="2008-09-29" ><text>Presented to President.</text></topresident>
+		<signed date="1223438400" datetime="2008-10-08" ><text>Signed by President.</text></signed>
+		<enacted number="110-367" date="1223438400" datetime="2008-10-08" type="public" ><text>Became Public Law No: 110-367.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/8/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Defense Production Act Extension and Reauthorization of 2008 - Extends and reauthorizes the Defense Production Act of 1950 through FY2009.<br/>
+	</summary>
+</bill>

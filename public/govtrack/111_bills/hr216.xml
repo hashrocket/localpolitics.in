@@ -1,0 +1,33 @@
+<bill session="111" type="hr" number="216" updated="2009-03-07T13:32:22-05:00">
+	<status><introduced date="1236229200" datetime="2009-03-05"/></status>
+
+	<introduced date="1236229200" datetime="2009-03-05"/>
+	<titles>
+		<title type="official" as="introduced">Amending the Rules of the House of Representatives to ensure that Members have a reasonable amount of time to read legislation that will be voted upon.</title>
+	</titles>
+	<sponsor id="400311"/>
+	<cosponsors>
+		<cosponsor id="400017" joined="2009-03-05"/>
+		<cosponsor id="400209" joined="2009-03-05"/>
+		<cosponsor id="412196" joined="2009-03-05"/>
+		<cosponsor id="400055" joined="2009-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1236229200" datetime="2009-03-05"><text>Referred to the House Committee on Rules.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Rules" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

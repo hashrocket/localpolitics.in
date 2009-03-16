@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="1220" updated="2009-03-07T12:15:43-05:00">
+	<status><introduced date="1235624400" datetime="2009-02-26"/></status>
+
+	<introduced date="1235624400" datetime="2009-02-26"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 49, United States Code, to provide certain exemptions to drivers of intrastate commercial motor vehicles engaged in agricultural purposes, and for other purposes.</title>
+	</titles>
+	<sponsor id="400645"/>
+	<cosponsors>
+		<cosponsor id="400339" joined="2009-03-06"/>
+		<cosponsor id="412216" joined="2009-03-06"/>
+		<cosponsor id="400657" joined="2009-03-06"/>
+		<cosponsor id="412234" joined="2009-03-06"/>
+		<cosponsor id="400026" joined="2009-03-06"/>
+		<cosponsor id="412230" joined="2009-02-26"/>
+		<cosponsor id="400040" joined="2009-03-06"/>
+		<cosponsor id="400341" joined="2009-03-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1235624400" datetime="2009-02-26"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1235710800" datetime="2009-02-27"><text>Referred to the Subcommittee on Highways and Transit.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Highways and Transit" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

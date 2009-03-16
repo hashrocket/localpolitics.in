@@ -1,0 +1,57 @@
+<bill session="111" type="h" number="608" updated="2009-03-07T10:59:04-05:00">
+	<status><calendar date="1234414800" datetime="2009-02-12" /></status>
+
+	<introduced date="1232082000" datetime="2009-01-16"/>
+	<titles>
+		<title type="short" as="introduced">Smithsonian Institution Facilities Authorization Act of 2009</title>
+		<title type="official" as="introduced">To authorize the Board of Regents of the Smithsonian Institution to carry out certain construction projects, and for other purposes.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="400663" joined="2009-01-16"/>
+		<cosponsor id="400206" joined="2009-01-16"/>
+		<cosponsor id="400273" joined="2009-01-16"/>
+		<cosponsor id="412263" joined="2009-01-21"/>
+		<cosponsor id="400295" joined="2009-01-16"/>
+		<cosponsor id="400021" joined="2009-01-16"/>
+		<cosponsor id="400189" joined="2009-01-16"/>
+		<cosponsor id="400047" joined="2009-01-16"/>
+		<cosponsor id="400108" joined="2009-01-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1232082000" datetime="2009-01-16"><text>Sponsor introductory remarks on measure. (CR E108)</text></action>
+		<action date="1232082000" datetime="2009-01-16"><text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1232082000" datetime="2009-01-16"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1232082000" datetime="2009-01-16"><text>Referred to House House Administration</text></action>
+		<action date="1232427600" datetime="2009-01-20"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><committee name="House Transportation and Infrastructure"/><text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><committee name="House Transportation and Infrastructure"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1234414800" datetime="2009-02-12" ><committee name="House Transportation and Infrastructure"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, Markup, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings and Emergency Management" activity="Referral, Discharged" />
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="22" />
+	</relatedbills>
+	<subjects>
+		<term name="Science, technology, communications"/>
+		<term name="Environmental assessment, monitoring, research"/>
+		<term name="Government buildings, facilities, and property"/>
+		<term name="Horticulture and plants"/>
+		<term name="Latin America"/>
+		<term name="Maryland"/>
+		<term name="Museums, exhibitions, cultural centers"/>
+		<term name="Panama"/>
+		<term name="Research administration and funding"/>
+		<term name="Smithsonian Institution"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/16/2009--Introduced.<br/>Smithsonian Institution Facilities Authorization Act of 2009 - Authorizes the Board of Regents of the Smithsonian Institution to: (1) design and construct laboratory and support space to accommodate the Mathias Laboratory at the Smithsonian Environmental Research Center in Edgewater, Maryland; (2) construct laboratory space to accommodate the terrestrial research program of the Smithsonian tropical research institute in Gamboa, Panama; and (3) construct a greenhouse facility at its museum support facility in Suitland, Maryland, to maintain its horticultural operations and preserve the orchid collection it holds in trust. Authorizes appropriations for: (1) FY2009-FY2011 for the design and construction of the laboratory and support space to accommodate the Mathias Laboratory; (2) FY2009-FY2010 for the construction of the laboratory space to accommodate the terrestrial research program; and (3) the construction of the greenhouse facility. 
+	</summary>
+</bill>

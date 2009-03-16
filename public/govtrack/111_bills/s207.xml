@@ -1,0 +1,34 @@
+<bill session="111" type="s" number="207" updated="2009-03-07T13:57:57-05:00">
+	<status><introduced date="1231736400" datetime="2009-01-12"/></status>
+
+	<introduced date="1231736400" datetime="2009-01-12"/>
+	<titles>
+		<title type="short" as="introduced">Health Insurance Tax Relief Act</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow a deduction for health insurance premiums.</title>
+	</titles>
+	<sponsor id="300011"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231736400" datetime="2009-01-12"><text>Sponsor introductory remarks on measure. (CR S313)</text></action>
+		<action date="1231736400" datetime="2009-01-12"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Income tax deductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/12/2009--Introduced.<br/>Health Insurance Tax Relief Act - Amends the Internal Revenue Code to allow individual taxpayers a tax deduction for the first $2,000 ($4,000 in the case of a married couple filing jointly) of premiums paid for health insurance. Allows such deduction to taxpayers whether or not they itemize their tax deductions. Reduces the amount of such deduction for a taxpayer whose adjusted gross income exceeds $75,000 ($150,000 in the case of a married couple filing jointly). 
+	</summary>
+</bill>

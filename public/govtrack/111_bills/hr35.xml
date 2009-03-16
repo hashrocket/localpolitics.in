@@ -1,0 +1,33 @@
+<bill session="111" type="hr" number="35" updated="2009-03-07T13:08:15-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives that Congress should provide increased Federal funding for continued type 1 diabetes research.</title>
+	</titles>
+	<sponsor id="400160"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Digestive and metabolic diseases"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Medical research"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Calls for an increase in federal funding for diabetes research to meet the goals of the National Institutes of Health (NIH) so that a cure for type 1 diabetes can be found.<br/>
+	</summary>
+</bill>

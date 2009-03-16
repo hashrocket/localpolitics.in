@@ -1,0 +1,43 @@
+<bill session="111" type="hr" number="29" updated="2009-03-07T13:07:30-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives that any comprehensive plan to reform our national energy policy must promote the expanded use of renewable and alternative energy sources; increase our domestic refining capacity; promote conservation and increased energy efficiency; expand research and development, including domestic exploration; and, enhance consumer education.</title>
+	</titles>
+	<sponsor id="412256"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to House Science and Technology</text></action>
+		<action date="1231304400" datetime="2009-01-07"><committee name="House Science and Technology"/><text>Referred to the Subcommittee on Energy and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Science and Technology" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Science and Technology" subcommittee="Energy and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Energy"/>
+		<term name="Alternative and renewable resources"/>
+		<term name="Energy efficiency and conservation"/>
+		<term name="Energy research"/>
+		<term name="Energy storage, supplies, demand"/>
+		<term name="Middle East"/>
+		<term name="Oil and gas"/>
+		<term name="Public-private cooperation"/>
+		<term name="Research and development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Expresses the sense of the House of Representatives that, in order to meet our nation's growing long-term energy demands and maintain our economic viability in the world marketplace, any comprehensive and economically viable energy bill must address: (1) expanded use of renewable and alternative energy sources; (2) increased domestic refining capacity; (3) promotion and incentivization of increased conservation and energy efficiency; (4) expansion and promotion of additional research and development through methods such as public-private partnerships; and (5) enhanced consumer awareness and education regarding methods to increase energy efficiency and available alternative fuel sources.<br/>
+	</summary>
+</bill>

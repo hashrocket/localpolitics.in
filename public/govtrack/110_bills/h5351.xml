@@ -1,0 +1,86 @@
+<bill session="110" type="h" number="5351" updated="2009-01-09T03:59:53-05:00">
+	<status><vote date="1204144200" datetime="2008-02-27T16:30:00-05:00" where="h" result="pass" how="roll" roll="84"/></status>
+
+	<introduced date="1202792400" datetime="2008-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Renewable Energy and Energy Conservation Tax Act of 2008</title>
+		<title type="short" as="passed house">Renewable Energy and Energy Conservation Tax Act of 2008</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide tax incentives for the production of renewable energy and energy conservation.</title>
+	</titles>
+	<sponsor id="400333"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="2008-02-25"/>
+		<cosponsor id="400177" joined="2008-02-12"/>
+		<cosponsor id="412195" joined="2008-02-12"/>
+		<cosponsor id="400647" joined="2008-02-12"/>
+		<cosponsor id="412215" joined="2008-02-12"/>
+		<cosponsor id="400630" joined="2008-02-26"/>
+		<cosponsor id="400323" joined="2008-02-12"/>
+		<cosponsor id="412189" joined="2008-02-12"/>
+		<cosponsor id="400262" joined="2008-02-12"/>
+		<cosponsor id="412198" joined="2008-02-12"/>
+		<cosponsor id="412188" joined="2008-02-12"/>
+		<cosponsor id="400387" joined="2008-02-12"/>
+		<cosponsor id="412209" joined="2008-02-25"/>
+		<cosponsor id="412199" joined="2008-02-12"/>
+		<cosponsor id="400087" joined="2008-02-12"/>
+		<cosponsor id="412222" joined="2008-02-12"/>
+		<cosponsor id="400111" joined="2008-02-12"/>
+		<cosponsor id="400021" joined="2008-02-12"/>
+		<cosponsor id="412239" joined="2008-02-12"/>
+		<cosponsor id="400120" joined="2008-02-12"/>
+		<cosponsor id="412200" joined="2008-02-12"/>
+		<cosponsor id="400415" joined="2008-02-12"/>
+		<cosponsor id="412254" joined="2008-02-12"/>
+		<cosponsor id="412236" joined="2008-02-12"/>
+		<cosponsor id="412186" joined="2008-02-12"/>
+		<cosponsor id="412212" joined="2008-02-12"/>
+		<cosponsor id="400291" joined="2008-02-12"/>
+		<cosponsor id="412220" joined="2008-02-12"/>
+		<cosponsor id="400033" joined="2008-02-12"/>
+		<cosponsor id="400208" joined="2008-02-12"/>
+		<cosponsor id="400218" joined="2008-02-12"/>
+		<cosponsor id="400240" joined="2008-02-12"/>
+		<cosponsor id="400024" joined="2008-02-14"/>
+		<cosponsor id="400238" joined="2008-02-12"/>
+		<cosponsor id="400233" joined="2008-02-12"/>
+		<cosponsor id="400309" joined="2008-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1202792400" datetime="2008-02-12"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action date="1204063080" datetime="2008-02-26T17:58:00-05:00"><text>Rules Committee Resolution H. Res. 1001 Reported to House. Rule provides for consideration of H.R. 5351 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. An amendment in the nature of a substitute printed in the Congressional Record pursuant to clause 8 of rule XVIII, if offered by Representative McCrery of Louisiana or his designee, which shall be in order without intervention of any point of order (except those arising under clause 7 of rule XVI, clause 9 of rule XXI, or clause 10 of rule XXI)</text></action>
+		<action date="1204174260" datetime="2008-02-27T12:51:00-05:00"><text>Rule H. Res. 1001 passed House.</text></action>
+		<action date="1204174380" datetime="2008-02-27T12:53:00-05:00"><text>Considered under the provisions of rule H. Res. 1001.</text><reference label="consideration" ref="CR H1082-1089, H1091-1130, H1131"/></action>
+		<action date="1204174380" datetime="2008-02-27T12:53:00-05:00"><text>Rule provides for consideration of H.R. 5351 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. An amendment in the nature of a substitute printed in the Congressional Record pursuant to clause 8 of rule XVIII, if offered by Representative McCrery of Louisiana or his designee, which shall be in order without intervention of any point of order (except those arising under clause 7 of rule XVI, clause 9 of rule XXI, or clause 10 of rule XXI)</text></action>
+		<action date="1204174380" datetime="2008-02-27T12:53:00-05:00"><text>DEBATE - The House proceeded with one hour and thirty minutes of debate on H.R. 5351.</text></action>
+		<action date="1204138260" datetime="2008-02-27T14:51:00-05:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H1088-1089"/><reference label="text" ref="CR H1088-1089"/></action>
+		<action date="1204138320" datetime="2008-02-27T14:52:00-05:00"><text>Mr. Hoekstra moved to recommit with instructions to Ways and Means.</text></action>
+		<action date="1204138500" datetime="2008-02-27T14:55:00-05:00"><text>Mr. Rangel raised a point of order against the motion to recommit with instructions. Mr. Rangel stated that the provisions of the amendment contained in the instructions accompanying the motion to recommit were not germane. Sustained by the Chair.</text></action>
+		<action date="1204138500" datetime="2008-02-27T14:55:00-05:00"><text>Point of order sustained against the motion to recommit with instructions.</text></action>
+		<action date="1204138860" datetime="2008-02-27T15:01:00-05:00"><text>Mr. Hoekstra appealed the ruling of the chair. The question was then put on sustaining the ruling of the chair.</text></action>
+		<action date="1204138860" datetime="2008-02-27T15:01:00-05:00"><text>Mr. Rangel moved to table the motion to appeal the ruling of the chair</text></action>
+		<action date="1204140360" datetime="2008-02-27T15:26:00-05:00"><text>On motion to table the motion to appeal the ruling of the chair Agreed to by the Yeas and Nays: 222 - 191 (Roll No. 82).</text></action>
+		<action date="1204140360" datetime="2008-02-27T15:26:00-05:00"><text>Motion to appeal the ruling of the chair tabled.</text></action>
+		<action date="1204140420" datetime="2008-02-27T15:27:00-05:00"><text>Mr. English (PA) moved to recommit with instructions to Ways and Means.</text></action>
+		<action date="1204140480" datetime="2008-02-27T15:28:00-05:00"><text>DEBATE - The House proceeded with ten minutes of debate on the English motion to recommit with instructions. The instructions contained in the motion seek to require that the bill be reported back to the House promptly with several amendments striking sections pertaining to modification of credit phase-out; modification of limitation on automobile depreciation; relating to co-production of renewable diesel with petroleum feedstock; relating to clarification that credits for fuel are designed to provide an incentive for United States production; relating to extension of transportation fringe benefit to bicycle commuters; relating to restructuring of New York Liberty Zone tax credits; relating to qualified energy conservation bonds and revenue provisions. At the end of the bill, the motion adds a new title V.</text></action>
+		<action date="1204141260" datetime="2008-02-27T15:41:00-05:00"><text>The previous question on the motion to recommit with instructions was ordered without objection.</text></action>
+		<action date="1204142640" datetime="2008-02-27T16:04:00-05:00"><text>On motion to recommit with instructions Failed by the Yeas and Nays: 197 - 222 (Roll No. 83).</text></action>
+		<vote date="1204144200" how="roll" roll="84" datetime="2008-02-27T16:30:00-05:00" where="h" type="vote" result="pass" ><text>On passage Passed by the Yeas and Nays: 236 - 182 (Roll no. 84).</text><reference label="text" ref="CR H1091-1101"/></vote>
+		<action date="1204174800" datetime="2008-02-28"><text>Received in the Senate and Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/27/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)<br/>Renewable Energy and Energy Conservation Tax Act of 2008 - Amends Internal Revenue Code provisions relating to renewable energy sources and energy conservation. Title I: Production Incentives - (Sec. 101) Extends through 2011 the tax credit for the production of electricity from renewable resources (e.g., wind, closed and open-loop biomass, geothermal energy, small irrigation power, municipal solid waste, and qualified hydropower). Imposes a limit on such tax credit based upon investment in renewable resource facilities placed in service after 2009 in lieu of the current phaseout provisions for such credit.<br/>(Sec. 102) Includes marine and hydrokinetic renewable energy as a renewable resource for purposes of the tax credit for producing electricity from renewable resources.<br/>(Sec. 103) Extends through 2016 the energy tax credit for investment in solar energy and fuel cell property.<br/>Allows an offset against alternative minimum tax liability for certain energy tax credit amounts.<br/>Increases to $1,500 the credit limitation for fuel cell property. Allows public electric utility property to qualify for the energy tax credit.<br/>(Sec. 104) Allows a new tax credit for investment in qualified new clean renewable energy bonds. (Sec. 105) Extends through 2009 the special rule for the treatment of gain from electronic transmission transactions by a qualified electric utility (as defined by the Federal Power Act).<br/>(Sec. 106) Extends through 2014 the tax credit for residential energy efficient property expenditures. Increases to $4,000 the maximum amount of such credit for solar electric property. Includes residential small wind equipment and geothermal heat pumps as property eligible for such credit. Allows credit amounts to offset alternative minimum tax liability. Title II: Conservation - Subtitle A: Transportation - Part I: Vehicles - (Sec. 201) Allows a new tax credit for the production of plug-in hybrid vehicles. Defines &quot;qualified plug-in hybrid vehicle&quot; as a motor vehicle weighing less than 14,000 pounds that meets certain emission standards under the Clean Air Act and that is propelled to a significant extent by an electric motor that draws electricity from a rechargeable battery.<br/>(Sec. 202) Extends through 2010 the tax credit for installing nonhydrogen alternative fuel refueling property. Increases the rate of the tax credit for alternative fuel refueling property expenditures from 30 to 50% and raises the dollar limit for commercial properties to $50,000. (Sec. 203) Modifies the definition of &quot;passenger automobile&quot; for purposes of limitations on depreciation and expensing of vehicles to include any four-wheeled vehicles that are designed primarily to carry passengers over public streets, roads, or highways and that are rated at not more than 14,000 pounds gross vehicle weight.<br/>Part 2: Fuels - (Sec. 211) Extends through 2010 the income and excise tax credits for biodiesel (including agri-biodiesel) and renewable diesel used as fuel. Eliminates the requirement that renewable diesel be made using a thermal depolymerization process. Modifies the definition of &quot;renewable diesel&quot; for purposes of the income and excise tax credits for biodiesel and renewable diesel used as fuel to exclude any fuel derived from coprocessing biomass with a feedstock that is not biomass.<br/>(Sec. 212) Disqualifies foreign-produced fuel that is used or sold for use outside the United States for the income and excise tax credits for alcohol, biodiesel, renewable diesel, and alternative fuel production.<br/>(Sec. 213) Allows an alcohol fuels tax credit for the production of qualified cellulosic alcohol fuel.<br/>Part 3: Other Transportation Incentives - (Sec. 221) Allows employees to exclude reimbursements for bicycle commuting expenses from gross income. (Sec. 222) Allows a tax credit against payroll liabilities of New York Liberty Zone governmental units (i.e., New York State, the City of New York, or any agencies or instrumentalities thereof) for expenditures involving transportation infrastructure projects in or connecting with the New York Liberty Zone.<br/>Subtitle B: Other Conservation Provisions - (Sec. 231) Authorizes the issuance of qualified energy conservation bonds to finance local government conservation and greenhouse gas reduction projects. Imposes a national limitation of $3.6 billion on the issuance of such bonds.<br/>(Sec. 232) Extends the tax credit for nonbusiness energy property expenditures through 2009. Includes energy-efficient biomass fuel stoves as property eligible for such tax credit.<br/>(Sec. 233) Extends the tax deduction for energy efficient commercial buildings through 2013. (Sec. 234) Revises the amounts allowable under the tax credit for energy efficient appliances produced after 2007 (i.e., dish washers, clothes washers, and refrigerators) and extends such credit through 2010. (Sec. 235) Allows a five-year recovery period for the depreciation of qualified energy management devices. Defines &quot; energy management device&quot; as a device that measures and records electricity usage data on a time-differentiated basis in at least 24 separate time segments per day and allows for the exchange of electricity-usage information and data.<br/>Title III: Revenue Provisions - (Sec. 301) Denies the tax deduction for income attributable to domestic production of oil, gas, or any related products for major integrated oil companies. Reduces such deduction by 3% for taxpayers other than major integrated oil companies after 2009.<br/>(Sec. 302) Revises the method for calculating foreign oil and gas extraction income and foreign oil related income to require a valuation prior to a specified fair market value event.<br/>(Sec. 303) Increases by 3% the estimated tax payment of certain large corporations (assets of not less than $1 billion) in the third quarter of 2013.<br/>Title IV: Other Provisions - Subtitle A: Studies - (Sec. 401) Directs the Secretary of the Treasury to enter into an agreement with the National Academy of Sciences (NAS) for a review of the Internal Revenue Code to identify the types of tax provisions that have the largest effects on carbon and other greenhouse gas emissions and to estimate the magnitude of those effects. Requires NAS to reports its findings to Congress not later than two years after the enactment of this Act. Authorizes appropriations for such study in FY2008-FY2009.<br/>(Sec. 402) Directs the Secretary, in consultation with the Secretaries of Agriculture and Energy, and the Administrator of the Environmental Protection Agency (EPA), to enter into an agreement with NAS to produce an analysis of scientific findings relating to current and future biofuels production and the domestic effects of a dramatic increase in such production activity. Requires NAS to submit an initial report to Congress on its findings within three months after enactment of this Act and a final report within six months.<br/>Subtitle B: Application of Certain Labor Standards on Projects Financed Under Tax Credit Bonds - (Sec. 411) Applies labor standards under the Davis-Bacon Act to projects financed with new clean renewable energy bonds.<br/>
+	</summary>
+</bill>

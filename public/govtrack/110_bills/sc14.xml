@@ -1,0 +1,41 @@
+<bill session="110" type="sc" number="14" updated="2009-01-09T19:41:59-05:00">
+	<status><vote date="1174276800" datetime="2007-03-19" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1172638800" datetime="2007-02-28"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution commemorating the 85th anniversary of the founding of the American Hellenic Educational Progressive Association, a leading association for the 1,300,000 United States citizens of Greek ancestry and Philhellenes in the United States.</title>
+	</titles>
+	<sponsor id="300091"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="2007-02-28"/>
+		<cosponsor id="400619" joined="2007-03-19"/>
+		<cosponsor id="300003" joined="2007-03-14"/>
+		<cosponsor id="300099" joined="2007-03-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1172638800" datetime="2007-02-28"><text>Sponsor introductory remarks on measure. (CR S2379)</text></action>
+		<action date="1172638800" datetime="2007-02-28"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S2378-2379"/></action>
+		<calendar date="1173931200" datetime="2007-03-15" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1173931200" datetime="2007-03-15"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="79" date="1173931200" datetime="2007-03-15" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 79.</text></calendar>
+		<vote date="1174276800" how="by Unanimous Consent" datetime="2007-03-19" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S3283-3284"/><reference label="text as passed Senate" ref="CR S3283-3284"/></vote>
+		<action date="1174344840" datetime="2007-03-19T19:54:00-04:00"><text>Received in the House.</text></action>
+		<action date="1174276800" datetime="2007-03-19"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1174276800" datetime="2007-03-19"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/19/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the contributions of American citizens of Hellenic heritage to the United States and commemorates the 85th Anniversary of the founding of the American Hellenic Educational Progressive Association.<br/>
+	</summary>
+</bill>

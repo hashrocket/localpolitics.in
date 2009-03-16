@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="1562" updated="2009-01-08T20:06:28-05:00">
+	<status><vote date="1175036220" datetime="2007-03-27T19:57:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1174276800" datetime="2007-03-19"/>
+	<titles>
+		<title type="short" as="introduced">Katrina Housing Tax Relief Act of 2007</title>
+		<title type="short" as="reported to house">Katrina Housing Tax Relief Act of 2007</title>
+		<title type="short" as="passed house">Katrina Housing Tax Relief Act of 2007</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend and expand certain rules with respect to housing in the GO Zones.</title>
+	</titles>
+	<sponsor id="400333"/>
+	<cosponsors>
+		<cosponsor id="400261" joined="2007-03-19"/>
+		<cosponsor id="400240" joined="2007-03-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1174276800" datetime="2007-03-19"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action date="1174449600" datetime="2007-03-21"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1174449600" datetime="2007-03-21" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1174673100" datetime="2007-03-23T15:05:00-04:00"><text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-66.</text></action>
+		<calendar number="37" date="1174673100" datetime="2007-03-23T15:05:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 37.</text></calendar>
+		<action date="1175034840" datetime="2007-03-27T19:34:00-04:00"><text>Mr. Rangel moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1175034900" datetime="2007-03-27T19:35:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3150-3153"/></action>
+		<action date="1175034900" datetime="2007-03-27T19:35:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1562.</text></action>
+		<vote date="1175036220" how="by voice vote" datetime="2007-03-27T19:57:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H3150"/></vote>
+		<action date="1175054400" datetime="2007-03-28"><text>Received in the Senate and Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/27/2007--Passed House amended. Katrina Housing Tax Relief Act of 2007 - Amends the Internal Revenue Code to: (1) qualify certain buildings in the Gulf Opportunity Zone, the Rita Go Zone, and the Wilma GO Zone (GO Zones) placed in service before 2011 for the housing tax credit without regard to certain otherwise applicable restrictions if such buildings receive (or received) a state or local housing credit allocation in 2006, 2007, or 2008; (2) extend through 2010 the treatment of such Go Zones as difficult development areas for purposes of the increased housing tax credit; (3) exclude certain assistance provided under the Housing and Community Development Act of 1974 (e.g., community development block grants), the Department of Defense Appropriations Act, 2006, or the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006, in determining whether Go Zone buildings eligible for the housing tax credit are federally subsidized and therefore subject to limitations on such tax credit; and (4) treat qualified GO Zone repair and reconstruction loans provided prior to January 1, 2011, as qualified rehabilitation loans for purposes of the tax exemption for exempt facility and mortgage bonds.<br/>Directs the Comptroller General to study and report to the House Ways and Means Committee and the Senate Finance Committee on state and local practices in allocating and utilizing tax incentives provided by this Act. Requires such committees to hold public hearings if the report includes findings of significant fraud, waste or abuse.<br/>Denies a pre-levy hearing to taxpayers upon whom the Secretary of the Treasury has served a disqualified employment tax levy. Defines a &quot;disqualified employment tax levy&quot; as any levy in connection with the collection of employment taxes if: (1) the person subject to the levy requested a hearing with respect to unpaid employment taxes arising in the most recent two-year period before the beginning of the taxable period with respect to which the levy is served; and (2) such levy is served before February 29, 2016.<br/>Amends the Tax Increase Prevention and Reconciliation Act of 2005 to increase from 106.25% to 106.45% the estimated tax rate in the third quarter of 2012 for corporations with assets of not less than $1 billion.<br/>
+	</summary>
+</bill>

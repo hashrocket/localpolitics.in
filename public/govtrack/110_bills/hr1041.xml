@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="1041" updated="2009-01-09T10:02:22-05:00">
+	<status><vote date="1205550300" datetime="2008-03-14T12:05:00-04:00" where="h" result="pass" how="roll" roll="144"/></status>
+
+	<introduced date="1205294400" datetime="2008-03-12"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the Senate amendment to the bill (H.R. 3773) to amend the Foreign Intelligence Surveillance Act of 1978 to establish a procedure for authorizing certain acquisitions of foreign intelligence, and for other purposes.</title>
+	</titles>
+	<sponsor id="412224"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1205357700" datetime="2008-03-12T18:35:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-549, by Mr. Arcuri.</text></action>
+		<action date="1205357700" datetime="2008-03-12T18:35:00-04:00"><text>The resolution waives all points of order against the motion except those arising under clause 10 of rule XXI. Upon the adoption of the resolution it shall be in order to move that the House agree to the Senate amendment to H.R. 3773 with an amendment.</text></action>
+		<calendar date="1205357700" datetime="2008-03-12T18:35:00-04:00" ><text>Placed on the House Calendar, Calendar No. 197.</text></calendar>
+		<action date="1205500620" datetime="2008-03-14T10:17:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H1707-1720"/></action>
+		<action date="1205500680" datetime="2008-03-14T10:18:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 1041.</text></action>
+		<action date="1205506080" datetime="2008-03-14T11:48:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 217 - 190 (Roll no. 143).</text><reference label="consideration" ref="CR H1718-1719"/></action>
+		<vote date="1205550300" how="roll" roll="144" datetime="2008-03-14T12:05:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 221 - 188 (Roll no. 144).</text><reference label="text" ref="CR H1707"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/14/2008--Passed House without amendment. Sets forth the rule for consideration of H.R. 3773 (Responsible Electronic Surveillance That is Overseen, Reviewed, and Effective Act of 2007 or RESTORE Act of 2007).<br/>
+	</summary>
+</bill>

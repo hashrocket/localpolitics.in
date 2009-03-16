@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="1037" updated="2009-03-07T11:50:43-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Pilot College Work Study Programs for Veterans Act of 2009</title>
+		<title type="official" as="introduced">To direct the Secretary of Veterans Affairs to conduct a five-year pilot project to test the feasibility and advisability of expanding the scope of certain qualifying work-study activities under title 38, United States Code.</title>
+	</titles>
+	<sponsor id="400443"/>
+	<cosponsors>
+		<cosponsor id="400162" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the Subcommittee on Economic Opportunity.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Pilot College Work Study Programs for Veterans Act of 2009 - Directs the Secretary of Veterans Affairs to conduct a five-year pilot project to test the feasibility and advisability of expanding the scope of qualifying veterans' work-study activities, including positions available on site at educational institutions.<br/>
+	</summary>
+</bill>

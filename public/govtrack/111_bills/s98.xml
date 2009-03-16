@@ -1,0 +1,41 @@
+<bill session="111" type="s" number="98" updated="2009-03-07T13:43:46-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Pregnant Women Health and Safety Act</title>
+		<title type="official" as="introduced">A bill to impose admitting privilege requirements with respect to physicians who perform abortions.</title>
+	</titles>
+	<sponsor id="400418"/>
+	<cosponsors>
+		<cosponsor id="400105" joined="2009-01-14"/>
+		<cosponsor id="400621" joined="2009-01-22"/>
+		<cosponsor id="300013" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Abortion"/>
+		<term name="Health facilities and institutions"/>
+		<term name="Health personnel"/>
+		<term name="Investigation, prosecution, interrogation methods"/>
+		<term name="Licensing and registrations"/>
+		<term name="Medicare"/>
+		<term name="State and local government operations"/>
+		<term name="Women's health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Pregnant Women Health and Safety Act - Subjects any physician who knowingly performs an abortion in violation of this Act to fines and/or imprisonment. Requires a physician who performs an abortion to: (1) have admitting privileges at a local hospital; and (2) notify the patient of the location of the hospital where the patient can receive follow-up care by the physician if complications arise. Provides for an exception for an abortion that is necessary to save the life of a mother whose life is endangered by a physical disorder, physical illness, or physical injury, including a life-endangering physical condition caused by or arising from the pregnancy itself. Prohibits a woman upon whom an abortion is performed from being prosecuted for conspiracy to violate this Act. Requires each abortion clinic that receives federal funds or assistance to: (1) be licensed by the state; and (2) be in compliance with the requirements for ambulatory surgery centers under title XVIII (Medicare) of the Social Security Act, except for the requirement of a certificate of public need. Allows a state board of health to waive the application of certain structural requirements for licensing purposes.<br/>
+	</summary>
+</bill>

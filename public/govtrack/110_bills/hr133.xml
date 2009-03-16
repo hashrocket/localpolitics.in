@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="133" updated="2009-01-09T08:10:19-05:00">
+	<status><vote date="1170948120" datetime="2007-02-08T11:22:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1170824400" datetime="2007-02-07"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 547) to facilitate the development of markets for alternative fuels and Ultra Low Sulfur Diesel fuel through research, development, and demonstration and data collection.</title>
+	</titles>
+	<sponsor id="412239"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1170879000" datetime="2007-02-07T16:10:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-9, by Mr. Welch (VT).</text></action>
+		<action date="1170879000" datetime="2007-02-07T16:10:00-05:00"><text>All points of order against consideration of the bill are waived except those arising under clause 9 or 10 or rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Science and Technology now printed in the bill.</text></action>
+		<calendar date="1170879060" datetime="2007-02-07T16:11:00-05:00" ><text>Placed on the House Calendar, Calendar No. 7.</text></calendar>
+		<action date="1170944640" datetime="2007-02-08T10:24:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H1350-1356"/></action>
+		<action date="1170944700" datetime="2007-02-08T10:25:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 133.</text></action>
+		<action date="1170948120" datetime="2007-02-08T11:22:00-05:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H1356"/></action>
+		<vote date="1170948120" how="by voice vote" datetime="2007-02-08T11:22:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H1350"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/8/2007--Passed House without amendment. Sets forth the rule for consideration of H.R. 547 (Advanced Fuels Infrastructure Research and Development Act). 
+	</summary>
+</bill>

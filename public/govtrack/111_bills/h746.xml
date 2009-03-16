@@ -1,0 +1,50 @@
+<bill session="111" type="h" number="746" updated="2009-03-07T11:15:38-05:00">
+	<status><introduced date="1233118800" datetime="2009-01-28"/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="short" as="introduced">Safeguarding America's Seniors and Veterans Act of 2009</title>
+		<title type="official" as="introduced">To provide for economic recovery payments to recipients of Social Security, railroad retirement, and veterans disability benefits.</title>
+	</titles>
+	<sponsor id="412264"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2009-02-04"/>
+		<cosponsor id="400133" joined="2009-03-06"/>
+		<cosponsor id="412258" joined="2009-02-04"/>
+		<cosponsor id="412209" joined="2009-02-10"/>
+		<cosponsor id="412240" joined="2009-02-04"/>
+		<cosponsor id="412301" joined="2009-02-10"/>
+		<cosponsor id="400312" joined="2009-02-10"/>
+		<cosponsor id="412188" joined="2009-02-04"/>
+		<cosponsor id="412288" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to House Ways and Means</text></action>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to House Veterans' Affairs</text></action>
+		<action date="1233118800" datetime="2009-01-28"><committee name="House Veterans' Affairs"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Disability and paralysis"/>
+		<term name="Employee benefits and pensions"/>
+		<term name="Income tax credits"/>
+		<term name="Income tax exclusion"/>
+		<term name="Social security and elderly assistance"/>
+		<term name="Veterans' pensions and compensation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/2009--Introduced.<br/>Safeguarding America's Seniors and Veterans Act of 2009 - Directs the Secretary of the Treasury to make a one-time payment of $500 to each eligible individual age 18 or over who, during the three-month period immediately preceding enactment of this Act, was entitled to Social Security benefits, railroad retirement benefits, or veterans disability benefits.<br/>
+	</summary>
+</bill>

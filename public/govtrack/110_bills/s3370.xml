@@ -1,0 +1,49 @@
+<bill session="110" type="s" number="3370" updated="2009-01-09T18:55:31-05:00">
+	<status><enacted date="1217822400" datetime="2008-08-04" /></status>
+
+	<introduced date="1217476800" datetime="2008-07-31"/>
+	<titles>
+		<title type="short" as="introduced">Libyan Claims Resolution Act</title>
+		<title type="short" as="passed house">Libyan Claims Resolution Act</title>
+		<title type="short" as="passed senate">Libyan Claims Resolution Act</title>
+		<title type="short" as="enacted">Libyan Claims Resolution Act</title>
+		<title type="official" as="introduced">A bill to resolve pending claims against Libya by United States nationals, and for other purposes.</title>
+	</titles>
+	<sponsor id="300008"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2008-07-31"/>
+		<cosponsor id="300070" joined="2008-07-31"/>
+		<cosponsor id="300098" joined="2008-07-31"/>
+		<cosponsor id="300066" joined="2008-07-31"/>
+		<cosponsor id="300099" joined="2008-07-31"/>
+		<cosponsor id="300064" joined="2008-07-31"/>
+	</cosponsors>
+	<actions>
+		<vote date="1217476800" how="by Unanimous Consent" datetime="2008-07-31" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S7979-7981"/><reference label="text as passed Senate" ref="CR S7980-7981"/></vote>
+		<action date="1217562300" datetime="2008-07-31T12:45:00-04:00"><text>Received in the House.</text></action>
+		<action date="1217476800" datetime="2008-07-31"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1217562900" datetime="2008-07-31T12:55:00-04:00"><text>Held at the desk.</text></action>
+		<action date="1217544360" datetime="2008-07-31T19:46:00-04:00"><text>Mr. Conyers asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action date="1217544360" datetime="2008-07-31T19:46:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR S7705-7706"/></action>
+		<vote date="1217544360" how="without objection" datetime="2008-07-31T19:46:00-04:00" where="h" type="vote2" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H7705-7706"/></vote>
+		<topresident date="1217476800" datetime="2008-07-31" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1217563200" datetime="2008-08-01" ><text>Presented to President.</text></topresident>
+		<signed date="1217822400" datetime="2008-08-04" ><text>Signed by President.</text></signed>
+		<enacted number="110-301" date="1217822400" datetime="2008-08-04" type="public" ><text>Became Public Law No: 110-301.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/31/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Libyan Claims Resolution Act - States that Congress supports the President's efforts to provide fair compensation to all U.S. nationals who have terrorism-related claims against Libya as part of the process of restoring normal U.S.-Libya relations. Defines &quot;claims agreement&quot; as a binding international agreement between the United States and Libya that provides for the settlement of terrorism-related claims of U.S. nationals against Libya through fair compensation Authorizes the Secretary of State, after consultation with the appropriate congressional committees, to designate one or more entities to assist in providing compensation to U.S. nationals pursuant to a claims agreement. States that: (1) upon such designation property that relates to the claims agreement and that is held by or transferred to or from a designated entity shall be immune from attachment or any other judicial process; (2) such entity and any person acting through or on its behalf shall not be liable in any federal or state court for any action taken to implement a claims agreement; and (3) such entity shall not be subject to the Government Corporation Control Act. Exempts Libya (and related instrumentalities and individuals) from specified property liens and attachments, limitations on foreign jurisdictional immunity, and private rights of action if the Secretary certifies to the appropriate congressional committees that the U.S. government has received sufficient funds pursuant to the claims agreement to ensure: (1) payment of specified settlements to the Pan Am 103 victims’ families, the LaBelle Disco bombing victims, and other relevant terrorism cases; and (2) fair compensation of specified claims by U.S. nationals against Libya for wrongful death or physical injury in cases pending on the date of enactment of this Act. (Applies such provisions only to conduct or events occurring before June 30, 2006.) States that the designation and certification authorities under this Act: (1) are within the Secretary's sole discretion and may not be delegated; and (2) are not subject to judicial review. 
+	</summary>
+</bill>

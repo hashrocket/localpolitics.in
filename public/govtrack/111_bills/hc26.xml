@@ -1,0 +1,35 @@
+<bill session="111" type="hc" number="26" updated="2009-03-07T09:28:02-05:00">
+	<status><vote2 date="1233118800" datetime="2009-01-28" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1233032400" datetime="2009-01-27"/>
+	<titles>
+		<title type="official" as="introduced">Providing for an adjournment of the House.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233078840" datetime="2009-01-27T13:54:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H543"/></action>
+		<vote date="1233078900" how="without objection" datetime="2009-01-27T13:55:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text" ref="CR H543"/></vote>
+		<action date="1233032400" datetime="2009-01-27"><text>Received in the Senate.</text></action>
+		<vote date="1233118800" how="by Unanimous Consent" datetime="2009-01-28" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S1004-1005"/></vote>
+		<action date="1233118800" datetime="2009-01-28"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional operations and organization"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/2009--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Declares that, when the House adjourns: (1) on Wednesday, January 28, 2009, it stand adjourned until 2 p.m. on Monday, February 2, 2009; and (2) on Wednesday, February 4, 2009, it stand adjourned until 2 p.m. on Monday, February 9, 2009.<br/>
+	</summary>
+</bill>

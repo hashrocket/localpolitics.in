@@ -1,0 +1,43 @@
+<bill session="111" type="s" number="306" updated="2009-03-07T14:10:10-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">Biogas Production Incentive Act of 2009</title>
+		<title type="official" as="introduced">A bill to promote biogas production, and for other purposes.</title>
+	</titles>
+	<sponsor id="300077"/>
+	<cosponsors>
+		<cosponsor id="412320" joined="2009-01-22"/>
+		<cosponsor id="400050" joined="2009-01-22"/>
+		<cosponsor id="300030" joined="2009-01-22"/>
+		<cosponsor id="300093" joined="2009-01-22"/>
+		<cosponsor id="300058" joined="2009-01-28"/>
+		<cosponsor id="400546" joined="2009-01-22"/>
+		<cosponsor id="300023" joined="2009-01-28"/>
+		<cosponsor id="300100" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="907" />
+		<bill relation="unknown" session="111" type="h" number="1158" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Alternative and renewable resources"/>
+		<term name="Energy"/>
+		<term name="Income tax credits"/>
+		<term name="Public-private cooperation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2009--Introduced.<br/>Biogas Production Incentive Act of 2009 - Amends the Internal Revenue Code to allow a business tax credit for the production, sale, or use of biogas. Defines &quot;biogas&quot; as a gas that is derived by processing qualified energy feedstock (i.e., manure of agricultural livestock and other organic agricultural or food industry byproduct waste material) in an anaerobic digester and that contains at least 50% methane. Allows such credit to offset alternative minimum tax (AMT) liability.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="110" type="sr" number="116" updated="2009-01-09T20:12:56-05:00">
+	<status><vote date="1177992000" datetime="2007-05-01" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1174449600" datetime="2007-03-21"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating May 2007 as &quot;National Autoimmune Diseases Awareness Month&quot; and supporting efforts to increase awareness of autoimmune diseases and increase funding for autoimmune disease research.</title>
+	</titles>
+	<sponsor id="300008"/>
+	<cosponsors>
+		<cosponsor id="400050" joined="2007-05-17"/>
+	</cosponsors>
+	<actions>
+		<action date="1174449600" datetime="2007-03-21"><text>Sponsor introductory remarks on measure. (CR S3533-3534)</text></action>
+		<action date="1174449600" datetime="2007-03-21"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S3533"/></action>
+		<calendar date="1177473600" datetime="2007-04-25" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1177473600" datetime="2007-04-25"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="121" date="1177473600" datetime="2007-04-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 121.</text></calendar>
+		<vote date="1177992000" how="by Unanimous Consent" datetime="2007-05-01" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S5436"/><reference label="text as passed Senate" ref="CR S5436"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/1/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates May 2007 as National Autoimmune Diseases Awareness Month. Expresses support for: (1) efforts to increase awareness of the causes of, and treatments for, autoimmune diseases; and (2) increasing federal funding for research to learn the root causes of, and the best diagnostic methods and treatments for, such diseases.<br/>
+	</summary>
+</bill>

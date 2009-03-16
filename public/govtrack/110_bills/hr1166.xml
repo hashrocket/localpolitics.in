@@ -1,0 +1,74 @@
+<bill session="110" type="hr" number="1166" updated="2009-01-09T10:19:19-05:00">
+	<status><vote date="1210171500" datetime="2008-05-07T11:45:00-04:00" where="h" result="pass" how="roll" roll="269"/></status>
+
+	<introduced date="1209441600" datetime="2008-04-29"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives regarding provocative and dangerous statements and actions taken by the Government of the Russian Federation that undermine the territorial integrity of the Republic of Georgia.</title>
+	</titles>
+	<sponsor id="400430"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2008-04-30"/>
+		<cosponsor id="400199" joined="2008-05-01"/>
+		<cosponsor id="400263" joined="2008-05-01"/>
+		<cosponsor id="400380" joined="2008-04-30"/>
+		<cosponsor id="400122" joined="2008-04-29"/>
+		<cosponsor id="400170" joined="2008-04-29"/>
+		<cosponsor id="400647" joined="2008-04-29"/>
+		<cosponsor id="400344" joined="2008-04-29"/>
+		<cosponsor id="400268" joined="2008-04-29"/>
+		<cosponsor id="400003" joined="2008-04-29"/>
+		<cosponsor id="400260" joined="2008-04-29"/>
+		<cosponsor id="400071" joined="2008-04-29"/>
+		<cosponsor id="409888" joined="2008-04-29"/>
+		<cosponsor id="400662" joined="2008-04-29"/>
+		<cosponsor id="400396" joined="2008-04-29"/>
+		<cosponsor id="400355" joined="2008-04-30"/>
+		<cosponsor id="400373" joined="2008-04-29"/>
+		<cosponsor id="412198" joined="2008-04-30"/>
+		<cosponsor id="400008" joined="2008-04-29"/>
+		<cosponsor id="400087" joined="2008-04-29"/>
+		<cosponsor id="400115" joined="2008-04-29"/>
+		<cosponsor id="400346" joined="2008-04-29"/>
+		<cosponsor id="400178" joined="2008-04-29"/>
+		<cosponsor id="412232" joined="2008-04-29"/>
+		<cosponsor id="400107" joined="2008-04-30"/>
+		<cosponsor id="400638" joined="2008-04-30"/>
+		<cosponsor id="412186" joined="2008-04-29"/>
+		<cosponsor id="400093" joined="2008-04-29"/>
+		<cosponsor id="400326" joined="2008-04-29"/>
+		<cosponsor id="400047" joined="2008-04-29"/>
+		<cosponsor id="400218" joined="2008-04-29"/>
+		<cosponsor id="400024" joined="2008-04-30"/>
+		<cosponsor id="400025" joined="2008-04-29"/>
+		<cosponsor id="400639" joined="2008-04-30"/>
+	</cosponsors>
+	<actions>
+		<action date="1209441600" datetime="2008-04-29"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1209528000" datetime="2008-04-30"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1209528000" datetime="2008-04-30" ><text>Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.</text></calendar>
+		<action date="1210008900" datetime="2008-05-05T14:35:00-04:00"><text>Ms. Watson moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1210008960" datetime="2008-05-05T14:36:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3028-3031"/></action>
+		<action date="1210008960" datetime="2008-05-05T14:36:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1166.</text></action>
+		<action date="1210009860" datetime="2008-05-05T14:51:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lewis (CA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1210170780" datetime="2008-05-07T11:33:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3117-3118"/></action>
+		<vote date="1210171500" how="roll" roll="269" datetime="2008-05-07T11:45:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 390 - 23, 2 Present (Roll no. 269). (text: CR 5/5/2008 H3028-3029)</text></vote>
+		<action date="1210171500" datetime="2008-05-07T11:45:00-04:00"><text>Mr. Rehberg moved to reconsider the vote.</text></action>
+		<action date="1210171500" datetime="2008-05-07T11:45:00-04:00"><text>Ms. Castor moved to table the motion to reconsider the vote</text><reference label="consideration" ref="CR H3118"/></action>
+		<action date="1210172100" datetime="2008-05-07T11:55:00-04:00"><text>On motion to table the motion to reconsider the vote Agreed to by recorded vote: 218 - 191 (Roll no. 270).</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/7/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Condemns recent decisions by the government of the Russian Federation to establish official ties with the regions of Abkhazia and South Ossetia, a process that impedes reconciliation between those regions and the government of the Republic of Georgia and that violates Georgia's sovereignty and Russia's commitments to international peacekeeping. Calls upon the government of the Russian Federation to revoke its decision to establish official ties with the regions of Abkhazia and South Ossetia. Encourages Russia to work with Georgia, the peoples of Abkhazia and South Ossetia, and the international community to find a peaceful solution to the conflict. Calls on U.N. Secretary-General Ban Ki-moon to investigate the April 2008 downing of an unarmed Georgian reconnaissance aircraft. Supports the declaration of the North Atlantic Treaty Organization's (NATO) Bucharest Summit stating that Georgia will become a NATO member. 
+	</summary>
+</bill>

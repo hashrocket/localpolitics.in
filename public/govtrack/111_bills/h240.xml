@@ -1,0 +1,67 @@
+<bill session="111" type="h" number="240" updated="2009-03-07T10:16:03-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Individual AMT Repeal Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the alternative minimum tax on individuals.</title>
+	</titles>
+	<sponsor id="400145"/>
+	<cosponsors>
+		<cosponsor id="400224" joined="2009-01-14"/>
+		<cosponsor id="400279" joined="2009-01-09"/>
+		<cosponsor id="400061" joined="2009-01-09"/>
+		<cosponsor id="400017" joined="2009-01-14"/>
+		<cosponsor id="400038" joined="2009-01-14"/>
+		<cosponsor id="400367" joined="2009-01-09"/>
+		<cosponsor id="400311" joined="2009-01-14"/>
+		<cosponsor id="412280" joined="2009-01-14"/>
+		<cosponsor id="400158" joined="2009-01-09"/>
+		<cosponsor id="412216" joined="2009-01-09"/>
+		<cosponsor id="400376" joined="2009-01-09"/>
+		<cosponsor id="400330" joined="2009-01-14"/>
+		<cosponsor id="400400" joined="2009-01-27"/>
+		<cosponsor id="400320" joined="2009-01-14"/>
+		<cosponsor id="412302" joined="2009-01-27"/>
+		<cosponsor id="400151" joined="2009-01-14"/>
+		<cosponsor id="400385" joined="2009-01-27"/>
+		<cosponsor id="400644" joined="2009-01-14"/>
+		<cosponsor id="412230" joined="2009-01-14"/>
+		<cosponsor id="412275" joined="2009-01-14"/>
+		<cosponsor id="400005" joined="2009-01-14"/>
+		<cosponsor id="400077" joined="2009-01-14"/>
+		<cosponsor id="400315" joined="2009-01-14"/>
+		<cosponsor id="400651" joined="2009-01-14"/>
+		<cosponsor id="400182" joined="2009-01-14"/>
+		<cosponsor id="400431" joined="2009-01-22"/>
+		<cosponsor id="400433" joined="2009-01-09"/>
+		<cosponsor id="400288" joined="2009-01-22"/>
+		<cosponsor id="400055" joined="2009-01-09"/>
+		<cosponsor id="412261" joined="2009-01-14"/>
+		<cosponsor id="412295" joined="2009-01-09"/>
+		<cosponsor id="412226" joined="2009-01-14"/>
+		<cosponsor id="400321" joined="2009-01-14"/>
+		<cosponsor id="412191" joined="2009-01-14"/>
+		<cosponsor id="400252" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax rates"/>
+		<term name="Tax administration and collection, taxpayers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Individual AMT Repeal Act of 2009 - Amends the Internal Revenue Code to eliminate the alternative minimum tax on individual taxpayers for taxable years beginning after 2008.<br/>
+	</summary>
+</bill>

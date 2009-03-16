@@ -1,0 +1,34 @@
+<bill session="110" type="sc" number="42" updated="2009-01-09T19:45:23-05:00">
+	<status><vote date="1185249600" datetime="2007-07-24" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1185249600" datetime="2007-07-24"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution recognizing the need to pursue research into the causes, treatment, and eventual cure for idiopathic pulmonary fibrosis, supporting the designation of a National Idiopathic Pulmonary Fibrosis Awareness Week, and for other purposes.</title>
+	</titles>
+	<sponsor id="300024"/>
+	<cosponsors>
+		<cosponsor id="300038" joined="2007-07-24"/>
+	</cosponsors>
+	<actions>
+		<vote date="1185249600" how="by Unanimous Consent" datetime="2007-07-24" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S9853-9854; text as passed Senate: CR S9853-9854; text of measure as introduced: S9839)</text></vote>
+		<action date="1185368460" datetime="2007-07-25T10:01:00-04:00"><text>Received in the House.</text></action>
+		<action date="1185336000" datetime="2007-07-25"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1185336000" datetime="2007-07-25"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1185336000" datetime="2007-07-25"><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/24/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Recognizes the need to pursue research into the causes, treatment, and eventual cure for idiopathic pulmonary fibrosis.<br/>Expresses support for: (1) the work of advocates and organizations in educating, supporting, and providing hope for individuals who suffer from the disease; and (2) designation of National Idiopathic Pulmonary Fibrosis Awareness Week.<br/>Congratulates advocates and organizations for their efforts to educate the public about the disease.<br/>
+	</summary>
+</bill>

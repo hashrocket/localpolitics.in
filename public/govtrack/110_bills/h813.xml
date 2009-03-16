@@ -1,0 +1,48 @@
+<bill session="110" type="h" number="813" updated="2009-01-08T18:31:07-05:00">
+	<status><vote date="1193078640" datetime="2007-10-22T15:44:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1170651600" datetime="2007-02-05"/>
+	<titles>
+		<title type="short" as="introduced">Santa Ana River Water Supply Enhancement Act of 2007</title>
+		<title type="short" as="passed house">Santa Ana River Water Supply Enhancement Act of 2007</title>
+		<title type="short" as="reported to senate">Santa Ana River Water Supply Enhancement Act of 2008</title>
+		<title type="official" as="introduced">To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior to participate in the Prado Basin Natural Treatment System Project, to authorize the Secretary to carry out a program to assist agencies in projects to construct regional brine lines in California, to authorize the Secretary to participate in the Lower Chino Dairy Area desalination demonstration and reclamation project, and for other purposes.</title>
+	</titles>
+	<sponsor id="400277"/>
+	<cosponsors>
+		<cosponsor id="400348" joined="2007-02-14"/>
+		<cosponsor id="400356" joined="2007-02-14"/>
+		<cosponsor id="400057" joined="2007-02-14"/>
+		<cosponsor id="400343" joined="2007-02-14"/>
+		<cosponsor id="400115" joined="2007-02-14"/>
+		<cosponsor id="412011" joined="2007-03-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1170651600" datetime="2007-02-05"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1170824400" datetime="2007-02-07"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1193078460" datetime="2007-10-22T15:41:00-04:00"><text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1193078460" datetime="2007-10-22T15:41:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11803-11804"/></action>
+		<action date="1193078460" datetime="2007-10-22T15:41:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 813.</text></action>
+		<vote date="1193078640" how="by voice vote" datetime="2007-10-22T15:44:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H11803"/></vote>
+		<action date="1193112000" datetime="2007-10-23"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1207627200" datetime="2008-04-08"><text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held.</text></action>
+		<calendar date="1221105600" datetime="2008-09-11" ><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1221537600" datetime="2008-09-16"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="1011" date="1221537600" datetime="2008-09-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1011.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/16/2008--Reported to Senate amended. Santa Ana River Water Supply Enhancement Act of 2008 - Amends the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior, in cooperation with: (1) the Orange County Water District (the District), to participate in the design, planning, and construction of natural treatment systems and wetlands for the flows of the Santa Ana River, California, and its tributaries into the Prado Basin; and (2) the Chino Basin Watermaster, the Inland Empire Utilities Agency, and the Santa Ana Watershed Project Authority, to participate in the design, planning, and construction of the Lower Chino Dairy Area desalination demonstration and reclamation project. Limits the federal share of total project costs. Prohibits using funds provided by the Secretary for operation and maintenance of the projects. Authorizes appropriations. Terminates the Secretary's authority to carry out this Act after 10 years.<br/>
+	</summary>
+</bill>

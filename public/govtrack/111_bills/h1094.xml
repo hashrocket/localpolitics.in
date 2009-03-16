@@ -1,0 +1,34 @@
+<bill session="111" type="h" number="1094" updated="2009-03-07T11:57:21-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Home Health Flexibility Act of 2009</title>
+		<title type="official" as="introduced">To ensure that home health agencies can assign the most appropriate skilled service to make the initial assessment visit for home health services for Medicare beneficiaries requiring rehabilitation therapy under a home health plan of care, based upon physician referral.</title>
+	</titles>
+	<sponsor id="400240"/>
+	<cosponsors>
+		<cosponsor id="400107" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to House Ways and Means</text></action>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to House Energy and Commerce</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2009--Introduced.<br/>Medicare Home Health Flexibility Act of 2009 - Permits a home health agency to determine the most appropriate skilled service to make the initial assessment visit for an individual who: (1) is eligible for home health services under title XVIII (Medicare) of the Social Security Act; but (2) does not require skilled nursing care as long as that skilled service is included as part of the plan of care for such services. Permits an occupational therapist to make the initial assessment visit in such a case if occupational therapy is included in such plan in the initial physician referral in conjunction with physical therapy or speech language pathology services. 
+	</summary>
+</bill>

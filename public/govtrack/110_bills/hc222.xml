@@ -1,0 +1,48 @@
+<bill session="110" type="hc" number="222" updated="2009-01-08T15:55:04-05:00">
+	<status><vote2 date="1192680000" datetime="2007-10-18" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1191297600" datetime="2007-10-02"/>
+	<titles>
+		<title type="official" as="introduced">Commending NASA Langley Research Center in Virginia on the celebration of its 90th anniversary on October 26 and 27, 2007.</title>
+	</titles>
+	<sponsor id="400095"/>
+	<cosponsors>
+		<cosponsor id="400154" joined="2007-10-02"/>
+		<cosponsor id="400098" joined="2007-10-02"/>
+		<cosponsor id="400060" joined="2007-10-02"/>
+		<cosponsor id="400043" joined="2007-10-02"/>
+		<cosponsor id="400364" joined="2007-10-02"/>
+		<cosponsor id="400283" joined="2007-10-02"/>
+		<cosponsor id="400137" joined="2007-10-02"/>
+		<cosponsor id="400658" joined="2007-10-02"/>
+		<cosponsor id="400435" joined="2007-10-02"/>
+		<cosponsor id="400153" joined="2007-10-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1191297600" datetime="2007-10-02"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1192572900" datetime="2007-10-16T19:15:00-04:00"><text>Mr. Lampson moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1192572960" datetime="2007-10-16T19:16:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11616-11619"/></action>
+		<action date="1192572960" datetime="2007-10-16T19:16:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 222.</text></action>
+		<action date="1192573500" datetime="2007-10-16T19:25:00-04:00"><text>DEBATE - The House proceeded with further debate on H. Con. Res. 222.</text></action>
+		<action date="1192574040" datetime="2007-10-16T19:34:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1192646280" datetime="2007-10-17T15:38:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H11670-11671"/></action>
+		<vote date="1192646880" how="roll" roll="978" datetime="2007-10-17T15:48:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 978). (text: CR 10/16/2007 H11616)</text></vote>
+		<vote date="1192680000" how="by Unanimous Consent" datetime="2007-10-18" where="s" type="vote2" result="pass" ><text>Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S13133"/></vote>
+		<action date="1192766400" datetime="2007-10-19"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/18/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Congratulates and commends the men and women of NASA Langley Research Center for their accomplishments and role in inspiring the American people. 
+	</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="110" type="h" number="3571" updated="2009-01-09T00:22:03-05:00">
+	<status><enacted date="1198645200" datetime="2007-12-26" /></status>
+
+	<introduced date="1190088000" datetime="2007-09-18"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Congressional Accountability Act of 1995 to permit individuals who have served as employees of the Office of Compliance to serve as Executive Director, Deputy Executive Director, or General Counsel of the Office, and to permit individuals appointed to such positions to serve one additional term.</title>
+	</titles>
+	<sponsor id="400047"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1190088000" datetime="2007-09-18"><text>Referred to the House Committee on House Administration.</text></action>
+		<action date="1191341700" datetime="2007-10-02T13:15:00-04:00"><text>Mr. Brady (PA) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1191341700" datetime="2007-10-02T13:15:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11107-11108"/></action>
+		<action date="1191341700" datetime="2007-10-02T13:15:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3571.</text></action>
+		<vote date="1191341940" how="by voice vote" datetime="2007-10-02T13:19:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H11107"/></vote>
+		<action date="1191384000" datetime="2007-10-03"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<calendar date="1195016400" datetime="2007-11-14" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1197954000" datetime="2007-12-18"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="547" date="1197954000" datetime="2007-12-18" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 547.</text></calendar>
+		<vote date="1198040400" how="by Unanimous Consent" datetime="2007-12-19" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S16055"/></vote>
+		<topresident date="1198040400" datetime="2007-12-19" ><text>Cleared for White House.</text></topresident>
+		<action date="1198126800" datetime="2007-12-20"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1198126800" datetime="2007-12-20" ><text>Presented to President.</text></topresident>
+		<signed date="1198645200" datetime="2007-12-26" ><text>Signed by President.</text></signed>
+		<enacted number="110-164" date="1198645200" datetime="2007-12-26" type="public" ><text>Became Public Law No: 110-164.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/26/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends the Congressional Accountability Act of 1995 with respect to the prohibition against any member of the Board of Directors of the Office of Compliance (OC) having held a position as a Member, officer, or employee of the House of Representatives or the Senate, or of certain other legislative branch instrumentalities or entities, within four years of the date of appointment to the OC Board. (The Act also applies such disqualifications to the OC positions of Executive Director, Deputy Executive Director, and General Counsel.) Exempts OC officers or employees from such prohibition (thus allowing a current or former OC officer or employee to be appointed to serve as a Board member, Executive Director, Deputy Executive Director, or General Counsel of the Office). Permits an individual appointed, after the enactment of this Act, as Executive Director, Deputy Executive Director, or General Counsel of the Office to serve two terms.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="111" type="h" number="949" updated="2009-03-07T11:39:55-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to improve the collective bargaining rights and procedures for review of adverse actions of certain employees of the Department of Veterans Affairs, and for other purposes.</title>
+	</titles>
+	<sponsor id="400133"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Introduced.<br/>Repeals specified exceptions to rights of certain Department of Veterans Affairs (VA) employees to engage in collective bargaining. Requires a final decision of the (VA) with respect to the review of an adverse personnel action against a (VA) employee to be issued not later than 60 days after such action has been appealed. Subjects such decision to judicial review in the appropriate U.S. District Court or, if the decision is made by a labor arbitrator, in the U.S. Court of Appeals for the Federal Circuit.<br/>
+	</summary>
+</bill>

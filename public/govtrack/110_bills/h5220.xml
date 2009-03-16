@@ -1,0 +1,50 @@
+<bill session="110" type="h" number="5220" updated="2009-01-09T03:44:51-05:00">
+	<status><enacted date="1210132800" datetime="2008-05-07" /></status>
+
+	<introduced date="1201582800" datetime="2008-01-29"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 3800 SW. 185th Avenue in Beaverton, Oregon, as the &quot;Major Arthur Chin Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400437"/>
+	<cosponsors>
+		<cosponsor id="400419" joined="2008-01-29"/>
+		<cosponsor id="400033" joined="2008-01-29"/>
+		<cosponsor id="400100" joined="2008-01-29"/>
+		<cosponsor id="400186" joined="2008-01-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1201582800" datetime="2008-01-29"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1204002000" datetime="2008-02-26"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1204002000" datetime="2008-02-26" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1204779360" datetime="2008-03-05T12:56:00-05:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1204779360" datetime="2008-03-05T12:56:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1246-1247"/></action>
+		<action date="1204779360" datetime="2008-03-05T12:56:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5220.</text></action>
+		<vote date="1204736640" how="by voice vote" datetime="2008-03-05T13:04:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H1246"/></vote>
+		<action date="1204779600" datetime="2008-03-06"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1206676800" datetime="2008-03-28"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+		<calendar date="1207800000" datetime="2008-04-10" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1207800000" datetime="2008-04-10"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="694" date="1207800000" datetime="2008-04-10" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 694.</text></calendar>
+		<vote date="1208836800" how="by Unanimous Consent" datetime="2008-04-22" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S3269-3270"/></vote>
+		<topresident date="1208836800" datetime="2008-04-22" ><text>Cleared for White House.</text></topresident>
+		<action date="1208923200" datetime="2008-04-23"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1209614400" datetime="2008-05-01" ><text>Presented to President.</text></topresident>
+		<signed date="1210132800" datetime="2008-05-07" ><text>Signed by President.</text></signed>
+		<enacted number="110-223" date="1210132800" datetime="2008-05-07" type="public" ><text>Became Public Law No: 110-223.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/7/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 3800 SW. 185th Avenue in Beaverton, Oregon, as the &quot;Major Arthur Chin Post Office Building.&quot; 
+	</summary>
+</bill>

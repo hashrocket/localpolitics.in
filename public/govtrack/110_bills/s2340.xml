@@ -1,0 +1,38 @@
+<bill session="110" type="s" number="2340" updated="2009-01-09T16:43:58-05:00">
+	<status><calendar date="1195016400" datetime="2007-11-14" /></status>
+
+	<introduced date="1194930000" datetime="2007-11-13"/>
+	<titles>
+		<title type="short" as="introduced">Emergency Supplemental Appropriations Act for Defense, 2008</title>
+		<title type="official" as="introduced">A bill making emergency supplemental appropriations for the Department of Defense for the fiscal year ending September 30, 2008, and for other purposes.</title>
+	</titles>
+	<sponsor id="300072"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="2007-11-13"/>
+		<cosponsor id="300023" joined="2007-11-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1194930000" datetime="2007-11-13"><text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text><reference label="text of measure as introduced" ref="CR S14295-14298"/></action>
+		<calendar date="1195016400" datetime="2007-11-14" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 484.</text></calendar>
+		<action date="1195102800" datetime="2007-11-15"><text>Motion to proceed to consideration of measure made in Senate.</text><reference label="consideration" ref="CR S14445"/></action>
+		<action date="1195102800" datetime="2007-11-15"><text>Cloture motion on the motion to proceed presented in Senate.</text><reference label="consideration" ref="CR S14445"/><reference label="text" ref="CR S14445"/></action>
+		<action date="1195102800" datetime="2007-11-15"><text>Motion to proceed to consideration of measure withdrawn in Senate.</text></action>
+		<action date="1195189200" datetime="2007-11-16"><text>Motion to proceed to measure considered in Senate.</text><reference label="consideration" ref="CR S14578-14591"/></action>
+		<vote-aux date="1195189200" how="roll" roll="410" datetime="2007-11-16" where="s" type="cloture" result="fail" ><text>Cloture on the motion to proceed not invoked in Senate by Yea-Nay Vote. 45 - 53. Record Vote Number: 410.</text><reference label="consideration" ref="CR S14590-14591"/><reference label="text" ref="CR S14590-14591"/></vote-aux>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/13/2007--Introduced.<br/>Emergency Supplemental Appropriations Act for Defense, 2008 - Makes emergency supplemental appropriations for the Department of Defense (DOD) for FY2008 for: (1) military personnel; (2) operation and maintenance; (3) the Iraq Freedom Fund; (4) the Afghanistan Security Forces Fund; (5) the Iraq Security Forces Fund; (6) the Joint Improvised Explosive Device Defeat Fund; (7) procurement; (8) Defense Working Capital Funds; (9) the Defense Health Program; and (10) defense drug interdiction and counter-drug activities. Specifies authorized, restricted, and prohibited uses of funds appropriated in this Act. Makes funds available to fund the Commander's Emergency Response (urgent humanitarian relief and reconstruction assistance in Iraq and Afghanistan). Directs the Secretary of Defense to report to Congress a comprehensive set of performance indicators and measures for progress toward military and political stability in Iraq.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,57 @@
+<bill session="111" type="h" number="216" updated="2009-03-07T10:13:11-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Government Credit Card Abuse Prevention Act of 2009</title>
+		<title type="official" as="introduced">To prevent abuse of Government credit cards.</title>
+	</titles>
+	<sponsor id="400433"/>
+	<cosponsors>
+		<cosponsor id="400086" joined="2009-01-22"/>
+		<cosponsor id="400017" joined="2009-01-22"/>
+		<cosponsor id="400311" joined="2009-01-22"/>
+		<cosponsor id="400177" joined="2009-02-10"/>
+		<cosponsor id="412280" joined="2009-02-12"/>
+		<cosponsor id="400399" joined="2009-01-22"/>
+		<cosponsor id="400645" joined="2009-02-13"/>
+		<cosponsor id="400643" joined="2009-01-22"/>
+		<cosponsor id="400040" joined="2009-01-22"/>
+		<cosponsor id="400182" joined="2009-01-28"/>
+		<cosponsor id="400288" joined="2009-01-22"/>
+		<cosponsor id="400055" joined="2009-01-22"/>
+		<cosponsor id="412206" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Armed Services</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Accounting and auditing"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Consumer credit"/>
+		<term name="Defense spending"/>
+		<term name="Department of Defense"/>
+		<term name="Fraud offenses"/>
+		<term name="General Services Administration"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Government ethics and transparency, public corruption"/>
+		<term name="Government investigations"/>
+		<term name="Travel and tourism"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

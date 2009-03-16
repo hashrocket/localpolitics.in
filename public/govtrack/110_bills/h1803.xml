@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="1803" updated="2009-01-08T20:36:48-05:00">
+	<status><vote date="1193078880" datetime="2007-10-22T15:48:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1175140800" datetime="2007-03-29"/>
+	<titles>
+		<title type="short" as="introduced">San Diego Water Storage and Efficiency Act of 2007</title>
+		<title type="short" as="passed house">San Diego Water Storage and Efficiency Act of 2007</title>
+		<title type="short" as="reported to senate">San Diego Water Storage and Efficiency Act of 2007</title>
+		<title type="official" as="introduced">To direct the Secretary of the Interior to conduct a feasibility study to design and construct a four reservoir intertie system for the purposes of improving the water storage opportunities, water supply reliability, and water yield of San Vicente, El Capitan, Murray, and Loveland Reservoirs in San Diego County, California in consultation and cooperation with the City of San Diego and the Sweetwater Authority, and for other purposes.</title>
+	</titles>
+	<sponsor id="400191"/>
+	<cosponsors>
+		<cosponsor id="400097" joined="2007-03-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1175140800" datetime="2007-03-29"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1176264000" datetime="2007-04-11"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1193078700" datetime="2007-10-22T15:45:00-04:00"><text>Ms. Bordallo moved to suspend the rules and pass the bill.</text></action>
+		<action date="1193078700" datetime="2007-10-22T15:45:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11804-11805"/></action>
+		<action date="1193078700" datetime="2007-10-22T15:45:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1803.</text></action>
+		<vote date="1193078880" how="by voice vote" datetime="2007-10-22T15:48:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H11804-11805"/></vote>
+		<action date="1193112000" datetime="2007-10-23"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1209009600" datetime="2008-04-24"><text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held.</text></action>
+		<calendar date="1221105600" datetime="2008-09-11" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1221537600" datetime="2008-09-16"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="1017" date="1221537600" datetime="2008-09-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1017.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/16/2008--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) San Diego Water Storage and Efficiency Act of 2007 - Authorizes the Secretary of the Interior, in cooperation with the City of San Diego and the Sweetwater Authority, to undertake a study to determine the feasibility of constructing a four reservoir intertie system to improve water storage opportunities, water supply reliability, and water yield of the existing non-federal water storage system. Directs that the feasibility study: (1) document the Secretary's engineering, environmental, and economic investigation of the proposed reservoir and intertie project, taking into consideration the needs of and potential benefits to the area; and (2) indicate whether the proposed project is recommended. Limits the federal cost share and total federal costs. Directs the Secretary to: (1) consult and cooperate with appropriate state, regional, and local authorities; and (2) submit to Congress a feasibility report and seek specific authority to develop and construct any recommended project. Terminates the Secretary's authority to carry out this Act 10 years after its enactment.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="110" type="s" number="2150" updated="2009-01-09T16:18:09-05:00">
+	<status><calendar date="1195016400" datetime="2007-11-14" /></status>
+
+	<introduced date="1191470400" datetime="2007-10-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the facility of the United States Postal Service located at 4320 Blue Parkway in Kansas City, Missouri, as the &quot;Wallace S. Hartsfield Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="300010"/>
+	<cosponsors>
+		<cosponsor id="412243" joined="2007-10-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1191470400" datetime="2007-10-04"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1192766400" datetime="2007-10-19"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+		<calendar date="1195016400" datetime="2007-11-14" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1195016400" datetime="2007-11-14"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="492" date="1195016400" datetime="2007-11-14" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 492.</text></calendar>
+		<action date="1196744400" datetime="2007-12-04"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S14748"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/4/2007--Introduced.<br/>Designates the facility of the United States Postal Service located at 4320 Blue Parkway in Kansas City, Missouri, as the &quot;Wallace S. Hartsfield Post Office Building.&quot;<br/>
+	</summary>
+</bill>

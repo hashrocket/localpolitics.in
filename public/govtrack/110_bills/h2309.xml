@@ -1,0 +1,62 @@
+<bill session="110" type="h" number="2309" updated="2009-01-08T21:40:23-05:00">
+	<status><enacted date="1186632000" datetime="2007-08-09" /></status>
+
+	<introduced date="1179115200" datetime="2007-05-14"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 3916 Milgen Road in Columbus, Georgia, as the &quot;Frank G. Lumpkin, Jr. Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400627"/>
+	<cosponsors>
+		<cosponsor id="400273" joined="2007-05-14"/>
+		<cosponsor id="400060" joined="2007-05-14"/>
+		<cosponsor id="400099" joined="2007-05-14"/>
+		<cosponsor id="400626" joined="2007-05-14"/>
+		<cosponsor id="400242" joined="2007-05-14"/>
+		<cosponsor id="400151" joined="2007-05-14"/>
+		<cosponsor id="412230" joined="2007-05-14"/>
+		<cosponsor id="409888" joined="2007-05-14"/>
+		<cosponsor id="400254" joined="2007-05-22"/>
+		<cosponsor id="400030" joined="2007-05-14"/>
+		<cosponsor id="412199" joined="2007-05-14"/>
+		<cosponsor id="400400" joined="2007-05-14"/>
+		<cosponsor id="400643" joined="2007-05-14"/>
+		<cosponsor id="400628" joined="2007-05-14"/>
+		<cosponsor id="400644" joined="2007-05-14"/>
+		<cosponsor id="400221" joined="2007-05-14"/>
+		<cosponsor id="400016" joined="2007-05-14"/>
+		<cosponsor id="400315" joined="2007-05-14"/>
+		<cosponsor id="400240" joined="2007-05-14"/>
+		<cosponsor id="400363" joined="2007-05-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1179115200" datetime="2007-05-14"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1181620800" datetime="2007-06-12"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1181620800" datetime="2007-06-12" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1185852720" datetime="2007-07-30T12:32:00-04:00"><text>Committee on Oversight and Government discharged.</text></action>
+		<action date="1185852720" datetime="2007-07-30T12:32:00-04:00"><text>Mr. Davis (IL) asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1185852720" datetime="2007-07-30T12:32:00-04:00"><text>Considered by unanimous consent. (consideration: CR 7/31/2007 H8841)</text></action>
+		<vote date="1185852780" how="without objection" datetime="2007-07-30T12:33:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed without objection. (text: CR 7/31/2007 H8841)</text></vote>
+		<action date="1185854400" datetime="2007-07-31"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1186113600" how="by Unanimous Consent" datetime="2007-08-03" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10978-10979"/></vote>
+		<topresident date="1186113600" datetime="2007-08-03" ><text>Cleared for White House.</text></topresident>
+		<action date="1186200000" datetime="2007-08-04"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1186372800" datetime="2007-08-06" ><text>Presented to President.</text></topresident>
+		<signed date="1186632000" datetime="2007-08-09" ><text>Signed by President.</text></signed>
+		<enacted number="110-70" date="1186632000" datetime="2007-08-09" type="public" ><text>Became Public Law No: 110-70.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/9/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 3916 Milgen Road in Columbus, Georgia, as the &quot;Frank G. Lumpkin, Jr. Post Office Building.&quot; 
+	</summary>
+</bill>

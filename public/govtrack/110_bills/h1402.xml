@@ -1,0 +1,71 @@
+<bill session="110" type="h" number="1402" updated="2009-01-08T19:46:50-05:00">
+	<status><enacted date="1180670400" datetime="2007-06-01" /></status>
+
+	<introduced date="1173330000" datetime="2007-03-08"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 320 South Lecanto Highway in Lecanto, Florida, as the &quot;Sergeant Dennis J. Flanagan Lecanto Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400051"/>
+	<cosponsors>
+		<cosponsor id="400279" joined="2007-03-08"/>
+		<cosponsor id="400273" joined="2007-03-08"/>
+		<cosponsor id="400623" joined="2007-03-08"/>
+		<cosponsor id="400430" joined="2007-03-08"/>
+		<cosponsor id="400170" joined="2007-03-08"/>
+		<cosponsor id="412195" joined="2007-03-08"/>
+		<cosponsor id="400344" joined="2007-03-08"/>
+		<cosponsor id="400388" joined="2007-03-08"/>
+		<cosponsor id="412250" joined="2007-03-08"/>
+		<cosponsor id="400427" joined="2007-03-08"/>
+		<cosponsor id="412197" joined="2007-03-08"/>
+		<cosponsor id="412198" joined="2007-03-08"/>
+		<cosponsor id="400086" joined="2007-03-08"/>
+		<cosponsor id="400212" joined="2007-03-08"/>
+		<cosponsor id="400048" joined="2007-03-08"/>
+		<cosponsor id="400044" joined="2007-03-08"/>
+		<cosponsor id="400131" joined="2007-03-08"/>
+		<cosponsor id="400270" joined="2007-03-08"/>
+		<cosponsor id="400439" joined="2007-03-08"/>
+		<cosponsor id="400107" joined="2007-03-08"/>
+		<cosponsor id="400328" joined="2007-03-08"/>
+		<cosponsor id="412196" joined="2007-03-08"/>
+		<cosponsor id="400108" joined="2007-03-08"/>
+		<cosponsor id="400622" joined="2007-03-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1173330000" datetime="2007-03-08"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1175140800" datetime="2007-03-29"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1175140800" datetime="2007-03-29" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1177349400" datetime="2007-04-23T14:30:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1177349400" datetime="2007-04-23T14:30:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3731-3733"/></action>
+		<action date="1177349400" datetime="2007-04-23T14:30:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1402.</text></action>
+		<action date="1177350060" datetime="2007-04-23T14:41:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1177366320" datetime="2007-04-23T19:12:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3742-3743"/></action>
+		<vote date="1177366800" how="roll" roll="247" datetime="2007-04-23T19:20:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 0 (Roll no. 247).</text><reference label="text" ref="CR H3731"/></vote>
+		<action date="1177387200" datetime="2007-04-24"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<calendar date="1179720000" datetime="2007-05-21" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1179806400" datetime="2007-05-22"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="166" date="1179806400" datetime="2007-05-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 166.</text></calendar>
+		<vote date="1179892800" how="by Unanimous Consent" datetime="2007-05-23" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6572-6573"/></vote>
+		<topresident date="1179892800" datetime="2007-05-23" ><text>Cleared for White House.</text></topresident>
+		<action date="1179979200" datetime="2007-05-24"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1180584000" datetime="2007-05-31" ><text>Presented to President.</text></topresident>
+		<signed date="1180670400" datetime="2007-06-01" ><text>Signed by President.</text></signed>
+		<enacted number="110-32" date="1180670400" datetime="2007-06-01" type="public" ><text>Became Public Law No: 110-32.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/1/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 320 South Lecanto Highway in Lecanto, Florida, as the &quot;Sergeant Dennis J. Flanagan Lecanto Post Office Building.&quot; 
+	</summary>
+</bill>

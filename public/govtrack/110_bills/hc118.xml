@@ -1,0 +1,53 @@
+<bill session="110" type="hc" number="118" updated="2009-01-08T15:41:46-05:00">
+	<status><vote date="1178049840" datetime="2007-05-01T17:04:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1176868800" datetime="2007-04-18"/>
+	<titles>
+		<title type="official" as="introduced">Congratulating the City of Chicago for being chosen to represent the United States in the international competition to host the 2016 Olympic and Paralympic Games, and encouraging the International Olympic Committee to select Chicago as the site of the 2016 Olympic and Paralympic Games.</title>
+	</titles>
+	<sponsor id="400120"/>
+	<cosponsors>
+		<cosponsor id="400207" joined="2007-04-18"/>
+		<cosponsor id="400222" joined="2007-04-18"/>
+		<cosponsor id="400198" joined="2007-04-18"/>
+		<cosponsor id="400082" joined="2007-04-18"/>
+		<cosponsor id="400093" joined="2007-04-18"/>
+		<cosponsor id="400630" joined="2007-04-18"/>
+		<cosponsor id="400631" joined="2007-04-18"/>
+		<cosponsor id="400228" joined="2007-04-18"/>
+		<cosponsor id="400027" joined="2007-04-18"/>
+		<cosponsor id="400169" joined="2007-04-18"/>
+		<cosponsor id="412204" joined="2007-04-18"/>
+		<cosponsor id="400373" joined="2007-04-18"/>
+		<cosponsor id="400163" joined="2007-04-18"/>
+		<cosponsor id="400350" joined="2007-04-18"/>
+		<cosponsor id="400360" joined="2007-04-18"/>
+		<cosponsor id="412202" joined="2007-04-18"/>
+		<cosponsor id="400252" joined="2007-04-18"/>
+		<cosponsor id="400429" joined="2007-04-18"/>
+	</cosponsors>
+	<actions>
+		<action date="1176868800" datetime="2007-04-18"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1178048820" datetime="2007-05-01T16:47:00-04:00"><text>Mr. Sires moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1178048820" datetime="2007-05-01T16:47:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4255-4257"/></action>
+		<action date="1178048820" datetime="2007-05-01T16:47:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 118.</text></action>
+		<vote date="1178049840" how="by voice vote" datetime="2007-05-01T17:04:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H4255"/></vote>
+		<calendar under="General Orders" number="130" date="1178078400" datetime="2007-05-02" calendar="Senate Legislative" ><text>Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 130.</text></calendar>
+		<action date="1181707200" datetime="2007-06-13"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S7677"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/1/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Congratulates Chicago on securing the bid to represent the United States in the international competition to host the 2016 Olympic and Paralympic Games.<br/>Encourages the International Olympic Committee to select Chicago as the site of the Games.<br/>
+	</summary>
+</bill>

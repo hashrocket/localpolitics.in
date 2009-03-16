@@ -1,0 +1,38 @@
+<bill session="110" type="sr" number="222" updated="2009-01-09T20:25:53-05:00">
+	<status><vote date="1189396800" datetime="2007-09-10" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1181102400" datetime="2007-06-06"/>
+	<titles>
+		<title type="official" as="introduced">A resolution supporting the goals and ideals of Pancreatic Cancer Awareness Month.</title>
+	</titles>
+	<sponsor id="300022"/>
+	<cosponsors>
+		<cosponsor id="300024" joined="2007-06-25"/>
+		<cosponsor id="400050" joined="2007-09-04"/>
+		<cosponsor id="300076" joined="2007-09-17"/>
+		<cosponsor id="300021" joined="2007-06-25"/>
+		<cosponsor id="400357" joined="2007-06-25"/>
+		<cosponsor id="300090" joined="2007-06-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1181102400" datetime="2007-06-06"><text>Sponsor introductory remarks on measure. (CR S7194)</text></action>
+		<action date="1181102400" datetime="2007-06-06"><text>Referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S7194"/></action>
+		<action date="1189396800" datetime="2007-09-10"><text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S11352"/></action>
+		<vote date="1189396800" how="by Unanimous Consent" datetime="2007-09-10" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text as passed Senate" ref="CR S11352"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/10/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Expresses support for the goals and ideals of Pancreatic Cancer Awareness Month. 
+	</summary>
+</bill>

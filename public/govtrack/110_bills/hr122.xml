@@ -1,0 +1,44 @@
+<bill session="110" type="hr" number="122" updated="2009-01-09T08:08:59-05:00">
+	<status><vote date="1171425660" datetime="2007-02-13T12:01:00-05:00" where="h" result="pass" how="roll" roll="95"/></status>
+
+	<introduced date="1170219600" datetime="2007-01-31"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the significance of the 65th anniversary of the signing of Executive Order 9066 by President Franklin D. Roosevelt and supporting the goals of the Japanese American, German American, and Italian American communities in recognizing a National Day of Remembrance to increase public awareness of the events surrounding the restriction, exclusion, and internment of individuals and families during World War II.</title>
+	</titles>
+	<sponsor id="400185"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-01-31"/>
+		<cosponsor id="400128" joined="2007-02-12"/>
+		<cosponsor id="400364" joined="2007-01-31"/>
+		<cosponsor id="400618" joined="2007-01-31"/>
+		<cosponsor id="400437" joined="2007-01-31"/>
+		<cosponsor id="400663" joined="2007-01-31"/>
+		<cosponsor id="400001" joined="2007-01-31"/>
+		<cosponsor id="400021" joined="2007-01-31"/>
+		<cosponsor id="412200" joined="2007-01-31"/>
+	</cosponsors>
+	<actions>
+		<action date="1170219600" datetime="2007-01-31"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1171307520" datetime="2007-02-12T15:12:00-05:00"><text>Mr. Berman moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1171307580" datetime="2007-02-12T15:13:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1436-1439"/></action>
+		<action date="1171307580" datetime="2007-02-12T15:13:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 122.</text></action>
+		<action date="1171309140" datetime="2007-02-12T15:39:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1171380900" datetime="2007-02-13T11:35:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1489-1490"/></action>
+		<vote date="1171425660" how="roll" roll="95" datetime="2007-02-13T12:01:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 95). (text: CR 2/12/2007 H1436)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the historical significance of February 19, 1942, the date Executive Order 9066 was signed by President Roosevelt, restricting the freedom of Japanese Americans, German Americans, and Italian Americans, and legal resident aliens through required identification cards, travel restrictions, seizure of personal property, and internment. Supports the goals of the Japanese American, German American, and Italian American communities in recognizing a National Day of Remembrance to increase public awareness of these events.<br/>
+	</summary>
+</bill>

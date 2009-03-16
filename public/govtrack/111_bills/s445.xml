@@ -1,0 +1,36 @@
+<bill session="111" type="s" number="445" updated="2009-03-07T14:26:20-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="short" as="introduced">Attorney-Client Privilege Protection Act of 2009</title>
+		<title type="official" as="introduced">A bill to provide appropriate protection to attorney-client privileged communications and attorney work product.</title>
+	</titles>
+	<sponsor id="300092"/>
+	<cosponsors>
+		<cosponsor id="412243" joined="2009-02-13"/>
+		<cosponsor id="300060" joined="2009-02-13"/>
+		<cosponsor id="300063" joined="2009-02-13"/>
+		<cosponsor id="300019" joined="2009-02-13"/>
+		<cosponsor id="300023" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Sponsor introductory remarks on measure. (CR S2331-2332)</text></action>
+		<action date="1234501200" datetime="2009-02-13"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="111" type="s" number="473" updated="2009-03-07T14:29:39-05:00">
+	<status><introduced date="1235538000" datetime="2009-02-25"/></status>
+
+	<introduced date="1235538000" datetime="2009-02-25"/>
+	<titles>
+		<title type="short" as="introduced">Senator Paul Simon Study Abroad Foundation Act of 2009</title>
+		<title type="official" as="introduced">A bill to establish the Senator Paul Simon Study Abroad Foundation.</title>
+	</titles>
+	<sponsor id="300038"/>
+	<cosponsors>
+		<cosponsor id="300083" joined="2009-02-25"/>
+		<cosponsor id="400432" joined="2009-02-25"/>
+		<cosponsor id="300005" joined="2009-02-25"/>
+		<cosponsor id="300009" joined="2009-02-25"/>
+		<cosponsor id="400050" joined="2009-02-26"/>
+		<cosponsor id="300010" joined="2009-02-25"/>
+		<cosponsor id="400064" joined="2009-02-25"/>
+		<cosponsor id="300080" joined="2009-02-26"/>
+		<cosponsor id="300059" joined="2009-02-25"/>
+		<cosponsor id="300082" joined="2009-02-25"/>
+		<cosponsor id="300001" joined="2009-02-25"/>
+		<cosponsor id="300067" joined="2009-02-25"/>
+		<cosponsor id="412246" joined="2009-03-02"/>
+		<cosponsor id="300093" joined="2009-02-25"/>
+		<cosponsor id="300076" joined="2009-02-25"/>
+		<cosponsor id="300098" joined="2009-03-02"/>
+		<cosponsor id="300066" joined="2009-02-25"/>
+		<cosponsor id="300087" joined="2009-02-25"/>
+		<cosponsor id="300034" joined="2009-03-02"/>
+		<cosponsor id="400357" joined="2009-02-25"/>
+		<cosponsor id="300068" joined="2009-02-25"/>
+		<cosponsor id="412247" joined="2009-02-25"/>
+		<cosponsor id="300081" joined="2009-02-25"/>
+		<cosponsor id="300023" joined="2009-02-25"/>
+		<cosponsor id="300064" joined="2009-03-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1235538000" datetime="2009-02-25"><text>Sponsor introductory remarks on measure. (CR S2479-2480)</text></action>
+		<action date="1235538000" datetime="2009-02-25"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S2480-2483"/></action>
+		<action date="1235970000" datetime="2009-03-02"><text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text></action>
+		<action date="1235970000" datetime="2009-03-02"><text>Referred to the Committee on Foreign Relations.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, Discharged" />
+		<committee name="Senate Foreign Relations" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

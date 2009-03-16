@@ -1,0 +1,91 @@
+<bill session="111" type="hr" number="75" updated="2009-03-07T13:14:50-05:00">
+	<status><introduced date="1232514000" datetime="2009-01-21"/></status>
+
+	<introduced date="1232514000" datetime="2009-01-21"/>
+	<titles>
+		<title type="official" as="introduced">Honoring Chesley B. &quot;Sully&quot; Sullenberger III and the crew of US Airways Flight 1549 for their heroism, calm under pressure, and dedication to the safety of passengers on board.</title>
+	</titles>
+	<sponsor id="412189"/>
+	<cosponsors>
+		<cosponsor id="412253" joined="2009-01-27"/>
+		<cosponsor id="400290" joined="2009-01-27"/>
+		<cosponsor id="400663" joined="2009-01-21"/>
+		<cosponsor id="400387" joined="2009-01-27"/>
+		<cosponsor id="400133" joined="2009-01-21"/>
+		<cosponsor id="400031" joined="2009-01-27"/>
+		<cosponsor id="400347" joined="2009-01-27"/>
+		<cosponsor id="412227" joined="2009-01-27"/>
+		<cosponsor id="400356" joined="2009-01-21"/>
+		<cosponsor id="400057" joined="2009-01-28"/>
+		<cosponsor id="400343" joined="2009-01-22"/>
+		<cosponsor id="400087" joined="2009-01-22"/>
+		<cosponsor id="400618" joined="2009-01-27"/>
+		<cosponsor id="400039" joined="2009-01-22"/>
+		<cosponsor id="400166" joined="2009-01-27"/>
+		<cosponsor id="400115" joined="2009-02-11"/>
+		<cosponsor id="400436" joined="2009-01-27"/>
+		<cosponsor id="400237" joined="2009-01-21"/>
+		<cosponsor id="412262" joined="2009-01-27"/>
+		<cosponsor id="400422" joined="2009-01-27"/>
+		<cosponsor id="400426" joined="2009-01-27"/>
+		<cosponsor id="412224" joined="2009-01-27"/>
+		<cosponsor id="400403" joined="2009-01-21"/>
+		<cosponsor id="400021" joined="2009-01-27"/>
+		<cosponsor id="400129" joined="2009-01-21"/>
+		<cosponsor id="400065" joined="2009-01-21"/>
+		<cosponsor id="412259" joined="2009-01-27"/>
+		<cosponsor id="400297" joined="2009-01-22"/>
+		<cosponsor id="400009" joined="2009-01-27"/>
+		<cosponsor id="400361" joined="2009-01-27"/>
+		<cosponsor id="400371" joined="2009-01-21"/>
+		<cosponsor id="400124" joined="2009-01-21"/>
+		<cosponsor id="412257" joined="2009-01-28"/>
+		<cosponsor id="400239" joined="2009-01-22"/>
+		<cosponsor id="400185" joined="2009-01-27"/>
+		<cosponsor id="400119" joined="2009-01-27"/>
+		<cosponsor id="400423" joined="2009-01-27"/>
+		<cosponsor id="400641" joined="2009-01-27"/>
+		<cosponsor id="412231" joined="2009-01-27"/>
+		<cosponsor id="400097" joined="2009-01-27"/>
+		<cosponsor id="400396" joined="2009-01-21"/>
+		<cosponsor id="400384" joined="2009-01-27"/>
+		<cosponsor id="400636" joined="2009-01-27"/>
+		<cosponsor id="400238" joined="2009-02-11"/>
+		<cosponsor id="400355" joined="2009-01-22"/>
+		<cosponsor id="400025" joined="2009-01-21"/>
+		<cosponsor id="400062" joined="2009-01-21"/>
+		<cosponsor id="400425" joined="2009-01-21"/>
+		<cosponsor id="400314" joined="2009-01-28"/>
+		<cosponsor id="412011" joined="2009-01-22"/>
+		<cosponsor id="400245" joined="2009-01-27"/>
+		<cosponsor id="400278" joined="2009-01-21"/>
+		<cosponsor id="400235" joined="2009-01-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1232514000" datetime="2009-01-21"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to the Subcommittee on Aviation.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="84" />
+		<bill relation="unknown" session="111" type="sr" number="17" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Accidents"/>
+		<term name="Aviation and airports"/>
+		<term name="Congressional tributes"/>
+		<term name="New York City"/>
+		<term name="Transportation employees"/>
+		<term name="Transportation safety and security"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/2009--Introduced.<br/>Honors Chesley B. Sullenberger III as the &quot;Hero of the Hudson&quot; and commends him for his display of courage. Praises Chesley B. Sullenberger III, not only for his commitment to the safety of the passengers of US Airways Flight 1549, but for his safety-related efforts with respect to the airline industry.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="111" type="s" number="432" updated="2009-03-07T14:24:50-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Morris K. Udall Scholarship and Excellence in National Environmental Policy Amendments Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Morris K. Udall Scholarship and Excellence in National Environmental and Native American Public Policy Act of 1992 to honor the legacy of Stewart L. Udall, and for other purposes.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Sponsor introductory remarks on measure. (CR S2244-2245)</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Environment and Public Works" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="1035" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

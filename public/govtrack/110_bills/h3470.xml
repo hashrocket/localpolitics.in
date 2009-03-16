@@ -1,0 +1,55 @@
+<bill session="110" type="h" number="3470" updated="2009-01-09T00:09:31-05:00">
+	<status><enacted date="1198645200" datetime="2007-12-26" /></status>
+
+	<introduced date="1188878400" datetime="2007-09-04"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 744 West Oglethorpe Highway in Hinesville, Georgia, as the &quot;John Sidney 'Sid' Flowers Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400221"/>
+	<cosponsors>
+		<cosponsor id="400627" joined="2007-10-17"/>
+		<cosponsor id="412252" joined="2007-10-17"/>
+		<cosponsor id="400099" joined="2007-10-17"/>
+		<cosponsor id="400626" joined="2007-10-17"/>
+		<cosponsor id="400242" joined="2007-10-17"/>
+		<cosponsor id="400151" joined="2007-10-17"/>
+		<cosponsor id="400254" joined="2007-10-17"/>
+		<cosponsor id="400030" joined="2007-10-17"/>
+		<cosponsor id="412199" joined="2007-10-17"/>
+		<cosponsor id="400628" joined="2007-10-17"/>
+		<cosponsor id="400240" joined="2007-10-17"/>
+		<cosponsor id="400363" joined="2007-10-17"/>
+	</cosponsors>
+	<actions>
+		<action date="1188878400" datetime="2007-09-04"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1193112000" datetime="2007-10-23"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1193112000" datetime="2007-10-23" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1194990060" datetime="2007-11-13T17:41:00-05:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1194990120" datetime="2007-11-13T17:42:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H13810-13811"/></action>
+		<action date="1194990120" datetime="2007-11-13T17:42:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3470.</text></action>
+		<vote date="1194990420" how="by voice vote" datetime="2007-11-13T17:47:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H13810"/></vote>
+		<action date="1195016400" datetime="2007-11-14"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1198040400" datetime="2007-12-19"><text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S16055"/></action>
+		<vote date="1198040400" how="by Unanimous Consent" datetime="2007-12-19" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<topresident date="1198040400" datetime="2007-12-19" ><text>Cleared for White House.</text></topresident>
+		<action date="1198126800" datetime="2007-12-20"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1198126800" datetime="2007-12-20" ><text>Presented to President.</text></topresident>
+		<signed date="1198645200" datetime="2007-12-26" ><text>Signed by President.</text></signed>
+		<enacted number="110-162" date="1198645200" datetime="2007-12-26" type="public" ><text>Became Public Law No: 110-162.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/26/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the facility of the United States Postal Service located at 744 West Oglethorpe Highway in Hinesville, Georgia, as the &quot;John Sidney 'Sid' Flowers Post Office Building.&quot; 
+	</summary>
+</bill>

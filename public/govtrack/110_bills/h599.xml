@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="599" updated="2009-01-08T18:04:10-05:00">
+	<status><vote date="1169575800" datetime="2007-01-23T14:10:00-05:00" where="h" result="pass" how="roll" roll="47"/></status>
+
+	<introduced date="1169442000" datetime="2007-01-22"/>
+	<titles>
+		<title type="official" as="introduced">To direct the Secretary of Homeland Security to streamline the SAFETY Act and anti-terrorism technology procurement processes.</title>
+	</titles>
+	<sponsor id="400230"/>
+	<cosponsors>
+		<cosponsor id="400073" joined="2007-01-22"/>
+		<cosponsor id="400219" joined="2007-01-22"/>
+		<cosponsor id="400199" joined="2007-01-22"/>
+		<cosponsor id="400657" joined="2007-01-22"/>
+		<cosponsor id="400660" joined="2007-01-22"/>
+		<cosponsor id="412234" joined="2007-01-22"/>
+		<cosponsor id="400385" joined="2007-01-22"/>
+		<cosponsor id="400370" joined="2007-01-22"/>
+		<cosponsor id="412250" joined="2007-01-23"/>
+		<cosponsor id="400402" joined="2007-01-22"/>
+		<cosponsor id="400648" joined="2007-01-22"/>
+		<cosponsor id="412235" joined="2007-01-22"/>
+		<cosponsor id="400270" joined="2007-01-22"/>
+		<cosponsor id="400166" joined="2007-01-22"/>
+		<cosponsor id="400617" joined="2007-01-23"/>
+		<cosponsor id="400654" joined="2007-01-22"/>
+		<cosponsor id="400341" joined="2007-01-22"/>
+		<cosponsor id="400309" joined="2007-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1169442000" datetime="2007-01-22"><text>Referred to the House Committee on Homeland Security.</text></action>
+		<action date="1169573340" datetime="2007-01-23T13:29:00-05:00"><text>Mr. Langevin moved to suspend the rules and pass the bill.</text></action>
+		<action date="1169573340" datetime="2007-01-23T13:29:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H855-859"/></action>
+		<action date="1169573340" datetime="2007-01-23T13:29:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 599.</text></action>
+		<vote date="1169575800" how="roll" roll="47" datetime="2007-01-23T14:10:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 427 - 0 (Roll no. 47).</text><reference label="text" ref="CR H855"/></vote>
+		<action date="1169614800" datetime="2007-01-24"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/23/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Directs the Secretary of Homeland Security to ensure that a sufficient number of full-time equivalent personnel, who are properly trained and qualified to apply legal, economic, and risk analyses, are involved in the review and prioritization of anti-terrorism technologies to determine whether such technologies may be designated or certified anti-terrorism technologies under the SAFETY Act. Requires the Secretary to: (1) establish a formal coordination process that includes the official of the Department of Homeland Security (DHS) with primary responsibility for the implementation of such Act, the Chief Procurement Officer of DHS, the Under Secretary for Science and Technology, the Under Secretary for Policy, and the General Counsel of DHS to ensure the maximum application of the litigation and risk management provisions of such Act to anti-terrorism technologies procured by DHS; (2) promote awareness and utilization of the litigation and risk management provisions of such Act in the procurement of anti-terrorism technologies; and (3) issue a departmental management directive providing for coordination between DHS procurement officials and any other DHS official responsible for implementing such Act in advance of any DHS procurement of an anti-terrorism technology.<br/>
+	</summary>
+</bill>

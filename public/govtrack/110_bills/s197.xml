@@ -1,0 +1,38 @@
+<bill session="110" type="s" number="197" updated="2009-01-09T11:32:31-05:00">
+	<status><vote date="1168232400" datetime="2007-01-08" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1168232400" datetime="2007-01-08"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize salary adjustments for justices and judges of the United States for fiscal year 2007.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="300082" joined="2007-01-08"/>
+		<cosponsor id="300092" joined="2007-01-08"/>
+		<cosponsor id="300027" joined="2007-01-08"/>
+		<cosponsor id="300076" joined="2007-07-30"/>
+		<cosponsor id="300043" joined="2007-01-08"/>
+	</cosponsors>
+	<actions>
+		<vote date="1168232400" how="by Unanimous Consent" datetime="2007-01-08" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S219"/><reference label="text as passed Senate" ref="CR S219"/></vote>
+		<action date="1168353120" datetime="2007-01-09T10:32:00-05:00"><text>Received in the House.</text></action>
+		<action date="1168318800" datetime="2007-01-09"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1168318800" datetime="2007-01-09"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1170392400" datetime="2007-02-02"><text>Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes salary adjustments for justices and judges of the United States for FY2007.<br/>
+	</summary>
+</bill>

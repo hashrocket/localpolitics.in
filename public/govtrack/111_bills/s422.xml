@@ -1,0 +1,75 @@
+<bill session="111" type="s" number="422" updated="2009-03-07T14:23:39-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Heart Disease Education, Analysis Research, and Treatment for Women Act</title>
+		<title type="short" as="introduced">HEART for Women Act</title>
+		<title type="official" as="introduced">A bill to amend the Federal Food, Drug, and Cosmetic Act and the Public Health Service Act to improve the prevention, diagnosis, and treatment of heart disease, stroke, and other cardiovascular diesases in women.</title>
+	</titles>
+	<sponsor id="300093"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2009-02-12"/>
+		<cosponsor id="400272" joined="2009-02-12"/>
+		<cosponsor id="300025" joined="2009-02-12"/>
+		<cosponsor id="400064" joined="2009-02-12"/>
+		<cosponsor id="300011" joined="2009-02-12"/>
+		<cosponsor id="300027" joined="2009-02-23"/>
+		<cosponsor id="300001" joined="2009-02-12"/>
+		<cosponsor id="300067" joined="2009-03-04"/>
+		<cosponsor id="412246" joined="2009-02-12"/>
+		<cosponsor id="412323" joined="2009-02-12"/>
+		<cosponsor id="300076" joined="2009-03-03"/>
+		<cosponsor id="300060" joined="2009-02-12"/>
+		<cosponsor id="300075" joined="2009-02-12"/>
+		<cosponsor id="300038" joined="2009-02-25"/>
+		<cosponsor id="300066" joined="2009-02-23"/>
+		<cosponsor id="300063" joined="2009-02-12"/>
+		<cosponsor id="300021" joined="2009-02-12"/>
+		<cosponsor id="300006" joined="2009-02-12"/>
+		<cosponsor id="300073" joined="2009-02-12"/>
+		<cosponsor id="400357" joined="2009-02-12"/>
+		<cosponsor id="300019" joined="2009-02-12"/>
+		<cosponsor id="300043" joined="2009-02-12"/>
+		<cosponsor id="300068" joined="2009-02-12"/>
+		<cosponsor id="412247" joined="2009-02-12"/>
+		<cosponsor id="300026" joined="2009-02-12"/>
+		<cosponsor id="300037" joined="2009-02-23"/>
+		<cosponsor id="412244" joined="2009-03-03"/>
+		<cosponsor id="412326" joined="2009-02-12"/>
+		<cosponsor id="300058" joined="2009-02-26"/>
+		<cosponsor id="300023" joined="2009-02-12"/>
+		<cosponsor id="300100" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Sponsor introductory remarks on measure. (CR S2230-2232)</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="1032" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Cardiovascular and respiratory health"/>
+		<term name="Drug safety, medical device, and laboratory regulation"/>
+		<term name="Government information and archives"/>
+		<term name="Health care quality"/>
+		<term name="Health information and medical records"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Health promotion and preventive care"/>
+		<term name="Licensing and registrations"/>
+		<term name="Medical education"/>
+		<term name="Medical research"/>
+		<term name="Prescription drugs"/>
+		<term name="Women's health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Heart Disease Education, Analysis Research, and Treatment for Women Act or the HEART for Women Act - Amends the Federal Food, Drug, and Cosmetic Act to allow the Secretary of Health and Human Services to deny a new drug application if the application fails to include required information on clinical investigations.<br/>Directs the Secretary to: (1) require that a new drug application include any clinical data possessed by the applicant that relates to the safety and effectiveness of the drug involved by gender, age, and racial subgroup; and (2) develop guidance for the staff of the Food and Drug Administration (FDA) to ensure that new drug applications are adequately reviewed to determine whether they include the required clinical data.<br/>Authorizes the Secretary to place a clinical hold on an investigation under an investigational new drug application if the sponsor of the investigation fails to meet the requirements of an annual report on the status of each study in progress. Applies provisions relating to clinical data submission for new drug applications to applications for an investigational new drug, a biologics license for a biological product, premarket approval for a class III device, and investigational use of a device.<br/>Amends the Public Health Service Act to require the Secretary to provide that all nonidentifiable patient safety work product reported to and among the network of patient safety databases be identified by sex.<br/>Directs that analyses of statistics of information reported to the network of patient safety databases take into account data that specifically relates to women and any disparities between treatment and the quality of care between males and females.<br/>Requires the Director of the Agency for Healthcare Research and Quality to support research and demonstrations to identify and evaluate clinical and organizational strategies to improve the quality of and access to care for women with heart disease, stroke, and other cardiovascular diseases.<br/>Requires the Secretary to: (1) distribute to females age 65 or older and appropriate health care professionals educational materials relating to the prevention diagnosis and treatment of heart disease, stroke, and cardiovascular diseases in women; and (2) conduct an education and awareness campaign for health care professionals relating to such diagnosis and treatment. Expands the grant program authorizing the Secretary to award grants for preventive health services to all states. 
+	</summary>
+</bill>

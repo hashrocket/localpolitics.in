@@ -1,0 +1,46 @@
+<bill session="110" type="h" number="6295" updated="2009-01-09T05:51:27-05:00">
+	<status><vote date="1217360760" datetime="2008-07-29T16:46:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1213761600" datetime="2008-06-18"/>
+	<titles>
+		<title type="short" as="passed house">Drug Trafficking Vessel Interdiction Act of 2008</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, to prohibit operation by any means or embarking in any submersible or semi-submersible vessel that is without nationality and that is navigating or has navigated into, through or from waters beyond the outer limit of the territorial sea of a single country or a lateral limit of that country's territorial sea with an adjacent country, and for other purposes.</title>
+		<title type="official" as="amended by house">To enhance drug trafficking interdiction by creating a Federal felony relating to operating or embarking in a submersible or semi-submersible vessel without nationality and on an international voyage.</title>
+	</titles>
+	<sponsor id="400617"/>
+	<cosponsors>
+		<cosponsor id="400657" joined="2008-07-15"/>
+		<cosponsor id="400385" joined="2008-07-29"/>
+		<cosponsor id="400652" joined="2008-06-18"/>
+		<cosponsor id="412198" joined="2008-07-29"/>
+		<cosponsor id="400402" joined="2008-07-15"/>
+		<cosponsor id="400356" joined="2008-07-29"/>
+		<cosponsor id="400076" joined="2008-07-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1213761600" datetime="2008-06-18"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1217217600" datetime="2008-07-28"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+		<action date="1217359980" datetime="2008-07-29T16:33:00-04:00"><text>Mr. Cohen moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1217359980" datetime="2008-07-29T16:33:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7237-7240"/></action>
+		<action date="1217359980" datetime="2008-07-29T16:33:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6295.</text></action>
+		<vote date="1217360760" how="by voice vote" datetime="2008-07-29T16:46:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H7237"/></vote>
+		<action date="1217360760" datetime="2008-07-29T16:46:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1217390400" datetime="2008-07-30"><text>Received in the Senate.</text></action>
+		<action date="1217563200" datetime="2008-08-01"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/29/2008--Passed House amended. Drug Trafficking Vessel Interdiction Act of 2008 - Amends the federal criminal code to impose a fine and/or prison term of up to 15 years for knowingly operating or embarking in any submersible or semisubmersible vessel that is without nationality and that is navigating in, or has navigated into, through, or from, waters beyond the outer limit of the territorial sea of a single country or a lateral limit of that country's territorial sea with an adjacent country, with the intent to evade detection. Grants extraterritorial federal jurisdiction over violations of this Act.<br/>Makes it an affirmative defense to a prosecution under this Act that a vessel operated at the time of a violation was: (1) a vessel of the Untied States or lawfully registered in a foreign nation; (2) classed by and designated in accordance with the rules of a classification society; (3) lawfully operated in a government-regulated or licensed activity; or (4) equipped with and using an operable automatic identification system, vessel monitoring system, or a long range identification and tracking system. Specifies the documents required to conclusively prove an affirmative defense. Directs the U.S. Sentencing Commission to promulgate or amend existing guidelines to provide adequate penalties for violations of this Act.<br/>
+	</summary>
+</bill>

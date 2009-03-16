@@ -1,0 +1,54 @@
+<bill session="111" type="sr" number="19" updated="2009-03-07T14:40:42-05:00">
+	<status><vote date="1232514000" datetime="2009-01-21" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1232514000" datetime="2009-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A resolution making minority party appointments for the 111th Congress.</title>
+	</titles>
+	<sponsor id="300072"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote date="1232514000" how="by Unanimous Consent" datetime="2009-01-21" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S729-730"/><reference label="text as passed Senate" ref="CR S730"/><reference label="text of measure as introduced" ref="CR S726-727"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional committees"/>
+		<term name="Joint Economic Committee"/>
+		<term name="Members of Congress"/>
+		<term name="Senate"/>
+		<term name="Senate Committee on Agriculture, Nutrition, and Forestry"/>
+		<term name="Senate Committee on Appropriations"/>
+		<term name="Senate Committee on Armed Services"/>
+		<term name="Senate Committee on Banking, Housing, and Urban Affairs"/>
+		<term name="Senate Committee on Commerce, Science, and Transportation"/>
+		<term name="Senate Committee on Energy and Natural Resources"/>
+		<term name="Senate Committee on Environment and Public Works"/>
+		<term name="Senate Committee on Finance"/>
+		<term name="Senate Committee on Foreign Relations"/>
+		<term name="Senate Committee on Health, Education, Labor, and Pensions"/>
+		<term name="Senate Committee on Homeland Security and Governmental Affairs"/>
+		<term name="Senate Committee on Indian Affairs"/>
+		<term name="Senate Committee on Rules and Administration"/>
+		<term name="Senate Committee on Small Business and Entrepreneurship"/>
+		<term name="Senate Committee on Veterans' Affairs"/>
+		<term name="Senate Committee on the Budget"/>
+		<term name="Senate Committee on the Judiciary"/>
+		<term name="Senate Select Committee on Ethics"/>
+		<term name="Senate Select Committee on Intelligence"/>
+		<term name="Senate Special Committee on Aging"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/2009--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the Minority party membership on specified Committees for the 111th Congress.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="110" type="h" number="644" updated="2009-01-08T18:09:54-05:00">
+	<status><vote date="1172603040" datetime="2007-02-27T15:04:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1169528400" datetime="2007-01-23"/>
+	<titles>
+		<title type="short" as="introduced">Brownfields Redevelopment Enhancement Act</title>
+		<title type="short" as="passed house">Brownfields Redevelopment Enhancement Act</title>
+		<title type="official" as="introduced">To facilitate the provision of assistance by the Department of Housing and Urban Development for the cleanup and economic redevelopment of brownfields.</title>
+	</titles>
+	<sponsor id="400277"/>
+	<cosponsors>
+		<cosponsor id="400210" joined="2007-01-23"/>
+		<cosponsor id="400385" joined="2007-01-23"/>
+		<cosponsor id="412231" joined="2007-02-27"/>
+		<cosponsor id="400264" joined="2007-01-23"/>
+		<cosponsor id="400370" joined="2007-01-23"/>
+		<cosponsor id="400010" joined="2007-01-23"/>
+		<cosponsor id="400140" joined="2007-01-23"/>
+		<cosponsor id="400422" joined="2007-01-23"/>
+		<cosponsor id="400251" joined="2007-01-23"/>
+		<cosponsor id="400411" joined="2007-01-23"/>
+		<cosponsor id="412239" joined="2007-02-27"/>
+		<cosponsor id="400204" joined="2007-01-23"/>
+		<cosponsor id="400150" joined="2007-02-16"/>
+		<cosponsor id="400309" joined="2007-01-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1169528400" datetime="2007-01-23"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1172602260" datetime="2007-02-27T14:51:00-05:00"><text>Mr. Frank (MA) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1172602260" datetime="2007-02-27T14:51:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1906-1909"/></action>
+		<action date="1172602260" datetime="2007-02-27T14:51:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 644.</text></action>
+		<vote date="1172603040" how="by voice vote" datetime="2007-02-27T15:04:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H1906-1907"/></vote>
+		<action date="1172638800" datetime="2007-02-28"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/27/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Brownfields Redevelopment Enhancement Act - Amends the Housing and Community Development Act of 1974 to authorize the Secretary of Housing and Urban Development to make grants (without certain otherwise-required loan guarantees) to eligible public entities and Indian tribes to assist in the environmental cleanup and economic development of brownfield sites including mine-scarred lands. Prohibits: (1) providing or using such grants in a manner that reduces the financial responsibility of any nongovernmental party that is responsible or potentially responsible for contamination on any real property; and (2) the provision of assistance pursuant to this section from in any way relieving any party of liability with respect to such contamination, including liability for removal and remediation costs. Authorizes FY2008-FY2012 appropriations. Defines &quot;brownfield site&quot; for purposes of this Act. Makes brownfields-related environmental cleanup and economic development activities eligible for community development block grant (CDBG) assistance. Authorizes CDBG use to administer renewal communities. 
+	</summary>
+</bill>

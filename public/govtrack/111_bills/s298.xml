@@ -1,0 +1,44 @@
+<bill session="111" type="s" number="298" updated="2009-03-07T14:09:15-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">Financial Markets Commission Act of 2009</title>
+		<title type="official" as="introduced">A bill to establish a Financial Markets Commission, and for other purposes.</title>
+	</titles>
+	<sponsor id="400194"/>
+	<cosponsors>
+		<cosponsor id="300027" joined="2009-01-27"/>
+		<cosponsor id="300078" joined="2009-02-11"/>
+		<cosponsor id="300088" joined="2009-02-11"/>
+		<cosponsor id="300021" joined="2009-01-22"/>
+		<cosponsor id="412322" joined="2009-01-27"/>
+		<cosponsor id="412247" joined="2009-02-05"/>
+		<cosponsor id="300026" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Banking and financial institutions regulation"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional oversight"/>
+		<term name="Financial crises and failures"/>
+		<term name="Fraud offenses"/>
+		<term name="Housing finance and home ownership"/>
+		<term name="Securities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

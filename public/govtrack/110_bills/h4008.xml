@@ -1,0 +1,100 @@
+<bill session="110" type="h" number="4008" updated="2009-01-09T01:13:49-05:00">
+	<status><enacted date="1212465600" datetime="2008-06-03" /></status>
+
+	<introduced date="1193716800" datetime="2007-10-30"/>
+	<titles>
+		<title type="short" as="introduced">Credit and Debit Card Receipt Clarification Act of 2007</title>
+		<title type="short" as="passed house">Credit and Debit Card Receipt Clarification Act of 2007</title>
+		<title type="short" as="passed senate">Credit and Debit Card Receipt Clarification Act of 2007</title>
+		<title type="official" as="introduced">To amend the Fair Credit Reporting Act to make technical corrections to the definition of willful noncompliance with respect to violations involving the printing of an expiration date on certain credit and debit card receipts before the date of the enactment of this Act.</title>
+	</titles>
+	<sponsor id="412197"/>
+	<cosponsors>
+		<cosponsor id="400367" joined="2008-02-13"/>
+		<cosponsor id="400177" joined="2007-10-30"/>
+		<cosponsor id="400289" joined="2008-01-17"/>
+		<cosponsor id="400210" joined="2008-03-31"/>
+		<cosponsor id="400027" joined="2008-01-28"/>
+		<cosponsor id="400209" joined="2008-01-17"/>
+		<cosponsor id="400183" joined="2008-02-14"/>
+		<cosponsor id="400282" joined="2008-01-17"/>
+		<cosponsor id="412224" joined="2008-02-13"/>
+		<cosponsor id="400385" joined="2007-12-18"/>
+		<cosponsor id="400430" joined="2008-02-07"/>
+		<cosponsor id="412195" joined="2007-11-15"/>
+		<cosponsor id="400630" joined="2007-12-12"/>
+		<cosponsor id="400003" joined="2008-02-13"/>
+		<cosponsor id="400229" joined="2007-10-30"/>
+		<cosponsor id="400261" joined="2008-01-28"/>
+		<cosponsor id="400040" joined="2008-03-04"/>
+		<cosponsor id="412231" joined="2007-12-18"/>
+		<cosponsor id="412189" joined="2008-05-08"/>
+		<cosponsor id="400396" joined="2008-02-13"/>
+		<cosponsor id="400285" joined="2008-02-07"/>
+		<cosponsor id="412198" joined="2007-10-30"/>
+		<cosponsor id="400010" joined="2007-10-30"/>
+		<cosponsor id="400642" joined="2008-02-13"/>
+		<cosponsor id="400417" joined="2008-03-04"/>
+		<cosponsor id="400206" joined="2008-03-31"/>
+		<cosponsor id="400212" joined="2008-04-17"/>
+		<cosponsor id="400147" joined="2008-03-10"/>
+		<cosponsor id="400230" joined="2008-03-10"/>
+		<cosponsor id="412187" joined="2008-04-29"/>
+		<cosponsor id="400044" joined="2008-02-07"/>
+		<cosponsor id="400051" joined="2008-05-01"/>
+		<cosponsor id="400631" joined="2007-10-30"/>
+		<cosponsor id="400131" joined="2007-12-13"/>
+		<cosponsor id="412211" joined="2007-12-19"/>
+		<cosponsor id="400259" joined="2008-02-13"/>
+		<cosponsor id="412216" joined="2007-10-30"/>
+		<cosponsor id="400013" joined="2008-03-31"/>
+		<cosponsor id="400251" joined="2008-01-17"/>
+		<cosponsor id="400175" joined="2008-04-09"/>
+		<cosponsor id="400255" joined="2007-10-30"/>
+		<cosponsor id="400645" joined="2008-03-31"/>
+		<cosponsor id="400643" joined="2007-12-05"/>
+		<cosponsor id="400107" joined="2008-05-06"/>
+		<cosponsor id="400628" joined="2007-10-30"/>
+		<cosponsor id="412236" joined="2007-11-15"/>
+		<cosponsor id="412186" joined="2008-02-13"/>
+		<cosponsor id="400221" joined="2008-03-10"/>
+		<cosponsor id="412213" joined="2008-02-07"/>
+		<cosponsor id="400145" joined="2007-12-05"/>
+		<cosponsor id="412220" joined="2007-10-30"/>
+		<cosponsor id="400656" joined="2008-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1193716800" datetime="2007-10-30"><text>Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1193716800" datetime="2007-10-30"><text>Referred to House Financial Services</text></action>
+		<action date="1193716800" datetime="2007-10-30"><text>Referred to House Judiciary</text></action>
+		<action date="1200027600" datetime="2008-01-11"><committee name="House Financial Services"/><text>Referred to the Subcommittee on Financial Institutions and Consumer Credit.</text></action>
+		<action date="1210708560" datetime="2008-05-13T16:56:00-04:00"><text>Mr. Mahoney (FL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1210708560" datetime="2008-05-13T16:56:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3729-3732"/></action>
+		<action date="1210708560" datetime="2008-05-13T16:56:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4008.</text></action>
+		<action date="1210709760" datetime="2008-05-13T17:16:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1210716900" datetime="2008-05-13T19:15:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3752"/></action>
+		<vote date="1210717440" how="roll" roll="308" datetime="2008-05-13T19:24:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 308).</text><reference label="text" ref="CR H3729"/></vote>
+		<action date="1210737600" datetime="2008-05-14"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1211256000" how="by Unanimous Consent" datetime="2008-05-20" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S4439-4440"/></vote>
+		<action date="1211256000" datetime="2008-05-20"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1211256000" datetime="2008-05-20" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1211515200" datetime="2008-05-23" ><text>Presented to President.</text></topresident>
+		<signed date="1212465600" datetime="2008-06-03" ><text>Signed by President.</text></signed>
+		<enacted number="110-241" date="1212465600" datetime="2008-06-03" type="public" ><text>Became Public Law No: 110-241.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/3/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Credit and Debit Card Receipt Clarification Act of 2007 - Amends the Fair Credit Reporting Act (FCRA) to declare that any person who printed an expiration date on any receipt provided to a consumer cardholder at a point of sale (POS) or transaction between December 4, 2004, and the enactment of this Act, but otherwise complied with FCRA requirements for such receipt, shall not be in willful noncompliance by reason of printing such expiration date on it.<br/>
+	</summary>
+</bill>

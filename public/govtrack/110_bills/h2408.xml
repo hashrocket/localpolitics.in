@@ -1,0 +1,50 @@
+<bill session="110" type="h" number="2408" updated="2009-01-08T21:52:24-05:00">
+	<status><enacted date="1198213200" datetime="2007-12-21" /></status>
+
+	<introduced date="1179720000" datetime="2007-05-21"/>
+	<titles>
+		<title type="official" as="introduced">To designate the Department of Veterans Affairs outpatient clinic in Green Bay, Wisconsin, as the &quot;Milo C. Huempfner Department of Veterans Affairs Outpatient Clinic&quot;.</title>
+	</titles>
+	<sponsor id="412240"/>
+	<cosponsors>
+		<cosponsor id="400661" joined="2007-05-21"/>
+		<cosponsor id="400040" joined="2007-10-18"/>
+		<cosponsor id="400300" joined="2007-05-21"/>
+		<cosponsor id="400365" joined="2007-05-21"/>
+		<cosponsor id="400013" joined="2007-05-21"/>
+		<cosponsor id="400318" joined="2007-05-21"/>
+		<cosponsor id="400351" joined="2007-05-21"/>
+		<cosponsor id="400218" joined="2007-05-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1179720000" datetime="2007-05-21"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1180411200" datetime="2007-05-29"><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1193156100" datetime="2007-10-23T13:15:00-04:00"><text>Mr. Filner moved to suspend the rules and pass the bill.</text></action>
+		<action date="1193156160" datetime="2007-10-23T13:16:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11878-11879"/></action>
+		<action date="1193156160" datetime="2007-10-23T13:16:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2408.</text></action>
+		<vote date="1193156760" how="by voice vote" datetime="2007-10-23T13:26:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H11878"/></vote>
+		<action date="1193198400" datetime="2007-10-24"><text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+		<action date="1197522000" datetime="2007-12-13"><text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S15571"/></action>
+		<vote date="1197522000" how="by Unanimous Consent" datetime="2007-12-13" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<topresident date="1197522000" datetime="2007-12-13" ><text>Cleared for White House.</text></topresident>
+		<action date="1197608400" datetime="2007-12-14"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1198040400" datetime="2007-12-19" ><text>Presented to President.</text></topresident>
+		<signed date="1198213200" datetime="2007-12-21" ><text>Signed by President.</text></signed>
+		<enacted number="110-145" date="1198213200" datetime="2007-12-21" type="public" ><text>Became Public Law No: 110-145.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/21/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the Department of Veterans Affairs outpatient clinic in Green Bay, Wisconsin, as the &quot;Milo C. Huempfner Department of Veterans Affairs Outpatient Clinic.&quot;<br/>
+	</summary>
+</bill>

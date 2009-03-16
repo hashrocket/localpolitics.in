@@ -1,0 +1,69 @@
+<bill session="110" type="s" number="1760" updated="2009-01-09T15:29:06-05:00">
+	<status><enacted date="1223006400" datetime="2008-10-03" /></status>
+
+	<introduced date="1184040000" datetime="2007-07-10"/>
+	<titles>
+		<title type="short" as="introduced">Healthy Start Reauthorization Act of 2007</title>
+		<title type="short" as="reported to senate">Healthy Start Reauthorization Act of 2007</title>
+		<title type="short" as="passed senate">Healthy Start Reauthorization Act of 2007</title>
+		<title type="short" as="enacted">Healthy Start Reauthorization Act of 2007</title>
+		<title type="official" as="introduced">A bill to amend the Public Health Service Act with respect to the Healthy Start Initiative.</title>
+	</titles>
+	<sponsor id="400050"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="2008-04-23"/>
+		<cosponsor id="300009" joined="2007-09-05"/>
+		<cosponsor id="300011" joined="2008-02-11"/>
+		<cosponsor id="300093" joined="2008-02-11"/>
+		<cosponsor id="300038" joined="2007-09-18"/>
+		<cosponsor id="300066" joined="2007-09-20"/>
+		<cosponsor id="300073" joined="2008-04-21"/>
+		<cosponsor id="300034" joined="2008-04-29"/>
+		<cosponsor id="300051" joined="2008-04-21"/>
+		<cosponsor id="300023" joined="2007-09-06"/>
+		<cosponsor id="300022" joined="2008-03-10"/>
+		<cosponsor id="412246" joined="2007-10-04"/>
+		<cosponsor id="300076" joined="2007-09-18"/>
+		<cosponsor id="400629" joined="2007-09-20"/>
+		<cosponsor id="400357" joined="2008-04-22"/>
+		<cosponsor id="400054" joined="2007-07-10"/>
+		<cosponsor id="300058" joined="2007-09-17"/>
+		<cosponsor id="300064" joined="2008-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1184040000" datetime="2007-07-10"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+		<calendar date="1205380800" datetime="2008-03-13" ><text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1209441600" datetime="2008-04-29"><text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="723" date="1209441600" datetime="2008-04-29" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 723.</text></calendar>
+		<vote date="1209528000" how="by Unanimous Consent" datetime="2008-04-30" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S3644"/><reference label="text of measure as passed Senate" ref="CR S3644"/></vote>
+		<action date="1209647280" datetime="2008-05-01T10:08:00-04:00"><text>Received in the House.</text></action>
+		<action date="1209614400" datetime="2008-05-01"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1209614400" datetime="2008-05-01"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1209960000" datetime="2008-05-05"><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1221624000" datetime="2008-09-17"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1221624000" datetime="2008-09-17" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1222211340" datetime="2008-09-23T20:09:00-04:00"><text>Mr. Pallone moved to suspend the rules and pass the bill.</text></action>
+		<action date="1222211340" datetime="2008-09-23T20:09:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8670-8671"/></action>
+		<action date="1222211340" datetime="2008-09-23T20:09:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 1760.</text></action>
+		<vote date="1222211580" how="by voice vote" datetime="2008-09-23T20:13:00-04:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H8670-8671"/></vote>
+		<topresident date="1222142400" datetime="2008-09-23" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1222401600" datetime="2008-09-26" ><text>Presented to President.</text></topresident>
+		<signed date="1223006400" datetime="2008-10-03" ><text>Signed by President.</text></signed>
+		<enacted number="110-339" date="1223006400" datetime="2008-10-03" type="public" ><text>Became Public Law No: 110-339.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/2008--Public Law. (This measure has not been amended since it was reported to the Senate on April 29, 2008. The summary of that version is repeated here.) Healthy Start Reauthorization Act of 2007 [sic] - Amends the Public Health Service Act to require the Secretary of Health and Human Services to consider certain criteria in making grants under the Healthy Start Initiative, including: (1) factors that contribute to infant mortality, such as low birthweight; and (2) the extent to which applicants for grants facilitate a community-based approach to the delivery of services and a comprehensive approach to women's health care to improve perinatal outcomes.<br/>Provides that the Secretary is not prevented from awarding grants for special projects that are intended to address significant disparities in perinatal health indicators in communities along the United States-Mexico border or in Alaska or Hawaii.<br/>Eliminates authority for the Secretary to make additional grants to: (1) assist communities with technical assistance, replication of successful projects, and state policy formation to reduce infant and maternal mortality and morbidity; and (2) conduct and support research and to provide additional health care services for pregnant women and infants.<br/>Reauthorizes appropriations for FY2008-FY2013 for the Healthy Start Initiative.<br/>
+	</summary>
+</bill>

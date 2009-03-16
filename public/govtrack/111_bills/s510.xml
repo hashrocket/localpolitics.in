@@ -1,0 +1,38 @@
+<bill session="111" type="s" number="510" updated="2009-03-07T14:33:58-05:00">
+	<status><introduced date="1236056400" datetime="2009-03-03"/></status>
+
+	<introduced date="1236056400" datetime="2009-03-03"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Federal Food, Drug, and Cosmetic Act with respect to the safety of the food supply.</title>
+	</titles>
+	<sponsor id="300038"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2009-03-04"/>
+		<cosponsor id="300002" joined="2009-03-03"/>
+		<cosponsor id="300059" joined="2009-03-03"/>
+		<cosponsor id="300021" joined="2009-03-04"/>
+		<cosponsor id="300034" joined="2009-03-03"/>
+		<cosponsor id="400054" joined="2009-03-03"/>
+		<cosponsor id="400194" joined="2009-03-03"/>
+		<cosponsor id="300049" joined="2009-03-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1236056400" datetime="2009-03-03"><text>Sponsor introductory remarks on measure. (CR S2692-2693)</text></action>
+		<action date="1236056400" datetime="2009-03-03"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S2693-2705"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

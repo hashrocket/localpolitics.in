@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="1043" updated="2009-03-07T11:51:25-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Deafy Glade Land Exchange Act</title>
+		<title type="official" as="introduced">To provide for a land exchange involving certain National Forest System lands in the Mendocino National Forest in the State of California, and for other purposes.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1235019600" datetime="2009-02-19"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Deafy Glade Land Exchange Act - Directs the Secretary of Agriculture to convey to Solano County, California, all right, title, and interest of the United States in and to the parcel of land in the Mendocino National Forest comprising approximately 82 acres and known as the Fouts Springs Ranch, as depicted on the map entitled &quot;Fouts Springs-Deafy Glade Federal and Non-Federal Lands&quot; and dated July 17, 2008, if the county conveys to the Secretary all right, title, and interest of the county in and to four parcels of land consisting of approximately 160 acres identified on such map.<br/>
+	</summary>
+</bill>

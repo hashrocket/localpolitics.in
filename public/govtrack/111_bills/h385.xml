@@ -1,0 +1,61 @@
+<bill session="111" type="h" number="385" updated="2009-03-07T10:32:53-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">CAR Act of 2009</title>
+		<title type="short" as="introduced">Consumer Auto Relief Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide tax incentives to consumers and lenders for the purchase of a passenger vehicle during 2009.</title>
+	</titles>
+	<sponsor id="400341"/>
+	<cosponsors>
+		<cosponsor id="400627" joined="2009-01-09"/>
+		<cosponsor id="400017" joined="2009-01-26"/>
+		<cosponsor id="400004" joined="2009-01-09"/>
+		<cosponsor id="400038" joined="2009-01-09"/>
+		<cosponsor id="412309" joined="2009-02-04"/>
+		<cosponsor id="400060" joined="2009-01-09"/>
+		<cosponsor id="412267" joined="2009-02-04"/>
+		<cosponsor id="400092" joined="2009-01-09"/>
+		<cosponsor id="400342" joined="2009-01-15"/>
+		<cosponsor id="400267" joined="2009-02-04"/>
+		<cosponsor id="400344" joined="2009-01-22"/>
+		<cosponsor id="412277" joined="2009-01-13"/>
+		<cosponsor id="400276" joined="2009-01-14"/>
+		<cosponsor id="400440" joined="2009-01-21"/>
+		<cosponsor id="400260" joined="2009-01-09"/>
+		<cosponsor id="400406" joined="2009-01-09"/>
+		<cosponsor id="400182" joined="2009-01-21"/>
+		<cosponsor id="400288" joined="2009-01-26"/>
+		<cosponsor id="412011" joined="2009-01-09"/>
+		<cosponsor id="400010" joined="2009-01-09"/>
+		<cosponsor id="400309" joined="2009-01-09"/>
+		<cosponsor id="400235" joined="2009-01-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Sponsor introductory remarks on measure. (CR H94)</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Consumer credit"/>
+		<term name="Income tax deductions"/>
+		<term name="Income tax exclusion"/>
+		<term name="Interest and interest rates"/>
+		<term name="Motor vehicles"/>
+		<term name="Sales and excise taxes"/>
+		<term name="State and local taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Consumer Auto Relief Act of 2009 or the CAR Act of 2009 - Amends the Internal Revenue Code to allow individual taxpayers a tax deduction for: (1) up to $7,500 of the purchase price of a new passenger automobile or light truck that is purchased in 2009; (2) interest paid on any loan to purchase such vehicles; and (3) state and local sales taxes paid on a vehicle purchase. Excludes from the gross income of lenders 50% of the interest paid on any consumer loan for the purchase of a new passenger automobile or light truck. 
+	</summary>
+</bill>

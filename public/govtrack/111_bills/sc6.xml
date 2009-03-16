@@ -1,0 +1,44 @@
+<bill session="111" type="sc" number="6" updated="2009-03-07T14:36:30-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution expressing the sense of Congress that national health care reform should ensure that the health care needs of women and of all individuals in the United States are met.</title>
+	</titles>
+	<sponsor id="300093"/>
+	<cosponsors>
+		<cosponsor id="300076" joined="2009-02-11"/>
+		<cosponsor id="300038" joined="2009-03-05"/>
+		<cosponsor id="300073" joined="2009-02-11"/>
+		<cosponsor id="400357" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S2164-2165"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="hc" number="48" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Disability and health-based discrimination"/>
+		<term name="Family planning and birth control"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Health care quality"/>
+		<term name="Health personnel"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Health promotion and preventive care"/>
+		<term name="Medical education"/>
+		<term name="Sex and reproductive health"/>
+		<term name="Women's health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

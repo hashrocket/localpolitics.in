@@ -1,0 +1,33 @@
+<bill session="110" type="s" number="3658" updated="2009-01-09T19:30:09-05:00">
+	<status><vote date="1222747200" datetime="2008-09-30" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1222747200" datetime="2008-09-30"/>
+	<titles>
+		<title type="official" as="introduced">A bill to require the accreditation of English language training programs, and for other purposes.</title>
+	</titles>
+	<sponsor id="300019"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote date="1222747200" how="by Unanimous Consent" datetime="2008-09-30" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10181-10182"/><reference label="text as passed Senate" ref="CR S10181-10182"/></vote>
+		<action date="1222833600" datetime="2008-10-01"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1223003400" datetime="2008-10-02T12:10:00-04:00"><text>Received in the House.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Referred to the House Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Amends the Immigration and Nationality Act to require that an alien seeking to enter the United States as a nonimmigrant foreign student (F visa) to study at a language training program enroll at a program that is accredited by an accrediting agency recognized by the Secretary of Education. Authorizes, during the three-year period after enactment of this Act, the granting of an F visa to an alien seeking to enter the United States to pursue a course of study at a language training program which has not been accredited or denied accreditation by such an accrediting entity but that has been certified by the Secretary of Homeland Security. Prohibits the granting of such visa if the language training program's sponsoring institution does not: (1) apply for program accreditation to an accrediting agency recognized by the Secretary of Education within one year after the date of the enactment of this Act; and (2) comply with the applicable accrediting requirements.<br/>
+	</summary>
+</bill>

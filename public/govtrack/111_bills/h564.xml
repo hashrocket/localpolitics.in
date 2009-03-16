@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="564" updated="2009-03-07T10:53:53-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Superfund Reinvestment Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend the financing of the Superfund.</title>
+	</titles>
+	<sponsor id="400033"/>
+	<cosponsors>
+		<cosponsor id="400387" joined="2009-03-05"/>
+		<cosponsor id="400308" joined="2009-01-15"/>
+		<cosponsor id="400426" joined="2009-03-05"/>
+		<cosponsor id="400391" joined="2009-02-13"/>
+		<cosponsor id="400184" joined="2009-02-13"/>
+		<cosponsor id="400437" joined="2009-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Sponsor introductory remarks on measure. (CR E101)</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="832" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Government trust funds"/>
+		<term name="Hazardous wastes and toxic substances"/>
+		<term name="Pollution liability"/>
+		<term name="Sales and excise taxes"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Superfund Reinvestment Act of 2009 - Amends the Internal Revenue Code by reinstating until January 1, 2018, the Hazardous Substance Superfund financing rate and the corporate environmental income tax.<br/>
+	</summary>
+</bill>

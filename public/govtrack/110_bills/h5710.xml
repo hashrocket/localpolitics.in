@@ -1,0 +1,49 @@
+<bill session="110" type="h" number="5710" updated="2009-01-09T04:41:55-05:00">
+	<status><vote date="1213887540" datetime="2008-06-19T11:59:00-04:00" where="h" result="pass" how="roll" roll="425"/></status>
+
+	<introduced date="1207195200" datetime="2008-04-03"/>
+	<titles>
+		<title type="short" as="introduced">Eastern New Mexico Rural Water System Authorization Act</title>
+		<title type="short" as="reported to house">Eastern New Mexico Rural Water System Authorization Act</title>
+		<title type="short" as="passed house">Eastern New Mexico Rural Water System Authorization Act</title>
+		<title type="official" as="introduced">To authorize the Secretary of the Interior to provide financial assistance to the Eastern New Mexico Rural Water Authority for the planning, design, and construction of the Eastern New Mexico Rural Water System, and for other purposes.</title>
+	</titles>
+	<sponsor id="400413"/>
+	<cosponsors>
+		<cosponsor id="400313" joined="2008-05-07"/>
+		<cosponsor id="400434" joined="2008-04-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1207195200" datetime="2008-04-03"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1207281600" datetime="2008-04-04"><text>Sponsor introductory remarks on measure. (CR E505)</text></action>
+		<action date="1207627200" datetime="2008-04-08"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1210219200" datetime="2008-05-08"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1211428800" datetime="2008-05-22"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1213156800" datetime="2008-06-11"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1213156800" datetime="2008-06-11" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1213723860" datetime="2008-06-17T14:31:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 110-714.</text></action>
+		<calendar number="455" date="1213723920" datetime="2008-06-17T14:32:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 455.</text></calendar>
+		<action date="1213728300" datetime="2008-06-17T15:45:00-04:00"><text>Ms. Bordallo moved to suspend the rules and pass the bill.</text></action>
+		<action date="1213728300" datetime="2008-06-17T15:45:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5428-5430"/></action>
+		<action date="1213728300" datetime="2008-06-17T15:45:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5710.</text></action>
+		<action date="1213728420" datetime="2008-06-17T15:47:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Issa objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1213887120" datetime="2008-06-19T11:52:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5594"/></action>
+		<vote date="1213887540" how="roll" roll="425" datetime="2008-06-19T11:59:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays (2/3 required): 301 - 124 (Roll No. 425). (text: CR 6/17/2008 H5428-5429)</text></vote>
+		<calendar under="General Orders" number="826" date="1213934400" datetime="2008-06-20" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 826.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/19/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)<br/>Eastern New Mexico Rural Water System Authorization Act - Authorizes the Secretary of the Interior to provide financial and technical assistance to the Eastern New Mexico Rural Water Authority to assist in planning, designing, conducting preconstruction activities for, and constructing the Eastern New Mexico Rural Water System. Limits the federal share of the cost of any activity to 75%. Provides that the total cost of the System shall include any costs incurred by the Authority or the state of New Mexico on or after October 1, 2003, for System development. Makes the Authority responsible for annual operation, maintenance, and replacement costs. Directs the Authority to develop an operation, maintenance, and replacement plan that establishes rates and fees necessary to ensure that the System is properly maintained and capable of delivering approximately 16,500 acre-feet of water per year. Prohibits the use of funds under this Act until such plan is developed and the Secretary and the Authority have complied with applicable requirements of the National Environmental Policy Act of 1969.<br/>Directs the Secretary to: (1) enter into a cooperative agreement with the Authority to provide financial and any other assistance requested by the Authority for planning, design, related preconstruction activities, and construction of the System; and (2) consult with the New Mexico Interstate Stream Commission and the Authority in preparing any required biological assessment under the Endangered Species Act of 1973. Authorizes the Secretary, at the Authority's request, to provide technical assistance.<br/>Authorizes appropriations.<br/>
+	</summary>
+</bill>

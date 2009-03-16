@@ -1,0 +1,111 @@
+<bill session="111" type="h" number="515" updated="2009-03-07T10:48:13-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="short" as="introduced">Radioactive Import Deterrence Act</title>
+		<title type="official" as="introduced">To prohibit the importation of certain low-level radioactive waste into the United States.</title>
+	</titles>
+	<sponsor id="400155"/>
+	<cosponsors>
+		<cosponsor id="400663" joined="2009-01-27"/>
+		<cosponsor id="412287" joined="2009-01-22"/>
+		<cosponsor id="400352" joined="2009-02-04"/>
+		<cosponsor id="400640" joined="2009-01-14"/>
+		<cosponsor id="400144" joined="2009-02-04"/>
+		<cosponsor id="400133" joined="2009-01-14"/>
+		<cosponsor id="412258" joined="2009-01-14"/>
+		<cosponsor id="412229" joined="2009-02-12"/>
+		<cosponsor id="400147" joined="2009-02-12"/>
+		<cosponsor id="400082" joined="2009-02-04"/>
+		<cosponsor id="412319" joined="2009-02-04"/>
+		<cosponsor id="400280" joined="2009-01-22"/>
+		<cosponsor id="412227" joined="2009-02-04"/>
+		<cosponsor id="412187" joined="2009-01-22"/>
+		<cosponsor id="400227" joined="2009-01-14"/>
+		<cosponsor id="400442" joined="2009-01-14"/>
+		<cosponsor id="400177" joined="2009-01-14"/>
+		<cosponsor id="400308" joined="2009-01-22"/>
+		<cosponsor id="400289" joined="2009-01-22"/>
+		<cosponsor id="400631" joined="2009-01-22"/>
+		<cosponsor id="400616" joined="2009-01-14"/>
+		<cosponsor id="400160" joined="2009-01-22"/>
+		<cosponsor id="400259" joined="2009-02-12"/>
+		<cosponsor id="400080" joined="2009-01-14"/>
+		<cosponsor id="400436" joined="2009-01-14"/>
+		<cosponsor id="400162" joined="2009-01-22"/>
+		<cosponsor id="400346" joined="2009-02-04"/>
+		<cosponsor id="400237" joined="2009-01-14"/>
+		<cosponsor id="400013" joined="2009-02-12"/>
+		<cosponsor id="400183" joined="2009-01-28"/>
+		<cosponsor id="400400" joined="2009-01-14"/>
+		<cosponsor id="400282" joined="2009-01-14"/>
+		<cosponsor id="400426" joined="2009-01-22"/>
+		<cosponsor id="412234" joined="2009-02-12"/>
+		<cosponsor id="400320" joined="2009-01-14"/>
+		<cosponsor id="400178" joined="2009-01-14"/>
+		<cosponsor id="400026" joined="2009-01-22"/>
+		<cosponsor id="412327" joined="2009-02-12"/>
+		<cosponsor id="400378" joined="2009-01-27"/>
+		<cosponsor id="412270" joined="2009-01-14"/>
+		<cosponsor id="400350" joined="2009-01-28"/>
+		<cosponsor id="400635" joined="2009-01-14"/>
+		<cosponsor id="400360" joined="2009-01-22"/>
+		<cosponsor id="400255" joined="2009-01-14"/>
+		<cosponsor id="400430" joined="2009-01-14"/>
+		<cosponsor id="400170" joined="2009-01-22"/>
+		<cosponsor id="400628" joined="2009-01-14"/>
+		<cosponsor id="400638" joined="2009-01-14"/>
+		<cosponsor id="412200" joined="2009-01-14"/>
+		<cosponsor id="412277" joined="2009-01-22"/>
+		<cosponsor id="400193" joined="2009-01-14"/>
+		<cosponsor id="412236" joined="2009-01-14"/>
+		<cosponsor id="412186" joined="2009-02-04"/>
+		<cosponsor id="400326" joined="2009-03-06"/>
+		<cosponsor id="412228" joined="2009-01-22"/>
+		<cosponsor id="400124" joined="2009-01-14"/>
+		<cosponsor id="400630" joined="2009-01-14"/>
+		<cosponsor id="400040" joined="2009-03-06"/>
+		<cosponsor id="400204" joined="2009-02-04"/>
+		<cosponsor id="400033" joined="2009-01-28"/>
+		<cosponsor id="412189" joined="2009-03-06"/>
+		<cosponsor id="412299" joined="2009-01-28"/>
+		<cosponsor id="400431" joined="2009-01-14"/>
+		<cosponsor id="400101" joined="2009-01-27"/>
+		<cosponsor id="400288" joined="2009-01-14"/>
+		<cosponsor id="400355" joined="2009-02-04"/>
+		<cosponsor id="412208" joined="2009-01-22"/>
+		<cosponsor id="400345" joined="2009-01-27"/>
+		<cosponsor id="400114" joined="2009-01-14"/>
+		<cosponsor id="400062" joined="2009-01-14"/>
+		<cosponsor id="400437" joined="2009-01-22"/>
+		<cosponsor id="412194" joined="2009-01-27"/>
+		<cosponsor id="400011" joined="2009-03-06"/>
+		<cosponsor id="412188" joined="2009-01-14"/>
+		<cosponsor id="400100" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to House Ways and Means</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="232" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Licensing and registrations"/>
+		<term name="Radioactive wastes and releases"/>
+		<term name="Trade restrictions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

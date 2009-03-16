@@ -1,0 +1,32 @@
+<bill session="111" type="s" number="434" updated="2009-03-07T14:25:05-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="short" as="introduced">Empowered at Home Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend title XIX of the Social Security Act to improve the State plan amendment option for providing home and community-based services under the Medicaid program, and for other purposes.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+		<cosponsor id="300048" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Sponsor introductory remarks on measure. (CR S2323-2324)</text></action>
+		<action date="1234501200" datetime="2009-02-13"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

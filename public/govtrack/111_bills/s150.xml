@@ -1,0 +1,35 @@
+<bill session="111" type="s" number="150" updated="2009-03-07T13:50:41-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Rural Law Enforcement Assistance Act of 2009</title>
+		<title type="official" as="introduced">A bill to provide Federal assistance to States for rural law enforcement and for other purposes.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="2009-01-30"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR S136-137)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S137"/></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Committee on the Judiciary. Hearings held.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Law enforcement administration and funding"/>
+		<term name="Rural conditions and development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Rural Law Enforcement Assistance Act of 2009 - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to authorize appropriations for FY2009-FY2013 for rural drug enforcement assistance.<br/>Amends the Violent Crime Control and Law Enforcement Act of 1994 to authorize appropriations for FY2009-FY2013 for training rural law enforcement officers in the investigation of drug trafficking and related crimes.<br/>
+	</summary>
+</bill>

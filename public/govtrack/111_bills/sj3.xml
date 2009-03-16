@@ -1,0 +1,48 @@
+<bill session="111" type="sj" number="3" updated="2009-03-07T14:37:20-05:00">
+	<status><enacted date="1232082000" datetime="2009-01-16" /></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution ensuring that the compensation and other emoluments attached to the office of Secretary of the Interior are those which were in effect on January 1, 2005.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote date="1231218000" how="by Unanimous Consent" datetime="2009-01-06" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S150-151"/><reference label="text as passed Senate" ref="CR S150-151"/><reference label="text of measure as introduced" ref="CR S147"/></vote>
+		<action date="1231337220" datetime="2009-01-07T10:07:00-05:00"><text>Received in the House.</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1231339200" datetime="2009-01-07T10:40:00-05:00"><text>Held at the desk.</text></action>
+		<action date="1231340040" datetime="2009-01-07T10:54:00-05:00"><text>Mr. Towns moved to suspend the rules and pass the resolution.</text></action>
+		<action date="1231340100" datetime="2009-01-07T10:55:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H48"/></action>
+		<action date="1231340100" datetime="2009-01-07T10:55:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on S.J. Res. 3.</text></action>
+		<vote date="1231340340" how="by voice vote" datetime="2009-01-07T10:59:00-05:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H48"/></vote>
+		<topresident date="1231304400" datetime="2009-01-07" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1231909200" datetime="2009-01-14" ><text>Presented to President.</text></topresident>
+		<signed date="1232082000" datetime="2009-01-16" ><text>Signed by President.</text></signed>
+		<enacted number="111-1" date="1232082000" datetime="2009-01-16" type="public" ><text>Became Public Law No: 111-1.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Civil actions and liability"/>
+		<term name="Constitution and constitutional amendments"/>
+		<term name="Department of the Interior"/>
+		<term name="Federal appellate courts"/>
+		<term name="Federal officials"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Supreme Court"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/16/2009--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Declares that the compensation and other emoluments attached to the office of the Secretary of the Interior shall be those that were in effect on January 1, 2005. Sets forth requirements for permitting civil actions and appeals concerning the constitutionality of the appointment and continuance in office of the Secretary of the Interior. 
+	</summary>
+</bill>

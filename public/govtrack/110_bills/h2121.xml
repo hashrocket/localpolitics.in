@@ -1,0 +1,36 @@
+<bill session="110" type="h" number="2121" updated="2009-01-08T21:17:37-05:00">
+	<status><vote date="1184088420" datetime="2007-07-10T14:27:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1178078400" datetime="2007-05-02"/>
+	<titles>
+		<title type="official" as="introduced">To modify a land grant patent issued by the Secretary of the Interior.</title>
+	</titles>
+	<sponsor id="400391"/>
+	<cosponsors>
+		<cosponsor id="400058" joined="2007-05-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1178078400" datetime="2007-05-02"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1179460800" datetime="2007-05-18"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1184088060" datetime="2007-07-10T14:21:00-04:00"><text>Mr. Sarbanes moved to suspend the rules and pass the bill.</text></action>
+		<action date="1184088060" datetime="2007-07-10T14:21:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7440"/></action>
+		<action date="1184088060" datetime="2007-07-10T14:21:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2121.</text></action>
+		<vote date="1184088420" how="by voice vote" datetime="2007-07-10T14:27:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H7440"/></vote>
+		<action date="1184126400" datetime="2007-07-11"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/10/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Modifies a land grant patent issued by the Secretary of the Interior to the Great Lakes Shipwreck Historical Society, Chippewa County, Michigan. 
+	</summary>
+</bill>

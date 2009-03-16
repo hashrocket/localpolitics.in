@@ -1,0 +1,32 @@
+<bill session="111" type="s" number="569" updated="2009-03-12T12:00:28-04:00">
+	<status><introduced date="1236744000" datetime="2009-03-11"/></status>
+
+	<introduced date="1236744000" datetime="2009-03-11"/>
+	<titles>
+		<title type="official" as="introduced">A bill to ensure that persons who form corporations in the United States disclose the beneficial owners of those corporations, in order to prevent wrongdoers from exploiting United States corporations for criminal gain, to assist law enforcement in detecting, preventing, and punishing terrorism, money laundering, and other misconduct involving United States corporations, and for other purposes.</title>
+	</titles>
+	<sponsor id="300066"/>
+	<cosponsors>
+		<cosponsor id="412243" joined="2009-03-11"/>
+		<cosponsor id="300048" joined="2009-03-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1236744000" datetime="2009-03-11"><text>Sponsor introductory remarks on measure. (CR S3026)</text></action>
+		<action date="1236744000" datetime="2009-03-11"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text><reference label="text of measure as introduced" ref="CR S3029-3031"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

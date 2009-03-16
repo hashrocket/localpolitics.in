@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="1021" updated="2009-01-08T18:58:05-05:00">
+	<status><vote date="1174325400" datetime="2007-03-19T14:30:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1171342800" datetime="2007-02-13"/>
+	<titles>
+		<title type="short" as="introduced">Taunton, Massachusetts Special Resources Study Act</title>
+		<title type="short" as="passed house">Taunton, Massachusetts Special Resources Study Act</title>
+		<title type="official" as="introduced">To direct the Secretary of the Interior to conduct a special resources study regarding the suitability and feasibility of designating certain historic buildings and areas in Taunton, Massachusetts, as a unit of the National Park System, and for other purposes.</title>
+	</titles>
+	<sponsor id="400140"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1171342800" datetime="2007-02-13"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1172034000" datetime="2007-02-21"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1174325280" datetime="2007-03-19T14:28:00-04:00"><text>Mr. Grijalva moved to suspend the rules and pass the bill.</text></action>
+		<action date="1174325280" datetime="2007-03-19T14:28:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2631"/></action>
+		<action date="1174325280" datetime="2007-03-19T14:28:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1021.</text></action>
+		<vote date="1174325400" how="by voice vote" datetime="2007-03-19T14:30:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H2631"/></vote>
+		<action date="1174363200" datetime="2007-03-20"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1189483200" datetime="2007-09-11"><text>Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held.</text></action>
+		<calendar date="1201669200" datetime="2008-01-30" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1207800000" datetime="2008-04-10"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-317.</text></action>
+		<calendar under="General Orders" number="669" date="1207800000" datetime="2008-04-10" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 669.</text></calendar>
+		<action date="1213156800" datetime="2008-06-11"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S5530"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/19/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Taunton, Massachusetts Special Resources Study Act - Directs the Secretary of the Interior to conduct a study and submit a report regarding the suitability and feasibility of designating certain historic buildings and areas in Taunton, Massachusetts, as a unit of the National Park System (NPS). Requires recommendations in the report to include discussion and consideration of the concerns expressed by private landowners with respect to designating the structures referred to in this Act as an NPS unit.<br/>
+	</summary>
+</bill>

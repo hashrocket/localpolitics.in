@@ -1,0 +1,39 @@
+<bill session="110" type="hr" number="86" updated="2009-01-09T08:04:25-05:00">
+	<status><vote date="1169699160" datetime="2007-01-24T12:26:00-05:00" where="h" result="pass" how="roll" roll="53"/></status>
+
+	<introduced date="1169528400" datetime="2007-01-23"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the resolution (H. Res. 78) amending the Rules of the House of Representatives to permit Delegates and the Resident Commissioner to the Congress to cast votes in the Committee of the Whole House on the state of the Union.</title>
+	</titles>
+	<sponsor id="400170"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1169583000" datetime="2007-01-23T16:10:00-05:00"><text>During consideration of H.Res 78 pursuant to this resolution, notwithstanding the operation of the previous question, the Chair may postpone further consideration of the bill to a time designated by the Speaker.</text></action>
+		<action date="1169583480" datetime="2007-01-23T16:18:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-3, by Mr. Hastings (FL).</text></action>
+		<calendar date="1169583540" datetime="2007-01-23T16:19:00-05:00" ><text>Placed on the House Calendar, Calendar No. 3.</text></calendar>
+		<action date="1169648400" datetime="2007-01-24T10:20:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H891-902"/></action>
+		<action date="1169648400" datetime="2007-01-24T10:20:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 86.</text></action>
+		<action date="1169697780" datetime="2007-01-24T12:03:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 229 - 191 (Roll no. 51).</text><reference label="consideration" ref="CR H900"/></action>
+		<action date="1169697780" datetime="2007-01-24T12:03:00-05:00"><text>Mr. Dreier moved to reconsider the vote.</text></action>
+		<action date="1169697840" datetime="2007-01-24T12:04:00-05:00"><text>Mr. McGovern moved to table the motion to reconsider the vote.</text></action>
+		<action date="1169698500" datetime="2007-01-24T12:15:00-05:00"><text>On motion to table the motion to reconsider the vote Agreed to by recorded vote: 229 - 189 (Roll No. 52).</text></action>
+		<vote date="1169699160" how="roll" roll="53" datetime="2007-01-24T12:26:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by recorded vote: 228 - 188 (Roll no. 53).</text><reference label="text" ref="CR H891"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/24/2007--Passed House without amendment. Sets forth the rule for consideration of H.Res.78 (permitting Delegates and the Resident Commissioner to Congress to cast votes in the Committee of the Whole House on the State of the Union).<br/>
+	</summary>
+</bill>

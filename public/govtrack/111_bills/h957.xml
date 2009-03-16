@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="957" updated="2009-03-07T11:40:51-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="short" as="introduced">Green Energy Education Act of 2009</title>
+		<title type="official" as="introduced">To authorize higher education curriculum development and graduate training in advanced energy and green building technologies.</title>
+	</titles>
+	<sponsor id="400654"/>
+	<cosponsors>
+		<cosponsor id="412258" joined="2009-02-10"/>
+		<cosponsor id="400178" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the House Committee on Science and Technology.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Science and Technology" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Advanced technology and technological innovations"/>
+		<term name="Education programs funding"/>
+		<term name="Energy efficiency and conservation"/>
+		<term name="Energy research"/>
+		<term name="Higher education"/>
+		<term name="Housing industry, construction, standards"/>
+		<term name="Research administration and funding"/>
+		<term name="Research and development"/>
+		<term name="Science and engineering education"/>
+		<term name="Teaching, teachers, curricula"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Introduced.<br/>Green Energy Education Act of 2009 - Authorizes the Secretary of Energy to contribute energy research and development funds to the National Science Foundation (NSF) for the Integrative Graduate Education and Research Traineeship program to support graduate education related to such energy projects. Authorizes the Secretary to contribute funds for advanced energy technology research and development for high performance buildings to the NSF for curriculum development to improve undergraduate or graduate interdisciplinary engineering and architecture education related to the design and construction of such buildings.
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="1030" updated="2009-03-07T11:49:52-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Tom Lantos Pulmonary Hypertension Research and Education Act of 2009</title>
+		<title type="official" as="introduced">To direct the Secretary of Health and Human Services to encourage research and carry out an educational campaign with respect to pulmonary hypertension, and for other purposes.</title>
+	</titles>
+	<sponsor id="400046"/>
+	<cosponsors>
+		<cosponsor id="400352" joined="2009-02-12"/>
+		<cosponsor id="400648" joined="2009-02-23"/>
+		<cosponsor id="400219" joined="2009-02-12"/>
+		<cosponsor id="400407" joined="2009-02-12"/>
+		<cosponsor id="400193" joined="2009-02-12"/>
+		<cosponsor id="400326" joined="2009-02-12"/>
+		<cosponsor id="400301" joined="2009-02-12"/>
+		<cosponsor id="400062" joined="2009-02-12"/>
+		<cosponsor id="412194" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Tom Lantos Pulmonary Hypertension Research and Education Act of 2009 -Expresses the sense of the Congress that: (1) the Secretary of Health and Human Services, acting through the Director of the National Institutes of Health (NIH) and the Director of the National Heart, Lung, and Blood Institute, should continue aggressive work on pulmonary hypertension; and (2) the Director of the Institute should continue research to expand the understanding of the causes of, and to find a cure for, pulmonary hypertension.<br/>Requires inclusion of information on the status of pulmonary hypertension research at NIH in biennial reports to Congress. Requires the Secretary, acting through the Director of the Centers for Disease Control and Prevention (CDC), to carry out an educational campaign to increase public awareness of pulmonary hypertension, which may include information on: (1) pulmonary hypertension and its symptoms; (2) the incidence and prevalence of pulmonary hypertension; (3) diseases and conditions that can lead to pulmonary hypertension as a secondary diagnosis; (4) the importance of early diagnosis; and (5) the availability of a range of treatment options.<br/>Requires the Secretary, acting through the Administrator of the Health Resources and Services Administration (HRSA) and the Director of CDC, to carry out an educational campaign to increase awareness of pulmonary hypertension among health care providers, which may include information on: (1) the symptoms of pulmonary hypertension; (2) the importance of early diagnosis; (3) current diagnostic criteria; and (4) Food and Drug Administration-approved therapies for the disease. Requires such campaign to target health care providers, including cardiologists, pulmonologists, rheumatologists, primary care physicians, pediatricians, and nurse practitioners.<br/>
+	</summary>
+</bill>

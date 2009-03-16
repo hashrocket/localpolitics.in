@@ -1,0 +1,41 @@
+<bill session="111" type="s" number="269" updated="2009-03-07T14:05:52-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Retooling America's Workers for a Green Economy Act</title>
+		<title type="official" as="introduced">A bill to provide funding for unemployment and training activities for dislocated workers and adults, and for other purposes.</title>
+	</titles>
+	<sponsor id="300076"/>
+	<cosponsors>
+		<cosponsor id="400050" joined="2009-01-15"/>
+		<cosponsor id="300093" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S619-620"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="267" />
+		<bill relation="unknown" session="111" type="s" number="268" />
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Alternative and renewable resources"/>
+		<term name="Disability and paralysis"/>
+		<term name="Economic performance and conditions"/>
+		<term name="Employment and training programs"/>
+		<term name="Energy efficiency and conservation"/>
+		<term name="Environmental technology"/>
+		<term name="Public-private cooperation"/>
+		<term name="Unemployment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

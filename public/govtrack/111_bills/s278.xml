@@ -1,0 +1,37 @@
+<bill session="111" type="s" number="278" updated="2009-03-07T14:06:55-05:00">
+	<status><introduced date="1232082000" datetime="2009-01-16"/></status>
+
+	<introduced date="1232082000" datetime="2009-01-16"/>
+	<titles>
+		<title type="short" as="introduced">Incentive to Serve Tax Act</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide for a tax credit for qualified donations of employee services.</title>
+	</titles>
+	<sponsor id="300052"/>
+	<cosponsors>
+		<cosponsor id="300059" joined="2009-01-16"/>
+		<cosponsor id="300049" joined="2009-01-16"/>
+		<cosponsor id="300023" joined="2009-01-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1232082000" datetime="2009-01-16"><text>Sponsor introductory remarks on measure. (CR S653-654)</text></action>
+		<action date="1232082000" datetime="2009-01-16"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax credits"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+		<term name="Wages and earnings"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/16/2009--Introduced.<br/>Incentive to Serve Tax Act - Amends the Internal Revenue Code to allow employers a business tax credit for 25% of wages paid to employees while such employees are performing certain services (e.g., services advancing the improvement of education, health care access, energy conservation, economic opportunities for economically disadvantaged individuals, and disaster preparedness and response) for charitable organizations and community agencies. Limits the amount of wages eligible for such credit to $100,000 per employee. 
+	</summary>
+</bill>

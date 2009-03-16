@@ -1,0 +1,34 @@
+<bill session="110" type="hc" number="442" updated="2009-01-08T16:23:17-05:00">
+	<status><vote2 date="1223006400" datetime="2008-10-03" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1222920000" datetime="2008-10-02"/>
+	<titles>
+		<title type="official" as="introduced">Directing the Secretary of the Senate to correct the enrollment of the bill S. 3001.</title>
+	</titles>
+	<sponsor id="400377"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1222980600" datetime="2008-10-02T17:50:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H10673"/></action>
+		<vote date="1222980660" how="by voice vote" datetime="2008-10-02T17:51:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H10673"/></vote>
+		<action date="1223006400" datetime="2008-10-03"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1223006400" datetime="2008-10-03"><text>Received in the Senate, pursuant to the order of October 2, 2008, during the recess of the Senate.</text></action>
+		<vote date="1223006400" how="by Unanimous Consent" datetime="2008-10-03" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate Pursuant to the order of the Senate of October 2, 2008, without amendment by Unanimous Consent.</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/2/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Directs the Secretary of the Senate to correct the enrollment of S. 3001 (Duncan Hunter National Defense Authorization Act for Fiscal Year 2009) by: (1) changing the amount authorized to be appropriated for the Army from $11,045,052,000 to $10,943,840,000; and (2) changing the amount of authorized funds available for the Defense Science and Technology Program from $11,799,660 to $11,799,660,000.<br/>
+	</summary>
+</bill>

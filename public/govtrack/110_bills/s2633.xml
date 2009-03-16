@@ -1,0 +1,52 @@
+<bill session="110" type="s" number="2633" updated="2009-01-09T17:20:52-05:00">
+	<status><calendar date="1202965200" datetime="2008-02-14" /></status>
+
+	<introduced date="1202878800" datetime="2008-02-13"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for the safe redeployment of United States troops from Iraq.</title>
+	</titles>
+	<sponsor id="300042"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2008-02-25"/>
+		<cosponsor id="400272" joined="2008-02-14"/>
+		<cosponsor id="300082" joined="2008-02-13"/>
+		<cosponsor id="300011" joined="2008-02-25"/>
+		<cosponsor id="300038" joined="2008-02-25"/>
+		<cosponsor id="300087" joined="2008-02-26"/>
+		<cosponsor id="300034" joined="2008-02-25"/>
+		<cosponsor id="300016" joined="2008-02-25"/>
+		<cosponsor id="412247" joined="2008-02-25"/>
+		<cosponsor id="300051" joined="2008-02-25"/>
+		<cosponsor id="400050" joined="2008-02-25"/>
+		<cosponsor id="300022" joined="2008-02-25"/>
+		<cosponsor id="400357" joined="2008-02-25"/>
+		<cosponsor id="300100" joined="2008-02-25"/>
+		<cosponsor id="300064" joined="2008-02-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1202878800" datetime="2008-02-13"><text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar date="1202965200" datetime="2008-02-14" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 575.</text></calendar>
+		<action date="1203915600" datetime="2008-02-25"><text>Motion to proceed to consideration of measure made in Senate.</text><reference label="consideration" ref="CR S1144-1145"/></action>
+		<action date="1203915600" datetime="2008-02-25"><text>Cloture motion on the motion to proceed to the measure presented in Senate.</text><reference label="consideration" ref="CR S1144-1145"/><reference label="text" ref="CR S1145"/></action>
+		<action date="1203915600" datetime="2008-02-25"><text>Motion to proceed to consideration of measure withdrawn in Senate.</text></action>
+		<action date="1204002000" datetime="2008-02-26"><text>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 70 - 24. Record Vote Number: 33.</text><reference label="consideration" ref="CR S1165-1167"/><reference label="text" ref="CR S1166"/></action>
+		<action date="1204002000" datetime="2008-02-26"><text>Motion to proceed to measure considered in Senate.</text><reference label="consideration" ref="CR S1165-1194"/></action>
+		<action date="1204088400" datetime="2008-02-27"><text>Motion to proceed to measure considered in Senate.</text><reference label="consideration" ref="CR S1226-1234, S1235-1258"/></action>
+		<action date="1204088400" datetime="2008-02-27"><text>Motion to proceed to consideration of measure withdrawn in Senate.</text><reference label="consideration" ref="CR S1258"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2008--Introduced.<br/>Directs the President to transition the mission of U.S. forces in Iraq to the following purposes: (1) conducting limited scope and duration operations against al Qaeda and other international terrorist organizations; (2) providing security for U.S. infrastructure and personnel; (3) training and equipping Iraqi security services and U.S. forces; and (4) redeploying U.S. forces from Iraq. Exempts such activities from the funding and redeployment provisions of this Act. Directs the President to begin the phased redeployment of U.S. forces from Iraq. Prohibits funds from being obligated or expended to continue the U.S. Armed Forces deployment in Iraq as of 120 days after the enactment of this Act.<br/>
+	</summary>
+</bill>

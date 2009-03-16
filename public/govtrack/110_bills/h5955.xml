@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="5955" updated="2009-01-09T05:11:27-05:00">
+	<status><introduced date="1209614400" datetime="2008-05-01"/></status>
+
+	<introduced date="1209614400" datetime="2008-05-01"/>
+	<titles>
+		<title type="short" as="introduced">Making Health Care More Affordable Act of 2008</title>
+		<title type="short" as="introduced">Increased Access to Health Insurance Act of 2008</title>
+		<title type="short" as="introduced">Promoting Health for Future Generations Act of 2008</title>
+		<title type="official" as="introduced">To provide for comprehensive health reform.</title>
+	</titles>
+	<sponsor id="412213"/>
+	<cosponsors>
+		<cosponsor id="400659" joined="2008-05-21"/>
+		<cosponsor id="400441" joined="2008-05-06"/>
+		<cosponsor id="400154" joined="2008-05-06"/>
+		<cosponsor id="400071" joined="2008-05-01"/>
+		<cosponsor id="400405" joined="2008-05-01"/>
+		<cosponsor id="400055" joined="2008-05-06"/>
+		<cosponsor id="400224" joined="2008-05-01"/>
+		<cosponsor id="400017" joined="2008-05-01"/>
+		<cosponsor id="400051" joined="2008-05-06"/>
+		<cosponsor id="400287" joined="2008-05-21"/>
+		<cosponsor id="400131" joined="2008-05-01"/>
+		<cosponsor id="400221" joined="2008-05-15"/>
+		<cosponsor id="400141" joined="2008-05-01"/>
+		<cosponsor id="400321" joined="2008-05-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1209614400" datetime="2008-05-01"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Labor, the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1209614400" datetime="2008-05-01"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1209614400" datetime="2008-05-01"><text>Referred to House Education and Labor</text></action>
+		<action date="1209614400" datetime="2008-05-01"><text>Referred to House Judiciary</text></action>
+		<action date="1209614400" datetime="2008-05-01"><text>Referred to House Ways and Means</text></action>
+		<action date="1209960000" datetime="2008-05-05"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1211169600" datetime="2008-05-19"><committee name="House Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/1/2008--Introduced.<br/>Making Health Care More Affordable Act of 2008 - Amends the Internal Revenue Code (IRC) to allow individual taxpayers a refundable tax credit for health insurance costs paid.<br/>Amends the Employee Retirement Income Security Act of 1974 (ERISA) to provide for establishment and governance of association health plans (AHPs), which are group health plans whose sponsors are trade, industry, professional, chamber of commerce, or similar business associations and which meet certain ERISA certification requirements. Amends the Public Health Service Act to provide that the laws of the state designated by a health insurance issuer (primary state) shall apply to individual health insurance coverage offered by that issuer in the primary state and in any other state (secondary state), but only if the coverage and issuer comply with certain requirements.<br/>Promoting Health for Future Generations Act of 2008 - Amends the IRC to to revise provisions related to health savings accounts (HSAs), high deductible health plans, and medical savings accounts (MSAs), including to: (1) increase the tax deduction for contributions to HSAs; (2) allow a new tax deduction for high deductible health plan premiums; and (3) allow individual contributions to a Medicare Advantage MSA.<br/>Increased Access to Health Insurance Act of 2008 - Amends the IRC to permit the use of HSAs to purchase health insurance.<br/>Sets forth conditions for lawsuits arising from health care liability claims regarding health care goods or services or any medical product affecting interstate commerce, including: (1) a statute of limitations of three years after the date of manifestation of injury or one year after the claimant discovers the injury, with certain exceptions; and (2) limits on noneconomic and punitive damages.<br/>Sets forth provisions related to health information technology. Provides for health record banks. Creates safe harbors from civil and criminal penalties in current anti-kickback laws for providing certain health information technology and training services.<br/>
+	</summary>
+</bill>

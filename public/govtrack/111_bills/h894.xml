@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="894" updated="2009-03-07T11:33:20-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Ensuring Safe Facilities and Equipment for American Troops Overseas Act</title>
+		<title type="official" as="introduced">To ensure the safety of expeditionary facilities, infrastructure, and equipment supporting United States military operations overseas.</title>
+	</titles>
+	<sponsor id="400302"/>
+	<cosponsors>
+		<cosponsor id="400046" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the House Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="358" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Congressional oversight"/>
+		<term name="Military facilities and property"/>
+		<term name="Military operations and strategy"/>
+		<term name="Military procurement, research, weapons development"/>
+		<term name="Public contracts and procurement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Introduced.<br/>Ensuring Safe Facilities and Equipment for American Troops Overseas Act - Directs the Secretary of Defense, in order to ensure the safe utilization by the Armed Forces of expeditionary facilities, infrastructure, and equipment supporting U.S. military operations overseas, to certify to the congressional defense committees that: (1) generally accepted industry safety standards are incorporated into military regulations establishing requirements for such facilities, infrastructure, and equipment; (2) each contract or task or delivery order for the construction, installation, repair, maintenance, or operation of overseas expeditionary facilities incorporates such industry standards; and (3) such standards apply in all current and future U.S. military operations overseas.<br/>
+	</summary>
+</bill>

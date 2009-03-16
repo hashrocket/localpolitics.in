@@ -1,0 +1,44 @@
+<bill session="110" type="s" number="2258" updated="2009-01-09T16:33:17-05:00">
+	<status><enacted date="1193803200" datetime="2007-10-31" /></status>
+
+	<introduced date="1193716800" datetime="2007-10-30"/>
+	<titles>
+		<title type="short" as="introduced">Third Higher Education Extension Act of 2007</title>
+		<title type="short" as="passed house">Third Higher Education Extension Act of 2007</title>
+		<title type="short" as="passed senate">Third Higher Education Extension Act of 2007</title>
+		<title type="short" as="enacted">Third Higher Education Extension Act of 2007</title>
+		<title type="official" as="introduced">A bill to temporarily extend the programs under the Higher Education Act of 1965, to amend the definition of an eligible not-for-profit holder, and for other purposes.</title>
+	</titles>
+	<sponsor id="300059"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote date="1193716800" how="by Unanimous Consent" datetime="2007-10-30" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S13532-13533"/><reference label="text as passed Senate" ref="CR S13532-13533"/></vote>
+		<action date="1193753280" datetime="2007-10-30T11:08:00-04:00"><text>Received in the House.</text></action>
+		<action date="1193716800" datetime="2007-10-30"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1193766300" datetime="2007-10-30T14:45:00-04:00"><text>Mr. Yarmuth moved to suspend the rules and pass the bill.</text></action>
+		<action date="1193766300" datetime="2007-10-30T14:45:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H12193-12195"/></action>
+		<action date="1193766300" datetime="2007-10-30T14:45:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 2258.</text></action>
+		<vote date="1193766660" how="by voice vote" datetime="2007-10-30T14:51:00-04:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H12193-12194"/></vote>
+		<topresident date="1193716800" datetime="2007-10-30" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1193716800" datetime="2007-10-30" ><text>Presented to President.</text></topresident>
+		<signed date="1193803200" datetime="2007-10-31" ><text>Signed by President.</text></signed>
+		<enacted number="110-109" date="1193803200" datetime="2007-10-31" type="public" ><text>Became Public Law No: 110-109.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/31/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Third Higher Education Extension Act of 2007 - Amends the Higher Education Extension Act of 2005 to extend the programs under the Higher Education Act of 1965 through March 31, 2008. Amends the Higher Education Act of 1965 to consider trustees acting on behalf of certain governmental or tax-exempt entities as eligible nonprofit holders of Federal Family Education Loans (FFELs), regardless of whether or not such entities are eligible FFEL lenders.<br/>
+	</summary>
+</bill>

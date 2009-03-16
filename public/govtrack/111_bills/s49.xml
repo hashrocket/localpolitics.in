@@ -1,0 +1,44 @@
+<bill session="111" type="s" number="49" updated="2009-03-13T12:02:49-04:00">
+	<status><calendar date="1236830400" datetime="2009-03-12" /></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Public Corruption Prosecution Improvements Act</title>
+		<title type="official" as="introduced">A bill to help Federal prosecutors and investigators combat public corruption by strengthening and clarifying the law.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="412329" joined="2009-03-12"/>
+		<cosponsor id="300027" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR S56)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S56-58"/></action>
+		<calendar date="1236830400" datetime="2009-03-12" ><text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1236830400" datetime="2009-03-12"><text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="32" date="1236830400" datetime="2009-03-12" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 32.</text></calendar>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Crimes against property"/>
+		<term name="Criminal procedure and sentencing"/>
+		<term name="District of Columbia"/>
+		<term name="Elections, voting, political campaign regulation"/>
+		<term name="Fraud offenses"/>
+		<term name="Government ethics and transparency, public corruption"/>
+		<term name="Investigation, prosecution, interrogation methods"/>
+		<term name="Organized crime"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Public Corruption Prosecution Improvements Act - Amends the federal criminal code to: (1) establish a six-year limitation period for the prosecution of certain public corruption crime relating to bribery, theft of government property, mail fraud, and racketeering; (2) revise prohibitions against mail and wire fraud to include the taking of any other thing of value (in addition to money or property) in the commission of such crimes; (3) expand the prohibition against bribery in connection with programs receiving federal financial assistance; (4) increase maximum penalties for theft of government property, bribery, and other public corruption offenses; (5) include certain government theft and bribery offenses as predicates for racketeering prosecutions and wiretaps; (6) revise the definition of &quot;official act&quot; for purposes of public corruption prosecutions; and (7) expand venue requirements for perjury and obstruction of justice proceedings.<br/>Authorizes appropriations for additional Department of Justice personnel to investigate and prosecute public corruption offenses. Directs the U.S. Sentencing Commission to review and amend its guidelines and policy statements applicable to public corruption offenses to reflect increased penalties for such crimes. 
+	</summary>
+</bill>

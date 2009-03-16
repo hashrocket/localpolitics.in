@@ -1,0 +1,34 @@
+<bill session="111" type="h" number="268" updated="2009-03-07T10:19:10-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 10, United States Code, to ensure that every military chaplain has the prerogative to close a prayer outside of a religious service according to the dictates of the chaplain's own conscience.</title>
+	</titles>
+	<sponsor id="400209"/>
+	<cosponsors>
+		<cosponsor id="400266" joined="2009-01-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1233291600" datetime="2009-01-30"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Armed Services" subcommittee="Military Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Military personnel and dependents"/>
+		<term name="Religion"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Authorizes a military chaplain, if called upon to lead a prayer outside of a religious service, to close the prayer according to the dictates of the chaplain's conscience.<br/>
+	</summary>
+</bill>

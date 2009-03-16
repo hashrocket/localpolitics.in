@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="1163" updated="2009-03-07T12:07:01-05:00">
+	<status><introduced date="1235451600" datetime="2009-02-24"/></status>
+
+	<introduced date="1235451600" datetime="2009-02-24"/>
+	<titles>
+		<title type="official" as="introduced">To direct the Secretary of Veterans Affairs to establish a national cemetery in the Sarpy County region to serve veterans in eastern Nebraska, western Iowa, and northwest Missouri.</title>
+	</titles>
+	<sponsor id="400400"/>
+	<cosponsors>
+		<cosponsor id="400640" joined="2009-02-24"/>
+		<cosponsor id="400220" joined="2009-02-24"/>
+		<cosponsor id="412217" joined="2009-02-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1235451600" datetime="2009-02-24"><text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1235451600" datetime="2009-02-24"><text>Referred to House Veterans' Affairs</text></action>
+		<action date="1235451600" datetime="2009-02-24"><committee name="House Veterans' Affairs"/><text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text></action>
+		<action date="1235451600" datetime="2009-02-24"><text>Referred to House Ways and Means</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Disability Assistance and Memorial Affairs" activity="Referral" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/2009--Introduced.<br/>Directs the Secretary of Veterans Affairs to establish a national cemetery in the Sarpy County, Nebraska, region to serve the needs of veterans and their families in Nebraska, Iowa, and Missouri.<br/>
+	</summary>
+</bill>

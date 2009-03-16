@@ -1,0 +1,65 @@
+<bill session="110" type="h" number="6353" updated="2009-01-09T05:58:30-05:00">
+	<status><enacted date="1224043200" datetime="2008-10-15" /></status>
+
+	<introduced date="1214280000" datetime="2008-06-24"/>
+	<titles>
+		<title type="short" as="introduced">Ryan Haight Online Pharmacy Consumer Protection Act of 2008</title>
+		<title type="short" as="reported to house">Ryan Haight Online Pharmacy Consumer Protection Act of 2008</title>
+		<title type="short" as="passed house">Ryan Haight Online Pharmacy Consumer Protection Act of 2008</title>
+		<title type="short" as="passed senate">Ryan Haight Online Pharmacy Consumer Protection Act of 2008</title>
+		<title type="short" as="enacted">Ryan Haight Online Pharmacy Consumer Protection Act of 2008</title>
+		<title type="official" as="introduced">To amend the Controlled Substances Act to address online pharmacies.</title>
+	</titles>
+	<sponsor id="400391"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2008-07-24"/>
+		<cosponsor id="400381" joined="2008-06-24"/>
+		<cosponsor id="400385" joined="2008-09-15"/>
+		<cosponsor id="400071" joined="2008-06-24"/>
+		<cosponsor id="412214" joined="2008-06-24"/>
+		<cosponsor id="400144" joined="2008-06-24"/>
+		<cosponsor id="400131" joined="2008-06-24"/>
+		<cosponsor id="400039" joined="2008-06-24"/>
+		<cosponsor id="412216" joined="2008-07-22"/>
+		<cosponsor id="400617" joined="2008-06-24"/>
+		<cosponsor id="400093" joined="2008-06-26"/>
+		<cosponsor id="400043" joined="2008-06-24"/>
+		<cosponsor id="400238" joined="2008-07-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1214280000" datetime="2008-06-24"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1214280000" datetime="2008-06-24"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1214280000" datetime="2008-06-24"><text>Referred to House Judiciary</text></action>
+		<action date="1221624000" datetime="2008-09-17"><committee name="House Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1221624000" datetime="2008-09-17" ><committee name="House Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1222215300" datetime="2008-09-23T21:15:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-869, Part I.</text></action>
+		<action date="1222215300" datetime="2008-09-23T21:15:00-04:00"><text>Committee on Judiciary discharged.</text></action>
+		<calendar number="565" date="1222215300" datetime="2008-09-23T21:15:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 565.</text></calendar>
+		<action date="1222216260" datetime="2008-09-23T21:31:00-04:00"><text>Mr. Pallone moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1222216260" datetime="2008-09-23T21:31:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8691-8696"/></action>
+		<action date="1222216260" datetime="2008-09-23T21:31:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6353.</text></action>
+		<vote date="1222216800" how="by voice vote" datetime="2008-09-23T21:40:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H8691-8694"/></vote>
+		<action date="1222315200" datetime="2008-09-25"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1222747200" how="by Unanimous Consent" datetime="2008-09-30" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10184-10185"/></vote>
+		<topresident date="1222747200" datetime="2008-09-30" ><text>Cleared for White House.</text></topresident>
+		<action date="1222833600" datetime="2008-10-01"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1223265600" datetime="2008-10-06" ><text>Presented to President.</text></topresident>
+		<signed date="1224043200" datetime="2008-10-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-425" date="1224043200" datetime="2008-10-15" type="public" ><text>Became Public Law No: 110-425.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/15/2008--Public Law. (This measure has not been amended since it was passed by the House on September 28, 2008. The summary of that version is repeated here.)<br/>Ryan Haight Online Pharmacy Consumer Protection Act of 2008 - Amends the Controlled Substances Act to prohibit the delivery, distribution, or dispensing of a controlled substance that is a prescription drug over the Internet without a valid prescription. Exempts telemedicine practitioners. Defines &quot;valid prescription&quot; as a prescription that is issued for a legitimate medical purpose in the usual course of professional practice by a practitioner who has conducted at least one in-person medical evaluation of a patient.<br/>Defines &quot;online pharmacy&quot; as a person, entity, or Internet site, whether in the United States or abroad, that knowingly or intentionally delivers, distributes, or dispenses a controlled substance by means of the Internet. Excludes from such definition: (1) manufacturers or distributors who do not dispense controlled substances to an unregistered individual or entity; (2) nonpharmacy practitioners; (3) certain hospitals or medical facilities operated by the federal government or by an Indian tribe or tribal organization; (4) mere advertisements that do not attempt to facilitate an actual transaction involving a controlled substance; and (5) other persons or entities the exclusion of which the Attorney General and the Secretary of Health and Human Services find to be consistent with effective controls against diversion and with the public health and safety.<br/>Imposes registration and reporting requirements on online pharmacies that dispense 100 or more prescriptions or 5,000 or more dosage units of all controlled substances combined in one month. Requires an online pharmacy to: (1) display specified information on its Internet home page, including a statement that it complies with the requirements of this Act, its name, address, and telephone number, the qualifications of its pharmacist-in-charge, and a certification of its registration under this Act; (2) comply with state laws for the licensure of pharmacies in each state in which it operates or sells controlled substances; and (3) notify the Attorney General and applicable state boards of pharmacy 30 days prior to offering to sell, deliver, distribute, or dispense controlled substances over the Internet.<br/>Authorizes the Attorney General to issue a special registration under this Act for telemedicine practitioners. Requires practitioners who issue a prescription for a controlled substance under the authorization to conduct telemedicine during a medical emergency to report to the Secretary of Veterans Affairs the authorization of that emergency prescription.<br/>Increases criminal penalties involving controlled substances in Schedules III, IV, and V of the Controlled Substances Act. Authorizes states to apply for injunctions or obtain damages and other civil remedies against online pharmacies that are deemed a threat to state residents. Requires the Drug Enforcement Administration (DEA) to report to Congress not later than 180 days after the enactment of this Act and annually for two years after such initial report on: (1) the foreign supply chains and sources of controlled substances offered for sale without a valid prescription on the Internet; (2) DEA efforts and strategy to decrease such foreign supply chains; and (3) DEA efforts to work with domestic and multinational pharmaceutical companies and others in combating the sale of controlled substances over the Internet without a valid prescription.<br/>
+	</summary>
+</bill>

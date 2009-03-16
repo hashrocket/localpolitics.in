@@ -1,0 +1,63 @@
+<bill session="110" type="h" number="1676" updated="2009-01-08T20:21:01-05:00">
+	<status><enacted date="1182139200" datetime="2007-06-18" /></status>
+
+	<introduced date="1174881600" datetime="2007-03-26"/>
+	<titles>
+		<title type="short" as="introduced">Native American Home Ownership Opportunity Act of 2007</title>
+		<title type="short" as="reported to house">Native American Home Ownership Opportunity Act of 2007</title>
+		<title type="short" as="passed house">Native American Home Ownership Opportunity Act of 2007</title>
+		<title type="short" as="reported to senate">Native American Home Ownership Opportunity Act of 2007</title>
+		<title type="short" as="passed senate">Native American Home Ownership Opportunity Act of 2007</title>
+		<title type="short" as="enacted">Native American Home Ownership Opportunity Act of 2007</title>
+		<title type="official" as="introduced">To reauthorize the program of the Secretary of Housing and Urban Development for loan guarantees for Indian housing.</title>
+	</titles>
+	<sponsor id="400645"/>
+	<cosponsors>
+		<cosponsor id="400162" joined="2007-03-28"/>
+		<cosponsor id="400336" joined="2007-03-26"/>
+		<cosponsor id="400271" joined="2007-03-27"/>
+		<cosponsor id="400443" joined="2007-03-28"/>
+		<cosponsor id="400216" joined="2007-03-26"/>
+		<cosponsor id="400140" joined="2007-03-26"/>
+		<cosponsor id="400009" joined="2007-03-28"/>
+		<cosponsor id="400440" joined="2007-03-28"/>
+		<cosponsor id="400215" joined="2007-03-27"/>
+		<cosponsor id="400179" joined="2007-03-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1174881600" datetime="2007-03-26"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1175140800" datetime="2007-03-29"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1175140800" datetime="2007-03-29" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1177073040" datetime="2007-04-20T09:44:00-04:00"><text>Reported by the Committee on Financial Services. H. Rept. 110-102.</text></action>
+		<calendar number="62" date="1177073100" datetime="2007-04-20T09:45:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 62.</text></calendar>
+		<action date="1177471920" datetime="2007-04-24T12:32:00-04:00"><text>Mr. Boren moved to suspend the rules and pass the bill.</text></action>
+		<action date="1177471920" datetime="2007-04-24T12:32:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3788-3790"/></action>
+		<action date="1177471920" datetime="2007-04-24T12:32:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1676.</text></action>
+		<vote date="1177472520" how="by voice vote" datetime="2007-04-24T12:42:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H3788"/></vote>
+		<action date="1177473600" datetime="2007-04-25"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+		<calendar date="1179288000" datetime="2007-05-16" ><text>Committee on Banking, Housing, and Urban Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1179374400" datetime="2007-05-17"><text>Committee on Banking, Housing, and Urban Affairs. Reported by Senator Dodd without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="152" date="1179374400" datetime="2007-05-17" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 152.</text></calendar>
+		<vote date="1179979200" how="by Unanimous Consent" datetime="2007-05-24" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6922"/></vote>
+		<topresident date="1179979200" datetime="2007-05-24" ><text>Cleared for White House.</text></topresident>
+		<action date="1180065600" datetime="2007-05-25"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1181102400" datetime="2007-06-06" ><text>Presented to President.</text></topresident>
+		<signed date="1182139200" datetime="2007-06-18" ><text>Signed by President.</text></signed>
+		<enacted number="110-37" date="1182139200" datetime="2007-06-18" type="public" ><text>Became Public Law No: 110-37.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/18/2007--Public Law. (This measure has not been amended since it was introduced. The expanded version of that summary is repeated here.)<br/>Native American Home Ownership Opportunity Act of 2007 - Amends the Housing and Community Development Act of 1992 to extend through FY2012: (1) the authorization of appropriations to the Indian Housing Loan Guarantee Fund for loan guarantees for Native American housing; and (2) the limitation on the outstanding aggregate principal amount of such loans.<br/>
+	</summary>
+</bill>

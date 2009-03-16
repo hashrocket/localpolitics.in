@@ -1,0 +1,38 @@
+<bill session="110" type="sr" number="368" updated="2009-01-09T20:43:53-05:00">
+	<status><vote date="1195016400" datetime="2007-11-14" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1194325200" datetime="2007-11-06"/>
+	<titles>
+		<title type="official" as="introduced">A resolution expressing the sense of the Senate that, at the 20th Regular Meeting of the International Commission on the Conservation of Atlantic Tunas, the United States should pursue a moratorium on the eastern Atlantic and Mediterranean bluefin tuna fishery to ensure control of the fishery and further facilitate recovery of the stock, pursue strengthened conservation and management measures to facilitate the recovery of the Atlantic bluefin tuna, and seek a review of compliance by all Nations with the International Commission for the Conservation of Atlantic Tunas' conservation and management recommendation for Atlantic bluefin tuna and other species, and for other purposes.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="2007-11-06"/>
+		<cosponsor id="300056" joined="2007-11-08"/>
+		<cosponsor id="300018" joined="2007-11-08"/>
+		<cosponsor id="300011" joined="2007-11-08"/>
+		<cosponsor id="300081" joined="2007-11-07"/>
+		<cosponsor id="300091" joined="2007-11-06"/>
+		<cosponsor id="300095" joined="2007-11-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1194325200" datetime="2007-11-06"><text>Referred to the Committee on Commerce, Science, and Transportation.</text><reference label="text of measure as introduced" ref="CR S13999-14000"/></action>
+		<action date="1195016400" datetime="2007-11-14"><text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S14417-14418"/></action>
+		<vote date="1195016400" how="by Unanimous Consent" datetime="2007-11-14" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text as passed Senate" ref="CR S14417-14418"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/14/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Declares that it is the sense of the Senate that the United States delegation to the 20th Regular Meeting of the International Commission for the Conservation of Atlantic Tunas should: (1) seek the adoption of a harvesting moratorium, including compliance mechanisms, on the eastern Atlantic and Mediterranean bluefin tuna fishery of sufficient duration to begin stock recovery and allow implementation of a monitoring and control program when the moratorium ends; (2) seek to strengthen the conservation and management of such tuna; (3) reevaluate the implementation, effectiveness, and relevance of a specified recommendation of the Commission and seek detailed justification from Commission members that have failed to fully implement the recommendations; (4) pursue a review and assessment of compliance with conservation and management measures for the bluefin tuna fishery and other fisheries subject to Commission jurisdiction; (5) seek to address noncompliance including, as appropriate, by deducting a portion of a future quota for a party to compensate for that party exceeding its quota in prior years; and (6) pursue additional research on the relationship between the western Atlantic and eastern Atlantic and Mediterranean bluefin tuna stocks and the extent to which the populations intermingle.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="111" type="sj" number="5" updated="2009-03-07T14:37:34-05:00">
+	<status><vote date="1231995600" datetime="2009-01-15" where="s" result="fail" how="roll" roll="5"/></status>
+
+	<introduced date="1231822800" datetime="2009-01-13"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution relating to the disapproval of obligations under the Emergency Economic Stabilization Act of 2008.</title>
+	</titles>
+	<sponsor id="400418"/>
+	<cosponsors>
+		<cosponsor id="300083" joined="2009-01-14"/>
+		<cosponsor id="300014" joined="2009-01-14"/>
+		<cosponsor id="300055" joined="2009-01-13"/>
+		<cosponsor id="300027" joined="2009-01-14"/>
+		<cosponsor id="400105" joined="2009-01-13"/>
+		<cosponsor id="412251" joined="2009-01-13"/>
+		<cosponsor id="300088" joined="2009-01-13"/>
+		<cosponsor id="300013" joined="2009-01-13"/>
+		<cosponsor id="300041" joined="2009-01-13"/>
+	</cosponsors>
+	<actions>
+		<calendar date="1231822800" datetime="2009-01-13" ><text>Introduced in the Senate. Read twice. Pursuant to P.L. 110-343, Sec. 115 (e)(2) Placed on Senate Legislative Calendar under General Orders. Calendar No. 16.</text></calendar>
+		<action date="1231995600" datetime="2009-01-15"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S559-563, S565-587"/></action>
+		<vote date="1231995600" how="roll" roll="5" datetime="2009-01-15" where="s" type="vote" result="fail" ><text>Failed of passage in Senate by Yea-Nay Vote. 42 - 52. Record Vote Number: 5.</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="hj" number="3" />
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Bank accounts, deposits, capital"/>
+		<term name="Congressional oversight"/>
+		<term name="Financial crises and failures"/>
+		<term name="Housing finance and home ownership"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/13/2009--Introduced.<br/>Declares that Congress disapproves the obligation of any funds that exceed specified amounts authorized for the purchase of troubled assets by the Secretary of the Treasury under the Emergency Economic Stabilization Act of 2008. 
+	</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="110" type="s" number="3731" updated="2009-01-09T19:38:59-05:00">
+	<status><vote date="1228885200" datetime="2008-12-10" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1228885200" datetime="2008-12-10"/>
+	<titles>
+		<title type="short" as="introduced">Special Inspector General for the Troubled Asset Relief Program Act of 2008</title>
+		<title type="short" as="passed senate">Special Inspector General for the Troubled Asset Relief Program Act of 2008</title>
+		<title type="official" as="introduced">A bill to amend the Emergency Economic Stabilization Act of 2008 (division A of Public Law 110-343) to provide the Special Inspector General with additional authorities and responsibilities, and for other purposes.</title>
+	</titles>
+	<sponsor id="412243"/>
+	<cosponsors>
+		<cosponsor id="300025" joined="2008-12-10"/>
+		<cosponsor id="300018" joined="2008-12-10"/>
+		<cosponsor id="300024" joined="2008-12-10"/>
+		<cosponsor id="300066" joined="2008-12-10"/>
+		<cosponsor id="300087" joined="2008-12-10"/>
+		<cosponsor id="300034" joined="2008-12-10"/>
+		<cosponsor id="300019" joined="2008-12-10"/>
+		<cosponsor id="300014" joined="2008-12-10"/>
+		<cosponsor id="300048" joined="2008-12-10"/>
+		<cosponsor id="300067" joined="2008-12-10"/>
+		<cosponsor id="300091" joined="2008-12-10"/>
+	</cosponsors>
+	<actions>
+		<vote date="1228885200" how="by Unanimous Consent" datetime="2008-12-10" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10884-10885"/><reference label="text as passed Senate" ref="CR S10884-10885"/></vote>
+		<action date="1228885200" datetime="2008-12-10"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1228957320" datetime="2008-12-10T21:02:00-05:00"><text>Received in the House.</text></action>
+		<action date="1228885200" datetime="2008-12-10"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/10/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Special Inspector General for the Troubled Asset Relief Program Act of 2008 - Amends the Emergency Economic Stabilization Act of 2008 to grant the Special Inspector General (SIG) authority to conduct, supervise, and coordinate an audit or investigation of any action taken with regard to the Troubled Asset Relief Program (TARP) that the SIG deems appropriate. Prohibits any audit or investigation, however, of any action related to: (1) graduated authorization to purchase troubled assets; (2) oversight and audits by the Comptroller General; (3) the Comptroller General's study and report on margin authority; and (4) the Congressional Oversight Panel. Authorizes the SIG to exercise specified employment authorities for additional personnel, but not after six months following enactment of this Act. Prohibits any period of appointment from exceeding the date on which the Office of the SIG terminates. Requires the Secretary of the Treasury to: (1) either take action to address deficiencies identified by a report or investigation of the SIG or other auditor engaged by the TARP; or (2) certify to congressional committees that no action is necessary or appropriate. Instructs the SIG to work with Inspectors General of designated federal agencies to: (1) avoid duplication of effort; and (2) ensure comprehensive oversight of TARP. Requires the SIG to: (1) report to Congress by July 1, 2009, on the use of any funds received by a financial institution under TARP; and (2) make such report available to the public, including on the home page of the SIG's website within 24 hours after its submission to Congress. Requires funds for the office of the SIG to be made available not later than seven days after the SIG's nomination is first confirmed by the Senate.<br/>
+	</summary>
+</bill>

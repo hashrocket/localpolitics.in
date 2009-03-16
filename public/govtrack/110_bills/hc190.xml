@@ -1,0 +1,37 @@
+<bill session="110" type="hc" number="190" updated="2009-01-08T15:51:08-05:00">
+	<status><vote2 date="1185336000" datetime="2007-07-25" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1185249600" datetime="2007-07-24"/>
+	<titles>
+		<title type="official" as="introduced">Authorizing printing of the brochure entitled &quot;How Our Laws Are Made&quot;, the document-sized, annotated version of the United States Constitution, and the pocket version of the United States Constitution.</title>
+	</titles>
+	<sponsor id="400047"/>
+	<cosponsors>
+		<cosponsor id="400119" joined="2007-07-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1185249600" datetime="2007-07-24"><text>Referred to the House Committee on House Administration.</text></action>
+		<action date="1185283680" datetime="2007-07-24T10:28:00-04:00"><text>Committee on House Administration discharged.</text></action>
+		<action date="1185283740" datetime="2007-07-24T10:29:00-04:00"><text>Mr. Brady (PA) asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1185283920" datetime="2007-07-24T10:32:00-04:00"><text>RESERVATION OF OBJECTION - Mr. Ehlers reserved the right to object to consider H. Con. Res. 190. Subsequently, the reservation was removed.</text></action>
+		<action date="1185283920" datetime="2007-07-24T10:32:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H8301"/></action>
+		<vote date="1185283920" how="without objection" datetime="2007-07-24T10:32:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text as passed in House" ref="CR H8301"/></vote>
+		<vote date="1185336000" how="by Unanimous Consent" datetime="2007-07-25" where="s" type="vote2" result="pass" ><text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10045-10046"/></vote>
+		<action date="1185422400" datetime="2007-07-26"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/25/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Authorizes the printing of the following as House documents: (1) the edition of the brochure entitled &quot;How Our Laws Are Made&quot;; (2) the 2007 edition of the document-sized, annotated version of the U.S. Constitution; and (3) the 23rd edition of the pocket version of the U.S. Constitution.<br/>
+	</summary>
+</bill>

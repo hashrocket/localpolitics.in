@@ -1,0 +1,63 @@
+<bill session="110" type="s" number="1104" updated="2009-01-09T14:04:45-05:00">
+	<status><enacted date="1181880000" datetime="2007-06-15" /></status>
+
+	<introduced date="1176350400" datetime="2007-04-12"/>
+	<titles>
+		<title type="official" as="introduced">A bill to increase the number of Iraqi and Afghani translators and interpreters who may be admitted to the United States as special immigrants.</title>
+		<title type="official" as="amended by house">A bill to increase the number of Iraqi and Afghani translators and interpreters who may be admitted to the United States as special immigrants, and for other purposes.</title>
+		<title type="official" as="amended by senate">An act to increase the number of Iraqi and Afghani translators and interpreters who may be admitted to the United States as special immigrants, and for other purposes.</title>
+	</titles>
+	<sponsor id="300070"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2007-04-12"/>
+		<cosponsor id="300059" joined="2007-04-12"/>
+		<cosponsor id="300024" joined="2007-04-12"/>
+		<cosponsor id="300066" joined="2007-04-12"/>
+		<cosponsor id="300034" joined="2007-04-12"/>
+		<cosponsor id="300010" joined="2007-04-12"/>
+		<cosponsor id="300027" joined="2007-04-12"/>
+		<cosponsor id="300067" joined="2007-04-12"/>
+		<cosponsor id="300095" joined="2007-04-12"/>
+		<cosponsor id="400194" joined="2007-04-12"/>
+		<cosponsor id="300090" joined="2007-04-12"/>
+	</cosponsors>
+	<actions>
+		<vote date="1176350400" how="by Unanimous Consent" datetime="2007-04-12" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S4454-4455"/><reference label="text as passed Senate" ref="CR S4455"/></vote>
+		<action date="1176436800" datetime="2007-04-13"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1176743160" datetime="2007-04-16T14:06:00-04:00"><text>Received in the House.</text></action>
+		<action date="1176696000" datetime="2007-04-16"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1177041600" datetime="2007-04-20"><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+		<action date="1179374400" datetime="2007-05-17"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1179374400" datetime="2007-05-17" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1179789360" datetime="2007-05-21T20:16:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 110-158.</text></action>
+		<calendar number="94" date="1179789360" datetime="2007-05-21T20:16:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 94.</text></calendar>
+		<action date="1179856740" datetime="2007-05-22T14:59:00-04:00"><text>Mr. Berman moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1179856860" datetime="2007-05-22T15:01:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5572-5576"/></action>
+		<action date="1179856860" datetime="2007-05-22T15:01:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 1104.</text></action>
+		<action date="1179858540" datetime="2007-05-22T15:29:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1179862200" datetime="2007-05-22T16:30:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5582"/></action>
+		<vote date="1179862560" how="roll" roll="399" datetime="2007-05-22T16:36:00-04:00" where="h" type="vote2" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 8 (Roll no. 399).</text><reference label="text" ref="CR H5572"/></vote>
+		<action date="1179862560" datetime="2007-05-22T16:36:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1179892800" datetime="2007-05-23"><text>Message on House action received in Senate and at desk: House amendments to Senate bill.</text></action>
+		<action date="1179979200" datetime="2007-05-24"><text>Senate agreed to the amendments (Amendment and Title Amendment) of the House by Unanimous Consent.</text><reference label="consideration" ref="CR S6924"/><reference label="text as Senate agreed to House amendments" ref="CR S6924"/></action>
+		<topresident date="1179979200" datetime="2007-05-24" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1180929600" datetime="2007-06-04" ><text>Presented to President.</text></topresident>
+		<signed date="1181880000" datetime="2007-06-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-36" date="1181880000" datetime="2007-06-15" type="public" ><text>Became Public Law No: 110-36.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/15/2007--Public Law. (This measure has not been amended since it was reported to the House on May 21, 2007. The summary of that version is repeated here.) Amends the National Defense Authorization Act for Fiscal Year 2006 to authorize special immigrant status for certain Afghan or Iraqi translators or interpreters working with the U.S. Armed Forces or federal agencies under the Chief of Mission in Afghanistan and Iraq. (Currently, such status is authorized for Afghan and Iraqi translators working with U.S. Armed Forces in Afghanistan and Iraq.) Authorizes: (1) additional FY2007-FY2008 entrants (up to 500 annually); and (2) adjustment to permanent resident status. 
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="111" type="s" number="402" updated="2009-03-07T14:21:17-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="short" as="introduced">Keeping Our Promise to America's Military Veterans Act</title>
+		<title type="official" as="introduced">A bill to improve the lives of our Nation's veterans and their families and provide them with the opportunity to achieve the American dream.</title>
+	</titles>
+	<sponsor id="300091"/>
+	<cosponsors>
+		<cosponsor id="300005" joined="2009-02-10"/>
+		<cosponsor id="300025" joined="2009-02-10"/>
+		<cosponsor id="400054" joined="2009-02-10"/>
+		<cosponsor id="300068" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Sponsor introductory remarks on measure. (CR S2080)</text></action>
+		<action date="1234242000" datetime="2009-02-10"><text>Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Department of Veterans Affairs"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Health care quality"/>
+		<term name="Mental health"/>
+		<term name="Military personnel and dependents"/>
+		<term name="Veterans' education, employment, rehabilitation"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Introduced.<br/>Keeping Our Promise to America's Military Veterans Act - Expresses the sense of Congress that, in order to express the gratitude of the American people for the sacrifices of America's veterans and their families, legislation should be enacted that: (1) assures timely and adequate funding of the Department of Veterans Affairs (VA), especially for medical care activities; (2) improves the ability of the VA's Veterans Benefits Administration to provide timely and accurate decisions on claims for veterans benefits; (3) assures that the VA provides timely access to high-quality treatment for mental health conditions; and (4) facilitates a seamless transition from military to civilian life for members separating from the Armed Forces and their families.<br/>
+	</summary>
+</bill>

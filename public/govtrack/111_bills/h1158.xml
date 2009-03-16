@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="1158" updated="2009-03-07T12:06:28-05:00">
+	<status><introduced date="1235451600" datetime="2009-02-24"/></status>
+
+	<introduced date="1235451600" datetime="2009-02-24"/>
+	<titles>
+		<title type="short" as="introduced">Biogas Production Incentive Act of 2009</title>
+		<title type="official" as="introduced">To promote biogas production, and for other purposes.</title>
+	</titles>
+	<sponsor id="400641"/>
+	<cosponsors>
+		<cosponsor id="400160" joined="2009-02-24"/>
+		<cosponsor id="400263" joined="2009-02-24"/>
+		<cosponsor id="400092" joined="2009-02-24"/>
+		<cosponsor id="412240" joined="2009-02-24"/>
+		<cosponsor id="400400" joined="2009-02-24"/>
+		<cosponsor id="400211" joined="2009-02-24"/>
+		<cosponsor id="400297" joined="2009-02-24"/>
+		<cosponsor id="412266" joined="2009-02-24"/>
+		<cosponsor id="400218" joined="2009-02-24"/>
+		<cosponsor id="412202" joined="2009-02-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1235451600" datetime="2009-02-24"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="907" />
+		<bill relation="unknown" session="111" type="s" number="306" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

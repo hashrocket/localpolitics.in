@@ -1,0 +1,57 @@
+<bill session="110" type="h" number="1130" updated="2009-01-08T19:12:18-05:00">
+	<status><enacted date="1178164800" datetime="2007-05-03" /></status>
+
+	<introduced date="1171602000" datetime="2007-02-16"/>
+	<titles>
+		<title type="short" as="introduced">Judicial Disclosure Responsibility Act</title>
+		<title type="short" as="reported to house">Judicial Disclosure Responsibility Act</title>
+		<title type="short" as="passed senate">Judicial Disclosure Responsibility Act</title>
+		<title type="short" as="enacted">Judicial Disclosure Responsibility Act</title>
+		<title type="official" as="introduced">To amend the Ethics in Government Act of 1978 to extend the authority to withhold from public availability a financial disclosure report filed by an individual who is a judicial officer or judicial employee, to the extent necessary to protect the safety of that individual or a family member of that individual, and for other purposes.</title>
+	</titles>
+	<sponsor id="400080"/>
+	<cosponsors>
+		<cosponsor id="400059" joined="2007-02-16"/>
+		<cosponsor id="400364" joined="2007-02-16"/>
+		<cosponsor id="400381" joined="2007-02-16"/>
+		<cosponsor id="400137" joined="2007-02-16"/>
+		<cosponsor id="400154" joined="2007-02-16"/>
+		<cosponsor id="400355" joined="2007-02-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1171602000" datetime="2007-02-16"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1172638800" datetime="2007-02-28"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1172638800" datetime="2007-02-28" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1174426680" datetime="2007-03-20T18:38:00-04:00"><text>Reported by the Committee on Judiciary. H. Rept. 110-59.</text></action>
+		<calendar number="30" date="1174426680" datetime="2007-03-20T18:38:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 30.</text></calendar>
+		<action date="1174509120" datetime="2007-03-21T17:32:00-04:00"><text>Ms. Sanchez, Linda T. moved to suspend the rules and pass the bill.</text></action>
+		<action date="1174509180" datetime="2007-03-21T17:33:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2787-2788"/></action>
+		<action date="1174509180" datetime="2007-03-21T17:33:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1130.</text></action>
+		<action date="1174509720" datetime="2007-03-21T17:42:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1174514040" datetime="2007-03-21T18:54:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2795-2796"/></action>
+		<vote date="1174514580" how="roll" roll="177" datetime="2007-03-21T19:03:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 177).</text><reference label="text" ref="CR H2787"/></vote>
+		<action date="1174536000" datetime="2007-03-22"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1176955200" datetime="2007-04-19"><text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S4788"/></action>
+		<vote date="1176955200" how="by Unanimous Consent" datetime="2007-04-19" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<topresident date="1176955200" datetime="2007-04-19" ><text>Cleared for White House.</text></topresident>
+		<action date="1177041600" datetime="2007-04-20"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1177387200" datetime="2007-04-24" ><text>Presented to President.</text></topresident>
+		<signed date="1178164800" datetime="2007-05-03" ><text>Signed by President.</text></signed>
+		<enacted number="110-24" date="1178164800" datetime="2007-05-03" type="public" ><text>Became Public Law No: 110-24.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/3/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Judicial Disclosure Responsibility Act - Amends the Ethics in Government Act of 1978 to: (1) restrict disclosure of personal information about family members of judges whose revelation might endanger them; and (2) extend through 2009 the authority of the Judicial Conference to redact certain personal information of judges from financial disclosure reports.<br/>Specifies addition types of information the Administrative Council of the U.S. Courts must include in its annual report to certain congressional committees on redaction of judicial financial disclosure reports.<br/>
+	</summary>
+</bill>

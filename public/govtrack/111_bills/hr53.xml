@@ -1,0 +1,38 @@
+<bill session="111" type="hr" number="53" updated="2009-03-07T13:12:08-05:00">
+	<status><vote date="1231965480" datetime="2009-01-14T16:38:00-05:00" where="h" result="pass" how="roll" roll="17"/></status>
+
+	<introduced date="1231822800" datetime="2009-01-13"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the consideration of the bill (H.R. 384) to reform the Troubled Assets Relief Program of the Secretary of the Treasury and ensure accountability under such Program.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231896420" datetime="2009-01-13T21:27:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 111-2, by Mr. McGovern.</text></action>
+		<action date="1231896420" datetime="2009-01-13T21:27:00-05:00"><text>The resolution waives all points of order against consideration of the bill except those arising under clause 9 of rule XXI. The resolution provides that the Committee of the Whole shall rise without motion after general debate and that no further consideration of the bill shall occur except pursuant to a subsequent order of the House.</text></action>
+		<calendar date="1231896420" datetime="2009-01-13T21:27:00-05:00" ><text>Placed on the House Calendar, Calendar No. 2.</text></calendar>
+		<action date="1231960980" datetime="2009-01-14T15:23:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H273-281"/></action>
+		<action date="1231960980" datetime="2009-01-14T15:23:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 53.</text></action>
+		<action date="1231963860" datetime="2009-01-14T16:11:00-05:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H280"/></action>
+		<vote date="1231965480" how="roll" roll="17" datetime="2009-01-14T16:38:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 235 - 191 (Roll no. 17).</text><reference label="text" ref="CR H273"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Rules" subcommittee="" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="62" />
+		<bill relation="unknown" session="111" type="h" number="384" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Legislative rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/13/2009--Introduced.<br/>Sets forth the rule for consideration of H.R. 384 (TARP Reform and Accountability Act of 2009).<br/>
+	</summary>
+</bill>

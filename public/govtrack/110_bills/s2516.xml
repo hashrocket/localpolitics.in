@@ -1,0 +1,48 @@
+<bill session="110" type="s" number="2516" updated="2009-01-09T17:06:08-05:00">
+	<status><enacted date="1214452800" datetime="2008-06-26" /></status>
+
+	<introduced date="1197954000" datetime="2007-12-18"/>
+	<titles>
+		<title type="short" as="introduced">Kendell Frederick Citizenship Assistance Act</title>
+		<title type="short" as="passed house">Kendell Frederick Citizenship Assistance Act</title>
+		<title type="short" as="passed senate">Kendell Frederick Citizenship Assistance Act</title>
+		<title type="short" as="enacted">Kendell Frederick Citizenship Assistance Act</title>
+		<title type="official" as="introduced">A bill to assist members of the Armed Forces in obtaining United States citizenship, and for other purposes.</title>
+	</titles>
+	<sponsor id="300073"/>
+	<cosponsors>
+		<cosponsor id="300059" joined="2007-12-18"/>
+	</cosponsors>
+	<actions>
+		<action date="1197954000" datetime="2007-12-18"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+		<action date="1205208000" datetime="2008-03-11"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text></action>
+		<action date="1205208000" datetime="2008-03-11"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S1891-1892"/></action>
+		<vote date="1205208000" how="by Unanimous Consent" datetime="2008-03-11" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action date="1205327220" datetime="2008-03-12T10:07:00-04:00"><text>Received in the House.</text></action>
+		<action date="1205294400" datetime="2008-03-12"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1205378100" datetime="2008-03-12T12:15:00-04:00"><text>Held at the desk.</text></action>
+		<action date="1213035600" datetime="2008-06-09T15:20:00-04:00"><text>Ms. Lofgren, Zoe moved to suspend the rules and pass the bill.</text></action>
+		<action date="1213035660" datetime="2008-06-09T15:21:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5059-5060"/></action>
+		<action date="1213035660" datetime="2008-06-09T15:21:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 2516.</text></action>
+		<vote date="1213036140" how="by voice vote" datetime="2008-06-09T15:29:00-04:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H5059"/></vote>
+		<topresident date="1212984000" datetime="2008-06-09" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1213675200" datetime="2008-06-17" ><text>Presented to President.</text></topresident>
+		<signed date="1214452800" datetime="2008-06-26" ><text>Signed by President.</text></signed>
+		<enacted number="110-251" date="1214452800" datetime="2008-06-26" type="public" ><text>Became Public Law No: 110-251.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/26/2008--Public Law. (This measure has not been amended since it was passed by the Senate on March 11, 2008. The summary of that version is repeated here.) Kendell Frederick Citizenship Assistance Act - (Sec. 2) Directs the Secretary of Homeland Security (Secretary) to use the fingerprints provided by an individual at the time of military enlistment or at the time of applying for (immigration) status adjustment to satisfy any naturalization background or security requirements if: (1) the individual may be naturalized under the Immigration and Nationality Act, was fingerprinted in accordance with Department of Defense (DOD) requirements, and submits a naturalization application within 24 months of enlistment or provides the required biometric information at the time of application for status adjustment if filed within 24 months after enlistment; and (2) the Secretary determines that the biometric information provided, including fingerprints, is sufficient to conduct the naturalization background and security checks. Directs the Secretary to: (1) determine the format for biometric information, including fingerprints; (2) implement procedures for electronic transmission of biometric information that will safeguard privacy and civil liberties; and (3) provide for centralization of naturalization applications of active duty personnel serving abroad and such applications' expedited processing. (Sec. 3) Directs the Secretary to update the appropriate Internet websites to reflect naturalization law changes. Expresses the sense of Congress that the Secretary should make necessary updates to Department of Homeland Security (DHS) application forms. (Sec. 4) Directs the Secretary to report to the appropriate congressional committees with respect to the adjudication of military service-related naturalization applications. Directs the Comptroller General to conduct a study and report to the appropriate congressional committees with respect to implementation of this Act by the Secretaries of Homeland Security and Defense.<br/>
+	</summary>
+</bill>

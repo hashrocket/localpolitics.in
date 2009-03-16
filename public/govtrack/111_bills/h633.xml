@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="633" updated="2009-03-07T11:02:02-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit the use of funds to transfer enemy combatants detained by the United States at Naval Station, Guantanamo Bay, Cuba, to the Naval Consolidated Brig, Miramar, California, or the Camp Pendleton Base Brig, Camp Pendleton, California, or to construct facilities for such enemy combatants at such locations.</title>
+	</titles>
+	<sponsor id="412283"/>
+	<cosponsors>
+		<cosponsor id="400057" joined="2009-02-09"/>
+		<cosponsor id="400570" joined="2009-01-22"/>
+		<cosponsor id="400196" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to the House Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="565" />
+		<bill relation="unknown" session="111" type="h" number="701" />
+		<bill relation="unknown" session="111" type="h" number="794" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Appropriations"/>
+		<term name="California"/>
+		<term name="Caribbean area"/>
+		<term name="Correctional facilities and imprisonment"/>
+		<term name="Cuba"/>
+		<term name="Detention of persons"/>
+		<term name="Latin America"/>
+		<term name="Military facilities and property"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2009--Introduced.<br/>Prohibits federal funds from being used to: (1) transfer any enemy combatant detained by the United States at Naval Station Guantanamo Bay, Cuba, to the Naval Consolidated Brig, Miramar, California, or the Camp Pendleton Base Brig, California; or (2) construct housing facilities for such individuals at the California locations. 
+	</summary>
+</bill>

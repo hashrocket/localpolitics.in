@@ -1,0 +1,46 @@
+<bill session="110" type="h" number="6475" updated="2009-01-09T06:13:19-05:00">
+	<status><vote date="1221155520" datetime="2008-09-11T14:52:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1215662400" datetime="2008-07-10"/>
+	<titles>
+		<title type="short" as="introduced">Daniel Webster Congressional Clerkship Act of 2008</title>
+		<title type="short" as="reported to house">Daniel Webster Congressional Clerkship Act of 2008</title>
+		<title type="short" as="passed house">Daniel Webster Congressional Clerkship Act of 2008</title>
+		<title type="official" as="introduced">To establish the Daniel Webster Congressional Clerkship Program.</title>
+	</titles>
+	<sponsor id="400245"/>
+	<cosponsors>
+		<cosponsor id="412188" joined="2008-07-29"/>
+		<cosponsor id="400436" joined="2008-07-30"/>
+		<cosponsor id="400617" joined="2008-07-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1215662400" datetime="2008-07-10"><text>Referred to the House Committee on House Administration.</text></action>
+		<action date="1217390400" datetime="2008-07-30"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1217390400" datetime="2008-07-30" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1220909880" datetime="2008-09-08T18:38:00-04:00"><text>Reported by the Committee on House Administration. H. Rept. 110-831.</text></action>
+		<calendar number="533" date="1220909880" datetime="2008-09-08T18:38:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 533.</text></calendar>
+		<action date="1220986200" datetime="2008-09-09T15:50:00-04:00"><text>Mr. Brady (PA) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1220986200" datetime="2008-09-09T15:50:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7899-7903"/></action>
+		<action date="1220986200" datetime="2008-09-09T15:50:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6475.</text></action>
+		<action date="1220988000" datetime="2008-09-09T16:20:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Ehlers objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1221155520" datetime="2008-09-11T14:52:00-04:00"><text>ORDER OF PROCEDURE - Mr. Lewis of Georgia asked unanimous consent that the motion to suspend the rules relating to H.R. 6475 be considered as adopted in the form considered by the House on Tuesday, September 9, 2008.</text><reference label="consideration" ref="CR H8038-8039"/></action>
+		<vote date="1221155520" how="without objection" datetime="2008-09-11T14:52:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to without objection. (text: CR 09/09/2008 H7899-7900)</text></vote>
+		<action date="1221192000" datetime="2008-09-12"><text>Received in the Senate and Read twice and referred to the Committee on Rules and Administration.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/11/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) Daniel Webster Congressional Clerkship Act of 2008 - Establishes the Daniel Webster Congressional Clerkship Program for the appointment of individuals who are graduates of accredited law schools to serve as Congressional Clerks in the Senate or House of Representatives. Requires the Senate Committee on Rules and Administration and the House Committee on House Administration to each select at least six individuals for a one-year term to serve as employees in their respective chambers. Specifies eligibility criteria for a Congressional Clerk, including that the selected candidate be a graduate of such a law school as of the starting date of his or her clerkship. Requires the committees to ensure that Congressional Clerks selected under this Act are apportioned equally between majority and minority party offices. Entitles each clerk selected to the same compensation as, and comparable benefits to, an individual who holds the position of a judicial clerkship for the U.S. District Court for the District of Columbia within three months of graduating from law school. Authorizes appropriations.<br/>
+	</summary>
+</bill>

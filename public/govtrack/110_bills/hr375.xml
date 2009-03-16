@@ -1,0 +1,50 @@
+<bill session="110" type="hr" number="375" updated="2009-01-09T08:39:34-05:00">
+	<status><vote date="1184614020" datetime="2007-07-16T16:27:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1178164800" datetime="2007-05-03"/>
+	<titles>
+		<title type="official" as="introduced">Honoring United Parcel Service and its 100 years of commitment and leadership in the United States.</title>
+	</titles>
+	<sponsor id="400627"/>
+	<cosponsors>
+		<cosponsor id="400099" joined="2007-05-03"/>
+		<cosponsor id="400626" joined="2007-05-03"/>
+		<cosponsor id="400242" joined="2007-05-03"/>
+		<cosponsor id="400151" joined="2007-05-03"/>
+		<cosponsor id="400049" joined="2007-06-22"/>
+		<cosponsor id="400030" joined="2007-05-03"/>
+		<cosponsor id="412199" joined="2007-05-03"/>
+		<cosponsor id="400628" joined="2007-05-03"/>
+		<cosponsor id="400221" joined="2007-05-03"/>
+		<cosponsor id="400240" joined="2007-05-03"/>
+		<cosponsor id="400363" joined="2007-05-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1178164800" datetime="2007-05-03"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1178251200" datetime="2007-05-04"><text>Referred to the Subcommittee on Aviation.</text></action>
+		<action date="1178251200" datetime="2007-05-04"><text>Referred to the Subcommittee on Highways and Transit.</text></action>
+		<action date="1183003200" datetime="2007-06-28"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1183003200" datetime="2007-06-28" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1184354580" datetime="2007-07-13T16:23:00-04:00"><text>Reported (Amended) by the Committee on Transportation. H. Rept. 110-233.</text></action>
+		<calendar number="87" date="1184354580" datetime="2007-07-13T16:23:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 87.</text></calendar>
+		<action date="1184613600" datetime="2007-07-16T16:20:00-04:00"><text>Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1184613660" datetime="2007-07-16T16:21:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7812-7814"/></action>
+		<action date="1184613660" datetime="2007-07-16T16:21:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 375.</text></action>
+		<vote date="1184614020" how="by voice vote" datetime="2007-07-16T16:27:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H7812-7813"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/16/2007--Passed House amended. (This measure has not been amended since it was reported to the House on July 13, 2007. The summary of that version is repeated here.) Recognizes United Parcel Service's role in the global transportation system as the world's largest package delivery company. Celebrates its 100th anniversary.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,301 @@
+<bill session="110" type="h" number="1338" updated="2009-01-08T19:38:32-05:00">
+	<status><vote date="1217543580" datetime="2008-07-31T19:33:00-04:00" where="h" result="pass" how="roll" roll="556"/></status>
+
+	<introduced date="1173157200" datetime="2007-03-06"/>
+	<titles>
+		<title type="short" as="introduced">Paycheck Fairness Act</title>
+		<title type="short" as="reported to house">Paycheck Fairness Act</title>
+		<title type="short" as="passed house">Paycheck Fairness Act</title>
+		<title type="official" as="introduced">To amend the Fair Labor Standards Act of 1938 to provide more effective remedies to victims of discrimination in the payment of wages on the basis of sex, and for other purposes.</title>
+	</titles>
+	<sponsor id="400103"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2007-05-01"/>
+		<cosponsor id="400661" joined="2007-06-26"/>
+		<cosponsor id="400253" joined="2007-06-07"/>
+		<cosponsor id="400041" joined="2007-03-06"/>
+		<cosponsor id="400133" joined="2007-03-06"/>
+		<cosponsor id="400128" joined="2007-06-27"/>
+		<cosponsor id="400620" joined="2007-06-27"/>
+		<cosponsor id="400031" joined="2007-04-23"/>
+		<cosponsor id="412229" joined="2007-06-27"/>
+		<cosponsor id="400073" joined="2007-03-06"/>
+		<cosponsor id="400280" joined="2007-04-23"/>
+		<cosponsor id="400199" joined="2007-03-29"/>
+		<cosponsor id="400337" joined="2007-06-22"/>
+		<cosponsor id="400227" joined="2007-06-26"/>
+		<cosponsor id="400364" joined="2007-06-26"/>
+		<cosponsor id="400257" joined="2007-03-06"/>
+		<cosponsor id="400289" joined="2007-03-29"/>
+		<cosponsor id="400413" joined="2007-04-23"/>
+		<cosponsor id="400616" joined="2007-03-06"/>
+		<cosponsor id="400210" joined="2007-06-26"/>
+		<cosponsor id="400160" joined="2007-06-11"/>
+		<cosponsor id="400263" joined="2007-03-08"/>
+		<cosponsor id="400407" joined="2007-04-23"/>
+		<cosponsor id="400092" joined="2007-06-26"/>
+		<cosponsor id="400080" joined="2007-03-06"/>
+		<cosponsor id="400657" joined="2007-06-28"/>
+		<cosponsor id="400162" joined="2007-03-06"/>
+		<cosponsor id="412221" joined="2007-04-23"/>
+		<cosponsor id="400183" joined="2007-05-24"/>
+		<cosponsor id="400102" joined="2007-05-01"/>
+		<cosponsor id="400282" joined="2007-03-06"/>
+		<cosponsor id="412224" joined="2007-06-22"/>
+		<cosponsor id="412234" joined="2007-06-28"/>
+		<cosponsor id="412225" joined="2007-06-28"/>
+		<cosponsor id="400302" joined="2007-06-28"/>
+		<cosponsor id="400122" joined="2007-05-01"/>
+		<cosponsor id="400403" joined="2007-06-22"/>
+		<cosponsor id="400246" joined="2007-03-29"/>
+		<cosponsor id="400635" joined="2007-06-27"/>
+		<cosponsor id="400333" joined="2007-06-22"/>
+		<cosponsor id="400295" joined="2007-03-06"/>
+		<cosponsor id="400623" joined="2007-05-24"/>
+		<cosponsor id="400271" joined="2007-03-29"/>
+		<cosponsor id="400096" joined="2007-06-27"/>
+		<cosponsor id="400430" joined="2007-03-29"/>
+		<cosponsor id="400129" joined="2007-03-29"/>
+		<cosponsor id="400170" joined="2007-06-22"/>
+		<cosponsor id="400424" joined="2007-06-22"/>
+		<cosponsor id="412195" joined="2007-06-14"/>
+		<cosponsor id="400065" joined="2007-11-08"/>
+		<cosponsor id="412259" joined="2008-04-22"/>
+		<cosponsor id="400647" joined="2007-03-06"/>
+		<cosponsor id="400443" joined="2007-06-27"/>
+		<cosponsor id="412215" joined="2007-03-06"/>
+		<cosponsor id="400198" joined="2007-05-17"/>
+		<cosponsor id="400268" joined="2007-03-29"/>
+		<cosponsor id="400063" joined="2007-05-24"/>
+		<cosponsor id="400379" joined="2007-05-01"/>
+		<cosponsor id="400361" joined="2007-04-23"/>
+		<cosponsor id="412192" joined="2007-06-27"/>
+		<cosponsor id="400124" joined="2007-03-06"/>
+		<cosponsor id="400630" joined="2007-06-28"/>
+		<cosponsor id="400323" joined="2007-06-05"/>
+		<cosponsor id="400003" joined="2007-06-22"/>
+		<cosponsor id="400423" joined="2007-05-01"/>
+		<cosponsor id="412231" joined="2007-06-27"/>
+		<cosponsor id="400274" joined="2007-05-24"/>
+		<cosponsor id="400300" joined="2007-03-06"/>
+		<cosponsor id="412189" joined="2007-06-11"/>
+		<cosponsor id="400254" joined="2007-07-10"/>
+		<cosponsor id="400084" joined="2007-06-07"/>
+		<cosponsor id="412214" joined="2007-06-27"/>
+		<cosponsor id="400409" joined="2007-06-14"/>
+		<cosponsor id="400370" joined="2007-06-28"/>
+		<cosponsor id="400101" joined="2007-03-06"/>
+		<cosponsor id="400396" joined="2007-04-23"/>
+		<cosponsor id="400384" joined="2007-03-06"/>
+		<cosponsor id="400184" joined="2007-03-08"/>
+		<cosponsor id="400152" joined="2007-06-15"/>
+		<cosponsor id="400412" joined="2007-07-10"/>
+		<cosponsor id="400377" joined="2007-03-06"/>
+		<cosponsor id="400355" joined="2007-04-23"/>
+		<cosponsor id="412208" joined="2007-06-27"/>
+		<cosponsor id="400216" joined="2007-03-06"/>
+		<cosponsor id="400262" joined="2007-03-29"/>
+		<cosponsor id="400130" joined="2007-06-07"/>
+		<cosponsor id="400249" joined="2007-06-27"/>
+		<cosponsor id="400437" joined="2007-03-08"/>
+		<cosponsor id="412197" joined="2007-06-27"/>
+		<cosponsor id="400030" joined="2007-06-07"/>
+		<cosponsor id="400312" joined="2007-04-23"/>
+		<cosponsor id="412198" joined="2007-06-28"/>
+		<cosponsor id="412188" joined="2007-06-27"/>
+		<cosponsor id="400316" joined="2007-06-27"/>
+		<cosponsor id="400007" joined="2007-03-06"/>
+		<cosponsor id="400245" joined="2007-03-06"/>
+		<cosponsor id="400231" joined="2007-03-06"/>
+		<cosponsor id="400402" joined="2007-05-24"/>
+		<cosponsor id="400417" joined="2007-06-27"/>
+		<cosponsor id="412253" joined="2008-07-23"/>
+		<cosponsor id="400663" joined="2007-03-29"/>
+		<cosponsor id="400352" joined="2007-03-06"/>
+		<cosponsor id="400339" joined="2007-04-23"/>
+		<cosponsor id="400387" joined="2007-03-29"/>
+		<cosponsor id="400331" joined="2007-06-22"/>
+		<cosponsor id="412258" joined="2008-06-04"/>
+		<cosponsor id="400386" joined="2007-06-27"/>
+		<cosponsor id="400082" joined="2007-06-22"/>
+		<cosponsor id="400347" joined="2007-05-01"/>
+		<cosponsor id="400230" joined="2007-05-01"/>
+		<cosponsor id="400416" joined="2007-06-11"/>
+		<cosponsor id="400008" joined="2007-04-23"/>
+		<cosponsor id="412227" joined="2007-06-27"/>
+		<cosponsor id="400356" joined="2007-06-22"/>
+		<cosponsor id="412187" joined="2007-06-28"/>
+		<cosponsor id="412223" joined="2007-05-17"/>
+		<cosponsor id="400048" joined="2007-05-24"/>
+		<cosponsor id="412209" joined="2007-04-23"/>
+		<cosponsor id="400442" joined="2007-06-07"/>
+		<cosponsor id="400044" joined="2007-06-27"/>
+		<cosponsor id="412193" joined="2007-05-01"/>
+		<cosponsor id="400308" joined="2007-05-24"/>
+		<cosponsor id="412199" joined="2007-05-01"/>
+		<cosponsor id="400001" joined="2007-04-23"/>
+		<cosponsor id="400110" joined="2007-03-06"/>
+		<cosponsor id="400087" joined="2007-04-23"/>
+		<cosponsor id="412211" joined="2007-06-12"/>
+		<cosponsor id="400270" joined="2007-06-26"/>
+		<cosponsor id="400259" joined="2007-03-06"/>
+		<cosponsor id="400166" joined="2007-06-26"/>
+		<cosponsor id="400436" joined="2007-03-06"/>
+		<cosponsor id="400346" joined="2007-05-01"/>
+		<cosponsor id="400237" joined="2007-05-24"/>
+		<cosponsor id="400140" joined="2007-05-24"/>
+		<cosponsor id="400013" joined="2007-03-29"/>
+		<cosponsor id="400383" joined="2007-06-27"/>
+		<cosponsor id="412240" joined="2007-06-27"/>
+		<cosponsor id="412222" joined="2007-03-06"/>
+		<cosponsor id="400422" joined="2007-06-27"/>
+		<cosponsor id="412204" joined="2007-04-23"/>
+		<cosponsor id="400426" joined="2007-05-24"/>
+		<cosponsor id="400653" joined="2007-04-23"/>
+		<cosponsor id="400195" joined="2007-04-23"/>
+		<cosponsor id="400251" joined="2007-03-06"/>
+		<cosponsor id="400178" joined="2007-03-06"/>
+		<cosponsor id="400026" joined="2007-06-07"/>
+		<cosponsor id="400378" joined="2007-03-08"/>
+		<cosponsor id="412232" joined="2007-03-28"/>
+		<cosponsor id="400350" joined="2007-06-22"/>
+		<cosponsor id="400217" joined="2007-03-06"/>
+		<cosponsor id="400111" joined="2007-03-06"/>
+		<cosponsor id="400360" joined="2007-03-06"/>
+		<cosponsor id="400366" joined="2007-03-08"/>
+		<cosponsor id="400255" joined="2007-06-26"/>
+		<cosponsor id="400645" joined="2007-06-28"/>
+		<cosponsor id="400021" joined="2007-06-22"/>
+		<cosponsor id="412239" joined="2007-06-11"/>
+		<cosponsor id="400281" joined="2007-06-22"/>
+		<cosponsor id="400211" joined="2007-06-07"/>
+		<cosponsor id="400269" joined="2007-06-14"/>
+		<cosponsor id="400120" joined="2007-06-22"/>
+		<cosponsor id="400299" joined="2007-03-06"/>
+		<cosponsor id="400074" joined="2007-06-22"/>
+		<cosponsor id="400118" joined="2007-06-27"/>
+		<cosponsor id="400628" joined="2007-06-27"/>
+		<cosponsor id="400638" joined="2007-05-24"/>
+		<cosponsor id="412200" joined="2007-05-01"/>
+		<cosponsor id="400081" joined="2007-06-27"/>
+		<cosponsor id="400232" joined="2007-06-27"/>
+		<cosponsor id="400189" joined="2007-06-26"/>
+		<cosponsor id="400266" joined="2007-06-28"/>
+		<cosponsor id="400125" joined="2007-03-08"/>
+		<cosponsor id="400193" joined="2007-06-26"/>
+		<cosponsor id="400415" joined="2007-05-24"/>
+		<cosponsor id="412254" joined="2008-07-23"/>
+		<cosponsor id="412236" joined="2007-05-01"/>
+		<cosponsor id="400009" joined="2007-03-06"/>
+		<cosponsor id="412186" joined="2007-06-27"/>
+		<cosponsor id="400093" joined="2007-03-29"/>
+		<cosponsor id="400326" joined="2007-03-06"/>
+		<cosponsor id="400371" joined="2007-03-06"/>
+		<cosponsor id="412228" joined="2007-04-23"/>
+		<cosponsor id="412212" joined="2007-06-27"/>
+		<cosponsor id="400291" joined="2007-05-24"/>
+		<cosponsor id="400201" joined="2007-05-24"/>
+		<cosponsor id="400043" joined="2007-09-24"/>
+		<cosponsor id="400109" joined="2007-04-23"/>
+		<cosponsor id="400391" joined="2007-06-26"/>
+		<cosponsor id="400185" joined="2007-03-06"/>
+		<cosponsor id="400641" joined="2007-06-26"/>
+		<cosponsor id="400047" joined="2007-05-01"/>
+		<cosponsor id="412220" joined="2007-06-26"/>
+		<cosponsor id="400283" joined="2007-03-06"/>
+		<cosponsor id="400204" joined="2007-03-29"/>
+		<cosponsor id="400097" joined="2007-05-17"/>
+		<cosponsor id="400310" joined="2007-03-29"/>
+		<cosponsor id="400286" joined="2007-06-27"/>
+		<cosponsor id="400090" joined="2007-06-05"/>
+		<cosponsor id="400033" joined="2007-06-26"/>
+		<cosponsor id="400042" joined="2007-03-06"/>
+		<cosponsor id="400208" joined="2007-05-01"/>
+		<cosponsor id="400218" joined="2007-06-07"/>
+		<cosponsor id="400240" joined="2007-03-28"/>
+		<cosponsor id="400438" joined="2007-03-06"/>
+		<cosponsor id="412219" joined="2007-04-23"/>
+		<cosponsor id="400215" joined="2007-03-06"/>
+		<cosponsor id="400024" joined="2007-03-06"/>
+		<cosponsor id="400238" joined="2007-03-06"/>
+		<cosponsor id="400363" joined="2007-06-27"/>
+		<cosponsor id="412206" joined="2007-06-28"/>
+		<cosponsor id="400025" joined="2007-03-06"/>
+		<cosponsor id="400301" joined="2007-05-24"/>
+		<cosponsor id="400345" joined="2007-06-26"/>
+		<cosponsor id="400163" joined="2007-05-24"/>
+		<cosponsor id="400114" joined="2007-03-06"/>
+		<cosponsor id="400062" joined="2007-03-06"/>
+		<cosponsor id="412194" joined="2007-06-15"/>
+		<cosponsor id="400011" joined="2007-06-11"/>
+		<cosponsor id="400425" joined="2007-03-08"/>
+		<cosponsor id="400233" joined="2007-03-06"/>
+		<cosponsor id="400179" joined="2007-05-24"/>
+		<cosponsor id="400100" joined="2007-03-06"/>
+		<cosponsor id="400639" joined="2007-06-26"/>
+		<cosponsor id="400349" joined="2007-06-05"/>
+		<cosponsor id="400309" joined="2007-06-22"/>
+		<cosponsor id="400186" joined="2007-06-05"/>
+		<cosponsor id="400278" joined="2007-03-06"/>
+		<cosponsor id="400067" joined="2007-03-06"/>
+		<cosponsor id="412233" joined="2007-06-28"/>
+		<cosponsor id="400075" joined="2007-06-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1173157200" datetime="2007-03-06"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1181016000" datetime="2007-06-05"><text>Referred to the Subcommittee on Workforce Protections.</text></action>
+		<action date="1181102400" datetime="2007-06-06"><text>Sponsor introductory remarks on measure. (CR H6012)</text></action>
+		<action date="1184126400" datetime="2007-07-11"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1216872000" datetime="2008-07-24"><text>Subcommittee on Workforce Protections Discharged.</text></action>
+		<action date="1216872000" datetime="2008-07-24"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1216872000" datetime="2008-07-24" ><text>Ordered to be Reported Without Recommendation (Amended) by the Yeas and Nays: 26 - 17.</text></calendar>
+		<action date="1217280240" datetime="2008-07-28T18:24:00-04:00"><text>Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-783.</text></action>
+		<calendar number="502" date="1217280240" datetime="2008-07-28T18:24:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 502.</text></calendar>
+		<action date="1217454360" datetime="2008-07-30T18:46:00-04:00"><text>Rules Committee Resolution H. Res. 1388 Reported to House. Rule provides for consideration of H.R. 1338 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.</text></action>
+		<action date="1217530380" datetime="2008-07-31T15:53:00-04:00"><text>Rule H. Res. 1388 passed House.</text></action>
+		<action date="1217531400" datetime="2008-07-31T16:10:00-04:00"><text>Considered under the provisions of rule H. Res. 1388.</text><reference label="consideration" ref="CR H7678-7681"/></action>
+		<action date="1217531400" datetime="2008-07-31T16:10:00-04:00"><text>Rule provides for consideration of H.R. 1338 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.</text></action>
+		<action date="1217531400" datetime="2008-07-31T16:10:00-04:00"><text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1388 and Rule XVIII.</text></action>
+		<action date="1217531400" datetime="2008-07-31T16:10:00-04:00"><text>The Speaker designated the Honorable Michael E. Capuano to act as Chairman of the Committee.</text></action>
+		<action date="1217531400" datetime="2008-07-31T16:10:00-04:00"><text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1338.</text></action>
+		<action date="1217532960" datetime="2008-07-31T16:36:00-04:00"><text>Committee of the Whole House on the state of the Union rises leaving H.R. 1338 as unfinished business.</text></action>
+		<action date="1217533080" datetime="2008-07-31T16:38:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7681-7704"/></action>
+		<action date="1217533080" datetime="2008-07-31T16:38:00-04:00"><text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text></action>
+		<action date="1217533080" datetime="2008-07-31T16:38:00-04:00"><text>GENERAL DEBATE - The Committee of the Whole continued with general debate on H.R. 1338.</text></action>
+		<action date="1217536140" datetime="2008-07-31T17:29:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 1388, the Committee of the Whole proceeded with ten minutes of debate on the Bean amendment.</text></action>
+		<action date="1217536440" datetime="2008-07-31T17:34:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 1388, the Committee of the Whole proceeded with ten minutes of debate on the Price (GA) amendment.</text></action>
+		<action date="1217537040" datetime="2008-07-31T17:44:00-04:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Price (GA) amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Price (GA) demanded a recorded vote and pursuant to the rule, the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text></action>
+		<action date="1217537040" datetime="2008-07-31T17:44:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 1388, the Committee of the Whole proceeded with ten minutes of debate on the Altmire amendment.</text></action>
+		<action date="1217537340" datetime="2008-07-31T17:49:00-04:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Altmire amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Altmire demanded a recorded vote and pursuant to the rule, the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text></action>
+		<action date="1217537340" datetime="2008-07-31T17:49:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 1388, the Committee of the Whole proceeded with ten minutes of debate on the Giffords amendment.</text></action>
+		<action date="1217537760" datetime="2008-07-31T17:56:00-04:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Giffords amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Giffords demanded a recorded vote and pursuant to the rule, the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text></action>
+		<action date="1217537820" datetime="2008-07-31T17:57:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 1388, the Committee of the Whole proceeded with ten minutes of debate on the Cazayoux amendment.</text></action>
+		<action date="1217538060" datetime="2008-07-31T18:01:00-04:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Cazayoux amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Andrews demanded a recorded vote and pursuant to the rule, the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text></action>
+		<action date="1217538180" datetime="2008-07-31T18:03:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 1388, the Committee of the Whole proceeded with ten minutes of debate on the Flake amendment.</text></action>
+		<action date="1217538300" datetime="2008-07-31T18:05:00-04:00"><text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.</text></action>
+		<action date="1217541000" datetime="2008-07-31T18:50:00-04:00"><text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1338.</text></action>
+		<action date="1217541060" datetime="2008-07-31T18:51:00-04:00"><text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text><reference label="text" ref="CR H7691-7693"/></action>
+		<action date="1217541060" datetime="2008-07-31T18:51:00-04:00"><text>Mr. Price (GA) moved to recommit with instructions to Education and Labor.</text><reference label="consideration" ref="CR H7701-7703"/><reference label="text" ref="CR H7701"/></action>
+		<action date="1217541060" datetime="2008-07-31T18:51:00-04:00"><text>DEBATE - The House proceeded with 10 minutes of debate on the Price (GA) motion to recommit with instructions. The instructions contained in the motion seek to report the bill back to the House with an amendment.</text></action>
+		<action date="1217541900" datetime="2008-07-31T19:05:00-04:00"><text>The previous question on the motion to recommit with instructions was ordered without objection.</text><reference label="consideration" ref="CR H7703"/></action>
+		<action date="1217542920" datetime="2008-07-31T19:22:00-04:00"><text>On motion to recommit with instructions Failed by recorded vote: 189 - 236 (Roll no. 555).</text></action>
+		<vote date="1217543580" how="roll" roll="556" datetime="2008-07-31T19:33:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed by recorded vote: 247 - 178 (Roll no. 556).</text></vote>
+		<action date="1217544300" datetime="2008-07-31T19:45:00-04:00"><text>The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 1338.</text></action>
+		<action date="1217563200" datetime="2008-08-01"><text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/31/2008--Passed House amended. Paycheck Fairness Act - (Sec. 3) Amends the portion of the Fair Labor Standards Act of 1938 (FLSA) known as the Equal Pay Act to revise remedies for, enforcement of, and exceptions to prohibitions against sex discrimination in the payment of wages. Revises the exception to the prohibition for a wage rate differential based on any other factor other than sex. Limits such factors to bona fide factors, such as education, training, or experience. States that the bona fide factor defense shall apply only if the employer demonstrates that such factor: (1) is not based upon or derived from a sex-based differential in compensation; (2) is job-related with respect to the position in question; and (3) is consistent with business necessity. Avers that such defense shall not apply where the employee demonstrates that: (1) an alternative employment practice exists that would serve the same business purpose without producing such differential; and (2) the employer has refused to adopt such alternative practice. Revises the prohibition against employer retaliation for employee complaints. Prohibits retaliation for inquiring about, discussing, or disclosing the wages of the employee or another employee in response to a complaint or charge, or in furtherance of a sex discrimination investigation, proceeding, hearing, or action, or an investigation conducted by the employer. Makes employers who violate sex discrimination prohibitions liable in a civil action for either compensatory or (except for the federal government) punitive damages. States that any action brought to enforce the prohibition against sex discrimination may be maintained as a class action in which individuals may be joined as party plaintiffs without their written consent. Authorizes the Secretary of Labor (Secretary) to seek additional compensatory or punitive damages in a sex discrimination action. (Sec. 4) Requires the Equal Employment Opportunity Commission (EEOC) and the Office of Federal Contract Compliance Programs to train EEOC employees and affected individuals and entities on matters involving wage discrimination. (Sec. 5) Authorizes the Secretary to make grants to eligible entities for negotiation skills training programs for girls and women. Directs the Secretaries of Labor and Education to issue regulations or policy guidance to integrate such training into certain programs under their Departments. (Sec. 6) Directs the Secretary to conduct studies and provide information to employers, labor organizations, and the general public regarding the means available to eliminate pay disparities between men and women. (Sec. 7) Establishes the Secretary of Labor's National Award for Pay Equity in the Workplace for an employer has made substantial effort to eliminate pay disparities between men and women. (Sec. 8) Amends the Civil Rights Act of 1964 to require the EEOC to collect from employers pay information data regarding the sex, race, and national origin of employees for use in the enforcement of federal laws prohibiting pay discrimination. (Sec. 9) Directs: (1) the Commissioner of Labor Statistics to continue to collect data on woman workers in the Current Employment Statistics survey; (2) the Office of Federal Contract Compliance Programs to use specified types of methods in investigating compensation discrimination and in enforcing pay equity; and (3) the Secretary to make accurate information on compensation discrimination readily available to the public. (Sec. 10) Authorizes appropriations. Prohibits the earmarking of such funds. (Sec. 11) Directs the Secretary and the Commissioner of the EEOC jointly to develop technical assistance material to assist small businesses to comply with the requirements of this Act.<br/>
+	</summary>
+</bill>

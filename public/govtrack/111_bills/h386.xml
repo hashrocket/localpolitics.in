@@ -1,0 +1,51 @@
+<bill session="111" type="h" number="386" updated="2009-03-07T10:33:00-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">CLASS Act of 2009</title>
+		<title type="short" as="introduced">College Learning Access Simplicity and Savings Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to simplify and improve the current education tax incentives.</title>
+	</titles>
+	<sponsor id="400111"/>
+	<cosponsors>
+		<cosponsor id="400387" joined="2009-01-13"/>
+		<cosponsor id="400337" joined="2009-01-22"/>
+		<cosponsor id="400087" joined="2009-01-13"/>
+		<cosponsor id="412211" joined="2009-01-13"/>
+		<cosponsor id="400657" joined="2009-01-14"/>
+		<cosponsor id="400195" joined="2009-01-22"/>
+		<cosponsor id="400302" joined="2009-01-14"/>
+		<cosponsor id="400403" joined="2009-01-13"/>
+		<cosponsor id="400647" joined="2009-01-13"/>
+		<cosponsor id="400125" joined="2009-01-22"/>
+		<cosponsor id="400415" joined="2009-01-13"/>
+		<cosponsor id="412304" joined="2009-01-13"/>
+		<cosponsor id="400423" joined="2009-01-14"/>
+		<cosponsor id="400240" joined="2009-01-13"/>
+		<cosponsor id="400262" joined="2009-01-14"/>
+		<cosponsor id="400179" joined="2009-01-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Sponsor introductory remarks on measure. (CR H370)</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Higher education"/>
+		<term name="Income tax credits"/>
+		<term name="Student aid and college costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>College Learning Access Simplicity and Savings Act of 2009 or the CLASS Act of 2009 - Amends the Internal Revenue Code to replace the Hope Scholarship tax credit with the College Affordability Credit, which shall allow: (1) a partially refundable tax credit of up to $1,200 for qualified tuition and related expenses (including required course materials) at an institution of higher education; and (2) an additional 50% tax credit for such expenses exceeding $1,200 but not exceeding $4,800. Repeals the tax deduction for qualified tuition and related expenses.<br/>
+	</summary>
+</bill>

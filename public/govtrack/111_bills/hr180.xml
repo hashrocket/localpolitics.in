@@ -1,0 +1,39 @@
+<bill session="111" type="hr" number="180" updated="2009-03-07T13:28:04-05:00">
+	<status><vote date="1235576040" datetime="2009-02-25T11:34:00-05:00" where="h" result="pass" how="roll" roll="82"/></status>
+
+	<introduced date="1235365200" datetime="2009-02-23"/>
+	<titles>
+		<title type="official" as="introduced">Supporting the goals and ideals of the third annual America Saves Week.</title>
+	</titles>
+	<sponsor id="400179"/>
+	<cosponsors>
+		<cosponsor id="400073" joined="2009-02-25"/>
+		<cosponsor id="400027" joined="2009-02-23"/>
+		<cosponsor id="400270" joined="2009-02-25"/>
+		<cosponsor id="400204" joined="2009-02-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1235365200" datetime="2009-02-23"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1235572380" datetime="2009-02-25T10:33:00-05:00"><text>Mr. Hinojosa moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1235572380" datetime="2009-02-25T10:33:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2639-2641"/></action>
+		<action date="1235572380" datetime="2009-02-25T10:33:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 180.</text></action>
+		<action date="1235573460" datetime="2009-02-25T10:51:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1235575680" datetime="2009-02-25T11:28:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2643"/></action>
+		<vote date="1235576040" how="roll" roll="82" datetime="2009-02-25T11:34:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 415 - 2 (Roll no. 82).</text><reference label="text" ref="CR H2639-2640"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/2009--Introduced.<br/>Recognizes the importance of savings to financial security. Supports the goals and ideals of America Saves Week. Acknowledges the tireless efforts of the late Congresswoman Stephanie Tubbs Jones to eliminate predatory lending, increase the nation's savings rate, and improve the overall economic situation of all those residing in the United States.<br/>
+	</summary>
+</bill>

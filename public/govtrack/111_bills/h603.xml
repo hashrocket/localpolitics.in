@@ -1,0 +1,46 @@
+<bill session="111" type="h" number="603" updated="2009-03-07T10:58:29-05:00">
+	<status><vote date="1235419980" datetime="2009-02-23T16:13:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1232082000" datetime="2009-01-16"/>
+	<titles>
+		<title type="short" as="introduced">Utah National Guard Readiness Act</title>
+		<title type="short" as="passed house">Utah National Guard Readiness Act</title>
+		<title type="official" as="introduced">To require the conveyance of certain public land within the boundaries of Camp Williams, Utah, to support the training and readiness of the Utah National Guard.</title>
+	</titles>
+	<sponsor id="400029"/>
+	<cosponsors>
+		<cosponsor id="412270" joined="2009-01-16"/>
+		<cosponsor id="400255" joined="2009-01-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1232082000" datetime="2009-01-16"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action date="1235419740" datetime="2009-02-23T16:09:00-05:00"><text>Ms. Bordallo moved to suspend the rules and pass the bill.</text></action>
+		<action date="1235419740" datetime="2009-02-23T16:09:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1627-1628"/></action>
+		<action date="1235419740" datetime="2009-02-23T16:09:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 603.</text></action>
+		<vote date="1235419980" how="by voice vote" datetime="2009-02-23T16:13:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H1627"/></vote>
+		<action date="1235451600" datetime="2009-02-24"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+		<committee name="Senate Energy and Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Hazardous wastes and toxic substances"/>
+		<term name="Land transfers"/>
+		<term name="Military facilities and property"/>
+		<term name="National Guard and reserves"/>
+		<term name="Utah"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/16/2009--Introduced.<br/>Utah National Guard Readiness Act - Directs the Secretary of the Interior, acting through the Bureau of Land Management (BLM) to convey, without consideration, to the state of Utah all interest of the United States in and to certain lands that are located within the boundaries of the public lands currently withdrawn for military use by the Utah National Guard and known as &quot;Camp Williams&quot; for the purpose of permitting the Utah National Guard to use such conveyed land. 
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="1083" updated="2009-03-07T11:56:04-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="short" as="introduced">Business Activity Tax Simplification Act of 2009</title>
+		<title type="official" as="introduced">To regulate certain State taxation of interstate commerce, and for other purposes.</title>
+	</titles>
+	<sponsor id="400043"/>
+	<cosponsors>
+		<cosponsor id="400364" joined="2009-02-13"/>
+		<cosponsor id="400092" joined="2009-02-13"/>
+		<cosponsor id="412216" joined="2009-02-13"/>
+		<cosponsor id="400209" joined="2009-02-13"/>
+		<cosponsor id="400426" joined="2009-02-13"/>
+		<cosponsor id="400271" joined="2009-03-03"/>
+		<cosponsor id="400170" joined="2009-03-03"/>
+		<cosponsor id="400443" joined="2009-02-13"/>
+		<cosponsor id="400154" joined="2009-02-13"/>
+		<cosponsor id="400315" joined="2009-02-13"/>
+		<cosponsor id="400433" joined="2009-02-13"/>
+		<cosponsor id="412226" joined="2009-02-13"/>
+		<cosponsor id="412255" joined="2009-03-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the House Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2009--Introduced.<br/>Business Activity Tax Simplification Act of 2009 - Expands the federal prohibition against state taxation of interstate commerce to: (1) include taxation of out-of-state transactions involving all forms of property, including intangible personal property and services (currently, only sales of tangible personal property are protected); and (2) prohibit state taxation of an out-of-state entity unless such entity has a physical presence in the taxing state. Sets forth criteria for determining that a person has a physical presence in a state.<br/>
+	</summary>
+</bill>

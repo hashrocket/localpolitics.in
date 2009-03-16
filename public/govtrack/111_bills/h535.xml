@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="535" updated="2009-03-07T10:50:33-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="short" as="introduced">Working Small Business Regulatory Relief Act</title>
+		<title type="official" as="introduced">To amend title 44 of the United States Code to provide for the suspension of fines under certain circumstances for first-time paperwork violations by small business concerns.</title>
+	</titles>
+	<sponsor id="400441"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to House Small Business</text></action>
+		<action date="1231909200" datetime="2009-01-14"><committee name="House Small Business"/><text>Referred to the Subcommittee on Regulations, Health Care, and Trade.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Small Business" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Small Business" subcommittee="Regulations, Health Care, and Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Commerce"/>
+		<term name="Business records"/>
+		<term name="Civil actions and liability"/>
+		<term name="Government information and archives"/>
+		<term name="Small business"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/14/2009--Introduced.<br/>Working Small Business Regulatory Relief Act - Amends the Paperwork Reduction Act to direct agency heads not to impose civil fines for first-time paperwork violations by small business concerns unless the detection of criminal activity would be impaired, the violation is not corrected within six months, the violation is a violation of internal revenue law or a law concerning the assessment or collection of any tax, debt, revenue, or receipt, or the violation presents a danger to the public health or safety. Permits an agency to determine that a fine should not be imposed for a violation that presents a danger to public health or safety if the violation is corrected within 24 hours after receipt by the small business owner of notification of the violation. Makes this Act inapplicable to any violation by a small business of a requirement regarding the collection of information by an agency if the small business previously violated any requirement concerning the collection of information by that agency. 
+	</summary>
+</bill>

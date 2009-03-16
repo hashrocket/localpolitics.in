@@ -1,0 +1,51 @@
+<bill session="110" type="h" number="5599" updated="2009-01-09T04:28:52-05:00">
+	<status><vote date="1212589800" datetime="2008-06-04T11:30:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1205294400" datetime="2008-03-12"/>
+	<titles>
+		<title type="official" as="introduced">To designate the Federal building located at 4600 Silver Hill Road in Suitland, Maryland, as the &quot;Thomas Jefferson Census Bureau Headquarters Building&quot;.</title>
+	</titles>
+	<sponsor id="400251"/>
+	<cosponsors>
+		<cosponsor id="400059" joined="2008-03-12"/>
+		<cosponsor id="400295" joined="2008-03-12"/>
+		<cosponsor id="400152" joined="2008-03-12"/>
+		<cosponsor id="400098" joined="2008-03-12"/>
+		<cosponsor id="400411" joined="2008-03-12"/>
+		<cosponsor id="400189" joined="2008-03-12"/>
+		<cosponsor id="412236" joined="2008-03-12"/>
+		<cosponsor id="400185" joined="2008-03-12"/>
+		<cosponsor id="400438" joined="2008-03-12"/>
+		<cosponsor id="400349" joined="2008-03-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1205294400" datetime="2008-03-12"><text>Sponsor introductory remarks on measure. (CR E373)</text></action>
+		<action date="1205294400" datetime="2008-03-12"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1205380800" datetime="2008-03-13"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1210824000" datetime="2008-05-15"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1210824000" datetime="2008-05-15" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1210824000" datetime="2008-05-15"><text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text></action>
+		<action date="1212514020" datetime="2008-06-03T14:27:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 110-674.</text></action>
+		<calendar number="227" date="1212514080" datetime="2008-06-03T14:28:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 227.</text></calendar>
+		<action date="1212589320" datetime="2008-06-04T11:22:00-04:00"><text>Ms. Johnson, E. B. moved to suspend the rules and pass the bill.</text></action>
+		<action date="1212589380" datetime="2008-06-04T11:23:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4890-4891"/></action>
+		<action date="1212589380" datetime="2008-06-04T11:23:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5599.</text></action>
+		<vote date="1212589800" how="by voice vote" datetime="2008-06-04T11:30:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR S4890"/></vote>
+		<action date="1212638400" datetime="2008-06-05"><text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/4/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the federal building located at 4600 Silver Hill Road in Suitland, Maryland, as the &quot;Thomas Jefferson Census Bureau Headquarters Building.&quot;<br/>
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="110" type="h" number="1657" updated="2009-01-08T20:18:44-05:00">
+	<status><vote date="1190066760" datetime="2007-09-17T19:06:00-04:00" where="h" result="pass" how="roll" roll="868"/></status>
+
+	<introduced date="1174536000" datetime="2007-03-22"/>
+	<titles>
+		<title type="official" as="introduced">To establish a Science and Technology Scholarship Program to award scholarships to recruit and prepare students for careers in the National Weather Service and in National Oceanic and Atmospheric Administration marine research, atmospheric research, and satellite programs.</title>
+	</titles>
+	<sponsor id="400343"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-09-17"/>
+		<cosponsor id="412224" joined="2007-06-18"/>
+		<cosponsor id="400437" joined="2007-07-12"/>
+		<cosponsor id="400245" joined="2007-06-22"/>
+		<cosponsor id="400001" joined="2007-07-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1174536000" datetime="2007-03-22"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1178596800" datetime="2007-05-08"><text>Referred to the Subcommittee on Energy and Environment.</text></action>
+		<action date="1190049240" datetime="2007-09-17T14:14:00-04:00"><text>Mr. Hill moved to suspend the rules and pass the bill.</text></action>
+		<action date="1190049300" datetime="2007-09-17T14:15:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10373-10375"/></action>
+		<action date="1190049300" datetime="2007-09-17T14:15:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1657.</text></action>
+		<action date="1190049540" datetime="2007-09-17T14:19:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1190066280" datetime="2007-09-17T18:58:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10407"/></action>
+		<vote date="1190066760" how="roll" roll="868" datetime="2007-09-17T19:06:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 360 - 16 (Roll no. 868).</text><reference label="text" ref="CR H10373-10374"/></vote>
+		<action date="1190088000" datetime="2007-09-18"><text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/17/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Authorizes the Administrator of the National Oceanic and Atmospheric Administration (NOAA) to establish a Science and Technology Scholarship Program to award scholarships to students at institutions of higher education to recruit and prepare them for careers in the National Weather Service and in NOAA marine research, atmospheric research, and satellite programs. Requires individuals to be selected to receive scholarships under this Act through a competitive process primarily based on academic merit, with consideration given to financial need and to the goal of promoting the participation of women, minorities, and persons with disabilities as identified under provisions of the Science and Engineering Equal Opportunities Act. Requires the Administrator to enter into contractual agreements with selected individuals under which such individuals, in exchange for receiving a scholarship, agree to serve as full-time employees of NOAA, for a 24-month period of obligated service for each academic year for which a scholarship is provided in positions needed by NOAA in marine research, atmospheric research, and satellite programs. Instructs the Administrator to make publicly available a list of academic programs and fields of study for which scholarships may be utilized in marine research, atmospheric research, and satellite programs and to update such list as necessary. Prohibits: (1) an individual from receiving a scholarship for more than four academic years, unless the Administrator grants a waiver; and (2) the amount of a scholarship from exceeding the cost of attendance. Permits a scholarship to be used for tuition, fees, and other authorized uses as established by the Administrator by regulation. Allows the Administrator to enter into a contractual agreement with an institution of higher education under which the amounts provided for a scholarship for tuition, fees, and other authorized expenses are paid directly to the institution with respect to which the scholarship is provided. Sets forth penalties for specified breaches of scholarship agreements. 
+	</summary>
+</bill>

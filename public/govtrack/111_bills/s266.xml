@@ -1,0 +1,39 @@
+<bill session="111" type="s" number="266" updated="2009-03-07T14:05:28-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Prescription Drug Gap Reduction Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to reduce the coverage gap in prescription drug coverage under part D of such title based on savings to the Medicare program resulting from the negotiation of prescription drug prices.</title>
+	</titles>
+	<sponsor id="300078"/>
+	<cosponsors>
+		<cosponsor id="300025" joined="2009-01-15"/>
+		<cosponsor id="300011" joined="2009-01-15"/>
+		<cosponsor id="300060" joined="2009-01-15"/>
+		<cosponsor id="300061" joined="2009-01-15"/>
+		<cosponsor id="412247" joined="2009-01-15"/>
+		<cosponsor id="300058" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Medicare"/>
+		<term name="Prescription drugs"/>
+		<term name="Public contracts and procurement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Medicare Prescription Drug Gap Reduction Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act (SSA) to reduce the coverage gap in prescription drug coverage under SSA part D (Voluntary Prescription Drug Benefit Program), based on savings to the Medicare program resulting from the negotiation of prescription drug prices. Grants the Secretary of Health and Human Services authority similar to that of other federal entities that purchase prescription drugs in bulk to negotiate contracts with manufacturers of covered part D drugs. States that the Secretary shall be required to: (1) negotiate contracts with manufacturers of covered part D drugs for each fallback prescription drug plan; and (2) participate in negotiation of contracts of any covered part D drug upon request of an approved prescription drug plan or Medicare Advantage Prescription Drug Plan. Prohibits the Secretary from requiring a particular formulary or instituting a price structure for the reimbursement of covered part D drugs in order to carry out, and promote competition, under part D. 
+	</summary>
+</bill>

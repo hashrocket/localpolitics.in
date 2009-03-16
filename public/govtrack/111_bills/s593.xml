@@ -1,0 +1,31 @@
+<bill session="111" type="s" number="593" updated="2009-03-13T12:02:22-04:00">
+	<status><introduced date="1236830400" datetime="2009-03-12"/></status>
+
+	<introduced date="1236830400" datetime="2009-03-12"/>
+	<titles>
+		<title type="official" as="introduced">A bill to ban the use of bisphenol A in food containers, and for other purposes.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300087" joined="2009-03-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1236830400" datetime="2009-03-12"><text>Sponsor introductory remarks on measure. (CR S3086-3087)</text></action>
+		<action date="1236830400" datetime="2009-03-12"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S3087-3088"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

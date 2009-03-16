@@ -1,0 +1,57 @@
+<bill session="110" type="h" number="3891" updated="2009-01-09T01:00:11-05:00">
+	<status><enacted date="1216612800" datetime="2008-07-21" /></status>
+
+	<introduced date="1192680000" datetime="2007-10-18"/>
+	<titles>
+		<title type="short" as="introduced">National Fish and Wildlife Foundation Establishment Act Amendment of 2007</title>
+		<title type="short" as="reported to house">National Fish and Wildlife Foundation Establishment Act Amendment of 2007</title>
+		<title type="short" as="passed house">National Fish and Wildlife Foundation Establishment Act Amendment of 2008</title>
+		<title type="short" as="reported to senate">National Fish and Wildlife Foundation Establishment Act Amendment of 2008</title>
+		<title type="short" as="passed senate">National Fish and Wildlife Foundation Establishment Act Amendment of 2008</title>
+		<title type="short" as="enacted">National Fish and Wildlife Foundation Establishment Act Amendment of 2008</title>
+		<title type="official" as="introduced">To amend the National Fish and Wildlife Foundation Establishment Act to increase the number of Directors on the Board of Directors of the National Fish and Wildlife Foundation.</title>
+	</titles>
+	<sponsor id="400049"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-10-18"/>
+	</cosponsors>
+	<actions>
+		<action date="1192680000" datetime="2007-10-18"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1193025600" datetime="2007-10-22"><text>Referred to the Subcommittee on Fisheries, Wildlife, and Oceans.</text></action>
+		<action date="1202878800" datetime="2008-02-13"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1202878800" datetime="2008-02-13"><text>Forwarded by Subcommittee to Full Committee Without Recommendation by Unanimous Consent .</text></action>
+		<action date="1205294400" datetime="2008-03-12"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1205294400" datetime="2008-03-12" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1207018860" datetime="2008-03-31T12:01:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 110-552.</text></action>
+		<calendar number="335" date="1207018920" datetime="2008-03-31T12:02:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 335.</text></calendar>
+		<action date="1206985080" datetime="2008-03-31T14:38:00-04:00"><text>Mr. Abercrombie moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1206985140" datetime="2008-03-31T14:39:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1783-1784"/></action>
+		<action date="1206985140" datetime="2008-03-31T14:39:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3891.</text></action>
+		<vote date="1206985380" how="by voice vote" datetime="2008-03-31T14:43:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H1783"/></vote>
+		<action date="1207022400" datetime="2008-04-01"><text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar date="1211342400" datetime="2008-05-21" ><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1214539200" datetime="2008-06-27"><text>Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-405.</text></action>
+		<calendar under="General Orders" number="860" date="1214539200" datetime="2008-06-27" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 860.</text></calendar>
+		<vote date="1215403200" how="by Unanimous Consent" datetime="2008-07-07" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6368"/></vote>
+		<topresident date="1215403200" datetime="2008-07-07" ><text>Cleared for White House.</text></topresident>
+		<action date="1215489600" datetime="2008-07-08"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1215662400" datetime="2008-07-10" ><text>Presented to President.</text></topresident>
+		<signed date="1216612800" datetime="2008-07-21" ><text>Signed by President.</text></signed>
+		<enacted number="110-281" date="1216612800" datetime="2008-07-21" type="public" ><text>Became Public Law No: 110-281.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/21/2008--Public Law. (This measure has not been amended since it was passed by the House on March 31, 2008. The summary of that version is repeated here.) National Fish and Wildlife Foundation Establishment Act Amendment of 2008 - Amends the National Fish and Wildlife Foundation Establishment Act to increase the number of members of the board of the National Fish and Wildlife Foundation.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="110" type="h" number="3690" updated="2009-01-09T00:36:18-05:00">
+	<status><enacted date="1199682000" datetime="2008-01-07" /></status>
+
+	<introduced date="1190865600" datetime="2007-09-27"/>
+	<titles>
+		<title type="short" as="introduced">U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007</title>
+		<title type="short" as="reported to house">U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007</title>
+		<title type="short" as="passed house">U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007</title>
+		<title type="short" as="passed senate">U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007</title>
+		<title type="short" as="enacted">U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007</title>
+		<title type="official" as="introduced">To provide for the transfer of the Library of Congress police to the United States Capitol Police, and for other purposes.</title>
+	</titles>
+	<sponsor id="400047"/>
+	<cosponsors>
+		<cosponsor id="400119" joined="2007-09-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1190865600" datetime="2007-09-27"><text>Referred to the Committee on House Administration, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1190865600" datetime="2007-09-27"><text>Referred to House House Administration</text></action>
+		<action date="1190865600" datetime="2007-09-27"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1190952000" datetime="2007-09-28"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1194411600" datetime="2007-11-07"><committee name="House House Administration"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1194411600" datetime="2007-11-07" ><committee name="House House Administration"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1196813520" datetime="2007-12-04T20:12:00-05:00"><text>Reported (Amended) by the Committee on House Administration. H. Rept. 110-470, Part I.</text></action>
+		<action date="1196813580" datetime="2007-12-04T20:13:00-05:00"><text>Committee on Transportation discharged.</text></action>
+		<calendar number="293" date="1196813580" datetime="2007-12-04T20:13:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 293.</text></calendar>
+		<action date="1196884440" datetime="2007-12-05T15:54:00-05:00"><text>Mr. Brady (PA) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1196884500" datetime="2007-12-05T15:55:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H14207-14211"/></action>
+		<action date="1196884500" datetime="2007-12-05T15:55:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3690.</text></action>
+		<vote date="1196884980" how="by voice vote" datetime="2007-12-05T16:03:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="consideration" ref="CR H14207-14209"/></vote>
+		<action date="1196917200" datetime="2007-12-06"><text>Received in the Senate, read twice.</text></action>
+		<action date="1197867600" datetime="2007-12-17"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S15790"/></action>
+		<vote date="1197867600" how="by Unanimous Consent" datetime="2007-12-17" where="s" type="vote2" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action date="1197867600" datetime="2007-12-17"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1198012800" datetime="2007-12-18T17:20:00-05:00"><text>Mr. Brady (PA) moved that the House suspend the rules and agree to the Senate amendment.</text><reference label="consideration" ref="CR H16792-16794, H16795-16796"/></action>
+		<action date="1198012800" datetime="2007-12-18T17:20:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 3690.</text></action>
+		<action date="1198012980" datetime="2007-12-18T17:23:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1198014900" datetime="2007-12-18T17:55:00-05:00"><text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 1182).</text><reference label="text as House agreed to Senate amendment" ref="CR H16792-16794"/></action>
+		<topresident date="1197954000" datetime="2007-12-18" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1198731600" datetime="2007-12-27" ><text>Presented to President.</text></topresident>
+		<signed date="1199682000" datetime="2008-01-07" ><text>Signed by President.</text></signed>
+		<enacted number="110-178" date="1199682000" datetime="2008-01-07" type="public" ><text>Became Public Law No: 110-178.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2008--Public Law. (This measure has not been amended since it was passed by the Senate on December 17, 2007. The summary of that version is repeated here.) U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007 - (Sec. 2) Transfers each Library of Congress (LOC) police employee and each LOC civilian employee to the U.S. Capitol Police. States that: (1) a LOC Police employee shall become a member of the Capitol Police on the employee's transfer date if the Chief of the Capitol Police determines and issues a written certification that the employee meets specified eligibility requirements; and (2) if the Chief determines that such requirements are not met, then such employee shall become a civilian employee of the Capitol Police. Requires the determination to be made for all LOC Police employees before FY2010. Exempts LOC Police employees who become members of the Capitol Police from federal mandatory separation law, subject to specified conditions. Entitles any creditable service accrued by such LOC Police employees before becoming a Capitol Police to be included in calculating the employee's service as a member of the Capitol Police for purposes of the Federal Employees Retirement System (FERS) and the Civil Service Retirement System (CSRS). Provides that: (1) the transfer of such personnel shall not cause any such employee to be separated or receive a reduction in pay; and (2) any credited annual, sick leave, other leave, or compensatory leave of the individual shall be transferred to the individual's credit as a member or employee of the Capitol Police. Prohibits the Chief from imposing a probationary period with respect to any individual transferred under this Act. Cancels a specified portion of the unobligated balance of the FEDLINK Revolving Fund for the Federal Library and Information Network (FEDLINK) program of the Library of Congress and its Federal Research program. (Sec. 5) Requires the Librarian of Congress to establish standards and regulations for the physical security, control, and preservation of the Library of Congress collections and property, and or maintenance of suitable order and decorum within the Library. (Sec. 6) Amends the Library of Congress Fiscal Operations Improvement Act of 2000 to provide for payment of Capitol Police services for Library of Congress special events.<br/>
+	</summary>
+</bill>

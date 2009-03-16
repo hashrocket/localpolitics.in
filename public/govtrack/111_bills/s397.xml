@@ -1,0 +1,30 @@
+<bill session="111" type="s" number="397" updated="2009-03-07T14:20:43-05:00">
+	<status><introduced date="1234155600" datetime="2009-02-09"/></status>
+
+	<introduced date="1234155600" datetime="2009-02-09"/>
+	<titles>
+		<title type="official" as="introduced">A bill for the relief of Anton Dodaj, Gjyljana Dodaj, Franc Dodaj, and Kristjan Dodaj.</title>
+	</titles>
+	<sponsor id="300066"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234155600" datetime="2009-02-09"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/9/2009--Introduced.<br/>Provides for the relief of Anton Dodaj, Gjyljana Dodaj, Franc Dodaj, and Kristjan Dodaj.<br/>
+	</summary>
+</bill>

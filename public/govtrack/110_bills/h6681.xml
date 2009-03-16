@@ -1,0 +1,61 @@
+<bill session="110" type="h" number="6681" updated="2009-01-09T06:37:32-05:00">
+	<status><enacted date="1224561600" datetime="2008-10-21" /></status>
+
+	<introduced date="1217390400" datetime="2008-07-30"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 300 Vine Street in New Lenox, Illinois, as the &quot;Jacob M. Lowell Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400429"/>
+	<cosponsors>
+		<cosponsor id="400222" joined="2008-07-30"/>
+		<cosponsor id="400228" joined="2008-07-30"/>
+		<cosponsor id="400027" joined="2008-07-30"/>
+		<cosponsor id="400198" joined="2008-07-30"/>
+		<cosponsor id="400630" joined="2008-07-30"/>
+		<cosponsor id="400373" joined="2008-07-30"/>
+		<cosponsor id="400082" joined="2008-07-30"/>
+		<cosponsor id="400631" joined="2008-07-30"/>
+		<cosponsor id="412204" joined="2008-07-30"/>
+		<cosponsor id="400350" joined="2008-07-30"/>
+		<cosponsor id="400360" joined="2008-07-30"/>
+		<cosponsor id="400120" joined="2008-07-30"/>
+		<cosponsor id="400207" joined="2008-07-30"/>
+		<cosponsor id="400093" joined="2008-07-30"/>
+		<cosponsor id="412257" joined="2008-07-30"/>
+		<cosponsor id="400163" joined="2008-07-30"/>
+		<cosponsor id="412202" joined="2008-07-30"/>
+		<cosponsor id="400252" joined="2008-07-30"/>
+	</cosponsors>
+	<actions>
+		<action date="1217390400" datetime="2008-07-30"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<calendar date="1221019200" datetime="2008-09-10" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1221670560" datetime="2008-09-17T13:56:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1221670680" datetime="2008-09-17T13:58:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8324-8325"/></action>
+		<action date="1221670680" datetime="2008-09-17T13:58:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6681.</text></action>
+		<action date="1221671160" datetime="2008-09-17T14:06:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Foxx objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1221771060" datetime="2008-09-18T17:51:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8454"/></action>
+		<vote date="1221771060" how="by voice vote" datetime="2008-09-18T17:51:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 9/17/208 H8324)</text></vote>
+		<action date="1222056000" datetime="2008-09-22"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1222747200" how="by Unanimous Consent" datetime="2008-09-30" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10129-10130"/></vote>
+		<action date="1222747200" datetime="2008-09-30"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1222747200" datetime="2008-09-30" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1223611200" datetime="2008-10-10" ><text>Presented to President.</text></topresident>
+		<signed date="1224561600" datetime="2008-10-21" ><text>Signed by President.</text></signed>
+		<enacted number="110-443" date="1224561600" datetime="2008-10-21" type="public" ><text>Became Public Law No: 110-443.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/21/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 300 Vine Street in New Lenox, Illinois, as the &quot;Jacob M. Lowell Post Office Building.&quot; 
+	</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="110" type="hr" number="936" updated="2009-01-09T09:48:47-05:00">
+	<status><vote date="1205353320" datetime="2008-03-12T17:22:00-04:00" where="h" result="pass" how="roll" roll="133"/></status>
+
+	<introduced date="1201064400" datetime="2008-01-23"/>
+	<titles>
+		<title type="official" as="introduced">Honoring the 200th anniversary of the Gallatin Report on Roads and Canals, celebrating the national unity the Gallatin Report engendered, and recognizing the vast contributions that national planning efforts have provided to the United States.</title>
+		<title type="official" as="amended by house">Resolution reaffirming the goals and ideals that formed the impetus for Albert Gallatin's national plan for transportation improvements 200 years ago, and for other purposes.</title>
+	</titles>
+	<sponsor id="400033"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="2008-01-23"/>
+		<cosponsor id="400129" joined="2008-01-23"/>
+		<cosponsor id="400663" joined="2008-03-03"/>
+		<cosponsor id="400103" joined="2008-02-26"/>
+		<cosponsor id="400178" joined="2008-03-04"/>
+		<cosponsor id="400299" joined="2008-01-23"/>
+		<cosponsor id="400318" joined="2008-01-23"/>
+		<cosponsor id="400283" joined="2008-03-03"/>
+		<cosponsor id="400100" joined="2008-01-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1201064400" datetime="2008-01-23"><text>Sponsor introductory remarks on measure. (CR E61)</text></action>
+		<action date="1201064400" datetime="2008-01-23"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1201150800" datetime="2008-01-24"><text>Referred to the Subcommittee on Highways and Transit.</text></action>
+		<action date="1201150800" datetime="2008-01-24"><text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text></action>
+		<action date="1201150800" datetime="2008-01-24"><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action date="1204174800" datetime="2008-02-28"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1204174800" datetime="2008-02-28" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1205185620" datetime="2008-03-10T18:47:00-04:00"><text>Reported (Amended) by the Committee on Transportation. H. Rept. 110-544.</text></action>
+		<calendar number="194" date="1205185680" datetime="2008-03-10T18:48:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 194.</text></calendar>
+		<action date="1205251620" datetime="2008-03-11T13:07:00-04:00"><text>Mr. DeFazio moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1205251620" datetime="2008-03-11T13:07:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1455-1457"/></action>
+		<action date="1205251620" datetime="2008-03-11T13:07:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 936.</text></action>
+		<action date="1205252760" datetime="2008-03-11T13:26:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1205352900" datetime="2008-03-12T17:15:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1574"/></action>
+		<vote date="1205353320" how="roll" roll="133" datetime="2008-03-12T17:22:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 133). (text: CR 3/11/2008 H1455)</text></vote>
+		<action date="1205353320" datetime="2008-03-12T17:22:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/12/2008--Passed House amended. Reaffirms the goals and ideals that formed the impetus for Albert Gallatin's national plan for transportation improvements 200 years ago.<br/>Calls on the federal government, states, localities, schools, nonprofit organizations, businesses, and U.S. citizens to mark the 200th anniversary of such plan by recalling the legacy of public investment in infrastructure, which connects and enhances the economies, communications, and communities of the states.<br/>Expresses support for the creation of a new national plan for transportation improvements to align the demands for economic development with the resources of the nation.<br/>
+	</summary>
+</bill>

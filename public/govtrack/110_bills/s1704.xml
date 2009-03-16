@@ -1,0 +1,44 @@
+<bill session="110" type="s" number="1704" updated="2009-01-09T15:22:05-05:00">
+	<status><enacted date="1183435200" datetime="2007-07-03" /></status>
+
+	<introduced date="1182916800" datetime="2007-06-27"/>
+	<titles>
+		<title type="short" as="introduced">First Higher Education Extension Act of 2007</title>
+		<title type="short" as="passed house">First Higher Education Extension Act of 2007</title>
+		<title type="short" as="passed senate">First Higher Education Extension Act of 2007</title>
+		<title type="short" as="enacted">First Higher Education Extension Act of 2007</title>
+		<title type="official" as="introduced">A bill to temporarily extend the programs under the Higher Education Act of 1965, and for other purposes.</title>
+	</titles>
+	<sponsor id="300059"/>
+	<cosponsors>
+		<cosponsor id="300041" joined="2007-06-27"/>
+	</cosponsors>
+	<actions>
+		<vote date="1182916800" how="by Unanimous Consent" datetime="2007-06-27" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S8573"/><reference label="text as passed Senate" ref="CR S8573"/></vote>
+		<action date="1182977340" datetime="2007-06-27T17:49:00-04:00"><text>Received in the House.</text></action>
+		<action date="1182916800" datetime="2007-06-27"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1182979920" datetime="2007-06-27T18:32:00-04:00"><text>Held at the desk.</text></action>
+		<action date="1183037520" datetime="2007-06-28T10:32:00-04:00"><text>Mr. Bishop (NY) asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action date="1183037520" datetime="2007-06-28T10:32:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H7347"/></action>
+		<vote date="1183037520" how="without objection" datetime="2007-06-28T10:32:00-04:00" where="h" type="vote2" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H7347"/></vote>
+		<topresident date="1183003200" datetime="2007-06-28" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1183348800" datetime="2007-07-02" ><text>Presented to President.</text></topresident>
+		<signed date="1183435200" datetime="2007-07-03" ><text>Signed by President.</text></signed>
+		<enacted number="110-44" date="1183435200" datetime="2007-07-03" type="public" ><text>Became Public Law No: 110-44.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/3/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) First Higher Education Extension Act of 2007 - Amends the Higher Education Extension Act of 2005 to extend the programs under the Higher Education Act of 1965 through July 31, 2007.<br/>
+	</summary>
+</bill>

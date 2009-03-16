@@ -1,0 +1,49 @@
+<bill session="110" type="h" number="205" retreived_date="1226018418" updated="2008-11-06T19:40:18-05:00">
+	<status><introduced date="1167886800" datetime="2007-01-04"/></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Prescription Drug Enrollment Extension Act of 2007</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to extend the annual enrollment periods of the Medicare prescription drug benefit program and under the Medicare Advantage program.</title>
+	</titles>
+	<sponsor id="400359"/>
+	<cosponsors>
+		<cosponsor id="400380" joined="2007-01-04"/>
+		<cosponsor id="400324" joined="2007-01-31"/>
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to House Ways and Means</text></action>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1169096400" datetime="2007-01-18"><committee name="House Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1170392400" datetime="2007-02-02"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="Health" activity="Referral" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Energy and Commerce" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health policy"/>
+		<term name="Aged"/>
+		<term name="Drugs"/>
+		<term name="Finance"/>
+		<term name="Health insurance"/>
+		<term name="Health maintenance organizations"/>
+		<term name="Managed care"/>
+		<term name="Medical care"/>
+		<term name="Medicare"/>
+		<term name="Medicine"/>
+		<term name="Prescription pricing"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/4/2007--Introduced.<br/>Medicare Prescription Drug Enrollment Extension Act of 2007 - Amends title XVIII (Medicare) of the Social Security Act to extend the annual enrollment periods of the Medicare and Medicare Advantage prescription drug benefit programs. 
+	</summary>
+</bill>

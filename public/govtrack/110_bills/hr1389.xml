@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="1389" updated="2009-01-09T10:47:59-05:00">
+	<status><vote date="1217560260" datetime="2008-07-31T12:11:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1217390400" datetime="2008-07-30"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the conference report to accompany the bill (H.R. 4137) to amend and extend the Higher Education Act of 1965, and for other purposes.</title>
+	</titles>
+	<sponsor id="400663"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1217454480" datetime="2008-07-30T18:48:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-808, by Ms. Matsui.</text></action>
+		<action date="1217454480" datetime="2008-07-30T18:48:00-04:00"><text>All points of order against the conference report and against its consideration are waived.</text></action>
+		<calendar date="1217454480" datetime="2008-07-30T18:48:00-04:00" ><text>Placed on the House Calendar, Calendar No. 257.</text></calendar>
+		<action date="1217514000" datetime="2008-07-31T11:20:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H7643-7649"/></action>
+		<action date="1217514000" datetime="2008-07-31T11:20:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 1389.</text></action>
+		<action date="1217560200" datetime="2008-07-31T12:10:00-04:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H7649"/></action>
+		<vote date="1217560260" how="by voice vote" datetime="2008-07-31T12:11:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H7643"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/30/2008--Introduced.<br/>Sets forth the rule for consideration of the conference report to accompany the bill (H.R. 4137) to amend and extend the Higher Education Act of 1965.<br/>
+	</summary>
+</bill>

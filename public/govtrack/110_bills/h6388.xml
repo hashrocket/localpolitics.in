@@ -1,0 +1,60 @@
+<bill session="110" type="h" number="6388" updated="2009-01-09T06:02:45-05:00">
+	<status><vote date="1217350500" datetime="2008-07-29T13:55:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1214452800" datetime="2008-06-26"/>
+	<titles>
+		<title type="short" as="introduced">Government Accountability Office Improvement Act of 2008</title>
+		<title type="short" as="reported to house">Government Accountability Office Improvement Act of 2008</title>
+		<title type="short" as="passed house">Government Accountability Office Improvement Act of 2008</title>
+		<title type="official" as="introduced">To provide additional authorities to the Comptroller General of the United States, and for other purposes.</title>
+	</titles>
+	<sponsor id="400425"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2008-06-26"/>
+		<cosponsor id="400337" joined="2008-06-26"/>
+		<cosponsor id="400155" joined="2008-06-26"/>
+		<cosponsor id="400080" joined="2008-06-26"/>
+		<cosponsor id="400333" joined="2008-06-26"/>
+		<cosponsor id="400300" joined="2008-06-26"/>
+		<cosponsor id="400377" joined="2008-06-26"/>
+		<cosponsor id="400402" joined="2008-06-26"/>
+		<cosponsor id="400331" joined="2008-06-26"/>
+		<cosponsor id="400386" joined="2008-06-26"/>
+		<cosponsor id="400416" joined="2008-06-26"/>
+		<cosponsor id="400110" joined="2008-06-26"/>
+		<cosponsor id="400140" joined="2008-06-26"/>
+		<cosponsor id="400378" joined="2008-06-26"/>
+		<cosponsor id="400299" joined="2008-06-26"/>
+		<cosponsor id="400047" joined="2008-06-26"/>
+		<cosponsor id="400025" joined="2008-06-26"/>
+		<cosponsor id="400278" joined="2008-06-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1214452800" datetime="2008-06-26"><text>Sponsor introductory remarks on measure. (CR E1382)</text></action>
+		<action date="1214452800" datetime="2008-06-26"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1216180800" datetime="2008-07-16" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1216932840" datetime="2008-07-24T17:54:00-04:00"><text>Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-771.</text></action>
+		<calendar number="490" date="1216932900" datetime="2008-07-24T17:55:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 490.</text></calendar>
+		<action date="1217350200" datetime="2008-07-29T13:50:00-04:00"><text>Mr. Waxman moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1217350200" datetime="2008-07-29T13:50:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7192-7194"/></action>
+		<action date="1217350200" datetime="2008-07-29T13:50:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6388.</text></action>
+		<vote date="1217350500" how="by voice vote" datetime="2008-07-29T13:55:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H7192-7193"/></vote>
+		<action date="1217390400" datetime="2008-07-30"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/29/2008--Passed House amended. Government Accountability Office Improvement Act of 2008 - Authorizes the Comptroller General to: (1) obtain federal agency records required to discharge his or her duties, including through bringing civil actions under this Act; (2) interview agency officers and employees to get information about agency duties, powers, activities, organization, and financial transactions; and (3) administer oaths to witnesses (currently, the Comptroller General may administer oaths to witnesses when auditing and settling accounts).<br/>Requires the Comptroller General to prescribe such policies and procedures as are necessary to protect from public disclosure proprietary or trade secret information obtained under this Act.<br/>Declares that no provision of the Social Security Act, the Federal Food, Drug, and Cosmetic Act, or the Hart-Scott-Rodino Antitrust Improvements Act of 1976 shall be construed to limit, amend, or supersede the authority of the Comptroller General to obtain information, inspect records, or interview specified agency officers or employees, including with respect to: (1) information disclosed to or obtained by the Secretary of Health and Human Services under the Social Security Act; (2) information concerning any method or process protected as a trade secret; and (3) information disclosed to the Assistant Attorney General of the Antitrust Division of the Department of Justice (DOJ) or the Federal Trade Commission (FTC) for purposes of pre-merger review under the Clayton Act. Declares that this Act shall not be construed to: (1) alter or amend the prohibitions against the disclosure of trade secret or other sensitive information; and (2) affect the applicability of requirements governing the availability of agency information to information obtained.<br/>Requires the Comptroller General to: (1) report annually on the cooperation of agencies subject to the Chief Financial Officers Act of 1990 and other agencies designated by the Comptroller General in making personnel available for interviews, providing written answers to questions, submitting to an oath authorized by the Comptroller General, granting access to records, providing timely comments to draft reports, adopting report recommendations, and responding to such matters as the Comptroller General deems appropriate; and (2) report to Congress when agencies do not respond to requests regarding such matters.<br/>
+	</summary>
+</bill>

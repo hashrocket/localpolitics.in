@@ -1,0 +1,68 @@
+<bill session="110" type="hc" number="5" updated="2009-01-08T15:27:06-05:00">
+	<status><vote date="1170273480" datetime="2007-01-31T15:58:00-05:00" where="h" result="pass" how="roll" roll="73"/></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="official" as="introduced">Expressing support for the designation and goals of &quot;Hire a Veteran Week&quot; and encouraging the President to issue a proclamation supporting those goals.</title>
+	</titles>
+	<sponsor id="400184"/>
+	<cosponsors>
+		<cosponsor id="400436" joined="2007-01-16"/>
+		<cosponsor id="412214" joined="2007-01-29"/>
+		<cosponsor id="400443" joined="2007-01-29"/>
+		<cosponsor id="400041" joined="2007-01-16"/>
+		<cosponsor id="400383" joined="2007-01-16"/>
+		<cosponsor id="400285" joined="2007-01-29"/>
+		<cosponsor id="412204" joined="2007-01-29"/>
+		<cosponsor id="412236" joined="2007-01-22"/>
+		<cosponsor id="400073" joined="2007-01-29"/>
+		<cosponsor id="400009" joined="2007-01-29"/>
+		<cosponsor id="400302" joined="2007-01-29"/>
+		<cosponsor id="400048" joined="2007-01-29"/>
+		<cosponsor id="400227" joined="2007-01-29"/>
+		<cosponsor id="412197" joined="2007-01-29"/>
+		<cosponsor id="400364" joined="2007-01-29"/>
+		<cosponsor id="400257" joined="2007-01-29"/>
+		<cosponsor id="400049" joined="2007-01-04"/>
+		<cosponsor id="412199" joined="2007-01-16"/>
+		<cosponsor id="400040" joined="2007-01-29"/>
+		<cosponsor id="400097" joined="2007-01-29"/>
+		<cosponsor id="400090" joined="2007-01-16"/>
+		<cosponsor id="412233" joined="2007-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to House Veterans' Affairs</text></action>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to House Armed Services</text></action>
+		<action date="1169701200" datetime="2007-01-25"><committee name="House Armed Services"/><text>Referred to the Subcommittee on Military Personnel.</text></action>
+		<action date="1170181560" datetime="2007-01-30T14:26:00-05:00"><text>Mr. Holt moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1170181620" datetime="2007-01-30T14:27:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1010-1014"/></action>
+		<action date="1170181620" datetime="2007-01-30T14:27:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 5.</text></action>
+		<action date="1170183420" datetime="2007-01-30T14:57:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1170273000" datetime="2007-01-31T15:50:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1113"/></action>
+		<vote date="1170273480" how="roll" roll="73" datetime="2007-01-31T15:58:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 73). (text: CR 1/30/2007 H1010)</text></vote>
+		<action date="1170219600" datetime="2007-01-31"><text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral" />
+		<committee name="House Armed Services" subcommittee="" activity="Referral" />
+		<committee name="House Armed Services" subcommittee="Military Personnel" activity="Referral" />
+		<committee name="Senate Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Commemorations"/>
+		<term name="Labor"/>
+		<term name="Special weeks"/>
+		<term name="Veterans"/>
+		<term name="Veterans' employment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/31/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the importance of the men and women who have served or who currently serve in the Armed Forces of the United States. Supports the designation of an appropriate week as Hire a Veteran Week. Encourages the President to issue a proclamation calling upon employers, labor organizations, veterans service organizations, and federal, state, and local governmental agencies to lend their support to increase employment of the men and women who have served in the Armed Forces.<br/>
+	</summary>
+</bill>

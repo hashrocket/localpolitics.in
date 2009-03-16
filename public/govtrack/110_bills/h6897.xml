@@ -1,0 +1,39 @@
+<bill session="110" type="h" number="6897" updated="2009-01-09T07:02:33-05:00">
+	<status><vote date="1222189500" datetime="2008-09-23T14:05:00-04:00" where="h" result="pass" how="roll" roll="624"/></status>
+
+	<introduced date="1221451200" datetime="2008-09-15"/>
+	<titles>
+		<title type="short" as="introduced">Filipino Veterans Equity Act of 2008</title>
+		<title type="short" as="passed house">Filipino Veterans Equity Act of 2008</title>
+		<title type="official" as="introduced">To authorize the Secretary of Veterans Affairs to make certain payments to eligible persons who served in the Philippines during World War II.</title>
+	</titles>
+	<sponsor id="400133"/>
+	<cosponsors>
+		<cosponsor id="400343" joined="2008-09-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1221451200" datetime="2008-09-15"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1222139640" datetime="2008-09-22T12:14:00-04:00"><text>Mr. Filner moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1222139640" datetime="2008-09-22T12:14:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8483-8487"/></action>
+		<action date="1222139640" datetime="2008-09-22T12:14:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6897.</text></action>
+		<action date="1222141440" datetime="2008-09-22T12:44:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1222189080" datetime="2008-09-23T13:58:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8613-8614"/></action>
+		<vote date="1222189500" how="roll" roll="624" datetime="2008-09-23T14:05:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 23 (Roll no. 624). (text: CR 9/22/2008 H8483)</text></vote>
+		<action date="1222142400" datetime="2008-09-23"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/23/2008--Passed House amended. Filipino Veterans Equity Act of 2008 - Establishes in the Treasury the Filipino Veterans Equity Compensation Fund, whose amounts shall be available to the Secretary of Veterans Affairs without fiscal year limitation to make payments to specified eligible persons who served: (1) before July 1, 1946, in the organized military forces of the government of the Commonwealth of the Philippines, while in the service of the Armed Forces of the United States; or (2) in the Philippine Scouts. Sets the payment amounts at $15,000 for U.S. citizens and $9,000 for non-U.S. citizens. States that acceptance of such payment shall constitute a release of any claim against the United States for such service. Requires the Secretary to include information concerning compensation fund operation within annual budget documents submitted to Congress. Authorizes appropriations.<br/>
+	</summary>
+</bill>

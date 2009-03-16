@@ -1,0 +1,48 @@
+<bill session="110" type="h" number="3526" updated="2009-01-09T00:16:43-05:00">
+	<status><vote date="1196915580" datetime="2007-12-05T12:33:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1189742400" datetime="2007-09-14"/>
+	<titles>
+		<title type="official" as="introduced">To include all banking agencies within the existing regulatory authority under the Federal Trade Commission Act with respect to depository institutions, and for other purposes.</title>
+	</titles>
+	<sponsor id="400140"/>
+	<cosponsors>
+		<cosponsor id="400110" joined="2007-10-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1189742400" datetime="2007-09-14"><text>Referred to the Committee on Financial Services, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1189742400" datetime="2007-09-14"><text>Referred to House Financial Services</text></action>
+		<action date="1189742400" datetime="2007-09-14"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1189828800" datetime="2007-09-15"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text></action>
+		<action date="1190088000" datetime="2007-09-18"><committee name="House Financial Services"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1190088000" datetime="2007-09-18" ><committee name="House Financial Services"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1193112000" datetime="2007-10-23"><committee name="House Energy and Commerce" subcommittee="Commerce, Trade and Consumer Protection"/><text>Subcommittee Hearings Held.</text></action>
+		<action date="1193112000" datetime="2007-10-23"><committee name="House Energy and Commerce" subcommittee="Commerce, Trade and Consumer Protection"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1193112000" datetime="2007-10-23"><committee name="House Energy and Commerce" subcommittee="Commerce, Trade and Consumer Protection"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action date="1193716800" datetime="2007-10-30"><committee name="House Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1193716800" datetime="2007-10-30" ><committee name="House Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1196868300" datetime="2007-12-05T11:25:00-05:00"><text>Reported (Amended) by the Committee on Financial Services. H. Rept. 110-472, Part I.</text></action>
+		<action date="1196868300" datetime="2007-12-05T11:25:00-05:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-472, Part II.</text></action>
+		<calendar number="294" date="1196868300" datetime="2007-12-05T11:25:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 294.</text></calendar>
+		<action date="1196915100" datetime="2007-12-05T12:25:00-05:00"><text>Mr. Frank (MA) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1196915160" datetime="2007-12-05T12:26:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H14172-14174"/></action>
+		<action date="1196915160" datetime="2007-12-05T12:26:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3526.</text></action>
+		<vote date="1196915580" how="by voice vote" datetime="2007-12-05T12:33:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H14172-14173"/></vote>
+		<action date="1196917200" datetime="2007-12-06"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/5/2007--Passed House amended. Amends the Federal Trade Commission Act to transfer to each federal banking agency, with respect to depository institutions it supervises, the authority to prescribe regulations governing unfair or deceptive practices by banks and savings and loan institutions currently vested in the Board of Governors of the Federal Reserve System (with respect to banks) and the Federal Home Loan Bank Board (with respect to savings and loan institutions). Requires the federal banking agencies to prescribe such regulations: (1) jointly to the extent practicable; and (2) in consultation with the Federal Trade Commission (FTC). Authorizes the FTC, with respect to entities within its jurisdiction, to commence a rulemaking proceeding and prescribe regulations whenever such banking agencies commence a rulemaking proceeding. Requires the FTC, whenever it commences such a rulemaking proceeding, to consult and coordinate with the federal banking agencies and the National Credit Union Administration (NCUA) Board so that the regulations prescribed by each such agency are consistent with and comparable to the regulations prescribed by the agencies to the extent practicable. Instructs the Comptroller General to report to Congress on the status of regulations of the federal banking agencies and the NCUA regarding unfair and deceptive acts or practices by depository institutions.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,64 @@
+<bill session="111" type="hr" number="77" updated="2009-03-07T13:15:05-05:00">
+	<status><vote date="1236111360" datetime="2009-03-03T16:16:00-05:00" where="h" result="pass" how="roll" roll="93"/></status>
+
+	<introduced date="1232514000" datetime="2009-01-21"/>
+	<titles>
+		<title type="official" as="introduced">Congratulating the University of Mary Washington in Fredericksburg, Virginia, for more than 100 years of service and leadership to the United States.</title>
+	</titles>
+	<sponsor id="412255"/>
+	<cosponsors>
+		<cosponsor id="400061" joined="2009-02-10"/>
+		<cosponsor id="400640" joined="2009-02-10"/>
+		<cosponsor id="400121" joined="2009-02-10"/>
+		<cosponsor id="400364" joined="2009-02-10"/>
+		<cosponsor id="412252" joined="2009-02-10"/>
+		<cosponsor id="400655" joined="2009-02-10"/>
+		<cosponsor id="400089" joined="2009-02-10"/>
+		<cosponsor id="400400" joined="2009-02-10"/>
+		<cosponsor id="400137" joined="2009-02-10"/>
+		<cosponsor id="412270" joined="2009-02-10"/>
+		<cosponsor id="400267" joined="2009-02-10"/>
+		<cosponsor id="400644" joined="2009-02-10"/>
+		<cosponsor id="400154" joined="2009-02-04"/>
+		<cosponsor id="400344" joined="2009-02-10"/>
+		<cosponsor id="412256" joined="2009-02-10"/>
+		<cosponsor id="412217" joined="2009-02-10"/>
+		<cosponsor id="400043" joined="2009-01-28"/>
+		<cosponsor id="400283" joined="2009-01-28"/>
+		<cosponsor id="400651" joined="2009-02-10"/>
+		<cosponsor id="400433" joined="2009-02-10"/>
+		<cosponsor id="412250" joined="2009-02-10"/>
+		<cosponsor id="400363" joined="2009-01-26"/>
+		<cosponsor id="412261" joined="2009-02-10"/>
+		<cosponsor id="400435" joined="2009-01-27"/>
+		<cosponsor id="412202" joined="2009-02-10"/>
+		<cosponsor id="400252" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1232514000" datetime="2009-01-21"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1236141120" datetime="2009-03-03T12:32:00-05:00"><text>Mr. Polis (CO) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1236141120" datetime="2009-03-03T12:32:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2894-2895"/></action>
+		<action date="1236141180" datetime="2009-03-03T12:33:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 77.</text></action>
+		<action date="1236141480" datetime="2009-03-03T12:38:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1236110940" datetime="2009-03-03T16:09:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2900-2901"/></action>
+		<vote date="1236111360" how="roll" roll="93" datetime="2009-03-03T16:16:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 93).</text><reference label="text" ref="CR H2894"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Congressional tributes"/>
+		<term name="Higher education"/>
+		<term name="Virginia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/3/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Congratulates the University of Mary Washington in Fredericksburg, Virginia, for more than 100 years of leadership and service.<br/>
+	</summary>
+</bill>

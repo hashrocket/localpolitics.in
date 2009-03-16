@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="338" updated="2009-03-07T10:27:22-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">Boy Scouts of America Land Transfer Act of 2009</title>
+		<title type="official" as="introduced">To authorize the Boy Scouts of America to exchange certain land in the State of Utah acquired under the Recreation and Public Purposes Act.</title>
+	</titles>
+	<sponsor id="400255"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="215" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Land transfers"/>
+		<term name="Outdoor recreation"/>
+		<term name="Utah"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Boy Scouts of America Land Transfer Act of 2009 - Authorizes the Utah National Parks Council of the Boy Scouts of America (the Boy Scouts) to convey to Brian Head Resort certain public land in Utah acquired under the Recreation and Public Purposes Act for the purpose of operating a camp in exchange for conveyance by Brian Head Resort of certain of its private land to the Boy Scouts. 
+	</summary>
+</bill>

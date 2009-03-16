@@ -1,0 +1,39 @@
+<bill session="111" type="s" number="404" updated="2009-03-07T14:21:31-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="short" as="introduced">Veterans' Emergency Care Fairness Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend title 38, United States Code, to expand veteran eligibility for reimbursement by the Secretary of Veterans Affairs for emergency treatment furnished in a non-Department facility, and for other purposes.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+		<cosponsor id="412328" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Sponsor introductory remarks on measure. (CR S2080-2081)</text></action>
+		<action date="1234242000" datetime="2009-02-10"><text>Read twice and referred to the Committee on Veterans' Affairs.</text><reference label="text of measure as introduced" ref="CR S2081"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Emergency medical services"/>
+		<term name="Government liability"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health facilities and institutions"/>
+		<term name="Medicaid"/>
+		<term name="Medicare"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Introduced.<br/>Veterans' Emergency Care Fairness Act of 2009 - Revises provisions concerning the authority of the Secretary of Veterans Affairs to reimburse a veteran for the cost of emergency care provided in a non-Department of Veterans Affairs (VA) facility to provide that, if the veteran has contractual or legal recourse against a third party that would, in part, extinguish the veteran's liability to the provider of the emergency treatment and payment for the treatment may be made by both the VA and the third party, the amount payable by the VA shall be that which exceeds the cost payable by the third party. Includes as third parties: (1) the Secretary of Health and Human Services, with respect to the Medicare program under title XVIII of the Social Security Act; and (2) a state Medicaid agency with respect to payments under title XIX of such Act.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="1327" updated="2009-03-13T12:12:31-04:00">
+	<status><introduced date="1236229200" datetime="2009-03-05"/></status>
+
+	<introduced date="1236229200" datetime="2009-03-05"/>
+	<titles>
+		<title type="short" as="introduced">Iran Sanctions Enabling Act of 2009</title>
+		<title type="official" as="introduced">To authorize State and local governments to direct divestiture from, and prevent investment in, companies with investments of $20,000,000 or more in Iran's energy sector, and for other purposes.</title>
+	</titles>
+	<sponsor id="400140"/>
+	<cosponsors>
+		<cosponsor id="400371" joined="2009-03-05"/>
+		<cosponsor id="400271" joined="2009-03-05"/>
+		<cosponsor id="400025" joined="2009-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1236229200" datetime="2009-03-05"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

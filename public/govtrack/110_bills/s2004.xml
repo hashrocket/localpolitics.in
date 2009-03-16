@@ -1,0 +1,42 @@
+<bill session="110" type="s" number="2004" updated="2009-01-09T16:00:04-05:00">
+	<status><calendar date="1195016400" datetime="2007-11-14" /></status>
+
+	<introduced date="1186113600" datetime="2007-08-03"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title 38, United States Code, to establish epilepsy centers of excellence in the Veterans Health Administration of the Department of Veterans Affairs, and for other purposes.</title>
+	</titles>
+	<sponsor id="300076"/>
+	<cosponsors>
+		<cosponsor id="300029" joined="2007-08-03"/>
+		<cosponsor id="300025" joined="2008-03-04"/>
+		<cosponsor id="300024" joined="2008-01-28"/>
+		<cosponsor id="300068" joined="2007-10-23"/>
+		<cosponsor id="412247" joined="2008-02-27"/>
+		<cosponsor id="300067" joined="2008-03-11"/>
+		<cosponsor id="300036" joined="2008-03-05"/>
+		<cosponsor id="400629" joined="2007-09-24"/>
+		<cosponsor id="400357" joined="2008-05-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1186113600" datetime="2007-08-03"><text>Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+		<action date="1193198400" datetime="2007-10-24"><text>Committee on Veterans' Affairs. Hearings held.</text></action>
+		<calendar date="1195016400" datetime="2007-11-14" ><text>Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1197435600" datetime="2007-12-12"><text>Committee on Veterans' Affairs. Reported by Senator Akaka without amendment. With written report No. 110-247.</text></action>
+		<calendar under="General Orders" number="540" date="1197435600" datetime="2007-12-12" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 540.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/12/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Directs the Secretary of Veterans Affairs to designate, establish, and operate at least six Department of Veterans Affairs (VA) health-care facilities as locations for epilepsy centers of excellence. Requires the Under Secretary for Health of the Veterans Health Administration (VHA) to establish a peer review panel to assess the scientific and clinical merit of proposals for the designation of such centers. Prohibits the Secretary from designating a VA facility as a center of excellence unless the peer review panel has determined that the proposal submitted by such facility is among those that meet the highest competitive standards of scientific and clinical merit. Requires the Secretary to designate a VHA national coordinator for epilepsy programs to: (1) supervise the operation of the centers; (2) coordinate and support throughout the VA health-care system better access to diagnosis, research, care, and education for epilepsy and traumatic brain injury; and (3) conduct regular evaluations of the centers. Authorizes appropriations.<br/>
+	</summary>
+</bill>

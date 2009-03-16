@@ -1,0 +1,38 @@
+<bill session="110" type="hr" number="824" updated="2009-01-09T09:34:49-05:00">
+	<status><vote date="1195141800" datetime="2007-11-15T11:50:00-05:00" where="h" result="pass" how="roll" roll="1111"/></status>
+
+	<introduced date="1195016400" datetime="2007-11-14"/>
+	<titles>
+		<title type="official" as="introduced">Providing for further consideration of the bill (H.R. 3773) to amend the Foreign Intelligence Surveillance Act of 1978 to establish a procedure for authorizing certain acquisitions of foreign intelligence, and for other purposes.</title>
+	</titles>
+	<sponsor id="400170"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1195082220" datetime="2007-11-14T19:17:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-449, by Mr. Hastings (FL).</text></action>
+		<action date="1195082220" datetime="2007-11-14T19:17:00-05:00"><text>The rule provides that the further amendment printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted.</text></action>
+		<calendar date="1195082280" datetime="2007-11-14T19:18:00-05:00" ><text>Placed on the House Calendar, Calendar No. 156.</text></calendar>
+		<action date="1195135680" datetime="2007-11-15T10:08:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H13969"/></action>
+		<action date="1195135800" datetime="2007-11-15T10:10:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 824.</text></action>
+		<action date="1195139640" datetime="2007-11-15T11:14:00-05:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 824, the Chair put the question on ordering the previous question and by voice vote, announced that the ayes had prevailed. Mr. Hastings (WA) demanded the yeas and nays and the Chair postponed further proceedings on ordering the previous question and subsequent adoption of H. Res. 824 until later in the legislative day.</text></action>
+		<action date="1195141020" datetime="2007-11-15T11:37:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H13977-13978"/></action>
+		<action date="1195141380" datetime="2007-11-15T11:43:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 221 - 195 (Roll no. 1110).</text><reference label="consideration" ref="CR H13975-13976, H13977"/></action>
+		<vote date="1195141800" how="roll" roll="1111" datetime="2007-11-15T11:50:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 224 - 192 (Roll no. 1111).</text><reference label="text" ref="CR H13969"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/15/2007--Passed House without amendment. Sets forth the rule for consideration of H.R. 3773 (Responsible Electronic Surveillance That is Overseen, Reviewed, and Effective Act of 2007, or RESTORE Act of 2007).<br/>
+	</summary>
+</bill>

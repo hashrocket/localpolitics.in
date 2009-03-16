@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="793" updated="2009-01-09T09:30:42-05:00">
+	<status><vote date="1194461880" datetime="2007-11-07T14:58:00-05:00" where="h" result="pass" how="roll" roll="1053"/></status>
+
+	<introduced date="1194238800" datetime="2007-11-05"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 3685) to prohibit employment discrimination on the basis of sexual orientation.</title>
+	</titles>
+	<sponsor id="412195"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1194303060" datetime="2007-11-05T18:51:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-422, by Ms. Castor.</text></action>
+		<action date="1194303060" datetime="2007-11-05T18:51:00-05:00"><text>All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. Amendment number 3 in the report of the Committee on Rules may be withdrawn by its proponent before the question is put thereon.</text></action>
+		<calendar date="1194303060" datetime="2007-11-05T18:51:00-05:00" ><text>Placed on the House Calendar, Calendar No. 144.</text></calendar>
+		<action date="1194497700" datetime="2007-11-07T12:55:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H13216-13217, H13226-13228"/></action>
+		<action date="1194497820" datetime="2007-11-07T12:57:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 793.</text></action>
+		<action date="1194461340" datetime="2007-11-07T14:49:00-05:00"><text>On ordering the previous question Agreed to by recorded vote: 224 - 192 (Roll no. 1052).</text><reference label="consideration" ref="CR H13226-13227"/></action>
+		<vote date="1194461880" how="roll" roll="1053" datetime="2007-11-07T14:58:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 218 - 205 (Roll no. 1053).</text><reference label="text" ref="CR H13216-13217"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/7/2007--Passed House without amendment. Sets forth the rule for the consideration of H.R. 3685 (Employment Non-Discrimination Act of 2007).<br/>
+	</summary>
+</bill>

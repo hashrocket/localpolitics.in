@@ -1,0 +1,47 @@
+<bill session="111" type="h" number="637" updated="2009-03-07T11:02:32-05:00">
+	<status><vote date="1235499480" datetime="2009-02-24T14:18:00-05:00" where="h" result="pass" how="roll" roll="77"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">South Orange County Recycled Water Enhancement Act</title>
+		<title type="short" as="passed house">South Orange County Recycled Water Enhancement Act</title>
+		<title type="official" as="introduced">To authorize the Secretary, in cooperation with the City of San Juan Capistrano, California, to participate in the design, planning, and construction of an advanced water treatment plant facility and recycled water system, and for other purposes.</title>
+	</titles>
+	<sponsor id="400057"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1235419980" datetime="2009-02-23T16:13:00-05:00"><text>Ms. Bordallo moved to suspend the rules and pass the bill.</text></action>
+		<action date="1235419980" datetime="2009-02-23T16:13:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1628-1629"/></action>
+		<action date="1235419980" datetime="2009-02-23T16:13:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 637.</text></action>
+		<action date="1235420220" datetime="2009-02-23T16:17:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1235498940" datetime="2009-02-24T14:09:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2622-2623"/></action>
+		<vote date="1235499480" how="roll" roll="77" datetime="2009-02-24T14:18:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 16 (Roll no. 77). (text: CR 2/23/2009 H1623)</text></vote>
+		<action date="1235538000" datetime="2009-02-25"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral" />
+		<committee name="House Natural Resources" subcommittee="Water and Power" activity="Referral" />
+		<committee name="Senate Energy and Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="California"/>
+		<term name="Water quality"/>
+		<term name="Water resources funding"/>
+		<term name="Water storage"/>
+		<term name="Water use and supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2009--Introduced.<br/>South Orange County Recycled Water Enhancement Act - Amends the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior, in cooperation with: (1) the city of San Juan Capistrano, California, to participate in the design, planning, and construction of an advanced water treatment plant facility and recycled water system; and (2) the city of San Clemente, California, to participate in the design, planning, and construction of a project to expand reclaimed water distribution, storage, and treatment facilities. 
+	</summary>
+</bill>

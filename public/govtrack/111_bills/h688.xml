@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="688" updated="2009-03-07T11:08:33-05:00">
+	<status><introduced date="1232946000" datetime="2009-01-26"/></status>
+
+	<introduced date="1232946000" datetime="2009-01-26"/>
+	<titles>
+		<title type="short" as="introduced">Kids First Act</title>
+		<title type="official" as="introduced">To amend title XXI of the Social Security Act to reauthorize the State Children's Health Insurance Program through fiscal year 2013, and for other purposes.</title>
+	</titles>
+	<sponsor id="400157"/>
+	<cosponsors>
+		<cosponsor id="400144" joined="2009-02-03"/>
+		<cosponsor id="400057" joined="2009-02-23"/>
+		<cosponsor id="412294" joined="2009-01-28"/>
+		<cosponsor id="400633" joined="2009-02-03"/>
+		<cosponsor id="400077" joined="2009-02-03"/>
+		<cosponsor id="400636" joined="2009-02-03"/>
+		<cosponsor id="400312" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="326" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Child health"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Health facilities and institutions"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Hospital care"/>
+		<term name="Medicaid"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/2009--Introduced.<br/>Kids First Act - Amends title XXI (State Children's Health Insurance) (SCHIP) of the Social Security Act (SSA) to revise, reauthorize, and extend the SCHIP program through FY2013 at increased levels. Repeals the limitation on the availability of SCHIP funding for FY2008-FY2009.<br/>Provides for determination of allotments for the 50 states and the District of Columbia based on expenditures and numbers of low-income children. Sets limitations on matching rates for populations other than targeted low-income children or pregnant women covered through a Section 1115 waiver.<br/>Prohibits the Secretary of Health and Human Services from approving, extending, renewing, or amending a waiver, experimental, pilot, or demonstration project with respect to a state after the enactment of this Act that would allow funds made available under SCHIP to be used to provide child health assistance or other health benefits coverage for any adult other than a pregnant woman whose family income does not exceed the income eligibility level specified for a targeted low-income child in that state under a waiver or approved project.<br/>Requires a state to determine family income eligibility for child health assistance or other health benefits coverage under the state child health plan solely on the basis of the family's gross income.<br/>Directs the Secretary to award grants to eligible entities to conduct outreach and enrollment efforts designed to increase the enrollment and participation of eligible children under SCHIP and SSA title XIX (Medicaid).<br/>Allows a state to elect to offer a premium assistance subsidy for qualified employer sponsored coverage to all targeted low-income children eligible for child health assistance.<br/>Allows any state the option to include an unborn child as a child under SCHIP.<br/>Repeals current federal payment rates at different specified percentages for different specified aspects of Medicaid administrative costs to prescribe a flat 50% rate for all such costs.<br/>Requires a 25% reduction in payments for Medicaid administrative costs (to prevent duplication of such payments under part A [Temporary Assistance for Needy Families] [TANF] of SSA title IV).<br/>Repeals: (1) the waiver of certain Medicaid provider tax provisions under the Balanced Budget Act of 1997; and (2) the requirement of special payments for certain public hospitals, without regard to the state DSH allotment limitations, under the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000. 
+	</summary>
+</bill>

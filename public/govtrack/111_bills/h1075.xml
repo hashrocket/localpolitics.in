@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="1075" updated="2009-03-07T11:55:08-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="short" as="introduced">RECOVER Act (Restoring Essential Care for Our Veterans for Effective Recovery)</title>
+		<title type="official" as="introduced">To amend title 38, United States Code, to expand access to hospital care for veterans in major disaster areas, and for other purposes.</title>
+	</titles>
+	<sponsor id="412261"/>
+	<cosponsors>
+		<cosponsor id="400339" joined="2009-02-13"/>
+		<cosponsor id="400006" joined="2009-02-13"/>
+		<cosponsor id="400199" joined="2009-02-13"/>
+		<cosponsor id="400399" joined="2009-03-05"/>
+		<cosponsor id="412302" joined="2009-02-13"/>
+		<cosponsor id="412268" joined="2009-03-05"/>
+		<cosponsor id="400116" joined="2009-02-13"/>
+		<cosponsor id="412269" joined="2009-02-13"/>
+		<cosponsor id="400047" joined="2009-02-13"/>
+		<cosponsor id="400636" joined="2009-02-13"/>
+		<cosponsor id="412288" joined="2009-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2009--Introduced.<br/>RECOVER Act (Restoring Essential Care for Our Veterans for Effective Recovery) - Directs the Secretary of Veterans Affairs, if a Department of Veterans Affairs (VA) medical facility that would otherwise provide covered medical services to veterans residing in an area for which a major disaster is declared is unable to provide such services for at least 180 days due to such disaster, to contract with one or more non-VA facilities in that area to provide such services to veterans who reside within 150 miles of the VA facility that is unable to provide the services. Makes such requirement inapplicable to a VA facility that is closed, or that the Secretary intends to close, as part of the Capital Asset Realignment for Enhanced Services (CARES) process. Makes this Act applicable to any VA facility unable to provide covered services on or after August 29, 2005, by reason of a major disaster.<br/>
+	</summary>
+</bill>

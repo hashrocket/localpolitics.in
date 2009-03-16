@@ -1,0 +1,89 @@
+<bill session="110" type="hc" number="62" updated="2009-01-08T15:34:42-05:00">
+	<status><vote2 date="1179288000" datetime="2007-05-16" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1170910800" datetime="2007-02-08"/>
+	<titles>
+		<title type="official" as="introduced">Supporting the goals and ideals of a National Children and Families Day, in order to encourage adults in the United States to support and listen to children and to help children throughout the Nation achieve their hopes and dreams, and for other purposes.</title>
+	</titles>
+	<sponsor id="400098"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-02-28"/>
+		<cosponsor id="400332" joined="2007-02-28"/>
+		<cosponsor id="400095" joined="2007-02-27"/>
+		<cosponsor id="400627" joined="2007-02-27"/>
+		<cosponsor id="400154" joined="2007-02-27"/>
+		<cosponsor id="400640" joined="2007-02-27"/>
+		<cosponsor id="400059" joined="2007-02-27"/>
+		<cosponsor id="400648" joined="2007-02-27"/>
+		<cosponsor id="400273" joined="2007-02-27"/>
+		<cosponsor id="400420" joined="2007-02-28"/>
+		<cosponsor id="400244" joined="2007-02-28"/>
+		<cosponsor id="400147" joined="2007-02-28"/>
+		<cosponsor id="400093" joined="2007-02-27"/>
+		<cosponsor id="400196" joined="2007-02-27"/>
+		<cosponsor id="400367" joined="2007-02-27"/>
+		<cosponsor id="400060" joined="2007-02-28"/>
+		<cosponsor id="400414" joined="2007-02-28"/>
+		<cosponsor id="400335" joined="2007-02-28"/>
+		<cosponsor id="400630" joined="2007-02-27"/>
+		<cosponsor id="400116" joined="2007-02-27"/>
+		<cosponsor id="400260" joined="2007-02-28"/>
+		<cosponsor id="400016" joined="2007-02-28"/>
+		<cosponsor id="400032" joined="2007-02-27"/>
+		<cosponsor id="400283" joined="2007-02-27"/>
+		<cosponsor id="409888" joined="2007-02-28"/>
+		<cosponsor id="400039" joined="2007-02-27"/>
+		<cosponsor id="400315" joined="2007-02-27"/>
+		<cosponsor id="400149" joined="2007-02-28"/>
+		<cosponsor id="400070" joined="2007-02-27"/>
+		<cosponsor id="400570" joined="2007-02-27"/>
+		<cosponsor id="400370" joined="2007-02-27"/>
+		<cosponsor id="400169" joined="2007-02-28"/>
+		<cosponsor id="400654" joined="2007-02-28"/>
+		<cosponsor id="400285" joined="2007-02-27"/>
+		<cosponsor id="400242" joined="2007-02-27"/>
+		<cosponsor id="400282" joined="2007-02-27"/>
+		<cosponsor id="400076" joined="2007-02-28"/>
+		<cosponsor id="400055" joined="2007-02-28"/>
+		<cosponsor id="400137" joined="2007-02-28"/>
+		<cosponsor id="400411" joined="2007-02-27"/>
+		<cosponsor id="400321" joined="2007-02-27"/>
+		<cosponsor id="400312" joined="2007-02-27"/>
+		<cosponsor id="400658" joined="2007-02-28"/>
+		<cosponsor id="400359" joined="2007-02-28"/>
+		<cosponsor id="400435" joined="2007-02-28"/>
+		<cosponsor id="400153" joined="2007-02-27"/>
+		<cosponsor id="400434" joined="2007-02-28"/>
+		<cosponsor id="400643" joined="2007-02-27"/>
+		<cosponsor id="412201" joined="2007-02-27"/>
+		<cosponsor id="400348" joined="2007-02-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1170910800" datetime="2007-02-08"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1172638800" datetime="2007-02-28"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1172638800" datetime="2007-02-28" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1173209460" datetime="2007-03-06T15:31:00-05:00"><text>Ms. Watson moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1173209460" datetime="2007-03-06T15:31:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2202-2203"/></action>
+		<action date="1173209460" datetime="2007-03-06T15:31:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 62.</text></action>
+		<vote date="1173209760" how="by voice vote" datetime="2007-03-06T15:36:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H2202"/></vote>
+		<action date="1173243600" datetime="2007-03-07"><text>Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+		<action date="1179288000" datetime="2007-05-16"><text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text></action>
+		<vote date="1179288000" how="by Unanimous Consent" datetime="2007-05-16" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S6213"/></vote>
+		<action date="1179374400" datetime="2007-05-17"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/16/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Supports the goals and ideals of a National Children and Families Day. 
+	</summary>
+</bill>

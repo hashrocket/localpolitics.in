@@ -1,0 +1,55 @@
+<bill session="111" type="h" number="663" updated="2009-03-07T11:05:40-05:00">
+	<status><vote date="1234550580" datetime="2009-02-13T14:43:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1232686800" datetime="2009-01-23"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 12877 Broad Street in Sparta, Georgia, as the &quot;Yvonne Ingram-Ephraim Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400628"/>
+	<cosponsors>
+		<cosponsor id="400627" joined="2009-01-23"/>
+		<cosponsor id="412252" joined="2009-01-23"/>
+		<cosponsor id="400099" joined="2009-01-23"/>
+		<cosponsor id="412199" joined="2009-01-23"/>
+		<cosponsor id="400626" joined="2009-01-23"/>
+		<cosponsor id="400242" joined="2009-01-23"/>
+		<cosponsor id="400151" joined="2009-01-23"/>
+		<cosponsor id="400221" joined="2009-01-23"/>
+		<cosponsor id="400254" joined="2009-01-23"/>
+		<cosponsor id="400240" joined="2009-01-23"/>
+		<cosponsor id="400363" joined="2009-01-23"/>
+		<cosponsor id="400030" joined="2009-01-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1232686800" datetime="2009-01-23"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1234328400" datetime="2009-02-11"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1234328400" datetime="2009-02-11" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1234463700" datetime="2009-02-12T14:35:00-05:00"><text>Mr. Lynch moved to suspend the rules and pass the bill.</text></action>
+		<action date="1234463700" datetime="2009-02-12T14:35:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1272-1273"/></action>
+		<action date="1234463700" datetime="2009-02-12T14:35:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 663.</text></action>
+		<action date="1234464060" datetime="2009-02-12T14:41:00-05:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lynch objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1234550520" datetime="2009-02-13T14:42:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1589"/></action>
+		<vote date="1234550580" how="by voice vote" datetime="2009-02-13T14:43:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 2/12/2009 H1272)</text></vote>
+		<action date="1234501200" datetime="2009-02-13"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, Markup" />
+		<committee name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Congressional tributes"/>
+		<term name="Georgia"/>
+		<term name="Government buildings, facilities, and property"/>
+		<term name="Postal service"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/23/2009--Introduced.<br/>Designates the facility of the United States Postal Service located at 12877 Broad Street in Sparta, Georgia, as the &quot;Yvonne Ingram-Ephraim Post Office Building.&quot;<br/>
+	</summary>
+</bill>

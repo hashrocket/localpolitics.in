@@ -1,0 +1,41 @@
+<bill session="110" type="h" number="3866" updated="2009-01-09T00:57:07-05:00">
+	<status><vote date="1194370560" datetime="2007-11-06T13:36:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1192593600" datetime="2007-10-17"/>
+	<titles>
+		<title type="short" as="introduced">Small Business Programs Act of 2007</title>
+		<title type="short" as="passed house">Small Business Programs Act of 2007</title>
+		<title type="official" as="introduced">To reauthorize certain programs under the Small Business Act for each of fiscal years 2008 and 2009.</title>
+	</titles>
+	<sponsor id="400416"/>
+	<cosponsors>
+		<cosponsor id="412221" joined="2007-10-17"/>
+	</cosponsors>
+	<actions>
+		<action date="1192593600" datetime="2007-10-17"><text>Referred to the House Committee on Small Business.</text></action>
+		<action date="1192593600" datetime="2007-10-17"><text>Hearings Held by Committee on Small Business Prior to Introduction and Referrel (September 27, 2007)..</text></action>
+		<action date="1192680000" datetime="2007-10-18"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1192680000" datetime="2007-10-18" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1194369720" datetime="2007-11-06T13:22:00-05:00"><text>Ms. Velazquez moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1194369720" datetime="2007-11-06T13:22:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H12773-12776"/></action>
+		<action date="1194369720" datetime="2007-11-06T13:22:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3866.</text></action>
+		<vote date="1194370560" how="by voice vote" datetime="2007-11-06T13:36:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H12773-12774"/></vote>
+		<action date="1194498000" datetime="2007-11-08"><text>Received in the Senate.</text></action>
+		<action date="1200978000" datetime="2008-01-22"><text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/6/2007--Passed House amended. Small Business Programs Act of 2007 - Amends the Small Business Act (the Act) to reauthorize for FY2008-FY2009 certain small business assistance programs of the Small Business Administration (SBA) authorized under the Act and the Small Business Investment Act of 1958, including: (1) a disaster mitigation pilot program; (2) general and start-up small business loans; (3) certified development company (CDC) financing; (4) disaster loans; (5) the Service Corps of Retired Executives (SCORE); and (6) grants to microloan program intermediaries and technical assistance providers. Reauthorizes for such fiscal years: (1) the businessLINC grants program; (2) the small business development center (SBDC) program; (3) the women's business center program; (4) the HUBZone (heavily underutilized business zone) program; (5) the Office of Veterans Business Development; (6) the Advisory Committee on Veterans Business Affairs; and (7) the National Women's Business Council.<br/>
+	</summary>
+</bill>

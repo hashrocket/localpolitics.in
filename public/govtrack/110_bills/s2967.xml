@@ -1,0 +1,43 @@
+<bill session="110" type="s" number="2967" updated="2009-01-09T18:02:55-05:00">
+	<status><enacted date="1216267200" datetime="2008-07-17" /></status>
+
+	<introduced date="1209614400" datetime="2008-05-01"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for certain Federal employee benefits to be continued for certain employees of the Senate Restaurants after operations of the Senate Restaurants are contracted to be performed by a private business concern, and for other purposes.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300082" joined="2008-05-01"/>
+		<cosponsor id="300007" joined="2008-05-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1209614400" datetime="2008-05-01"><text>Read twice and referred to the Committee on Rules and Administration.</text></action>
+		<action date="1212465600" datetime="2008-06-03"><text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S4986-4988"/></action>
+		<vote date="1212465600" how="by Unanimous Consent" datetime="2008-06-03" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="text" ref="CR S4987-4988"/></vote>
+		<action date="1212596040" datetime="2008-06-04T13:14:00-04:00"><text>Received in the House.</text></action>
+		<action date="1212552000" datetime="2008-06-04"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1212598020" datetime="2008-06-04T13:47:00-04:00"><text>Held at the desk.</text></action>
+		<action date="1215715740" datetime="2008-07-10T15:49:00-04:00"><text>Mr. Brady (PA) asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action date="1215715740" datetime="2008-07-10T15:49:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H6378-6380"/></action>
+		<vote date="1215715800" how="without objection" datetime="2008-07-10T15:50:00-04:00" where="h" type="vote2" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H6378-6380"/></vote>
+		<topresident date="1215662400" datetime="2008-07-10" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1216094400" datetime="2008-07-15" ><text>Presented to President.</text></topresident>
+		<signed date="1216267200" datetime="2008-07-17" ><text>Signed by President.</text></signed>
+		<enacted number="110-279" date="1216267200" datetime="2008-07-17" type="public" ><text>Became Public Law No: 110-279.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/17/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes specified Senate Restaurants employees who are employees of the Architect of the Capitol on the date of enactment of this Act and who become employees of a contractor under a food services contract to elect to continue coverage of federal benefits, including retirement benefits, life and health insurance, annual and sick leave balances and accrual rates, and transit subsidies, after operations of the Senate Restaurants are contracted to be performed by a private business concern.<br/>Prohibits the basic pay of such an employee from being reduced below the rate paid to that employee on the day before operations are transferred.<br/>Requires the Director of the Office of Personnel Management (OPM) to prescribe regulations to provide for the continuity of benefits.<br/>Sets forth provisions concerning severance pay and voluntary separation incentive payments to, and early retirement by, such employees.<br/>
+	</summary>
+</bill>

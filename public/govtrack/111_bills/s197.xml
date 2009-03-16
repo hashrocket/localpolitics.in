@@ -1,0 +1,49 @@
+<bill session="111" type="s" number="197" updated="2009-03-07T13:56:48-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Crane Conservation Act of 2009</title>
+		<title type="official" as="introduced">A bill to assist in the conservation of cranes by supporting and providing, through projects of persons and organizations with expertise in crane conservation, financial resources for the conservation programs of countries the activities of which directly or indirectly affect cranes and the ecosystem of cranes.</title>
+	</titles>
+	<sponsor id="300042"/>
+	<cosponsors>
+		<cosponsor id="400064" joined="2009-01-09"/>
+		<cosponsor id="300011" joined="2009-01-09"/>
+		<cosponsor id="300030" joined="2009-01-09"/>
+		<cosponsor id="300060" joined="2009-01-09"/>
+		<cosponsor id="300078" joined="2009-01-26"/>
+		<cosponsor id="400621" joined="2009-01-11"/>
+		<cosponsor id="300063" joined="2009-01-09"/>
+		<cosponsor id="300061" joined="2009-01-09"/>
+		<cosponsor id="300013" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Sponsor introductory remarks on measure. (CR S258-259)</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Read twice and referred to the Committee on Environment and Public Works.</text><reference label="text of measure as introduced" ref="CR S259-261"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Environment and Public Works" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="388" />
+	</relatedbills>
+	<subjects>
+		<term name="Animals"/>
+		<term name="Advisory bodies"/>
+		<term name="Birds"/>
+		<term name="Ecology"/>
+		<term name="Endangered and threatened species"/>
+		<term name="Foreign aid and international relief"/>
+		<term name="Government trust funds"/>
+		<term name="International law and treaties"/>
+		<term name="International organizations and cooperation"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Crane Conservation Act of 2009 - Requires the Secretary of the Interior to provide financial assistance for approved projects relating to the conservation of cranes, using amounts in the Crane Conservation Fund established by this Act. Allows a project proposal to be submitted by: (1) any wildlife management authority of a country located in the African, Asian, European, or North American range of a species of crane that carries out at least one activity that affects crane populations; (2) the Secretariat of the Convention on International Trade in Endangered Species of Wild Fauna and Flora; and (3) any person or organization with demonstrated expertise in the conservation of cranes. Establishes the Crane Conservation Fund in the Multinational Species Conservation Fund. Authorizes the Secretary to convene an advisory group representing public and private organizations actively involved in the conservation of cranes to assist in carrying out this Act. 
+	</summary>
+</bill>

@@ -1,0 +1,63 @@
+<bill session="110" type="h" number="2366" updated="2009-01-08T21:47:17-05:00">
+	<status><vote date="1182203220" datetime="2007-06-18T18:47:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1179374400" datetime="2007-05-17"/>
+	<titles>
+		<title type="short" as="introduced">SBA Veterans' Programs Act of 2007</title>
+		<title type="short" as="reported to house">SBA Veterans' Programs Act of 2007</title>
+		<title type="short" as="passed house">SBA Veterans' Programs Act of 2007</title>
+		<title type="official" as="introduced">To reauthorize the veterans entrepreneurial development programs of the Small Business Administration, and for other purposes.</title>
+	</titles>
+	<sponsor id="412196"/>
+	<cosponsors>
+		<cosponsor id="400657" joined="2007-05-24"/>
+		<cosponsor id="400162" joined="2007-05-24"/>
+		<cosponsor id="412221" joined="2007-05-24"/>
+		<cosponsor id="412225" joined="2007-05-17"/>
+		<cosponsor id="400630" joined="2007-05-24"/>
+		<cosponsor id="400071" joined="2007-05-17"/>
+		<cosponsor id="412231" joined="2007-05-24"/>
+		<cosponsor id="412250" joined="2007-06-05"/>
+		<cosponsor id="400152" joined="2007-05-24"/>
+		<cosponsor id="412208" joined="2007-05-24"/>
+		<cosponsor id="400017" joined="2007-05-24"/>
+		<cosponsor id="400416" joined="2007-05-17"/>
+		<cosponsor id="412235" joined="2007-05-24"/>
+		<cosponsor id="400051" joined="2007-05-24"/>
+		<cosponsor id="412199" joined="2007-05-24"/>
+		<cosponsor id="400158" joined="2007-05-24"/>
+		<cosponsor id="400201" joined="2007-05-24"/>
+		<cosponsor id="400438" joined="2007-06-13"/>
+		<cosponsor id="412206" joined="2007-05-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1179374400" datetime="2007-05-17"><text>Referred to the House Committee on Small Business.</text></action>
+		<action date="1179892800" datetime="2007-05-23"><text>Committee Hearings Held.</text></action>
+		<action date="1179892800" datetime="2007-05-23"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1179892800" datetime="2007-05-23" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1181944200" datetime="2007-06-15T18:50:00-04:00"><text>Reported by the Committee on Small Business. H. Rept. 110-194.</text></action>
+		<calendar number="115" date="1181944200" datetime="2007-06-15T18:50:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 115.</text></calendar>
+		<action date="1182202620" datetime="2007-06-18T18:37:00-04:00"><text>Ms. Velazquez moved to suspend the rules and pass the bill.</text></action>
+		<action date="1182202620" datetime="2007-06-18T18:37:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6620-6622, H6623-6624"/></action>
+		<action date="1182202620" datetime="2007-06-18T18:37:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2366.</text></action>
+		<vote date="1182203220" how="by voice vote" datetime="2007-06-18T18:47:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H6623"/></vote>
+		<action date="1182225600" datetime="2007-06-19"><text>Received in the Senate.</text></action>
+		<action date="1182312000" datetime="2007-06-20"><text>Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar under="General Orders" number="217" date="1182398400" datetime="2007-06-21" calendar="Senate Legislative" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 217.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/18/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) SBA Veterans' Programs Act of 2007 - Title I: Office of Veterans Business Development - Amends the Small Business Act to direct the Associate Administrator for Veterans Business Development to: (1) increase veteran outreach by ensuring that Veteran Business Outreach Centers regularly participate, on a nationwide basis, in the workshops of the Transition Assistance Program of the Department of Labor; and (2) submit to Congress progress reports on the implementation of such requirement. Requires the Associate Administrator to establish a Women Veterans Business Training Resource Program to compile information on resources available to women veterans for business training. Title II: Veterans Assistance and Services -Authorizes a small business development center to apply for a grant to carry out a veterans assistance and services program. Sets at $75,000 and $250,000 the minimum and maximum grant amounts. Title III: Expanding Veterans Business Outreach Centers - Directs the Administrator of the Small Business Administration (SBA) to increase, by at least two for each of FY2008 and FY2009, and by an appropriate number for each fiscal year thereafter, the number of Veterans Business Outreach Centers throughout the United States. Requires the Administrator to (1) sponsor an independent study on gaps in the availability of such Centers across the United States; and (2) report to Congress on study results.<br/>
+	</summary>
+</bill>

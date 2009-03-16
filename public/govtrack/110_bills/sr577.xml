@@ -1,0 +1,41 @@
+<bill session="110" type="sr" number="577" updated="2009-01-09T21:10:30-05:00">
+	<status><vote date="1211428800" datetime="2008-05-22" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1211428800" datetime="2008-05-22"/>
+	<titles>
+		<title type="official" as="introduced">A resolution to express the sense of the Senate regarding the use of gasoline and other fuels by Federal departments and agencies.</title>
+	</titles>
+	<sponsor id="300099"/>
+	<cosponsors>
+		<cosponsor id="300002" joined="2008-05-22"/>
+		<cosponsor id="300009" joined="2008-05-22"/>
+		<cosponsor id="300082" joined="2008-05-22"/>
+		<cosponsor id="300019" joined="2008-05-22"/>
+		<cosponsor id="300037" joined="2008-05-22"/>
+		<cosponsor id="300091" joined="2008-05-22"/>
+		<cosponsor id="300075" joined="2008-05-22"/>
+		<cosponsor id="300021" joined="2008-05-22"/>
+		<cosponsor id="300095" joined="2008-05-22"/>
+		<cosponsor id="400054" joined="2008-05-22"/>
+		<cosponsor id="400194" joined="2008-05-22"/>
+		<cosponsor id="300049" joined="2008-05-22"/>
+	</cosponsors>
+	<actions>
+		<vote date="1211428800" how="by Unanimous Consent" datetime="2008-05-22" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S4846"/><reference label="text as passed Senate" ref="CR S4846"/><reference label="text of measure as introduced" ref="CR S4808"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/22/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Calls for the President to require all federal agencies to take initiatives to reduce their daily consumption of gasoline and other fuels.<br/>
+	</summary>
+</bill>

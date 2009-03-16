@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="1239" updated="2009-03-07T12:18:03-05:00">
+	<status><introduced date="1235624400" datetime="2009-02-26"/></status>
+
+	<introduced date="1235624400" datetime="2009-02-26"/>
+	<titles>
+		<title type="short" as="introduced">Property Mitigation Assistance Act of 2009</title>
+		<title type="official" as="introduced">To establish a homeowner mitigation loan program within the Federal Emergency Management Agency to promote pre-disaster property mitigation measures.</title>
+	</titles>
+	<sponsor id="400402"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1235624400" datetime="2009-02-26"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1235710800" datetime="2009-02-27"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings and Emergency Management" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="111" type="s" number="353" updated="2009-03-07T14:15:39-05:00">
+	<status><introduced date="1233205200" datetime="2009-01-29"/></status>
+
+	<introduced date="1233205200" datetime="2009-01-29"/>
+	<titles>
+		<title type="short" as="introduced">Pediatric Research Consortia Establishment Act</title>
+		<title type="official" as="introduced">A bill to amend title IV of the Public Health Service Act to provide for the establishment of pediatric research consortia.</title>
+	</titles>
+	<sponsor id="400050"/>
+	<cosponsors>
+		<cosponsor id="300010" joined="2009-01-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1233205200" datetime="2009-01-29"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="758" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Child health"/>
+		<term name="Health facilities and institutions"/>
+		<term name="Health information and medical records"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Medical research"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Research administration and funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/29/2009--Introduced.<br/>Pediatric Research Consortia Establishment Act - Amends the Public Health Service Act to require the Director of the National Institutes of Health (NIH), acting through the Director of the National Institute of Child Health and Human Development, to award grants, contracts, or cooperative agreements for planning, establishing, and providing basic operating support for up to 20 national pediatric research consortia. Requires each such consortium to: (1) supplement, but not replace, the establishment of a comprehensive pediatric research portfolio; (2) conduct basic, clinical, behavioral, social, and translational research; and (3) conduct training and demonstration of advanced diagnostic and treatment methods relating to pediatrics.<br/>Requires the Director of NIH to provide for the coordination of information and ensure regular communication between consortia.<br/>
+	</summary>
+</bill>

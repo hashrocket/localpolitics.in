@@ -1,0 +1,40 @@
+<bill session="110" type="hr" number="230" updated="2009-01-09T08:21:59-05:00">
+	<status><vote date="1173803520" datetime="2007-03-13T13:32:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1173330000" datetime="2007-03-08"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the 50th Anniversary of the Treaty of Rome signed on March 25, 1957, which was a key step in creating the European Union, and reaffirming the close and mutually beneficial relationship between the United States and Europe.</title>
+	</titles>
+	<sponsor id="400430"/>
+	<cosponsors>
+		<cosponsor id="400170" joined="2007-03-13"/>
+		<cosponsor id="400662" joined="2007-03-13"/>
+		<cosponsor id="400355" joined="2007-03-13"/>
+		<cosponsor id="400231" joined="2007-03-08"/>
+		<cosponsor id="400144" joined="2007-03-08"/>
+		<cosponsor id="400087" joined="2007-03-13"/>
+		<cosponsor id="412186" joined="2007-03-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1173330000" datetime="2007-03-08"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1173802980" datetime="2007-03-13T13:23:00-04:00"><text>Mr. Wexler moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1173803040" datetime="2007-03-13T13:24:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2453-2455"/></action>
+		<action date="1173803040" datetime="2007-03-13T13:24:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 230.</text></action>
+		<vote date="1173803520" how="by voice vote" datetime="2007-03-13T13:32:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H2454"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/13/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the historic significance of the Treaty of Rome on its 50th anniversary. Commends the European Union (EU) and its member nations for the role which the institution has played in contemporary Europe's growth. Recognizes the EU's important role in fostering the independence, democracy, and economic development of the former Central European communist states. Acknowledges the EU's role in the development of the close and mutually beneficial relationship that exists between the United States and Europe. Affirms that in order to strengthen the transatlantic partnership there must be a renewed commitment to EU-U.S. consultations. Joins with the European Parliament in agreeing to strengthen the transatlantic partnership by enhancing the dialogue and collaboration between Congress and the European Parliament.<br/>
+	</summary>
+</bill>

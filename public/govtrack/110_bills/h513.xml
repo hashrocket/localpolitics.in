@@ -1,0 +1,66 @@
+<bill session="110" type="h" number="513" updated="2009-01-08T17:51:15-05:00">
+	<status><vote date="1194303780" datetime="2007-11-05T19:03:00-05:00" where="h" result="pass" how="roll" roll="1035"/></status>
+
+	<introduced date="1169010000" datetime="2007-01-17"/>
+	<titles>
+		<title type="short" as="introduced">National Heroes Credit Protection Act</title>
+		<title type="short" as="passed house">National Heroes Credit Protection Act</title>
+		<title type="official" as="introduced">To amend the Servicemembers Civil Relief Act to enhance the protection of credit ratings of active duty military personnel who are activated for military service.</title>
+		<title type="official" as="amended by house">A bill to amend the Servicemembers Civil Relief Act to enhance the protection of credit ratings of members of the reserve component who serve on active duty in support of a contingency operation, and for other purposes.</title>
+	</titles>
+	<sponsor id="400047"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-11-05"/>
+		<cosponsor id="412229" joined="2007-10-16"/>
+		<cosponsor id="400337" joined="2007-07-11"/>
+		<cosponsor id="400183" joined="2007-08-02"/>
+		<cosponsor id="400302" joined="2007-06-20"/>
+		<cosponsor id="400170" joined="2007-10-16"/>
+		<cosponsor id="400388" joined="2007-10-16"/>
+		<cosponsor id="412231" joined="2007-11-05"/>
+		<cosponsor id="412208" joined="2007-09-20"/>
+		<cosponsor id="400130" joined="2007-06-20"/>
+		<cosponsor id="400437" joined="2007-08-02"/>
+		<cosponsor id="400245" joined="2007-10-16"/>
+		<cosponsor id="400017" joined="2007-07-18"/>
+		<cosponsor id="400386" joined="2007-07-11"/>
+		<cosponsor id="400001" joined="2007-08-02"/>
+		<cosponsor id="412204" joined="2007-09-20"/>
+		<cosponsor id="400320" joined="2007-07-18"/>
+		<cosponsor id="400093" joined="2007-06-20"/>
+		<cosponsor id="400201" joined="2007-06-20"/>
+		<cosponsor id="400286" joined="2007-06-20"/>
+		<cosponsor id="400240" joined="2007-07-11"/>
+		<cosponsor id="412233" joined="2007-07-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1169010000" datetime="2007-01-17"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1172811600" datetime="2007-03-02"><text>Referred to the Subcommittee on Economic Opportunity.</text></action>
+		<action date="1182398400" datetime="2007-06-21"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1193284800" datetime="2007-10-25"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1193284800" datetime="2007-10-25"><text>Forwarded by Subcommittee to Full Committee (Amended) .</text></action>
+		<action date="1194289920" datetime="2007-11-05T15:12:00-05:00"><text>Mr. Filner moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1194289980" datetime="2007-11-05T15:13:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H12471-12472"/></action>
+		<action date="1194289980" datetime="2007-11-05T15:13:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 513.</text></action>
+		<action date="1194290460" datetime="2007-11-05T15:21:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1194303480" datetime="2007-11-05T18:58:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H12481-12482"/></action>
+		<vote date="1194303780" how="roll" roll="1035" datetime="2007-11-05T19:03:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 349 - 0 (Roll no. 1035).</text><reference label="text" ref="CR H12471"/></vote>
+		<action date="1194303780" datetime="2007-11-05T19:03:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1194325200" datetime="2007-11-06"><text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/5/2007--Passed House amended. National Heroes Credit Protection Act - Amends the Soldiers' and Sailors' Civil Relief Act of 1940 to authorize a member of the reserves who is deployed outside the United States for 180 days or more in support of a contingency operation (servicemember) to request that a consumer reporting agency (CRA) include in that servicemember's file a military service deployment explanation (explanation) with respect to an account that was opened by the servicemember before such deployment. Requires: (1) a reseller of credit reporting information to include in any report on a servicemember any explanation placed in such servicemember's file by another CRA; and (2) any user of a consumer credit report containing such explanation to acknowledge the explanation.<br/>
+	</summary>
+</bill>

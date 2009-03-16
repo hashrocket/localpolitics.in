@@ -1,0 +1,32 @@
+<bill session="110" type="sr" number="441" updated="2009-01-09T20:53:23-05:00">
+	<status><vote date="1202101200" datetime="2008-02-04" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1202101200" datetime="2008-02-04"/>
+	<titles>
+		<title type="official" as="introduced">A resolution congratulating the New York Giants on their victory in Super Bowl XLII.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="2008-02-04"/>
+		<cosponsor id="300022" joined="2008-02-04"/>
+		<cosponsor id="300064" joined="2008-02-04"/>
+	</cosponsors>
+	<actions>
+		<vote date="1202101200" how="by Unanimous Consent" datetime="2008-02-04" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S609-611"/><reference label="text as passed Senate" ref="CR S611"/><reference label="text of measure as introduced" ref="CR S603"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Congratulates the New York Giants on their victory in Super Bowl XLII.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="112" updated="2009-03-07T10:00:54-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Homestead National Monument of America Boundary Expansion Act</title>
+		<title type="official" as="introduced">To authorize the Secretary of the Interior to expand the boundary of the Homestead National Monument of America, in the State of Nebraska, and for other purposes.</title>
+	</titles>
+	<sponsor id="400640"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Housing finance and home ownership"/>
+		<term name="Land transfers"/>
+		<term name="Monuments and memorials"/>
+		<term name="Nebraska"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Homestead National Monument of America Boundary Expansion Act - Authorizes the Secretary of the Interior to acquire by donation or by purchase with donated or appropriated funds, from willing sellers only, the approximately 140 acres located south of the Homestead National Monument of America in Nebraska and owned by the Friends of Homestead and the approximately 160 acres known as the &quot;Graff Parcel.&quot; Instructs the Secretary to revise the boundary of Homestead National Monument to reflect the acquisition upon its completion.<br/>Requires any lands acquired under this Act to be administered by the Secretary as part of Homestead National Monument. 
+	</summary>
+</bill>

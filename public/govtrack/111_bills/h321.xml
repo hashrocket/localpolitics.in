@@ -1,0 +1,52 @@
+<bill session="111" type="h" number="321" updated="2009-03-07T10:25:13-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">SCHIP Plus Act of 2009</title>
+		<title type="official" as="introduced">To amend title XXI of the Social Security Act to expand coverage options under the State Children's Health Insurance Program (SCHIP) through premium assistance.</title>
+	</titles>
+	<sponsor id="400640"/>
+	<cosponsors>
+		<cosponsor id="412271" joined="2009-01-14"/>
+		<cosponsor id="400367" joined="2009-01-08"/>
+		<cosponsor id="400027" joined="2009-01-14"/>
+		<cosponsor id="400626" joined="2009-01-08"/>
+		<cosponsor id="400400" joined="2009-01-08"/>
+		<cosponsor id="400368" joined="2009-01-08"/>
+		<cosponsor id="412310" joined="2009-01-14"/>
+		<cosponsor id="400052" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to House Ways and Means</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to House Education and Labor</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Child health"/>
+		<term name="Employee benefits and pensions"/>
+		<term name="Government information and archives"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Poverty and welfare assistance"/>
+		<term name="State and local finance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

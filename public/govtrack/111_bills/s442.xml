@@ -1,0 +1,32 @@
+<bill session="111" type="s" number="442" updated="2009-03-07T14:26:00-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="short" as="introduced">Health Insurance Coverage Protection Act</title>
+		<title type="official" as="introduced">A bill to impose a limitation on lifetime aggregate limits imposed by health plans.</title>
+	</titles>
+	<sponsor id="300037"/>
+	<cosponsors>
+		<cosponsor id="300091" joined="2009-02-13"/>
+		<cosponsor id="412247" joined="2009-03-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="1085" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2009--Introduced.<br/>Health Insurance Coverage Protection Act - Amends the Employee Retirement Income Security Act (ERISA) and the Public Health Service Act to prohibit a group health plan from imposing an aggregate lifetime benefit limit of less than: (1) $5 million for the first two plan years; (2) $10 million for the third and fourth plan years; and (3) adjusted amounts based on the consumer price index for subsequent plan years. Excludes from such prohibition a group health plan offered to employees of a small employer, except upon request of the employer for a consistent limit.<br/>Requires the Secretary of Health and Human Services to contract with the Institute of Medicine for a study to determine the number of individuals who have reached the lifetime limitations set forth in this Act.<br/>
+	</summary>
+</bill>

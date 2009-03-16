@@ -1,0 +1,99 @@
+<bill session="110" type="h" number="988" updated="2009-01-08T18:53:41-05:00">
+	<status><enacted date="1180065600" datetime="2007-05-25" /></status>
+
+	<introduced date="1171256400" datetime="2007-02-12"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 5757 Tilton Avenue in Riverside, California, as the &quot;Lieutenant Todd Jason Bryant Post Office&quot;.</title>
+	</titles>
+	<sponsor id="400057"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2007-03-15"/>
+		<cosponsor id="400133" joined="2007-03-21"/>
+		<cosponsor id="400618" joined="2007-03-08"/>
+		<cosponsor id="400330" joined="2007-03-14"/>
+		<cosponsor id="400403" joined="2007-03-14"/>
+		<cosponsor id="400113" joined="2007-03-14"/>
+		<cosponsor id="400129" joined="2007-03-08"/>
+		<cosponsor id="412190" joined="2007-03-07"/>
+		<cosponsor id="400348" joined="2007-03-07"/>
+		<cosponsor id="400267" joined="2007-03-07"/>
+		<cosponsor id="400065" joined="2007-03-20"/>
+		<cosponsor id="400297" joined="2007-03-07"/>
+		<cosponsor id="400191" joined="2007-03-07"/>
+		<cosponsor id="400361" joined="2007-03-07"/>
+		<cosponsor id="400196" joined="2007-03-07"/>
+		<cosponsor id="400176" joined="2007-03-08"/>
+		<cosponsor id="400124" joined="2007-03-21"/>
+		<cosponsor id="400239" joined="2007-03-07"/>
+		<cosponsor id="400423" joined="2007-03-15"/>
+		<cosponsor id="412189" joined="2007-03-21"/>
+		<cosponsor id="400652" joined="2007-03-07"/>
+		<cosponsor id="400396" joined="2007-03-14"/>
+		<cosponsor id="400384" joined="2007-03-07"/>
+		<cosponsor id="400355" joined="2007-03-23"/>
+		<cosponsor id="400245" joined="2007-03-20"/>
+		<cosponsor id="400231" joined="2007-03-14"/>
+		<cosponsor id="400663" joined="2007-03-15"/>
+		<cosponsor id="400387" joined="2007-03-20"/>
+		<cosponsor id="400144" joined="2007-03-14"/>
+		<cosponsor id="400098" joined="2007-03-15"/>
+		<cosponsor id="400275" joined="2007-03-14"/>
+		<cosponsor id="400347" joined="2007-03-15"/>
+		<cosponsor id="400356" joined="2007-03-20"/>
+		<cosponsor id="400277" joined="2007-03-07"/>
+		<cosponsor id="400343" joined="2007-03-07"/>
+		<cosponsor id="400039" joined="2007-03-07"/>
+		<cosponsor id="400166" joined="2007-03-15"/>
+		<cosponsor id="400115" joined="2007-03-07"/>
+		<cosponsor id="400436" joined="2007-03-20"/>
+		<cosponsor id="400570" joined="2007-03-07"/>
+		<cosponsor id="400169" joined="2007-03-07"/>
+		<cosponsor id="400422" joined="2007-03-20"/>
+		<cosponsor id="400021" joined="2007-03-21"/>
+		<cosponsor id="400009" joined="2007-03-15"/>
+		<cosponsor id="400617" joined="2007-03-07"/>
+		<cosponsor id="400371" joined="2007-03-14"/>
+		<cosponsor id="400185" joined="2007-03-14"/>
+		<cosponsor id="400097" joined="2007-03-14"/>
+		<cosponsor id="400025" joined="2007-03-14"/>
+		<cosponsor id="400062" joined="2007-03-20"/>
+		<cosponsor id="400425" joined="2007-03-08"/>
+		<cosponsor id="412011" joined="2007-03-07"/>
+		<cosponsor id="400278" joined="2007-03-20"/>
+		<cosponsor id="412233" joined="2007-03-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1171256400" datetime="2007-02-12"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1175140800" datetime="2007-03-29"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1175140800" datetime="2007-03-29" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1176743580" datetime="2007-04-16T14:13:00-04:00"><text>Ms. Watson moved to suspend the rules and pass the bill.</text></action>
+		<action date="1176743580" datetime="2007-04-16T14:13:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3378-3379"/></action>
+		<action date="1176743580" datetime="2007-04-16T14:13:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 988.</text></action>
+		<vote date="1176743940" how="by voice vote" datetime="2007-04-16T14:19:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H3378"/></vote>
+		<action date="1176782400" datetime="2007-04-17"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<calendar date="1179720000" datetime="2007-05-21" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1179806400" datetime="2007-05-22"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="165" date="1179806400" datetime="2007-05-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 165.</text></calendar>
+		<vote date="1179892800" how="by Unanimous Consent" datetime="2007-05-23" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6572-6573"/></vote>
+		<topresident date="1179892800" datetime="2007-05-23" ><text>Cleared for White House.</text></topresident>
+		<action date="1179979200" datetime="2007-05-24"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1179979200" datetime="2007-05-24" ><text>Presented to President.</text></topresident>
+		<signed date="1180065600" datetime="2007-05-25" ><text>Signed by President.</text></signed>
+		<enacted number="110-27" date="1180065600" datetime="2007-05-25" type="public" ><text>Became Public Law No: 110-27.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/25/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 5757 Tilton Avenue in Riverside, California, as the &quot;Lieutenant Todd Jason Bryant Post Office.&quot; 
+	</summary>
+</bill>

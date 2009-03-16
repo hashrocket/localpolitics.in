@@ -1,0 +1,38 @@
+<bill session="110" type="sr" number="429" updated="2009-01-09T20:51:53-05:00">
+	<status><vote date="1201582800" datetime="2008-01-29" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1201237200" datetime="2008-01-25"/>
+	<titles>
+		<title type="official" as="introduced">A resolution honoring the brave men and women of the United States Coast Guard whose tireless work, dedication, and commitment to protecting the United States have led to the confiscation of over 350,000 pounds of cocaine at sea during 2007.</title>
+	</titles>
+	<sponsor id="300035"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="2008-01-28"/>
+		<cosponsor id="300059" joined="2008-01-25"/>
+		<cosponsor id="300018" joined="2008-01-25"/>
+		<cosponsor id="300034" joined="2008-01-29"/>
+		<cosponsor id="300067" joined="2008-01-25"/>
+		<cosponsor id="300091" joined="2008-01-25"/>
+		<cosponsor id="400054" joined="2008-01-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1201237200" datetime="2008-01-25"><text>Referred to the Committee on Commerce, Science, and Transportation.</text><reference label="text of measure as introduced" ref="CR S331-332"/></action>
+		<action date="1201582800" datetime="2008-01-29"><text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S456"/></action>
+		<vote date="1201582800" how="by Unanimous Consent" datetime="2008-01-29" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S456"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/29/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Honors the U.S. Coast Guard, with its proud 217 year legacy of maritime law enforcement and border protection, along with the brave men and women whose efforts clearly demonstrate the honor, respect, and devotion to duty that ensure America's parents can sleep soundly knowing the Coast Guard is on patrol. Recognizes the tireless work, dedication, and commitment that allowed the Coast Guard to confiscate over 350,000 pounds of cocaine at sea in 2007.<br/>
+	</summary>
+</bill>

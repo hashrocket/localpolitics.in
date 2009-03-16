@@ -1,0 +1,52 @@
+<bill session="110" type="hc" number="309" updated="2009-01-08T16:05:48-05:00">
+	<status><vote2 date="1212465600" datetime="2008-06-03" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1204606800" datetime="2008-03-04"/>
+	<titles>
+		<title type="official" as="introduced">Authorizing the use of the Capitol Grounds for the District of Columbia Special Olympics Law Enforcement Torch Run.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+		<cosponsor id="400098" joined="2008-03-04"/>
+		<cosponsor id="400158" joined="2008-03-04"/>
+		<cosponsor id="400189" joined="2008-03-04"/>
+		<cosponsor id="400415" joined="2008-03-04"/>
+		<cosponsor id="400283" joined="2008-03-04"/>
+		<cosponsor id="400090" joined="2008-03-04"/>
+		<cosponsor id="400438" joined="2008-03-04"/>
+		<cosponsor id="400435" joined="2008-03-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1204606800" datetime="2008-03-04"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1204693200" datetime="2008-03-05"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1210824000" datetime="2008-05-15"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1210824000" datetime="2008-05-15" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1210824000" datetime="2008-05-15"><text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text></action>
+		<action date="1211217060" datetime="2008-05-19T14:11:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 110-656.</text></action>
+		<calendar number="222" date="1211217060" datetime="2008-05-19T14:11:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 222.</text></calendar>
+		<action date="1211219880" datetime="2008-05-19T14:58:00-04:00"><text>Ms. Hirono moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1211219940" datetime="2008-05-19T14:59:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4099-4100"/></action>
+		<action date="1211219940" datetime="2008-05-19T14:59:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 309.</text></action>
+		<action date="1211220180" datetime="2008-05-19T15:03:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Petri objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1211416140" datetime="2008-05-21T21:29:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4432"/></action>
+		<vote date="1211416140" how="by voice vote" datetime="2008-05-21T21:29:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 5/19/2008 H4100)</text></vote>
+		<action date="1212379200" datetime="2008-06-02"><text>Received in the Senate.</text></action>
+		<vote date="1212465600" how="by Unanimous Consent" datetime="2008-06-03" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S4989"/></vote>
+		<action date="1212552000" datetime="2008-06-04"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/3/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes the use of the Capitol grounds for the 2008 District of Columbia Special Olympics Law Enforcement Torch Run on June 6, 2008.<br/>
+	</summary>
+</bill>

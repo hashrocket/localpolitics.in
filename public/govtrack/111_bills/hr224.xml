@@ -1,0 +1,53 @@
+<bill session="111" type="hr" number="224" updated="2009-03-13T12:12:16-04:00">
+	<status><vote date="1236879000" datetime="2009-03-12T14:30:00-04:00" where="h" result="pass" how="roll" roll="124"/></status>
+
+	<introduced date="1236571200" datetime="2009-03-09"/>
+	<titles>
+		<title type="official" as="introduced">Supporting the designation of Pi Day, and for other purposes.</title>
+	</titles>
+	<sponsor id="400155"/>
+	<cosponsors>
+		<cosponsor id="412232" joined="2009-03-11"/>
+		<cosponsor id="400437" joined="2009-03-11"/>
+		<cosponsor id="400011" joined="2009-03-09"/>
+		<cosponsor id="412302" joined="2009-03-11"/>
+		<cosponsor id="400630" joined="2009-03-09"/>
+		<cosponsor id="400041" joined="2009-03-11"/>
+		<cosponsor id="400119" joined="2009-03-11"/>
+		<cosponsor id="400430" joined="2009-03-11"/>
+		<cosponsor id="400383" joined="2009-03-11"/>
+		<cosponsor id="412204" joined="2009-03-11"/>
+		<cosponsor id="412263" joined="2009-03-11"/>
+		<cosponsor id="412305" joined="2009-03-11"/>
+		<cosponsor id="400204" joined="2009-03-11"/>
+		<cosponsor id="400165" joined="2009-03-09"/>
+		<cosponsor id="412189" joined="2009-03-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1236571200" datetime="2009-03-09"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1236781500" datetime="2009-03-11T11:25:00-04:00"><text>Mr. Davis (TN) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1236781560" datetime="2009-03-11T11:26:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3290-3292"/></action>
+		<action date="1236781560" datetime="2009-03-11T11:26:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 224.</text></action>
+		<action date="1236782400" datetime="2009-03-11T11:40:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1236878460" datetime="2009-03-12T14:21:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3376"/></action>
+		<vote date="1236879000" how="roll" roll="124" datetime="2009-03-12T14:30:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 391 - 10 (Roll no. 124). (text: CR 3/11/2009 H3290)</text></vote>
+	</actions>
+	<committees>
+		<committee name="House Science and Technology" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Science and engineering education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/9/2009--Introduced.<br/>Supports the designation of a Pi Day and its celebration around the world.<br/>Recognizes the continuing importance of National Science Foundation math and science education programs.<br/>Encourages schools and educators to observe the day with appropriate activities that teach students about Pi and engage them about the study of mathematics.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,89 @@
+<bill session="110" type="h" number="5443" updated="2009-01-09T04:10:42-05:00">
+	<status><vote date="1222194000" datetime="2008-09-23T15:20:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1202965200" datetime="2008-02-14"/>
+	<titles>
+		<title type="short" as="introduced">United States-Republic of Korea Defense Cooperation Improvement Act of 2008</title>
+		<title type="short" as="passed house">United States-Republic of Korea Defense Cooperation Improvement Act of 2008</title>
+		<title type="official" as="introduced">To improve defense cooperation between the Republic of Korea and the United States.</title>
+	</titles>
+	<sponsor id="400348"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2008-03-05"/>
+		<cosponsor id="400279" joined="2008-04-23"/>
+		<cosponsor id="400041" joined="2008-03-04"/>
+		<cosponsor id="400222" joined="2008-03-05"/>
+		<cosponsor id="400128" joined="2008-04-08"/>
+		<cosponsor id="400219" joined="2008-04-14"/>
+		<cosponsor id="400367" joined="2008-04-03"/>
+		<cosponsor id="400160" joined="2008-04-22"/>
+		<cosponsor id="400134" joined="2008-04-16"/>
+		<cosponsor id="400380" joined="2008-04-02"/>
+		<cosponsor id="400122" joined="2008-03-04"/>
+		<cosponsor id="400271" joined="2008-04-22"/>
+		<cosponsor id="400267" joined="2008-03-31"/>
+		<cosponsor id="400344" joined="2008-04-22"/>
+		<cosponsor id="400379" joined="2008-03-12"/>
+		<cosponsor id="400361" joined="2008-04-03"/>
+		<cosponsor id="400003" joined="2008-03-12"/>
+		<cosponsor id="400423" joined="2008-03-10"/>
+		<cosponsor id="400260" joined="2008-04-03"/>
+		<cosponsor id="400071" joined="2008-04-02"/>
+		<cosponsor id="400040" joined="2008-04-02"/>
+		<cosponsor id="400662" joined="2008-03-12"/>
+		<cosponsor id="400409" joined="2008-03-06"/>
+		<cosponsor id="400396" joined="2008-02-14"/>
+		<cosponsor id="400433" joined="2008-03-04"/>
+		<cosponsor id="400152" joined="2008-03-14"/>
+		<cosponsor id="400055" joined="2008-02-28"/>
+		<cosponsor id="400359" joined="2008-04-09"/>
+		<cosponsor id="412188" joined="2008-04-08"/>
+		<cosponsor id="400144" joined="2008-03-05"/>
+		<cosponsor id="400068" joined="2008-09-18"/>
+		<cosponsor id="412193" joined="2008-03-14"/>
+		<cosponsor id="412199" joined="2008-03-13"/>
+		<cosponsor id="400343" joined="2008-04-08"/>
+		<cosponsor id="400087" joined="2008-03-05"/>
+		<cosponsor id="400383" joined="2008-03-14"/>
+		<cosponsor id="412232" joined="2008-06-17"/>
+		<cosponsor id="400645" joined="2008-04-24"/>
+		<cosponsor id="400638" joined="2008-04-03"/>
+		<cosponsor id="400232" joined="2008-03-13"/>
+		<cosponsor id="400005" joined="2008-04-23"/>
+		<cosponsor id="400649" joined="2008-04-23"/>
+		<cosponsor id="400145" joined="2008-04-14"/>
+		<cosponsor id="400185" joined="2008-04-22"/>
+		<cosponsor id="400016" joined="2008-04-29"/>
+		<cosponsor id="400139" joined="2008-04-15"/>
+		<cosponsor id="400047" joined="2008-02-28"/>
+		<cosponsor id="400283" joined="2008-03-06"/>
+		<cosponsor id="400033" joined="2008-04-03"/>
+		<cosponsor id="400141" joined="2008-02-27"/>
+		<cosponsor id="412255" joined="2008-04-30"/>
+		<cosponsor id="400252" joined="2008-04-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1202965200" datetime="2008-02-14"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1222193400" datetime="2008-09-23T15:10:00-04:00"><text>Mr. Higgins moved to suspend the rules and pass the bill.</text></action>
+		<action date="1222193400" datetime="2008-09-23T15:10:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8626-8628"/></action>
+		<action date="1222193400" datetime="2008-09-23T15:10:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5443.</text></action>
+		<vote date="1222194000" how="by voice vote" datetime="2008-09-23T15:20:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H8626-8627"/></vote>
+		<action date="1222228800" datetime="2008-09-24"><text>Received in the Senate.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Read twice and referred to the Committee on Foreign Relations.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/23/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) United States-Republic of Korea Defense Cooperation Improvement Act of 2008 - Amends the Arms Export Control Act to include the Republic of Korea among those countries given preferential consideration with respect to certain: (1) arms export presidential certification and legislative review requirements; and (2) military training reporting requirements.<br/>
+	</summary>
+</bill>

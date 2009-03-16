@@ -1,0 +1,59 @@
+<bill session="110" type="h" number="4210" updated="2009-01-09T01:37:44-05:00">
+	<status><enacted date="1218513600" datetime="2008-08-12" /></status>
+
+	<introduced date="1195102800" datetime="2007-11-15"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 401 Washington Avenue in Weldon, North Carolina, as the &quot;Dock M. Brown Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400616"/>
+	<cosponsors>
+		<cosponsor id="400280" joined="2007-11-15"/>
+		<cosponsor id="400209" joined="2007-11-15"/>
+		<cosponsor id="412225" joined="2007-11-15"/>
+		<cosponsor id="400424" joined="2007-11-15"/>
+		<cosponsor id="400288" joined="2007-11-15"/>
+		<cosponsor id="400172" joined="2007-12-06"/>
+		<cosponsor id="400076" joined="2007-11-15"/>
+		<cosponsor id="400643" joined="2007-12-06"/>
+		<cosponsor id="400644" joined="2007-12-06"/>
+		<cosponsor id="400266" joined="2007-11-15"/>
+		<cosponsor id="400125" joined="2007-11-15"/>
+		<cosponsor id="400326" joined="2007-11-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1195102800" datetime="2007-11-15"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1197435600" datetime="2007-12-12"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1197435600" datetime="2007-12-12" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1197912000" datetime="2007-12-17T13:20:00-05:00"><text>Ms. Norton moved to suspend the rules and pass the bill.</text></action>
+		<action date="1197912060" datetime="2007-12-17T13:21:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H15483-15484"/></action>
+		<action date="1197912060" datetime="2007-12-17T13:21:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4210.</text></action>
+		<vote date="1197912240" how="by voice vote" datetime="2007-12-17T13:24:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H15483"/></vote>
+		<action date="1197954000" datetime="2007-12-18"><text>Received in the Senate.</text></action>
+		<action date="1200978000" datetime="2008-01-22"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1204088400" datetime="2008-02-27"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+		<calendar date="1217390400" datetime="2008-07-30" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1217390400" datetime="2008-07-30"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="914" date="1217390400" datetime="2008-07-30" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 914.</text></calendar>
+		<vote date="1217563200" how="by Unanimous Consent" datetime="2008-08-01" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S7984"/></vote>
+		<action date="1217563200" datetime="2008-08-01"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1217563200" datetime="2008-08-01" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1217995200" datetime="2008-08-06" ><text>Presented to President.</text></topresident>
+		<signed date="1218513600" datetime="2008-08-12" ><text>Signed by President.</text></signed>
+		<enacted number="110-303" date="1218513600" datetime="2008-08-12" type="public" ><text>Became Public Law No: 110-303.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/12/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 401 Washington Avenue in Weldon, North Carolina, as the &quot;Dock M. Brown Post Office Building.&quot; 
+	</summary>
+</bill>

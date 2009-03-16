@@ -1,0 +1,53 @@
+<bill session="110" type="h" number="2085" updated="2009-01-08T21:12:50-05:00">
+	<status><vote date="1196969940" datetime="2007-12-06T15:39:00-05:00" where="h" result="pass" how="roll" roll="1141"/></status>
+
+	<introduced date="1177992000" datetime="2007-05-01"/>
+	<titles>
+		<title type="short" as="introduced">McGee Creek Project Pipeline and Associated Facilities Conveyance Act</title>
+		<title type="short" as="reported to house">McGee Creek Project Pipeline and Associated Facilities Conveyance Act</title>
+		<title type="short" as="passed house">McGee Creek Project Pipeline and Associated Facilities Conveyance Act</title>
+		<title type="short" as="reported to senate">McGee Creek Project Pipeline and Associated Facilities Conveyance Act</title>
+		<title type="official" as="introduced">To authorize the Secretary of the Interior to convey to the McGee Creek Authority certain facilities of the McGee Creek Project, Oklahoma, and for other purposes.</title>
+	</titles>
+	<sponsor id="412230"/>
+	<cosponsors>
+		<cosponsor id="400645" joined="2007-05-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1177992000" datetime="2007-05-01"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1178251200" datetime="2007-05-04"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1190088000" datetime="2007-09-18"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1192507200" datetime="2007-10-16"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1192507200" datetime="2007-10-16"><text>Forwarded by Subcommittee to Full Committee Without Recommendation by Unanimous Consent .</text></action>
+		<action date="1195102800" datetime="2007-11-15"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1195102800" datetime="2007-11-15" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1196793120" datetime="2007-12-04T14:32:00-05:00"><text>Reported by the Committee on Natural Resources. H. Rept. 110-460.</text></action>
+		<calendar number="284" date="1196793120" datetime="2007-12-04T14:32:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 284.</text></calendar>
+		<action date="1196794140" datetime="2007-12-04T14:49:00-05:00"><text>Mrs. Napolitano moved to suspend the rules and pass the bill.</text></action>
+		<action date="1196794140" datetime="2007-12-04T14:49:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H14097-14098"/></action>
+		<action date="1196794140" datetime="2007-12-04T14:49:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2085.</text></action>
+		<action date="1196794440" datetime="2007-12-04T14:54:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1196969460" datetime="2007-12-06T15:31:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H14444-14445"/></action>
+		<vote date="1196969940" how="roll" roll="1141" datetime="2007-12-06T15:39:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 373 - 0 (Roll no. 1141). (text: CR 12/04/2007 H14097-14098)</text></vote>
+		<action date="1197003600" datetime="2007-12-07"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1204174800" datetime="2008-02-28"><text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held.</text></action>
+		<calendar date="1210132800" datetime="2008-05-07" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1213588800" datetime="2008-06-16"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-385.</text></action>
+		<calendar under="General Orders" number="817" date="1213588800" datetime="2008-06-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 817.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/16/2008--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) McGee Creek Project Pipeline and Associated Facilities Conveyance Act - Authorizes the Secretary of the Interior to convey to the McGee Creek Authority all U.S. rights to the pipeline and any associated facilities described in the Agreement Between the United States and McGee Creek Authority for the Purpose of Defining Responsibilities Related to and Implementing the Title Transfer of Certain Facilities at the McGee Creek Project, Oklahoma. Excludes the mineral estate from the conveyance. Requires the Secretary to complete any actions required under the National Environmental Policy Act of 1969, the Endangered Species Act of 1973, and the National Historic Preservation Act before such conveyance.<br/>Provides that any rights and obligations under a specified contract between the Authority and the United States for the construction, operation, and maintenance of the McGee Creek Project shall remain in force. 
+	</summary>
+</bill>

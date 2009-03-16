@@ -1,0 +1,59 @@
+<bill session="110" type="h" number="3307" updated="2009-01-08T23:43:40-05:00">
+	<status><enacted date="1196398800" datetime="2007-11-30" /></status>
+
+	<introduced date="1185940800" datetime="2007-08-01"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 570 Broadway in Bayonne, New Jersey, as the &quot;Dennis P. Collins Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="412186"/>
+	<cosponsors>
+		<cosponsor id="400142" joined="2007-08-01"/>
+		<cosponsor id="400380" joined="2007-08-01"/>
+		<cosponsor id="400132" joined="2007-08-01"/>
+		<cosponsor id="400184" joined="2007-08-01"/>
+		<cosponsor id="400312" joined="2007-08-01"/>
+		<cosponsor id="400359" joined="2007-08-01"/>
+		<cosponsor id="400008" joined="2007-08-01"/>
+		<cosponsor id="400308" joined="2007-08-01"/>
+		<cosponsor id="400346" joined="2007-08-01"/>
+		<cosponsor id="400244" joined="2007-08-01"/>
+		<cosponsor id="400145" joined="2007-08-01"/>
+		<cosponsor id="400309" joined="2007-08-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1185940800" datetime="2007-08-01"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1190260800" datetime="2007-09-20"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1190260800" datetime="2007-09-20" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1193767320" datetime="2007-10-30T15:02:00-04:00"><text>Mr. Clay moved to suspend the rules and pass the bill.</text></action>
+		<action date="1193767380" datetime="2007-10-30T15:03:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H12196-12197"/></action>
+		<action date="1193767380" datetime="2007-10-30T15:03:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3307.</text></action>
+		<action date="1193767800" datetime="2007-10-30T15:10:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1193772180" datetime="2007-10-30T16:23:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H12206"/></action>
+		<vote date="1193773620" how="roll" roll="1018" datetime="2007-10-30T16:47:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 1018).</text><reference label="text" ref="CR H12196"/></vote>
+		<action date="1193889600" datetime="2007-11-01"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<calendar date="1195016400" datetime="2007-11-14" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1195016400" datetime="2007-11-14"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="498" date="1195016400" datetime="2007-11-14" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 498.</text></calendar>
+		<vote date="1195189200" how="by Unanimous Consent" datetime="2007-11-16" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S14656-14657"/></vote>
+		<action date="1195189200" datetime="2007-11-16"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1195189200" datetime="2007-11-16" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1196053200" datetime="2007-11-26" ><text>Presented to President.</text></topresident>
+		<signed date="1196398800" datetime="2007-11-30" ><text>Signed by President.</text></signed>
+		<enacted number="110-124" date="1196398800" datetime="2007-11-30" type="public" ><text>Became Public Law No: 110-124.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/30/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 570 Broadway in Bayonne, New Jersey, as the &quot;Dennis P. Collins Post Office Building.&quot; 
+	</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="110" type="hr" number="832" updated="2009-01-09T09:35:47-05:00">
+	<status><vote date="1201546320" datetime="2008-01-28T14:52:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1195102800" datetime="2007-11-15"/>
+	<titles>
+		<title type="official" as="introduced">Honoring the Texas Water Development Board on its selection as a recipient of the the Environmental Protection Agency's 2007 Clean Water State Revolving Fund Performance and Innovation Award.</title>
+		<title type="official" as="amended by house">Honoring the Texas Water Development Board on its selection as a 2007 recipient of the Environmental Protection Agency's Performance and Innovation in the SRF Creating Environmental Success Award.</title>
+	</titles>
+	<sponsor id="400204"/>
+	<cosponsors>
+		<cosponsor id="400199" joined="2007-12-04"/>
+		<cosponsor id="400337" joined="2007-11-15"/>
+		<cosponsor id="400160" joined="2007-11-15"/>
+		<cosponsor id="400302" joined="2007-11-15"/>
+		<cosponsor id="400018" joined="2007-12-04"/>
+		<cosponsor id="400229" joined="2007-11-15"/>
+		<cosponsor id="400052" joined="2007-11-15"/>
+		<cosponsor id="400152" joined="2007-11-15"/>
+		<cosponsor id="400311" joined="2007-11-15"/>
+		<cosponsor id="400118" joined="2007-11-15"/>
+		<cosponsor id="400157" joined="2007-11-15"/>
+		<cosponsor id="400179" joined="2007-11-15"/>
+		<cosponsor id="400656" joined="2007-12-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1195102800" datetime="2007-11-15"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1196917200" datetime="2007-12-06"><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action date="1200459600" datetime="2008-01-16"><text>Subcommittee on Water Resources and Environment Discharged.</text></action>
+		<action date="1200459600" datetime="2008-01-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1200459600" datetime="2008-01-16" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1201543380" datetime="2008-01-28T14:03:00-05:00"><text>Reported by the Committee on Transportation. H. Rept. 110-517.</text></action>
+		<calendar number="181" date="1201543440" datetime="2008-01-28T14:04:00-05:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 181.</text></calendar>
+		<action date="1201545780" datetime="2008-01-28T14:43:00-05:00"><text>Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1201545780" datetime="2008-01-28T14:43:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H465-466"/></action>
+		<action date="1201545840" datetime="2008-01-28T14:44:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 832.</text></action>
+		<vote date="1201546320" how="by voice vote" datetime="2008-01-28T14:52:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H465"/></vote>
+		<action date="1201546320" datetime="2008-01-28T14:52:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/2008--Passed House amended. Honors the Texas Water Development Board on its selection by the Environmental Protection Agency (EPA) as a 2007 Performance and Innovation in the SRF (State Revolving Fund) Creating Environmental Success (PISCES) Award recipient. Recognizes the importance of adequate investment and management of water resources in sustainable development, including environmental integrity and human health and overall quality of life in the United States.<br/>
+	</summary>
+</bill>

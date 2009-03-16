@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="856" updated="2009-03-07T11:28:56-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="short" as="introduced">California Drought Alleviation Act of 2009</title>
+		<title type="official" as="introduced">To provide flexibility for the operation of the Bureau of Reclamation C.W. &quot;Bill&quot; Jones Pumping Plant and the Harvey O. Banks Pumping Plant of the State of California in times of drought emergency, to support the establishment of a fish hatchery program to preserve and restore the Delta Smelt in the Sacramento-San Joaquin Delta, and for other purposes.</title>
+	</titles>
+	<sponsor id="400330"/>
+	<cosponsors>
+		<cosponsor id="400659" joined="2009-02-04"/>
+		<cosponsor id="400057" joined="2009-02-04"/>
+		<cosponsor id="400343" joined="2009-02-04"/>
+		<cosponsor id="400618" joined="2009-02-04"/>
+		<cosponsor id="400115" joined="2009-02-09"/>
+		<cosponsor id="412190" joined="2009-02-04"/>
+		<cosponsor id="400065" joined="2009-02-04"/>
+		<cosponsor id="400297" joined="2009-02-04"/>
+		<cosponsor id="412283" joined="2009-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Water and Power" activity="Referral" />
+		<committee name="House Natural Resources" subcommittee="Insular Affairs, Oceans and Wildlife" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Introduced.<br/>California Drought Alleviation Act of 2009 - Requires the Secretary of the Interior: (1) upon the declaration of a drought emergency by the governor of California, to determine if such an emergency exists for the service areas of the Central Valley Project and the State Water Project; and (2) upon determining that such an emergency exists for all or portions of such areas, to temporarily exempt the operations of the Bureau of Reclamation C.W. &quot;Bill&quot; Jones Pumping Plant and the California Harvey O. Banks Pumping Plant from the prohibitions under the Endangered Species Act of 1973 against taking endangered or threatened species or adversely modifying critical habitat until the drought emergency conditions are alleviated. Provides that the action of pumping water from these plants is not to be considered discretionary for purposes of such Act. Authorizes the Secretary to include in a determination that a drought emergency exists reasonable and prudent measures for the protection of an endangered species or its critical habitat. Provides that: (1) such measures or the Secretary's failure to prescribe them shall not impede the ability of the Plants to supply sufficient water for municipal, industrial, and irrigation uses; and (2) the cost of such measures shall be borne by the United States and shall be nonreimbursable.<br/>Prohibits the Secretary, in implementing this Act, from imposing additional prescriptions under such Act or the Federal Power Act on any other water storage or conveyance facility on the San Joaquin River, the Sacramento River, or their tributaries.<br/>Requires the Secretary, if a drought emergency exists for any portion of the Central Valley Project Service Area, to operate the C.W. &quot;Bill&quot; Jones Pumping Plant at a capacity consistent with the Coordinated Operation Agreement between the Bureau of Reclamation and the California Department of Water Resources and otherwise applicable laws and existing water right until the drought emergency conditions are alleviated.<br/>Authorizes the Secretary to enter into a cooperative agreement with California to support the establishment of a fish hatchery program to preserve and restore the species Hypomesus transpacificus (popularly known as Delta Smelt) in the Sacramento-San Joaquin Delta.<br/>
+	</summary>
+</bill>

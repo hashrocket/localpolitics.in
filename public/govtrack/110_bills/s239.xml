@@ -1,0 +1,36 @@
+<bill session="110" type="s" number="239" updated="2009-01-09T11:38:28-05:00">
+	<status><calendar date="1178164800" datetime="2007-05-03" /></status>
+
+	<introduced date="1168405200" datetime="2007-01-10"/>
+	<titles>
+		<title type="short" as="introduced">Notification of Risk to Personal Data Act of 2007</title>
+		<title type="short" as="reported to senate">Notification of Risk to Personal Data Act of 2007</title>
+		<title type="official" as="introduced">A bill to require Federal agencies, and persons engaged in interstate commerce, in possession of data containing sensitive personally identifiable information, to disclose any breach of such information.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1168405200" datetime="2007-01-10"><text>Sponsor introductory remarks on measure. (CR S378-379)</text></action>
+		<action date="1168405200" datetime="2007-01-10"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S379-381"/></action>
+		<calendar date="1178164800" datetime="2007-05-03" ><text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1180584000" datetime="2007-05-31"><text>Committee on the Judiciary. Reported by Senator Leahy under authority of the order of the Senate of 05/25/2007 with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="180" date="1180584000" datetime="2007-05-31" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 180.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/31/2007--Reported to Senate amended. Notification of Risk to Personal Data Act of 2007 - (Sec. 2) Requires any federal agency or business entity engaged in interstate commerce that uses, accesses, transmits, stores, disposes of, or collects sensitive, personally identifiable information, following the discovery of a security breach, to notify: (1) any U.S. resident whose information may have been accessed or acquired; and (2) the owner or licensee of any such information that the agency or business does not own or license.<br/>(Sec. 3) Exempts: (1) agencies and business entities from notification requirements for national security and law enforcement purposes and for security breaches that a risk assessment concludes do not have a significant risk of resulting in harm if specified certification or notice is provided, which is subject to review by the U.S. Secret Service; and (2) business entities from notification requirements if such an entity utilizes a security program that blocks the use of sensitive personally identifiable information to initiate unauthorized financial transactions and provides notice of a breach to affected individuals. Sets forth a presumption that there was no significant risk of harm to an individual whose sensitive personally identifiable information was subject to a security breach if such information: (1) was encrypted; or (2) was rendered indecipherable through the use of best practices or methods, such as redaction, access controls, or other such mechanisms, that are widely accepted as an effective industry practice, or an effective industry standard.<br/>(Sec. 4) Provides that an agency or business entity shall be in compliance with such requirements if it provides both individual notice and media notice.<br/>(Sec. 5) Requires notice to include: (1) a description of the categories of sensitive personally identifiable information acquired by an unauthorized person; (2) a toll-free number that the individual may use to contact the agency or business entity to learn what types of personal information the agency or entity maintained; and (3) the toll-free telephone numbers and addresses for the major credit reporting agencies. Authorizes a state to require that a notice also include information regarding victim protection assistance provided by that state.<br/>(Sec. 6) Directs an agency or business entity that is required to provide notification to more than 5,000 individuals to also notify all nationwide consumer reporting agencies of the timing and distribution of the notices.<br/>(Sec. 7) Requires any business entity or agency to notify the Secret Service of the fact that a security breach has occurred if: (1) the number of individuals whose sensitive personally identifying information was acquired by an unauthorized person exceeds 10,000; (2) the breach involves a data system containing information on more than 1 million individuals nationwide; (3) the breach involves databases owned by the federal government; or (4) the breach involves primarily sensitive personally identifiable information of individuals known to the agency or business entity to be employees and contractors of the federal government involved in national security or law enforcement.<br/>Requires notifications regarding security breaches under specified circumstances to the Secret Service, the Federal Bureau of Investigation, the United States Postal Inspection Service, and state attorneys general.<br/>(Sec. 8) Authorizes the Attorney General to bring a civil action in U.S. district court against any business entity that violates this Act. Sets daily and maximum civil penalties for violations by a business entity.<br/>Amends the Fair Credit Reporting Act to require agencies to include a fraud alert in the file of a consumer that submits evidence of compromised financial information to a consumer reporting agency.<br/>(Sec. 9) Authorizes civil actions by state attorneys general to enforce this Act. (Sec. 10) Provides that this Act shall not supersede any other provision of federal law or of state law relating to notification by a business entity engaged in interstate commerce or an agency of a security breach.<br/>(Sec. 11) Authorizes appropriations for costs incurred by the Secret Service to investigate and conduct risk assessments of security breaches.<br/>(Sec. 12) Directs the Secret Service to report to Congress on the number and nature of security breaches: (1) described in the notices filed by those business entities invoking the risk assessment exemption; and (2) subject to the national security and law enforcement exemptions. Prohibits any report submitted from disclosing the contents of any risk assessment provided to the Secret Service under this Act.<br/>
+	</summary>
+</bill>

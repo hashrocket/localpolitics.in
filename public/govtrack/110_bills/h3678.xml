@@ -1,0 +1,64 @@
+<bill session="110" type="h" number="3678" updated="2009-01-09T00:34:52-05:00">
+	<status><enacted date="1193803200" datetime="2007-10-31" /></status>
+
+	<introduced date="1190865600" datetime="2007-09-27"/>
+	<titles>
+		<title type="short" as="introduced">Internet Tax Freedom Act Amendments Act of 2007</title>
+		<title type="short" as="reported to house">Internet Tax Freedom Act Amendments Act of 2007</title>
+		<title type="short" as="passed house">Internet Tax Freedom Act Amendments Act of 2007</title>
+		<title type="short" as="passed senate">Internet Tax Freedom Act Amendments Act of 2007</title>
+		<title type="short" as="enacted">Internet Tax Freedom Act Amendments Act of 2007</title>
+		<title type="official" as="introduced">To amend the Internet Tax Freedom Act to extend the moratorium on certain taxes relating to the Internet and to electronic commerce.</title>
+	</titles>
+	<sponsor id="400080"/>
+	<cosponsors>
+		<cosponsor id="400059" joined="2007-09-27"/>
+		<cosponsor id="400424" joined="2007-09-27"/>
+		<cosponsor id="400196" joined="2007-09-27"/>
+		<cosponsor id="400365" joined="2007-09-27"/>
+		<cosponsor id="400355" joined="2007-09-27"/>
+		<cosponsor id="400043" joined="2007-09-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1190865600" datetime="2007-09-27"><text>Sponsor introductory remarks on measure. (CR E2001)</text></action>
+		<action date="1190865600" datetime="2007-09-27"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1191988800" datetime="2007-10-10"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1191988800" datetime="2007-10-10" ><text>Ordered to be Reported (Amended) by the Yeas and Nays: 38 - 0.</text></calendar>
+		<action date="1192239780" datetime="2007-10-12T22:43:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 110-372.</text></action>
+		<calendar number="230" date="1192239840" datetime="2007-10-12T22:44:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 230.</text></calendar>
+		<action date="1192590480" datetime="2007-10-16T12:08:00-04:00"><text>Mr. Watt moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1192590540" datetime="2007-10-16T12:09:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11567-11573"/></action>
+		<action date="1192590540" datetime="2007-10-16T12:09:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3678.</text></action>
+		<action date="1192592640" datetime="2007-10-16T12:44:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1192552740" datetime="2007-10-16T13:39:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H11575-11576"/></action>
+		<vote date="1192553160" how="roll" roll="968" datetime="2007-10-16T13:46:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 2 (Roll no. 968).</text><reference label="text" ref="CR H11567-11568"/></vote>
+		<action date="1192593600" datetime="2007-10-17"><text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar under="General Orders" number="429" date="1192680000" datetime="2007-10-18" calendar="Senate Legislative" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 429.</text></calendar>
+		<action date="1193284800" datetime="2007-10-25"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S13429-13430"/></action>
+		<vote date="1193284800" how="by Unanimous Consent" datetime="2007-10-25" where="s" type="vote2" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action date="1193371200" datetime="2007-10-26"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1193750820" datetime="2007-10-30T10:27:00-04:00"><text>Ms. Sanchez, Linda T. moved that the House suspend the rules agree to the Senate amendment.</text><reference label="consideration" ref="CR H12160-12164, H12168-12169"/></action>
+		<action date="1193750880" datetime="2007-10-30T10:28:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 3678.</text></action>
+		<action date="1193752320" datetime="2007-10-30T10:52:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1193756040" datetime="2007-10-30T11:54:00-04:00"><text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays (2/3 required): 402 - 0 (Roll No. 1014).</text><reference label="text as House agreed to Senate amendment" ref="CR H12160-12161"/></action>
+		<topresident date="1193716800" datetime="2007-10-30" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1193716800" datetime="2007-10-30" ><text>Presented to President.</text></topresident>
+		<signed date="1193803200" datetime="2007-10-31" ><text>Signed by President.</text></signed>
+		<enacted number="110-108" date="1193803200" datetime="2007-10-31" type="public" ><text>Became Public Law No: 110-108.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/31/2007--Public Law. (This measure has not been amended since it was passed by the Senate on October 25, 2007. The summary of that version is repeated here.)<br/>Internet Tax Freedom Act Amendments Act of 2007 - Amends the Internet Tax Freedom Act to extend until November 1, 2014, the moratorium on state and local taxation of Internet access and electronic commerce (moratorium) and the exemption from such moratorium for states with previously enacted Internet tax laws (grandfathering provisions). Redefines, effective November 1, 2003, &quot;Internet access&quot; to prevent certain states from claiming an expanded exemption under the Internet Tax Nondiscrimination Act from the moratorium. Delays the application of such redefinition until June 30, 2008, for a state or local tax on Internet access that is: (1) generally imposed and actually enforced on telecommunication services; or (2) the subject of litigation instituted in a state court prior to July 1, 2007. Expands the term &quot;Internet access&quot; to include related communication services (e.g., emails and instant messaging). Redefines &quot;telecommunications&quot; to include unregulated non-utility telecommunications (e.g., cable services). Provides for a specific exception to the moratorium for certain state business taxes enacted between June 20, 2005, and before November 1, 2007, that do not discriminate against providers of communication services, Internet access, or telecommunications.<br/>Repeals the exception from the moratorium for taxing Voice over Internet Protocol (VoIP).<br/>Renders inapplicable the grandfather provisions of the Internet Tax Freedom Act for states that repealed or nullified their tax laws on Internet access more than 24 months prior to the enactment of this Act. Makes the amendments made by this Act effective November 1, 2007. 
+	</summary>
+</bill>

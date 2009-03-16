@@ -1,0 +1,43 @@
+<bill session="110" type="s" number="2919" updated="2009-01-09T17:56:49-05:00">
+	<status><introduced date="1209009600" datetime="2008-04-24"/></status>
+
+	<introduced date="1209009600" datetime="2008-04-24"/>
+	<titles>
+		<title type="short" as="introduced">Signaling Modernization Act of 2008</title>
+		<title type="official" as="introduced">A bill to promote the accurate transmission of network traffic identification information.</title>
+	</titles>
+	<sponsor id="300094"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2008-04-24"/>
+		<cosponsor id="412242" joined="2008-07-31"/>
+		<cosponsor id="300042" joined="2008-07-22"/>
+		<cosponsor id="300068" joined="2008-09-17"/>
+		<cosponsor id="300037" joined="2008-04-24"/>
+		<cosponsor id="400546" joined="2008-04-24"/>
+		<cosponsor id="300054" joined="2008-04-28"/>
+		<cosponsor id="300080" joined="2008-04-24"/>
+		<cosponsor id="300091" joined="2008-04-24"/>
+		<cosponsor id="412243" joined="2008-09-12"/>
+		<cosponsor id="300058" joined="2008-07-22"/>
+		<cosponsor id="300090" joined="2008-04-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1209009600" datetime="2008-04-24"><text>Sponsor introductory remarks on measure. (CR S3407-3408)</text></action>
+		<action date="1209009600" datetime="2008-04-24"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/24/2008--Introduced.<br/>Signaling Modernization Act of 2008 - Amends the Communications Act of 1934 to require a telecommunications service or IP-enabled voice service provide to ensure that all voice communications service traffic originating on its network contains the signaling information reasonably needed to facilitate intercarrier billing in accordance with industry standards. Requires a provider that transports or transits traffic between voice communications service providers to forward the signaling information it receives from another provider (without altering such signaling information) that is reasonably needed to facilitate intercarrier billing in accordance with industry standards, except as otherwise permitted by the Federal Communications Commission (FCC).<br/>
+	</summary>
+</bill>

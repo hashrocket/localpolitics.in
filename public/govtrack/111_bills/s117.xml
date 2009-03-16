@@ -1,0 +1,40 @@
+<bill session="111" type="s" number="117" updated="2009-03-07T13:45:59-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Foreclosure Rescue Fraud Act of 2009</title>
+		<title type="official" as="introduced">A bill to protect the property and security of homeowners who are subject to foreclosure proceedings, and for other purposes.</title>
+	</titles>
+	<sponsor id="300061"/>
+	<cosponsors>
+		<cosponsor id="300025" joined="2009-01-06"/>
+		<cosponsor id="300011" joined="2009-01-06"/>
+		<cosponsor id="300073" joined="2009-01-06"/>
+		<cosponsor id="300043" joined="2009-02-03"/>
+		<cosponsor id="300068" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR S89)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text><reference label="text of measure as introduced" ref="CR S89-92"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Housing and community development"/>
+		<term name="Civil actions and liability"/>
+		<term name="Contracts and agency"/>
+		<term name="Fraud offenses"/>
+		<term name="Housing finance and home ownership"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Foreclosure Rescue Fraud Act of 2009 - Prohibits a foreclosure consultant from: (1) receiving compensation from a homeowner for services performed regarding residential real property until such consultant has fully performed each service contracted for; (2) holding power of attorney from any homeowner, except to inspect documents; (3) receiving consideration from a third party in connection with services rendered to a homeowner regarding the foreclosure, unless such consideration is fully, clearly, and conspicuously disclosed before such services are rendered; (4) accepting any security to secure compensation for services rendered regarding foreclosure of the residential real property; or (5) acquiring any interest in the residence of a homeowner with whom the consultant has contracted. Sets forth contract requirements. Permits a homeowner to cancel such contract without penalty or obligation.<br/>Declares void and unenforceable: (1) any waiver by a homeowner of the protections provided in this Act; and (2) any contract that does not comply with this Act.<br/>Requires a loan servicer to notify a homeowner of the dangers of fraudulent activities associated with foreclosure if the servicer finds that the homeowner has failed to make two consecutive payments on a residential mortgage loan at risk of foreclosure.<br/>Subjects a foreclosure consultant who fails to comply with this Act to liability for actual and punitive damages and for attorneys' fees. Empowers the Federal Trade Commission (FTC) and the states to enforce this Act.<br/>
+	</summary>
+</bill>

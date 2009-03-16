@@ -1,0 +1,36 @@
+<bill session="111" type="hr" number="219" updated="2009-03-13T12:12:02-04:00">
+	<status><calendar date="1236350100" datetime="2009-03-06T10:35:00-05:00" /></status>
+
+	<introduced date="1236315600" datetime="2009-03-06"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the joint resolution (H.J.Res. 38) making further continuing appropriations for the fiscal year 2009, and for other purposes.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1236350100" datetime="2009-03-06T10:35:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 111-25, by Mr. McGovern.</text></action>
+		<action date="1236350100" datetime="2009-03-06T10:35:00-05:00"><text>All points of order against consideration of the joint resolution are waived except those arising under clause 10 or rule XXI.</text></action>
+		<calendar date="1236350100" datetime="2009-03-06T10:35:00-05:00" ><text>Placed on the House Calendar, Calendar No. 16.</text></calendar>
+		<action date="1236866160" datetime="2009-03-12T10:56:00-04:00"><text>Pursuant to the provisions of H. Res. 235, H. Res. 219 is laid on the table.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Rules" subcommittee="" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="235" />
+		<bill relation="unknown" session="111" type="hj" number="38" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="House of Representatives"/>
+		<term name="Legislative rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/6/2009--Introduced.<br/>Sets forth the rule for consideration of the joint resolution (H.J.Res. 38) making further continuing appropriations for the fiscal year 2009.<br/>
+	</summary>
+</bill>

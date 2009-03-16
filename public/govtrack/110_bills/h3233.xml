@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="3233" updated="2009-01-08T23:34:46-05:00">
+	<status><enacted date="1193371200" datetime="2007-10-26" /></status>
+
+	<introduced date="1185854400" datetime="2007-07-31"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at Highway 49 South in Piney Woods, Mississippi, as the &quot;Laurence C. and Grace M. Jones Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400319"/>
+	<cosponsors>
+		<cosponsor id="400402" joined="2007-07-31"/>
+		<cosponsor id="400432" joined="2007-08-02"/>
+		<cosponsor id="400399" joined="2007-08-02"/>
+		<cosponsor id="400240" joined="2007-08-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1185854400" datetime="2007-07-31"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1190260800" datetime="2007-09-20"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1190260800" datetime="2007-09-20" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1191264300" datetime="2007-10-01T15:45:00-04:00"><text>Mr. Clay moved to suspend the rules and pass the bill.</text></action>
+		<action date="1191264360" datetime="2007-10-01T15:46:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11043-11044"/></action>
+		<action date="1191264360" datetime="2007-10-01T15:46:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3233.</text></action>
+		<vote date="1191264600" how="by voice vote" datetime="2007-10-01T15:50:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H11043-11044"/></vote>
+		<action date="1191297600" datetime="2007-10-02"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1192766400" datetime="2007-10-19"><text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S13167"/></action>
+		<vote date="1192766400" how="by Unanimous Consent" datetime="2007-10-19" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<topresident date="1192766400" datetime="2007-10-19" ><text>Cleared for White House.</text></topresident>
+		<action date="1193025600" datetime="2007-10-22"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1193198400" datetime="2007-10-24" ><text>Presented to President.</text></topresident>
+		<signed date="1193371200" datetime="2007-10-26" ><text>Signed by President.</text></signed>
+		<enacted number="110-107" date="1193371200" datetime="2007-10-26" type="public" ><text>Became Public Law No: 110-107.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/26/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at Highway 49 South in Piney Woods, Mississippi, as the &quot;Laurence C. and Grace M. Jones Post Office Building.&quot; 
+	</summary>
+</bill>

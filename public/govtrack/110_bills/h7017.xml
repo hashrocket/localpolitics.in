@@ -1,0 +1,35 @@
+<bill session="110" type="h" number="7017" updated="2009-01-09T07:16:19-05:00">
+	<status><vote date="1222710060" datetime="2008-09-29T14:41:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1222142400" datetime="2008-09-23"/>
+	<titles>
+		<title type="official" as="introduced">To amend Public Law 100-573 to extend the authorization of the Delaware Water Gap National Recreation Area Citizen Advisory Commission.</title>
+	</titles>
+	<sponsor id="400145"/>
+	<cosponsors>
+		<cosponsor id="412234" joined="2008-09-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1222142400" datetime="2008-09-23"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1222710060" datetime="2008-09-29T14:41:00-04:00"><text>Mr. Rahall asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1222710060" datetime="2008-09-29T14:41:00-04:00"><text>Committee on Natural Resources discharged.</text></action>
+		<action date="1222710060" datetime="2008-09-29T14:41:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10615"/><reference label="text of measure as introduced" ref="CR H10615"/></action>
+		<vote date="1222710060" how="without objection" datetime="2008-09-29T14:41:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed without objection.</text></vote>
+		<action date="1222747200" datetime="2008-09-30"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/29/2008--Passed House amended. Amends Public Law 100-573 (relating to the establishment of the Delaware Water Gap National Recreation Area Citizens Advisory Commission) to terminate the Commission 21 years after the enactment of such Act. 
+	</summary>
+</bill>

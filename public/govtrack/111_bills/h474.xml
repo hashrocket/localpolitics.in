@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="474" updated="2009-03-07T10:43:22-05:00">
+	<status><introduced date="1231822800" datetime="2009-01-13"/></status>
+
+	<introduced date="1231822800" datetime="2009-01-13"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to permanently extend the Indian employment credit and the depreciation rules for poverty used predominantly within an Indian reservation.</title>
+	</titles>
+	<sponsor id="400645"/>
+	<cosponsors>
+		<cosponsor id="400392" joined="2009-01-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1231822800" datetime="2009-01-13"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Business investment and capital"/>
+		<term name="Employment and training programs"/>
+		<term name="Income tax credits"/>
+		<term name="Income tax deductions"/>
+		<term name="Indian social and development programs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/13/2009--Introduced.<br/>Amends the Internal Revenue Code to make permanent: (1) the Indian employment tax credit; and (2) accelerated depreciation of business property used on Indian reservations.<br/>
+	</summary>
+</bill>

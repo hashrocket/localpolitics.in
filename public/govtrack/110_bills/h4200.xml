@@ -1,0 +1,33 @@
+<bill session="110" type="h" number="4200" updated="2009-01-09T01:36:35-05:00">
+	<status><introduced date="1195102800" datetime="2007-11-15"/></status>
+
+	<introduced date="1195102800" datetime="2007-11-15"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide a tax credit for medical research related to developing qualified infectious disease products.</title>
+	</titles>
+	<sponsor id="400409"/>
+	<cosponsors>
+		<cosponsor id="400616" joined="2007-12-04"/>
+		<cosponsor id="400350" joined="2007-11-15"/>
+		<cosponsor id="400093" joined="2007-11-15"/>
+		<cosponsor id="400438" joined="2007-11-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1195102800" datetime="2007-11-15"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/15/2007--Introduced.<br/>Amends the Internal Revenue Code to allow a general business tax credit for 50% of expenses paid for research and development of any qualified infectious disease product. Defines &quot;qualified infectious disease product&quot; as any antibiotic drug, antiviral, diagnostic test, biological product, or vaccine developed to treat, detect, prevent, or identify certain pathogens. Terminates such credit after 2012.<br/>
+	</summary>
+</bill>

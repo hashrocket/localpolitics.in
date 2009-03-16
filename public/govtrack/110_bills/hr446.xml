@@ -1,0 +1,40 @@
+<bill session="110" type="hr" number="446" updated="2009-01-09T08:47:59-05:00">
+	<status><vote date="1181140080" datetime="2007-06-06T11:28:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1179979200" datetime="2007-05-24"/>
+	<titles>
+		<title type="official" as="introduced">Honoring the life and accomplishments of Astronaut Walter Marty Schirra and expressing condolences on his passing.</title>
+	</titles>
+	<sponsor id="400570"/>
+	<cosponsors>
+		<cosponsor id="400199" joined="2007-06-05"/>
+		<cosponsor id="400165" joined="2007-06-05"/>
+		<cosponsor id="400196" joined="2007-05-24"/>
+		<cosponsor id="400412" joined="2007-05-24"/>
+		<cosponsor id="400057" joined="2007-05-24"/>
+		<cosponsor id="400005" joined="2007-06-05"/>
+		<cosponsor id="400204" joined="2007-06-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1179979200" datetime="2007-05-24"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1181139540" datetime="2007-06-06T11:19:00-04:00"><text>Mr. Wu moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1181139540" datetime="2007-06-06T11:19:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6021-6023"/></action>
+		<action date="1181139540" datetime="2007-06-06T11:19:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 446.</text></action>
+		<vote date="1181140080" how="by voice vote" datetime="2007-06-06T11:28:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H6022"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/6/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Honors the life and accomplishments of Astronaut Walter Marty Schirra and expresses the condolences of the House of Representatives on his passing. Recognizes the profound importance of Astronaut Schirra's record as a pioneer in space exploration and long-time contributor to NASA's mission as a catalyst to space exploration and scientific advancement in the United States.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,78 @@
+<bill session="111" type="h" number="81" updated="2009-03-07T09:57:15-05:00">
+	<status><vote date="1236017880" datetime="2009-03-02T14:18:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Shark Conservation Act of 2009</title>
+		<title type="short" as="passed house">Shark Conservation Act of 2009</title>
+		<title type="official" as="introduced">To amend the High Seas Driftnet Fishing Moratorium Protection Act and the Magnuson-Stevens Fishery Conservation and Management Act to improve the conservation of sharks.</title>
+	</titles>
+	<sponsor id="400041"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="2009-01-06"/>
+		<cosponsor id="400073" joined="2009-01-06"/>
+		<cosponsor id="400219" joined="2009-01-07"/>
+		<cosponsor id="400227" joined="2009-02-23"/>
+		<cosponsor id="400308" joined="2009-01-07"/>
+		<cosponsor id="400001" joined="2009-01-06"/>
+		<cosponsor id="400436" joined="2009-01-26"/>
+		<cosponsor id="400162" joined="2009-01-06"/>
+		<cosponsor id="400237" joined="2009-01-06"/>
+		<cosponsor id="400251" joined="2009-02-23"/>
+		<cosponsor id="400178" joined="2009-01-06"/>
+		<cosponsor id="400246" joined="2009-02-13"/>
+		<cosponsor id="400360" joined="2009-03-02"/>
+		<cosponsor id="400129" joined="2009-01-06"/>
+		<cosponsor id="412200" joined="2009-02-23"/>
+		<cosponsor id="400193" joined="2009-01-06"/>
+		<cosponsor id="400124" joined="2009-01-06"/>
+		<cosponsor id="400003" joined="2009-01-14"/>
+		<cosponsor id="400049" joined="2009-01-06"/>
+		<cosponsor id="400283" joined="2009-01-13"/>
+		<cosponsor id="400204" joined="2009-01-06"/>
+		<cosponsor id="412189" joined="2009-02-04"/>
+		<cosponsor id="400218" joined="2009-01-08"/>
+		<cosponsor id="400396" joined="2009-02-09"/>
+		<cosponsor id="400184" joined="2009-01-06"/>
+		<cosponsor id="400024" joined="2009-02-10"/>
+		<cosponsor id="400152" joined="2009-01-06"/>
+		<cosponsor id="400062" joined="2009-01-06"/>
+		<cosponsor id="412255" joined="2009-02-11"/>
+		<cosponsor id="400278" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR E21)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text></action>
+		<action date="1236017700" datetime="2009-03-02T14:15:00-05:00"><text>Mr. Holt moved to suspend the rules and pass the bill.</text></action>
+		<action date="1236017700" datetime="2009-03-02T14:15:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2879-2880"/></action>
+		<action date="1236017700" datetime="2009-03-02T14:15:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 81.</text></action>
+		<vote date="1236017880" how="by voice vote" datetime="2009-03-02T14:18:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H2879-2880"/></vote>
+		<action date="1236056400" datetime="2009-03-03"><text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral" />
+		<committee name="House Natural Resources" subcommittee="Insular Affairs, Oceans and Wildlife" activity="Referral" />
+		<committee name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Animal protection and human-animal relationships"/>
+		<term name="Crimes against animals and natural resources"/>
+		<term name="Evidence and witnesses"/>
+		<term name="Fishes"/>
+		<term name="Government information and archives"/>
+		<term name="International law and treaties"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/2/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Shark Conservation Act of 2009 - Amends the High Seas Driftnet Fishing Moratorium Protection Act to direct the Secretary of Commerce to list a nation in the biennial report on international compliance if the nation's fishing vessels are or have been engaged in fishing activities that target or incidentally catch sharks and the nation has not adopted a shark conservation program that is comparable, taking into account different conditions, to that of the United States, including measures to prohibit removal any of the fins of a shark (including the tail) and discarding the carcass of the shark at sea. Amends the Magnuson-Stevens Fishery Conservation and Management Act to revise provisions prohibiting the removal of shark fins to make it a prohibited act to: (1) remove any shark fin (including the tail) at sea; (2) have a fin aboard a fishing vessel unless the fin is naturally attached to the carcass; (3) transfer a fin from one vessel to another or receive a fin unless it is naturally attached; or (4) land a fin that is not naturally attached to a carcass or land a carcass without fins naturally attached. Revises the current rebuttable presumption provision concerning shark fins on fishing vessels to create a rebuttable presumption that, if any shark fin (including the tail) is aboard a non-fishing vessel without being naturally attached, the fin was transferred from a fishing vessel in violation.<br/>
+	</summary>
+</bill>

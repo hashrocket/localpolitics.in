@@ -1,0 +1,31 @@
+<bill session="110" type="s" number="1086" updated="2009-01-09T14:02:28-05:00">
+	<status><introduced date="1176264000" datetime="2007-04-11"/></status>
+
+	<introduced date="1176264000" datetime="2007-04-11"/>
+	<titles>
+		<title type="short" as="introduced">Cyber Safety for Kids Act of 2007</title>
+		<title type="official" as="introduced">A bill to provide stronger protections to parents regarding their children's access to sexually explicit material over the Internet.</title>
+	</titles>
+	<sponsor id="300005"/>
+	<cosponsors>
+		<cosponsor id="300080" joined="2007-04-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1176264000" datetime="2007-04-11"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/11/2007--Introduced.<br/>Cyber Safety for Kids Act of 2007 - Prohibits an operator of a commercial website from knowingly placing material that is harmful to minors on the website unless: (1) any page that is initially viewable does not include any such material; (2) access to the material is restricted to a specific set of individuals through an age verification requirement; and (3) the website's source code contains the content description tag assigned to the website by the National Telecommunications and Information Administration (NTIA). Requires he NTIA to develop a common content description tag that: (1) will warn and inform consumers regarding the presence of material that is harmful to minors; (2) will allow consumers to block or filter website access; and (3) is technologically capable of being embedded in the website's source code. Requires a website operator, when registering or re-registering a website, to provide to the Internet Corporation for Assigned Names and Numbers certain information, including the content description tag.<br/>
+	</summary>
+</bill>

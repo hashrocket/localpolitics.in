@@ -1,0 +1,67 @@
+<bill session="111" type="h" number="560" updated="2009-03-07T10:53:25-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Safe Prisons Communications Act of 2009</title>
+		<title type="official" as="introduced">To amend the Communications Act of 1934 to permit targeted interference with mobile radio services within prison facilities.</title>
+	</titles>
+	<sponsor id="400046"/>
+	<cosponsors>
+		<cosponsor id="412284" joined="2009-02-24"/>
+		<cosponsor id="400627" joined="2009-02-13"/>
+		<cosponsor id="400017" joined="2009-02-13"/>
+		<cosponsor id="400367" joined="2009-01-15"/>
+		<cosponsor id="400220" joined="2009-02-13"/>
+		<cosponsor id="412252" joined="2009-02-13"/>
+		<cosponsor id="400381" joined="2009-01-15"/>
+		<cosponsor id="412216" joined="2009-02-13"/>
+		<cosponsor id="400655" joined="2009-02-13"/>
+		<cosponsor id="400320" joined="2009-02-13"/>
+		<cosponsor id="400026" joined="2009-02-03"/>
+		<cosponsor id="400151" joined="2009-02-13"/>
+		<cosponsor id="400643" joined="2009-02-23"/>
+		<cosponsor id="412010" joined="2009-02-13"/>
+		<cosponsor id="412230" joined="2009-02-13"/>
+		<cosponsor id="400005" joined="2009-02-13"/>
+		<cosponsor id="412256" joined="2009-03-03"/>
+		<cosponsor id="400077" joined="2009-02-13"/>
+		<cosponsor id="400049" joined="2009-02-13"/>
+		<cosponsor id="400016" joined="2009-02-13"/>
+		<cosponsor id="400040" joined="2009-02-13"/>
+		<cosponsor id="400032" joined="2009-02-13"/>
+		<cosponsor id="400651" joined="2009-02-13"/>
+		<cosponsor id="400182" joined="2009-02-13"/>
+		<cosponsor id="400029" joined="2009-02-13"/>
+		<cosponsor id="400652" joined="2009-01-15"/>
+		<cosponsor id="400055" joined="2009-02-13"/>
+		<cosponsor id="400011" joined="2009-02-04"/>
+		<cosponsor id="412191" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House Judiciary</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="251" />
+	</relatedbills>
+	<subjects>
+		<term name="Science, technology, communications"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Correctional facilities and imprisonment"/>
+		<term name="Federal Communications Commission (FCC)"/>
+		<term name="Government information and archives"/>
+		<term name="Telephone and wireless communication"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Safe Prisons Communications Act of 2009 - Amends the Communications Act of 1934 to authorize the director of the Federal Bureau of Prisons or the chief executive officer of a state to petition the Federal Communications Commission (FCC) to permit the installation of devices to prevent, jam, or interfere with wireless communications within the geographic boundaries of a specific prison, penitentiary, or correctional facility under his or her jurisdiction. Requires that the device be operated on a directional basis, using all other interference-limiting capabilities available to the device, or otherwise so that the device does not interfere with wireless communications that originate and terminate outside the area of the prison, penitentiary, or correctional facility. Requires the FCC to adopt a final rule establishing criteria for certification for the manufacture, sale, importation, and interstate shipment of such devices.<br/>
+	</summary>
+</bill>

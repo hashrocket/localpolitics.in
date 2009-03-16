@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="236" updated="2009-01-08T17:13:28-05:00">
+	<status><vote date="1196914980" datetime="2007-12-05T12:23:00-05:00" where="h" result="pass" how="roll" roll="1130"/></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="short" as="introduced">North Bay Water Reuse Program Act of 2007</title>
+		<title type="short" as="reported to house">North Bay Water Reuse Program Act of 2007</title>
+		<title type="short" as="passed house">North Bay Water Reuse Program Act of 2007</title>
+		<title type="short" as="reported to senate">North Bay Water Reuse Program Act of 2007</title>
+		<title type="official" as="introduced">To authorize the Secretary of the Interior to create a Bureau of Reclamation partnership with the North Bay Water Reuse Authority and other regional partners to achieve objectives relating to water supply, water quality, and environmental restoration.</title>
+	</titles>
+	<sponsor id="400403"/>
+	<cosponsors>
+		<cosponsor id="400436" joined="2007-01-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1170824400" datetime="2007-02-07"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1179374400" datetime="2007-05-17"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1192507200" datetime="2007-10-16"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1192507200" datetime="2007-10-16"><text>Forwarded by Subcommittee to Full Committee Without Recommendation (Amended) by Unanimous Consent .</text></action>
+		<action date="1195102800" datetime="2007-11-15"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1195102800" datetime="2007-11-15" ><text>Ordered to be Reported (Amended) by Unanimous Consent.</text></calendar>
+		<action date="1196793060" datetime="2007-12-04T14:31:00-05:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-458.</text></action>
+		<calendar number="282" date="1196793060" datetime="2007-12-04T14:31:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 282.</text></calendar>
+		<action date="1196793660" datetime="2007-12-04T14:41:00-05:00"><text>Mrs. Napolitano moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1196793720" datetime="2007-12-04T14:42:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H14095-14096"/></action>
+		<action date="1196793720" datetime="2007-12-04T14:42:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 236.</text></action>
+		<action date="1196793840" datetime="2007-12-04T14:44:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1196914560" datetime="2007-12-05T12:16:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H14172"/></action>
+		<vote date="1196914980" how="roll" roll="1130" datetime="2007-12-05T12:23:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 358 - 55 (Roll no. 1130). (text: CR 12/4/2007 H14095-14096)</text></vote>
+		<action date="1196917200" datetime="2007-12-06"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<calendar date="1221105600" datetime="2008-09-11" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1221537600" datetime="2008-09-16"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="1010" date="1221537600" datetime="2008-09-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1010.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/16/2008--Reported to Senate without amendment. (This measure has not been amended since it was passed by the House on December 5, 2007. The summary of that version is repeated here.) North Bay Water Reuse Program Act of 2007 - Amends the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior, contingent upon a finding of feasibility and acting through a cooperative agreement with the state of California or a subdivision thereof, to enter into cooperative agreements with eligible entities in the North San Pablo Bay watershed located in Marin, Napa, Solano, and Sonoma Counties for the planning, design, and construction of water reclamation and reuse facilities and recycled water conveyance and distribution systems. Directs the Secretary and such an entity to use the design work and environmental evaluations initiated by non-federal entities and the Corps of Engineers in that watershed to the maximum extent practicable.<br/>Requires any such cooperative agreement to require the program to be carried out in two phases, during which the Secretary and an entity shall complete the planning, design, and construction of: (1) the main treatment and main conveyance systems; and (2) the sub-regional distribution systems.<br/>Limits the federal share to 25% of the total cost of the first phase of the project. Allows the non-federal share to be in the form of in-kind services that the Secretary determines would contribute substantially toward the completion of the water reclamation and reuse project. Prohibits the Secretary from providing funds for operation and maintenance of the project. Authorizes appropriations.<br/>
+	</summary>
+</bill>

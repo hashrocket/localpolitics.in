@@ -1,0 +1,44 @@
+<bill session="110" type="s" number="2088" updated="2009-01-09T16:10:30-05:00">
+	<status><introduced date="1190692800" datetime="2007-09-25"/></status>
+
+	<introduced date="1190692800" datetime="2007-09-25"/>
+	<titles>
+		<title type="short" as="introduced">National Security Letter Reform Act of 2007</title>
+		<title type="short" as="introduced">NSL Reform Act of 2007</title>
+		<title type="official" as="introduced">A bill to place reasonable limitations on the use of National Security Letters, and for other purposes.</title>
+	</titles>
+	<sponsor id="300042"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="2007-10-17"/>
+		<cosponsor id="300009" joined="2007-09-26"/>
+		<cosponsor id="300059" joined="2007-12-05"/>
+		<cosponsor id="400619" joined="2007-09-25"/>
+		<cosponsor id="300038" joined="2007-09-25"/>
+		<cosponsor id="300075" joined="2007-09-25"/>
+		<cosponsor id="300050" joined="2007-09-25"/>
+		<cosponsor id="300095" joined="2007-09-25"/>
+		<cosponsor id="400629" joined="2007-09-26"/>
+		<cosponsor id="400357" joined="2007-12-03"/>
+		<cosponsor id="412244" joined="2007-10-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1190692800" datetime="2007-09-25"><text>Sponsor introductory remarks on measure. (CR S12056-12057)</text></action>
+		<action date="1190692800" datetime="2007-09-25"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S12057-12063"/></action>
+		<action date="1208923200" datetime="2008-04-23"><text>Committee on the Judiciary. Hearings held.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/25/2007--Introduced.<br/>National Security Letter Reform Act of 2007 or the NSL Reform Act of 2007 - Amends the federal criminal code, the Right to Financial Privacy Act of 1978, and the Fair Credit Reporting Act to establish new criteria for the use of National Security Letters issued by the Federal Bureau of Investigation (FBI) to wire or electronic communications service providers, financial institutions, and consumer credit reporting agencies for the production of specified records and information about customers or subscribers. Allows the issuance of a National Security Letter only where: (1) the records sought relate to an ongoing, authorized and specifically identified national security investigation (other than a threat assessment); and (2) there are specific and articulable facts for believing that such records pertain to a suspected agent of a foreign power and such agent's activities. Requires the Attorney General to establish minimization and destruction procedures for the disclosure and disposal of information and records received by the FBI in response to a National Security Letter.<br/>Revises criteria for judicial review of nondisclosure orders applicable to recipients of National Security Letters.<br/>Amends the USA Patriot Act to require expanded public disclosure of the number and types of National Security Letter requests for information. Terminates as of December 31, 2009, certain authorities for issuing National Security Letters. Amends the Foreign Intelligence Surveillance Act of 1978 (FISA) to revise procedures for, and judicial review of, access to business records in national security investigations.<br/>Directs the Department of Justice (DOJ) to establish a secure electronic system for the submission of documents and other information to courts established under FISA.<br/>Expands protections for communications service providers, financial institutions, and consumer reporting agencies that disclose subscriber or customer identifying information to a government authority when such entity reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure without delay. Requires the Attorney General to issue guidelines for using the least intrusive means of collecting sensitive information in national security investigations.<br/>
+	</summary>
+</bill>

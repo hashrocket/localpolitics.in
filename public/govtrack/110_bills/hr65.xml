@@ -1,0 +1,37 @@
+<bill session="110" type="hr" number="65" updated="2009-01-09T08:01:58-05:00">
+	<status><vote date="1169054160" datetime="2007-01-17T13:16:00-05:00" where="h" result="pass" how="roll" roll="30"/></status>
+
+	<introduced date="1168923600" datetime="2007-01-16"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 5) to amend the Higher Education Act of 1965 to reduce interest rates for student borrowers.</title>
+	</titles>
+	<sponsor id="400663"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1168995840" datetime="2007-01-16T21:04:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-1, by Ms. Matsui.</text></action>
+		<action date="1168995840" datetime="2007-01-16T21:04:00-05:00"><text>Rule provides for consideration of H.R. 5 with 3 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text></action>
+		<calendar date="1168995840" datetime="2007-01-16T21:04:00-05:00" ><text>Placed on the House Calendar, Calendar No. 1.</text></calendar>
+		<action date="1169047440" datetime="2007-01-17T11:24:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H588-594"/></action>
+		<action date="1169047500" datetime="2007-01-17T11:25:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 65.</text></action>
+		<action date="1169096340" datetime="2007-01-17T12:59:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H596-597"/></action>
+		<action date="1169053620" datetime="2007-01-17T13:07:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 225 - 191 (Roll no. 29).</text><reference label="consideration" ref="CR H596"/></action>
+		<vote date="1169054160" how="roll" roll="30" datetime="2007-01-17T13:16:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by recorded vote: 223 - 190 (Roll no. 30).</text><reference label="text" ref="CR H588"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/17/2007--Passed House without amendment. Sets forth the rule for consideration of H.R. 5 (College Student Relief Act of 2007). 
+	</summary>
+</bill>

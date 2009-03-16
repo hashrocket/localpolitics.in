@@ -1,0 +1,35 @@
+<bill session="111" type="s" number="274" updated="2009-03-07T14:06:27-05:00">
+	<status><introduced date="1232082000" datetime="2009-01-16"/></status>
+
+	<introduced date="1232082000" datetime="2009-01-16"/>
+	<titles>
+		<title type="short" as="introduced">Veterans Jobs Opportunity Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide an incentive to hire unemployed veterans.</title>
+	</titles>
+	<sponsor id="300005"/>
+	<cosponsors>
+		<cosponsor id="412244" joined="2009-01-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1232082000" datetime="2009-01-16"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="620" />
+		<bill relation="unknown" session="111" type="h" number="931" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax credits"/>
+		<term name="Unemployment"/>
+		<term name="Veterans' education, employment, rehabilitation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/16/2009--Introduced.<br/>Veterans Jobs Opportunity Act of 2009 - Amends the Internal Revenue Code to allow a work opportunity tax credit for the hiring in 2009 or 2010 of unemployed veterans discharged from active duty during 2008, 2009, or 2010.<br/>
+	</summary>
+</bill>

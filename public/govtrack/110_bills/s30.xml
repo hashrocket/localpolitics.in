@@ -1,0 +1,45 @@
+<bill session="110" type="s" number="30" updated="2009-01-09T11:11:13-05:00">
+	<status><vote date="1176264000" datetime="2007-04-11" where="s" result="pass" how="roll" roll="128"/></status>
+
+	<introduced date="1175140800" datetime="2007-03-29"/>
+	<titles>
+		<title type="short" as="introduced">HOPE Act</title>
+		<title type="short" as="introduced">Hope Offered through Principled and Ethical Stem Cell Research Act</title>
+		<title type="short" as="passed senate">HOPE Act</title>
+		<title type="short" as="passed senate">Hope Offered through Principled and Ethical Stem Cell Research Act</title>
+		<title type="official" as="introduced">A bill to intensify research to derive human pluripotent stem cell lines.</title>
+	</titles>
+	<sponsor id="300024"/>
+	<cosponsors>
+		<cosponsor id="400576" joined="2007-04-10"/>
+		<cosponsor id="300027" joined="2007-04-10"/>
+		<cosponsor id="300021" joined="2007-04-10"/>
+		<cosponsor id="400054" joined="2007-04-10"/>
+		<cosponsor id="400194" joined="2007-03-29"/>
+		<cosponsor id="300072" joined="2007-04-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1175140800" datetime="2007-03-29"><text>Introduced in the Senate and read twice and ordered held at desk.</text></action>
+		<action date="1176177600" datetime="2007-04-10"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S4237-4294"/></action>
+		<action date="1176264000" datetime="2007-04-11"><text>Considered by Senate.</text><reference label="consideration" ref="CR S4319-4371, S4386-4391"/></action>
+		<vote date="1176264000" how="roll" roll="128" datetime="2007-04-11" where="s" type="vote" result="pass" ><text>Passed Senate, having acquired the 60 votes required under unanimous consent, without amendment by Yea-Nay Vote. 70 - 28. Record Vote Number: 128.</text><reference label="text as passed Senate" ref="CR S4390-4391"/></vote>
+		<action date="1176350400" datetime="2007-04-12"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1176743100" datetime="2007-04-16T14:05:00-04:00"><text>Received in the House.</text></action>
+		<action date="1176696000" datetime="2007-04-16"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/11/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Hope Offered through Principled and Ethical Stem Cell Research Act or the HOPE Act - (Sec. 3) Amends the Public Health Service Act to require the Secretary of Health and Human Services to develop techniques for the isolation, derivation, production, or testing of stem cells, including pluripotent stem cells that have the flexibility of embryonic stem cells (whether or not they have an embryonic source), that may result in improved understanding of or treatments for diseases and other adverse health conditions, provided that such techniques do not involve: (1) the creation of a human embryo or embryos for research purposes; or (2) the destruction or discarding of, or risk of injury to, a human embryo of embryos other than those that are naturally dead. Requires the Secretary to: (1) provide guidance concerning the next steps required for additional research; (2) prioritize research with the greatest potential for near-term clinical benefits; (3) take into account techniques outlined by the President's Council on Bioethics and any other appropriate techniques and research; and (4) require assurances from grant applicants, in the case of research involving stem cells from a naturally dead embryo, that no alteration of the timing, methods, or procedures used to create, maintain, or intervene in the development of a human embryo was made solely for the purpose of deriving the stem cells. Sets forth reporting requirements. Authorizes appropriations. (Sec. 4) Directs the Secretary to enter into a contract with the Institute of Medicine to conduct a study to: (1) recommend an optimal structure for an amniotic and placental stem cell bank program; and (2) address pertinent issues to maximize the potential of such technology.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="835" updated="2009-03-07T11:26:21-05:00">
+	<status><introduced date="1233637200" datetime="2009-02-03"/></status>
+
+	<introduced date="1233637200" datetime="2009-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Dollar Bill Act of 2009</title>
+		<title type="official" as="introduced">To stimulate the economy and provide for a sound United States dollar by defining a value for the dollar, and for other purposes.</title>
+	</titles>
+	<sponsor id="400652"/>
+	<cosponsors>
+		<cosponsor id="400141" joined="2009-02-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to the Committee on Financial Services, and in addition to the Committees on Ways and Means, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to House Financial Services</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to House Ways and Means</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to House Budget</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Budget" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

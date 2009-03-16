@@ -1,0 +1,46 @@
+<bill session="110" type="sr" number="146" updated="2009-01-09T20:16:38-05:00">
+	<status><vote date="1177992000" datetime="2007-05-01" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1176350400" datetime="2007-04-12"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating June 20, 2007, as &quot;American Eagle Day&quot;, and celebrating the recovery and restoration of the American bald eagle, the national symbol of the United States.</title>
+	</titles>
+	<sponsor id="300002"/>
+	<cosponsors>
+		<cosponsor id="300059" joined="2007-04-12"/>
+		<cosponsor id="300011" joined="2007-04-12"/>
+		<cosponsor id="300030" joined="2007-04-26"/>
+		<cosponsor id="300024" joined="2007-04-12"/>
+		<cosponsor id="300087" joined="2007-04-25"/>
+		<cosponsor id="300092" joined="2007-04-26"/>
+		<cosponsor id="300016" joined="2007-04-12"/>
+		<cosponsor id="300003" joined="2007-04-12"/>
+		<cosponsor id="300048" joined="2007-05-01"/>
+		<cosponsor id="300063" joined="2007-04-16"/>
+		<cosponsor id="412248" joined="2007-04-12"/>
+		<cosponsor id="300043" joined="2007-04-12"/>
+		<cosponsor id="300049" joined="2007-04-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1176350400" datetime="2007-04-12"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S4451-44552"/></action>
+		<calendar date="1177473600" datetime="2007-04-25" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1177473600" datetime="2007-04-25"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="123" date="1177473600" datetime="2007-04-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 123.</text></calendar>
+		<vote date="1177992000" how="by Unanimous Consent" datetime="2007-05-01" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S5437"/><reference label="text as passed Senate" ref="CR S5437"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/1/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.)<br/>Designates June 20, 2007, as American Eagle Day.<br/>Encourages educational entities, organizations, businesses, conservation groups, and government agencies with a shared interest in conserving endangered species to collaborate on education information for use in schools.<br/>
+	</summary>
+</bill>

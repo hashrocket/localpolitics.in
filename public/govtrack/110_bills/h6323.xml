@@ -1,0 +1,48 @@
+<bill session="110" type="h" number="6323" updated="2009-01-09T05:54:37-05:00">
+	<status><vote date="1222300680" datetime="2008-09-24T20:58:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1213848000" datetime="2008-06-19"/>
+	<titles>
+		<title type="short" as="reported to house">Heavy Duty Hybrid Vehicle Research, Development, and Demonstration Act of 2008</title>
+		<title type="official" as="introduced">To establish a research, development, demonstration, and commercial application program to promote research of appropriate technologies for heavy duty plug-in hybrid vehicles, and for other purposes.</title>
+	</titles>
+	<sponsor id="400365"/>
+	<cosponsors>
+		<cosponsor id="400280" joined="2008-07-15"/>
+		<cosponsor id="400381" joined="2008-06-19"/>
+		<cosponsor id="400027" joined="2008-06-19"/>
+		<cosponsor id="400660" joined="2008-07-15"/>
+		<cosponsor id="400119" joined="2008-06-19"/>
+		<cosponsor id="400108" joined="2008-06-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1213848000" datetime="2008-06-19"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1216267200" datetime="2008-07-17" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1221599400" datetime="2008-09-16T18:10:00-04:00"><text>Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-855.</text></action>
+		<calendar number="553" date="1221599460" datetime="2008-09-16T18:11:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 553.</text></calendar>
+		<action date="1222110360" datetime="2008-09-22T16:06:00-04:00"><text>Ms. Edwards (MD) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1222110360" datetime="2008-09-22T16:06:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8539-8541"/></action>
+		<action date="1222110360" datetime="2008-09-22T16:06:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6323.</text></action>
+		<action date="1222111140" datetime="2008-09-22T16:19:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Hall (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1222300680" datetime="2008-09-24T20:58:00-04:00"><text>Considered as unfinished business.</text></action>
+		<vote date="1222300680" how="by voice vote" datetime="2008-09-24T20:58:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/22/2008 H8539-8540)</text></vote>
+		<action date="1222315200" datetime="2008-09-25"><text>Received in the Senate.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/16/2008--Reported to House amended. Heavy Duty Hybrid Vehicle Research, Development, and Demonstration Act of 2008 - (Sec. 2) Directs the Secretary of Energy to establish a competitive research, development, demonstration, and commercial application program to provide between three and seven grants of up to $3 million per year each to applicants to carry out projects to advance research and development and to demonstrate technologies, including plug-in hybrid technology, for advanced heavy duty hybrid vehicles. Requires each grant recipient shall be required to complete two phases: (1) phase one, research and demonstration of advanced hybrid technology by producing or retrofitting one or more advanced heavy duty hybrid vehicles; and (2) phase two, demonstration of advanced manufacturing processes and technologies by producing or retrofitting 50 advanced heavy duty hybrid vehicles. Directs the Secretary to: (1) conduct research into alternative power train designs for use in advanced heavy duty hybrid vehicles; and (2) establish a pilot program through the National Laboratories and Technology Centers of the Department of Energy to research and test the effects on the domestic electric power grid of the widespread use of plug-in hybrid vehicles, including plug-in hybrid vehicles that are advanced heavy duty hybrid vehicles. Authorizes appropriations for FY2009-FY2011. (Sec. 3) Amends the United States Energy Storage Competitiveness Act of 2007 to direct the Secretary to conduct an applied research program on energy storage systems to support vehicles with a gross weight over 16,000 pounds.<br/>
+	</summary>
+</bill>

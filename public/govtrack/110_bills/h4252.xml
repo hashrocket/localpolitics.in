@@ -1,0 +1,41 @@
+<bill session="110" type="h" number="4252" updated="2009-01-09T01:42:45-05:00">
+	<status><enacted date="1197608400" datetime="2007-12-14" /></status>
+
+	<introduced date="1196744400" datetime="2007-12-04"/>
+	<titles>
+		<title type="official" as="introduced">To provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958 through May 23, 2008, and for other purposes.</title>
+	</titles>
+	<sponsor id="400071"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1196744400" datetime="2007-12-04"><text>Referred to the House Committee on Small Business.</text></action>
+		<action date="1196889000" datetime="2007-12-05T17:10:00-05:00"><text>Ms. Velazquez moved to suspend the rules and pass the bill.</text></action>
+		<action date="1196889000" datetime="2007-12-05T17:10:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H14223-14224"/></action>
+		<action date="1196889000" datetime="2007-12-05T17:10:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4252.</text></action>
+		<vote date="1196889420" how="by voice vote" datetime="2007-12-05T17:17:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H14223"/></vote>
+		<action date="1196917200" datetime="2007-12-06"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1197003600" how="by Unanimous Consent" datetime="2007-12-07" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S15037"/></vote>
+		<action date="1197003600" datetime="2007-12-07"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1197003600" datetime="2007-12-07" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1197522000" datetime="2007-12-13" ><text>Presented to President.</text></topresident>
+		<signed date="1197608400" datetime="2007-12-14" ><text>Signed by President.</text></signed>
+		<enacted number="110-136" date="1197608400" datetime="2007-12-14" type="public" ><text>Became Public Law No: 110-136.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/14/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Extends through May 23, 2008, under the same terms and conditions, the authorization for any program, authority, or provision, including any pilot program, that is currently authorized through December 15, 2007, under the Small Business Act or the Small Business Investment Act of 1958.<br/>
+	</summary>
+</bill>

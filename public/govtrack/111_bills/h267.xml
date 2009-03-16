@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="267" updated="2009-03-07T10:19:04-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Expanding Tax Assistance Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to expand the availability of the Internal Revenue Service's Taxpayer Assistance Centers.</title>
+	</titles>
+	<sponsor id="400204"/>
+	<cosponsors>
+		<cosponsor id="400178" joined="2009-01-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Department of the Treasury"/>
+		<term name="Financial services and investments"/>
+		<term name="Government buildings, facilities, and property"/>
+		<term name="Government information and archives"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+		<term name="Tax administration and collection, taxpayers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Expanding Tax Assistance Act of 2009 - Amends the Internal Revenue Code to direct the Secretary of the Treasury, subject to available funding, to expand Taxpayer Assistance Centers with the goal of providing at least one Center in each congressional district. Authorizes the use of volunteers and private contractors and grants to accomplish the expansion of such Centers. 
+	</summary>
+</bill>

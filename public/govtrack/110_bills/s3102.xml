@@ -1,0 +1,33 @@
+<bill session="110" type="s" number="3102" updated="2009-01-09T18:20:03-05:00">
+	<status><introduced date="1212984000" datetime="2008-06-09"/></status>
+
+	<introduced date="1212984000" datetime="2008-06-09"/>
+	<titles>
+		<title type="short" as="introduced">Small Business Information Security Act of 2008</title>
+		<title type="official" as="introduced">A bill to establish the Small Business Information Security Task Force, and for other purposes.</title>
+	</titles>
+	<sponsor id="300091"/>
+	<cosponsors>
+		<cosponsor id="300060" joined="2008-06-09"/>
+		<cosponsor id="400194" joined="2008-10-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1212984000" datetime="2008-06-09"><text>Sponsor introductory remarks on measure. (CR S5391)</text></action>
+		<action date="1212984000" datetime="2008-06-09"><text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text><reference label="text of measure as introduced" ref="CR S5391-5392"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/9/2008--Introduced.<br/>Small Business Information Security Act of 2008 - Directs the Administrator of the Small Business Administration (SBA) to establish the Small Business Information Security Task Force to address the information technology security needs of small businesses. Requires the Task Force, among other duties, to make recommendations to the Administrator on the establishment of an Internet website to be used by the SBA to receive and dispense information and resources with respect to such needs.<br/>
+	</summary>
+</bill>

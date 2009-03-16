@@ -1,0 +1,49 @@
+<bill session="111" type="h" number="345" updated="2009-03-07T10:28:09-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to increase the standard mileage rate for charitable purposes to the standard mileage rate established by the Secretary of the Treasury for business purposes.</title>
+	</titles>
+	<sponsor id="400321"/>
+	<cosponsors>
+		<cosponsor id="400663" joined="2009-02-09"/>
+		<cosponsor id="400648" joined="2009-02-13"/>
+		<cosponsor id="400280" joined="2009-02-13"/>
+		<cosponsor id="412227" joined="2009-02-25"/>
+		<cosponsor id="412272" joined="2009-02-13"/>
+		<cosponsor id="400039" joined="2009-02-25"/>
+		<cosponsor id="400259" joined="2009-02-25"/>
+		<cosponsor id="400162" joined="2009-02-13"/>
+		<cosponsor id="400346" joined="2009-02-25"/>
+		<cosponsor id="400655" joined="2009-02-13"/>
+		<cosponsor id="400380" joined="2009-02-09"/>
+		<cosponsor id="400326" joined="2009-02-09"/>
+		<cosponsor id="412228" joined="2009-02-13"/>
+		<cosponsor id="400318" joined="2009-01-26"/>
+		<cosponsor id="400055" joined="2009-02-25"/>
+		<cosponsor id="400425" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax deductions"/>
+		<term name="Motor vehicles"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+		<term name="Transportation costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Amends the Internal Revenue Code to increase the standard mileage rate for the tax deduction for the charitable use of passenger automobiles from 14 cents per mile to the standard mileage rate prescribed by the Secretary of the Treasury for business purposes (55 cents per mile in 2009).<br/>
+	</summary>
+</bill>

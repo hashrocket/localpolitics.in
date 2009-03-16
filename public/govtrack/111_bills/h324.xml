@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="324" updated="2009-03-07T10:25:34-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">Santa Cruz Valley National Heritage Area Act</title>
+		<title type="official" as="introduced">To establish the Santa Cruz Valley National Heritage Area, and for other purposes.</title>
+	</titles>
+	<sponsor id="400162"/>
+	<cosponsors>
+		<cosponsor id="412188" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Arizona"/>
+		<term name="Historic sites and heritage areas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Santa Cruz Valley National Heritage Area Act - Establishes the Santa Cruz Valley National Heritage Area in Arizona. Requires the Santa Cruz Valley Heritage Alliance, Inc. as the local coordinating entity for the Area, to prepare and submit a management plan for such Area. 
+	</summary>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="111" type="s" number="73" updated="2009-03-07T13:40:52-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Systematic Foreclosure Prevention and Mortgage Modification Act</title>
+		<title type="official" as="introduced">A bill to establish a systematic mortgage modification program at the Federal Deposit Insurance Corporation, and for other purposes.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR S72-73)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text><reference label="text of measure as introduced" ref="CR S73-74"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="37" />
+	</relatedbills>
+	<subjects>
+		<term name="Housing and community development"/>
+		<term name="Housing and community development funding"/>
+		<term name="Housing finance and home ownership"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Systematic Foreclosure Prevention and Mortgage Modification Act - Directs the Chairperson of the Federal Deposit Insurance Corporation (FDIC) to establish a systematic foreclosure prevention and mortgage modification program by: (1) paying mortgage servicers $1,000 to cover expenses for each loan modified according to specified standards; and (2) sharing up to 50% of any losses incurred if a modified loan should subsequently re-default.<br/>
+	</summary>
+</bill>

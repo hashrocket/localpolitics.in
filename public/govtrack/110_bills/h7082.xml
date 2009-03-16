@@ -1,0 +1,46 @@
+<bill session="110" type="h" number="7082" updated="2009-01-09T07:23:50-05:00">
+	<status><enacted date="1224043200" datetime="2008-10-15" /></status>
+
+	<introduced date="1222315200" datetime="2008-09-25"/>
+	<titles>
+		<title type="short" as="introduced">Inmate Tax Fraud Prevention Act of 2008</title>
+		<title type="short" as="passed house">Inmate Tax Fraud Prevention Act of 2008</title>
+		<title type="short" as="enacted">Inmate Tax Fraud Prevention Act of 2008</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to permit the Secretary of the Treasury to disclose certain prisoner return information to the Federal Bureau of Prisons.</title>
+		<title type="official" as="amended by house">To amend the Internal Revenue Code of 1986 to permit the Secretary of the Treasury to disclose certain prisoner return information to the Federal Bureau of Prisons, and for other purposes.</title>
+	</titles>
+	<sponsor id="400332"/>
+	<cosponsors>
+		<cosponsor id="400240" joined="2008-09-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1222315200" datetime="2008-09-25"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action date="1222537800" datetime="2008-09-27T14:50:00-04:00"><text>Mr. Lewis (GA) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1222537800" datetime="2008-09-27T14:50:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10199-10200"/></action>
+		<action date="1222537800" datetime="2008-09-27T14:50:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 7082.</text></action>
+		<vote date="1222538280" how="by voice vote" datetime="2008-09-27T14:58:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H10199"/></vote>
+		<action date="1222538280" datetime="2008-09-27T14:58:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1222660800" datetime="2008-09-29"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1222920000" how="by Unanimous Consent" datetime="2008-10-02" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10405"/></vote>
+		<action date="1222920000" datetime="2008-10-02"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1222920000" datetime="2008-10-02" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1223265600" datetime="2008-10-06" ><text>Presented to President.</text></topresident>
+		<signed date="1224043200" datetime="2008-10-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-428" date="1224043200" datetime="2008-10-15" type="public" ><text>Became Public Law No: 110-428.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/15/2008--Public Law. (This measure has not been amended since it was passed by the House on September 27, 2008. The summary of that version is repeated here.)<br/>Inmate Tax Fraud Prevention Act of 2008 - Amends the Internal Revenue Code to authorize the Secretary of the Treasury to disclose to the head of the Federal Bureau of Prisons tax return information of prisoners whom the Secretary has determined may have filed or facilitated the filing of a false tax return. Prohibits the head of the Federal Bureau of Prisons from disclosing any prisoner tax return information to any person other than an officer or employee of such Bureau. Restricts the use of such tax return information to preventing the filing of false and fraudulent tax returns. Terminates such disclosure authority after December 31, 2011. Imposes recordkeeping and reporting requirements on the Bureau with respect to disclosures of prisoner tax return information. Requires the Secretary to submit an annual report to Congress on the filing of false and fraudulent tax returns by federal and state prisoners and to make such reports available to the public.<br/>Requires the Treasury Inspector General for Tax Administration to submit a written report to Congress by December 31, 2010, on the implementation of the authority to disclose prisoner tax return information.<br/>Amends the federal judicial code with respect to certain widows and widowers whose judicial survivors' annuities are terminated on account of remarriage before age 55. Requires restoration of such benefits, at the same rate, upon the dissolution of the remarriage by death, divorce, or annulment, if specified requirements are met.<br/>
+	</summary>
+</bill>

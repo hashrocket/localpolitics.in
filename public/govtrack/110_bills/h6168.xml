@@ -1,0 +1,46 @@
+<bill session="110" type="h" number="6168" updated="2009-01-09T05:36:35-05:00">
+	<status><vote date="1220996700" datetime="2008-09-09T18:45:00-04:00" where="h" result="pass" how="roll" roll="574"/></status>
+
+	<introduced date="1212465600" datetime="2008-06-03"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 112 South 5th Street in Saint Charles, Missouri, as the &quot;Lance Corporal Drew W. Weaver Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400005"/>
+	<cosponsors>
+		<cosponsor id="400034" joined="2008-06-25"/>
+		<cosponsor id="400377" joined="2008-07-09"/>
+		<cosponsor id="400121" joined="2008-06-11"/>
+		<cosponsor id="400158" joined="2008-06-11"/>
+		<cosponsor id="400074" joined="2008-06-24"/>
+		<cosponsor id="400638" joined="2008-06-12"/>
+		<cosponsor id="400639" joined="2008-06-26"/>
+		<cosponsor id="400190" joined="2008-06-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1212465600" datetime="2008-06-03"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1216180800" datetime="2008-07-16" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1220979660" datetime="2008-09-09T14:01:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1220979660" datetime="2008-09-09T14:01:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7884-7885"/></action>
+		<action date="1220979660" datetime="2008-09-09T14:01:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6168.</text></action>
+		<action date="1220980020" datetime="2008-09-09T14:07:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1220996280" datetime="2008-09-09T18:38:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7928-7929"/></action>
+		<vote date="1220996700" how="roll" roll="574" datetime="2008-09-09T18:45:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 574).</text><reference label="text" ref="CR H7884"/></vote>
+		<action date="1221019200" datetime="2008-09-10"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/3/2008--Introduced.<br/>Designates the facility of the United States Postal Service located at 112 South 5th Street in Saint Charles, Missouri, as the &quot;Lance Corporal Drew W. Weaver Post Office Building.&quot;<br/>
+	</summary>
+</bill>

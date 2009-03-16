@@ -1,0 +1,37 @@
+<bill session="111" type="s" number="24" updated="2009-03-07T13:35:07-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Strengthen the Earned Income Tax Credit Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to strengthen the earned income tax credit.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+		<cosponsor id="300084" joined="2009-01-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Sponsor introductory remarks on measure. (CR S172-173)</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="536" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax credits"/>
+		<term name="Marriage and family status"/>
+		<term name="Poverty and welfare assistance"/>
+		<term name="Tax treatment of families"/>
+		<term name="Wages and earnings"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Strengthen the Earned Income Tax Credit Act of 2009 - Amends the Internal Revenue Code to: (1) make permanent the reduction in the marriage penalty applicable to the earned income tax credit; (2) increase the rate of such credit for families with three or more children and for individuals without children; (3) modify earned income tax credit requirements relating to abandoned spouses and qualifying children; and (4) repeal provisions denying such credit for individuals with excessive investment income.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="111" type="hr" number="59" updated="2009-03-07T13:12:52-05:00">
+	<status><vote date="1231993560" datetime="2009-01-14T12:26:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="official" as="introduced">Electing a minority member to a standing committee.</title>
+	</titles>
+	<sponsor id="400315"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231993500" datetime="2009-01-14T12:25:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H216"/></action>
+		<vote date="1231993560" how="by voice vote" datetime="2009-01-14T12:26:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H216"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional committees"/>
+		<term name="House Committee on Rules"/>
+		<term name="House of Representatives"/>
+		<term name="Members of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/14/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Elects a certain named Minority Member to the House Committee on Rules.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="405" updated="2009-03-07T10:35:18-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Lower Colorado River Multi-Species Conservation Program Act</title>
+		<title type="official" as="introduced">To authorize appropriations for the Bureau of Reclamation to carry out the Lower Colorado River Multi-Species Conservation Program in the States of Arizona, California, and Nevada, and for other purposes.</title>
+	</titles>
+	<sponsor id="412218"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on Water and Power.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Water and Power" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Arizona"/>
+		<term name="Colorado"/>
+		<term name="Lakes and rivers"/>
+		<term name="Nevada"/>
+		<term name="Water resources funding"/>
+		<term name="Water use and supply"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Lower Colorado River Multi-Species Conservation Program Act - Authorizes the Secretary of the Interior to: (1) participate in the Lower Colorado River Multi-Species Conservation Program; and (2) enter into an agreement with Arizona, California, and Nevada providing for the use of water from the Lower Colorado River for habitat creation and maintenance. 
+	</summary>
+</bill>

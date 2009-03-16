@@ -1,0 +1,102 @@
+<bill session="110" type="h" number="5395" updated="2009-01-09T04:04:57-05:00">
+	<status><enacted date="1216094400" datetime="2008-07-15" /></status>
+
+	<introduced date="1202792400" datetime="2008-02-12"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 11001 Dunklin Drive in St. Louis, Missouri, as the &quot;William 'Bill' Clay Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400638"/>
+	<cosponsors>
+		<cosponsor id="400034" joined="2008-03-06"/>
+		<cosponsor id="400073" joined="2008-03-06"/>
+		<cosponsor id="400199" joined="2008-02-12"/>
+		<cosponsor id="400227" joined="2008-03-06"/>
+		<cosponsor id="400364" joined="2008-03-06"/>
+		<cosponsor id="400616" joined="2008-03-04"/>
+		<cosponsor id="400092" joined="2008-03-05"/>
+		<cosponsor id="400080" joined="2008-02-12"/>
+		<cosponsor id="400162" joined="2008-03-04"/>
+		<cosponsor id="412221" joined="2008-03-06"/>
+		<cosponsor id="400333" joined="2008-03-05"/>
+		<cosponsor id="400295" joined="2008-03-06"/>
+		<cosponsor id="400271" joined="2008-03-06"/>
+		<cosponsor id="400170" joined="2008-03-04"/>
+		<cosponsor id="400424" joined="2008-03-06"/>
+		<cosponsor id="400198" joined="2008-03-06"/>
+		<cosponsor id="400196" joined="2008-03-06"/>
+		<cosponsor id="400423" joined="2008-03-05"/>
+		<cosponsor id="400409" joined="2008-03-06"/>
+		<cosponsor id="400384" joined="2008-02-12"/>
+		<cosponsor id="400377" joined="2008-02-12"/>
+		<cosponsor id="412208" joined="2008-03-05"/>
+		<cosponsor id="412226" joined="2008-03-06"/>
+		<cosponsor id="400249" joined="2008-03-06"/>
+		<cosponsor id="400030" joined="2008-02-12"/>
+		<cosponsor id="400312" joined="2008-02-12"/>
+		<cosponsor id="400402" joined="2008-02-12"/>
+		<cosponsor id="400082" joined="2008-02-12"/>
+		<cosponsor id="400121" joined="2008-02-12"/>
+		<cosponsor id="400048" joined="2008-03-06"/>
+		<cosponsor id="412199" joined="2008-03-04"/>
+		<cosponsor id="400270" joined="2008-03-06"/>
+		<cosponsor id="400346" joined="2008-03-04"/>
+		<cosponsor id="400237" joined="2008-03-06"/>
+		<cosponsor id="400140" joined="2008-02-12"/>
+		<cosponsor id="400422" joined="2008-02-12"/>
+		<cosponsor id="400653" joined="2008-03-05"/>
+		<cosponsor id="400251" joined="2008-03-05"/>
+		<cosponsor id="400350" joined="2008-02-12"/>
+		<cosponsor id="400217" joined="2008-03-06"/>
+		<cosponsor id="400021" joined="2008-02-12"/>
+		<cosponsor id="400074" joined="2008-02-12"/>
+		<cosponsor id="400005" joined="2008-02-12"/>
+		<cosponsor id="412186" joined="2008-03-06"/>
+		<cosponsor id="400093" joined="2008-02-12"/>
+		<cosponsor id="412212" joined="2008-03-06"/>
+		<cosponsor id="400201" joined="2008-03-04"/>
+		<cosponsor id="400090" joined="2008-03-06"/>
+		<cosponsor id="400208" joined="2008-03-06"/>
+		<cosponsor id="400240" joined="2008-02-12"/>
+		<cosponsor id="400438" joined="2008-03-04"/>
+		<cosponsor id="400363" joined="2008-03-06"/>
+		<cosponsor id="400639" joined="2008-02-12"/>
+		<cosponsor id="400190" joined="2008-03-04"/>
+		<cosponsor id="400656" joined="2008-03-06"/>
+		<cosponsor id="400075" joined="2008-03-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1202792400" datetime="2008-02-12"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1205380800" datetime="2008-03-13"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1205380800" datetime="2008-03-13" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1207751340" datetime="2008-04-09T11:29:00-04:00"><text>Mr. Clay moved to suspend the rules and pass the bill.</text></action>
+		<action date="1207751340" datetime="2008-04-09T11:29:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2086-2088"/></action>
+		<action date="1207751340" datetime="2008-04-09T11:29:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5395.</text></action>
+		<vote date="1207751940" how="by voice vote" datetime="2008-04-09T11:39:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H2086"/></vote>
+		<action date="1207800000" datetime="2008-04-10"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1210824000" datetime="2008-05-15"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+		<calendar date="1214366400" datetime="2008-06-25" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1214366400" datetime="2008-06-25"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="846" date="1214366400" datetime="2008-06-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 846.</text></calendar>
+		<vote date="1214539200" how="by Unanimous Consent" datetime="2008-06-27" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6331"/></vote>
+		<action date="1214539200" datetime="2008-06-27"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1214539200" datetime="2008-06-27" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1215662400" datetime="2008-07-10" ><text>Presented to President.</text></topresident>
+		<signed date="1216094400" datetime="2008-07-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-269" date="1216094400" datetime="2008-07-15" type="public" ><text>Became Public Law No: 110-269.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/15/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 11001 Dunklin Drive in St. Louis, Missouri, as the &quot;William 'Bill' Clay Post Office Building.&quot;<br/>
+	</summary>
+</bill>

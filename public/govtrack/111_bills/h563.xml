@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="563" updated="2009-03-07T10:53:46-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">SCHIP Expansion for Kids in Need Act of 2009</title>
+		<title type="official" as="introduced">To amend title XXI of the Social Security Act to require States to provide priority under the State Children's Health Insurance Program (SCHIP) to children in families with gross income below 200 percent of the Federal poverty level.</title>
+	</titles>
+	<sponsor id="400027"/>
+	<cosponsors>
+		<cosponsor id="400640" joined="2009-01-15"/>
+		<cosponsor id="400222" joined="2009-01-15"/>
+		<cosponsor id="400051" joined="2009-01-15"/>
+		<cosponsor id="400119" joined="2009-01-15"/>
+		<cosponsor id="400654" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Child health"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Poverty and welfare assistance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

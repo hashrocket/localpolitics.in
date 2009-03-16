@@ -1,0 +1,50 @@
+<bill session="111" type="h" number="553" updated="2009-03-07T10:52:37-05:00">
+	<status><vote date="1233692460" datetime="2009-02-03T16:21:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Reducing Over-Classification Act of 2009</title>
+		<title type="short" as="passed house">Reducing Over-Classification Act of 2009</title>
+		<title type="official" as="introduced">To require the Secretary of Homeland Security to develop a strategy to prevent the over-classification of homeland security and other information and to promote the sharing of unclassified homeland security and other information, and for other purposes.</title>
+	</titles>
+	<sponsor id="400166"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Sponsor introductory remarks on measure. (CR E100)</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Homeland Security.</text></action>
+		<action date="1233690540" datetime="2009-02-03T15:49:00-05:00"><text>Mr. Thompson (MS) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1233690540" datetime="2009-02-03T15:49:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H893-898"/></action>
+		<action date="1233690540" datetime="2009-02-03T15:49:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 553.</text></action>
+		<vote date="1233692460" how="by voice vote" datetime="2009-02-03T16:21:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H893-894"/></vote>
+		<action date="1233723600" datetime="2009-02-04"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Homeland Security" subcommittee="" activity="Referral" />
+		<committee name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Emergency management"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Administrative remedies"/>
+		<term name="Department of Homeland Security"/>
+		<term name="Employment and training programs"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Government ethics and transparency, public corruption"/>
+		<term name="Government information and archives"/>
+		<term name="Homeland security"/>
+		<term name="Intelligence activities, surveillance, classified information"/>
+		<term name="National Archives and Records Administration"/>
+		<term name="Terrorism"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="111" type="h" number="138" updated="2009-03-07T10:04:00-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To require Federal contractors to participate in the basic pilot program for employment eligibility verification.</title>
+	</titles>
+	<sponsor id="400144"/>
+	<cosponsors>
+		<cosponsor id="400006" joined="2009-02-23"/>
+		<cosponsor id="400277" joined="2009-01-28"/>
+		<cosponsor id="400051" joined="2009-01-15"/>
+		<cosponsor id="400057" joined="2009-01-28"/>
+		<cosponsor id="400343" joined="2009-01-07"/>
+		<cosponsor id="400570" joined="2009-01-07"/>
+		<cosponsor id="400348" joined="2009-01-07"/>
+		<cosponsor id="400221" joined="2009-01-13"/>
+		<cosponsor id="400260" joined="2009-01-07"/>
+		<cosponsor id="400040" joined="2009-01-22"/>
+		<cosponsor id="400032" joined="2009-01-09"/>
+		<cosponsor id="400652" joined="2009-01-07"/>
+		<cosponsor id="400654" joined="2009-01-07"/>
+		<cosponsor id="400288" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Judiciary</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Education and Labor</text></action>
+		<action date="1234155600" datetime="2009-02-09"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" activity="Referral" />
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Border security and unlawful immigration"/>
+		<term name="Foreign labor"/>
+		<term name="Government information and archives"/>
+		<term name="Public contracts and procurement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Amends the the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 to require federal contractors and subcontractors (as defined by this Act) to participate in the employment eligibility verification pilot program. Directs the Attorney General to ensure that the pilot program is applied to all of the contractor's or subcontractor's employees and not just to those performing the contract or subcontract.<br/>
+	</summary>
+</bill>

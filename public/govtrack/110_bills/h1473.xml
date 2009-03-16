@@ -1,0 +1,68 @@
+<bill session="110" type="h" number="1473" updated="2009-01-08T19:55:25-05:00">
+	<status><vote date="1193678400" datetime="2007-10-29T14:20:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1173672000" datetime="2007-03-12"/>
+	<titles>
+		<title type="short" as="introduced">Anthony DeJuan Boatwright Act</title>
+		<title type="short" as="passed house">Anthony DeJuan Boatwright Act</title>
+		<title type="official" as="introduced">To amend the Child Care and Development Block Grant Act of 1990 to require child care providers to provide to parents information regarding whether such providers carry current liability insurance.</title>
+	</titles>
+	<sponsor id="400628"/>
+	<cosponsors>
+		<cosponsor id="412229" joined="2007-10-22"/>
+		<cosponsor id="400199" joined="2007-03-12"/>
+		<cosponsor id="400177" joined="2007-10-22"/>
+		<cosponsor id="400616" joined="2007-05-02"/>
+		<cosponsor id="400155" joined="2007-10-22"/>
+		<cosponsor id="412225" joined="2007-10-22"/>
+		<cosponsor id="400635" joined="2007-10-22"/>
+		<cosponsor id="400623" joined="2007-10-22"/>
+		<cosponsor id="400096" joined="2007-10-22"/>
+		<cosponsor id="400254" joined="2007-10-22"/>
+		<cosponsor id="412214" joined="2007-10-22"/>
+		<cosponsor id="400396" joined="2007-10-22"/>
+		<cosponsor id="400433" joined="2007-10-22"/>
+		<cosponsor id="412208" joined="2007-05-02"/>
+		<cosponsor id="400030" joined="2007-03-12"/>
+		<cosponsor id="412188" joined="2007-10-22"/>
+		<cosponsor id="400663" joined="2007-10-22"/>
+		<cosponsor id="400044" joined="2007-10-22"/>
+		<cosponsor id="412193" joined="2007-03-12"/>
+		<cosponsor id="400308" joined="2007-10-22"/>
+		<cosponsor id="412199" joined="2007-06-15"/>
+		<cosponsor id="400631" joined="2007-10-22"/>
+		<cosponsor id="400255" joined="2007-10-22"/>
+		<cosponsor id="400645" joined="2007-03-12"/>
+		<cosponsor id="400193" joined="2007-10-22"/>
+		<cosponsor id="400221" joined="2007-10-22"/>
+		<cosponsor id="400218" joined="2007-10-22"/>
+		<cosponsor id="400240" joined="2007-03-12"/>
+		<cosponsor id="412219" joined="2007-10-22"/>
+		<cosponsor id="400363" joined="2007-10-22"/>
+		<cosponsor id="412206" joined="2007-10-22"/>
+		<cosponsor id="400114" joined="2007-10-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1173672000" datetime="2007-03-12"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1193677500" datetime="2007-10-29T14:05:00-04:00"><text>Mr. Barrow moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1193677500" datetime="2007-10-29T14:05:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H12106-12107"/></action>
+		<action date="1193677500" datetime="2007-10-29T14:05:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1473.</text></action>
+		<vote date="1193678400" how="by voice vote" datetime="2007-10-29T14:20:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H12106"/></vote>
+		<action date="1193716800" datetime="2007-10-30"><text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/29/2007--Passed House amended. Anthony DeJuan Boatwright Act - Amends the Child Care and Development Block Grant Act of 1990 to require a state to include, as part of its regulatory process for issuance and renewal of licenses to providers of child care services, a recommendation to each provider that it carry current liability insurance covering the operation of its child care business.<br/>Requires state plans for the use of child care and development block grant funds to certify that there are in effect state or local health and safety requirements that each child care provider: (1) post publicly and conspicuously in the service area of its premises a notice specifying whether it carries current liability insurance covering the operation of its child care business; and (2) give written notice to parents about whether it carries such insurance, obtain the signature of at least one parent per child acknowledging receipt of such notice, and maintain records of such signed notice while a child receives services. 
+	</summary>
+</bill>

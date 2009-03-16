@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="743" updated="2009-03-07T11:15:15-05:00">
+	<status><introduced date="1233118800" datetime="2009-01-28"/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="short" as="introduced">Executive Accountability Act of 2009</title>
+		<title type="official" as="introduced">To prohibit the President or any other executive branch official from knowingly and willfully misleading the Congress or the people of the United States, for the purpose of gaining support for the use of the Armed Forces of the United States.</title>
+	</titles>
+	<sponsor id="400209"/>
+	<cosponsors>
+		<cosponsor id="400001" joined="2009-01-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the House Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Conflicts and wars"/>
+		<term name="Congressional oversight"/>
+		<term name="Criminal procedure and sentencing"/>
+		<term name="Federal officials"/>
+		<term name="Fraud offenses"/>
+		<term name="Government ethics and transparency, public corruption"/>
+		<term name="Investigation, prosecution, interrogation methods"/>
+		<term name="Military operations and strategy"/>
+		<term name="Presidents and presidential powers"/>
+		<term name="War and emergency powers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

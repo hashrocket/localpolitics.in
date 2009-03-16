@@ -1,0 +1,39 @@
+<bill session="110" type="hj" number="100" updated="2009-01-08T16:40:19-05:00">
+	<status><enacted date="1224043200" datetime="2008-10-15" /></status>
+
+	<introduced date="1222574400" datetime="2008-09-28"/>
+	<titles>
+		<title type="official" as="introduced">Appointing the day for the convening of the first session of the One Hundred Eleventh Congress and establishing the date for the counting of the electoral votes for President and Vice President cast by the electors in December 2008.</title>
+	</titles>
+	<sponsor id="412224"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1222650540" datetime="2008-09-28T22:09:00-04:00"><text>Mr. Arcuri asked unanimous consent to consider as introduced.</text></action>
+		<action date="1222650540" datetime="2008-09-28T22:09:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10316"/></action>
+		<vote date="1222650540" how="without objection" datetime="2008-09-28T22:09:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H10316"/></vote>
+		<action date="1222660800" datetime="2008-09-29"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1222920000" how="by Unanimous Consent" datetime="2008-10-02" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10501"/></vote>
+		<topresident date="1222920000" datetime="2008-10-02" ><text>Cleared for White House.</text></topresident>
+		<action date="1223006400" datetime="2008-10-03"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1223524800" datetime="2008-10-09" ><text>Presented to President.</text></topresident>
+		<signed date="1224043200" datetime="2008-10-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-430" date="1224043200" datetime="2008-10-15" type="public" ><text>Became Public Law No: 110-430.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/15/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Requires the first regular session of the 111th Congress to begin at noon on Tuesday, January 6, 2009.<br/>Requires the meeting of the Senate and House of Representatives to count the electoral votes for the President and Vice President to be held on January 8, 2009.<br/>
+	</summary>
+</bill>

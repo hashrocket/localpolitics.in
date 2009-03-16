@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="127" updated="2009-03-07T10:02:41-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Immigration and Nationality Act to change certain requirements relating to a sponsor's affidavit of support for an alien.</title>
+	</titles>
+	<sponsor id="400144"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Family relationships"/>
+		<term name="Foreign labor"/>
+		<term name="Immigration status and procedures"/>
+		<term name="Visas and passports"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Amends the Immigration and Nationality Act to increase certain income-related requirements with respect to a sponsor's affidavit of support for an alien.<br/>
+	</summary>
+</bill>

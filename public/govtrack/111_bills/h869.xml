@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="869" updated="2009-03-11T12:09:15-04:00">
+	<status><vote date="1236701100" datetime="2009-03-10T13:05:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="official" as="introduced">To designate the Federal building and United States courthouse located at 101 Barr Street in Lexington, Kentucky, as the &quot;Scott Reed Federal Building and United States Courthouse&quot;.</title>
+	</titles>
+	<sponsor id="400442"/>
+	<cosponsors>
+		<cosponsor id="400340" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1233810000" datetime="2009-02-05"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1234414800" datetime="2009-02-12" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1236742800" datetime="2009-03-10T12:40:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 111-30.</text></action>
+		<calendar number="20" date="1236742800" datetime="2009-03-10T12:40:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 20.</text></calendar>
+		<action date="1236743940" datetime="2009-03-10T12:59:00-04:00"><text>Ms. Edwards (MD) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1236743940" datetime="2009-03-10T12:59:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3118-3119"/></action>
+		<action date="1236743940" datetime="2009-03-10T12:59:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 869.</text></action>
+		<vote date="1236701100" how="by voice vote" datetime="2009-03-10T13:05:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H3118"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, Markup, Reporting" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings and Emergency Management" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Introduced.<br/>Designates the federal building and U.S. courthouse located at 101 Barr Street in Lexington, Kentucky, as the &quot;Scott Reed Federal Building and United States Courthouse.&quot;<br/>
+	</summary>
+</bill>

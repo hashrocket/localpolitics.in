@@ -1,0 +1,150 @@
+<bill session="110" type="h" number="1700" updated="2009-01-08T20:23:55-05:00">
+	<status><vote date="1179253920" datetime="2007-05-15T15:32:00-04:00" where="h" result="pass" how="roll" roll="348"/></status>
+
+	<introduced date="1174881600" datetime="2007-03-26"/>
+	<titles>
+		<title type="short" as="introduced">COPS Improvements Act of 2007</title>
+		<title type="short" as="reported to house">COPS Improvements Act of 2007</title>
+		<title type="short" as="passed house">COPS Improvements Act of 2007</title>
+		<title type="official" as="introduced">To amend the Omnibus Crime Control and Safe Streets Act of 1968 to enhance the COPS ON THE BEAT grant program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400426"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2007-04-18"/>
+		<cosponsor id="400253" joined="2007-04-18"/>
+		<cosponsor id="400041" joined="2007-04-19"/>
+		<cosponsor id="400133" joined="2007-04-24"/>
+		<cosponsor id="412229" joined="2007-05-03"/>
+		<cosponsor id="400199" joined="2007-05-01"/>
+		<cosponsor id="400337" joined="2007-04-19"/>
+		<cosponsor id="400177" joined="2007-05-01"/>
+		<cosponsor id="400364" joined="2007-03-26"/>
+		<cosponsor id="400257" joined="2007-04-18"/>
+		<cosponsor id="400289" joined="2007-04-19"/>
+		<cosponsor id="400413" joined="2007-05-07"/>
+		<cosponsor id="400263" joined="2007-04-23"/>
+		<cosponsor id="400080" joined="2007-04-19"/>
+		<cosponsor id="400657" joined="2007-05-01"/>
+		<cosponsor id="400162" joined="2007-04-24"/>
+		<cosponsor id="400183" joined="2007-05-01"/>
+		<cosponsor id="400102" joined="2007-05-01"/>
+		<cosponsor id="400660" joined="2007-04-19"/>
+		<cosponsor id="400282" joined="2007-05-01"/>
+		<cosponsor id="412224" joined="2007-05-02"/>
+		<cosponsor id="412234" joined="2007-05-14"/>
+		<cosponsor id="412225" joined="2007-05-01"/>
+		<cosponsor id="400302" joined="2007-04-18"/>
+		<cosponsor id="400122" joined="2007-05-14"/>
+		<cosponsor id="400246" joined="2007-05-07"/>
+		<cosponsor id="400623" joined="2007-04-23"/>
+		<cosponsor id="400430" joined="2007-05-08"/>
+		<cosponsor id="400332" joined="2007-04-19"/>
+		<cosponsor id="412215" joined="2007-04-19"/>
+		<cosponsor id="400063" joined="2007-05-07"/>
+		<cosponsor id="400361" joined="2007-04-19"/>
+		<cosponsor id="412192" joined="2007-05-09"/>
+		<cosponsor id="412210" joined="2007-05-09"/>
+		<cosponsor id="400423" joined="2007-05-01"/>
+		<cosponsor id="400229" joined="2007-05-01"/>
+		<cosponsor id="412231" joined="2007-05-07"/>
+		<cosponsor id="400274" joined="2007-05-02"/>
+		<cosponsor id="412189" joined="2007-05-08"/>
+		<cosponsor id="412214" joined="2007-05-07"/>
+		<cosponsor id="400101" joined="2007-05-03"/>
+		<cosponsor id="400184" joined="2007-05-14"/>
+		<cosponsor id="400437" joined="2007-05-01"/>
+		<cosponsor id="412197" joined="2007-04-24"/>
+		<cosponsor id="400030" joined="2007-05-07"/>
+		<cosponsor id="412198" joined="2007-05-09"/>
+		<cosponsor id="400402" joined="2007-05-07"/>
+		<cosponsor id="400417" joined="2007-04-24"/>
+		<cosponsor id="400235" joined="2007-04-19"/>
+		<cosponsor id="400352" joined="2007-04-19"/>
+		<cosponsor id="400339" joined="2007-04-18"/>
+		<cosponsor id="400212" joined="2007-03-26"/>
+		<cosponsor id="400331" joined="2007-05-01"/>
+		<cosponsor id="400008" joined="2007-04-19"/>
+		<cosponsor id="412227" joined="2007-04-18"/>
+		<cosponsor id="400356" joined="2007-05-03"/>
+		<cosponsor id="412223" joined="2007-05-14"/>
+		<cosponsor id="400048" joined="2007-04-18"/>
+		<cosponsor id="412209" joined="2007-05-08"/>
+		<cosponsor id="412193" joined="2007-05-02"/>
+		<cosponsor id="412205" joined="2007-05-01"/>
+		<cosponsor id="412199" joined="2007-04-23"/>
+		<cosponsor id="412211" joined="2007-05-07"/>
+		<cosponsor id="400259" joined="2007-05-08"/>
+		<cosponsor id="400237" joined="2007-05-14"/>
+		<cosponsor id="412240" joined="2007-05-14"/>
+		<cosponsor id="412222" joined="2007-05-02"/>
+		<cosponsor id="412204" joined="2007-04-24"/>
+		<cosponsor id="412232" joined="2007-05-01"/>
+		<cosponsor id="400255" joined="2007-05-14"/>
+		<cosponsor id="412239" joined="2007-05-07"/>
+		<cosponsor id="400120" joined="2007-04-23"/>
+		<cosponsor id="412200" joined="2007-05-01"/>
+		<cosponsor id="400125" joined="2007-04-24"/>
+		<cosponsor id="400415" joined="2007-05-07"/>
+		<cosponsor id="412236" joined="2007-05-01"/>
+		<cosponsor id="400009" joined="2007-05-14"/>
+		<cosponsor id="412186" joined="2007-05-01"/>
+		<cosponsor id="400093" joined="2007-05-03"/>
+		<cosponsor id="412228" joined="2007-04-18"/>
+		<cosponsor id="412212" joined="2007-05-07"/>
+		<cosponsor id="400391" joined="2007-04-19"/>
+		<cosponsor id="400641" joined="2007-04-19"/>
+		<cosponsor id="400139" joined="2007-05-14"/>
+		<cosponsor id="400047" joined="2007-04-18"/>
+		<cosponsor id="412220" joined="2007-05-10"/>
+		<cosponsor id="400283" joined="2007-05-01"/>
+		<cosponsor id="400204" joined="2007-05-07"/>
+		<cosponsor id="400286" joined="2007-05-07"/>
+		<cosponsor id="400208" joined="2007-05-02"/>
+		<cosponsor id="412219" joined="2007-05-07"/>
+		<cosponsor id="400024" joined="2007-04-19"/>
+		<cosponsor id="412206" joined="2007-05-01"/>
+		<cosponsor id="400114" joined="2007-04-23"/>
+		<cosponsor id="400062" joined="2007-05-01"/>
+		<cosponsor id="412194" joined="2007-05-07"/>
+		<cosponsor id="400233" joined="2007-05-01"/>
+		<cosponsor id="400179" joined="2007-04-18"/>
+		<cosponsor id="400639" joined="2007-05-02"/>
+		<cosponsor id="400309" joined="2007-04-23"/>
+		<cosponsor id="400186" joined="2007-05-07"/>
+		<cosponsor id="412233" joined="2007-04-17"/>
+	</cosponsors>
+	<actions>
+		<action date="1174881600" datetime="2007-03-26"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1177041600" datetime="2007-04-20"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+		<action date="1177387200" datetime="2007-04-24"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1177560000" datetime="2007-04-26"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1177560000" datetime="2007-04-26"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1178078400" datetime="2007-05-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1178078400" datetime="2007-05-02" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1179201180" datetime="2007-05-14T12:53:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 110-150.</text></action>
+		<calendar number="90" date="1179201180" datetime="2007-05-14T12:53:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 90.</text></calendar>
+		<action date="1179240300" datetime="2007-05-15T11:45:00-04:00"><text>Mr. Conyers moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1179240360" datetime="2007-05-15T11:46:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4985-4995"/></action>
+		<action date="1179240360" datetime="2007-05-15T11:46:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1700.</text></action>
+		<action date="1179286260" datetime="2007-05-15T12:31:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1179253440" datetime="2007-05-15T15:24:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5016"/></action>
+		<vote date="1179253920" how="roll" roll="348" datetime="2007-05-15T15:32:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 381 - 34 (Roll no. 348).</text><reference label="text" ref="CR H4985-4986"/></vote>
+		<action date="1179288000" datetime="2007-05-16"><text>Received in the Senate.</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/15/2007--Passed House amended. (This measure has not been amended since it was reported to the House on May 14, 2007. The summary of that version is repeated here.)<br/>COPS Improvements Act of 2007 - (Sec. 2) Amends the Omnibus Crime Control and Safe Streets Act of 1968 to expand the authority of the Attorney General to make grants for public safety and community policing programs (COPS ON THE BEAT or COPS program). Revises grant purposes to provide for: (1) the hiring or training of law enforcement officers for intelligence, anti-terror, and homeland security duties; (2) the hiring of school resource officers; (3) school-based partnerships between local law enforcement agencies and schools to combat crime, gangs, drug activities, and other problems facing elementary and secondary schools; (4) innovative programs to reduce and prevent illegal drug (including methamphetamine) manufacturing, distribution, and use; (5) criminal gang enforcement task forces; and (6) enhanced community policing and crime prevention grants that meet emerging law enforcement needs. Allows COPS program grants to be used to hire former members of the Armed Forces to serve as career law enforcement officers for community-oriented policing, particularly in communities adversely affected by a recent military base closing. Authorizes the Attorney General to make grants to: (1) assign community prosecutors to handle cases from specific geographic areas and address counterterrorism problems, specific violent crime problems, and localized violent and other crime problems; and (2) develop new technologies to assist state and local law enforcement agencies in crime prevention.<br/>Grants the Office of Community Oriented Policing Services exclusive authority to perform functions and activities under the COPS grant program.<br/>Authorizes the Attorney General to renew COP program grants if grant recipients can demonstrate significant progress in achieving the objectives of the initial grant application.<br/>Requires the Attorney General to select one or more institutions of higher education, including historically Black colleges and universities, to conduct a scientific study of the effectiveness of the programs, projects, and activities funded by the COPS program. Requires such institutions to report on on their studies to the Attorney General not later than four years after the enactment of this Act. Requires the Attorney General to report to Congress on such studies.<br/>Increases and extends through FY2013 the authorization of appropriations for the COPS program. Increases from 3 to 5% the amount of funds available for technical assistance. Specifies amounts to be made available for hiring officers and prosecutors, and for technology grants.<br/>(Sec. 3) Requires the Inspector General of the Department of Justice to report to Congress on the COPS program, including information on: (1) the effect of the program on the rate of violent crime, drug offenses, and other crimes; (2) the degree to which state and local governments awarded a COPS grant contribute funds for law enforcement programs and activities; and (3) any waste, fraud, or abuse in the program. Requires the Inspector General to audit and review a random sampling of state and local law enforcement agencies in preparing such report.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="110" type="h" number="1734" updated="2009-01-08T20:28:09-05:00">
+	<status><vote date="1212516480" datetime="2008-06-03T15:08:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1175054400" datetime="2007-03-28"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 630 Northeast Killingsworth Avenue in Portland, Oregon, as the &quot;Dr. Martin Luther King, Jr. Post Office&quot;.</title>
+	</titles>
+	<sponsor id="400033"/>
+	<cosponsors>
+		<cosponsor id="400437" joined="2007-03-28"/>
+		<cosponsor id="400100" joined="2007-03-28"/>
+		<cosponsor id="400186" joined="2007-03-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1175054400" datetime="2007-03-28"><text>Sponsor introductory remarks on measure. (CR E683)</text></action>
+		<action date="1175054400" datetime="2007-03-28"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1207713600" datetime="2008-04-09"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1207713600" datetime="2008-04-09" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1212515640" datetime="2008-06-03T14:54:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1212515640" datetime="2008-06-03T14:54:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4842-4844"/></action>
+		<action date="1212515700" datetime="2008-06-03T14:55:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1734.</text></action>
+		<vote date="1212516480" how="by voice vote" datetime="2008-06-03T15:08:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H4843"/></vote>
+		<action date="1212552000" datetime="2008-06-04"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1213848000" datetime="2008-06-19"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/28/2007--Introduced.<br/>Designates the facility of the United States Postal Service located at 630 Northeast Killingsworth Avenue in Portland, Oregon, as the &quot;Dr. Martin Luther King, Jr. Post Office.&quot;<br/>
+	</summary>
+</bill>

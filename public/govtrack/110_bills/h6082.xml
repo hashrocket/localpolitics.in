@@ -1,0 +1,37 @@
+<bill session="110" type="h" number="6082" updated="2009-01-09T05:26:39-05:00">
+	<status><introduced date="1210910400" datetime="2008-05-16"/></status>
+
+	<introduced date="1210910400" datetime="2008-05-16"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Paramedic Intercept Services Coverage Act of 2008</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for expanded coverage of paramedic intercept services under the Medicare Program.</title>
+	</titles>
+	<sponsor id="400103"/>
+	<cosponsors>
+		<cosponsor id="400040" joined="2008-05-16"/>
+		<cosponsor id="412258" joined="2008-05-16"/>
+		<cosponsor id="400321" joined="2008-05-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1210910400" datetime="2008-05-16"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1210910400" datetime="2008-05-16"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1210910400" datetime="2008-05-16"><text>Referred to House Ways and Means</text></action>
+		<action date="1211169600" datetime="2008-05-19"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1211169600" datetime="2008-05-19"><committee name="House Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/16/2008--Introduced.<br/>Medicare Paramedic Intercept Services Coverage Act of 2008 - Amends the Balanced Budget Act of 1997 to revise requirements for payment for paramedic intercept service providers in rural communities.<br/>Changes from discretionary to mandatory the authority of the Secretary of Health and Human Services, in promulgating regulations for coverage of ambulance services, to cover advanced life support intercept services (ALS intercept services), regardless of the area involved. (Currently they must be provided in a rural area).<br/>Includes new conditions of coverage that define ALS intercept services as consisting of a qualified paramedic providing ALS level services in connection with the transport of a patient by an ambulance qualified to provide only a basic life support level of services. Requires that: (1) the entity providing the ambulance transportation be a public, non-profit, or volunteer organization; and (2) the paramedic providing such services is not employed or compensated by the entity providing the ambulance transportation. (Currently the ALS intercept services must be provided under a contract with one or more volunteer ambulance services which are required to be prohibited by state law from billing for any such services.) Requires, in addition, that: (1) such services be medically necessary based on the medical condition for which they are dispatched (currently they must be medically necessary based on the health condition of the individual being transported); and (2) the paramedic providing the intercept services accompanies and provides an ALS assessment or ALS intervention to the patient during the transport.<br/>Prohibits the Secretary from taking into account any payments made pursuant to this Act in determining payment amounts under the Medicare ambulance fee schedule, or the aggregate amount of payments under such fee schedule, for any year. 
+	</summary>
+</bill>

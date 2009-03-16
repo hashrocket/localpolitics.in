@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="813" updated="2009-01-09T09:33:19-05:00">
+	<status><vote date="1195055100" datetime="2007-11-14T11:45:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1194584400" datetime="2007-11-09"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the conference report to accompany the bill (H.R. 1429) to reauthorize the Head Start Act, to improve program quality, to expand access, and for other purposes.</title>
+	</titles>
+	<sponsor id="412195"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1194633180" datetime="2007-11-09T14:33:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-440, by Ms. Castor.</text></action>
+		<action date="1194633180" datetime="2007-11-09T14:33:00-05:00"><text>All points of order against the conference report and against its consideration are waived. The conference report shall be considered as read.</text></action>
+		<calendar date="1194633180" datetime="2007-11-09T14:33:00-05:00" ><text>Placed on the House Calendar, Calendar No. 153.</text></calendar>
+		<action date="1195051260" datetime="2007-11-14T10:41:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H13867-13873"/></action>
+		<action date="1195051260" datetime="2007-11-14T10:41:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 813.</text></action>
+		<action date="1195055100" datetime="2007-11-14T11:45:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 224 - 190 (Roll no. 1086).</text><reference label="consideration" ref="CR H13872-13873"/></action>
+		<vote date="1195055100" how="by voice vote" datetime="2007-11-14T11:45:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H13867"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/14/2007--Passed House without amendment. Waives points of order against consideration of the conference report on H.R. 1429 (Head Start for School Readiness Act).<br/>
+	</summary>
+</bill>

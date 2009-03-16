@@ -1,0 +1,35 @@
+<bill session="110" type="sr" number="375" updated="2009-01-09T20:44:46-05:00">
+	<status><introduced date="1194930000" datetime="2007-11-13"/></status>
+
+	<introduced date="1194930000" datetime="2007-11-13"/>
+	<titles>
+		<title type="official" as="introduced">A resolution amending Senate Resolution 400, 94th Congress, and Senate Resolution 445, 108th Congress, to improve congressional oversight of the intelligence activities of the United States, to provide a strong, stable, and capable congressional committee structure to provide the intelligence community appropriate oversight, support, and leadership, and to implement a key recommendation of the National Commission on Terrorist Attacks Upon the United States.</title>
+	</titles>
+	<sponsor id="400054"/>
+	<cosponsors>
+		<cosponsor id="300042" joined="2007-11-13"/>
+		<cosponsor id="300071" joined="2007-11-13"/>
+		<cosponsor id="300091" joined="2007-11-13"/>
+		<cosponsor id="300050" joined="2007-11-13"/>
+		<cosponsor id="300006" joined="2007-11-13"/>
+		<cosponsor id="300095" joined="2007-11-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1194930000" datetime="2007-11-13"><text>Referred to the Committee on Rules and Administration.</text><reference label="text of measure as introduced" ref="CR S14300"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/13/2007--Introduced.<br/>Requires referral to the Select Committee on Intelligence of all proposed legislation and other matters relating to appropriations (currently, only authorizations of appropriations), both direct and indirect, for: (1) the Office of the Director of National Intelligence (ONI) and the Director of National Intelligence (DNI); (2) the Central Intelligence Agency (CIA) and the Director of the Central Intelligence Agency (DCI); (3) the Defense Intelligence Agency (DIA); (4) the National Security Agency (NSA); (5) the intelligence activities of other agencies and subdivisions of the Department of Defense, of the Department of State, and of the Federal Bureau of Investigation (FBI); and (6) any successor departments, agencies, or agency subdivisions, and their activities. Abolishes the Subcommittee on Intelligence of the Committee on Appropriations.<br/>
+	</summary>
+</bill>

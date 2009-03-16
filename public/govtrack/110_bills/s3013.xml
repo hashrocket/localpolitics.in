@@ -1,0 +1,49 @@
+<bill session="110" type="s" number="3013" updated="2009-01-09T18:08:47-05:00">
+	<status><vote date="1222833600" datetime="2008-10-01" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1210651200" datetime="2008-05-13"/>
+	<titles>
+		<title type="short" as="introduced">Non-Foreign AREA Act of 2008</title>
+		<title type="short" as="introduced">Non-Foreign Area Retirement Equity Assurance Act of 2008</title>
+		<title type="short" as="passed senate">Non-Foreign AREA Act of 2008</title>
+		<title type="short" as="passed senate">Non-Foreign Area Retirement Equity Assurance Act of 2008</title>
+		<title type="official" as="introduced">A bill to provide for retirement equity for Federal employees in nonforeign areas outside the 48 contiguous States and the District of Columbia, and for other purposes.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="2008-05-13"/>
+		<cosponsor id="300056" joined="2008-05-13"/>
+		<cosponsor id="300075" joined="2008-05-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1210651200" datetime="2008-05-13"><text>Sponsor introductory remarks on measure. (CR S4109)</text></action>
+		<action date="1210651200" datetime="2008-05-13"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text><reference label="text of measure as introduced" ref="CR S4109-4111"/></action>
+		<action date="1213848000" datetime="2008-06-19"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia.</text></action>
+		<calendar date="1214366400" datetime="2008-06-25" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with amendments favorably.</text></calendar>
+		<action date="1221105600" datetime="2008-09-11"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 110-456.</text></action>
+		<calendar under="General Orders" number="954" date="1221105600" datetime="2008-09-11" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 954.</text></calendar>
+		<action date="1222833600" datetime="2008-10-01"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S10390-10394"/><reference label="text of measure as reported in Senate" ref="CR S10390-10392"/></action>
+		<action date="1222833600" datetime="2008-10-01"><text>The committee amendments were agreed to by Unanimous Consent.</text></action>
+		<vote date="1222833600" how="by Unanimous Consent" datetime="2008-10-01" where="s" type="vote" result="pass" ><text>Passed Senate with amendments by Unanimous Consent.</text><reference label="text" ref="CR S10392-10394"/></vote>
+		<action date="1222920000" datetime="2008-10-02"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1223003460" datetime="2008-10-02T12:11:00-04:00"><text>Received in the House.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Referred to House Veterans' Affairs</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/1/2008--Passed Senate amended. Non-Foreign Area Retirement Equity Assurance Act of 2008 or the Non-Foreign AREA Act of 2008 - Revises federal employee locality-based comparability payments provisions to include U.S. territories and possessions, including the Commonwealth of Puerto Rico and the Commonwealth of the Northern Mariana Islands, within a pay locality. Sets forth maximum rates of pay for Senior Executive Service (SES) personnel in such areas.<br/>Revises the calculation of allowances based on living costs and conditions of environment for pay of employees stationed outside the continental United States or in Alaska to apply it only to areas designated as of December 31, 2008. Provides a formula for adjustment of such rate using a transition schedule for calendar years 2009-2011.<br/>Requires adjustment of special rates of pay in such areas in accordance with regulations prescribed by the Director of the Office of Personnel Management (OPM) or by the Department of Veterans Affairs (VA) for VA personnel. Allows a temporarily raised limitation on the amount of special rates during the transition period.<br/>Expresses the sense of Congress that application of this Act to an employee should not result in a decrease in take home pay.<br/>Expresses the sense of Congress that: (1) the Bureau of Labor Statistics will conduct separate surveys pursuant to the establishment by the President's Pay Agent of one new locality area for each of the entire state of Hawaii and the entire state of Alaska; and (2) upon the completion of the phase-in period no employee shall receive less than the rest of the U.S. locality pay rate.<br/>Describes application of this Act to postal employees.<br/>Defines as covered employees for purposes of this Act those who are or will be eligible for a cost-of-living allowance (COLA).<br/>Allows an employee subject to this Act's transition schedule and who retires from service during the period from January 1, 2009, through December 31, 2011, to elect to have the COLA paid during that period considered as basic pay for purposes of annuity computation.<br/>
+	</summary>
+</bill>

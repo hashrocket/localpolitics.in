@@ -1,0 +1,94 @@
+<bill session="110" type="h" number="710" updated="2009-01-08T18:18:01-05:00">
+	<status><enacted date="1198213200" datetime="2007-12-21" /></status>
+
+	<introduced date="1170046800" datetime="2007-01-29"/>
+	<titles>
+		<title type="short" as="introduced">Living Kidney Organ Donation Clarification Act</title>
+		<title type="short" as="passed house">Charlie W. Norwood Living Organ Donation Act</title>
+		<title type="short" as="passed senate">Charlie W. Norwood Living Organ Donation Act</title>
+		<title type="short" as="enacted">Charlie W. Norwood Living Organ Donation Act</title>
+		<title type="official" as="introduced">To amend the National Organ Transplant Act to clarify that kidney paired donation does not involve the transfer of a human organ for valuable consideration.</title>
+		<title type="official" as="amended by house">To amend the National Organ Transplant Act to provide that criminal penalties do not apply to paired donations of human kidneys, and for other purposes.</title>
+		<title type="official" as="amended by senate">An Act to amend the National Organ Transplant Act to provide that criminal penalties do not apply to human organ paired donation, and for other purposes.</title>
+	</titles>
+	<sponsor id="400296"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="2007-02-13"/>
+		<cosponsor id="400627" joined="2007-02-07"/>
+		<cosponsor id="412218" joined="2007-03-06"/>
+		<cosponsor id="400367" joined="2007-02-12"/>
+		<cosponsor id="400414" joined="2007-02-12"/>
+		<cosponsor id="400616" joined="2007-03-06"/>
+		<cosponsor id="400160" joined="2007-03-06"/>
+		<cosponsor id="400376" joined="2007-02-12"/>
+		<cosponsor id="400626" joined="2007-02-13"/>
+		<cosponsor id="400419" joined="2007-02-13"/>
+		<cosponsor id="400151" joined="2007-02-12"/>
+		<cosponsor id="400430" joined="2007-02-07"/>
+		<cosponsor id="400132" joined="2007-02-12"/>
+		<cosponsor id="400040" joined="2007-02-13"/>
+		<cosponsor id="400052" joined="2007-02-07"/>
+		<cosponsor id="400101" joined="2007-02-07"/>
+		<cosponsor id="400433" joined="2007-02-12"/>
+		<cosponsor id="400288" joined="2007-02-12"/>
+		<cosponsor id="400152" joined="2007-03-06"/>
+		<cosponsor id="400373" joined="2007-02-12"/>
+		<cosponsor id="400312" joined="2007-02-12"/>
+		<cosponsor id="400007" joined="2007-02-12"/>
+		<cosponsor id="400051" joined="2007-02-13"/>
+		<cosponsor id="412199" joined="2007-02-12"/>
+		<cosponsor id="400320" joined="2007-02-12"/>
+		<cosponsor id="400217" joined="2007-02-13"/>
+		<cosponsor id="412200" joined="2007-03-06"/>
+		<cosponsor id="400319" joined="2007-02-12"/>
+		<cosponsor id="400193" joined="2007-01-29"/>
+		<cosponsor id="400090" joined="2007-03-06"/>
+		<cosponsor id="400431" joined="2007-02-12"/>
+		<cosponsor id="400438" joined="2007-02-07"/>
+		<cosponsor id="400088" joined="2007-02-12"/>
+		<cosponsor id="400062" joined="2007-02-07"/>
+		<cosponsor id="400435" joined="2007-03-06"/>
+		<cosponsor id="400349" joined="2007-02-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1170046800" datetime="2007-01-29"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1170392400" datetime="2007-02-02"><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1173205020" datetime="2007-03-06T14:17:00-05:00"><text>Mr. Inslee moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1173205080" datetime="2007-03-06T14:18:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2192-2197"/></action>
+		<action date="1173205080" datetime="2007-03-06T14:18:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate H.R. 710.</text></action>
+		<action date="1173205920" datetime="2007-03-06T14:32:00-05:00"><text>DEBATE - The House resumed debate on H.R. 710.</text></action>
+		<action date="1173206940" datetime="2007-03-06T14:49:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1173211980" datetime="2007-03-06T16:13:00-05:00"><text>Pursuant to clause 8, Rule XX, the Speaker postponed until Wednesday, March 7, 2007, the roll call vote on the motion to suspend the rules and pass H.R. 710, as amended, which was ordered on Tuesday, March 6, 2007.</text></action>
+		<action date="1173302400" datetime="2007-03-07T17:20:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2265-2266"/></action>
+		<vote date="1173302880" how="roll" roll="126" datetime="2007-03-07T17:28:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 126). (text: CR 3/06/2007 H2192)</text></vote>
+		<action date="1173302880" datetime="2007-03-07T17:28:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1173330000" datetime="2007-03-08"><text>Received in the Senate.</text></action>
+		<calendar under="General Orders" number="77" date="1173844800" datetime="2007-03-14" calendar="Senate Legislative" ><text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 77.</text></calendar>
+		<action date="1183953600" datetime="2007-07-09"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S8879-8880"/></action>
+		<vote date="1183953600" how="by Unanimous Consent" datetime="2007-07-09" where="s" type="vote2" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action date="1184040000" datetime="2007-07-10"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1196810820" datetime="2007-12-04T19:27:00-05:00"><text>House agreed to Senate amendment with amendments pursuant to H. Res. 837.</text></action>
+		<action date="1196830800" datetime="2007-12-05"><text>Message on House action received in Senate and at desk: House amendments to Senate amendment.</text></action>
+		<action date="1196917200" datetime="2007-12-06"><text>Senate agreed to House amendment to Senate amendment and House amendment to title of bill by Unanimous Consent.</text></action>
+		<action date="1196917200" datetime="2007-12-06"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1196917200" datetime="2007-12-06" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1197349200" datetime="2007-12-11" ><text>Presented to President.</text></topresident>
+		<signed date="1198213200" datetime="2007-12-21" ><text>Signed by President.</text></signed>
+		<enacted number="110-144" date="1198213200" datetime="2007-12-21" type="public" ><text>Became Public Law No: 110-144.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/21/2007--Public Law. Charlie W. Norwood Living Organ Donation Act - Amends the National Organ Transplant Act to provide that for the purpose of provisions that prohibit the transfer of any human organ for use in human transplantation for valuable consideration, human organ paired donation does not involve such a transfer. Defines &quot;human organ paired donation&quot; as the donation and receipt of a human organ under the following circumstances: (1) an individual (the first donor) desires to make a living donation of a human organ specifically to a particular patient (the first patient), but such donor is biologically incompatible with such patient; (2) a second individual (the second donor) desires to make a such a donation to a second patient, but is biologically incompatible with such patient; (3) the first donor is biologically compatible to the second patient, and the second donor is biologically compatible to the first patient; (4) all donors and patients enter into a single agreement to donate and receive such organs; and (5) no valuable consideration is knowingly acquired, received, or otherwise transferred with respect to the organs.<br/>Requires the Secretary of Health and Human Services to report to Congress on the progress made toward understanding the long-term health effects of living organ donation.<br/>
+	</summary>
+</bill>

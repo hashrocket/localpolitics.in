@@ -1,0 +1,33 @@
+<bill session="111" type="s" number="44" updated="2009-03-07T13:37:26-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to treat income earned by mutual funds from exchange-traded funds holding precious metal bullion as qualifying income.</title>
+	</titles>
+	<sponsor id="300040"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Financial services and investments"/>
+		<term name="Income tax rates"/>
+		<term name="Metals"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Amends the Internal Revenue Code to treat income earned by mutual funds from interests holding certain gold, silver, platinum, or palladium bullion that are regularly traded on an established U.S. securities market as qualifying income (i.e., passed through and taxed at individual income tax rates).<br/>
+	</summary>
+</bill>

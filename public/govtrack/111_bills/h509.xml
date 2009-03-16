@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="509" updated="2009-03-07T10:47:30-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="short" as="introduced">Marine Turtle Conservation Reauthorization Act of 2009</title>
+		<title type="official" as="introduced">To reauthorize the Marine Turtle Conservation Act of 2004.</title>
+	</titles>
+	<sponsor id="400049"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Sponsor introductory remarks on measure. (CR E83)</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Insular Affairs, Oceans and Wildlife" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Department of the Interior"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Foreign aid and international relief"/>
+		<term name="International organizations and cooperation"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Reptiles"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/14/2009--Introduced.<br/>Marine Turtle Conservation Reauthorization Act of 2009 - Reauthorizes the Marine Turtle Conservation Act of 2004 through FY2014.<br/>
+	</summary>
+</bill>

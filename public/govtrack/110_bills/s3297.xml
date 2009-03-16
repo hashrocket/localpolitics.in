@@ -1,0 +1,93 @@
+<bill session="110" type="s" number="3297" updated="2009-01-09T18:46:12-05:00">
+	<status><calendar date="1216785600" datetime="2008-07-23" /></status>
+
+	<introduced date="1216699200" datetime="2008-07-22"/>
+	<titles>
+		<title type="short" as="introduced">Advancing America's Priorities Act</title>
+		<title type="short" as="introduced">ALS Registry Act</title>
+		<title type="short" as="introduced">Appalachian Regional Development Act Amendments of 2008</title>
+		<title type="short" as="introduced">Beach Protection Act of 2008</title>
+		<title type="short" as="introduced">Broadband Data Improvement Act</title>
+		<title type="short" as="introduced">Captive Primate Safety Act</title>
+		<title type="short" as="introduced">Chesapeake Bay Gateways and Watertrails Network Continuing Authorization Act</title>
+		<title type="short" as="introduced">Christopher and Dana Reeve Paralysis Act</title>
+		<title type="short" as="introduced">Drug Endangered Children Act of 2007</title>
+		<title type="short" as="introduced">Effective Child Pornography Prosecution Act of 2007</title>
+		<title type="short" as="introduced">Emmett Till Unsolved Civil Rights Crime Act of 2007</title>
+		<title type="short" as="introduced">Enhancing the Effective Prosecution of Child Pornography Act of 2007</title>
+		<title type="short" as="introduced">Federal Ocean Acidification Research And Monitoring Act of 2008</title>
+		<title type="short" as="introduced">FOARAM Act</title>
+		<title type="short" as="introduced">Hydrographic Services Improvement Act Amendments of 2008</title>
+		<title type="short" as="introduced">Integrated Coastal and Ocean Observation System Act of 2008</title>
+		<title type="short" as="introduced">Melanie Blocker Stokes Mom's Opportunity to Access Health, Education, Research, and Support for Postpartum Depression Act</title>
+		<title type="short" as="introduced">Melanie Blocker Stokes MOTHERS Act</title>
+		<title type="short" as="introduced">Mentally Ill Offender Treatment and Crime Reduction Reauthorization and Improvement Act of 2008</title>
+		<title type="short" as="introduced">National Capital Transportation Amendments Act of 2008</title>
+		<title type="short" as="introduced">National Sea Grant College Program Amendments Act of 2008</title>
+		<title type="short" as="introduced">NOAA Undersea Research Program Act of 2008</title>
+		<title type="short" as="introduced">Ocean and Coastal Mapping Integration Act</title>
+		<title type="short" as="introduced">Overseas Private Investment Corporation Reauthorization Act of 2008</title>
+		<title type="short" as="introduced">Predisaster Hazard Mitigation Act of 2008</title>
+		<title type="short" as="introduced">Prenatally and Postnatally Diagnosed Conditions Awareness Act</title>
+		<title type="short" as="introduced">Preservation of Records of Servitude, Emancipation, and Post-Civil War Reconstruction Act</title>
+		<title type="short" as="introduced">PROTECT Our Children Act of 2008</title>
+		<title type="short" as="introduced">Providing Resources, Officers, and Technology To Eradicate Cyber Threats to Our Children Act of 2008</title>
+		<title type="short" as="introduced">Reconnecting Homeless Youth Act of 2008</title>
+		<title type="short" as="introduced">Reconstruction and Stabilization Civilian Management Act of 2008</title>
+		<title type="short" as="introduced">Senator Paul Simon Study Abroad Foundation Act of 2008</title>
+		<title type="short" as="introduced">Star-Spangled Banner and War of 1812 Bicentennial Commission Act</title>
+		<title type="short" as="introduced">Stroke Treatment and Ongoing Prevention Act</title>
+		<title type="short" as="introduced">Support for the Museum of the History of Polish Jews Act of 2008</title>
+		<title type="short" as="introduced">Torture Victims Relief Reauthorization Act of 2008</title>
+		<title type="short" as="introduced">Training for Realtime Writers Act of 2007</title>
+		<title type="short" as="introduced">Tropical Forest and Coral Conservation Reauthorization Act of 2008</title>
+		<title type="short" as="introduced">Vision Care for Kids Act of 2008</title>
+		<title type="official" as="introduced">A bill to advance America's priorities.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2008-07-22"/>
+		<cosponsor id="300065" joined="2008-07-22"/>
+		<cosponsor id="300059" joined="2008-07-22"/>
+		<cosponsor id="300011" joined="2008-07-22"/>
+		<cosponsor id="300008" joined="2008-07-22"/>
+		<cosponsor id="300067" joined="2008-07-22"/>
+		<cosponsor id="300043" joined="2008-07-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1216699200" datetime="2008-07-22"><text>Sponsor introductory remarks on measure. (CR S7032)</text></action>
+		<action date="1216699200" datetime="2008-07-22"><text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text><reference label="text of measure as introduced" ref="CR S7032-7075"/></action>
+		<calendar date="1216785600" datetime="2008-07-23" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 894.</text></calendar>
+		<action date="1217044800" datetime="2008-07-26"><text>Motion to proceed to consideration of measure made in Senate.</text><reference label="consideration" ref="CR S7509-7511"/></action>
+		<action date="1217044800" datetime="2008-07-26"><text>Cloture motion on the motion to proceed to the measure presented in Senate.</text><reference label="consideration" ref="CR S7509"/><reference label="text" ref="CR S7509"/></action>
+		<action date="1217217600" datetime="2008-07-28"><text>Motion to proceed to measure considered in Senate.</text><reference label="consideration" ref="CR S7545-7554"/></action>
+		<vote-aux date="1217217600" how="roll" roll="189" datetime="2008-07-28" where="s" type="cloture" result="fail" ><text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 52 - 40. Record Vote Number: 189.</text><reference label="consideration" ref="CR S7551-7552"/><reference label="text" ref="CR S7551-7552"/></vote-aux>
+		<action date="1217217600" datetime="2008-07-28"><text>Motion to proceed to consideration of measure withdrawn in Senate.</text><reference label="consideration" ref="CR S7554"/></action>
+		<action date="1221624000" datetime="2008-09-17"><text>Motion to proceed to consideration of measure made in Senate.</text><reference label="consideration" ref="CR S8934"/></action>
+		<action date="1221624000" datetime="2008-09-17"><text>Second cloture motion on the motion to proceed to the measure presented in Senate.</text><reference label="consideration" ref="CR S8934"/><reference label="text" ref="CR S8934"/></action>
+		<action date="1221624000" datetime="2008-09-17"><text>Motion to proceed to consideration of measure withdrawn in Senate.</text><reference label="consideration" ref="CR S8934"/></action>
+		<action date="1221710400" datetime="2008-09-18"><text>Second cloture motion on the motion to proceed to the measure withdrawn by unanimous consent in Senate.</text></action>
+		<action date="1222056000" datetime="2008-09-22"><text>Motion to proceed to consideration of measure in Senate.</text><reference label="consideration" ref="CR S9220"/></action>
+		<action date="1222401600" datetime="2008-09-26"><text>Motion to proceed to measure considered in Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S9577-9583"/></action>
+		<action date="1227070800" datetime="2008-11-19"><text>Motion to proceed to measure considered in Senate.</text><reference label="consideration" ref="CR S10627"/></action>
+		<action date="1227070800" datetime="2008-11-19"><text>Motion to proceed to consideration of measure withdrawn in Senate.</text><reference label="consideration" ref="CR S10627"/></action>
+		<action date="1227157200" datetime="2008-11-20"><text>Motion to proceed to consideration of measure made in Senate.</text><reference label="consideration" ref="CR S10702"/></action>
+		<action date="1228885200" datetime="2008-12-10"><text>Motion to proceed to consideration of measure resumed in Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S10859"/></action>
+		<action date="1228885200" datetime="2008-12-10"><text>Motion to proceed to consideration of measure withdrawn in Senate.</text><reference label="consideration" ref="CR S10859"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/22/2008--Introduced.<br/>Advancing America's Priorities Act - Amends the Public Health Service Act to: (1) establish a system to collect data on amyotrophic lateral sclerosis (ALS) and establish a registry for such data; (2) provide for an education and information campaign to promote stroke prevention; and (3) award grants for a pilot project to improve stroke patient outcomes by coordinating health care delivery through telehealth networks.<br/>Establishes programs for research, rehabilitation, and quality of life for people with paralysis.<br/>Provides for support services to women suffering from postpartum depression and who receive a positive diagnosis of Down syndrome or other prenatally or postnatally diagnosed conditions. Directs the Secretary of Health and Human Services to make grants to states to provide vision care for children. Amends the Runaway and Homeless Youth Act to expand services for homeless youth and to reauthorize funding for programs under such Act. Requires the Secretary to conduct a national homeless youth awareness campaign.<br/>Provides additional funding to the Department of Justice (DOJ) to investigate and prosecute violations of criminal civil rights statutes that occurred not later than December 31, 1969, and resulted in death. Amends the Omnibus Crime Control and Safe Streets Act of 1968 to reauthorize through FY2014 the grant programs for: (1) adult and juvenile collaboration for access to adequate mental health treatment; and (2) mental health courts. Authorizes the Attorney General to make grants to train law enforcement and campus security personnel to respond appropriately to incidents involving mentally ill individuals.<br/>Expands DOJ's authority to investigate and prosecute child pornography crimes. Extends the program to protect drug-endangered children.<br/>Establishes the Star-Spangled Banner and War of 1812 Commemoration Commission for the national observance of the bicentennial of the War of 1812.<br/>Directs the Attorney General to implement a national strategy for child exploitation prevention and interdiction. Establishes a National Internet Crimes Against Children Task Force Program to assist law efforcement efforts to protect children against online enticement by sexual predators. Amends the federal criminal code to enhance prohibitions against Internet child pornography.<br/>Amends the Lacey Act Amendments of 1981 to add nonhuman primates to the definition of &quot;prohibited wildlife species&quot; for purposes of the prohibition against the sale or purchase of animals in interstate or foreign commerce.<br/>Amends the Chesapeake Bay Initiative Act of 1998 to make permanent the authorization of appropriations for the Chesapeake Bay Gateways and Watertrails Network.<br/>Amends the Federal Water Pollution Control Act to include among eligible grant activities the development and implementation of programs for source tracking, sanitary surveys, and prevention efforts to address the identified sources of beach water pollution.<br/>Extends funding for programs for Appalachian regional development. Reauthorizes the Appalachian Regional Commission through FY2012.<br/>Establishes the Senator Paul Simon Study Abroad Foundation to promote and support study abroad programs for U.S. students. Amends the Foreign Assistance Act of 1961 to authorize the President to provide assistance for reconstructing and stabilizing a country or region that is in, or is in transition from, conflict or civil strife. Reauthorizes the Overseas Private Investment Corporation through FY 2011. Amends the Tropical Forest Conservation Act of 1998 to make forests, coral reefs, and associated coastal marine ecosystem activities eligible for U.S. debt reduction benefits for developing countries. (Currently, such provision applies to tropical forests.).<br/>Amends the Torture Victims Relief Act of 1998 to provide additional assistance to victims of torture. Authorizes the Secretary of State to provide assistance to the Museum of the History of Polish Jews. Amends the Telecommunications Act of 1996 to revise Federal Communications Commission (FCC) policies for the collection of data on broadband. Authorizes grants to promote the training and placement of closed caption writers. Amends the Hydrographic Services Improvement Act of 1998 to authorize the National Oceanic and Atmospheric Administration (NOAA) to acquire hydrographic data and provide services to support the conservation and management of coastal and ocean resources.<br/>Establishes a national ocean exploration and underseas research program within NOAA.<br/>Directs the President to establish: (1) a program to develop a federal ocean and coastal mapping plan for the Great Lakes and other coastal areas of the United States; and (2) a national integrated coastal and ocean observation system. Directs the Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council to: (1) coordinate federal activities on ocean acidification and establish an interagency working group; and (2) develop a strategic plan for federal research and monitoring on ocean acidification. Provides for ocean acidification programs in NOAA and the National Aeronautics and Space Administration (NASA).<br/>Authorizes funding over a 10-year period for capital and preventive maintenance projects for the Washington, D.C. Metropolitan Area Transit Authority.<br/>Directs the Archivist of the United States to preserve relevant records and establish an electronically searchable national database containing historic records of servitude, emancipation, and post-Civil War reconstruction.<br/>Amends the Robert T. Stafford Disaster Relief and Emergency Assistance Act to: (1) increase the amount guaranteed to each state under the pre-disaster mitigation program; (2) require other financial assistance under the program to be awarded on a competitive basis; and (3) authorize appropriations for the program through FY2011.<br/>Authorizes the Board of Regents of the Smithsonian Institution to construct a greenhouse facility at its museum support facility in Suitland, Maryland, to maintain its horticultural operations and preserve the orchid collection it holds in trust.<br/>
+	</summary>
+</bill>

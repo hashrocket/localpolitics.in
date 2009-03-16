@@ -1,0 +1,35 @@
+<bill session="111" type="s" number="574" updated="2009-03-12T12:01:07-04:00">
+	<status><introduced date="1236744000" datetime="2009-03-11"/></status>
+
+	<introduced date="1236744000" datetime="2009-03-11"/>
+	<titles>
+		<title type="official" as="introduced">A bill to enhance citizen access to Government information and services by establishing that Government documents issued to the public must be written clearly, and for other purposes.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+		<cosponsor id="412244" joined="2009-03-11"/>
+		<cosponsor id="300066" joined="2009-03-11"/>
+		<cosponsor id="412243" joined="2009-03-11"/>
+		<cosponsor id="300019" joined="2009-03-11"/>
+		<cosponsor id="300098" joined="2009-03-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1236744000" datetime="2009-03-11"><text>Sponsor introductory remarks on measure. (CR S3032)</text></action>
+		<action date="1236744000" datetime="2009-03-11"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text><reference label="text of measure as introduced" ref="CR S3032-3033"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

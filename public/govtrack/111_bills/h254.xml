@@ -1,0 +1,34 @@
+<bill session="111" type="h" number="254" updated="2009-03-07T10:17:34-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Weekend Voting Act</title>
+		<title type="official" as="introduced">To change the date for regularly scheduled Federal elections and establish polling place hours.</title>
+	</titles>
+	<sponsor id="400195"/>
+	<cosponsors>
+		<cosponsor id="400184" joined="2009-01-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on House Administration.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="149" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Congressional elections"/>
+		<term name="Elections, voting, political campaign regulation"/>
+		<term name="Presidents and presidential powers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Weekend Voting Act - Amends the Revised Statutes with respect to the time of election to establish the first Saturday and Sunday after the first Friday in November, in every even numbered year, as the days for the election, in each state and territory, of Delegates to, or Members of, Congress. Amends federal law with respect to presidential elections and vacancies to establish the first Saturday and Sunday after the first Friday in November, in every fourth year, as the days for the election of the President and Vice President of the United States. Amends such federal laws to establish the same polling place hours in the United States for both congressional and presidential elections, namely from 10:00 a.m. EST on Saturday till 6:00 p.m. EST on Sunday, with polls allowed to close between the hours of 10:00 p.m. local time on Saturday and 6:00 a.m. local time on Sunday as provided by the law of the state in which the polling place is located. 
+	</summary>
+</bill>

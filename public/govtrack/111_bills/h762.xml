@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="762" updated="2009-03-07T11:17:31-05:00">
+	<status><introduced date="1233118800" datetime="2009-01-28"/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="official" as="introduced">To validate final patent number 27-2005-0081, and for other purposes.</title>
+	</titles>
+	<sponsor id="412218"/>
+	<cosponsors>
+		<cosponsor id="412318" joined="2009-01-28"/>
+		<cosponsor id="400024" joined="2009-01-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Endangered and threatened species"/>
+		<term name="Environmental assessment, monitoring, research"/>
+		<term name="Land transfers"/>
+		<term name="Nevada"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/2009--Introduced.<br/>Affirms and validates a specified patent and its associated land reconfiguration issued by the Bureau of Land Management (BLM) for the benefit and recovery of the desert tortoise and other species. Ratifies: (1) the process used by the U.S. Fish and Wildlife Service and the BLM for the reconfiguration of those lands; and (2) the reconfiguration provided for in a specified Army Corps of Engineers permit. 
+	</summary>
+</bill>

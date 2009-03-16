@@ -1,0 +1,74 @@
+<bill session="111" type="hr" number="50" updated="2009-03-07T13:11:47-05:00">
+	<status><vote date="1231888200" datetime="2009-01-13T19:10:00-05:00" where="h" result="pass" how="roll" roll="12"/></status>
+
+	<introduced date="1231822800" datetime="2009-01-13"/>
+	<titles>
+		<title type="official" as="introduced">Honoring the life of Claiborne Pell, distinguished former Senator from the State of Rhode Island.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2009-01-13"/>
+		<cosponsor id="400031" joined="2009-01-13"/>
+		<cosponsor id="400230" joined="2009-01-13"/>
+		<cosponsor id="412209" joined="2009-01-13"/>
+		<cosponsor id="400659" joined="2009-01-13"/>
+		<cosponsor id="400227" joined="2009-01-13"/>
+		<cosponsor id="412193" joined="2009-01-13"/>
+		<cosponsor id="400364" joined="2009-01-13"/>
+		<cosponsor id="400257" joined="2009-01-13"/>
+		<cosponsor id="400263" joined="2009-01-13"/>
+		<cosponsor id="412308" joined="2009-01-13"/>
+		<cosponsor id="400436" joined="2009-01-13"/>
+		<cosponsor id="400162" joined="2009-01-13"/>
+		<cosponsor id="400070" joined="2009-01-13"/>
+		<cosponsor id="412221" joined="2009-01-13"/>
+		<cosponsor id="400251" joined="2009-01-13"/>
+		<cosponsor id="400178" joined="2009-01-13"/>
+		<cosponsor id="400267" joined="2009-01-13"/>
+		<cosponsor id="400415" joined="2009-01-13"/>
+		<cosponsor id="412186" joined="2009-01-13"/>
+		<cosponsor id="412212" joined="2009-01-13"/>
+		<cosponsor id="400318" joined="2009-01-13"/>
+		<cosponsor id="400119" joined="2009-01-13"/>
+		<cosponsor id="412231" joined="2009-01-13"/>
+		<cosponsor id="400283" joined="2009-01-13"/>
+		<cosponsor id="400097" joined="2009-01-13"/>
+		<cosponsor id="412219" joined="2009-01-13"/>
+		<cosponsor id="400184" joined="2009-01-13"/>
+		<cosponsor id="400216" joined="2009-01-13"/>
+		<cosponsor id="400130" joined="2009-01-13"/>
+		<cosponsor id="400437" joined="2009-01-13"/>
+		<cosponsor id="400425" joined="2009-01-13"/>
+		<cosponsor id="400179" joined="2009-01-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1231822800" datetime="2009-01-13"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1231871100" datetime="2009-01-13T14:25:00-05:00"><text>Mr. Hinojosa moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1231871100" datetime="2009-01-13T14:25:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H173-176"/></action>
+		<action date="1231871100" datetime="2009-01-13T14:25:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 50.</text></action>
+		<action date="1231872120" datetime="2009-01-13T14:42:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1231887720" datetime="2009-01-13T19:02:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H183"/></action>
+		<vote date="1231888200" how="roll" roll="12" datetime="2009-01-13T19:10:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 12).</text><reference label="text" ref="CR H173"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional tributes"/>
+		<term name="Higher education"/>
+		<term name="Members of Congress"/>
+		<term name="Rhode Island"/>
+		<term name="Senate"/>
+		<term name="Student aid and college costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/13/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Honors the life, achievements, and distinguished career of Senator Claiborne Pell, a former member of the U.S. Senate. Emphasizes that, among his legislative accomplishments, he changed the face of higher education by enabling millions of low- and middle-income students to achieve the dream of a college education. Recognizes the federal Pell grants, the educational grants that bear his name, as a significant part of Senator Pell's legacy. 
+	</summary>
+</bill>

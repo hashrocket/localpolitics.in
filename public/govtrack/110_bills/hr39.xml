@@ -1,0 +1,54 @@
+<bill session="110" type="hr" number="39" updated="2009-01-09T07:58:48-05:00">
+	<status><vote date="1168988640" datetime="2007-01-16T19:04:00-05:00" where="h" result="pass" how="roll" roll="25"/></status>
+
+	<introduced date="1168318800" datetime="2007-01-09"/>
+	<titles>
+		<title type="official" as="introduced">Commending the University of Florida Gators for their victory in the 2006 Bowl Championship Series (BCS) and for winning the national college football championship.</title>
+	</titles>
+	<sponsor id="400623"/>
+	<cosponsors>
+		<cosponsor id="400279" joined="2007-01-16"/>
+		<cosponsor id="400273" joined="2007-01-09"/>
+		<cosponsor id="400430" joined="2007-01-09"/>
+		<cosponsor id="400170" joined="2007-01-09"/>
+		<cosponsor id="412195" joined="2007-01-09"/>
+		<cosponsor id="400344" joined="2007-01-10"/>
+		<cosponsor id="400388" joined="2007-01-09"/>
+		<cosponsor id="400427" joined="2007-01-16"/>
+		<cosponsor id="412197" joined="2007-01-09"/>
+		<cosponsor id="412198" joined="2007-01-16"/>
+		<cosponsor id="400086" joined="2007-01-16"/>
+		<cosponsor id="400212" joined="2007-01-16"/>
+		<cosponsor id="400048" joined="2007-01-09"/>
+		<cosponsor id="400051" joined="2007-01-09"/>
+		<cosponsor id="400131" joined="2007-01-16"/>
+		<cosponsor id="400107" joined="2007-01-10"/>
+		<cosponsor id="412196" joined="2007-01-09"/>
+		<cosponsor id="400108" joined="2007-01-09"/>
+		<cosponsor id="400622" joined="2007-01-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1168318800" datetime="2007-01-09"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1168976100" datetime="2007-01-16T15:35:00-05:00"><text>Mr. Payne moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1168976160" datetime="2007-01-16T15:36:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H538-540, H542"/></action>
+		<action date="1168976160" datetime="2007-01-16T15:36:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 39.</text></action>
+		<action date="1168977120" datetime="2007-01-16T15:52:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1168988100" datetime="2007-01-16T18:55:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H543-544"/></action>
+		<vote date="1168988640" how="roll" roll="25" datetime="2007-01-16T19:04:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 1, 3 Present (Roll no. 25).</text><reference label="text" ref="CR H538-539"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/16/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Commends the University of Florida Gators for their victory in the 2006 Bowl Championship Series and for winning the national college football championship.<br/>
+	</summary>
+</bill>

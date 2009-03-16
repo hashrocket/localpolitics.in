@@ -1,0 +1,281 @@
+<bill session="110" type="h" number="1108" updated="2009-01-08T19:08:51-05:00">
+	<status><vote date="1217453760" datetime="2008-07-30T18:36:00-04:00" where="h" result="pass" how="roll" roll="542"/></status>
+
+	<introduced date="1171515600" datetime="2007-02-15"/>
+	<titles>
+		<title type="short" as="introduced">Family Smoking Prevention and Tobacco Control Act</title>
+		<title type="official" as="introduced">To protect the public health by providing the Food and Drug Administration with certain authority to regulate tobacco products.</title>
+	</titles>
+	<sponsor id="400425"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2007-06-27"/>
+		<cosponsor id="400661" joined="2007-12-11"/>
+		<cosponsor id="400253" joined="2007-02-15"/>
+		<cosponsor id="400061" joined="2007-05-03"/>
+		<cosponsor id="400041" joined="2007-02-15"/>
+		<cosponsor id="400133" joined="2007-02-15"/>
+		<cosponsor id="400420" joined="2007-05-09"/>
+		<cosponsor id="400327" joined="2007-02-15"/>
+		<cosponsor id="400222" joined="2007-02-15"/>
+		<cosponsor id="400128" joined="2007-12-19"/>
+		<cosponsor id="400031" joined="2007-06-28"/>
+		<cosponsor id="400073" joined="2007-02-15"/>
+		<cosponsor id="400219" joined="2007-02-15"/>
+		<cosponsor id="400199" joined="2007-02-15"/>
+		<cosponsor id="400337" joined="2008-01-15"/>
+		<cosponsor id="400227" joined="2007-06-12"/>
+		<cosponsor id="400060" joined="2008-06-05"/>
+		<cosponsor id="400414" joined="2007-03-23"/>
+		<cosponsor id="400364" joined="2007-12-11"/>
+		<cosponsor id="400257" joined="2007-02-15"/>
+		<cosponsor id="400289" joined="2007-02-15"/>
+		<cosponsor id="400413" joined="2007-03-19"/>
+		<cosponsor id="400142" joined="2007-03-01"/>
+		<cosponsor id="400228" joined="2007-02-15"/>
+		<cosponsor id="400210" joined="2008-06-23"/>
+		<cosponsor id="400160" joined="2007-02-15"/>
+		<cosponsor id="400263" joined="2007-02-15"/>
+		<cosponsor id="400618" joined="2007-05-01"/>
+		<cosponsor id="400407" joined="2007-07-23"/>
+		<cosponsor id="400149" joined="2007-05-16"/>
+		<cosponsor id="400080" joined="2007-07-23"/>
+		<cosponsor id="400162" joined="2007-02-15"/>
+		<cosponsor id="412221" joined="2007-06-14"/>
+		<cosponsor id="400336" joined="2008-05-06"/>
+		<cosponsor id="400183" joined="2007-05-01"/>
+		<cosponsor id="400102" joined="2007-02-15"/>
+		<cosponsor id="400660" joined="2007-02-15"/>
+		<cosponsor id="400282" joined="2007-02-15"/>
+		<cosponsor id="412224" joined="2007-04-23"/>
+		<cosponsor id="400419" joined="2007-02-15"/>
+		<cosponsor id="412234" joined="2007-05-03"/>
+		<cosponsor id="400380" joined="2007-02-15"/>
+		<cosponsor id="400122" joined="2007-02-15"/>
+		<cosponsor id="400403" joined="2008-04-09"/>
+		<cosponsor id="400246" joined="2007-05-09"/>
+		<cosponsor id="400295" joined="2007-02-15"/>
+		<cosponsor id="400623" joined="2007-03-09"/>
+		<cosponsor id="400271" joined="2007-05-24"/>
+		<cosponsor id="400430" joined="2007-02-15"/>
+		<cosponsor id="400129" joined="2007-04-19"/>
+		<cosponsor id="400170" joined="2007-07-10"/>
+		<cosponsor id="412195" joined="2007-12-04"/>
+		<cosponsor id="412259" joined="2008-05-20"/>
+		<cosponsor id="400332" joined="2007-02-15"/>
+		<cosponsor id="400647" joined="2007-02-15"/>
+		<cosponsor id="400443" joined="2007-04-16"/>
+		<cosponsor id="412215" joined="2007-02-15"/>
+		<cosponsor id="400198" joined="2007-02-15"/>
+		<cosponsor id="400268" joined="2007-02-15"/>
+		<cosponsor id="400063" joined="2007-02-15"/>
+		<cosponsor id="400379" joined="2007-05-01"/>
+		<cosponsor id="400276" joined="2007-02-15"/>
+		<cosponsor id="400361" joined="2007-05-07"/>
+		<cosponsor id="412210" joined="2007-05-24"/>
+		<cosponsor id="400124" joined="2007-02-15"/>
+		<cosponsor id="400630" joined="2007-02-15"/>
+		<cosponsor id="400323" joined="2007-05-15"/>
+		<cosponsor id="400003" joined="2007-02-15"/>
+		<cosponsor id="400049" joined="2008-06-24"/>
+		<cosponsor id="400423" joined="2007-11-15"/>
+		<cosponsor id="400229" joined="2007-04-16"/>
+		<cosponsor id="400132" joined="2007-02-15"/>
+		<cosponsor id="412231" joined="2007-07-11"/>
+		<cosponsor id="400406" joined="2007-02-15"/>
+		<cosponsor id="400274" joined="2007-02-15"/>
+		<cosponsor id="412189" joined="2007-12-11"/>
+		<cosponsor id="400254" joined="2007-03-26"/>
+		<cosponsor id="412214" joined="2007-05-01"/>
+		<cosponsor id="400409" joined="2007-03-14"/>
+		<cosponsor id="400370" joined="2008-03-13"/>
+		<cosponsor id="400101" joined="2007-02-15"/>
+		<cosponsor id="400396" joined="2007-02-15"/>
+		<cosponsor id="400384" joined="2007-02-15"/>
+		<cosponsor id="400184" joined="2007-02-15"/>
+		<cosponsor id="400152" joined="2007-04-23"/>
+		<cosponsor id="400412" joined="2007-05-03"/>
+		<cosponsor id="400355" joined="2007-07-26"/>
+		<cosponsor id="412208" joined="2007-04-17"/>
+		<cosponsor id="400216" joined="2007-02-15"/>
+		<cosponsor id="400262" joined="2007-02-15"/>
+		<cosponsor id="400130" joined="2007-03-08"/>
+		<cosponsor id="400249" joined="2007-02-15"/>
+		<cosponsor id="400437" joined="2007-05-22"/>
+		<cosponsor id="400030" joined="2007-09-14"/>
+		<cosponsor id="400312" joined="2007-02-15"/>
+		<cosponsor id="412198" joined="2007-07-24"/>
+		<cosponsor id="400359" joined="2007-05-22"/>
+		<cosponsor id="412188" joined="2007-02-15"/>
+		<cosponsor id="400007" joined="2007-02-15"/>
+		<cosponsor id="400245" joined="2007-02-15"/>
+		<cosponsor id="400231" joined="2007-02-15"/>
+		<cosponsor id="400402" joined="2007-04-30"/>
+		<cosponsor id="400235" joined="2007-09-04"/>
+		<cosponsor id="400663" joined="2007-02-15"/>
+		<cosponsor id="400352" joined="2007-06-21"/>
+		<cosponsor id="400339" joined="2007-05-02"/>
+		<cosponsor id="400387" joined="2007-02-15"/>
+		<cosponsor id="400648" joined="2007-03-05"/>
+		<cosponsor id="400006" joined="2007-06-11"/>
+		<cosponsor id="400017" joined="2007-02-15"/>
+		<cosponsor id="400331" joined="2007-03-21"/>
+		<cosponsor id="400098" joined="2007-02-15"/>
+		<cosponsor id="412258" joined="2008-05-01"/>
+		<cosponsor id="400147" joined="2007-05-09"/>
+		<cosponsor id="400082" joined="2007-04-16"/>
+		<cosponsor id="400347" joined="2007-07-10"/>
+		<cosponsor id="400230" joined="2007-07-10"/>
+		<cosponsor id="400416" joined="2007-11-15"/>
+		<cosponsor id="400008" joined="2007-10-01"/>
+		<cosponsor id="400356" joined="2007-06-27"/>
+		<cosponsor id="400121" joined="2007-02-15"/>
+		<cosponsor id="412187" joined="2007-04-16"/>
+		<cosponsor id="412223" joined="2007-06-05"/>
+		<cosponsor id="400048" joined="2007-07-11"/>
+		<cosponsor id="412209" joined="2007-05-02"/>
+		<cosponsor id="400051" joined="2008-06-09"/>
+		<cosponsor id="412193" joined="2007-03-08"/>
+		<cosponsor id="400308" joined="2007-02-15"/>
+		<cosponsor id="412199" joined="2007-04-16"/>
+		<cosponsor id="400631" joined="2007-06-05"/>
+		<cosponsor id="400001" joined="2007-02-15"/>
+		<cosponsor id="400103" joined="2007-02-15"/>
+		<cosponsor id="400110" joined="2007-02-15"/>
+		<cosponsor id="400087" joined="2007-03-26"/>
+		<cosponsor id="412211" joined="2008-04-10"/>
+		<cosponsor id="400270" joined="2007-10-25"/>
+		<cosponsor id="400039" joined="2007-04-18"/>
+		<cosponsor id="400259" joined="2007-02-15"/>
+		<cosponsor id="400166" joined="2007-03-01"/>
+		<cosponsor id="400115" joined="2008-04-10"/>
+		<cosponsor id="400436" joined="2007-03-01"/>
+		<cosponsor id="400346" joined="2007-02-15"/>
+		<cosponsor id="400237" joined="2007-02-15"/>
+		<cosponsor id="400140" joined="2007-02-15"/>
+		<cosponsor id="400070" joined="2007-02-15"/>
+		<cosponsor id="400570" joined="2008-03-04"/>
+		<cosponsor id="400013" joined="2007-02-15"/>
+		<cosponsor id="400383" joined="2007-06-05"/>
+		<cosponsor id="412240" joined="2007-04-23"/>
+		<cosponsor id="412222" joined="2007-03-22"/>
+		<cosponsor id="412204" joined="2007-03-14"/>
+		<cosponsor id="400400" joined="2007-02-15"/>
+		<cosponsor id="400426" joined="2007-02-15"/>
+		<cosponsor id="400653" joined="2007-05-02"/>
+		<cosponsor id="400195" joined="2007-02-15"/>
+		<cosponsor id="400251" joined="2007-02-15"/>
+		<cosponsor id="400320" joined="2007-03-01" withdrawn="2008-04-02"/>
+		<cosponsor id="400178" joined="2007-02-15"/>
+		<cosponsor id="400026" joined="2007-04-30"/>
+		<cosponsor id="400378" joined="2007-05-07"/>
+		<cosponsor id="412232" joined="2007-10-29"/>
+		<cosponsor id="400350" joined="2007-02-15"/>
+		<cosponsor id="400217" joined="2007-06-19"/>
+		<cosponsor id="400360" joined="2007-02-15"/>
+		<cosponsor id="400366" joined="2007-06-05"/>
+		<cosponsor id="400255" joined="2007-02-15"/>
+		<cosponsor id="412239" joined="2007-05-07"/>
+		<cosponsor id="400269" joined="2007-02-15"/>
+		<cosponsor id="400120" joined="2007-02-15"/>
+		<cosponsor id="400299" joined="2007-02-15"/>
+		<cosponsor id="400118" joined="2007-10-01"/>
+		<cosponsor id="400628" joined="2007-07-12"/>
+		<cosponsor id="400638" joined="2007-06-11"/>
+		<cosponsor id="412200" joined="2007-02-15"/>
+		<cosponsor id="400232" joined="2007-02-15"/>
+		<cosponsor id="400319" joined="2007-12-19"/>
+		<cosponsor id="400193" joined="2007-02-15"/>
+		<cosponsor id="400415" joined="2007-02-15"/>
+		<cosponsor id="412254" joined="2007-12-04"/>
+		<cosponsor id="400244" joined="2007-02-15"/>
+		<cosponsor id="412236" joined="2007-03-01"/>
+		<cosponsor id="400093" joined="2007-02-15"/>
+		<cosponsor id="400440" joined="2008-06-04"/>
+		<cosponsor id="400326" joined="2007-05-16"/>
+		<cosponsor id="400371" joined="2007-02-15"/>
+		<cosponsor id="412228" joined="2007-04-19"/>
+		<cosponsor id="412212" joined="2007-05-15"/>
+		<cosponsor id="400291" joined="2007-05-02"/>
+		<cosponsor id="400201" joined="2007-10-25"/>
+		<cosponsor id="412257" joined="2008-06-09"/>
+		<cosponsor id="400109" joined="2007-10-18"/>
+		<cosponsor id="400391" joined="2007-03-23"/>
+		<cosponsor id="400185" joined="2007-02-15"/>
+		<cosponsor id="400641" joined="2007-02-15"/>
+		<cosponsor id="400047" joined="2007-06-11"/>
+		<cosponsor id="412220" joined="2007-05-24"/>
+		<cosponsor id="400283" joined="2007-02-15"/>
+		<cosponsor id="400204" joined="2007-06-28"/>
+		<cosponsor id="400097" joined="2007-02-15"/>
+		<cosponsor id="400310" joined="2007-11-05"/>
+		<cosponsor id="400286" joined="2008-04-17"/>
+		<cosponsor id="400090" joined="2007-02-15"/>
+		<cosponsor id="400033" joined="2007-02-15"/>
+		<cosponsor id="400042" joined="2007-03-05"/>
+		<cosponsor id="400208" joined="2007-12-11"/>
+		<cosponsor id="400218" joined="2007-05-03"/>
+		<cosponsor id="400240" joined="2007-02-15"/>
+		<cosponsor id="400438" joined="2007-02-15"/>
+		<cosponsor id="412219" joined="2007-04-16"/>
+		<cosponsor id="400215" joined="2007-02-15"/>
+		<cosponsor id="400024" joined="2007-06-14"/>
+		<cosponsor id="400654" joined="2008-07-14"/>
+		<cosponsor id="400238" joined="2007-10-15"/>
+		<cosponsor id="412206" joined="2007-03-23"/>
+		<cosponsor id="400301" joined="2007-02-15"/>
+		<cosponsor id="400345" joined="2007-11-15"/>
+		<cosponsor id="400163" joined="2007-02-15"/>
+		<cosponsor id="400114" joined="2007-03-20"/>
+		<cosponsor id="400062" joined="2007-02-15"/>
+		<cosponsor id="412194" joined="2007-03-05"/>
+		<cosponsor id="400011" joined="2007-03-01"/>
+		<cosponsor id="400233" joined="2007-02-15"/>
+		<cosponsor id="400321" joined="2007-02-15"/>
+		<cosponsor id="400179" joined="2007-05-01"/>
+		<cosponsor id="400100" joined="2007-04-16"/>
+		<cosponsor id="400639" joined="2008-02-26"/>
+		<cosponsor id="400349" joined="2007-05-07"/>
+		<cosponsor id="400309" joined="2007-02-15"/>
+		<cosponsor id="412202" joined="2007-03-14"/>
+		<cosponsor id="400186" joined="2007-05-09"/>
+		<cosponsor id="400278" joined="2007-02-15"/>
+		<cosponsor id="400067" joined="2007-04-16"/>
+		<cosponsor id="400429" joined="2007-02-15"/>
+		<cosponsor id="412233" joined="2007-05-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1171515600" datetime="2007-02-15"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1171602000" datetime="2007-02-16"><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1191384000" datetime="2007-10-03"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1204779600" datetime="2008-03-06"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1205208000" datetime="2008-03-11"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1205208000" datetime="2008-03-11"><text>Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 18 - 9 .</text></action>
+		<action date="1207108800" datetime="2008-04-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1207108800" datetime="2008-04-02" ><text>Ordered to be Reported (Amended) by the Yeas and Nays: 38 - 12.</text></calendar>
+		<action date="1216322160" datetime="2008-07-17T16:16:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-762.</text></action>
+		<calendar number="485" date="1216322220" datetime="2008-07-17T16:17:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 485.</text></calendar>
+		<action date="1217444700" datetime="2008-07-30T16:05:00-04:00"><text>Mr. Dingell moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1217444700" datetime="2008-07-30T16:05:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7546-7577"/></action>
+		<action date="1217444700" datetime="2008-07-30T16:05:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1108.</text></action>
+		<action date="1217447820" datetime="2008-07-30T16:57:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Barton (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1217452140" datetime="2008-07-30T18:09:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7587"/></action>
+		<vote date="1217453760" how="roll" roll="542" datetime="2008-07-30T18:36:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 326 - 102 (Roll no. 542).</text><reference label="text" ref="CR H7546-7568"/></vote>
+		<action date="1217476800" datetime="2008-07-31"><text>Received in the Senate.</text></action>
+		<action date="1217563200" datetime="2008-08-01"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/30/2008--Passed House amended. Family Smoking Prevention and Tobacco Control Act - Title I: Authority of the Food and Drug Administration - (Sec. 101) Amends the Federal Food, Drug, and Cosmetic Act (FFDCA) to provide for the regulation of tobacco products by the Secretary of Health and Human Services through the Food and Drug Administration (FDA).<br/>Defines a tobacco product as any product made or derived from tobacco that is intended for human consumption. Prohibits a tobacco product from being marketed in combination with any other article or product regulated under FFDCA. Requires the Secretary to regulate tobacco products. Excludes from FDA authority: (1) the tobacco leaf that is not in the possession of a tobacco product manufacturer; (2) the producers of the tobacco leaf, unless the producer is also a manufacturer; and (3) tobacco farms.<br/>Directs the Secretary to establish within FDA: (1) the Center for Tobacco Products to implement this Act; and (2) an identifiable office to provide technical and other nonfinancial assistance to assist small tobacco product manufacturers in complying with this Act.<br/>Deems a tobacco product to be adulterated if: (1) it contains any filthy, putrid, or decomposed substance or is contaminated by any added poisonous or deleterious substance that may render the product injurious to health; (2) it has been prepared, packed, or held under unsanitary conditions; (3) its package is composed of any poisonous or deleterious substance; (4) the manufacturer or importer of the product fails to pay the assessed user fee; (5) it fails to meet specified tobacco product standards; (6) it does not have required premarket review; (7) it fails to meet applicable requirements or conditions on manufacturing, packing, or storage; or (8) it fails to conform to requirements for modified risk tobacco products. Deems a tobacco product to be misbranded if: (1) its labeling, packaging, or advertising contains any false or misleading information; (2) its label or advertising fails to contain all required information displayed prominently and conspicuously, including its established name, manufacturer, and contents and adequate directions and warnings; (3) it was manufactured, prepared, or processed in an establishment not registered with the Secretary; or (4) there is any failure to submit the required information or notices to the Secretary.<br/>Allows the Secretary to require prior approval of all label statements on tobacco products.<br/>Requires tobacco product manufacturers or importers to submit to the Secretary: (1) a listing of all ingredients, including ingredients added by the manufacturer to the tobacco, paper, or filter, by brand and quantity; (2) a description of the content, delivery, and form of nicotine in each tobacco product; (3) a listing of all constituents, including smoke constituents, identified by the Secretary as harmful or potentially harmful to health in each tobacco product; and (4) all documents developed that relate to the health, toxicological, behavioral, or physiologic effects of tobacco products and their constituents, ingredients, components, and additives.<br/>Allows the Secretary to request additional information from a tobacco product manufacturer or importer relating to: (1) research activities or findings on the effects of tobacco products and their constituents and on whether the health risk can be reduced if the manufacturer employs known or available technology; and (2) marketing research or practices used by manufacturers or distributors.<br/>Sets forth notifications that manufacturers must make to Secretary regarding any change in a tobacco product. Requires the Secretary to publicly display and annually publish a list (that is understandable and not misleading to a lay person) of harmful or potentially harmful constituents in each tobacco product by brand and quantity.<br/>Requires owners and operators of establishments in the United States engaged in the manufacture, preparation, compounding, or processing of a tobacco product to register annually with the Secretary. Allows the Secretary to prescribe a uniform system for the identification of tobacco products, which registrants must use. Requires the Secretary to make such registration information available to the public and to inspect registered establishments every two years.<br/>Requires foreign establishments to register and ensure that adequate and effective means are available to determine whether their tobacco products conform with FFDCA requirements.<br/>Prohibits the disclosure of privileged or confidential trade secrets and commercial financial information that is obtained by the Secretary.<br/>Allows the Secretary to restrict: (1) the sale or distribution of tobacco products if appropriate for the protection of the public health; and (2) the advertising and promotion of tobacco products consistent with, and to the full extent permitted by, the First Amendment. Prohibits restrictions that: (1) limit the sale or distribution of a tobacco product to written or oral authorization by a practitioner licensed to prescribe medicine; (2) prohibit the sale of a tobacco product in face-to-face transactions by a specific category of retail outlets; or (3) establish a minimum age of sale of tobacco products to any person older than 18 years of age.<br/>Requires the Secretary to promulgate regulations to prevent the sale and distribution of tobacco products to minors through means other than a direct, face-to-face exchange between a retailer and a consumer.<br/>Directs the Secretary to prescribe regulations to protect the public health and assure that tobacco products are in compliance with this Act by requiring good manufacturing practices or hazard analysis and critical control point methodology. Requires the Secretary to: (1) provide a reasonable period for manufacturers to conform to good manufacturing practices; and (2) not require any small tobacco product manufacturer to comply with such regulations for at least four years. Allows the Secretary to grant exemptions and variances from such regulations under certain circumstances.<br/>Allows the Secretary to enter into contracts for research, testing, and demonstrations respecting tobacco products and to obtain tobacco products for such purposes.<br/>Prohibits a cigarette or any of its components from containing as a constituent or additive any artificial or natural flavor (other than tobacco or menthol) or any herb or spice (including strawberry, grape, orange, clove, cinnamon, and vanilla) that is a characterizing flavor of the tobacco product or tobacco smoke. Prohibits a tobacco product manufactured or imported into the United States from containing foreign grown tobacco that was grown or processed: (1) using a pesticide chemical not approved for domestic tobacco farming and processing; or (2) using an approved pesticide in a manner inconsistent with the labeling for its use in tobacco farming and processing. Allows the Secretary to adopt additional tobacco product standards as appropriate to protect the public health, which may include standards for: (1) reducing nicotine yields; (2) reducing or eliminating other constituents or harmful components; and (3) product testing. Allows the Secretary to amend or revoke a tobacco product standard. Prohibits the Secretary from: (1) banning all cigarettes, all smokeless tobacco products, all little cigars, all cigars other than little cigars, all pipe tobacco, or all roll-your-own tobacco products; or (2) requiring the reduction of nicotine yields of a tobacco product to zero.<br/>Requires the Secretary to refer to the Tobacco Products Scientific Advisory Committee for report and recommendation the issue of the impact of the use of menthol in cigarettes on the public health, including such use among African Americans, Hispanics, and other racial and ethnic minorities.<br/>Allows the Secretary to notify the public if a tobacco product poses an unreasonable risk of substantial harm to the public health. Requires the Secretary to order a cease in distribution and a recall (after a hearing) of a tobacco product if there is a reasonable probability that it contains a defect not ordinarily contained in tobacco products that would cause serious, adverse health consequences or death.<br/>Requires manufacturers and importers to comply with record keeping and reporting requirements established by the Secretary, such as informing the Secretary of any information that reasonably suggests that a marketed tobacco product may have caused or contributed to a serious unexpected adverse experience. Prohibits the Secretary from: (1) imposing unduly burdensome requirements; or (2) requiring that the identity of any patient or user be disclosed unless required for the medical welfare of an individual, to determine risks to the public health, or to verify information. Requires the Secretary to have due regard for the ethics of the medical profession.<br/>Directs the Secretary to require prompt notification by manufacturers and importers of any corrective action taken or any removal from the market of a tobacco product to reduce a health risk posed by the product or to remedy a violation of this Act that may present such a risk.<br/>Requires premarket approval of all new tobacco products (products not substantially equivalent to an existing tobacco product) commercially marketed after February 15, 2007. Defines &quot;substantially equivalent&quot; as having the same characteristics or having different characteristics but not raising different questions of public health. Sets forth an application process for premarket approval of a new tobacco product, including health information that must be included. Authorizes the Secretary to: (1) allow, prohibit, or restrict distribution of such a tobacco product; and (2) temporarily suspend an application if the probability that continued distribution would cause serious, adverse health consequences or death is greater than that for tobacco products on the market.<br/>Prohibits the sale of any modified risk tobacco product unless an order is issued by the Secretary. Defines a &quot;modified risk tobacco product&quot; as any tobacco product that is sold or distributed for use to reduce harm or the risk of tobacco-related diseases associated with commercially marketed tobacco products, specifically products where: (1) the labeling or advertising represents that the product presents a lower risk of tobacco-related disease or is less harmful than other tobacco products, contains a reduced level of or presents a reduced exposure to a substance, or is free of a substance; (2) the labeling or advertising uses descriptors such as &quot;light,&quot; &quot;mild,&quot; or &quot;low&quot;; or (3) the product manufacturer has taken action reasonably expected to result in consumers believing that the product or its smoke presents a lower risk of disease, is less harmful, presents a reduced exposure, or is free of a substance. Sets forth requirements for filing with the Secretary an application for a modified risk tobacco product.<br/>Directs the Secretary to issue an order that a modified risk tobacco product may be commercially marketed only if the Secretary determines that an applicant has demonstrated that such product, as it is actually used by consumers, will: (1) significantly reduce harm and the risk of tobacco-related disease to individual tobacco users; and (2) benefit the health of the population as a whole including users and nonusers of tobacco.<br/>Allows the Secretary to issue an order allowing the sale of a tobacco product that may not be commercially marketed as a modified risk tobacco product for five years if certain requirements are met, including that: (1) such order would be appropriate to promote the public health; and (2) issuing such an order is expected to benefit the health of the population as a whole.<br/>Requires the Secretary to require that advertising and labeling concerning modified risk tobacco products enable the public to understand the information and its significance in the context of total health and in relation to all of the diseases and health-related conditions associated with the use of tobacco products. Directs the Secretary to require that the results of postmarket surveillance and studies on modified risk tobacco products be submitted annually.<br/>Sets forth procedures for the withdrawal of an order allowing commercial distribution of a modified risk tobacco product.<br/>Prohibits distributors from taking any action that would reasonably be expected to result in consumers believing that a tobacco product or its smoke may present a lower risk of disease or is less harmful than other tobacco products.<br/>Sets forth provisions regarding the judicial review of regulations and denied applications for new tobacco products.<br/>Requires the Secretary to require retail establishments for which the predominant business is the sale of tobacco products to comply with advertising restrictions applicable to retail establishments accessible to individuals under the age of 18.<br/>Deems any violation of this Act pertaining to advertising to be an unfair or deceptive act or practice under the Federal Trade Commission (FTC) Act. Requires the Chairman of FTC to coordinate with the Secretary concerning enforcement of the FTC Act for the advertisement of cigarettes or smokeless tobacco. Requires the Secretary to consult with the Chairman in revising the label statements and requirements for tobacco products under the FTC Act.<br/>Requires the Secretary, acting through the Commissioner of FDA, to promulgate regulations under this Act within two years that require the testing and reporting of tobacco product constituents, ingredients, and additives that the Secretary determines should be tested to protect the public health. Gives the Secretary the authority to conduct or require the testing, reporting, or disclosure of tobacco product constituents.<br/>Delays the imposition of such testing regulations on small tobacco product manufacturers. Allows additional such delays under certain circumstances. Sets forth provisions governing testing by such manufacturers.<br/>Declares that this Act does not: (1) prohibit federal agencies, states, political subdivisions, or Indian tribes from enacting additional or more stringent measures, except requirements relating to tobacco product standards, premarket review, adulteration, misbranding, labeling, registration, good manufacturing standards, or modified risk tobacco products; (2) prohibit state, tribal, or local taxation of tobacco products; and (3) modify or affect the liability of any person under the product liability laws of any state.<br/>Requires the Secretary to establish a Tobacco Products Scientific Advisory Committee to provide advice, information, and recommendations to the Secretary, including on the effects of altering nicotine yields from tobacco products and whether there is a threshold level below which nicotine yields do not produce dependence on the tobacco product involved.<br/>Requires the Secretary to consider: (1) designating products for smoking cessation, including nicotine replacement products, as fast track research and approval products; (2) approving the extended use of nicotine replacement products for the treatment of tobacco dependence; and (3) evidence for additional indications for such products.<br/>Directs the Secretary to report to Congress on how best to regulate, promote, and encourage the development of innovative products and treatments to better achieve, in a manner that best protects and promotes the public health: (1) total abstinence from tobacco use; (2) reductions in consumption of tobacco; and (3) reductions in the harm associated with continued tobacco use.<br/>Requires the Secretary to assess a quarterly user fee on manufacturers and importers of tobacco products based on the class of tobacco product and the company market share to pay for the costs of FDA activities related to the regulation of tobacco products.<br/>Requires the Comptroller General to study: (1) the prevalence of youth tobacco use and the brands that individuals under the age of 18 consume; (2) the feasibility of utilizing youth market share to structure user fees; and (3) the potential effects of tobacco marketing to youth audiences if user fees were calculated in whole or in part on youth market share.<br/>(Sec. 102) Requires the Secretary to publish a final rule regarding cigarettes and smokeless tobacco that is identical to regulations promulgated by the Secretary on August 28, 1996, that set out restrictions under FFDCA on the sale, distribution, and use of cigarettes and smokeless tobacco that contain nicotine, except for labeling requirements. Sets forth provisions governing the distribution of free samples of cigarettes, smokeless tobacco, or other tobacco products. Limits the effect of specified advisory opinions and prohibits the Secretary and FDA from citing them as binding precedent.<br/>(Sec. 103) Adds tobacco related violations to the list of prohibited acts under FFDCA. Prohibits the charitable distribution of tobacco products. Prohibits any statement directed to consumers through the media, labeling, or advertising that: (1) would reasonably be expected to result in consumers believing that the tobacco product is regulated, inspected, or approved by FDA or that the product complies with FDA requirements; and (2) could result in consumers believing that the product is endorsed for use by FDA or in consumers being misled about the harmfulness of the product.<br/>Allows the Secretary to impose a no-tobacco-sale order at retail outlets for repeated violations of restrictions on the sale of tobacco products.<br/>Requires the Secretary to submit a report to the relevant committees on: (1) the nature, extent, and destination of U.S. tobacco product exports that do not conform to tobacco product standards established under this Act; (2) the public health implications of such exports; and (3) recommendations or assessments of policy alternatives available to reduce any negative public health impact.<br/>Sets forth provisions providing for notice of violations to retailers.<br/>(Sec. 104) Directs the Secretary to convene an expert panel to study the public health implications of raising the minimum age to purchase tobacco products.<br/>(Sec. 105) Directs FTC to study the causes and effects of concentration in the tobacco industry.<br/>(Sec. 106) Requires the Secretary to develop an action plan to enforce restrictions on the promotion and advertising of menthol and other cigarettes to youth.<br/>Title II: Tobacco Product Warnings; Constituent and Smoke Constituent Disclosure - (Sec. 201) Amends the Federal Cigarette Labeling and Advertising Act to prohibit any person from manufacturing, packaging, selling, offering to sell, distributing, or importing for sale or distribution within the United States any cigarettes the packages of which fail to bear specified warning labels. Specifies the location, size, type size, and color of such labeling.<br/>Prohibits tobacco product manufacturers, importers, distributors, or retailers to advertise cigarettes within the United States without specified labeling. Specifies the location, size, type size, color, and border of warning labels for different types of advertisements.<br/>(Sec. 202) Allows the Secretary to alter label requirements to promote greater public understanding of the risks associated with the use of tobacco products.<br/>(Sec. 203) Allows states or localities to impose specific bans or restrictions on the time, place, and manner, but not the content, of the advertising or promotion of any cigarettes.<br/>(Sec. 204) Amends the Comprehensive Smokeless Tobacco Health Education Act of 1986 to apply the same restrictions on labeling and advertising to smokeless tobacco products.<br/>(Sec. 206) Requires the Secretary to determine whether manufacturers should be required to include on the label and advertisements the tar and nicotine yields of the product. Allows the Secretary to require disclosure of the level of constituents in a tobacco product if such disclosures would benefit the public health or increase consumer awareness of the health consequences of the use of tobacco products.<br/>Title III: Prevention of Illicit Trade in Tobacco Products - (Sec. 301) Sets forth labeling, inspection, and record keeping requirements to prevent the illicit trade, smuggling, or counterfeiting of tobacco products.<br/>Requires a manufacturer or distributor to notify the Attorney General and the Secretary of the Treasury promptly of any knowledge that reasonably supports the conclusion that a tobacco product manufactured or distributed has left its control and may be or has been: (1) imported, exported, distributed, or sold without paying duties or taxes; or (2) diverted for possible illicit marketing.<br/>(Sec. 302) Requires the Comptroller General to conduct a study to collect data on cross-border trades and advertising in tobacco products and the health effects resulting from such tradesand to make recommendations on monitoring such trades and preventing or eliminating such advertising.<br/>Title IV: Thrift Savings Plan Enhancements - (Sec. 401) Thrift Savings Plan Enhancement Act of 2008 - (Sec. 402) Revises requirements for participation in the Thrift Savings Plan (TSP) to require the Federal Retirement Thrift Investment Board to provide regulations for automatic enrollment of new participants to make contributions at the default percentage of basic pay.<br/>Requires the Executive Director of the Board, when an election has not been made, to invest TSP funds in the Government Securities Investment Fund (G Fund) or such alternative fund or funds as the Board may designate in the best interests of participants.<br/>(Sec. 403) Requires the Board to include in the TSP a qualified Roth contribution program.<br/>(Sec. 404) Authorizes the Board to permit the addition of self-directed investment options under TSP if such an addition would be in the best interests of participants. Limits such investment options to: (1) low-cost, passively-managed index funds that offer diversification benefits; and (2) other appropriate retirement investment vehicles.<br/>Requires the Board to ensure that any administrative expenses related to the use of the self-directed investment window are borne solely by participants who use such window.<br/>Authorizes the Board to establish such other terms and conditions for the self-investment window as the Board considers appropriate to protect the interests of participants, including requirements relating to risk disclosure.<br/>(Sec. 405) Sets forth reporting requirements related to the operation of TSP.<br/>(Sec. 406) Requires any participant who elects to invest in any investment fund or option other than the G Fund to sign an acknowledgment that the participant is not protected by the government against any loss on such investments and that a return on such investment is not guaranteed by the government. Deems a participant, in the case of a default investment in the G Fund or an alternative fund, to have: (1) elected to invest in such fund; and (2) executed the acknowledgment of risk otherwise required.<br/>Provides that a fiduciary shall not be liable and no civil action may be brought against a fiduciary for: (1) providing for the automatic enrollment of a participant; (2) enrolling a participant in a default investment fund; or (3) allowing a participant to invest through the self-directed investment window or establishing restrictions applicable to a participant's ability to invest through such a window.<br/>(Sec. 407) Revises provisions governing unused sick leave in computing total service for an annuity.<br/>
+	</summary>
+</bill>

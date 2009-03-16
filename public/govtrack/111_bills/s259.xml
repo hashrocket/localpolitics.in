@@ -1,0 +1,44 @@
+<bill session="111" type="s" number="259" updated="2009-03-07T14:04:13-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Vision Care for Kids Act of 2009</title>
+		<title type="official" as="introduced">A bill to establish a grant program to provide vision care to children, and for other purposes.</title>
+	</titles>
+	<sponsor id="300010"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2009-01-15"/>
+		<cosponsor id="300025" joined="2009-01-15"/>
+		<cosponsor id="300001" joined="2009-01-15"/>
+		<cosponsor id="300067" joined="2009-01-15"/>
+		<cosponsor id="412246" joined="2009-01-15"/>
+		<cosponsor id="412243" joined="2009-01-15"/>
+		<cosponsor id="300034" joined="2009-01-15"/>
+		<cosponsor id="300026" joined="2009-02-13"/>
+		<cosponsor id="412244" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="577" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Child health"/>
+		<term name="Health information and medical records"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Health promotion and preventive care"/>
+		<term name="Hearing, speech, and vision care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

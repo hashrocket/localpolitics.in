@@ -1,0 +1,33 @@
+<bill session="110" type="sr" number="90" updated="2009-01-09T20:09:38-05:00">
+	<status><vote date="1172638800" datetime="2007-02-28" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1172638800" datetime="2007-02-28"/>
+	<titles>
+		<title type="official" as="introduced">A resolution commending students who participated in the United States Senate Youth Program between 1962 and 2007.</title>
+	</titles>
+	<sponsor id="300025"/>
+	<cosponsors>
+		<cosponsor id="300023" joined="2007-02-28"/>
+		<cosponsor id="300097" joined="2007-02-28"/>
+		<cosponsor id="300036" joined="2007-02-28"/>
+		<cosponsor id="400629" joined="2007-02-28"/>
+	</cosponsors>
+	<actions>
+		<vote date="1172638800" how="by Unanimous Consent" datetime="2007-02-28" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S2434"/><reference label="text as passed Senate" ref="CR S2434"/><reference label="text of measure as introduced" ref="CR S2378"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/28/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Honors the more than 4,500 exemplary students who have been selected, on the basis of merit, to participate in the United States Senate Youth Program between 1962 and 2007.<br/>
+	</summary>
+</bill>

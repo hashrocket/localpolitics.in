@@ -1,0 +1,64 @@
+<bill session="110" type="h" number="3928" updated="2009-01-09T01:04:29-05:00">
+	<status><vote date="1209008400" datetime="2008-04-23T12:40:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1193112000" datetime="2007-10-23"/>
+	<titles>
+		<title type="short" as="introduced">Government Contractor Accountability Act of 2007</title>
+		<title type="short" as="reported to house">Government Contractor Accountability Act of 2007</title>
+		<title type="short" as="passed house">Government Funding Transparency Act of 2008</title>
+		<title type="official" as="introduced">To require certain large government contractors that receive more than 80 percent of their annual gross revenue from Federal contracts to disclose the names and salaries of their most highly compensated officers, and for other purposes.</title>
+		<title type="official" as="amended by house">To amend the Federal Funding Accountability and Transparency Act of 2006 to require certain recipients of Federal funds to disclose the names and total compensation of their most highly compensated officers, and for other purpose.</title>
+	</titles>
+	<sponsor id="412194"/>
+	<cosponsors>
+		<cosponsor id="400116" joined="2008-03-06"/>
+		<cosponsor id="400409" joined="2007-10-31"/>
+		<cosponsor id="412208" joined="2007-10-23"/>
+		<cosponsor id="400262" joined="2007-10-23"/>
+		<cosponsor id="400249" joined="2007-10-23"/>
+		<cosponsor id="412193" joined="2007-10-31"/>
+		<cosponsor id="400103" joined="2007-10-31"/>
+		<cosponsor id="400436" joined="2007-10-24"/>
+		<cosponsor id="412222" joined="2007-10-23"/>
+		<cosponsor id="412239" joined="2007-10-23"/>
+		<cosponsor id="412200" joined="2007-10-24"/>
+		<cosponsor id="412228" joined="2007-12-13"/>
+		<cosponsor id="412220" joined="2007-10-23"/>
+		<cosponsor id="400090" joined="2007-10-31"/>
+		<cosponsor id="412219" joined="2007-10-24"/>
+		<cosponsor id="400301" joined="2007-10-23"/>
+		<cosponsor id="400425" joined="2007-10-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1193112000" datetime="2007-10-23"><text>Sponsor introductory remarks on measure. (CR H11853)</text></action>
+		<action date="1193112000" datetime="2007-10-23"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1193976000" datetime="2007-11-02"><text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text></action>
+		<action date="1205208000" datetime="2008-03-11"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1205208000" datetime="2008-03-11"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1205380800" datetime="2008-03-13"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1205380800" datetime="2008-03-13" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1208464020" datetime="2008-04-17T17:27:00-04:00"><text>Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-594.</text></action>
+		<calendar number="367" date="1208464020" datetime="2008-04-17T17:27:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 367.</text></calendar>
+		<action date="1209007440" datetime="2008-04-23T12:24:00-04:00"><text>Mr. Towns moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1209007500" datetime="2008-04-23T12:25:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2574-2577"/></action>
+		<action date="1209007500" datetime="2008-04-23T12:25:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3928.</text></action>
+		<vote date="1209008400" how="by voice vote" datetime="2008-04-23T12:40:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H2575"/></vote>
+		<action date="1209008400" datetime="2008-04-23T12:40:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1209009600" datetime="2008-04-24"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/23/2008--Passed House amended. Government Funding Transparency Act of 2008 - Amends the Federal Funding Accountability and Transparency Act to require the Office of Management and Budget (OMB) to ensure that the federal awards website includes for each federal award of assistance or expenditures of $25,000 or more the names and total compensation of the five most highly compensated officers of the receiving entity if: (1) the entity in the preceding fiscal year received 80% or more of its annual gross revenues and $25 million or more in annual gross revenues from federal awards; and (2) the public does not have access to information about the compensation of the entity's senior executives through reports filed under the Securities Exchange Act of 1934 or the Internal Revenue Code.<br/>Requires the Director of OMB to promulgate regulations to carry out this Act that include a definition of &quot;total compensation&quot; that is consistent with regulations of the Securities and Exchange Commission (SEC) concerning executive compensation.<br/>
+	</summary>
+</bill>

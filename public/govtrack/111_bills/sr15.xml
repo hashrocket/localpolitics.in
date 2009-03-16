@@ -1,0 +1,41 @@
+<bill session="111" type="sr" number="15" updated="2009-03-07T14:40:14-05:00">
+	<status><vote date="1232082000" datetime="2009-01-16" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1232082000" datetime="2009-01-16"/>
+	<titles>
+		<title type="official" as="introduced">A resolution acknowledging the lifelong service of Griffin Boyette Bell, a legal icon, to the State of Georgia and to the United States.</title>
+	</titles>
+	<sponsor id="300021"/>
+	<cosponsors>
+		<cosponsor id="300002" joined="2009-01-16"/>
+		<cosponsor id="400050" joined="2009-01-16"/>
+		<cosponsor id="300059" joined="2009-01-16"/>
+		<cosponsor id="300088" joined="2009-01-16"/>
+		<cosponsor id="400194" joined="2009-01-16"/>
+		<cosponsor id="300023" joined="2009-01-16"/>
+	</cosponsors>
+	<actions>
+		<vote date="1232082000" how="by Unanimous Consent" datetime="2009-01-16" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S657-658"/><reference label="text as passed Senate" ref="CR S657-658"/><reference label="text of measure as introduced" ref="CR S655"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="71" />
+	</relatedbills>
+	<subjects>
+		<term name="Law"/>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Congressional tributes"/>
+		<term name="Department of Justice"/>
+		<term name="Federal officials"/>
+		<term name="Georgia"/>
+		<term name="Lawyers and legal services"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/16/2009--Introduced.<br/>Acknowledges the lifelong services of Griffin Boyette Bell to the state of Georgia and the United States as a legal icon. Commends him for his tenure as Attorney General of the United States and his commitment to the American Civil Rights Movement. 
+	</summary>
+</bill>

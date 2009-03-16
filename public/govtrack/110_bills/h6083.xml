@@ -1,0 +1,67 @@
+<bill session="110" type="h" number="6083" updated="2009-01-09T05:26:47-05:00">
+	<status><enacted date="1224043200" datetime="2008-10-15" /></status>
+
+	<introduced date="1211169600" datetime="2008-05-19"/>
+	<titles>
+		<title type="official" as="introduced">To authorize funding for the National Advocacy Center.</title>
+		<title type="official" as="amended by house">To authorize funding to conduct a national training program for State and local prosecutors.</title>
+	</titles>
+	<sponsor id="400386"/>
+	<cosponsors>
+		<cosponsor id="400092" joined="2008-05-22"/>
+		<cosponsor id="400102" joined="2008-05-22"/>
+		<cosponsor id="412215" joined="2008-06-18"/>
+		<cosponsor id="412214" joined="2008-06-09"/>
+		<cosponsor id="400433" joined="2008-07-15"/>
+		<cosponsor id="412208" joined="2008-07-15"/>
+		<cosponsor id="400437" joined="2008-06-18"/>
+		<cosponsor id="400144" joined="2008-06-11"/>
+		<cosponsor id="400017" joined="2008-05-19"/>
+		<cosponsor id="400331" joined="2008-07-29"/>
+		<cosponsor id="412209" joined="2008-06-11"/>
+		<cosponsor id="400346" joined="2008-05-19"/>
+		<cosponsor id="400411" joined="2008-07-09"/>
+		<cosponsor id="400118" joined="2008-06-03"/>
+		<cosponsor id="412236" joined="2008-07-10"/>
+		<cosponsor id="400033" joined="2008-06-25"/>
+		<cosponsor id="400349" joined="2008-05-19"/>
+		<cosponsor id="400075" joined="2008-05-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1211169600" datetime="2008-05-19"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1216180800" datetime="2008-07-16" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1217388840" datetime="2008-07-29T12:34:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 110-784.</text></action>
+		<calendar number="503" date="1217388840" datetime="2008-07-29T12:34:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 503.</text></calendar>
+		<action date="1217357940" datetime="2008-07-29T15:59:00-04:00"><text>Mr. Conyers moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1217357940" datetime="2008-07-29T15:59:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7232-7233"/></action>
+		<action date="1217357940" datetime="2008-07-29T15:59:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6083.</text></action>
+		<action date="1217358540" datetime="2008-07-29T16:09:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. King (IA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1217544600" datetime="2008-07-31T19:50:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7707"/></action>
+		<vote date="1217544660" how="by voice vote" datetime="2008-07-31T19:51:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/29/2008 H7232)</text></vote>
+		<action date="1217544660" datetime="2008-07-31T19:51:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1217563200" datetime="2008-08-01"><text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text></action>
+		<action date="1222747200" datetime="2008-09-30"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S10184"/></action>
+		<vote date="1222747200" how="by Unanimous Consent" datetime="2008-09-30" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<topresident date="1222747200" datetime="2008-09-30" ><text>Cleared for White House.</text></topresident>
+		<action date="1222833600" datetime="2008-10-01"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1223352000" datetime="2008-10-07" ><text>Presented to President.</text></topresident>
+		<signed date="1224043200" datetime="2008-10-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-424" date="1224043200" datetime="2008-10-15" type="public" ><text>Became Public Law No: 110-424.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/15/2008--Public Law. (This measure has not been amended since it was passed by the House on July 31, 2008. The summary of that version is repeated here.)<br/>Authorizes the Attorney General to: (1) award a grant to a nonprofit organization (such as the National District Attorneys Association) for a national training program to improve the professional skills of state and local prosecutors and to enhance the ability of federal, state, and local prosecutors to work together; and (2) provide assistance for carrying out such training program, including comprehensive continuing legal education in trial practice, substantive legal updates, and support staff training. Authorizes appropriations for FY2009-FY2012. 
+	</summary>
+</bill>

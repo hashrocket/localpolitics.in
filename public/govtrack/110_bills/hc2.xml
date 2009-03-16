@@ -1,0 +1,97 @@
+<bill session="110" type="hc" number="2" updated="2009-01-08T15:26:23-05:00">
+	<status><vote date="1214256360" datetime="2008-06-23T18:26:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress that schools in the United States should honor the contributions of individuals from the territories of the United States by including such contributions in the teaching of United States history.</title>
+		<title type="official" as="amended by house">Expressing the sense of the Congress that children in the United States should understand and appreciate the contributions of individuals from the territories of the United States and the contributions of such individuals in United States history.</title>
+	</titles>
+	<sponsor id="400073"/>
+	<cosponsors>
+		<cosponsor id="400208" joined="2008-05-07"/>
+		<cosponsor id="400290" joined="2008-05-08"/>
+		<cosponsor id="400218" joined="2008-05-08"/>
+		<cosponsor id="400162" joined="2008-05-08"/>
+		<cosponsor id="400661" joined="2008-05-08"/>
+		<cosponsor id="400253" joined="2008-05-08"/>
+		<cosponsor id="400409" joined="2008-05-08"/>
+		<cosponsor id="400240" joined="2008-01-16"/>
+		<cosponsor id="400029" joined="2008-05-08"/>
+		<cosponsor id="412221" joined="2008-05-08"/>
+		<cosponsor id="412215" joined="2008-05-08"/>
+		<cosponsor id="400041" joined="2007-01-05"/>
+		<cosponsor id="400198" joined="2008-05-08"/>
+		<cosponsor id="400184" joined="2008-05-08"/>
+		<cosponsor id="400193" joined="2008-05-08"/>
+		<cosponsor id="400331" joined="2008-05-08"/>
+		<cosponsor id="412258" joined="2008-05-08"/>
+		<cosponsor id="400199" joined="2008-04-24"/>
+		<cosponsor id="400093" joined="2007-12-12"/>
+		<cosponsor id="400216" joined="2008-05-08"/>
+		<cosponsor id="400130" joined="2007-12-11"/>
+		<cosponsor id="400201" joined="2007-12-11"/>
+		<cosponsor id="400030" joined="2008-05-08"/>
+		<cosponsor id="400312" joined="2008-04-24"/>
+		<cosponsor id="400217" joined="2008-05-08"/>
+		<cosponsor id="400333" joined="2007-12-11"/>
+		<cosponsor id="400364" joined="2008-05-08"/>
+		<cosponsor id="400257" joined="2008-05-08"/>
+		<cosponsor id="400366" joined="2007-12-12"/>
+		<cosponsor id="400295" joined="2008-05-08"/>
+		<cosponsor id="400289" joined="2008-05-08"/>
+		<cosponsor id="400423" joined="2008-05-08"/>
+		<cosponsor id="400639" joined="2008-05-08"/>
+		<cosponsor id="400170" joined="2007-12-17"/>
+		<cosponsor id="412199" joined="2008-05-08"/>
+		<cosponsor id="400087" joined="2008-05-08"/>
+		<cosponsor id="400424" joined="2008-05-08"/>
+		<cosponsor id="400402" joined="2008-05-08"/>
+		<cosponsor id="400270" joined="2008-05-08"/>
+		<cosponsor id="400074" joined="2008-05-08"/>
+		<cosponsor id="400204" joined="2008-05-08"/>
+		<cosponsor id="400263" joined="2008-05-08"/>
+		<cosponsor id="400662" joined="2008-05-07"/>
+		<cosponsor id="400090" joined="2008-05-08"/>
+		<cosponsor id="400166" joined="2008-05-08"/>
+		<cosponsor id="400075" joined="2008-05-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1214254860" datetime="2008-06-23T18:01:00-04:00"><text>Mr. Sarbanes moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1214254860" datetime="2008-06-23T18:01:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5838-5841"/></action>
+		<action date="1214254860" datetime="2008-06-23T18:01:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 2.</text></action>
+		<vote date="1214256360" how="by voice vote" datetime="2008-06-23T18:26:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H5838"/></vote>
+		<action date="1214280000" datetime="2008-06-24"><text>Received in the Senate and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral" />
+		<committee name="Senate Energy and Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Elementary and secondary education"/>
+		<term name="American Samoa"/>
+		<term name="Children"/>
+		<term name="Culture"/>
+		<term name="Curricula"/>
+		<term name="Education"/>
+		<term name="Elementary education"/>
+		<term name="Guam"/>
+		<term name="History"/>
+		<term name="Humanities"/>
+		<term name="Northern Mariana Islands"/>
+		<term name="Puerto Rico"/>
+		<term name="Secondary education"/>
+		<term name="State and local government"/>
+		<term name="Teaching"/>
+		<term name="Virgin Islands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/23/2008--Passed House amended. Expresses the sense of Congress that children in the United States should understand and appreciate the contributions of individuals from Puerto Rico, the U.S. Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands to the culture and history of this country. 
+	</summary>
+</bill>

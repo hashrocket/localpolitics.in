@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="1190" updated="2009-01-09T10:22:17-05:00">
+	<status><vote date="1210796400" datetime="2008-05-14T17:20:00-04:00" where="h" result="pass" how="roll" roll="318"/></status>
+
+	<introduced date="1210651200" datetime="2008-05-13"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the adoption of the concurrent resolution (S. Con. Res. 70) setting forth the congressional budget for the United States Government for fiscal year 2009 and including the appropriate budgetary levels for fiscal years 2008 and 2010 through 2013.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1210718640" datetime="2008-05-13T19:44:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-630, by Mr. McGovern.</text></action>
+		<action date="1210718640" datetime="2008-05-13T19:44:00-04:00"><text>The rule adopts as an amendment in the nature of a substitute consisting of the text H. Con. Res. 312 as adopted by the House, adopts S. Con. Res. 70, as amended, and provides that the House insists on its amendment and requests a conference with the Senate.</text></action>
+		<calendar date="1210718640" datetime="2008-05-13T19:44:00-04:00" ><text>Placed on the House Calendar, Calendar No. 217.</text></calendar>
+		<action date="1210792920" datetime="2008-05-14T16:22:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H3824-3828"/></action>
+		<action date="1210792920" datetime="2008-05-14T16:22:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 1190.</text></action>
+		<action date="1210795860" datetime="2008-05-14T17:11:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 225 - 187 (Roll no. 317).</text><reference label="consideration" ref="CR H3827"/></action>
+		<vote date="1210796400" how="roll" roll="318" datetime="2008-05-14T17:20:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 214 - 203 (Roll no. 318).</text><reference label="text" ref="CR H3824"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/13/2008--Reported to House amended. Sets forth the rule for consideration of S.Con.Res. 70 (congressional budget). 
+	</summary>
+</bill>

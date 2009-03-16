@@ -1,0 +1,46 @@
+<bill session="111" type="hr" number="91" updated="2009-03-07T13:16:46-05:00">
+	<status><vote date="1236141120" datetime="2009-03-03T12:32:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1233032400" datetime="2009-01-27"/>
+	<titles>
+		<title type="official" as="introduced">Honoring the life and service of Dr. William Spoelhof, president emeritus of Calvin College in Grand Rapids, Michigan.</title>
+	</titles>
+	<sponsor id="400119"/>
+	<cosponsors>
+		<cosponsor id="400121" joined="2009-02-12"/>
+		<cosponsor id="400414" joined="2009-02-10"/>
+		<cosponsor id="400276" joined="2009-02-12"/>
+		<cosponsor id="400318" joined="2009-02-12"/>
+		<cosponsor id="400182" joined="2009-02-10"/>
+		<cosponsor id="400321" joined="2009-02-12"/>
+		<cosponsor id="400235" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1233032400" datetime="2009-01-27"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1236140700" datetime="2009-03-03T12:25:00-05:00"><text>Mr. Polis (CO) moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1236140700" datetime="2009-03-03T12:25:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2893-2894"/></action>
+		<action date="1236140700" datetime="2009-03-03T12:25:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 91.</text></action>
+		<vote date="1236141120" how="by voice vote" datetime="2009-03-03T12:32:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H2893"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Congressional tributes"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Higher education"/>
+		<term name="Michigan"/>
+		<term name="Military personnel and dependents"/>
+		<term name="Teaching, teachers, curricula"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/3/2009--Passed House amended. Honors the life of Dr. William Spoelhof and his devoted service as a member of the military, teacher, and professor, president, and friend of Calvin College in Grand Rapids, Michigan.<br/>
+	</summary>
+</bill>

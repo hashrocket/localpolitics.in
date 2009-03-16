@@ -1,0 +1,45 @@
+<bill session="110" type="s" number="2291" updated="2009-01-09T16:37:41-05:00">
+	<status><calendar date="1207800000" datetime="2008-04-10" /></status>
+
+	<introduced date="1193889600" datetime="2007-11-01"/>
+	<titles>
+		<title type="short" as="introduced">Plain Language in Government Communications Act of 2007</title>
+		<title type="short" as="reported to senate">Plain Language in Government Communications Act of 2007</title>
+		<title type="official" as="introduced">A bill to enhance citizen access to Government information and services by establishing plain language as the standard style of Government documents issued to the public, and for other purposes.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+		<cosponsor id="300025" joined="2008-03-11"/>
+		<cosponsor id="300098" joined="2008-03-10"/>
+		<cosponsor id="300066" joined="2007-11-01"/>
+		<cosponsor id="300019" joined="2007-11-01"/>
+		<cosponsor id="300023" joined="2008-03-13"/>
+		<cosponsor id="300022" joined="2008-03-03"/>
+		<cosponsor id="412243" joined="2007-11-01"/>
+		<cosponsor id="400629" joined="2007-11-13"/>
+		<cosponsor id="412244" joined="2008-03-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1193889600" datetime="2007-11-01"><text>Sponsor introductory remarks on measure. (CR S13691-13692)</text></action>
+		<action date="1193889600" datetime="2007-11-01"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text><reference label="text of measure as introduced" ref="CR S13692"/></action>
+		<action date="1194325200" datetime="2007-11-06"><text>Sponsor introductory remarks on measure. (CR S13985-13986)</text></action>
+		<calendar date="1207800000" datetime="2008-04-10" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1215662400" datetime="2008-07-10"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-412.</text></action>
+		<calendar under="General Orders" number="869" date="1215662400" datetime="2008-07-10" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 869.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/10/2008--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Plain Language in Government Communications Act of 2007 - Requires each executive agency, not later than one year after enactment of this Act, to use plain language in any covered document issued or substantially revised after the enactment of this Act. Defines &quot;covered document&quot; to include: (1) documents that provide information about any government requirement or program or that are relevant to obtaining any government benefit or service; and (2) letters, publications, forms, notices, or instructions.<br/>Requires the Office of Management and Budget (OMB) to issue guidance on implementing such requirements to agencies as a circular. Authorizes agencies, pending issuance of such guidance, to follow the guidance of the Plain English Handbook published by the Securities and Exchange Commission (SEC), the plain language guidelines developed by the Plain Language Action and Information Network, or their own plain language guidance as long as it is consistent with the Network's guidelines.<br/>Requires each agency head to report to specified congressional committees on how the agency intends to: (1) communicate the requirements of this Act to employees; (2) train employees to write in plain language; (3) meet the plain language requirement; (4) ensure ongoing compliance with this Act; and (5) designate a senior official to be responsible for implementing this Act. Requires: (1) agency heads to report on compliance to OMB; and (2) OMB to report on the progress of agencies to such committees.<br/>
+	</summary>
+</bill>

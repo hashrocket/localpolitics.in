@@ -1,0 +1,74 @@
+<bill session="111" type="h" number="626" updated="2009-03-07T11:01:10-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">Federal Employees Paid Parental Leave Act of 2009</title>
+		<title type="official" as="introduced">To provide that 4 of the 12 weeks of parental leave made available to a Federal employee shall be paid leave, and for other purposes.</title>
+	</titles>
+	<sponsor id="400251"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2009-01-22"/>
+		<cosponsor id="400199" joined="2009-03-03"/>
+		<cosponsor id="400227" joined="2009-01-22"/>
+		<cosponsor id="400257" joined="2009-03-05"/>
+		<cosponsor id="400308" joined="2009-03-03"/>
+		<cosponsor id="412272" joined="2009-02-24"/>
+		<cosponsor id="400103" joined="2009-01-22"/>
+		<cosponsor id="400259" joined="2009-01-22"/>
+		<cosponsor id="400080" joined="2009-03-05"/>
+		<cosponsor id="400436" joined="2009-01-22"/>
+		<cosponsor id="400162" joined="2009-03-04"/>
+		<cosponsor id="400346" joined="2009-02-24"/>
+		<cosponsor id="400195" joined="2009-03-04"/>
+		<cosponsor id="400360" joined="2009-01-22"/>
+		<cosponsor id="400074" joined="2009-01-22"/>
+		<cosponsor id="400189" joined="2009-01-22"/>
+		<cosponsor id="412215" joined="2009-03-03"/>
+		<cosponsor id="400415" joined="2009-01-22"/>
+		<cosponsor id="400093" joined="2009-01-22"/>
+		<cosponsor id="412212" joined="2009-01-22"/>
+		<cosponsor id="400283" joined="2009-01-22"/>
+		<cosponsor id="400090" joined="2009-01-22"/>
+		<cosponsor id="400409" joined="2009-01-22"/>
+		<cosponsor id="400152" joined="2009-02-24"/>
+		<cosponsor id="400130" joined="2009-01-22"/>
+		<cosponsor id="400249" joined="2009-01-22"/>
+		<cosponsor id="400435" joined="2009-01-22"/>
+		<cosponsor id="400349" joined="2009-02-04"/>
+		<cosponsor id="400245" joined="2009-03-04"/>
+		<cosponsor id="400278" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Sponsor introductory remarks on measure. (CR E126)</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to House House Administration</text></action>
+		<action date="1235451600" datetime="2009-02-24"><committee name="House Oversight and Government Reform"/><text>Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="Federal Workforce, Post Office, and the District of Columbia" activity="Referral" />
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="354" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional officers and employees"/>
+		<term name="Employee leave"/>
+		<term name="Government Accountability Office (GAO)"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Library of Congress"/>
+		<term name="Office of Personnel Management (OPM)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

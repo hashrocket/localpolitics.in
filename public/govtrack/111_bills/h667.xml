@@ -1,0 +1,76 @@
+<bill session="111" type="h" number="667" updated="2009-03-07T11:06:09-05:00">
+	<status><introduced date="1232686800" datetime="2009-01-23"/></status>
+
+	<introduced date="1232686800" datetime="2009-01-23"/>
+	<titles>
+		<title type="short" as="introduced">Heroes at Home Act of 2009</title>
+		<title type="official" as="introduced">To improve the diagnosis and treatment of traumatic brain injury in members and former members of the Armed Forces, to review and expand telehealth and telemental health programs of the Department of Defense and the Department of Veterans Affairs, and for other purposes.</title>
+	</titles>
+	<sponsor id="400620"/>
+	<cosponsors>
+		<cosponsor id="400387" joined="2009-02-25"/>
+		<cosponsor id="412258" joined="2009-02-25"/>
+		<cosponsor id="400199" joined="2009-02-13"/>
+		<cosponsor id="400263" joined="2009-02-09"/>
+		<cosponsor id="412298" joined="2009-01-23"/>
+		<cosponsor id="400162" joined="2009-02-09"/>
+		<cosponsor id="400140" joined="2009-01-23"/>
+		<cosponsor id="412222" joined="2009-01-23"/>
+		<cosponsor id="412204" joined="2009-01-23"/>
+		<cosponsor id="400178" joined="2009-01-23"/>
+		<cosponsor id="412232" joined="2009-01-23"/>
+		<cosponsor id="400299" joined="2009-02-13"/>
+		<cosponsor id="400628" joined="2009-03-03"/>
+		<cosponsor id="400638" joined="2009-03-03"/>
+		<cosponsor id="400063" joined="2009-01-23"/>
+		<cosponsor id="400009" joined="2009-02-23"/>
+		<cosponsor id="412192" joined="2009-01-23"/>
+		<cosponsor id="412228" joined="2009-01-23"/>
+		<cosponsor id="400291" joined="2009-02-13"/>
+		<cosponsor id="400043" joined="2009-02-09"/>
+		<cosponsor id="400274" joined="2009-02-23"/>
+		<cosponsor id="400283" joined="2009-01-23"/>
+		<cosponsor id="400204" joined="2009-02-13"/>
+		<cosponsor id="400090" joined="2009-02-09"/>
+		<cosponsor id="400184" joined="2009-01-23"/>
+		<cosponsor id="400262" joined="2009-01-23"/>
+		<cosponsor id="400321" joined="2009-01-23"/>
+		<cosponsor id="400309" joined="2009-01-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1232686800" datetime="2009-01-23"><text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1232686800" datetime="2009-01-23"><text>Referred to House Veterans' Affairs</text></action>
+		<action date="1232686800" datetime="2009-01-23"><committee name="House Veterans' Affairs"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1232686800" datetime="2009-01-23"><text>Referred to House Armed Services</text></action>
+		<action date="1233896400" datetime="2009-02-06"><committee name="House Armed Services"/><text>Referred to the Subcommittee on Military Personnel.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Health" activity="Referral" />
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Armed Services" subcommittee="Military Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Computers and information technology"/>
+		<term name="Disability and paralysis"/>
+		<term name="Government information and archives"/>
+		<term name="Government investigations"/>
+		<term name="Health information and medical records"/>
+		<term name="Home and outpatient care"/>
+		<term name="Medical education"/>
+		<term name="Mental health"/>
+		<term name="Military personnel and dependents"/>
+		<term name="Neurological disorders"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/23/2009--Introduced.<br/>Heroes at Home Act of 2009 - Directs the Secretary of Veterans Affairs to: (1) establish a program on training and certification of family caregivers of veterans and members with traumatic brain injury (TBI); and (2) conduct outreach to enhance awareness of veterans and the public about the symptoms of post-traumatic stress disorder (PTSD) and TBI and the services provided by the Department of Veterans Affairs to veterans with such symptoms. Directs the Secretaries of Defense and Veterans Affairs to jointly: (1) establish a demonstration project to assess the feasibility and advisability of using telehealth technology to assess cognitive functioning of members who have sustained head trauma in order to improve their diagnosis and treatment; and (2) conduct an ongoing study of all matters relating to the telehealth and telemental health services of the Departments of Defense and Veterans Affairs.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,97 @@
+<bill session="110" type="h" number="1773" updated="2009-01-08T20:33:07-05:00">
+	<status><vote date="1179254340" datetime="2007-05-15T15:39:00-04:00" where="h" result="pass" how="roll" roll="349"/></status>
+
+	<introduced date="1175140800" datetime="2007-03-29"/>
+	<titles>
+		<title type="short" as="introduced">Safe American Roads Act of 2007</title>
+		<title type="short" as="reported to house">Safe American Roads Act of 2007</title>
+		<title type="short" as="passed house">Safe American Roads Act of 2007</title>
+		<title type="official" as="introduced">To limit the authority of the Secretary of Transportation to grant authority to motor carriers domiciled in Mexico to operate beyond United States municipalities and commercial zones on the United States-Mexico border.</title>
+	</titles>
+	<sponsor id="412210"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-05-03"/>
+		<cosponsor id="400290" joined="2007-04-23"/>
+		<cosponsor id="400183" joined="2007-04-17"/>
+		<cosponsor id="400282" joined="2007-05-10"/>
+		<cosponsor id="412224" joined="2007-05-02"/>
+		<cosponsor id="412234" joined="2007-05-01"/>
+		<cosponsor id="412225" joined="2007-04-26"/>
+		<cosponsor id="400096" joined="2007-04-19"/>
+		<cosponsor id="400633" joined="2007-04-26"/>
+		<cosponsor id="400443" joined="2007-04-17"/>
+		<cosponsor id="400276" joined="2007-04-19"/>
+		<cosponsor id="400630" joined="2007-05-01"/>
+		<cosponsor id="400132" joined="2007-04-17"/>
+		<cosponsor id="412231" joined="2007-04-24"/>
+		<cosponsor id="400274" joined="2007-05-01"/>
+		<cosponsor id="412214" joined="2007-05-02"/>
+		<cosponsor id="400652" joined="2007-05-03"/>
+		<cosponsor id="400412" joined="2007-04-24"/>
+		<cosponsor id="400377" joined="2007-04-24"/>
+		<cosponsor id="400231" joined="2007-04-17"/>
+		<cosponsor id="400235" joined="2007-05-01"/>
+		<cosponsor id="400352" joined="2007-04-17"/>
+		<cosponsor id="400331" joined="2007-04-24"/>
+		<cosponsor id="400082" joined="2007-05-01"/>
+		<cosponsor id="412227" joined="2007-04-17"/>
+		<cosponsor id="400121" joined="2007-04-19"/>
+		<cosponsor id="412187" joined="2007-05-01"/>
+		<cosponsor id="400048" joined="2007-05-01"/>
+		<cosponsor id="412199" joined="2007-05-10"/>
+		<cosponsor id="400001" joined="2007-04-17"/>
+		<cosponsor id="400259" joined="2007-04-24"/>
+		<cosponsor id="400436" joined="2007-05-03"/>
+		<cosponsor id="412240" joined="2007-05-01"/>
+		<cosponsor id="412204" joined="2007-05-03"/>
+		<cosponsor id="400026" joined="2007-05-10"/>
+		<cosponsor id="400281" joined="2007-05-03"/>
+		<cosponsor id="400211" joined="2007-05-02"/>
+		<cosponsor id="400299" joined="2007-03-29"/>
+		<cosponsor id="400638" joined="2007-04-17"/>
+		<cosponsor id="400244" joined="2007-04-20"/>
+		<cosponsor id="412228" joined="2007-05-10"/>
+		<cosponsor id="400641" joined="2007-05-01"/>
+		<cosponsor id="400286" joined="2007-05-01"/>
+		<cosponsor id="400042" joined="2007-05-01"/>
+		<cosponsor id="400182" joined="2007-04-23"/>
+		<cosponsor id="412206" joined="2007-05-10"/>
+		<cosponsor id="400345" joined="2007-05-10"/>
+		<cosponsor id="400011" joined="2007-05-01"/>
+		<cosponsor id="400100" joined="2007-03-29"/>
+		<cosponsor id="400639" joined="2007-04-20"/>
+		<cosponsor id="412202" joined="2007-05-10"/>
+		<cosponsor id="412233" joined="2007-05-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1175140800" datetime="2007-03-29"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1175227200" datetime="2007-03-30"><text>Referred to the Subcommittee on Highways and Transit.</text></action>
+		<action date="1178078400" datetime="2007-05-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1178078400" datetime="2007-05-02" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1178078400" datetime="2007-05-02"><text>Subcommittee on Highways and Transit Discharged.</text></action>
+		<action date="1179199080" datetime="2007-05-14T12:18:00-04:00"><text>Reported (Amended) by the Committee on Transportation. H. Rept. 110-147.</text></action>
+		<calendar number="87" date="1179199080" datetime="2007-05-14T12:18:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 87.</text></calendar>
+		<action date="1179286260" datetime="2007-05-15T12:31:00-04:00"><text>Mr. DeFazio moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1179286320" datetime="2007-05-15T12:32:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4995-5001"/></action>
+		<action date="1179286320" datetime="2007-05-15T12:32:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1773.</text></action>
+		<action date="1179245640" datetime="2007-05-15T13:14:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1179253920" datetime="2007-05-15T15:32:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5016-5017"/></action>
+		<vote date="1179254340" how="roll" roll="349" datetime="2007-05-15T15:39:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 3 (Roll no. 349).</text><reference label="text" ref="CR H4995-4996"/></vote>
+		<action date="1179288000" datetime="2007-05-16"><text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/15/2007--Passed House amended. (This measure has not been amended since it was reported to the House on May 14, 2007. The summary of that version is repeated here.) Safe American Roads Act of 2007 - (Sec. 2) Prohibits the Secretary of Transportation from granting a motor carrier domiciled in Mexico authority to operate beyond U.S. municipalities and commercial zones on the U.S.-Mexico border, except that the Secretary may carry out, in accordance with certain federal motor carrier safety and inspection laws and regulations and this Act, a pilot program that allows not more than 100 of such carriers, and not more than 1,000 of their vehicles, to operate beyond such municipalities and zones. Prohibits the Secretary from implementing the pilot program until: (1) the Inspector General (IG) of the Department of Transportation (DOT) submits to Congress and the Secretary a report verifying that DOT is in compliance with provisions of the Department of Transportation and Related Agencies Appropriations Act, 2002 requiring compliance by motor carriers domiciled in Mexico with certain federal motor carrier safety and inspection laws and regulations and that DOT has established sufficient mechanisms to ensure compliance with such laws and regulations by Mexico-domiciled motor carriers who will operate beyond U.S. municipalities and commercial zones on the U.S.-Mexico border; (2) the Secretary takes necessary action to address any issues raised by the IG's report and submits to Congress a report on such actions; (3) there is a program in effect for U.S.-domiciled motor carriers to operate in Mexico beyond commercial zones on the U.S.-Mexico border; and (4) the Secretary publishes in the Federal Register, and provides opportunity for public comment on, certain aspects of the pilot program. (Sec. 4) Requires the Secretary to: (1) establish an independent review panel to monitor and evaluate the pilot program; and (2) address any determination by the panel that the pilot program has had an adverse effect on motor carrier safety or terminate such program. (Sec. 5) Requires the IG: (1) to monitor and review the pilot program; and (2) not later than 12 months, and not later than 18 months, after the initiation of the pilot program submit to Congress and the Secretary interim reports that include IG findings and certain safety determinations concerning such program. Requires the Secretary, not later than 60 days after submission of the IG's 18-month interim report, to report to Congress on: (1) any actions the Secretary is taking to address motor carrier safety issues raised in the IG's interim reports; (2) the Secretary's evaluation of whether granting authority to additional motor carriers domiciled in Mexico to operate beyond U.S. municipalities and commercial zones on the United States-Mexico border would have any adverse effects on motor carrier safety; (3) modifications to federal motor carrier safety laws and regulations or special procedures necessary to enhance the safety of operations of motor carriers domiciled in Mexico in the United States; and (4) any recommendations for legislation to make the pilot program permanent or to expand operations of motor carriers domiciled in Mexico in the United States beyond municipalities and commercial zones on the United States-Mexico border. (Sec. 6) Authorizes the pilot program for three years, except that if the Secretary does not comply with the requirements of this Act, such program terminates. Requires the Secretary, not later than 60 days after the termination of the pilot program, to submit to Congress a final report on such program.<br/>
+	</summary>
+</bill>

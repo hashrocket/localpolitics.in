@@ -1,0 +1,35 @@
+<bill session="110" type="h" number="6837" updated="2009-01-09T06:55:28-05:00">
+	<status><vote date="1222541220" datetime="2008-09-27T15:47:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1220846400" datetime="2008-09-08"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 7925 West Russell Road in Las Vegas, Nevada, as the &quot;Private First Class Irving Joseph Schwartz Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400324"/>
+	<cosponsors>
+		<cosponsor id="400024" joined="2008-09-18"/>
+	</cosponsors>
+	<actions>
+		<action date="1220846400" datetime="2008-09-08"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1222541160" datetime="2008-09-27T15:46:00-04:00"><text>Mr. Clay asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1222541160" datetime="2008-09-27T15:46:00-04:00"><text>Committee on Oversight and Government discharged.</text></action>
+		<action date="1222541220" datetime="2008-09-27T15:47:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10215"/></action>
+		<vote date="1222541220" how="without objection" datetime="2008-09-27T15:47:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H10215"/></vote>
+		<action date="1222660800" datetime="2008-09-29"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/8/2008--Introduced.<br/>Designates the facility of the United States Postal Service located at 7925 West Russell Road in Las Vegas, Nevada, as the &quot;Private First Class Irving Joseph Schwartz Post Office Building.&quot;<br/>
+	</summary>
+</bill>

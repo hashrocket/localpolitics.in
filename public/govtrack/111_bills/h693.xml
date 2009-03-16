@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="693" updated="2009-03-07T11:09:20-05:00">
+	<status><introduced date="1232946000" datetime="2009-01-26"/></status>
+
+	<introduced date="1232946000" datetime="2009-01-26"/>
+	<titles>
+		<title type="official" as="introduced">To designate a rail right-of-way as a corridor for inter-suburban commuter rail, and for other purposes.</title>
+	</titles>
+	<sponsor id="412202"/>
+	<cosponsors>
+		<cosponsor id="400631" joined="2009-01-26"/>
+		<cosponsor id="400027" joined="2009-01-26"/>
+		<cosponsor id="412257" joined="2009-01-26"/>
+		<cosponsor id="412279" joined="2009-01-26"/>
+		<cosponsor id="400252" joined="2009-01-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1233032400" datetime="2009-01-27"><text>Referred to the Subcommittee on Highways and Transit.</text></action>
+		<action date="1233032400" datetime="2009-01-27"><text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Highways and Transit" activity="Referral" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Railroads, Pipelines, and Hazardous Materials" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Commuting"/>
+		<term name="Congressional oversight"/>
+		<term name="Public transit"/>
+		<term name="Railroads"/>
+		<term name="Transportation programs funding"/>
+		<term name="Urban and suburban affairs and development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/2009--Introduced.<br/>Requires the Secretary of Transportation to: (1) designate a rail right-of-way as a corridor for inter-suburban commuter rail based on certain qualifying factors and after a 30-day congressional review period; (2) provide technical assistance to expedite completion of inter-suburban rail service; and (3) prohibit increased usage of such corridor except to increase the availability of inter-suburban commuter rail.<br/>
+	</summary>
+</bill>

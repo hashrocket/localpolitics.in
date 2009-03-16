@@ -1,0 +1,68 @@
+<bill session="110" type="s" number="185" updated="2009-01-09T11:30:55-05:00">
+	<status><calendar date="1181188800" datetime="2007-06-07" /></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="short" as="introduced">Habeas Corpus Restoration Act of 2007</title>
+		<title type="short" as="reported to senate">Habeas Corpus Restoration Act of 2007</title>
+		<title type="official" as="introduced">A bill to restore habeas corpus for those detained by the United States.</title>
+	</titles>
+	<sponsor id="300092"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2007-06-27"/>
+		<cosponsor id="300065" joined="2007-01-04"/>
+		<cosponsor id="400272" joined="2007-07-09"/>
+		<cosponsor id="300009" joined="2007-06-11"/>
+		<cosponsor id="400064" joined="2007-06-12"/>
+		<cosponsor id="300059" joined="2007-06-05"/>
+		<cosponsor id="300018" joined="2007-05-07"/>
+		<cosponsor id="300011" joined="2007-06-06"/>
+		<cosponsor id="300008" joined="2007-05-24"/>
+		<cosponsor id="300093" joined="2007-06-22"/>
+		<cosponsor id="300042" joined="2007-02-28"/>
+		<cosponsor id="300060" joined="2007-05-15"/>
+		<cosponsor id="400619" joined="2007-02-26"/>
+		<cosponsor id="300038" joined="2007-05-22"/>
+		<cosponsor id="300066" joined="2007-04-17"/>
+		<cosponsor id="300034" joined="2007-03-07"/>
+		<cosponsor id="300019" joined="2007-07-09"/>
+		<cosponsor id="300016" joined="2007-06-26"/>
+		<cosponsor id="412247" joined="2007-05-09"/>
+		<cosponsor id="300051" joined="2007-03-14"/>
+		<cosponsor id="400050" joined="2007-02-26"/>
+		<cosponsor id="300080" joined="2007-09-06"/>
+		<cosponsor id="300022" joined="2007-02-28"/>
+		<cosponsor id="412243" joined="2007-07-12"/>
+		<cosponsor id="300076" joined="2007-09-18"/>
+		<cosponsor id="300078" joined="2007-07-11"/>
+		<cosponsor id="400629" joined="2007-04-20"/>
+		<cosponsor id="400357" joined="2007-06-13"/>
+		<cosponsor id="300043" joined="2007-02-26"/>
+		<cosponsor id="300084" joined="2007-03-29"/>
+		<cosponsor id="300064" joined="2007-02-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Sponsor introductory remarks on measure. (CR S179-180)</text></action>
+		<action date="1167886800" datetime="2007-01-04"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S180"/></action>
+		<action date="1168923600" datetime="2007-01-16"><text>Sponsor introductory remarks on measure. (CR S545-546)</text></action>
+		<action date="1179806400" datetime="2007-05-22"><text>Committee on the Judiciary. Hearings held.</text></action>
+		<calendar date="1181188800" datetime="2007-06-07" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1182830400" datetime="2007-06-26"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment. With written report No. 110-90. Additional and Minority views filed.</text></action>
+		<calendar under="General Orders" number="220" date="1182830400" datetime="2007-06-26" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 220.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/26/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Habeas Corpus Restoration Act of 2007- Repeals provisions of the Military Commissions Act of 2006 that eliminated the jurisdiction of any court to hear or consider applications for a writ of habeas corpus filed by aliens who have been determined by the United States to have been properly detained as enemy combatants (or who are awaiting such determination) and actions against the United States relating to the detention of such aliens and to military commissions (thus restoring habeas corpus rights existing prior to the enactment of such Act).<br/>Allows courts to hear or consider legal challenges to military commissions only as provided by the Code of Military Justice or by a habeas corpus proceeding. 
+	</summary>
+</bill>

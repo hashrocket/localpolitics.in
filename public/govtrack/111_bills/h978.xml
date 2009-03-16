@@ -1,0 +1,61 @@
+<bill session="111" type="h" number="978" updated="2009-03-07T11:43:18-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="short" as="introduced">Helicopter Medical Services Patient Safety, Protection, and Coordination Act</title>
+		<title type="official" as="introduced">To recognize and clarify the authority of the States to regulate intrastate helicopter medical services pursuant to their authority over public health planning and protection, patient safety and protection, emergency medical services, the quality and coordination of medical care, and the practice of medicine within their jurisdictions.</title>
+	</titles>
+	<sponsor id="412231"/>
+	<cosponsors>
+		<cosponsor id="400061" joined="2009-03-03"/>
+		<cosponsor id="412229" joined="2009-02-11"/>
+		<cosponsor id="400280" joined="2009-02-26"/>
+		<cosponsor id="412300" joined="2009-03-03"/>
+		<cosponsor id="400048" joined="2009-03-03"/>
+		<cosponsor id="400659" joined="2009-02-24"/>
+		<cosponsor id="400414" joined="2009-03-04"/>
+		<cosponsor id="412307" joined="2009-02-11"/>
+		<cosponsor id="400209" joined="2009-02-24"/>
+		<cosponsor id="400183" joined="2009-02-11"/>
+		<cosponsor id="412234" joined="2009-03-04"/>
+		<cosponsor id="412225" joined="2009-02-11"/>
+		<cosponsor id="400424" joined="2009-03-04"/>
+		<cosponsor id="400266" joined="2009-02-11"/>
+		<cosponsor id="400063" joined="2009-02-11"/>
+		<cosponsor id="400276" joined="2009-02-11"/>
+		<cosponsor id="400326" joined="2009-02-24"/>
+		<cosponsor id="400119" joined="2009-02-11"/>
+		<cosponsor id="400049" joined="2009-03-04"/>
+		<cosponsor id="400274" joined="2009-02-11"/>
+		<cosponsor id="412299" joined="2009-02-11"/>
+		<cosponsor id="412214" joined="2009-03-04"/>
+		<cosponsor id="400288" joined="2009-03-03"/>
+		<cosponsor id="400321" joined="2009-02-11"/>
+		<cosponsor id="400316" joined="2009-02-11"/>
+		<cosponsor id="400639" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1234414800" datetime="2009-02-12"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Aviation.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Aviation" activity="Referral" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

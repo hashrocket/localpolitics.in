@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="921" updated="2009-03-07T11:36:41-05:00">
+	<status><introduced date="1234155600" datetime="2009-02-09"/></status>
+
+	<introduced date="1234155600" datetime="2009-02-09"/>
+	<titles>
+		<title type="short" as="introduced">Sabinoso Wilderness Act of 2009</title>
+		<title type="official" as="introduced">To establish the Sabinoso Wilderness Area in San Miguel County, New Mexico, and for other purposes.</title>
+	</titles>
+	<sponsor id="412293"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/9/2009--Introduced.<br/>Sabinoso Wilderness Act of 2009 - Designates certain land under the jurisdiction of the Taos Field Office of the Bureau of Land Management (BLM) in New Mexico as the &quot;Sabinoso Wilderness&quot; and as a component of the National Wilderness Preservation System. 
+	</summary>
+</bill>

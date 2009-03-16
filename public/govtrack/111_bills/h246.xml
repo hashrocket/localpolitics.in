@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="246" updated="2009-03-07T10:16:40-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Immigration and Nationality Act to exempt elementary and secondary schools from the fee imposed on employers filing petitions with respect to non-immigration workers under the H-1B program.</title>
+	</titles>
+	<sponsor id="400160"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Foreign labor"/>
+		<term name="Immigrant health and welfare"/>
+		<term name="Teaching, teachers, curricula"/>
+		<term name="User charges and fees"/>
+		<term name="Visas and passports"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Amends the Immigration and Nationality Act to exempt elementary and secondary schools from the fee imposed on employers filing petitions for temporary nonimmigrant workers under the H-1B (specialty occupations) visa program.<br/>
+	</summary>
+</bill>

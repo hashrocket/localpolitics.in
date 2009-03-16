@@ -1,0 +1,45 @@
+<bill session="110" type="s" number="1581" updated="2009-01-09T15:05:50-05:00">
+	<status><calendar date="1196744400" datetime="2007-12-04" /></status>
+
+	<introduced date="1181188800" datetime="2007-06-07"/>
+	<titles>
+		<title type="short" as="introduced">Federal Ocean Acidification Research And Monitoring Act of 2007</title>
+		<title type="short" as="introduced">FOARAM Act</title>
+		<title type="short" as="reported to senate">Federal Ocean Acidification Research And Monitoring Act of 2007</title>
+		<title type="short" as="reported to senate">FOARAM Act</title>
+		<title type="official" as="introduced">A bill to establish an interagency committee to develop an ocean acidification research and monitoring plan and to establish an ocean acidification program within the National Oceanic and Atmospheric Administration.</title>
+	</titles>
+	<sponsor id="300064"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="2007-12-03"/>
+		<cosponsor id="412242" joined="2007-12-03"/>
+		<cosponsor id="300018" joined="2007-06-07"/>
+		<cosponsor id="300011" joined="2007-12-04"/>
+		<cosponsor id="300060" joined="2007-12-03"/>
+		<cosponsor id="300081" joined="2008-07-28"/>
+		<cosponsor id="300091" joined="2007-12-03"/>
+		<cosponsor id="300078" joined="2007-12-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1181188800" datetime="2007-06-07"><text>Sponsor introductory remarks on measure. (CR S7377)</text></action>
+		<action date="1181188800" datetime="2007-06-07"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text><reference label="text of measure as introduced" ref="CR S7377-7378"/></action>
+		<calendar date="1196744400" datetime="2007-12-04" ><text>Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.</text></calendar>
+		<action date="1211428800" datetime="2008-05-22"><text>Committee on Commerce, Science, and Transportation. Reported by Senator Inouye with amendments. With written report No. 110-339.</text></action>
+		<calendar under="General Orders" number="749" date="1211428800" datetime="2008-05-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 749.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/22/2008--Reported to Senate amended. Federal Ocean Acidification Research And Monitoring Act of 2007 or FOARAM Act - Directs the President to establish or designate the Interagency Committee on Ocean Acidification to oversee the planning, establishment, and coordinated implementation of a plan to improve the understanding of the role of increased ocean acidification on marine ecosystems. Requires the committee to develop, and report to specified congressional committees on, a strategic research and implementation plan for coordinated federal activities. Requires a triennial report to specified congressional committees that includes: (1) a summary of federally funded ocean acidification research and monitoring activities; and (2) an analysis of the progress made toward achieving the goals and priorities for the interagency research plan. Directs the Secretary of Commerce to establish and maintain an ocean acidification program within the National Oceanic and Atmospheric Administration (NOAA) to implement such strategic research and implementation plan. Authorizes appropriations to NOAA to carry out this Act, with specified percentages designated for the National Science Foundation (NSF), the National Aeronautics and Space Administration (NASA), the United States Geological Survey (USGS), and the United States Fish and Wildlife Service (USFWS).<br/>
+	</summary>
+</bill>

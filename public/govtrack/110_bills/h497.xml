@@ -1,0 +1,50 @@
+<bill session="110" type="h" number="497" updated="2009-01-08T17:49:07-05:00">
+	<status><vote date="1173136320" datetime="2007-03-05T19:12:00-05:00" where="h" result="pass" how="roll" roll="120"/></status>
+
+	<introduced date="1168923600" datetime="2007-01-16"/>
+	<titles>
+		<title type="short" as="introduced">Brigadier General Francis Marion Memorial Act of 2007</title>
+		<title type="short" as="passed house">Brigadier General Francis Marion Memorial Act of 2007</title>
+		<title type="short" as="reported to senate">Brigadier General Francis Marion Memorial Act of 2007</title>
+		<title type="official" as="introduced">To authorize the Marion Park Project, a committee of the Palmetto Conservation Foundation, to establish a commemorative work on Federal land in the District of Columbia, and its environs to honor Brigadier General Francis Marion.</title>
+	</titles>
+	<sponsor id="400433"/>
+	<cosponsors>
+		<cosponsor id="400049" joined="2007-01-16"/>
+		<cosponsor id="400386" joined="2007-01-16"/>
+		<cosponsor id="400649" joined="2007-01-16"/>
+		<cosponsor id="400016" joined="2007-01-16"/>
+		<cosponsor id="400075" joined="2007-01-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1168923600" datetime="2007-01-16"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1170824400" datetime="2007-02-07"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1173121560" datetime="2007-03-05T15:06:00-05:00"><text>Mr. Grijalva moved to suspend the rules and pass the bill.</text></action>
+		<action date="1173121560" datetime="2007-03-05T15:06:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2136-2137"/></action>
+		<action date="1173121620" datetime="2007-03-05T15:07:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 497.</text></action>
+		<action date="1173121920" datetime="2007-03-05T15:12:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1173135720" datetime="2007-03-05T19:02:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2138-2139"/></action>
+		<vote date="1173136320" how="roll" roll="120" datetime="2007-03-05T19:12:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 120).</text><reference label="text" ref="CR H2136"/></vote>
+		<action date="1173157200" datetime="2007-03-06"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1177560000" datetime="2007-04-26"><text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text></action>
+		<calendar date="1179892800" datetime="2007-05-23" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1182830400" datetime="2007-06-26"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-103.</text></action>
+		<calendar under="General Orders" number="233" date="1182830400" datetime="2007-06-26" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 233.</text></calendar>
+		<action date="1213156800" datetime="2008-06-11"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S5530"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/26/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.) Brigadier General Francis Marion Memorial Act of 2007 - Authorizes the Marion Park Project, a committee of the Palmetto Conservation Foundation, to establish a commemorative work on federal land in the District of Columbia and its environs to honor Brigadier General Francis Marion. Prohibits the use of federal funds to pay any expense of its establishment. Makes the Marion Park Project solely responsible for acceptance of contributions for, and payment of the expenses of, the establishment of such commemorative work. 
+	</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="906" updated="2009-03-07T11:34:55-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Housing Disaster Area Foreclosure Prevention Act of 2009</title>
+		<title type="official" as="introduced">To provide incentives for affordable housing.</title>
+	</titles>
+	<sponsor id="400396"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2009-02-09"/>
+		<cosponsor id="400618" joined="2009-02-12"/>
+		<cosponsor id="400178" joined="2009-02-04"/>
+		<cosponsor id="400065" joined="2009-02-04"/>
+		<cosponsor id="400185" joined="2009-02-25"/>
+		<cosponsor id="400024" joined="2009-02-04"/>
+		<cosponsor id="400245" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Committee on Financial Services, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to House Financial Services</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to House Ways and Means</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

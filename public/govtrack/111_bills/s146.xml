@@ -1,0 +1,44 @@
+<bill session="111" type="s" number="146" updated="2009-03-07T13:49:39-05:00">
+	<status><calendar date="1236229200" datetime="2009-03-05" /></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Railroad Antitrust Enforcement Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Federal antitrust laws to provide expanded coverage and to eliminate exemptions from such laws that are contrary to the public interest with respect to railroads.</title>
+	</titles>
+	<sponsor id="300061"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2009-01-06"/>
+		<cosponsor id="300065" joined="2009-01-06"/>
+		<cosponsor id="412329" joined="2009-02-25"/>
+		<cosponsor id="400418" joined="2009-01-06"/>
+		<cosponsor id="300042" joined="2009-01-06"/>
+		<cosponsor id="300087" joined="2009-01-06"/>
+		<cosponsor id="300037" joined="2009-01-06"/>
+		<cosponsor id="300084" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR S129-130)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S130-131"/></action>
+		<calendar date="1236229200" datetime="2009-03-05" ><text>Committee on the Judiciary. Ordered to be reported favorably.</text></calendar>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Commerce"/>
+		<term name="Civil actions and liability"/>
+		<term name="Competition and antitrust"/>
+		<term name="Railroads"/>
+		<term name="Transportation costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Railroad Antitrust Enforcement Act of 2009 - Amends the Clayton Act to grant the United States exclusive authority to bring suit for injunctive relief against a common carrier that is not a rail common carrier subject to the jurisdiction of the Surface Transportation Board (STB). Revises provisions prohibiting anticompetitive transactions except for those approved by specified federal agencies acting under certain statutes to eliminate the exemption for certain STB approved transactions. Provides that, in any civil action against a rail common carrier, the U.S. district court shall not be required to defer to the primary jurisdiction of the STB.<br/>Empowers the Federal Trade Commission (FTC) to regulate, and engage in antitrust enforcement regarding, collective rate agreements and certain transactions, including railroad mergers and acquisitions. Permits treble damages against railroad common carriers in antitrust suits to parties injured by antitrust violations without regard to whether such railroads have filed rates or whether a complaint challenging rates has been filed. Amends federal transportation law to terminate the exemptions from antitrust laws for collective ratemaking agreements. Requires the STB, when reviewing a proposed agreement, to take into account its impact upon shippers, consumers, and affected communities. Revises STB authority to provide that a rail carrier, corporation, or a person participating in an approved transaction is not exempt from specified antitrust laws. Makes such provision inapplicable to any transaction relating to the pooling of railroad cars approved by the STB or its predecessor agency.<br/>
+	</summary>
+</bill>

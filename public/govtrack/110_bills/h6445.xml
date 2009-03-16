@@ -1,0 +1,56 @@
+<bill session="110" type="h" number="6445" updated="2009-01-09T06:09:44-05:00">
+	<status><vote date="1217441340" datetime="2008-07-30T15:09:00-04:00" where="h" result="pass" how="roll" roll="541"/></status>
+
+	<introduced date="1215576000" datetime="2008-07-09"/>
+	<titles>
+		<title type="short" as="reported to house">Veterans' Health Care Policy Enhancement Act of 2008</title>
+		<title type="short" as="passed house">Veterans' Health Care Policy Enhancement Act of 2008</title>
+		<title type="official" as="introduced">To amend title 38, United States Code, to prohibit the Secretary of Veterans Affairs from collecting certain copayments from veterans who are catastrophically disabled.</title>
+		<title type="official" as="amended by house">To amend title 38, United States Code, to prohibit the Secretary of Veterans Affairs from collecting certain copayments from veterans who are catastrophically disabled, and for other purposes.</title>
+	</titles>
+	<sponsor id="412260"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2008-07-29"/>
+		<cosponsor id="400133" joined="2008-07-09"/>
+		<cosponsor id="400620" joined="2008-07-14"/>
+		<cosponsor id="412229" joined="2008-07-22"/>
+		<cosponsor id="400274" joined="2008-07-09"/>
+		<cosponsor id="400048" joined="2008-07-09"/>
+		<cosponsor id="412204" joined="2008-07-09"/>
+		<cosponsor id="400056" joined="2008-07-24"/>
+		<cosponsor id="400024" joined="2008-07-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1215576000" datetime="2008-07-09"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1215662400" datetime="2008-07-10"><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1215662400" datetime="2008-07-10"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1215662400" datetime="2008-07-10"><text>Forwarded by Subcommittee to Full Committee by Unanimous Consent .</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1216180800" datetime="2008-07-16" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1217351940" datetime="2008-07-29T14:19:00-04:00"><text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-786.</text></action>
+		<calendar number="505" date="1217351940" datetime="2008-07-29T14:19:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 505.</text></calendar>
+		<action date="1217360820" datetime="2008-07-29T16:47:00-04:00"><text>Mr. Filner moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1217360820" datetime="2008-07-29T16:47:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7240-7244"/></action>
+		<action date="1217360820" datetime="2008-07-29T16:47:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6445.</text></action>
+		<action date="1217361900" datetime="2008-07-29T17:05:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Moran (KS) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1217440560" datetime="2008-07-30T14:56:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7531"/></action>
+		<vote date="1217441340" how="roll" roll="541" datetime="2008-07-30T15:09:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 541). (text: CR 7/29/2008 H7240)</text></vote>
+		<action date="1217441340" datetime="2008-07-30T15:09:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1217476800" datetime="2008-07-31"><text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/30/2008--Passed House amended. Veterans' Health Care Policy Enhancement Act of 2008 - (Sec. 2) Prohibits the collection by the Department of Veterans Affairs (VA) of copayments or other fees for hospital or nursing home care in the case of catastrophically disabled veterans. (Sec. 3) Repeals a current requirement that, in order for a family member of a non-service-connected disabled veteran to be eligible for counseling services, the counseling must be essential to permit the discharge of the veteran from the hospital. (Sec. 4) Directs the Secretary of Veterans Affairs to: (1) develop and implement a comprehensive policy on the management of pain experienced by veterans enrolled for VA health care services; (2) periodically revise the policy; and (3) report annually through FY2018 to the congressional veterans' committees on policy implementation. (Sec. 5) Requires the Secretary, within five years after the enactment of this Act, to establish up to seven consolidated patient accounting centers for conducting industry-modeled regionalized VA billing and collection activities. (Sec. 6) Repeals a provision of the Veterans' Benefits and Services Act of 1988 requiring written informed consent for HIV testing among veterans.<br/>
+	</summary>
+</bill>

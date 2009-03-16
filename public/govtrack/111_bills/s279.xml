@@ -1,0 +1,41 @@
+<bill session="111" type="s" number="279" updated="2009-03-07T14:07:01-05:00">
+	<status><introduced date="1232082000" datetime="2009-01-16"/></status>
+
+	<introduced date="1232082000" datetime="2009-01-16"/>
+	<titles>
+		<title type="short" as="introduced">Municipal Bond Market Support Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to modify the limitations on the deduction of interest by financial institutions which hold tax-exempt bonds, and for other purposes.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+		<cosponsor id="300091" joined="2009-01-16"/>
+		<cosponsor id="300030" joined="2009-01-16"/>
+		<cosponsor id="300060" joined="2009-01-16"/>
+		<cosponsor id="300087" joined="2009-01-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1232082000" datetime="2009-01-16"><text>Sponsor introductory remarks on measure. (CR S654)</text></action>
+		<action date="1232082000" datetime="2009-01-16"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S654-655"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax deductions"/>
+		<term name="Income tax exclusion"/>
+		<term name="Inflation and prices"/>
+		<term name="Interest and interest rates"/>
+		<term name="Securities"/>
+		<term name="State and local finance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

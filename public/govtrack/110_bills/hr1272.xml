@@ -1,0 +1,54 @@
+<bill session="110" type="hr" number="1272" updated="2009-01-09T10:32:33-05:00">
+	<status><vote date="1222980780" datetime="2008-10-02T17:53:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1213243200" datetime="2008-06-12"/>
+	<titles>
+		<title type="official" as="introduced">Honoring and recognizing Alice Mary Robertson who, while a Member of Congress, became the first woman to preside over the floor of the House of Representatives.</title>
+	</titles>
+	<sponsor id="412230"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2008-09-10"/>
+		<cosponsor id="400659" joined="2008-06-12"/>
+		<cosponsor id="400419" joined="2008-06-12"/>
+		<cosponsor id="400380" joined="2008-09-10"/>
+		<cosponsor id="400635" joined="2008-09-23"/>
+		<cosponsor id="400344" joined="2008-06-12"/>
+		<cosponsor id="400276" joined="2008-06-12"/>
+		<cosponsor id="400077" joined="2008-06-12"/>
+		<cosponsor id="400652" joined="2008-09-23"/>
+		<cosponsor id="400288" joined="2008-06-12"/>
+		<cosponsor id="400392" joined="2008-06-12"/>
+		<cosponsor id="400287" joined="2008-06-12"/>
+		<cosponsor id="400360" joined="2008-09-15"/>
+		<cosponsor id="400645" joined="2008-06-12"/>
+		<cosponsor id="400211" joined="2008-09-10"/>
+		<cosponsor id="400643" joined="2008-06-12"/>
+		<cosponsor id="400247" joined="2008-06-12"/>
+		<cosponsor id="400119" joined="2008-09-18"/>
+		<cosponsor id="400088" joined="2008-09-10"/>
+		<cosponsor id="400062" joined="2008-09-15"/>
+		<cosponsor id="400157" joined="2008-06-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1213243200" datetime="2008-06-12"><text>Referred to the House Committee on House Administration.</text></action>
+		<action date="1222980780" datetime="2008-10-02T17:53:00-04:00"><text>Mr. Brady (PA) asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1222980780" datetime="2008-10-02T17:53:00-04:00"><text>Committee on House Administration discharged.</text></action>
+		<action date="1222980780" datetime="2008-10-02T17:53:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10678"/></action>
+		<vote date="1222980780" how="without objection" datetime="2008-10-02T17:53:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text" ref="CR H10678"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/2/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes Alice Mary Robertson for her spirit of service and dedication to her country, and honors her as a great American in recognition of her contributions to the state of Oklahoma and nationwide in the House of Representatives. 
+	</summary>
+</bill>

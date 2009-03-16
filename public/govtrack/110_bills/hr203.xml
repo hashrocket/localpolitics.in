@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="203" updated="2009-01-09T08:18:48-05:00">
+	<status><vote date="1172808060" datetime="2007-03-01T12:01:00-05:00" where="h" result="pass" how="roll" roll="113"/></status>
+
+	<introduced date="1172638800" datetime="2007-02-28"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 800) to amend the National Labor Relations Act to establish an efficient system to enable employees to form, join, or assist labor organizations, to provide for mandatory injunctions for unfair labor practices during organizing efforts, and for other purposes.</title>
+	</titles>
+	<sponsor id="412228"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1172704620" datetime="2007-02-28T19:17:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-26, by Ms. Sutton.</text></action>
+		<action date="1172704620" datetime="2007-02-28T19:17:00-05:00"><text>All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill. Each such amendment may be offered only in the order printed in the report, may be offered only by a Member designated in the report, shall be considered as read, shall be debatable for the time specificed in the report equally divided and controlled by the proponent and opponent, shall not be subject to a demand for a division of the question</text></action>
+		<calendar date="1172704680" datetime="2007-02-28T19:18:00-05:00" ><text>Placed on the House Calendar, Calendar No. 18.</text></calendar>
+		<action date="1172758560" datetime="2007-03-01T10:16:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H2043-2054"/></action>
+		<action date="1172758740" datetime="2007-03-01T10:19:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 203.</text></action>
+		<action date="1172764260" datetime="2007-03-01T11:51:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 228 - 197 (Roll no. 112).</text><reference label="consideration" ref="CR H2053-2054"/></action>
+		<vote date="1172808060" how="roll" roll="113" datetime="2007-03-01T12:01:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by recorded vote: 230 - 195 (Roll no. 113).</text><reference label="text" ref="CR H2043"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/1/2007--Passed House without amendment. Sets forth the rule for consideration of H.R. 800 (Employee Free Choice Act).<br/>
+	</summary>
+</bill>

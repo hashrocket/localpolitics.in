@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="671" updated="2009-03-07T11:06:37-05:00">
+	<status><introduced date="1232946000" datetime="2009-01-26"/></status>
+
+	<introduced date="1232946000" datetime="2009-01-26"/>
+	<titles>
+		<title type="short" as="introduced">In Memory Medal for Forgotten Veterans Act</title>
+		<title type="official" as="introduced">To direct the Secretary of Defense to issue a medal to certain veterans who died after their service in the Vietnam War as a direct result of that service.</title>
+	</titles>
+	<sponsor id="400133"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2009-02-03"/>
+		<cosponsor id="400031" joined="2009-02-10"/>
+		<cosponsor id="400009" joined="2009-02-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1233118800" datetime="2009-01-28"><text>Sponsor introductory remarks on measure. (CR E164)</text></action>
+		<action date="1233896400" datetime="2009-02-06"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Armed Services" subcommittee="Military Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Conflicts and wars"/>
+		<term name="Military personnel and dependents"/>
+		<term name="Vietnam"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/2009--Introduced.<br/>In Memory Medal For Forgotten Veterans Act - Establishes the &quot;Jesus (Chuchi) Salgado Medal&quot; to be issued by the Secretary of Defense to a qualifying veteran who died after serving in the Vietnam War but whose death is determined to be a direct result of such service and whose name is not eligible for placement on the Vietnam Veterans Memorial.<br/>
+	</summary>
+</bill>

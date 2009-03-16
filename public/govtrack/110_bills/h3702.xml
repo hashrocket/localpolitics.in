@@ -1,0 +1,46 @@
+<bill session="110" type="h" number="3702" updated="2009-01-09T00:37:51-05:00">
+	<status><vote date="1213740300" datetime="2008-06-17T19:05:00-04:00" where="h" result="pass" how="roll" roll="415"/></status>
+
+	<introduced date="1190865600" datetime="2007-09-27"/>
+	<titles>
+		<title type="short" as="introduced">Montana Cemetery Act of 2007</title>
+		<title type="short" as="reported to house">Montana Cemetery Act of 2007</title>
+		<title type="short" as="passed house">Montana Cemetery Act of 2008</title>
+		<title type="official" as="introduced">To direct the Secretary of Agriculture to convey certain land in the Beaverhead-Deerlodge National Forest, Montana, to Jefferson County, Montana, for use as a cemetery.</title>
+	</titles>
+	<sponsor id="400335"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1190865600" datetime="2007-09-27"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1191297600" datetime="2007-10-02"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1212638400" datetime="2008-06-05"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1213156800" datetime="2008-06-11"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1213156800" datetime="2008-06-11" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1213723800" datetime="2008-06-17T14:30:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 110-713.</text></action>
+		<calendar number="454" date="1213723860" datetime="2008-06-17T14:31:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 454.</text></calendar>
+		<action date="1213724820" datetime="2008-06-17T14:47:00-04:00"><text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1213724880" datetime="2008-06-17T14:48:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5421"/></action>
+		<action date="1213724880" datetime="2008-06-17T14:48:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3702.</text></action>
+		<action date="1213725060" datetime="2008-06-17T14:51:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1213739940" datetime="2008-06-17T18:59:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5457-5458"/></action>
+		<vote date="1213740300" how="roll" roll="415" datetime="2008-06-17T19:05:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 415).</text><reference label="text" ref="CR H5421"/></vote>
+		<calendar under="General Orders" number="825" date="1213848000" datetime="2008-06-19" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 825.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/17/2008--Passed House amended. Montana Cemetery Act of 2008 - Directs the Secretary of Agriculture, through the National Forest Service (NFS), to convey by quitclaim deed for no consideration to Jefferson County, Montana, the parcel of National Forest System land known as the Elkhorn Cemetery to be used as a county cemetery and managed in consideration of its historical and cultural values. 
+	</summary>
+</bill>

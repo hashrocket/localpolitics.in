@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="1507" updated="2009-03-13T12:09:50-04:00">
+	<status><introduced date="1236830400" datetime="2009-03-12"/></status>
+
+	<introduced date="1236830400" datetime="2009-03-12"/>
+	<titles>
+		<title type="official" as="introduced">To amend chapter 23 of title 5, United States Code, relating to disclosures of information protected from prohibited personnel practices, and for other purposes.</title>
+	</titles>
+	<sponsor id="400415"/>
+	<cosponsors>
+		<cosponsor id="400409" joined="2009-03-12"/>
+		<cosponsor id="400425" joined="2009-03-12"/>
+		<cosponsor id="400321" joined="2009-03-12"/>
+		<cosponsor id="412208" joined="2009-03-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1236830400" datetime="2009-03-12"><text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1236830400" datetime="2009-03-12"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1236830400" datetime="2009-03-12"><text>Referred to House Homeland Security</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Homeland Security" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

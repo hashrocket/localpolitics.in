@@ -1,0 +1,42 @@
+<bill session="110" type="s" number="2484" updated="2009-01-09T17:02:04-05:00">
+	<status><enacted date="1198213200" datetime="2007-12-21" /></status>
+
+	<introduced date="1197522000" datetime="2007-12-13"/>
+	<titles>
+		<title type="official" as="introduced">A bill to rename the National Institute of Child Health and Human Development as the Eunice Kennedy Shriver National Institute of Child Health and Human Development.</title>
+	</titles>
+	<sponsor id="300052"/>
+	<cosponsors>
+		<cosponsor id="300073" joined="2007-12-13"/>
+		<cosponsor id="300041" joined="2007-12-13"/>
+		<cosponsor id="300051" joined="2007-12-13"/>
+	</cosponsors>
+	<actions>
+		<vote date="1197522000" how="by Unanimous Consent" datetime="2007-12-13" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S15570-15571"/><reference label="text as passed Senate" ref="CR S15570-15571"/><reference label="text of measure as introduced" ref="CR S15471-15474"/></vote>
+		<action date="1197608400" datetime="2007-12-14"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1197916260" datetime="2007-12-17T14:31:00-05:00"><text>Received in the House.</text></action>
+		<action date="1197918120" datetime="2007-12-17T15:02:00-05:00"><text>Mr. Butterfield moved to suspend the rules and pass the bill.</text></action>
+		<action date="1197918180" datetime="2007-12-17T15:03:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H15500-15501"/></action>
+		<action date="1197918180" datetime="2007-12-17T15:03:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 2484.</text></action>
+		<vote date="1197918480" how="by voice vote" datetime="2007-12-17T15:08:00-05:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H15500"/></vote>
+		<topresident date="1197867600" datetime="2007-12-17" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1198040400" datetime="2007-12-19" ><text>Presented to President.</text></topresident>
+		<signed date="1198213200" datetime="2007-12-21" ><text>Signed by President.</text></signed>
+		<enacted number="110-154" date="1198213200" datetime="2007-12-21" type="public" ><text>Became Public Law No: 110-154.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/21/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Amends the Public Health Service Act to rename the National Institute of Child Health and Human Development as the &quot;Eunice Kennedy Shriver National Institute of Child Health and Human Development.&quot;<br/>
+	</summary>
+</bill>

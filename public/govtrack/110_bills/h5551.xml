@@ -1,0 +1,51 @@
+<bill session="110" type="h" number="5551" updated="2009-01-09T04:23:21-05:00">
+	<status><enacted date="1222920000" datetime="2008-10-02" /></status>
+
+	<introduced date="1204779600" datetime="2008-03-06"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 11, District of Columbia Official Code, to implement the increase provided under the District of Columbia Appropriations Act, 2008, in the amount of funds made available for the compensation of attorneys representing indigent defendants in the District of Columbia courts, and for other purposes.</title>
+	</titles>
+	<sponsor id="400093"/>
+	<cosponsors>
+		<cosponsor id="400295" joined="2008-03-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1204779600" datetime="2008-03-06"><text>Sponsor introductory remarks on measure. (CR E320)</text></action>
+		<action date="1204779600" datetime="2008-03-06"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1205121600" datetime="2008-03-10"><text>Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia.</text></action>
+		<action date="1205380800" datetime="2008-03-13"><text>Subcommittee on Federal Workforce, Post Office, and the District of Columbia Discharged.</text></action>
+		<action date="1205380800" datetime="2008-03-13"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1205380800" datetime="2008-03-13" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1206999360" datetime="2008-03-31T18:36:00-04:00"><text>Reported by the Committee on Oversight and Government. H. Rept. 110-560.</text></action>
+		<calendar number="343" date="1206999360" datetime="2008-03-31T18:36:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 343.</text></calendar>
+		<action date="1207070460" datetime="2008-04-01T14:21:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1207070520" datetime="2008-04-01T14:22:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1852-1853"/></action>
+		<action date="1207070520" datetime="2008-04-01T14:22:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5551.</text></action>
+		<vote date="1207071000" how="by voice vote" datetime="2008-04-01T14:30:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H1852"/></vote>
+		<action date="1207108800" datetime="2008-04-02"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<calendar date="1207800000" datetime="2008-04-10" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1216958400" datetime="2008-07-25"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-432.</text></action>
+		<calendar under="General Orders" number="900" date="1216958400" datetime="2008-07-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 900.</text></calendar>
+		<vote date="1221537600" how="by Unanimous Consent" datetime="2008-09-16" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S8875"/></vote>
+		<topresident date="1221537600" datetime="2008-09-16" ><text>Cleared for White House.</text></topresident>
+		<action date="1221624000" datetime="2008-09-17"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1222142400" datetime="2008-09-23" ><text>Presented to President.</text></topresident>
+		<signed date="1222920000" datetime="2008-10-02" ><text>Signed by President.</text></signed>
+		<enacted number="110-335" date="1222920000" datetime="2008-10-02" type="public" ><text>Became Public Law No: 110-335.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/2/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends the District of Columbia Official Code to increase from $65 to $80 the hourly rate of attorneys representing indigent defendants in the District of Columbia courts. Revises the current cap on total compensation paid to an attorney representing such a defendant to apply the corresponding caps under the federal criminal code. Increases the cap: (1) before the Superior Court of the District from $1,900 to $2,000 for misdemeanors and from $3,600 to $7,000 for felonies; and (2) to the same amounts for post-trial matters for misdemeanors or felonies. Sets the cap for representation of a defendant before the District of Columbia Court of Appeals at $5,000, the limitation under the federal criminal code for representation of a defendant in an appellate court.<br/>
+	</summary>
+</bill>

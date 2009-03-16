@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="409" updated="2009-01-09T08:43:36-05:00">
+	<status><vote date="1179421740" datetime="2007-05-17T14:09:00-04:00" where="h" result="pass" how="roll" roll="376"/></status>
+
+	<introduced date="1179288000" datetime="2007-05-16"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the conference report to accompany the concurrent resolution (S. Con. Res. 21) setting forth the congressional budget for the United States Government for fiscal year 2008 and including the appropriate budgetary levels for fiscal years 2007 and 2009 through 2012.</title>
+	</titles>
+	<sponsor id="412228"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1179358920" datetime="2007-05-16T20:42:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-156, by Ms. Sutton.</text></action>
+		<action date="1179358920" datetime="2007-05-16T20:42:00-04:00"><text>All points of order against the conference report and against its consideration are waived. The conference report shall be considered as read and shall be debatable for one hour.</text></action>
+		<calendar date="1179358920" datetime="2007-05-16T20:42:00-04:00" ><text>Placed on the House Calendar, Calendar No. 63.</text></calendar>
+		<action date="1179460500" datetime="2007-05-17T12:55:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H5355-5361"/></action>
+		<action date="1179460500" datetime="2007-05-17T12:55:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 409.</text></action>
+		<action date="1179421320" datetime="2007-05-17T14:02:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 224 - 193 (Roll no. 375).</text><reference label="consideration" ref="CR H5360"/></action>
+		<vote date="1179421740" how="roll" roll="376" datetime="2007-05-17T14:09:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by recorded vote: 225 - 194 (Roll no. 376).</text><reference label="text" ref="CR H5355"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/17/2007--Passed House without amendment. Sets forth the rule for consideration of the conference report on S.Con.Res. 21 (congressional budget).<br/>
+	</summary>
+</bill>

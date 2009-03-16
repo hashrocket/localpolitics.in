@@ -1,0 +1,41 @@
+<bill session="111" type="sr" number="25" updated="2009-03-07T14:41:23-05:00">
+	<status><vote date="1233118800" datetime="2009-01-28" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="official" as="introduced">A resolution expressing support for designation of January 28, 2009, as &quot;National Data Privacy Day&quot;.</title>
+	</titles>
+	<sponsor id="300037"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2009-01-28"/>
+		<cosponsor id="400432" joined="2009-01-28"/>
+		<cosponsor id="300011" joined="2009-01-28"/>
+		<cosponsor id="300091" joined="2009-01-28"/>
+		<cosponsor id="300060" joined="2009-01-28"/>
+		<cosponsor id="300087" joined="2009-01-29"/>
+		<cosponsor id="300092" joined="2009-01-28"/>
+		<cosponsor id="300043" joined="2009-01-28"/>
+	</cosponsors>
+	<actions>
+		<vote date="1233118800" how="by Unanimous Consent" datetime="2009-01-28" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S1005"/><reference label="text as passed Senate" ref="CR S1005"/><reference label="text of measure as introduced" ref="CR S998"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="hr" number="31" />
+	</relatedbills>
+	<subjects>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Child safety and welfare"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Internet and video services"/>
+		<term name="Right of privacy"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/2009--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)<br/>Supports the designation of January 28, 2009, as National Data Privacy Day. Encourages privacy professionals and educators to discuss data privacy and protection issues with teens in high schools.<br/>Encourages individuals to be aware of data privacy concerns and to take steps to protect their personal information online.<br/>
+	</summary>
+</bill>

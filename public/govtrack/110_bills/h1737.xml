@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="1737" updated="2009-01-08T20:28:30-05:00">
+	<status><vote date="1178562780" datetime="2007-05-07T15:33:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1175054400" datetime="2007-03-28"/>
+	<titles>
+		<title type="short" as="introduced">City of Oxnard Water Recycling and Desalination Act of 2007</title>
+		<title type="short" as="passed house">City of Oxnard Water Recycling and Desalination Act of 2007</title>
+		<title type="short" as="reported to senate">City of Oxnard Water Recycling and Desalination Act of 2007</title>
+		<title type="official" as="introduced">To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior to participate in the design, planning, and construction of permanent facilities for the GREAT project to reclaim, reuse, and treat impaired waters in the area of Oxnard, California.</title>
+	</titles>
+	<sponsor id="400062"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1175054400" datetime="2007-03-28"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1175832000" datetime="2007-04-06"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1178562600" datetime="2007-05-07T15:30:00-04:00"><text>Mrs. Napolitano moved to suspend the rules and pass the bill.</text></action>
+		<action date="1178562600" datetime="2007-05-07T15:30:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4505-4506"/></action>
+		<action date="1178562600" datetime="2007-05-07T15:30:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1737.</text></action>
+		<vote date="1178562780" how="by voice vote" datetime="2007-05-07T15:33:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H4505"/></vote>
+		<action date="1178596800" datetime="2007-05-08"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1207627200" datetime="2008-04-08"><text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held.</text></action>
+		<calendar date="1221105600" datetime="2008-09-11" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1221537600" datetime="2008-09-16"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="1016" date="1221537600" datetime="2008-09-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1016.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/16/2008--Reported to Senate without amendment. (This measure has not been amended since it was passed by the House on May 7, 2007. The summary of that version is repeated here.) City of Oxnard Water Recycling and Desalination Act of 2007 - Amends the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior to participate in the design, planning, and construction of Phase I permanent facilities for the GREAT project to reclaim, reuse, and treat impaired water near Oxnard, California. Limits the federal share of the cost of the project to 25%. Prohibits the Secretary from providing funds for the operation and maintenance of the project or for the construction, operations, and maintenance of the project's visitor's center. Terminates the Secretary's authority to carry out this Act 10 years after its enactment.<br/>
+	</summary>
+</bill>

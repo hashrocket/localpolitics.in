@@ -1,0 +1,37 @@
+<bill session="110" type="hc" number="395" updated="2009-01-08T16:17:12-05:00">
+	<status><vote2 date="1217044800" datetime="2008-07-26" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1216785600" datetime="2008-07-23"/>
+	<titles>
+		<title type="official" as="introduced">Authorizing the printing of an additional number of copies of the 23rd edition of the pocket version of the United States Constitution.</title>
+	</titles>
+	<sponsor id="400047"/>
+	<cosponsors>
+		<cosponsor id="400119" joined="2008-07-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1216785600" datetime="2008-07-23"><text>Referred to the House Committee on House Administration.</text></action>
+		<action date="1216824240" datetime="2008-07-23T11:44:00-04:00"><text>Committee on House Administration discharged.</text></action>
+		<action date="1216824300" datetime="2008-07-23T11:45:00-04:00"><text>Mr. Brady (PA) asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1216824300" datetime="2008-07-23T11:45:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H6840"/></action>
+		<vote date="1216824300" how="without objection" datetime="2008-07-23T11:45:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text" ref="CR H6840"/></vote>
+		<action date="1216872000" datetime="2008-07-24"><text>Received in the Senate.</text></action>
+		<vote date="1217044800" how="by Unanimous Consent" datetime="2008-07-26" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S7537"/></vote>
+		<action date="1217217600" datetime="2008-07-28"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/26/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Requires the printing of a specified additional number of copies of the 23rd edition of the pocket version of the United States Constitution for the use of the House of Representatives, the Senate, and the Joint Committee on Printing.<br/>
+	</summary>
+</bill>

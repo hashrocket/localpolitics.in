@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="1077" updated="2009-03-07T11:55:22-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Respiratory Therapy Initiative Act of 2009</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for Medicare coverage of services of qualified respiratory therapists performed under the general supervision of a physician.</title>
+	</titles>
+	<sponsor id="400345"/>
+	<cosponsors>
+		<cosponsor id="400005" joined="2009-02-13"/>
+		<cosponsor id="400240" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to House Ways and Means</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="343" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Cardiovascular and respiratory health"/>
+		<term name="Medicare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2009--Introduced.<br/>Medicare Respiratory Therapy Initiative Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act to cover the services of a qualified respiratory therapist performed under the general supervision of a physician. 
+	</summary>
+</bill>

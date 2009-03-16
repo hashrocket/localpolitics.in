@@ -1,0 +1,46 @@
+<bill session="110" type="h" number="2649" updated="2009-01-08T22:22:04-05:00">
+	<status><vote date="1211315400" datetime="2008-05-20T17:30:00-04:00" where="h" result="pass" how="roll" roll="336"/></status>
+
+	<introduced date="1181534400" datetime="2007-06-11"/>
+	<titles>
+		<title type="short" as="reported to house">Lake Hodges Surface Water Improvement and Reclamation Act of 2008</title>
+		<title type="short" as="passed house">Lake Hodges Surface Water Improvement and Reclamation Act of 2008</title>
+		<title type="official" as="introduced">To make amendments to the Reclamation Projects Authorization and Adjustment Act of 1992.</title>
+	</titles>
+	<sponsor id="400570"/>
+	<cosponsors>
+		<cosponsor id="400191" joined="2007-06-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1181534400" datetime="2007-06-11"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1181707200" datetime="2007-06-13"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1208923200" datetime="2008-04-23"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1208923200" datetime="2008-04-23"><text>Forwarded by Subcommittee to Full Committee (Amended) by Unanimous Consent .</text></action>
+		<action date="1209528000" datetime="2008-04-30"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1209528000" datetime="2008-04-30" ><text>Ordered to be Reported (Amended) by Unanimous Consent.</text></calendar>
+		<action date="1210721580" datetime="2008-05-13T20:33:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-634.</text></action>
+		<calendar number="396" date="1210721580" datetime="2008-05-13T20:33:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 396.</text></calendar>
+		<action date="1211254860" datetime="2008-05-19T12:41:00-04:00"><text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1211254860" datetime="2008-05-19T12:41:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4074-4075"/></action>
+		<action date="1211254860" datetime="2008-05-19T12:41:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2649.</text></action>
+		<action date="1211255160" datetime="2008-05-19T12:46:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Issa objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1211314860" datetime="2008-05-20T17:21:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4281-4282"/></action>
+		<vote date="1211315400" how="roll" roll="336" datetime="2008-05-20T17:30:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 374 - 39 (Roll no. 336). (text: CR 5/19/2008 H4074)</text></vote>
+		<action date="1211342400" datetime="2008-05-21"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/2008--Passed House amended. (This measure has not been amended since it was reported to the House on May 13, 2008. The summary of that version is repeated here.)<br/>Lake Hodges Surface Water Improvement and Reclamation Act of 2008 - Amends the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior, in cooperation with the Olivenhain Municipal Water District, California, to participate in the design, planning, and construction of projects to treat, reclaim, and reuse impaired surface water from Lake Hodges in San Diego County, California. Limits the federal share to 25% of the total project costs. Prohibits the Secretary from providing funds for project operation or maintenance.<br/>
+	</summary>
+</bill>

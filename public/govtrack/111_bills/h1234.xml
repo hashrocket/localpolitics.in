@@ -1,0 +1,31 @@
+<bill session="111" type="h" number="1234" updated="2009-03-07T12:17:29-05:00">
+	<status><introduced date="1235624400" datetime="2009-02-26"/></status>
+
+	<introduced date="1235624400" datetime="2009-02-26"/>
+	<titles>
+		<title type="short" as="introduced">Savings for Working Families Act of 2009</title>
+		<title type="official" as="introduced">To establish and provide for the treatment of Individual Development Accounts, and for other purposes.</title>
+	</titles>
+	<sponsor id="400320"/>
+	<cosponsors>
+		<cosponsor id="400046" joined="2009-02-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1235624400" datetime="2009-02-26"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

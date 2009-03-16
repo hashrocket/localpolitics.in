@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="368" updated="2009-03-07T10:30:46-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Coastal and Estuarine Land Conservation Program Act</title>
+		<title type="official" as="introduced">To authorize the acquisition of land and interests in land from willing sellers to improve the conservation of, and to enhance the ecological values and functions of, coastal and estuarine areas to benefit both the environment and the economies of coastal communities, and for other purposes.</title>
+	</titles>
+	<sponsor id="400062"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2009-01-09"/>
+		<cosponsor id="412307" joined="2009-01-26"/>
+		<cosponsor id="400129" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="170" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Land transfers"/>
+		<term name="Land use and conservation"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Performance measurement"/>
+		<term name="Property rights"/>
+		<term name="Watersheds"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

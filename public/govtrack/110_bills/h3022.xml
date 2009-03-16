@@ -1,0 +1,51 @@
+<bill session="110" type="h" number="3022" updated="2009-01-08T23:08:25-05:00">
+	<status><vote date="1213032000" datetime="2008-06-09T14:20:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1184212800" datetime="2007-07-12"/>
+	<titles>
+		<title type="short" as="introduced">Sequoia-Kings Canyon National Park Wilderness Act of 2007</title>
+		<title type="short" as="reported to house">Sequoia and Kings Canyon National Parks Wilderness Act of 2008</title>
+		<title type="short" as="passed house">Sequoia and Kings Canyon National Parks Wilderness Act of 2008</title>
+		<title type="short" as="reported to senate">Sequoia and Kings Canyon National Parks Wilderness Act of 2008</title>
+		<title type="official" as="introduced">To designate the John Krebs Wilderness in the State of California, to add certain land to the Sequoia-Kings Canyon National Park Wilderness, and for other purposes.</title>
+	</titles>
+	<sponsor id="400618"/>
+	<cosponsors>
+		<cosponsor id="400297" joined="2007-07-12"/>
+		<cosponsor id="400409" joined="2008-05-08"/>
+		<cosponsor id="400237" joined="2008-05-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1184212800" datetime="2007-07-12"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1184558400" datetime="2007-07-16"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1193716800" datetime="2007-10-30"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1210737600" datetime="2008-05-14"><text>Subcommittee on National Parks, Forests, and Public Lands Discharged.</text></action>
+		<action date="1210737600" datetime="2008-05-14"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1210737600" datetime="2008-05-14" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1212696300" datetime="2008-06-05T17:05:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-694.</text></action>
+		<calendar number="437" date="1212696360" datetime="2008-06-05T17:06:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 437.</text></calendar>
+		<action date="1213031400" datetime="2008-06-09T14:10:00-04:00"><text>Mr. Costa moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1213031460" datetime="2008-06-09T14:11:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5048-5050"/></action>
+		<action date="1213031460" datetime="2008-06-09T14:11:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3022.</text></action>
+		<vote date="1213032000" how="by voice vote" datetime="2008-06-09T14:20:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H5048-5049"/></vote>
+		<action date="1213070400" datetime="2008-06-10"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<calendar date="1221105600" datetime="2008-09-11" ><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action date="1221537600" datetime="2008-09-16"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="1021" date="1221537600" datetime="2008-09-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1021.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/16/2008--Reported to Senate amended. Sequoia and Kings Canyon National Parks Wilderness Act of 2008 - Designates certain land and potential wilderness additions in California in the Sequoia and Kings Canyon National Parks titled as &quot;John Krebs Wilderness&quot; as wilderness areas and as components of the National Wilderness Preservation System. Provides that the designation of: (1) the land as the John Krebs Wilderness does not preclude operation and maintenance of the existing Hockett Meadow Cabin and Quinn Patrol Cabin in the same manner and degree in which such cabins were operated and maintained on the day before enactment of this Act; and (2) the potential wilderness additions shall not prohibit the operation, maintenance, and repair of the small check dams and water impoundments on Lower Franklin Lake, Crystal Lake, Upper Monarch Lake, and Eagle Lake. Authorizes the Secretary of the Interior to allow the use of helicopters for the operation, maintenance, and repair of such dams and water impoundments on such Lakes. Designates the potential wilderness additions as wilderness and incorporates them into the John Krebs Wilderness upon termination of the non-conforming uses. Designates certain lands in California in the Sequoia and Kings Canyon National Parks as wilderness areas and as components of the National Wilderness Preservation System and which shall be considered to be a part of the Sequoia-Kings Canyon Wilderness. Instructs the Secretary to continue to manage the maintenance and access to hydrologic, meteorologic, and climatological devices, facilities, and associated equipment consistent with House Report 98-40. Specifies this Act's effect with regard to: (1) authorized activities conducted outside outside of an area designated as wilderness by this Act by cabin owners (or designees) in the Mineral King Valley area and property owners and lessees (or designees) in the Silver City inholding; and (2) recreational and commercial horseback riding in the wilderness areas. Authorizes appropriations. 
+	</summary>
+</bill>

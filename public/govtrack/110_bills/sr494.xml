@@ -1,0 +1,36 @@
+<bill session="110" type="sr" number="494" updated="2009-01-09T20:59:55-05:00">
+	<status><vote date="1209614400" datetime="2008-05-01" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1207022400" datetime="2008-04-01"/>
+	<titles>
+		<title type="official" as="introduced">A resolution expressing the sense of the Senate on the need for Iraq's neighbors and other international partners to fulfill their pledges to provide reconstruction assistance to Iraq.</title>
+	</titles>
+	<sponsor id="412246"/>
+	<cosponsors>
+		<cosponsor id="412248" joined="2008-04-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1207022400" datetime="2008-04-01"><text>Referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S2299-2300"/></action>
+		<action date="1207108800" datetime="2008-04-02"><text>Sponsor introductory remarks on measure. (CR S2320-2321)</text></action>
+		<calendar date="1208836800" datetime="2008-04-22" ><text>Committee on Foreign Relations. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action date="1208923200" datetime="2008-04-23"><text>Committee on Foreign Relations. Reported by Senator Biden without amendment and with an amended preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="709" date="1208923200" datetime="2008-04-23" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 709.</text></calendar>
+		<action date="1209614400" datetime="2008-05-01"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S3727-3728"/><reference label="text of measure as reported" ref="CR S3727-3728"/></action>
+		<vote date="1209614400" how="by Unanimous Consent" datetime="2008-05-01" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.</text><reference label="text of measure as passed Senate" ref="CR S3728"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/1/2008--Passed Senate amended. Expresses the sense of the Senate that: (1) Iraq's neighbors and other international partners should carry through on previous pledges to provide reconstruction assistance to Iraq; and (2) the United States should consider an Iraq Study Group recommendation to merge U.S. and international reconstruction assistance and Iraqi participants to ensure that projects in Iraq are rapidly and efficiently carried out. 
+	</summary>
+</bill>

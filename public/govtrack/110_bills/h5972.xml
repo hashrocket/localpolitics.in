@@ -1,0 +1,42 @@
+<bill session="110" type="h" number="5972" updated="2009-01-09T05:13:23-05:00">
+	<status><vote date="1212636060" datetime="2008-06-04T12:21:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1210046400" datetime="2008-05-06"/>
+	<titles>
+		<title type="short" as="introduced">United States Capitol Police Administrative Technical Corrections Act of 2008</title>
+		<title type="short" as="passed house">United States Capitol Police Administrative Technical Corrections Act of 2008</title>
+		<title type="official" as="introduced">To make technical corrections to the laws affecting certain administrative authorities of the United States Capitol Police, and for other purposes.</title>
+	</titles>
+	<sponsor id="400047"/>
+	<cosponsors>
+		<cosponsor id="400063" joined="2008-05-06"/>
+		<cosponsor id="400119" joined="2008-05-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1210046400" datetime="2008-05-06"><text>Referred to the House Committee on House Administration.</text></action>
+		<action date="1210132800" datetime="2008-05-07"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1210132800" datetime="2008-05-07" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1212586200" datetime="2008-06-04T10:30:00-04:00"><text>Reported by the Committee on House Administration. H. Rept. 110-679.</text></action>
+		<calendar number="424" date="1212586200" datetime="2008-06-04T10:30:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 424.</text></calendar>
+		<action date="1212635700" datetime="2008-06-04T12:15:00-04:00"><text>Mr. Brady (PA) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1212635700" datetime="2008-06-04T12:15:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4901-4903"/></action>
+		<action date="1212635700" datetime="2008-06-04T12:15:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5972.</text></action>
+		<vote date="1212636060" how="by voice vote" datetime="2008-06-04T12:21:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H4901-4902"/></vote>
+		<action date="1212638400" datetime="2008-06-05"><text>Received in the Senate and Read twice and referred to the Committee on Rules and Administration.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/4/2008--Passed House amended. United States Capitol Police Administrative Technical Corrections Act of 2008 - Makes technical amendments to the Legislative Branch Appropriations Act, 2001 with respect to the Chief Administrative Officer (CAO) of the Capitol Police. Repeals requirements that the Comptroller General be involved in the process of hiring and evaluating the CAO. (Thus, grants such authority solely to the Chief of the Capitol Police.)<br/>Transfers the CAO's authority to the Chief of Police over the personnel of the Capitol Police Office of Administration.<br/>Amends the Legislative Branch Appropriations Act, 2008 to terminate the Chief of Police's authority at the end of FY2012 to make advance payments for U.S. Capitol Police obligations for subscription services.<br/>Establishes a General Counsel to the Chief of Police and the U.S. Capitol Police.<br/>Prohibits lump sum payments to terminated U.S. Capitol Police officers or employees for unused compensatory time, except as permitted under the Congressional Accountability Act of 1995.<br/>Specifies conditions under which the Chief of Police may provide overtime compensation for officers and employees exempt from the Fair Labor Standards Act of 1938.<br/>Amends the Legislative Branch Appropriations Act, 2003 to authorize the Chief of Police to suspend Capitol Police employees with or without pay.<br/>
+	</summary>
+</bill>

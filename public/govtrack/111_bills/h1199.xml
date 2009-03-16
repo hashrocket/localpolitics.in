@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="1199" updated="2009-03-07T12:13:10-05:00">
+	<status><introduced date="1235538000" datetime="2009-02-25"/></status>
+
+	<introduced date="1235538000" datetime="2009-02-25"/>
+	<titles>
+		<title type="short" as="introduced">Scott Gardner Act</title>
+		<title type="official" as="introduced">To improve sharing of immigration information among Federal, State, and local law enforcement officials, to improve State and local enforcement of immigration laws, and for other purposes.</title>
+	</titles>
+	<sponsor id="400288"/>
+	<cosponsors>
+		<cosponsor id="400648" joined="2009-03-03"/>
+		<cosponsor id="412218" joined="2009-03-03"/>
+		<cosponsor id="400367" joined="2009-02-26"/>
+		<cosponsor id="400570" joined="2009-02-26"/>
+		<cosponsor id="400076" joined="2009-02-26"/>
+		<cosponsor id="400151" joined="2009-03-03"/>
+		<cosponsor id="400266" joined="2009-02-25"/>
+		<cosponsor id="400656" joined="2009-03-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to House Judiciary</text></action>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to House Homeland Security</text></action>
+		<action date="1235970000" datetime="2009-03-02"><committee name="House Homeland Security"/><text>Referred to the Subcommittee on Intelligence, Information Sharing, and Terrorism Risk Assessment.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Homeland Security" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Homeland Security" subcommittee="Intelligence, Information Sharing, and Terrorism Risk Assessment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

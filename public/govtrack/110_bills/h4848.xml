@@ -1,0 +1,46 @@
+<bill session="110" type="h" number="4848" updated="2009-01-09T03:01:20-05:00">
+	<status><vote date="1202444640" datetime="2008-02-07T12:24:00-05:00" where="h" result="pass" how="roll" roll="35"/></status>
+
+	<introduced date="1198040400" datetime="2007-12-19"/>
+	<titles>
+		<title type="official" as="introduced">To extend for one year parity in the application of certain limits to mental health benefits, and for other purposes.</title>
+	</titles>
+	<sponsor id="400308"/>
+	<cosponsors>
+		<cosponsor id="400333" joined="2008-02-06"/>
+		<cosponsor id="400387" joined="2007-12-19"/>
+		<cosponsor id="400008" joined="2008-02-06"/>
+		<cosponsor id="400110" joined="2008-02-06"/>
+		<cosponsor id="400120" joined="2008-02-06"/>
+		<cosponsor id="400278" joined="2008-02-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1198040400" datetime="2007-12-19"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1198040400" datetime="2007-12-19"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1198040400" datetime="2007-12-19"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1198040400" datetime="2007-12-19"><text>Referred to House Ways and Means</text></action>
+		<action date="1198040400" datetime="2007-12-19"><text>Referred to House Education and Labor</text></action>
+		<action date="1202329080" datetime="2008-02-06T16:18:00-05:00"><text>Mr. Pallone moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1202329140" datetime="2008-02-06T16:19:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H583-588"/></action>
+		<action date="1202329140" datetime="2008-02-06T16:19:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4848.</text></action>
+		<action date="1202331000" datetime="2008-02-06T16:50:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1202444160" datetime="2008-02-07T12:16:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H640-641"/></action>
+		<vote date="1202444640" how="roll" roll="35" datetime="2008-02-07T12:24:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 23 (Roll no. 35). (text: CR 2/6/2008 H583-584)</text></vote>
+		<action date="1202446800" datetime="2008-02-08"><text>Received in the Senate and Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/7/2008--Passed House amended. Amends the Internal Revenue Code, the Employee Retirement Income Security Act of 1974 (ERISA), and the Public Health Service Act to extend until December 31, 2008, mental health parity provisions, which require group health plans to treat equally mental health benefits and medical and surgical benefits for purposes of lifetime limits or annual limits on benefits covered by the plan.<br/>Amends title XVIII (Medicare) of the Social Security Act to direct the Centers for Medicare &amp;amp; Medicaid Services to take all necessary steps to participate in the Federal Payment Levy Program as soon as possible and ensure that: (1) at least 50% of all payments under parts A (Hospital Insurance) and B (Supplementary Medical Insurance) are processed through such program within one year after enactment of this Act; (2) at least 75% of all such payments are processed through such program within two years; and (3) all such payments are processed through such program by September 30, 2011.<br/>Requires the Financial Management Service and the Internal Revenue Service (IRS) to provide assistance to the Centers for Medicare &amp;amp; Medicaid Services to ensure that all payments are included in the Federal Payment Levy Program by the deadlines specified.<br/>Directs the Department of Health and Human Services (HHS) to offset Medicare payments by the amount of the payee's delinquent federal debt.<br/>Requires the Secretary of HHS to provide for specified expenditures from the Physician Assistance and Quality Initiative Fund for payment for physicians' services.<br/>Directs the Secretary of the Treasury to transfer specified funds from general revenues to Social Security trust funds to ensure that assets of such trust funds are not reduced as a result of enactment of this Act.<br/>
+	</summary>
+</bill>

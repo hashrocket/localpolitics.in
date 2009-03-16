@@ -1,0 +1,33 @@
+<bill session="111" type="s" number="71" updated="2009-03-07T13:40:38-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Telephone Excise Tax Repeal Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to repeal the excise tax on telephone and other communications services.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="300030" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="47" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Sales and excise taxes"/>
+		<term name="Telephone and wireless communication"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Telephone Excise Tax Repeal Act of 2009 - Amends the Internal Revenue Code to repeal the excise tax on communication services (i.e., local telephone service, toll telephone service, and teletypewriter exchange service). 
+	</summary>
+</bill>

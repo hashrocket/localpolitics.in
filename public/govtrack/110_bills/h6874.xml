@@ -1,0 +1,50 @@
+<bill session="110" type="h" number="6874" updated="2009-01-09T06:59:53-05:00">
+	<status><enacted date="1223870400" datetime="2008-10-13" /></status>
+
+	<introduced date="1221105600" datetime="2008-09-11"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 156 Taunton Avenue in Seekonk, Massachusetts, as the &quot;Lance Corporal Eric Paul Valdepenas Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="2008-09-11"/>
+		<cosponsor id="400407" joined="2008-09-11"/>
+		<cosponsor id="400102" joined="2008-09-11"/>
+		<cosponsor id="400063" joined="2008-09-11"/>
+		<cosponsor id="400249" joined="2008-09-11"/>
+		<cosponsor id="400230" joined="2008-09-11"/>
+		<cosponsor id="400140" joined="2008-09-11"/>
+		<cosponsor id="412254" joined="2008-09-11"/>
+		<cosponsor id="400291" joined="2008-09-11"/>
+		<cosponsor id="400301" joined="2008-09-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1221105600" datetime="2008-09-11"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1222269000" datetime="2008-09-24T00:10:00-04:00"><text>Ms. Sutton asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1222269000" datetime="2008-09-24T00:10:00-04:00"><text>Committee on Oversight and Government discharged.</text></action>
+		<action date="1222269000" datetime="2008-09-24T00:10:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H8715"/></action>
+		<vote date="1222269000" how="without objection" datetime="2008-09-24T00:10:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H8715"/></vote>
+		<action date="1222315200" datetime="2008-09-25"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1222747200" how="by Unanimous Consent" datetime="2008-09-30" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10129-10130"/></vote>
+		<action date="1222747200" datetime="2008-09-30"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1222747200" datetime="2008-09-30" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1223352000" datetime="2008-10-07" ><text>Presented to President.</text></topresident>
+		<signed date="1223870400" datetime="2008-10-13" ><text>Signed by President.</text></signed>
+		<enacted number="110-399" date="1223870400" datetime="2008-10-13" type="public" ><text>Became Public Law No: 110-399.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/13/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 156 Taunton Avenue in Seekonk, Massachusetts, as the &quot;Lance Corporal Eric Paul Valdepenas Post Office Building.&quot; 
+	</summary>
+</bill>

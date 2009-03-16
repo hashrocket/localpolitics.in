@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="1033" updated="2009-03-07T11:50:15-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Immigration and Nationality Act with respect to temporary admission of nonimmigrant aliens to the United States for the purpose of receiving medical treatment, and for other purposes.</title>
+	</titles>
+	<sponsor id="412236"/>
+	<cosponsors>
+		<cosponsor id="400333" joined="2009-02-24"/>
+		<cosponsor id="400196" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the House Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Family relationships"/>
+		<term name="Health care coverage and access"/>
+		<term name="Immigration status and procedures"/>
+		<term name="Visas and passports"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Amends the Immigration and Nationality Act to include among nonimmigrant classifications: (1) an alien seeking to enter the United States temporarily and solely to receive medical treatment (including participation in a research study) for a disease or condition that if untreated threatens to undermine the alien's survival or day-to-day functioning with an increased likelihood of progression to a more severe disease or condition; or (2) such alien's accompanying or following son, daughter, spouse, or parent. Sets forth related conditions of admission.<br/>
+	</summary>
+</bill>

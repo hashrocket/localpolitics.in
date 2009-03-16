@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="1242" updated="2009-03-07T12:18:24-05:00">
+	<status><introduced date="1235970000" datetime="2009-03-02"/></status>
+
+	<introduced date="1235970000" datetime="2009-03-02"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Emergency Economic Stabilization Act of 2008 to provide for additional monitoring and accountability of the Troubled Assets Relief Program.</title>
+	</titles>
+	<sponsor id="400251"/>
+	<cosponsors>
+		<cosponsor id="400219" joined="2009-03-02"/>
+		<cosponsor id="400263" joined="2009-03-02"/>
+		<cosponsor id="400209" joined="2009-03-02"/>
+		<cosponsor id="400178" joined="2009-03-02"/>
+		<cosponsor id="400271" joined="2009-03-02"/>
+		<cosponsor id="400154" joined="2009-03-02"/>
+		<cosponsor id="412215" joined="2009-03-02"/>
+		<cosponsor id="400365" joined="2009-03-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1235970000" datetime="2009-03-02"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

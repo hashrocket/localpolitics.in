@@ -1,0 +1,39 @@
+<bill session="110" type="s" number="595" updated="2009-01-09T12:27:47-05:00">
+	<status><calendar date="1185854400" datetime="2007-07-31" /></status>
+
+	<introduced date="1171429200" datetime="2007-02-14"/>
+	<titles>
+		<title type="short" as="introduced">Toxic Right-to-Know Protection Act</title>
+		<title type="short" as="reported to senate">Toxic Right-to-Know Protection Act</title>
+		<title type="official" as="introduced">A bill to amend the Emergency Planning and Community Right-to-Know Act of 1986 to strike a provision relating to modifications in reporting frequency.</title>
+	</titles>
+	<sponsor id="300064"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="2007-02-14"/>
+		<cosponsor id="300011" joined="2007-02-14"/>
+		<cosponsor id="300022" joined="2007-08-02"/>
+		<cosponsor id="400357" joined="2007-04-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1171429200" datetime="2007-02-14"><text>Sponsor introductory remarks on measure. (CR S1974-1975)</text></action>
+		<action date="1171429200" datetime="2007-02-14"><text>Read twice and referred to the Committee on Environment and Public Works.</text><reference label="text of measure as introduced" ref="CR S1975"/></action>
+		<calendar date="1185854400" datetime="2007-07-31" ><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1198040400" datetime="2007-12-19"><text>Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-253. Minority views filed.</text></action>
+		<calendar under="General Orders" number="552" date="1198040400" datetime="2007-12-19" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 552.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/19/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Toxic Right-to-Know Protection Act - Amends the Emergency Planning and Community Right-to-Know Act of 1986 to repeal provisions authorizing the Administrator of the Environmental Protection Agency (EPA) to modify the frequency of submitting toxic chemical release forms. Requires the Administrator to establish the eligibility threshold regarding the use of a form A certification statement under the Toxics Release Inventory Program at not greater than 500 pounds for nonpersistent bioaccumulative and toxic chemicals. Prohibits the use of such form with respect to any chemical of special concern identified by the Administrator. 
+	</summary>
+</bill>

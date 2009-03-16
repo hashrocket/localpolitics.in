@@ -1,0 +1,52 @@
+<bill session="111" type="s" number="354" updated="2009-03-07T14:15:46-05:00">
+	<status><introduced date="1233205200" datetime="2009-01-29"/></status>
+
+	<introduced date="1233205200" datetime="2009-01-29"/>
+	<titles>
+		<title type="short" as="introduced">Federal Employees Paid Parental Leave Act of 2009</title>
+		<title type="official" as="introduced">A bill to provide that 4 of the 12 weeks of parental leave made available to a Federal employee shall be paid leave, and for other purposes.</title>
+	</titles>
+	<sponsor id="412249"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2009-02-02"/>
+		<cosponsor id="412223" joined="2009-01-29"/>
+		<cosponsor id="400272" joined="2009-01-29"/>
+		<cosponsor id="400064" joined="2009-01-29"/>
+		<cosponsor id="300067" joined="2009-01-29"/>
+		<cosponsor id="412246" joined="2009-01-29"/>
+		<cosponsor id="300093" joined="2009-01-29"/>
+		<cosponsor id="412243" joined="2009-01-29"/>
+		<cosponsor id="300060" joined="2009-01-29"/>
+		<cosponsor id="300038" joined="2009-02-24"/>
+		<cosponsor id="300073" joined="2009-01-29"/>
+		<cosponsor id="400357" joined="2009-01-29"/>
+		<cosponsor id="400412" joined="2009-02-12"/>
+		<cosponsor id="300064" joined="2009-01-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1233205200" datetime="2009-01-29"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="626" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional officers and employees"/>
+		<term name="Employee leave"/>
+		<term name="Government Accountability Office (GAO)"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Library of Congress"/>
+		<term name="Office of Personnel Management (OPM)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

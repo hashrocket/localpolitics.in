@@ -1,0 +1,49 @@
+<bill session="111" type="sr" number="73" updated="2009-03-11T12:04:15-04:00">
+	<status><vote date="1236657600" datetime="2009-03-10" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1236657600" datetime="2009-03-10"/>
+	<titles>
+		<title type="official" as="introduced">A resolution authorizing expenditures by committees of the Senate for the periods March 1, 2009, through September 30, 2009, and October 1, 2009, through September 30, 2010, and October 1, 2010, through February 28, 2011.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="300007" joined="2009-03-10"/>
+	</cosponsors>
+	<actions>
+		<vote date="1236657600" how="by Unanimous Consent" datetime="2009-03-10" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S2954-2960; text as passed Senate: CR 2954-2960; text of measure as introduced: CR S2980-2985)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional committees"/>
+		<term name="Senate Committee on Agriculture, Nutrition, and Forestry"/>
+		<term name="Senate Committee on Armed Services"/>
+		<term name="Senate Committee on Banking, Housing, and Urban Affairs"/>
+		<term name="Senate Committee on Commerce, Science, and Transportation"/>
+		<term name="Senate Committee on Energy and Natural Resources"/>
+		<term name="Senate Committee on Environment and Public Works"/>
+		<term name="Senate Committee on Finance"/>
+		<term name="Senate Committee on Foreign Relations"/>
+		<term name="Senate Committee on Health, Education, Labor, and Pensions"/>
+		<term name="Senate Committee on Homeland Security and Governmental Affairs"/>
+		<term name="Senate Committee on Indian Affairs"/>
+		<term name="Senate Committee on Rules and Administration"/>
+		<term name="Senate Committee on Small Business and Entrepreneurship"/>
+		<term name="Senate Committee on Veterans' Affairs"/>
+		<term name="Senate Committee on the Budget"/>
+		<term name="Senate Committee on the Judiciary"/>
+		<term name="Senate Select Committee on Intelligence"/>
+		<term name="Senate Special Committee on Aging"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="110" type="hr" number="202" updated="2009-01-09T08:18:41-05:00">
+	<status><vote date="1173380160" datetime="2007-03-08T14:56:00-05:00" where="h" result="pass" how="roll" roll="131"/></status>
+
+	<introduced date="1172638800" datetime="2007-02-28"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the expenses of certain committees of the House of Representatives in the One Hundred Tenth Congress.</title>
+	</titles>
+	<sponsor id="400275"/>
+	<cosponsors>
+		<cosponsor id="400119" joined="2007-02-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1172638800" datetime="2007-02-28"><text>Referred to the House Committee on House Administration.</text></action>
+		<action date="1172725200" datetime="2007-03-01"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1172725200" datetime="2007-03-01" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1173136860" datetime="2007-03-05T19:21:00-05:00"><text>Reported (Amended) by the Committee on House Administration. H. Rept. 110-29.</text></action>
+		<calendar number="19" date="1173136920" datetime="2007-03-05T19:22:00-05:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 19.</text></calendar>
+		<action date="1173303300" datetime="2007-03-07T17:35:00-05:00"><text>Rules Committee Resolution H. Res. 219 Reported to House. Rule provides for consideration of H. Res. 202 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute recommended by the Committee on House Administration now printed in the resolution, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution, shall be considered as adopted.</text></action>
+		<action date="1173369360" datetime="2007-03-08T11:56:00-05:00"><text>Rule H. Res. 219 passed House.</text></action>
+		<action date="1173412800" datetime="2007-03-08T12:00:00-05:00"><text>Considered under the provisions of rule H. Res. 219.</text><reference label="consideration" ref="CR H2316-2321"/><reference label="text of measure as introduced" ref="CR H2316"/></action>
+		<action date="1173412800" datetime="2007-03-08T12:00:00-05:00"><text>Rule provides for consideration of H. Res. 202 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute recommended by the Committee on House Administration now printed in the resolution, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution, shall be considered as adopted.</text></action>
+		<action date="1173413100" datetime="2007-03-08T12:05:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 202.</text></action>
+		<action date="1173415320" datetime="2007-03-08T12:42:00-05:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H2321"/></action>
+		<action date="1173415320" datetime="2007-03-08T12:42:00-05:00"><text>POSTPONED PROCEEDINGS - At the conclusion of the debate on H.Res. 202, the Chair put the question on adoption of the resolution and by voice vote announced that the ayes had prevailed. Mr. Ehlers demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption until later in the legislative day.</text></action>
+		<action date="1173379440" datetime="2007-03-08T14:44:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2330-2331"/></action>
+		<vote date="1173380160" how="roll" roll="131" datetime="2007-03-08T14:56:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 269 - 150 (Roll no. 131).</text><reference label="text" ref="CR H2316-2317"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/8/2007--Passed House amended. Sets forth the levels of payment for 110th Congress expenses (including staff salaries) for the Committees on Agriculture, Armed Services, the Budget, Education and Labor, Energy and Commerce, Financial Services, Foreign Affairs, Homeland Security, House Administration, the Judiciary, Natural Resources, Oversight and Government Reform, Rules, Science and Technology, Small Business, Standards of Official Conduct, Transportation and Infrastructure, Veterans' Affairs, Ways and Means, as well as the Permanent Select Committee on Intelligence. Prescribes limitations to such expenses for the 1st and 2nd sessions of the 110th Congress. Establishes a Select Committee on Energy Independence and Global Warming, and provides funding for it.<br/>
+	</summary>
+</bill>

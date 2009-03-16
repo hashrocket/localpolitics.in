@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="1080" updated="2009-03-13T12:15:23-04:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="short" as="introduced">Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2009</title>
+		<title type="official" as="introduced">To strengthen enforcement mechanisms to stop illegal, unreported, and unregulated fishing, and for other purposes.</title>
+	</titles>
+	<sponsor id="400041"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="2009-02-13"/>
+		<cosponsor id="400073" joined="2009-02-13"/>
+		<cosponsor id="400001" joined="2009-02-13"/>
+		<cosponsor id="400162" joined="2009-03-05"/>
+		<cosponsor id="400129" joined="2009-02-13"/>
+		<cosponsor id="412312" joined="2009-02-13"/>
+		<cosponsor id="400062" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Sponsor introductory remarks on measure. (CR E276-277)</text></action>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1235106000" datetime="2009-02-20"><text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Insular Affairs, Oceans and Wildlife" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2009--Introduced.<br/>Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2009 - Amends specified Acts related to commercial fishing and marine resources, including the High Seas Driftnet Fishing Moratorium Protection Act, the Magnuson-Stevens Fishery Conservation and Management Act, the Pacific Salmon Treaty Act of 1985, the South Pacific Tuna Act of 1988, the High Seas Fishing Compliance Act of 1995, and the Antarctic Marine Living Resources Convention Act of 1984, to provide for increased interagency and international cooperation, as well as for increased penalties for violations of such acts and increased enforcement and inspection authorities relating to driftnet fishing, illegal, unreported, or unregulated fishing, and bycatch of a protected living marine resource. Requires: (1) the development and publication of a list of vessels engaged in illegal, unreported, or unregulated fishing, including vessels identified by an international fishery management organization or an arrangement made pursuant to an international fishery agreement, whether or not the United States is a party to such organization or agreement; and (2) taking appropriate action against listed vessels. Authorizes the Secretary of Commerce to establish an international cooperation and assistance program, including grants, to provide assistance for international fishing capacity building efforts.<br/>
+	</summary>
+</bill>

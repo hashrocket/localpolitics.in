@@ -1,0 +1,61 @@
+<bill session="110" type="hr" number="334" updated="2009-01-09T08:34:38-05:00">
+	<status><vote date="1178051400" datetime="2007-05-01T17:30:00-04:00" where="h" result="pass" how="roll" roll="270"/></status>
+
+	<introduced date="1177387200" datetime="2007-04-24"/>
+	<titles>
+		<title type="official" as="introduced">Supporting the goals and ideals of National Community College Month.</title>
+	</titles>
+	<sponsor id="400280"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-05-01"/>
+		<cosponsor id="400133" joined="2007-05-01"/>
+		<cosponsor id="400199" joined="2007-04-30"/>
+		<cosponsor id="400160" joined="2007-04-30"/>
+		<cosponsor id="400657" joined="2007-04-24"/>
+		<cosponsor id="400183" joined="2007-04-24"/>
+		<cosponsor id="400282" joined="2007-04-30"/>
+		<cosponsor id="412225" joined="2007-05-01"/>
+		<cosponsor id="400267" joined="2007-04-24"/>
+		<cosponsor id="400423" joined="2007-05-01"/>
+		<cosponsor id="412208" joined="2007-04-30"/>
+		<cosponsor id="400437" joined="2007-04-24"/>
+		<cosponsor id="400648" joined="2007-05-01"/>
+		<cosponsor id="400212" joined="2007-05-01"/>
+		<cosponsor id="400386" joined="2007-04-24"/>
+		<cosponsor id="400432" joined="2007-04-24"/>
+		<cosponsor id="400631" joined="2007-04-30"/>
+		<cosponsor id="400259" joined="2007-05-01"/>
+		<cosponsor id="400070" joined="2007-04-24"/>
+		<cosponsor id="400207" joined="2007-05-01"/>
+		<cosponsor id="400415" joined="2007-04-24"/>
+		<cosponsor id="412186" joined="2007-04-30"/>
+		<cosponsor id="400033" joined="2007-05-01"/>
+		<cosponsor id="400639" joined="2007-04-30"/>
+		<cosponsor id="400309" joined="2007-04-30"/>
+		<cosponsor id="400278" joined="2007-04-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1177387200" datetime="2007-04-24"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1178036700" datetime="2007-05-01T13:25:00-04:00"><text>Mrs. McCarthy (NY) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1178036760" datetime="2007-05-01T13:26:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4224-4227"/></action>
+		<action date="1178036760" datetime="2007-05-01T13:26:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 334.</text></action>
+		<action date="1178037960" datetime="2007-05-01T13:46:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1178049960" datetime="2007-05-01T17:06:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4257-4258"/></action>
+		<vote date="1178051400" how="roll" roll="270" datetime="2007-05-01T17:30:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 270).</text><reference label="text" ref="CR H4224"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/1/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Supports the goals and ideals of National Community College Month. Congratulates the Nation's community colleges, and their students, governing boards, faculty, and staff, for their contributions to education and workforce development, and for their vital role in ensuring a brighter, stronger future for the Nation.<br/>
+	</summary>
+</bill>

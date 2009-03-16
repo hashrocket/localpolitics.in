@@ -1,0 +1,42 @@
+<bill session="110" type="s" number="702" updated="2009-01-09T12:48:13-05:00">
+	<status><calendar date="1209009600" datetime="2008-04-24" /></status>
+
+	<introduced date="1172638800" datetime="2007-02-28"/>
+	<titles>
+		<title type="short" as="introduced">State Court Interpreter Grant Program Act</title>
+		<title type="short" as="reported to senate">State Court Interpreter Grant Program Act</title>
+		<title type="official" as="introduced">A bill to authorize the Attorney General to award grants to State courts to develop and implement State courts interpreter programs.</title>
+	</titles>
+	<sponsor id="300061"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2008-02-14"/>
+		<cosponsor id="400064" joined="2007-10-26"/>
+		<cosponsor id="300059" joined="2007-02-28"/>
+		<cosponsor id="300008" joined="2007-09-19"/>
+		<cosponsor id="300038" joined="2007-02-28"/>
+		<cosponsor id="300092" joined="2008-03-31"/>
+		<cosponsor id="300068" joined="2008-06-18"/>
+	</cosponsors>
+	<actions>
+		<action date="1172638800" datetime="2007-02-28"><text>Sponsor introductory remarks on measure. (CR S2358-2359)</text></action>
+		<action date="1172638800" datetime="2007-02-28"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S2359-2360"/></action>
+		<calendar date="1209009600" datetime="2008-04-24" ><text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1217563200" datetime="2008-08-01"><text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. With written report No. 110-436. Minority views filed.</text></action>
+		<calendar under="General Orders" number="932" date="1217563200" datetime="2008-08-01" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 932.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/1/2008--Reported to Senate amended. State Court Interpreter Grant Program Act - Directs the Administrator of the Office of Justice Programs of the Department of Justice to: (1) make grants to state courts to develop and implement programs to assist individuals with limited English proficiency to access and understand state court proceedings in which they are a party; and (2) allocate specified funds to establish a court interpreter technical assistance program to assist state courts receiving grants under this Act. Authorizes the use of grant awards by state courts to: (1) assess regional language demands; (2) develop a court interpreter program; (3) develop, institute, and administer language certification examinations; (4) recruit, train, and certify qualified court interpreters; and (5) pay for salaries, transportation, and technology necessary to implement the court interpreter program. 
+	</summary>
+</bill>

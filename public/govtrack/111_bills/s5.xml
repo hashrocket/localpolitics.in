@@ -1,0 +1,62 @@
+<bill session="111" type="s" number="5" updated="2009-03-07T13:33:34-05:00">
+	<status><calendar date="1231304400" datetime="2009-01-07" /></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Cleaner, Greener, and Smarter Act of 2009</title>
+		<title type="official" as="introduced">A bill to improve the economy and security of the United States by reducing the dependence of the United States on foreign and unsustainable energy sources and the risks of global warming, and for other purposes.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2009-01-06"/>
+		<cosponsor id="400272" joined="2009-01-06"/>
+		<cosponsor id="300009" joined="2009-01-06"/>
+		<cosponsor id="400050" joined="2009-01-07"/>
+		<cosponsor id="300059" joined="2009-01-06"/>
+		<cosponsor id="300022" joined="2009-01-06"/>
+		<cosponsor id="300011" joined="2009-01-06"/>
+		<cosponsor id="300001" joined="2009-01-06"/>
+		<cosponsor id="412246" joined="2009-01-06"/>
+		<cosponsor id="412323" joined="2009-01-06"/>
+		<cosponsor id="300093" joined="2009-01-06"/>
+		<cosponsor id="412243" joined="2009-01-06"/>
+		<cosponsor id="300060" joined="2009-01-06"/>
+		<cosponsor id="300038" joined="2009-01-06"/>
+		<cosponsor id="300066" joined="2009-01-06"/>
+		<cosponsor id="300073" joined="2009-01-06"/>
+		<cosponsor id="300087" joined="2009-01-06"/>
+		<cosponsor id="300034" joined="2009-01-06"/>
+		<cosponsor id="300051" joined="2009-01-06"/>
+		<cosponsor id="412326" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text><reference label="text of measure as introduced" ref="CR S45"/></action>
+		<calendar date="1231304400" datetime="2009-01-07" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 5.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Energy"/>
+		<term name="Air quality"/>
+		<term name="Alternative and renewable resources"/>
+		<term name="Climate change"/>
+		<term name="Electric power generation and transmission"/>
+		<term name="Employment and training programs"/>
+		<term name="Energy efficiency and conservation"/>
+		<term name="Energy prices"/>
+		<term name="Energy storage, supplies, demand"/>
+		<term name="Environmental technology"/>
+		<term name="General taxation matters"/>
+		<term name="Infrastructure development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Cleaner, Greener, and Smarter Act of 2009 - Calls for the enactment of legislation to improve the economy and the security of the United States by reducing U.S. dependence on foreign and unsustainable energy sources and the risks of global warming by: (1) making and encouraging significant investments in green job creation and clean energy across the economy; (2) diversifying and rapidly expanding the use of secure, efficient, and environmentally friendly energy supplies and technologies; (3) transforming U.S. infrastructure to make the infrastructure sustainable and the United States more competitive globally, including transmission grid modernization and transportation sector electrification; (4) requiring reductions in emissions of greenhouse gases (GHG) in the United States and achieving reductions in emissions of GHGs abroad; (5) protecting consumers from volatile energy prices through better market oversight and enhanced energy efficiency standards and incentives; and (6) eliminating wasteful and unnecessary tax breaks and giveaways that fail to move the United States toward a more competitive and cleaner energy future.<br/>
+	</summary>
+</bill>

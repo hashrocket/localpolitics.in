@@ -1,0 +1,43 @@
+<bill session="111" type="s" number="303" updated="2009-03-12T12:01:26-04:00">
+	<status><calendar date="1234328400" datetime="2009-02-11" /></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">Federal Financial Assistance Management Improvement Act of 2009</title>
+		<title type="short" as="reported to senate">Federal Financial Assistance Management Improvement Act of 2009</title>
+		<title type="official" as="introduced">A bill to reauthorize and improve the Federal Financial Assistance Management Improvement Act of 1999.</title>
+	</titles>
+	<sponsor id="300098"/>
+	<cosponsors>
+		<cosponsor id="300067" joined="2009-01-22"/>
+		<cosponsor id="300019" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Sponsor introductory remarks on measure. (CR S789)</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text><reference label="text of measure as introduced" ref="CR S789-790"/></action>
+		<calendar date="1234328400" datetime="2009-02-11" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1236744000" datetime="2009-03-11"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-7.</text></action>
+		<calendar under="General Orders" number="30" date="1236744000" datetime="2009-03-11" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 30.</text></calendar>
+	</actions>
+	<committees>
+		<committee name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Economics and public finance"/>
+		<term name="Budget process"/>
+		<term name="Congressional oversight"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Government information and archives"/>
+		<term name="Office of Management and Budget (OMB)"/>
+		<term name="Performance measurement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

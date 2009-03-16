@@ -1,0 +1,38 @@
+<bill session="110" type="hc" number="306" updated="2009-01-08T16:05:28-05:00">
+	<status><vote2 date="1205208000" datetime="2008-03-11" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1204606800" datetime="2008-03-04"/>
+	<titles>
+		<title type="official" as="introduced">Permitting the use of the Rotunda of the Capitol for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</title>
+	</titles>
+	<sponsor id="400425"/>
+	<cosponsors>
+		<cosponsor id="400059" joined="2008-03-04"/>
+		<cosponsor id="400060" joined="2008-03-04"/>
+		<cosponsor id="400235" joined="2008-03-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1204606800" datetime="2008-03-04"><text>Referred to the House Committee on House Administration.</text></action>
+		<action date="1205187480" datetime="2008-03-10T19:18:00-04:00"><text>Committee on House Administration discharged.</text></action>
+		<action date="1205187480" datetime="2008-03-10T19:18:00-04:00"><text>Ms. Lofgren, Zoe asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1205187600" datetime="2008-03-10T19:20:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H1432"/></action>
+		<vote date="1205187600" how="without objection" datetime="2008-03-10T19:20:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text" ref="CR H1432"/></vote>
+		<vote date="1205208000" how="by Unanimous Consent" datetime="2008-03-11" where="s" type="vote2" result="pass" ><text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S1893"/></vote>
+		<action date="1205294400" datetime="2008-03-12"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes the use of the Capitol rotunda on May 1, 2008, for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.<br/>
+	</summary>
+</bill>

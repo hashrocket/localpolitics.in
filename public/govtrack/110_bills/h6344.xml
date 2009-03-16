@@ -1,0 +1,44 @@
+<bill session="110" type="h" number="6344" updated="2009-01-09T05:57:11-05:00">
+	<status><vote date="1214246820" datetime="2008-06-23T15:47:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1214193600" datetime="2008-06-23"/>
+	<titles>
+		<title type="short" as="introduced">Responsive Government Act of 2008</title>
+		<title type="short" as="passed house">Responsive Government Act of 2008</title>
+		<title type="official" as="introduced">To provide emergency authority to delay or toll judicial proceedings in United States district and circuit courts, and for other purposes.</title>
+	</titles>
+	<sponsor id="400102"/>
+	<cosponsors>
+		<cosponsor id="400073" joined="2008-06-23"/>
+		<cosponsor id="400080" joined="2008-06-23"/>
+		<cosponsor id="400116" joined="2008-06-23"/>
+		<cosponsor id="400144" joined="2008-06-23"/>
+		<cosponsor id="400175" joined="2008-06-23"/>
+		<cosponsor id="400315" joined="2008-06-23"/>
+		<cosponsor id="400208" joined="2008-06-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1214193600" datetime="2008-06-23"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1214245440" datetime="2008-06-23T15:24:00-04:00"><text>Mr. Conyers moved to suspend the rules and pass the bill.</text></action>
+		<action date="1214245440" datetime="2008-06-23T15:24:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5811-5816"/></action>
+		<action date="1214245440" datetime="2008-06-23T15:24:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6344.</text></action>
+		<vote date="1214246820" how="by voice vote" datetime="2008-06-23T15:47:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H5811-5812"/></vote>
+		<action date="1214280000" datetime="2008-06-24"><text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text></action>
+		<action date="1217217600" datetime="2008-07-28"><text>Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/23/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Responsive Government Act of 2008 - Amends the federal judicial code to authorize the chief judge of a district or court of appeals to delay, toll, or otherwise grant relief from time deadlines applicable to pending civil and criminal cases in the event of a natural disaster or other emergency situation requiring the closure of courts or rendering it impracticable to comply with such deadlines. Grants the Director of the United States Patent and Trademark Office authority to: (1) waive statutory provisions governing the filing, processing, renewal, and maintenance of patents, trademark registrations, and patent and trademark applications in certain emergencies; and (2) accept late application filings for patent extensions in certain cases of unintentional delay. Prescribes filing fees for patent extensions, including: (1) $65 million for an anticoagulant drug intended for use in humans; and (2) a formula for other items.<br/>
+	</summary>
+</bill>

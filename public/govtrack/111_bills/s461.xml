@@ -1,0 +1,30 @@
+<bill session="111" type="s" number="461" updated="2009-03-07T14:28:18-05:00">
+	<status><introduced date="1235451600" datetime="2009-02-24"/></status>
+
+	<introduced date="1235451600" datetime="2009-02-24"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to extend and modify the railroad track maintenance credit.</title>
+	</titles>
+	<sponsor id="300068"/>
+	<cosponsors>
+		<cosponsor id="300030" joined="2009-02-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1235451600" datetime="2009-02-24"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="1132" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

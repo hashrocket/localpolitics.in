@@ -1,0 +1,45 @@
+<bill session="110" type="sr" number="211" updated="2009-01-09T20:24:31-05:00">
+	<status><vote date="1179979200" datetime="2007-05-24" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1179720000" datetime="2007-05-21"/>
+	<titles>
+		<title type="official" as="introduced">A resolution expressing the profound concerns of the Senate regarding the transgression against freedom of thought and expression that is being carried out in Venezuela, and for other purposes.</title>
+	</titles>
+	<sponsor id="300070"/>
+	<cosponsors>
+		<cosponsor id="300059" joined="2007-05-24"/>
+		<cosponsor id="300008" joined="2007-05-24"/>
+		<cosponsor id="300071" joined="2007-05-24"/>
+		<cosponsor id="300024" joined="2007-05-24"/>
+		<cosponsor id="400621" joined="2007-05-24"/>
+		<cosponsor id="300034" joined="2007-05-21"/>
+		<cosponsor id="300022" joined="2007-05-24"/>
+		<cosponsor id="300078" joined="2007-05-24"/>
+		<cosponsor id="300050" joined="2007-05-24"/>
+		<cosponsor id="300095" joined="2007-05-24"/>
+		<cosponsor id="400629" joined="2007-05-24"/>
+		<cosponsor id="400194" joined="2007-05-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1179720000" datetime="2007-05-21"><text>Referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S6407-6408"/></action>
+		<calendar date="1179979200" datetime="2007-05-24" ><text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1179979200" datetime="2007-05-24"><text>Committee on Foreign Relations. Reported by Senator Biden without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="178" date="1179979200" datetime="2007-05-24" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 178.</text></calendar>
+		<vote date="1179979200" how="by Unanimous Consent" datetime="2007-05-24" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S6923"/><reference label="text as passed Senate" ref="CR S6923"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/24/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Expresses profound concern about the transgression against freedom of thought and expression in Venezuela by President Hugo Chavez's refusal to renew the concession of Radio Caracas Television. Encourages the Organization of American States (OAS) to respond appropriately to such transgression.<br/>
+	</summary>
+</bill>

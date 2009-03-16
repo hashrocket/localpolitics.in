@@ -1,0 +1,45 @@
+<bill session="110" type="hr" number="94" updated="2009-01-09T08:05:21-05:00">
+	<status><vote date="1170716280" datetime="2007-02-05T18:58:00-05:00" where="h" result="pass" how="roll" roll="74"/></status>
+
+	<introduced date="1169614800" datetime="2007-01-24"/>
+	<titles>
+		<title type="official" as="introduced">Supporting the goals and ideals of National Consumer Protection Week.</title>
+	</titles>
+	<sponsor id="400179"/>
+	<cosponsors>
+		<cosponsor id="400199" joined="2007-02-05"/>
+		<cosponsor id="400257" joined="2007-01-31"/>
+		<cosponsor id="400210" joined="2007-02-05"/>
+		<cosponsor id="400027" joined="2007-01-24"/>
+		<cosponsor id="400271" joined="2007-01-31"/>
+		<cosponsor id="400152" joined="2007-01-31"/>
+		<cosponsor id="412227" joined="2007-02-05"/>
+		<cosponsor id="400140" joined="2007-01-29"/>
+		<cosponsor id="400251" joined="2007-01-31"/>
+	</cosponsors>
+	<actions>
+		<action date="1169614800" datetime="2007-01-24"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1170392400" datetime="2007-02-02"><text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text></action>
+		<action date="1170700440" datetime="2007-02-05T14:34:00-05:00"><text>Mr. Matheson moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1170700500" datetime="2007-02-05T14:35:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1159-1162"/></action>
+		<action date="1170700500" datetime="2007-02-05T14:35:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 94.</text></action>
+		<action date="1170701580" datetime="2007-02-05T14:53:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1170714720" datetime="2007-02-05T18:32:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1169"/></action>
+		<vote date="1170716280" how="roll" roll="74" datetime="2007-02-05T18:58:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 74).</text><reference label="text" ref="CR H1159-1160"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/5/2007--Passed House amended. Supports the goals and ideals of the Ninth Annual National Consumer Protection Week. Requests that the President issue a proclamation calling upon various individuals and organizations to provide citizens with the information necessary to effectively protect themselves against consumer fraud. Encourages all citizens to take an active role in protecting their personal information and to take advantage of consumer protection information.<br/>
+	</summary>
+</bill>

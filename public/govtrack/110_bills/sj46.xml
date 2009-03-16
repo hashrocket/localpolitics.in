@@ -1,0 +1,39 @@
+<bill session="110" type="sj" number="46" updated="2009-01-09T19:58:45-05:00">
+	<status><enacted date="1229662800" datetime="2008-12-19" /></status>
+
+	<introduced date="1228885200" datetime="2008-12-10"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution ensuring that the compensation and other emoluments attached to the office of Secretary of State are those which were in effect on January 1, 2007.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote date="1228885200" how="by Unanimous Consent" datetime="2008-12-10" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10885-10886"/><reference label="text as passed Senate" ref="CR S10885-10886"/><reference label="text of measure as introduced" ref="CR S10883"/></vote>
+		<action date="1228885200" datetime="2008-12-10"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1228956300" datetime="2008-12-10T20:45:00-05:00"><text>Received in the House.</text></action>
+		<action date="1228956900" datetime="2008-12-10T20:55:00-05:00"><text>Mr. Davis (IL) asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action date="1228956960" datetime="2008-12-10T20:56:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10944-10945"/></action>
+		<vote date="1228957080" how="without objection" datetime="2008-12-10T20:58:00-05:00" where="h" type="vote2" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H10945"/></vote>
+		<topresident date="1228885200" datetime="2008-12-10" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1229058000" datetime="2008-12-12" ><text>Presented to President.</text></topresident>
+		<signed date="1229662800" datetime="2008-12-19" ><text>Signed by President.</text></signed>
+		<enacted number="110-455" date="1229662800" datetime="2008-12-19" type="public" ><text>Became Public Law No: 110-455.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/10/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) States that the compensation and other emoluments attached to the office of Secretary of State shall be those in effect January 1, 2007, notwithstanding any increase in such compensation or emoluments after that date under any provision of law or provision which has the force and effect of law, that is enacted or becomes effective during the period beginning at noon of January 3, 2007, and ending at noon of January 3, 2013. States that: (1) any person aggrieved by an action of the Secretary may bring a civil action in the U.S. District Court for the District of Columbia (under a three-judge panel) to contest the constitutionality of the appointment and continuance in office of the Secretary on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution; (2) the Court shall have exclusive jurisdiction over such action; and (3) an appeal may be taken directly to the U.S. Supreme Court from any interlocutory or final judgment, decree, or order upon the validity of the appointment and continuance in office of the Secretary under article I, section 6, clause 2, of the Constitution, entered in any action brought under this resolution. Makes this resolution effective at noon of January 20, 2009.<br/>
+	</summary>
+</bill>

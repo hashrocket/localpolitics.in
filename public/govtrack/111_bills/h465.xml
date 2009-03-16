@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="465" updated="2009-03-07T10:42:18-05:00">
+	<status><introduced date="1231822800" datetime="2009-01-13"/></status>
+
+	<introduced date="1231822800" datetime="2009-01-13"/>
+	<titles>
+		<title type="official" as="introduced">To amend titles XIX and XXI of the Social Security Act to permit States to ensure coverage without a 5-year delay of certain children and pregnant women under the Medicaid program and SCHIP.</title>
+	</titles>
+	<sponsor id="400160"/>
+	<cosponsors>
+		<cosponsor id="400107" joined="2009-01-13"/>
+		<cosponsor id="400425" joined="2009-01-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1231822800" datetime="2009-01-13"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Child health"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Immigrant health and welfare"/>
+		<term name="Immigration status and procedures"/>
+		<term name="Medicaid"/>
+		<term name="Poverty and welfare assistance"/>
+		<term name="Sex and reproductive health"/>
+		<term name="Women's health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/13/2009--Introduced.<br/>Amends titles XIX (Medicaid) and XXI (State Children's Health Insurance) (SCHIP) to permit states to elect to provide Medicaid and SCHIP coverage without a five-year delay of certain children and pregnant women lawfully residing in the United States (including battered individuals) who are otherwise eligible for such assistance.<br/>
+	</summary>
+</bill>

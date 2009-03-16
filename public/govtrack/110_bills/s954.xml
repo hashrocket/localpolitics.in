@@ -1,0 +1,43 @@
+<bill session="110" type="s" number="954" retreived_date="1226089043" updated="2008-11-07T15:17:23-05:00">
+	<status><introduced date="1174449600" datetime="2007-03-21"/></status>
+
+	<introduced date="1174449600" datetime="2007-03-21"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Residency Program Technical Correction Act of 2007</title>
+		<title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide for a technical correction to the amendments made by section 422 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.</title>
+	</titles>
+	<sponsor id="300061"/>
+	<cosponsors>
+		<cosponsor id="300042" joined="2007-03-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1174449600" datetime="2007-03-21"><text>Sponsor introductory remarks on measure. (CR S3528)</text></action>
+		<action date="1174449600" datetime="2007-03-21"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S3528-3529"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="110" type="h" number="2875" />
+	</relatedbills>
+	<subjects>
+		<term name="Health policy"/>
+		<term name="Aged"/>
+		<term name="Budgets"/>
+		<term name="Education"/>
+		<term name="Federal aid to education"/>
+		<term name="Higher education"/>
+		<term name="Hospital care"/>
+		<term name="Medical care"/>
+		<term name="Medical education"/>
+		<term name="Medical residents"/>
+		<term name="Medicare"/>
+		<term name="Medicine"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/21/2007--Introduced.<br/>Medicare Residency Program Technical Correction Act of 2007 - Amends title XVIII (Medicare) of the Social Security Act with respect to payments to hospitals for the direct graduate medical education (DGME) costs of inpatient hospital services, particularly the redistribution among qualifying hospitals of unused resident positions which figure in the calculation of DGME costs.<br/>Requires a specified adjustment to the reduction of Medicare resident positions where that reduction was based on a cost report subsequently settled, whether as a result of an appeal or otherwise, if the reference resident level under such settled cost report is higher than the resident level used for the reduction.<br/>
+	</summary>
+</bill>

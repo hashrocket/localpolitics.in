@@ -1,0 +1,57 @@
+<bill session="110" type="h" number="6184" updated="2009-01-09T05:38:24-05:00">
+	<status><enacted date="1230008400" datetime="2008-12-23" /></status>
+
+	<introduced date="1212552000" datetime="2008-06-04"/>
+	<titles>
+		<title type="short" as="introduced">America's Beautiful National Parks Quarter Dollar Coin Act of 2008</title>
+		<title type="short" as="reported to house">America's Beautiful National Parks Quarter Dollar Coin Act of 2008</title>
+		<title type="short" as="passed house">America's Beautiful National Parks Quarter Dollar Coin Act of 2008</title>
+		<title type="official" as="introduced">To provide for a program for circulating quarter dollar coins that are emblematic of a national park or other national site in each State, the District of Columbia, and each territory of the United States, and for other purposes.</title>
+	</titles>
+	<sponsor id="400070"/>
+	<cosponsors>
+		<cosponsor id="400162" joined="2008-06-11"/>
+		<cosponsor id="400385" joined="2008-06-17"/>
+		<cosponsor id="400152" joined="2008-06-17"/>
+		<cosponsor id="400251" joined="2008-06-04"/>
+		<cosponsor id="412232" joined="2008-06-23"/>
+		<cosponsor id="412228" joined="2008-06-17"/>
+		<cosponsor id="400163" joined="2008-06-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1212552000" datetime="2008-06-04"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1214366400" datetime="2008-06-25"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1214366400" datetime="2008-06-25" ><text>Ordered to be Reported by the Yeas and Nays: 58 - 0.</text></calendar>
+		<action date="1215556800" datetime="2008-07-08T19:40:00-04:00"><text>Reported by the Committee on Financial Services. H. Rept. 110-748.</text></action>
+		<calendar number="474" date="1215556800" datetime="2008-07-08T19:40:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 474.</text></calendar>
+		<action date="1215622020" datetime="2008-07-09T13:47:00-04:00"><text>Mrs. Maloney (NY) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1215622020" datetime="2008-07-09T13:47:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6278-6285"/></action>
+		<action date="1215622020" datetime="2008-07-09T13:47:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6184.</text></action>
+		<action date="1215624720" datetime="2008-07-09T14:32:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1215637200" datetime="2008-07-09T18:00:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6305-6306"/></action>
+		<vote date="1215637620" how="roll" roll="479" datetime="2008-07-09T18:07:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 479).</text><reference label="text" ref="CR H6278-6280"/></vote>
+		<action date="1215662400" datetime="2008-07-10"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+		<action date="1228885200" datetime="2008-12-10"><text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S10885"/></action>
+		<vote date="1228885200" how="by Unanimous Consent" datetime="2008-12-10" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<action date="1228885200" datetime="2008-12-10"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1228885200" datetime="2008-12-10" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1229058000" datetime="2008-12-12" ><text>Presented to President.</text></topresident>
+		<signed date="1230008400" datetime="2008-12-23" ><text>Signed by President.</text></signed>
+		<enacted number="110-456" date="1230008400" datetime="2008-12-23" type="public" ><text>Became Public Law No: 110-456.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/10/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) America's Beautiful National Parks Quarter Dollar Coin Act of 2008 - Requires quarter dollars, issued beginning in 2010, to have designs on the reverse emblematic of one national site in each state, territory of the United States, and the District of Columbia. Instructs the Secretary of the Treasury to select in each state a national park or other national site to be honored with a coin. Requires five coin designs in each year of the period of issuance. Instructs the Secretary to strike and make available for sale silver bullion coins that are exact duplicates of such quarter dollars. Authorizes the Director of the National Park Service to purchase for resale or distribution numismatic items issued under this Act.<br/>
+	</summary>
+</bill>

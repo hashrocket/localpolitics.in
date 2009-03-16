@@ -1,0 +1,41 @@
+<bill session="110" type="hr" number="698" updated="2009-01-09T09:18:55-05:00">
+	<status><vote date="1204656180" datetime="2008-03-04T14:43:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1191211200" datetime="2007-10-01"/>
+	<titles>
+		<title type="official" as="introduced">Commemorating the 200th anniversary of Congressional Cemetery.</title>
+	</titles>
+	<sponsor id="400420"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-11-05"/>
+		<cosponsor id="400295" joined="2007-11-05"/>
+		<cosponsor id="400129" joined="2007-10-01"/>
+		<cosponsor id="400239" joined="2007-11-05"/>
+		<cosponsor id="400384" joined="2007-11-05"/>
+		<cosponsor id="400415" joined="2007-11-05"/>
+		<cosponsor id="400318" joined="2007-11-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1191211200" datetime="2007-10-01"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1191470400" datetime="2007-10-04"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1204655880" datetime="2008-03-04T14:38:00-05:00"><text>Mr. Rahall moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1204655880" datetime="2008-03-04T14:38:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1200-1201"/></action>
+		<action date="1204655880" datetime="2008-03-04T14:38:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 698.</text></action>
+		<vote date="1204656180" how="by voice vote" datetime="2008-03-04T14:43:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H1200"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/4/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Declares that, on the 200th anniversary of the founding of Congressional Cemetery, the House of Representatives recognizes and honors the cultural and historical importance of Congressional Cemetery and the value of protecting and restoring this national treasure.<br/>
+	</summary>
+</bill>

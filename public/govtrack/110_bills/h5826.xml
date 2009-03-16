@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="5826" updated="2009-01-09T04:55:44-05:00">
+	<status><vote date="1211404980" datetime="2008-05-21T18:23:00-04:00" where="h" result="pass" how="roll" roll="348"/></status>
+
+	<introduced date="1208318400" datetime="2008-04-16"/>
+	<titles>
+		<title type="short" as="introduced">Veterans' Compensation Cost-of-Living Adjustment Act of 2008</title>
+		<title type="short" as="reported to house">Veterans' Compensation Cost-of-Living Adjustment Act of 2008</title>
+		<title type="short" as="passed house">Veterans' Compensation Cost-of-Living Adjustment Act of 2008</title>
+		<title type="official" as="introduced">To increase, effective as of December 1, 2008, the rates of disability compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for survivors of certain service-connected disabled veterans, and for other purposes.</title>
+	</titles>
+	<sponsor id="400339"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2008-04-16"/>
+		<cosponsor id="412214" joined="2008-05-05"/>
+		<cosponsor id="412250" joined="2008-05-05"/>
+		<cosponsor id="412199" joined="2008-04-24"/>
+		<cosponsor id="412222" joined="2008-04-16"/>
+		<cosponsor id="400056" joined="2008-05-15"/>
+		<cosponsor id="400024" joined="2008-04-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1208318400" datetime="2008-04-16"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1208491200" datetime="2008-04-18"><text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text></action>
+		<action date="1209355200" datetime="2008-04-28"><text>Subcommittee on Disability Assistance and Memorial Affairs Discharged.</text></action>
+		<action date="1209528000" datetime="2008-04-30"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1209528000" datetime="2008-04-30" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1210881540" datetime="2008-05-15T16:59:00-04:00"><text>Reported by the Committee on Veterans' Affairs. H. Rept. 110-643.</text></action>
+		<calendar number="404" date="1210881600" datetime="2008-05-15T17:00:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 404.</text></calendar>
+		<action date="1211304420" datetime="2008-05-20T14:27:00-04:00"><text>Mr. Filner moved to suspend the rules and pass the bill.</text></action>
+		<action date="1211304420" datetime="2008-05-20T14:27:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4198-4199"/></action>
+		<action date="1211304420" datetime="2008-05-20T14:27:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5826.</text></action>
+		<action date="1211304900" datetime="2008-05-20T14:35:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1211404560" datetime="2008-05-21T18:16:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4412-4413"/></action>
+		<vote date="1211404980" how="roll" roll="348" datetime="2008-05-21T18:23:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 348). (text: CR 5/20/2008 H4198)</text></vote>
+		<action date="1211428800" datetime="2008-05-22"><text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/21/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Veterans' Compensation Cost-of-Living Adjustment Act of 2008 - Directs the Secretary of Veterans Affairs to increase, as of December 1, 2008, the rates of veterans' disability compensation, additional compensation for dependents, the clothing allowance for certain disabled adult children, and dependency and indemnity compensation for surviving spouses and children. Requires each such increase to be the same percentage as the increase in benefits provided under title II (Old Age, Survivors and Disability Insurance) of the Social Security Act, on the same effective date.<br/>
+	</summary>
+</bill>

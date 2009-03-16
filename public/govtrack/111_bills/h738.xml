@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="738" updated="2009-03-07T11:14:41-05:00">
+	<status><vote date="1233778740" datetime="2009-02-04T16:19:00-05:00" where="h" result="pass" how="roll" roll="53"/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="short" as="introduced">Death in Custody Reporting Act of 2009</title>
+		<title type="short" as="passed house">Death in Custody Reporting Act of 2009</title>
+		<title type="official" as="introduced">To encourage States to report to the Attorney General certain information regarding the deaths of individuals in the custody of law enforcement agencies, and for other purposes.</title>
+	</titles>
+	<sponsor id="400364"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1233686580" datetime="2009-02-03T14:43:00-05:00"><text>Mr. Scott (VA) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1233686640" datetime="2009-02-03T14:44:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H884-887"/></action>
+		<action date="1233686640" datetime="2009-02-03T14:44:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 738.</text></action>
+		<action date="1233687600" datetime="2009-02-03T15:00:00-05:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Scott (VA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1233778380" datetime="2009-02-04T16:13:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H997-998"/></action>
+		<vote date="1233778740" how="roll" roll="53" datetime="2009-02-04T16:19:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 1 (Roll no. 53). (text: CR 2/3/2009 H884-885)</text></vote>
+		<action date="1233810000" datetime="2009-02-05"><text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral" />
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Correctional facilities and imprisonment"/>
+		<term name="Criminal justice information and records"/>
+		<term name="Detention of persons"/>
+		<term name="Government investigations"/>
+		<term name="Law enforcement administration and funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)<br/>Death in Custody Reporting Act of 2009 - Requires states that receive certain criminal justice assistance grants to report to the Attorney General on a quarterly basis certain information regarding the death of any person who is detained, arrested, en route to incarceration, or incarcerated in state or local facilities or a boot camp prison. Grants the Attorney General discretion to reduce by up to 10% the amount of the criminal justice assistance grants of states that fail to comply. Requires the head of each federal law enforcement agency to report to the Attorney General annually certain information regarding the death of any person who: (1) is detained or arrested by any officer of such agency (or by any state or local law enforcement officer for purposes of a federal law enforcement operation); or (2) is en route to be incarcerated or detained, or is incarcerated or detained, at any federal correctional facility or federal pretrial detention facility located within the United States or any other facility pursuant to a contract with or used by such agency.<br/>Requires the Attorney General to study such information and report on means by which it can be used to reduce the number of such deaths.<br/>
+	</summary>
+</bill>

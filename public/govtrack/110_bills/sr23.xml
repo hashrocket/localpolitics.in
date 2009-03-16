@@ -1,0 +1,32 @@
+<bill session="110" type="sr" number="23" updated="2009-01-09T20:01:31-05:00">
+	<status><vote date="1170306000" datetime="2007-02-01" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1168491600" datetime="2007-01-11"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating the week of February 5 through February 9, 2007, as &quot;National School Counseling Week&quot;.</title>
+	</titles>
+	<sponsor id="300076"/>
+	<cosponsors>
+		<cosponsor id="300090" joined="2007-02-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1168491600" datetime="2007-01-11"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S464"/></action>
+		<action date="1170306000" datetime="2007-02-01"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S1542"/></action>
+		<vote date="1170306000" how="by Unanimous Consent" datetime="2007-02-01" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S1542"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/1/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the week of February 5-February 9, 2007, as National School Counseling Week.<br/>
+	</summary>
+</bill>

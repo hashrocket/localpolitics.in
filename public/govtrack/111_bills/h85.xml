@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="85" updated="2009-03-07T09:57:43-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Marriage Tax Penalty Permanent Elimination Act of 2009</title>
+		<title type="official" as="introduced">To provide permanent relief from the marriage penalty under the Internal Revenue Code of 1986.</title>
+	</titles>
+	<sponsor id="400051"/>
+	<cosponsors>
+		<cosponsor id="400144" joined="2009-01-14"/>
+		<cosponsor id="412309" joined="2009-02-10"/>
+		<cosponsor id="412302" joined="2009-01-27"/>
+		<cosponsor id="400049" joined="2009-01-14"/>
+		<cosponsor id="400264" joined="2009-01-27"/>
+		<cosponsor id="412301" joined="2009-01-27"/>
+		<cosponsor id="400055" joined="2009-01-14"/>
+		<cosponsor id="412191" joined="2009-01-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="74" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax credits"/>
+		<term name="Income tax deductions"/>
+		<term name="Income tax rates"/>
+		<term name="Marriage and family status"/>
+		<term name="Poverty and welfare assistance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Marriage Tax Penalty Permanent Elimination Act of 2009 - Makes provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 that eliminate the marriage penalty in the standard deduction, the 15-percent tax bracket, and the earned income tax credit, permanent.<br/>
+	</summary>
+</bill>

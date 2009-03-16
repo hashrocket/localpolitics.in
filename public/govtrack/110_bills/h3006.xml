@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="3006" updated="2009-01-08T23:06:28-05:00">
+	<status><enacted date="1186977600" datetime="2007-08-13" /></status>
+
+	<introduced date="1184126400" datetime="2007-07-11"/>
+	<titles>
+		<title type="official" as="introduced">To improve the use of a grant of a parcel of land to the State of Idaho for use as an agricultural college, and for other purposes.</title>
+	</titles>
+	<sponsor id="400376"/>
+	<cosponsors>
+		<cosponsor id="412201" joined="2007-07-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1184126400" datetime="2007-07-11"><text>Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1184126400" datetime="2007-07-11"><text>Referred to House Agriculture</text></action>
+		<action date="1184126400" datetime="2007-07-11"><text>Referred to House Natural Resources</text></action>
+		<action date="1185833400" datetime="2007-07-30T19:10:00-04:00"><text>Ms. Herseth Sandlin moved to suspend the rules and pass the bill.</text></action>
+		<action date="1185833400" datetime="2007-07-30T19:10:00-04:00"><text>Considered under suspension of the rules. (consideration: CR 7/31/2007 H8912-8913)</text></action>
+		<action date="1185833400" datetime="2007-07-30T19:10:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3006.</text></action>
+		<vote date="1185833640" how="by voice vote" datetime="2007-07-30T19:14:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/31/2007 H8912)</text></vote>
+		<action date="1185854400" datetime="2007-07-31"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1186113600" how="by Unanimous Consent" datetime="2007-08-03" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10978"/></vote>
+		<topresident date="1186113600" datetime="2007-08-03" ><text>Cleared for White House.</text></topresident>
+		<action date="1186200000" datetime="2007-08-04"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1186372800" datetime="2007-08-06" ><text>Presented to President.</text></topresident>
+		<signed date="1186977600" datetime="2007-08-13" ><text>Signed by President.</text></signed>
+		<enacted number="110-77" date="1186977600" datetime="2007-08-13" type="public" ><text>Became Public Law No: 110-77.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/13/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes Idaho, respecting Morrill Act agricultural college assets, to: (1) invest earnings and proceeds in accordance with the standards applicable to a trustee under Idaho law; (2) deduct trustee expenses from earnings and proceeds; and (3) use earnings and proceeds from granted land without regard to the limitations that prohibit the state from exceeding 10% on the purchase of land and prohibit the state from purchasing, erecting, preserving, or repairing buildings.<br/>
+	</summary>
+</bill>

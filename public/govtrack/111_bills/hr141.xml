@@ -1,0 +1,30 @@
+<bill session="111" type="hr" number="141" updated="2009-03-07T13:22:56-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="official" as="introduced">Providing amounts for the expenses of the Committee on Energy and Commerce in the One Hundred Eleventh Congress.</title>
+	</titles>
+	<sponsor id="400425"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the House Committee on House Administration.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

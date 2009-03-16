@@ -1,0 +1,60 @@
+<bill session="111" type="h" number="767" updated="2009-03-07T11:18:05-05:00">
+	<status><introduced date="1233118800" datetime="2009-01-28"/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="short" as="introduced">National Financial Literacy Act of 2009</title>
+		<title type="official" as="introduced">To provide incentives to encourage financial institutions and small businesses to provide continuing financial education to customers, borrowers, and employees, and for other purposes.</title>
+	</titles>
+	<sponsor id="400204"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2009-01-28"/>
+		<cosponsor id="400031" joined="2009-01-28"/>
+		<cosponsor id="400263" joined="2009-01-28"/>
+		<cosponsor id="412204" joined="2009-01-28"/>
+		<cosponsor id="400178" joined="2009-02-03"/>
+		<cosponsor id="400246" joined="2009-02-09"/>
+		<cosponsor id="400170" joined="2009-02-03"/>
+		<cosponsor id="412236" joined="2009-01-28"/>
+		<cosponsor id="412228" joined="2009-02-03"/>
+		<cosponsor id="400090" joined="2009-01-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the Committee on Ways and Means, and in addition to the Committees on Financial Services, and Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to House Ways and Means</text></action>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to House Financial Services</text></action>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to House Small Business</text></action>
+		<action date="1233118800" datetime="2009-01-28"><committee name="House Small Business"/><text>Referred to the Subcommittee on Finance and Tax.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Small Business" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Small Business" subcommittee="Finance and Tax" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Banking and financial institutions regulation"/>
+		<term name="Department of the Treasury"/>
+		<term name="Employee benefits and pensions"/>
+		<term name="Federal Deposit Insurance Corporation (FDIC)"/>
+		<term name="Federal Reserve System"/>
+		<term name="Financial literacy"/>
+		<term name="Financial services and investments"/>
+		<term name="Government lending"/>
+		<term name="Income tax credits"/>
+		<term name="National Credit Union Administration"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Small business"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

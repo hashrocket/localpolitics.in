@@ -1,0 +1,101 @@
+<bill session="110" type="hr" number="1231" updated="2009-01-09T10:27:22-05:00">
+	<status><vote date="1214499840" datetime="2008-06-26T14:04:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1211428800" datetime="2008-05-22"/>
+	<titles>
+		<title type="official" as="introduced">Supporting the goals and ideals of Vietnam Veterans Day and calling on the American people to recognize such a day.</title>
+	</titles>
+	<sponsor id="412225"/>
+	<cosponsors>
+		<cosponsor id="400661" joined="2008-06-20"/>
+		<cosponsor id="400041" joined="2008-05-22"/>
+		<cosponsor id="400133" joined="2008-05-22"/>
+		<cosponsor id="400031" joined="2008-06-19"/>
+		<cosponsor id="400209" joined="2008-05-22"/>
+		<cosponsor id="400183" joined="2008-06-19"/>
+		<cosponsor id="400282" joined="2008-06-19"/>
+		<cosponsor id="412224" joined="2008-06-19"/>
+		<cosponsor id="400403" joined="2008-06-19"/>
+		<cosponsor id="400246" joined="2008-06-19"/>
+		<cosponsor id="400635" joined="2008-06-19"/>
+		<cosponsor id="400385" joined="2008-06-20"/>
+		<cosponsor id="400096" joined="2008-06-19"/>
+		<cosponsor id="400065" joined="2008-06-20"/>
+		<cosponsor id="400361" joined="2008-06-19"/>
+		<cosponsor id="412210" joined="2008-06-19"/>
+		<cosponsor id="400049" joined="2008-06-19"/>
+		<cosponsor id="400040" joined="2008-06-19"/>
+		<cosponsor id="412231" joined="2008-06-10"/>
+		<cosponsor id="412214" joined="2008-05-22"/>
+		<cosponsor id="400409" joined="2008-06-10"/>
+		<cosponsor id="400288" joined="2008-06-19"/>
+		<cosponsor id="400285" joined="2008-06-23"/>
+		<cosponsor id="400216" joined="2008-06-19"/>
+		<cosponsor id="412197" joined="2008-06-19"/>
+		<cosponsor id="400030" joined="2008-06-19"/>
+		<cosponsor id="400316" joined="2008-06-20"/>
+		<cosponsor id="400339" joined="2008-06-19"/>
+		<cosponsor id="400144" joined="2008-06-19"/>
+		<cosponsor id="412227" joined="2008-06-19"/>
+		<cosponsor id="412187" joined="2008-06-20"/>
+		<cosponsor id="412223" joined="2008-06-19"/>
+		<cosponsor id="400048" joined="2008-05-22"/>
+		<cosponsor id="400442" joined="2008-06-19"/>
+		<cosponsor id="400044" joined="2008-06-19"/>
+		<cosponsor id="412205" joined="2008-06-10"/>
+		<cosponsor id="400343" joined="2008-05-22"/>
+		<cosponsor id="400395" joined="2008-06-19"/>
+		<cosponsor id="400131" joined="2008-06-19"/>
+		<cosponsor id="400259" joined="2008-05-22"/>
+		<cosponsor id="400115" joined="2008-05-22"/>
+		<cosponsor id="400570" joined="2008-06-19"/>
+		<cosponsor id="400383" joined="2008-06-19"/>
+		<cosponsor id="400076" joined="2008-06-19"/>
+		<cosponsor id="400653" joined="2008-06-23"/>
+		<cosponsor id="400178" joined="2008-05-22"/>
+		<cosponsor id="412232" joined="2008-05-22"/>
+		<cosponsor id="400645" joined="2008-06-23"/>
+		<cosponsor id="412239" joined="2008-06-19"/>
+		<cosponsor id="400056" joined="2008-06-20"/>
+		<cosponsor id="400284" joined="2008-06-19"/>
+		<cosponsor id="400266" joined="2008-06-19"/>
+		<cosponsor id="412236" joined="2008-06-19"/>
+		<cosponsor id="400009" joined="2008-06-19"/>
+		<cosponsor id="400440" joined="2008-05-22"/>
+		<cosponsor id="412228" joined="2008-06-10"/>
+		<cosponsor id="400641" joined="2008-06-20"/>
+		<cosponsor id="400204" joined="2008-06-23"/>
+		<cosponsor id="400042" joined="2008-06-19"/>
+		<cosponsor id="400218" joined="2008-06-19"/>
+		<cosponsor id="412219" joined="2008-05-22"/>
+		<cosponsor id="400024" joined="2008-06-19"/>
+		<cosponsor id="412206" joined="2008-06-19"/>
+		<cosponsor id="400345" joined="2008-06-19"/>
+		<cosponsor id="412191" joined="2008-06-20"/>
+		<cosponsor id="412233" joined="2008-06-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1211428800" datetime="2008-05-22"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1214343540" datetime="2008-06-24T18:39:00-04:00"><text>Mr. Filner moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1214343600" datetime="2008-06-24T18:40:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5968-5969"/></action>
+		<action date="1214343600" datetime="2008-06-24T18:40:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1231.</text></action>
+		<action date="1214344260" datetime="2008-06-24T18:51:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Buyer objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1214499840" datetime="2008-06-26T14:04:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6121"/></action>
+		<vote date="1214499840" how="by voice vote" datetime="2008-06-26T14:04:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 6/24/2008 H5968)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/26/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Supports the goals and ideals of Vietnam Veterans Day. Calls on the American people to remember those men and women who sacrificed their lives defending the nation in Vietnam, recognize the prisoners of war and Armed Forces members who are missing in action, and honor all Vietnam veterans who served the nation faithfully to protect its freedom.<br/>
+	</summary>
+</bill>

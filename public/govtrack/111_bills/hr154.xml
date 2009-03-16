@@ -1,0 +1,47 @@
+<bill session="111" type="hr" number="154" updated="2009-03-07T13:24:28-05:00">
+	<status><vote date="1234377900" datetime="2009-02-11T14:45:00-05:00" where="h" result="pass" how="roll" roll="61"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="official" as="introduced">Honoring John D. Dingell for holding the record as the longest serving member of the House of Representatives.</title>
+	</titles>
+	<sponsor id="400216"/>
+	<cosponsors>
+		<cosponsor id="400414" joined="2009-02-11"/>
+		<cosponsor id="412313" joined="2009-02-11"/>
+		<cosponsor id="400080" joined="2009-02-11"/>
+		<cosponsor id="400217" joined="2009-02-11"/>
+		<cosponsor id="400342" joined="2009-02-11"/>
+		<cosponsor id="400058" joined="2009-02-11"/>
+		<cosponsor id="412305" joined="2009-02-11"/>
+		<cosponsor id="400276" joined="2009-02-11"/>
+		<cosponsor id="400391" joined="2009-02-11"/>
+		<cosponsor id="400119" joined="2009-02-11"/>
+		<cosponsor id="400260" joined="2009-02-11"/>
+		<cosponsor id="400182" joined="2009-02-11"/>
+		<cosponsor id="400238" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1234362660" datetime="2009-02-11T10:31:00-05:00"><text>Mr. Kildee moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1234362720" datetime="2009-02-11T10:32:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1165-1175"/></action>
+		<action date="1234362720" datetime="2009-02-11T10:32:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 154.</text></action>
+		<action date="1234367520" datetime="2009-02-11T11:52:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1234377600" datetime="2009-02-11T14:40:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1196"/></action>
+		<vote date="1234377900" how="roll" roll="61" datetime="2009-02-11T14:45:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 423 - 0, 1 Present (Roll no. 61).</text><reference label="text" ref="CR H1165"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

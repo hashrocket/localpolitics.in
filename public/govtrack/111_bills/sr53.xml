@@ -1,0 +1,45 @@
+<bill session="111" type="sr" number="53" updated="2009-03-07T14:44:35-05:00">
+	<status><vote date="1235538000" datetime="2009-02-25" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1235451600" datetime="2009-02-24"/>
+	<titles>
+		<title type="official" as="introduced">A resolution authorizing a plaque commemorating the role of enslaved African Americans in the construction of the Capitol.</title>
+	</titles>
+	<sponsor id="300068"/>
+	<cosponsors>
+		<cosponsor id="300007" joined="2009-02-24"/>
+		<cosponsor id="400050" joined="2009-02-25"/>
+		<cosponsor id="300054" joined="2009-02-25"/>
+		<cosponsor id="300093" joined="2009-02-25"/>
+		<cosponsor id="300066" joined="2009-02-25"/>
+		<cosponsor id="300021" joined="2009-02-24"/>
+		<cosponsor id="300087" joined="2009-02-24"/>
+		<cosponsor id="412328" joined="2009-02-25"/>
+		<cosponsor id="400194" joined="2009-02-25"/>
+		<cosponsor id="300023" joined="2009-02-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1235451600" datetime="2009-02-24"><text>Referred to the Committee on Rules and Administration.</text><reference label="text of measure as introduced" ref="CR S2430-2431"/></action>
+		<action date="1235538000" datetime="2009-02-25"><text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S2500"/></action>
+		<vote date="1235538000" how="by Unanimous Consent" datetime="2009-02-25" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S2500"/></vote>
+	</actions>
+	<committees>
+		<committee name="Senate Rules and Administration" subcommittee="" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Racial and ethnic relations"/>
+		<term name="Senate"/>
+		<term name="U.S. Capitol"/>
+		<term name="U.S. history"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

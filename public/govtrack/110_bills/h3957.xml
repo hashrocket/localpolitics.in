@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="3957" updated="2009-01-09T01:07:52-05:00">
+	<status><vote date="1217461440" datetime="2008-07-30T20:44:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1193198400" datetime="2007-10-24"/>
+	<titles>
+		<title type="short" as="introduced">Water Use Efficiency and Conservation Research Act</title>
+		<title type="short" as="reported to house">Water Use Efficiency and Conservation Research Act</title>
+		<title type="short" as="passed house">Water Use Efficiency and Conservation Research Act</title>
+		<title type="official" as="introduced">To increase research, development, education, and technology transfer activities related to water use efficiency and conservation technologies and practices at the Environmental Protection Agency.</title>
+	</titles>
+	<sponsor id="400255"/>
+	<cosponsors>
+		<cosponsor id="412188" joined="2008-01-17"/>
+		<cosponsor id="400204" joined="2008-05-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1193198400" datetime="2007-10-24"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1193716800" datetime="2007-10-30"><text>Referred to the Subcommittee on Energy and Environment.</text></action>
+		<action date="1193716800" datetime="2007-10-30"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1210046400" datetime="2008-05-06"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1210046400" datetime="2008-05-06"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1216180800" datetime="2008-07-16" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1217427600" datetime="2008-07-30T11:20:00-04:00"><text>Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-802.</text></action>
+		<calendar number="519" date="1217427600" datetime="2008-07-30T11:20:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 519.</text></calendar>
+		<action date="1217460960" datetime="2008-07-30T20:36:00-04:00"><text>Mr. Matheson moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1217460960" datetime="2008-07-30T20:36:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7604-7606"/></action>
+		<action date="1217460960" datetime="2008-07-30T20:36:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3957.</text></action>
+		<vote date="1217461440" how="by voice vote" datetime="2008-07-30T20:44:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H7605"/></vote>
+		<action date="1217476800" datetime="2008-07-31"><text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/30/2008--Passed House amended. Water Use Efficiency and Conservation Research Act - Requires the Environmental Protection Agency's (EPA) Assistant Administrator for Research and Development to establish a research and development program to promote water use efficiency and conservation, including: (1) technologies and processes that enable the collection, storage, treatment, and reuse of rainwater, stormwater, and greywater; (2) water storage and distribution systems; and (3) behavioral, social, and economic barriers to achieving greater water use efficiency.<br/>Requires the Assistant Administrator to coordinate the development of a strategic research plan for the water use efficiency and conservation research and development program established by this Act with all other EPA research and development strategic plans.<br/>Requires the Assistant Administrator to: (1) facilitate the adoption of technology and processes to promote water use efficiency and conservation; and (2) collect and disseminate information on technologies and processes to promote water use efficiency and conservation, including information on incentives and impediments to development and commercialization, best practices, and anticipated increases in water use efficiency and conservation resulting from the implementation of specific technologies and processes.<br/>Requires at least four projects under which funding is provided for the incorporation into a building (at least one residential and one commercial building) of the latest water use efficiency and conservation technologies and designs.<br/>Requires biennial reports to Congress on research and development projects initiated under this Act, outreach and communication activities concerning water use efficiency and conservation, and development and implementation of the strategic research plan.<br/>Directs the EPA Administrator to enter into an arrangement with the National Academy of Sciences for completion of a study of &quot;low impact&quot; (mimicking predevelopment hydrology) and &quot;soft path&quot; (using natural capacities of ecosystems) strategies for management of water supply, wastewater, and stormwater.<br/>Authorizes appropriations.<br/>
+	</summary>
+</bill>

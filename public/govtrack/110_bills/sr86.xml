@@ -1,0 +1,37 @@
+<bill session="110" type="sr" number="86" updated="2009-01-09T20:09:09-05:00">
+	<status><vote date="1172638800" datetime="2007-02-28" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1172552400" datetime="2007-02-27"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating March 1, 2007, as &quot;Siblings Connection Day&quot;.</title>
+	</titles>
+	<sponsor id="400619"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2007-02-28"/>
+		<cosponsor id="300060" joined="2007-02-27"/>
+		<cosponsor id="400050" joined="2007-02-27"/>
+		<cosponsor id="300040" joined="2007-02-27"/>
+		<cosponsor id="300001" joined="2007-02-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1172552400" datetime="2007-02-27"><text>Sponsor introductory remarks on measure. (CR S2283)</text></action>
+		<action date="1172552400" datetime="2007-02-27"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S2283"/></action>
+		<action date="1172638800" datetime="2007-02-28"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S2433-2434"/></action>
+		<vote date="1172638800" how="by Unanimous Consent" datetime="2007-02-28" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S2434"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/28/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates March 1, 2007, as Siblings Connection Day. Expresses support for efforts to respect and preserve sibling relationships that are at risk of being disrupted by the placement of children into the foster care system.<br/>
+	</summary>
+</bill>

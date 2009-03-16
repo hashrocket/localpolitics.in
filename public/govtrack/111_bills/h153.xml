@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="153" updated="2009-03-07T10:05:45-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Worker Savings Account Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for tax-favored unemployment savings accounts, and for other purposes.</title>
+	</titles>
+	<sponsor id="400264"/>
+	<cosponsors>
+		<cosponsor id="400311" joined="2009-01-13"/>
+		<cosponsor id="400440" joined="2009-01-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action date="1231822800" datetime="2009-01-13"><text>Sponsor introductory remarks on measure. (CR E69)</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Bank accounts, deposits, capital"/>
+		<term name="Employee benefits and pensions"/>
+		<term name="Income tax credits"/>
+		<term name="Income tax deferral"/>
+		<term name="Tax administration and collection, taxpayers"/>
+		<term name="Unemployment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Worker Savings Account Act of 2009 - Amends the Internal Revenue Code to: (1) establish worker savings accounts to make payments to workers during periods of unemployment; (2) treat such accounts in the same manner as individual retirement accounts (IRAs) for tax purposes; (3) allow employer matching contributions to such accounts; (4) make a portion of the tax credit for contributions to retirement accounts (saver's credit) refundable; and (5) require increases in the saver's credit to be paid into a worker savings account.<br/>Provides that no provision of this Act shall be construed to diminish an employer's obligation to pay federal and state unemployment taxes or to reduce the amount of unemployment compensation to which a worker may be entitled. 
+	</summary>
+</bill>

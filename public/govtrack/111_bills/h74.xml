@@ -1,0 +1,49 @@
+<bill session="111" type="h" number="74" updated="2009-03-07T09:56:27-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Financial Oversight Commission Act of 2009</title>
+		<title type="official" as="introduced">To establish the Financial Oversight Commission, and for other purposes.</title>
+	</titles>
+	<sponsor id="400196"/>
+	<cosponsors>
+		<cosponsor id="400144" joined="2009-01-15"/>
+		<cosponsor id="400051" joined="2009-01-26"/>
+		<cosponsor id="400057" joined="2009-02-11"/>
+		<cosponsor id="412216" joined="2009-01-26"/>
+		<cosponsor id="400570" joined="2009-01-15"/>
+		<cosponsor id="400385" joined="2009-01-26"/>
+		<cosponsor id="400260" joined="2009-03-05"/>
+		<cosponsor id="400052" joined="2009-01-26"/>
+		<cosponsor id="400264" joined="2009-02-02"/>
+		<cosponsor id="400288" joined="2009-02-02"/>
+		<cosponsor id="400055" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Advisory bodies"/>
+		<term name="Banking and financial institutions regulation"/>
+		<term name="Congressional oversight"/>
+		<term name="Financial crises and failures"/>
+		<term name="Financial services and investments"/>
+		<term name="Government investigations"/>
+		<term name="Housing finance and home ownership"/>
+		<term name="Securities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Financial Oversight Commission Act of 2009 - Establishes the Financial Oversight Commission to investigate the financial crisis of 2008, including relevant legislation, Executive Order, regulation, plan, policy, practice, or procedure that pertains to: (1) government sponsored enterprises; (2) the stock market; (3) the housing market; (4) credit rating agencies; (5) the financial services sector, including hedge funds, private equity and the insurance industry; and (6) the role of congressional oversight and resource allocation. Directs the Commission to identify, review, and evaluate the lessons learned from the crisis in connection with the structure, coordination, management policies, and procedures of governmental and nongovernmental entities regarding crisis detection, prevention, and response.<br/>Requires the Commission to report to the President and Congress its findings, conclusions, and recommendations.<br/>
+	</summary>
+</bill>

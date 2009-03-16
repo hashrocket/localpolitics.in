@@ -1,0 +1,67 @@
+<bill session="110" type="h" number="2583" updated="2009-01-08T22:13:32-05:00">
+	<status><vote date="1222213740" datetime="2008-09-23T20:49:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1181102400" datetime="2007-06-06"/>
+	<titles>
+		<title type="short" as="introduced">Physician Workforce and Graduate Medical Education Enhancement Act of 2007</title>
+		<title type="short" as="passed house">Physician Workforce Enhancement Act of 2008</title>
+		<title type="official" as="introduced">To amend title VII of the Public Health Service Act to establish a loan program for eligible hospitals to establish residency training programs.</title>
+	</titles>
+	<sponsor id="400052"/>
+	<cosponsors>
+		<cosponsor id="400199" joined="2007-06-25"/>
+		<cosponsor id="400381" joined="2007-06-07"/>
+		<cosponsor id="400155" joined="2007-07-10"/>
+		<cosponsor id="400149" joined="2007-06-15"/>
+		<cosponsor id="400183" joined="2008-06-26"/>
+		<cosponsor id="400151" joined="2007-06-21"/>
+		<cosponsor id="400313" joined="2007-06-25"/>
+		<cosponsor id="400260" joined="2007-12-18"/>
+		<cosponsor id="400652" joined="2007-07-25"/>
+		<cosponsor id="400152" joined="2007-09-17"/>
+		<cosponsor id="412208" joined="2007-12-12"/>
+		<cosponsor id="400235" joined="2007-06-15"/>
+		<cosponsor id="400121" joined="2007-06-15"/>
+		<cosponsor id="400070" joined="2007-06-15"/>
+		<cosponsor id="400383" joined="2007-07-30"/>
+		<cosponsor id="400255" joined="2007-06-06"/>
+		<cosponsor id="400645" joined="2007-06-25"/>
+		<cosponsor id="412200" joined="2007-07-30"/>
+		<cosponsor id="400005" joined="2007-06-27"/>
+		<cosponsor id="400651" joined="2007-07-19"/>
+		<cosponsor id="400218" joined="2007-06-25"/>
+		<cosponsor id="400321" joined="2007-06-15"/>
+		<cosponsor id="400157" joined="2007-06-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1177473600" datetime="2007-04-25"><text>Sponsor introductory remarks on measure. (CR H4168-4173)</text></action>
+		<action date="1181102400" datetime="2007-06-06"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1181102400" datetime="2007-06-06"><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1188878400" datetime="2007-09-04"><text>Sponsor introductory remarks on measure. (CR H10062-10065)</text></action>
+		<action date="1221624000" datetime="2008-09-17"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1221624000" datetime="2008-09-17" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1222213320" datetime="2008-09-23T20:42:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-872.</text></action>
+		<calendar number="568" date="1222213380" datetime="2008-09-23T20:43:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 568.</text></calendar>
+		<action date="1222213440" datetime="2008-09-23T20:44:00-04:00"><text>Mr. Pallone moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1222213440" datetime="2008-09-23T20:44:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8681-8682"/></action>
+		<action date="1222213440" datetime="2008-09-23T20:44:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2583.</text></action>
+		<vote date="1222213740" how="by voice vote" datetime="2008-09-23T20:49:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H8681"/></vote>
+		<action date="1222315200" datetime="2008-09-25"><text>Received in the Senate.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/23/2008--Passed House amended. Physician Workforce Enhancement Act of 2008 - Amends the Public Health Service Act to require the Secretary of Health and Human Services, acting through the Administrator of the Health Resources and Services Administration, to establish a hospital residency loan program that provides loans to eligible public or nonprofit hospitals to establish a residency training program. Requires that such program be an allopathic or osteopathic physician residency training program in the fields of family medicine, internal medicine, obstetrics or gynecology, behavioral or mental health, or pediatrics. Requires the Administrator to give preference to hospitals in a rural area.<br/>Sets forth terms for repayment of loans under this Act. Prohibits the Administrator from charging or collecting interest on such loans.<br/>Requires the Administrator to establish penalties for hospitals that violate provisions of this Act.<br/>Sets forth reporting requirements.<br/>Authorizes appropriations for FY2010-2014.<br/>Prohibits any loan from being made under this Act after December 31, 2013.<br/>
+	</summary>
+</bill>

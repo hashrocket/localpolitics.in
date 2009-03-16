@@ -1,0 +1,41 @@
+<bill session="110" type="s" number="1210" updated="2009-01-09T14:18:34-05:00">
+	<status><calendar date="1211428800" datetime="2008-05-22" /></status>
+
+	<introduced date="1177473600" datetime="2007-04-25"/>
+	<titles>
+		<title type="short" as="introduced">Drug Endangered Children Act of 2007</title>
+		<title type="short" as="reported to senate">Drug Endangered Children Act of 2007</title>
+		<title type="official" as="introduced">A bill to extend the grant program for drug-endangered children.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300042" joined="2007-04-25"/>
+		<cosponsor id="300038" joined="2007-04-25"/>
+		<cosponsor id="300087" joined="2008-05-21"/>
+		<cosponsor id="300061" joined="2007-04-25"/>
+		<cosponsor id="300048" joined="2007-04-25"/>
+		<cosponsor id="300058" joined="2007-05-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1177473600" datetime="2007-04-25"><text>Sponsor introductory remarks on measure. (CR S5096)</text></action>
+		<action date="1177473600" datetime="2007-04-25"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S5096"/></action>
+		<calendar date="1211428800" datetime="2008-05-22" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1211428800" datetime="2008-05-22"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="747" date="1211428800" datetime="2008-05-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 747.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/22/2008--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)<br/>Drug Endangered Children Act of 2007- Amends the USA PATRIOT Improvement and Reauthorization Act of 2005 to extend the grant program for drug-endangered children through FY2009.<br/>
+	</summary>
+</bill>

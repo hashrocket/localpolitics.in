@@ -1,0 +1,35 @@
+<bill session="110" type="sc" number="81" updated="2009-01-09T19:50:05-05:00">
+	<status><vote date="1210132800" datetime="2008-05-07" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1210132800" datetime="2008-05-07"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution supporting the goals and ideals of National Women's Health Week.</title>
+	</titles>
+	<sponsor id="300042"/>
+	<cosponsors>
+		<cosponsor id="300073" joined="2008-05-07"/>
+		<cosponsor id="300034" joined="2008-05-07"/>
+		<cosponsor id="300091" joined="2008-05-07"/>
+	</cosponsors>
+	<actions>
+		<vote date="1210132800" how="by Unanimous Consent" datetime="2008-05-07" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S3930-3931"/><reference label="text as passed Senate" ref="CR S3930-3931"/><reference label="text of measure as introduced" ref="CR S3907-3908"/></vote>
+		<action date="1210251900" datetime="2008-05-08T10:05:00-04:00"><text>Received in the House.</text></action>
+		<action date="1210219200" datetime="2008-05-08"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1210258140" datetime="2008-05-08T11:49:00-04:00"><text>Held at the desk.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/7/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Expresses support for the goals and ideals of National Women's Health Week.<br/>Recognizes the importance of: (1) preventing diseases that commonly affect women; and (2) federally funded programs that provide research and collect data on diseases that commonly affect women. Calls on women to observe National Women's Check-Up Day on May 12, 2008 by receiving preventive screenings.<br/>
+	</summary>
+</bill>

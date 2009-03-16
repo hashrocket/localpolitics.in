@@ -1,0 +1,200 @@
+<bill session="110" type="h" number="180" updated="2009-01-08T17:05:35-05:00">
+	<status><vote date="1185937440" datetime="2007-07-31T12:04:00-04:00" where="h" result="pass" how="roll" roll="764"/></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="short" as="introduced">Darfur Accountability and Divestment Act of 2007</title>
+		<title type="short" as="passed house">Darfur Accountability and Divestment Act</title>
+		<title type="official" as="introduced">To require the identification of companies that conduct business operations in Sudan, to prohibit United States Government contracts with such companies, and for other purposes.</title>
+	</titles>
+	<sponsor id="400237"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2007-06-21"/>
+		<cosponsor id="400661" joined="2007-02-06"/>
+		<cosponsor id="400041" joined="2007-07-30"/>
+		<cosponsor id="400222" joined="2007-01-11"/>
+		<cosponsor id="412229" joined="2007-06-27"/>
+		<cosponsor id="400073" joined="2007-02-14"/>
+		<cosponsor id="400280" joined="2007-01-18"/>
+		<cosponsor id="400199" joined="2007-01-24"/>
+		<cosponsor id="400227" joined="2007-02-27"/>
+		<cosponsor id="400364" joined="2007-07-27"/>
+		<cosponsor id="400289" joined="2007-04-17"/>
+		<cosponsor id="400616" joined="2007-01-24"/>
+		<cosponsor id="400228" joined="2007-04-17"/>
+		<cosponsor id="400263" joined="2007-02-27"/>
+		<cosponsor id="400407" joined="2007-07-16"/>
+		<cosponsor id="400092" joined="2007-07-30"/>
+		<cosponsor id="400080" joined="2007-01-11"/>
+		<cosponsor id="400162" joined="2007-01-23"/>
+		<cosponsor id="412221" joined="2007-03-14"/>
+		<cosponsor id="400102" joined="2007-02-08"/>
+		<cosponsor id="400660" joined="2007-06-20"/>
+		<cosponsor id="400282" joined="2007-07-27"/>
+		<cosponsor id="400380" joined="2007-07-30"/>
+		<cosponsor id="400122" joined="2007-04-17"/>
+		<cosponsor id="400333" joined="2007-01-16"/>
+		<cosponsor id="400295" joined="2007-03-05"/>
+		<cosponsor id="400623" joined="2007-04-17"/>
+		<cosponsor id="400271" joined="2007-07-30"/>
+		<cosponsor id="400430" joined="2007-02-14"/>
+		<cosponsor id="400129" joined="2007-07-31"/>
+		<cosponsor id="400170" joined="2007-03-22"/>
+		<cosponsor id="400424" joined="2007-07-27"/>
+		<cosponsor id="400647" joined="2007-01-11"/>
+		<cosponsor id="400154" joined="2007-07-26"/>
+		<cosponsor id="412215" joined="2007-03-01"/>
+		<cosponsor id="400344" joined="2007-07-30"/>
+		<cosponsor id="400198" joined="2007-07-27"/>
+		<cosponsor id="400268" joined="2007-01-11"/>
+		<cosponsor id="400063" joined="2007-01-11"/>
+		<cosponsor id="400379" joined="2007-07-30"/>
+		<cosponsor id="400361" joined="2007-01-29"/>
+		<cosponsor id="400124" joined="2007-05-14"/>
+		<cosponsor id="400630" joined="2007-07-30"/>
+		<cosponsor id="400003" joined="2007-07-25"/>
+		<cosponsor id="400423" joined="2007-02-08"/>
+		<cosponsor id="400260" joined="2007-05-10"/>
+		<cosponsor id="412231" joined="2007-03-20"/>
+		<cosponsor id="400274" joined="2007-01-23"/>
+		<cosponsor id="412189" joined="2007-07-30"/>
+		<cosponsor id="400409" joined="2007-07-30"/>
+		<cosponsor id="400370" joined="2007-03-29"/>
+		<cosponsor id="400101" joined="2007-07-30"/>
+		<cosponsor id="400396" joined="2007-01-11"/>
+		<cosponsor id="400384" joined="2007-05-03"/>
+		<cosponsor id="412250" joined="2007-07-30"/>
+		<cosponsor id="400184" joined="2007-01-24"/>
+		<cosponsor id="400152" joined="2007-01-29"/>
+		<cosponsor id="400355" joined="2007-01-16"/>
+		<cosponsor id="412208" joined="2007-05-17"/>
+		<cosponsor id="400262" joined="2007-01-29"/>
+		<cosponsor id="400130" joined="2007-01-31"/>
+		<cosponsor id="400249" joined="2007-03-09"/>
+		<cosponsor id="400030" joined="2007-07-27"/>
+		<cosponsor id="400312" joined="2007-01-16"/>
+		<cosponsor id="412198" joined="2007-02-15"/>
+		<cosponsor id="400316" joined="2007-06-28"/>
+		<cosponsor id="400007" joined="2007-01-18"/>
+		<cosponsor id="400245" joined="2007-07-30"/>
+		<cosponsor id="400231" joined="2007-03-22"/>
+		<cosponsor id="400402" joined="2007-07-27"/>
+		<cosponsor id="400663" joined="2007-03-22"/>
+		<cosponsor id="400387" joined="2007-01-16"/>
+		<cosponsor id="400275" joined="2007-02-27"/>
+		<cosponsor id="400347" joined="2007-07-30"/>
+		<cosponsor id="400048" joined="2007-01-11"/>
+		<cosponsor id="412209" joined="2007-05-14"/>
+		<cosponsor id="412199" joined="2007-06-28"/>
+		<cosponsor id="400103" joined="2007-01-11"/>
+		<cosponsor id="400087" joined="2007-03-22"/>
+		<cosponsor id="400270" joined="2007-02-27"/>
+		<cosponsor id="400259" joined="2007-03-22"/>
+		<cosponsor id="400166" joined="2007-02-27"/>
+		<cosponsor id="400436" joined="2007-02-06"/>
+		<cosponsor id="400346" joined="2007-01-11"/>
+		<cosponsor id="400140" joined="2007-02-14"/>
+		<cosponsor id="400422" joined="2007-02-27"/>
+		<cosponsor id="412204" joined="2007-07-30"/>
+		<cosponsor id="400426" joined="2007-02-15"/>
+		<cosponsor id="400653" joined="2007-02-27"/>
+		<cosponsor id="400195" joined="2007-02-06"/>
+		<cosponsor id="400251" joined="2007-01-16"/>
+		<cosponsor id="400178" joined="2007-02-27"/>
+		<cosponsor id="412232" joined="2007-06-05"/>
+		<cosponsor id="400350" joined="2007-02-14"/>
+		<cosponsor id="400217" joined="2007-01-11"/>
+		<cosponsor id="400111" joined="2007-01-29"/>
+		<cosponsor id="400360" joined="2007-01-16"/>
+		<cosponsor id="400366" joined="2007-01-11"/>
+		<cosponsor id="412239" joined="2007-07-30"/>
+		<cosponsor id="400269" joined="2007-01-11"/>
+		<cosponsor id="400299" joined="2007-02-06"/>
+		<cosponsor id="400074" joined="2007-06-12"/>
+		<cosponsor id="412200" joined="2007-02-27"/>
+		<cosponsor id="400284" joined="2007-07-27"/>
+		<cosponsor id="400189" joined="2007-07-30"/>
+		<cosponsor id="400266" joined="2007-05-03"/>
+		<cosponsor id="400125" joined="2007-04-19"/>
+		<cosponsor id="400415" joined="2007-01-31"/>
+		<cosponsor id="412236" joined="2007-03-09"/>
+		<cosponsor id="412186" joined="2007-04-18"/>
+		<cosponsor id="400093" joined="2007-02-27"/>
+		<cosponsor id="400326" joined="2007-02-06"/>
+		<cosponsor id="400649" joined="2007-07-30"/>
+		<cosponsor id="400371" joined="2007-06-05"/>
+		<cosponsor id="412228" joined="2007-04-19"/>
+		<cosponsor id="400145" joined="2007-07-26"/>
+		<cosponsor id="400291" joined="2007-04-17"/>
+		<cosponsor id="400201" joined="2007-01-11"/>
+		<cosponsor id="400185" joined="2007-01-11"/>
+		<cosponsor id="400641" joined="2007-03-21"/>
+		<cosponsor id="400047" joined="2007-07-30"/>
+		<cosponsor id="412220" joined="2007-02-27"/>
+		<cosponsor id="400283" joined="2007-01-11"/>
+		<cosponsor id="400204" joined="2007-01-23"/>
+		<cosponsor id="400097" joined="2007-01-16"/>
+		<cosponsor id="400310" joined="2007-02-27"/>
+		<cosponsor id="400090" joined="2007-01-31"/>
+		<cosponsor id="400033" joined="2007-01-16"/>
+		<cosponsor id="400208" joined="2007-06-20"/>
+		<cosponsor id="400240" joined="2007-01-11"/>
+		<cosponsor id="400438" joined="2007-01-23"/>
+		<cosponsor id="412219" joined="2007-05-07"/>
+		<cosponsor id="400024" joined="2007-04-23"/>
+		<cosponsor id="400654" joined="2007-07-27"/>
+		<cosponsor id="400363" joined="2007-02-27"/>
+		<cosponsor id="400025" joined="2007-02-14"/>
+		<cosponsor id="400301" joined="2007-02-06"/>
+		<cosponsor id="400394" joined="2007-02-12"/>
+		<cosponsor id="400163" joined="2007-03-22"/>
+		<cosponsor id="400114" joined="2007-02-14"/>
+		<cosponsor id="400062" joined="2007-02-14"/>
+		<cosponsor id="412194" joined="2007-04-19"/>
+		<cosponsor id="400425" joined="2007-01-11"/>
+		<cosponsor id="400179" joined="2007-07-30"/>
+		<cosponsor id="400100" joined="2007-01-11"/>
+		<cosponsor id="400435" joined="2007-03-20"/>
+		<cosponsor id="400639" joined="2007-01-11"/>
+		<cosponsor id="400309" joined="2007-07-30"/>
+		<cosponsor id="400186" joined="2007-07-27"/>
+		<cosponsor id="400278" joined="2007-01-11"/>
+		<cosponsor id="400067" joined="2007-01-16"/>
+		<cosponsor id="400075" joined="2007-07-30"/>
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to the Committee on Financial Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to House Financial Services</text></action>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1174017600" datetime="2007-03-16"><committee name="House Financial Services"/><text>Referred to the Subcommittee on Capital Markets, Insurance and Government Sponsored Enterprises.</text></action>
+		<action date="1174017600" datetime="2007-03-16"><committee name="House Financial Services"/><text>Referred to the Subcommittee on Domestic and International Monetary Policy, Trade, and Technology.</text></action>
+		<action date="1174363200" datetime="2007-03-20"><committee name="House Financial Services" subcommittee="Domestic and International Monetary Policy, Trade, and Technology"/><text>Subcommittee Hearings Held.</text></action>
+		<action date="1174363200" datetime="2007-03-20"><committee name="House Oversight and Government Reform"/><text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text></action>
+		<action date="1185422400" datetime="2007-07-26"><committee name="House Financial Services"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1185422400" datetime="2007-07-26" ><committee name="House Financial Services"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1185422400" datetime="2007-07-26"><text>Sponsor introductory remarks on measure. (CR H8623)</text></action>
+		<action date="1185853020" datetime="2007-07-30T12:37:00-04:00"><text>Mr. Frank (MA) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1185853080" datetime="2007-07-30T12:38:00-04:00"><text>Considered under suspension of the rules. (consideration: CR 7/31/2007 H8843-8855)</text></action>
+		<action date="1185853080" datetime="2007-07-30T12:38:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 180.</text></action>
+		<action date="1185812580" datetime="2007-07-30T13:23:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1185893820" datetime="2007-07-31T11:57:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H9210-9211"/></action>
+		<vote date="1185937440" how="roll" roll="764" datetime="2007-07-31T12:04:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 1 (Roll no. 764).</text><reference label="text" ref="CR H8843-8846"/></vote>
+		<action date="1185940800" datetime="2007-08-01"><text>Received in the Senate.</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/31/2007--Passed House amended. Darfur Accountability and Divestment Act of 2007 - (Sec. 3) Directs the Secretary of the Treasury to ensure the publication every six months in the Federal Register of a list of all persons (as defined by this Act) who have a direct investment in or are conducting business operations in Sudan's power production, mineral extraction, oil-related, or military equipment industries. Sets forth excluded business operations, including operations with: (1) the regional government of southern Sudan; (2) maginalized populations of Sudan; and (3) peacekeeping or humanitarian organizations. (Sec. 4) States that it is U.S. policy to support state and local efforts to divest funds from, or restrict investments in, companies that conduct business operations in Sudan. Authorizes state or local government divestment in such companies. (Sec. 5) Expresses the sense of Congress that a divestment measure authorized or a measure to prohibit state or local contracts would not violate the United States Constitution because such a measure: (1) is not pre-empted under the Supremacy Clause; (2) is authorized by the Congress as an appropriate measure with regard to interstate or foreign commerce; and (3) is authorized by the Congress as a measure that promotes U.S. foreign policy. (Sec. 6) Amends the Investment Company Act of 1940 to provide a safe harbor from civil, criminal, or administrative action for a registered investment company and its officials and employees based upon the investment company's divesting from or not investing in a company that is on the list as provided for under section 3 this Act. (Sec. 7) Amends the Employee Retirement Income Security Act of 1974 to provide a safe harbor for employee benefit plan employees based upon the plan's divesting from or not investing in a company that is on such list. (Sec. 8) Prohibits the U.S. government from contracting or renewing a contract for goods or services with a company that is on such list. Authorizes the President to waive such prohibition for national security reasons. (Sec. 9) States that it is U.S. policy to support any state or local government decision to prohibit state or local government contracting for goods or services with a company that is on such list. Authorizes a state or local government to prohibit such contracts. (Sec. 10) Defines specified terms. (Sec. 11) Expresses the sense of Congress that other governments should adopt measures similar to those contained in this Act to publicize the activities of persons and entities whose financial dealings enable the government of Sudan to commit genocide against people in the Darfur region and other regions of Sudan, and to authorize divestment from, and the avoidance of further investment in, such persons and entities. (Sec. 12) Sets forth the conditions under which this Act shall terminate. 
+	</summary>
+</bill>

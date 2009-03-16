@@ -1,0 +1,48 @@
+<bill session="110" type="h" number="4332" updated="2009-01-09T01:52:21-05:00">
+	<status><vote date="1209506940" datetime="2008-04-29T19:09:00-04:00" where="h" result="pass" how="roll" roll="225"/></status>
+
+	<introduced date="1196917200" datetime="2007-12-06"/>
+	<titles>
+		<title type="short" as="introduced">Financial Consumer Hotline Act of 2007</title>
+		<title type="short" as="passed house">Financial Consumer Hotline Act of 2007</title>
+		<title type="official" as="introduced">To amend the Federal Financial Institutions Examination Council Act to require the Council to establish a single telephone number that consumers with complaints or inquiries could call and be routed to the appropriate Federal banking agency or State bank supervisor, and for other purposes.</title>
+	</titles>
+	<sponsor id="400251"/>
+	<cosponsors>
+		<cosponsor id="400061" joined="2008-04-29"/>
+		<cosponsor id="400027" joined="2007-12-12"/>
+		<cosponsor id="400430" joined="2008-01-28"/>
+		<cosponsor id="400051" joined="2007-12-18"/>
+		<cosponsor id="400140" joined="2007-12-06"/>
+		<cosponsor id="400422" joined="2007-12-12"/>
+		<cosponsor id="400653" joined="2007-12-12"/>
+		<cosponsor id="400278" joined="2007-12-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1196917200" datetime="2007-12-06"><text>Sponsor introductory remarks on measure. (CR E2516)</text></action>
+		<action date="1196917200" datetime="2007-12-06"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1197262800" datetime="2007-12-10"><text>Referred to the Subcommittee on Financial Institutions and Consumer Credit.</text></action>
+		<action date="1209493920" datetime="2008-04-29T15:32:00-04:00"><text>Mrs. Maloney (NY) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1209493920" datetime="2008-04-29T15:32:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2820-2821"/></action>
+		<action date="1209493980" datetime="2008-04-29T15:33:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4332.</text></action>
+		<action date="1209494460" datetime="2008-04-29T15:41:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1209506340" datetime="2008-04-29T18:59:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2829-2830"/></action>
+		<vote date="1209506940" how="roll" roll="225" datetime="2008-04-29T19:09:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 1 (Roll no. 225).</text><reference label="text" ref="CR H2820"/></vote>
+		<action date="1209528000" datetime="2008-04-30"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/29/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Financial Consumer Hotline Act of 2007 - Amends the Federal Financial Institutions Examination Council Act of 1978 to require federal financial institution regulatory agencies, coordinating through the Federal Financial Institutions Examination Council, to establish: (1) a single, toll-free telephone number for consumer complaints and inquiries concerning institutions under their jurisdiction; and (2) a system for routing such calls to the federal financial institution regulatory agency that primarily supervises the financial institution, or that is otherwise the appropriate agency to address the subject of the complaint or inquiry.<br/>Cites circumstances under which state agencies may receive appropriate call transfers from such federal systems.<br/>
+	</summary>
+</bill>

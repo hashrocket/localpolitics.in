@@ -1,0 +1,32 @@
+<bill session="111" type="h" number="821" updated="2009-03-07T11:24:44-05:00">
+	<status><introduced date="1233637200" datetime="2009-02-03"/></status>
+
+	<introduced date="1233637200" datetime="2009-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Mercury Emissions Reduction Act</title>
+		<title type="official" as="introduced">To amend the Clean Air Act to require that mercury emissions from electric utility steam generating units be subject to the MACT standard for hazardous air pollutants, and for other purposes.</title>
+	</titles>
+	<sponsor id="400204"/>
+	<cosponsors>
+		<cosponsor id="400162" joined="2009-02-03"/>
+		<cosponsor id="412299" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

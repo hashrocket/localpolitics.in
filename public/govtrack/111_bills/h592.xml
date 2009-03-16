@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="592" updated="2009-03-07T10:57:11-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">E-Centives Act of 2009</title>
+		<title type="official" as="introduced">To amend title XIX of the Social Security Act to encourage the use of certified health information technology by providers in the Medicaid Program and the Children's Health Insurance Program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400647"/>
+	<cosponsors>
+		<cosponsor id="400021" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="264" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Health information and medical records"/>
+		<term name="Medicaid"/>
+		<term name="Medical tests and diagnostic methods"/>
+		<term name="Medicare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>E-Centives Act of 2009 - Amends title XIX (Medicaid) of the Social Security Act to direct the Secretary of Health and Human Services to provide for payments to each state that provides incentive payments to physicians, hospitals, community health centers, rural health clinics, and community mental health centers that exhibit meaningful use of certified health information technology. Directs the Secretary to provide for payments to each state that establishes a program to: (1) design, develop, install, maintain, and operate electronic information and eligibility systems and patient registries for the purpose of disease screening; (2) coordinate benefits and services under Medicare and Medicaid for full-benefit dual eligible individuals under the state plan; and (3) train providers in the use of such systems and registries. Directs the Secretary of Health and Human Services to submit to Congress a report on Medicaid transformation payments to states for the adoption of innovative methods to improve effectiveness and efficiency in providing medical assistance.<br/>
+	</summary>
+</bill>

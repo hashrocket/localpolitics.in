@@ -1,0 +1,41 @@
+<bill session="111" type="s" number="346" updated="2009-03-07T14:14:51-05:00">
+	<status><introduced date="1233205200" datetime="2009-01-29"/></status>
+
+	<introduced date="1233205200" datetime="2009-01-29"/>
+	<titles>
+		<title type="short" as="introduced">Life at Conception Act</title>
+		<title type="official" as="introduced">A bill to implement equal protection under the 14th article of amendment to the Constitution for the right to life of each born and preborn human person.</title>
+	</titles>
+	<sponsor id="400432"/>
+	<cosponsors>
+		<cosponsor id="400576" joined="2009-01-29"/>
+		<cosponsor id="400418" joined="2009-01-29"/>
+		<cosponsor id="300055" joined="2009-01-29"/>
+		<cosponsor id="400105" joined="2009-01-29"/>
+		<cosponsor id="300098" joined="2009-01-29"/>
+		<cosponsor id="400621" joined="2009-01-29"/>
+		<cosponsor id="300013" joined="2009-01-29"/>
+		<cosponsor id="300041" joined="2009-01-29"/>
+		<cosponsor id="400546" joined="2009-01-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1233205200" datetime="2009-01-29"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="881" />
+	</relatedbills>
+	<subjects>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Abortion"/>
+		<term name="Constitution and constitutional amendments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/29/2009--Introduced.<br/>Life at Conception Act - Declares that the right to life guaranteed by the Constitution is vested in each human being beginning at the moment of fertilization, cloning, and other moment at which an individual comes into being.<br/>
+	</summary>
+</bill>

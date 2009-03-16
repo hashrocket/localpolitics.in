@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="139" updated="2009-03-07T10:04:07-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Identification Integrity Act of 2009</title>
+		<title type="official" as="introduced">To prohibit a Federal agency from accepting a form of individual identification issued by a foreign government, except a passport that is accepted on the date of enactment.</title>
+	</titles>
+	<sponsor id="400144"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on the Judiciary, House Administration, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Judiciary</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House House Administration</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Armed Services</text></action>
+		<action date="1234155600" datetime="2009-02-09"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" activity="Referral" />
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Government information and archives"/>
+		<term name="Visas and passports"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Identification Integrity Act of 2009 - Prohibits federal agencies from accepting for any official purpose an identification document for an individual issued by a foreign government. Creates an exception for foreign passports authorized by federal law to be accepted for a specific official purpose.<br/>
+	</summary>
+</bill>

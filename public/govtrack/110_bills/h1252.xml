@@ -1,0 +1,167 @@
+<bill session="110" type="h" number="1252" updated="2009-01-08T19:27:20-05:00">
+	<status><vote date="1179937800" datetime="2007-05-23T13:30:00-04:00" where="h" result="pass" how="roll" roll="404"/></status>
+
+	<introduced date="1172638800" datetime="2007-02-28"/>
+	<titles>
+		<title type="short" as="introduced">Federal Price Gouging Prevention Act</title>
+		<title type="short" as="passed house">Federal Price Gouging Prevention Act</title>
+		<title type="official" as="introduced">To protect consumers from price-gouging of gasoline and other fuels, and for other purposes.</title>
+	</titles>
+	<sponsor id="400391"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2007-02-28"/>
+		<cosponsor id="400253" joined="2007-02-28"/>
+		<cosponsor id="400041" joined="2007-02-28"/>
+		<cosponsor id="400133" joined="2007-02-28"/>
+		<cosponsor id="400031" joined="2007-02-28"/>
+		<cosponsor id="412229" joined="2007-05-14"/>
+		<cosponsor id="400073" joined="2007-02-28"/>
+		<cosponsor id="400337" joined="2007-03-23"/>
+		<cosponsor id="400177" joined="2007-02-28"/>
+		<cosponsor id="400257" joined="2007-02-28"/>
+		<cosponsor id="400289" joined="2007-02-28"/>
+		<cosponsor id="400263" joined="2007-02-28"/>
+		<cosponsor id="400407" joined="2007-02-28"/>
+		<cosponsor id="400080" joined="2007-02-28"/>
+		<cosponsor id="400162" joined="2007-02-28"/>
+		<cosponsor id="412221" joined="2007-02-28"/>
+		<cosponsor id="400183" joined="2007-02-28"/>
+		<cosponsor id="412224" joined="2007-05-21"/>
+		<cosponsor id="412234" joined="2007-02-28"/>
+		<cosponsor id="400122" joined="2007-02-28"/>
+		<cosponsor id="400246" joined="2007-05-17"/>
+		<cosponsor id="400623" joined="2007-05-15"/>
+		<cosponsor id="400430" joined="2007-02-28"/>
+		<cosponsor id="400129" joined="2007-02-28"/>
+		<cosponsor id="400170" joined="2007-05-23"/>
+		<cosponsor id="400065" joined="2007-05-14"/>
+		<cosponsor id="400647" joined="2007-02-28"/>
+		<cosponsor id="400443" joined="2007-02-28"/>
+		<cosponsor id="412215" joined="2007-05-21"/>
+		<cosponsor id="400268" joined="2007-02-28"/>
+		<cosponsor id="400063" joined="2007-02-28"/>
+		<cosponsor id="400361" joined="2007-05-14"/>
+		<cosponsor id="400124" joined="2007-05-09"/>
+		<cosponsor id="400630" joined="2007-02-28"/>
+		<cosponsor id="400003" joined="2007-02-28"/>
+		<cosponsor id="412231" joined="2007-02-28"/>
+		<cosponsor id="400274" joined="2007-02-28"/>
+		<cosponsor id="400300" joined="2007-04-18"/>
+		<cosponsor id="400264" joined="2007-02-28"/>
+		<cosponsor id="400101" joined="2007-04-18"/>
+		<cosponsor id="400384" joined="2007-05-09"/>
+		<cosponsor id="400184" joined="2007-02-28"/>
+		<cosponsor id="400412" joined="2007-02-28"/>
+		<cosponsor id="400355" joined="2007-02-28"/>
+		<cosponsor id="412208" joined="2007-05-03"/>
+		<cosponsor id="400216" joined="2007-02-28"/>
+		<cosponsor id="400130" joined="2007-02-28"/>
+		<cosponsor id="400249" joined="2007-02-28"/>
+		<cosponsor id="412198" joined="2007-05-09"/>
+		<cosponsor id="400007" joined="2007-02-28"/>
+		<cosponsor id="400231" joined="2007-02-28"/>
+		<cosponsor id="400642" joined="2007-04-20"/>
+		<cosponsor id="400417" joined="2007-02-28"/>
+		<cosponsor id="400663" joined="2007-02-28"/>
+		<cosponsor id="400352" joined="2007-02-28"/>
+		<cosponsor id="400230" joined="2007-05-15"/>
+		<cosponsor id="400356" joined="2007-02-28"/>
+		<cosponsor id="400121" joined="2007-03-09"/>
+		<cosponsor id="412223" joined="2007-05-15"/>
+		<cosponsor id="412209" joined="2007-05-15"/>
+		<cosponsor id="412193" joined="2007-05-03"/>
+		<cosponsor id="400308" joined="2007-05-09"/>
+		<cosponsor id="412205" joined="2007-03-29"/>
+		<cosponsor id="412199" joined="2007-02-28"/>
+		<cosponsor id="400103" joined="2007-05-21"/>
+		<cosponsor id="412211" joined="2007-05-15"/>
+		<cosponsor id="400259" joined="2007-02-28"/>
+		<cosponsor id="400166" joined="2007-02-28"/>
+		<cosponsor id="400399" joined="2007-02-28"/>
+		<cosponsor id="400436" joined="2007-02-28"/>
+		<cosponsor id="400346" joined="2007-05-14"/>
+		<cosponsor id="400140" joined="2007-02-28"/>
+		<cosponsor id="400013" joined="2007-02-28"/>
+		<cosponsor id="412240" joined="2007-03-23"/>
+		<cosponsor id="412222" joined="2007-05-21"/>
+		<cosponsor id="412204" joined="2007-02-28"/>
+		<cosponsor id="400426" joined="2007-02-28"/>
+		<cosponsor id="400195" joined="2007-03-29"/>
+		<cosponsor id="400251" joined="2007-02-28"/>
+		<cosponsor id="400178" joined="2007-03-09"/>
+		<cosponsor id="400026" joined="2007-02-28"/>
+		<cosponsor id="400378" joined="2007-05-14"/>
+		<cosponsor id="412232" joined="2007-05-21"/>
+		<cosponsor id="400217" joined="2007-02-28"/>
+		<cosponsor id="400360" joined="2007-02-28"/>
+		<cosponsor id="400366" joined="2007-02-28"/>
+		<cosponsor id="412239" joined="2007-05-09"/>
+		<cosponsor id="400211" joined="2007-02-28"/>
+		<cosponsor id="400120" joined="2007-05-21"/>
+		<cosponsor id="400299" joined="2007-02-28"/>
+		<cosponsor id="400638" joined="2007-02-28"/>
+		<cosponsor id="412200" joined="2007-02-28"/>
+		<cosponsor id="400125" joined="2007-02-28"/>
+		<cosponsor id="400193" joined="2007-05-03"/>
+		<cosponsor id="400415" joined="2007-05-14"/>
+		<cosponsor id="412236" joined="2007-02-28"/>
+		<cosponsor id="400093" joined="2007-02-28"/>
+		<cosponsor id="412228" joined="2007-02-28"/>
+		<cosponsor id="400043" joined="2007-02-28"/>
+		<cosponsor id="400641" joined="2007-02-28"/>
+		<cosponsor id="400047" joined="2007-02-28"/>
+		<cosponsor id="400097" joined="2007-05-17"/>
+		<cosponsor id="400090" joined="2007-02-28"/>
+		<cosponsor id="400042" joined="2007-02-28"/>
+		<cosponsor id="400438" joined="2007-05-15"/>
+		<cosponsor id="412219" joined="2007-05-03"/>
+		<cosponsor id="400215" joined="2007-03-09"/>
+		<cosponsor id="400024" joined="2007-02-28"/>
+		<cosponsor id="400238" joined="2007-05-15"/>
+		<cosponsor id="412206" joined="2007-05-15"/>
+		<cosponsor id="400025" joined="2007-02-28"/>
+		<cosponsor id="400345" joined="2007-02-28"/>
+		<cosponsor id="400114" joined="2007-02-28"/>
+		<cosponsor id="400062" joined="2007-04-18"/>
+		<cosponsor id="412194" joined="2007-05-21"/>
+		<cosponsor id="400011" joined="2007-02-28"/>
+		<cosponsor id="400425" joined="2007-05-15"/>
+		<cosponsor id="400233" joined="2007-05-09"/>
+		<cosponsor id="400100" joined="2007-02-28"/>
+		<cosponsor id="400639" joined="2007-02-28"/>
+		<cosponsor id="400309" joined="2007-02-28"/>
+		<cosponsor id="400186" joined="2007-02-28"/>
+		<cosponsor id="400278" joined="2007-02-28"/>
+		<cosponsor id="400067" joined="2007-05-09"/>
+		<cosponsor id="412233" joined="2007-02-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1172638800" datetime="2007-02-28"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1172638800" datetime="2007-02-28"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1172638800" datetime="2007-02-28"><text>Referred to House Education and Labor</text></action>
+		<action date="1172725200" datetime="2007-03-01"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text></action>
+		<action date="1179926880" datetime="2007-05-23T10:28:00-04:00"><text>Mr. Rush moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1179926940" datetime="2007-05-23T10:29:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5628-5636"/></action>
+		<action date="1179926940" datetime="2007-05-23T10:29:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1252.</text></action>
+		<action date="1179929940" datetime="2007-05-23T11:19:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1179937200" datetime="2007-05-23T13:20:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5647"/></action>
+		<vote date="1179937800" how="roll" roll="404" datetime="2007-05-23T13:30:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 284 - 141 (Roll no. 404).</text><reference label="text" ref="CR H5628-5629"/></vote>
+		<action date="1179979200" datetime="2007-05-24"><text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+		<action date="1181016000" datetime="2007-06-05"><committee name="House Education and Labor"/><text>Referred to the Subcommittee on Healthy Families and Communities.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/23/2007--Passed House amended. Federal Price Gouging Prevention Act - (Sec. 2) Makes it unlawful during a period proclaimed by the President as an energy emergency to sell gasoline or any other petroleum distillate at a price that: (1) is unconscionably excessive; or (2) indicates the seller is taking unfair advantage of the circumstances of an emergency to increase prices unreasonably. Authorizes the President to issue an energy emergency proclamation and to cite the geographic area covered, the gasoline or other petroleum distillate covered, and the time period that it shall be in effect. Limits such proclamation to a period of up to 30 consecutive days, but authorizes renewals of up to 30 days. Authorizes a proclamation to include a period of up to one week preceding a reasonably foreseeable emergency. Sets forth factors to be considered in determining whether a violation of this Act has occurred. Declares unlawful any false or misleading reporting to a federal agency of price information with actual knowledge, or knowledge fairly implied on the basis of objective circumstances, that such information is false or misleading. Exempts from this Act a sale of gasoline or other petroleum distillate transaction on a futures market. (Sec. 3) Empowers the Federal Trade Commission (FTC) and State Attorneys General to enforce this Act. Subjects any person who violates this Act to specified civil and criminal penalties. States that the criminal penalty may be imposed only pursuant to a criminal action brought by the Attorney General or other officer of the Department of Justice. (Sec. 5) Provides that a state, as parens patriae, may bring a civil action in federal district court to enforce the unconscionable pricing prohibition of this Act, or to impose the civil penalties authorized by this Act, whenever the state's attorney general has reason to believe that the interests of state residents have been or are being threatened or adversely affected by a violation of this Act, or a regulation under it, which involves a retail sale. (Sec. 6) Requires fines and penalties collected under this Act to be deposited in a separate Consumer Relief Trust Fund fund in the Treasury to provide assistance under the Low Income Home Energy Assistance (LIHEAP) Program administered by the Secretary of Health and Human Services. (Sec. 7) Declares that nothing in this Act preempts state law.<br/>
+	</summary>
+</bill>

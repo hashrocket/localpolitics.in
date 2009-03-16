@@ -1,0 +1,38 @@
+<bill session="110" type="s" number="1211" updated="2009-01-09T14:18:45-05:00">
+	<status><calendar date="1214452800" datetime="2008-06-26" /></status>
+
+	<introduced date="1177473600" datetime="2007-04-25"/>
+	<titles>
+		<title type="short" as="introduced">Saving Kids from Dangerous Drugs Act of 2007</title>
+		<title type="short" as="reported to senate">Saving Kids from Dangerous Drugs Act of 2008</title>
+		<title type="official" as="introduced">A bill to amend the Controlled Substances Act to provide enhanced penalties for marketing controlled substances to minors.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300048" joined="2007-04-25"/>
+		<cosponsor id="300006" joined="2008-11-17"/>
+		<cosponsor id="300058" joined="2007-05-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1177473600" datetime="2007-04-25"><text>Sponsor introductory remarks on measure. (CR S5097-5098)</text></action>
+		<action date="1177473600" datetime="2007-04-25"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S5098"/></action>
+		<calendar date="1214452800" datetime="2008-06-26" ><text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1217304000" datetime="2008-07-29"><text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="908" date="1217304000" datetime="2008-07-29" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 908.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/29/2008--Reported to Senate amended. Saving Kids from Dangerous Drugs Act of 2008 - Amends the Controlled Substances Act to make it unlawful for any adult (at least 18 years of age) to knowingly and intentionally manufacture, create, distribute, or dispense, or to possess with such intent, a Schedule I or II controlled substance that is: (1) combined with a candy product; (2) marketed or packaged to appear similar to a candy product; or (3) modified by flavoring or coloring with the intent to distribute, dispense, or sell it to a person under 21 years of age. Imposes enhanced criminal penalties and a one-year minimum sentence for violations. Exempts any controlled substance that has been approved by the Secretary of Health and Human Services under the drug approval process or that has been altered at the direction of a medical practitioner for a legitimate medical purpose. 
+	</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="110" type="h" number="3227" updated="2009-01-08T23:33:57-05:00">
+	<status><vote date="1216056060" datetime="2008-07-14T14:21:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1185768000" datetime="2007-07-30"/>
+	<titles>
+		<title type="official" as="introduced">To direct the Secretary of the Interior to continue stocking fish in certain lakes in the North Cascades National Park, Ross Lake National Recreation Area, and Lake Chelan National Recreation Area.</title>
+		<title type="official" as="amended by house">To authorize the Secretary of the Interior to allow stocking fish in certain lakes in the North Cascades National Park, Ross Lake National Recreation Area, and Lake Chelan National Recreation Area.</title>
+	</titles>
+	<sponsor id="400171"/>
+	<cosponsors>
+		<cosponsor id="400659" joined="2007-07-30"/>
+		<cosponsor id="400379" joined="2008-04-09"/>
+		<cosponsor id="400232" joined="2007-07-30"/>
+		<cosponsor id="400109" joined="2007-07-30"/>
+		<cosponsor id="400011" joined="2007-12-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1185768000" datetime="2007-07-30"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1186027200" datetime="2007-08-02"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1209009600" datetime="2008-04-24"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1214366400" datetime="2008-06-25"><text>Subcommittee on National Parks, Forests, and Public Lands Discharged.</text></action>
+		<action date="1214366400" datetime="2008-06-25"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1214366400" datetime="2008-06-25" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1216055400" datetime="2008-07-14T14:10:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-756.</text></action>
+		<calendar number="483" date="1216055580" datetime="2008-07-14T14:13:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 483.</text></calendar>
+		<action date="1216055880" datetime="2008-07-14T14:18:00-04:00"><text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1216055880" datetime="2008-07-14T14:18:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6415-6416"/></action>
+		<action date="1216055880" datetime="2008-07-14T14:18:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3227.</text></action>
+		<vote date="1216056060" how="by voice vote" datetime="2008-07-14T14:21:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H6415"/></vote>
+		<action date="1216056060" datetime="2008-07-14T14:21:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1216094400" datetime="2008-07-15"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/14/2008--Passed House amended. Allows the Secretary of the Interior, acting through the Director of the National Park Service, to authorize the stocking of fish in lakes in the North Cascades National Park, Ross Lake National Recreation Area, and Lake Chelan National Recreation Area. Authorizes the Secretary to allow stocking in up to, but not over, 42 lakes. Provides that, the 42 lakes that may be stocked are those identified for potential stocking under Alternative B of the 2005 North Cascades National Park Service Complex Mountain Lakes Fishery Management Plan Draft. Requires the Secretary to only stock fish that are native to the slope of the Cascade Range on which the lake to be stocked is located and are functionally sterile. Authorizes the Secretary to coordinate the stocking of fish with the state of Washington.<br/>Continues the program of research and monitoring of the impacts of fish stocking on park resources. Instructs the Secretary to report on the results of such research and monitoring program every five years. 
+	</summary>
+</bill>

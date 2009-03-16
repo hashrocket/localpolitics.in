@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="1035" updated="2009-03-07T11:50:29-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Morris K. Udall Scholarship and Excellence in National Environmental Policy Amendments Act of 2009</title>
+		<title type="official" as="introduced">To amend the Morris K. Udall Scholarship and Excellence in National Environmental and Native American Public Policy Act of 1992 to honor the legacy of Stewart L. Udall, and for other purposes.</title>
+	</titles>
+	<sponsor id="400162"/>
+	<cosponsors>
+		<cosponsor id="400331" joined="2009-02-12"/>
+		<cosponsor id="412187" joined="2009-02-12"/>
+		<cosponsor id="412286" joined="2009-02-12"/>
+		<cosponsor id="400310" joined="2009-02-12"/>
+		<cosponsor id="412188" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Sponsor introductory remarks on measure. (CR E258)</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the Committee on Education and Labor, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to House Education and Labor</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to House Natural Resources</text></action>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="432" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

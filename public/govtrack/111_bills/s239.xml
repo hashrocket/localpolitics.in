@@ -1,0 +1,36 @@
+<bill session="111" type="s" number="239" updated="2009-03-07T14:01:44-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="short" as="introduced">Veterans Health Equity Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend title 38, United States Code, to ensure that veterans in each of the 48 contiguous States are able to receive services in at least one full-service hospital of the Veterans Health Administration in the State or receive comparable services provided by contract in the State.</title>
+	</titles>
+	<sponsor id="412323"/>
+	<cosponsors>
+		<cosponsor id="300049" joined="2009-01-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Sponsor introductory remarks on measure. (CR S390-391)</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Read twice and referred to the Committee on Veterans' Affairs.</text><reference label="text of measure as introduced" ref="CR S391"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="190" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Health care coverage and access"/>
+		<term name="Hospital care"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/14/2009--Introduced.<br/>Veterans Health Equity Act of 2009 - Requires the Secretary of Veterans Affairs, with respect to each of the 48 contiguous states, to ensure that veterans eligible for hospital care and medical services through the Department of Veterans Affairs (VA) have access to: (1) at least one full-service hospital of the Veterans Health Administration in the state; or (2) hospital care and medical services comparable to that provided in full-service hospitals through contract with other health providers in the state.<br/>
+	</summary>
+</bill>

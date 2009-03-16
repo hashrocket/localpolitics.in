@@ -1,0 +1,45 @@
+<bill session="111" type="sr" number="58" updated="2009-03-07T14:45:09-05:00">
+	<status><vote date="1235710800" datetime="2009-02-27" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1235624400" datetime="2009-02-26"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating the week of March 1 through March 8, 2009, as &quot;School Social Work Week&quot;.</title>
+	</titles>
+	<sponsor id="412247"/>
+	<cosponsors>
+		<cosponsor id="400050" joined="2009-02-26"/>
+		<cosponsor id="300059" joined="2009-02-26"/>
+		<cosponsor id="300076" joined="2009-02-26"/>
+		<cosponsor id="300042" joined="2009-02-26"/>
+		<cosponsor id="300060" joined="2009-02-26"/>
+		<cosponsor id="300063" joined="2009-02-26"/>
+		<cosponsor id="300068" joined="2009-02-26"/>
+		<cosponsor id="300023" joined="2009-02-26"/>
+		<cosponsor id="300064" joined="2009-02-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1235624400" datetime="2009-02-26"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S2573"/></action>
+		<action date="1235710800" datetime="2009-02-27"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S2595-2596"/></action>
+		<vote date="1235710800" how="by Unanimous Consent" datetime="2009-02-27" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S2595-2596"/></vote>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="182" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+		<term name="Teaching, teachers, curricula"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/27/2009--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the week of March 1-8, 2009, as School Social Work Week. Honors the contributions of school social workers to the success of students in schools.<br/>
+	</summary>
+</bill>

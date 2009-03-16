@@ -1,0 +1,37 @@
+<bill session="110" type="sr" number="279" updated="2009-01-09T20:32:55-05:00">
+	<status><vote date="1198040400" datetime="2007-12-19" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1185249600" datetime="2007-07-24"/>
+	<titles>
+		<title type="official" as="introduced">A resolution expressing the sense of the Senate regarding the 125th anniversary of the 1882 Treaty of Peace, Amity, Commerce and Navigation between the Kingdom of Chosun (Korea) and the United States.</title>
+	</titles>
+	<sponsor id="300070"/>
+	<cosponsors>
+		<cosponsor id="412249" joined="2007-07-24"/>
+		<cosponsor id="300075" joined="2007-07-24"/>
+		<cosponsor id="300050" joined="2007-07-24"/>
+		<cosponsor id="400194" joined="2007-07-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1185249600" datetime="2007-07-24"><text>Sponsor introductory remarks on measure. (CR S9838)</text></action>
+		<action date="1185249600" datetime="2007-07-24"><text>Referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S9838"/></action>
+		<action date="1198040400" datetime="2007-12-19"><text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text></action>
+		<action date="1198040400" datetime="2007-12-19"><text>Measure laid before Senate by unanimous consent. (consideration: CR 12/18/2007 S15935-15936)</text></action>
+		<vote date="1198040400" how="by Unanimous Consent" datetime="2007-12-19" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/19/2007--Passed Senate amended. Expresses the sense of the Senate that: (1) the strength of the U.S.-Republic of Korea alliance should be acknowledged; (2) the countries' economic relationship should be deepened; (3) the United States should sustain substantive dialogue with both the Republic of Korea and the Democratic People's Republic of Korea with the expectation of the Korean peninsula's eventual unification; (4) working with the Republic of Korea to foster greater regional cooperation in East Asia should be a U.S. priority; and (5) the United States and the Republic of Korea should strive to develop a more global perspective in their partnership, with the goal of addressing international priorities such as the fight against terrorism, the promotion of human rights, the enhancement of democracy, support for peacekeeping, and protection of the environment. 
+	</summary>
+</bill>

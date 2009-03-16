@@ -1,0 +1,33 @@
+<bill session="111" type="s" number="255" updated="2009-03-07T14:03:44-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Empowering States' Right To Protect Consumers Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Truth in Lending Act to empower the States to set the maximum annual percentage rates applicable to consumer credit transactions, and for other purposes.</title>
+	</titles>
+	<sponsor id="412247"/>
+	<cosponsors>
+		<cosponsor id="300038" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Consumer credit"/>
+		<term name="Interest and interest rates"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

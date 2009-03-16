@@ -1,0 +1,38 @@
+<bill session="110" type="h" number="2251" updated="2009-01-08T21:33:26-05:00">
+	<status><vote date="1202841300" datetime="2008-02-12T14:35:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1178683200" datetime="2007-05-09"/>
+	<titles>
+		<title type="short" as="introduced">Acadia National Park Improvement Act of 2007</title>
+		<title type="short" as="passed house">Acadia National Park Improvement Act of 2008</title>
+		<title type="official" as="introduced">To extend the Acadia National Park Advisory Commission, to provide improved visitor services at the park, and for other purposes.</title>
+	</titles>
+	<sponsor id="400274"/>
+	<cosponsors>
+		<cosponsor id="400007" joined="2007-05-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1178683200" datetime="2007-05-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1179115200" datetime="2007-05-14"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1202840820" datetime="2008-02-12T14:27:00-05:00"><text>Mr. Grijalva moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1202840880" datetime="2008-02-12T14:28:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H823-824"/></action>
+		<action date="1202840880" datetime="2008-02-12T14:28:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2251.</text></action>
+		<vote date="1202841300" how="by voice vote" datetime="2008-02-12T14:35:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H823-824"/></vote>
+		<action date="1202878800" datetime="2008-02-13"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2008--Passed House amended. Acadia National Park Improvement Act of 2008 - Amends Public Law 99-420 (relating to the establishment of a permanent boundary for the Acadia National Park in Maine) to prohibit any town in which there is federally owned property under the jurisdiction of the Secretary of the Interior which lies outside the boundary of the Park from being eligible to receive such lands unless lands within the Park boundary and owned by such town have been conveyed to the Secretary. Extends the Acadia National Park Advisory Commission. Makes such extension take effect on September 25, 2006. Increases the ceiling on the amount of appropriations for the acquisition of lands and interests with respect to the Acadia National Park.<br/>Authorizes the Secretary of the Interior to provide assistance in the planning, construction, and operation of an intermodal transportation center located outside the Park's boundary, in the town of Trenton, Maine, to improve the management, interpretation, and visitor enjoyment of the Park. Allows the Secretary, in administering the intermodal transportation center, to enter into interagency agreements with other federal agencies and cooperative agreements with state and local agencies and nonprofits to: (1) provide exhibits, interpretive services, and technical assistance; (2) conduct activities that facilitate the dissemination of information related to the Park and the Island Explorer transit system or any successor transit system; (3) provide financial assistance for the construction of the center in exchange for space in the center that is sufficient for interpretation of the Park; and (4) assist with the operation and maintenance of the center. Authorizes appropriations. 
+	</summary>
+</bill>

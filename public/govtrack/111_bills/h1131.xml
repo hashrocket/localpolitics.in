@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="1131" updated="2009-03-07T12:03:22-05:00">
+	<status><introduced date="1235365200" datetime="2009-02-23"/></status>
+
+	<introduced date="1235365200" datetime="2009-02-23"/>
+	<titles>
+		<title type="short" as="introduced">Community Protection and Response Act of 2009</title>
+		<title type="official" as="introduced">To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to improve Federal response efforts after a terrorist strike or other major disaster affecting homeland security, and for other purposes.</title>
+	</titles>
+	<sponsor id="400251"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1235365200" datetime="2009-02-23"><text>Sponsor introductory remarks on measure. (CR E296)</text></action>
+		<action date="1235365200" datetime="2009-02-23"><text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1235365200" datetime="2009-02-23"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1235365200" datetime="2009-02-23"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1235365200" datetime="2009-02-23"><text>Referred to House Education and Labor</text></action>
+		<action date="1235451600" datetime="2009-02-24"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings and Emergency Management" activity="Referral" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

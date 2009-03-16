@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="3651" updated="2009-01-09T00:31:36-05:00">
+	<status><vote date="1206985980" datetime="2008-03-31T14:53:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1190692800" datetime="2007-09-25"/>
+	<titles>
+		<title type="short" as="introduced">Utah National Guard Readiness Act</title>
+		<title type="short" as="reported to house">Utah National Guard Readiness Act</title>
+		<title type="short" as="passed house">Utah National Guard Readiness Act</title>
+		<title type="official" as="introduced">To require the conveyance of certain public land within the boundaries of Camp Williams, Utah, to support the training and readiness of the Utah National Guard.</title>
+	</titles>
+	<sponsor id="400029"/>
+	<cosponsors>
+		<cosponsor id="400059" joined="2007-09-25"/>
+		<cosponsor id="400255" joined="2007-09-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1190692800" datetime="2007-09-25"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1190865600" datetime="2007-09-27"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1204779600" datetime="2008-03-06"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1205294400" datetime="2008-03-12"><text>Subcommittee on National Parks, Forests, and Public Lands Discharged.</text></action>
+		<action date="1205294400" datetime="2008-03-12"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1205294400" datetime="2008-03-12" ><text>Ordered to be Reported (Amended) by Unanimous Consent.</text></calendar>
+		<action date="1207019100" datetime="2008-03-31T12:05:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-554.</text></action>
+		<calendar number="337" date="1207019160" datetime="2008-03-31T12:06:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 337.</text></calendar>
+		<action date="1206985620" datetime="2008-03-31T14:47:00-04:00"><text>Mr. Abercrombie moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1206985680" datetime="2008-03-31T14:48:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1785-1786"/></action>
+		<action date="1206985680" datetime="2008-03-31T14:48:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3651.</text></action>
+		<vote date="1206985980" how="by voice vote" datetime="2008-03-31T14:53:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H1785"/></vote>
+		<action date="1207022400" datetime="2008-04-01"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Committee on Energy and Natural Resources Senate Subcommittee on Public Lands and Forests. Hearings held.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/31/2008--Passed House amended. Utah National Guard Readiness Act - Directs the Secretary of the Interior, acting through the Bureau of Land Management (BLM) to convey, without consideration, to the state of Utah all interest of the United States in and to certain lands that are located within the boundaries of the public lands currently withdrawn for military use by the Utah National Guard and known as &quot;Camp Williams&quot; for the purpose of permitting the Utah National Guard to use such conveyed land. Revokes a specified Executive Order only insofar as it affects the lands identified for conveyance.<br/>Provides for the reversion to the United States of the lands conveyed if the Secretary determines that the land, or any part of such land, is sold or attempted to be sold, or that it or any part of it is used for non-National Guard or non-national defense purposes. Requires that any such determination be made in consultation with the Secretary of Defense and the Governor of Utah and on the record after an opportunity for comment. Requires the state, with respect to any part of the land conveyed that the Secretary determines is subject to reversion and if the Secretary also determines that the part contains hazardous materials, to pay the United States the fair market value of that part of the conveyed land. Bars the application of the reversionary interest to that part of the land. 
+	</summary>
+</bill>

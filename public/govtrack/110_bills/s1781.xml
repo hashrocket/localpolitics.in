@@ -1,0 +1,35 @@
+<bill session="110" type="s" number="1781" updated="2009-01-09T15:31:39-05:00">
+	<status><calendar date="1185940800" datetime="2007-08-01" /></status>
+
+	<introduced date="1184212800" datetime="2007-07-12"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the facility of the United States Postal Service located at 118 Minner Avenue in Bakersfield, California, as the &quot;Buck Owens Post Office&quot;.</title>
+	</titles>
+	<sponsor id="300011"/>
+	<cosponsors>
+		<cosponsor id="300043" joined="2007-07-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1184212800" datetime="2007-07-12"><text>Sponsor introductory remarks on measure. (CR S9143-9144)</text></action>
+		<action date="1184212800" datetime="2007-07-12"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<calendar date="1185940800" datetime="2007-08-01" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1185940800" datetime="2007-08-01"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="300" date="1185940800" datetime="2007-08-01" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 300.</text></calendar>
+		<action date="1190952000" datetime="2007-09-28"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S12340"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/12/2007--Introduced.<br/>Designates the facility of the United States Postal Service located at 118 Minner Avenue in Bakersfield, California, as the &quot;Buck Owens Post Office.&quot;<br/>
+	</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="110" type="hr" number="371" updated="2009-01-09T08:39:05-05:00">
+	<status><vote date="1178575860" datetime="2007-05-07T19:11:00-04:00" where="h" result="pass" how="roll" roll="304"/></status>
+
+	<introduced date="1178164800" datetime="2007-05-03"/>
+	<titles>
+		<title type="official" as="introduced">In observance of National Physical Education and Sports Week.</title>
+	</titles>
+	<sponsor id="412231"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-05-07"/>
+		<cosponsor id="400227" joined="2007-05-03"/>
+		<cosponsor id="400257" joined="2007-05-03"/>
+		<cosponsor id="400183" joined="2007-05-03"/>
+		<cosponsor id="412228" joined="2007-05-07"/>
+		<cosponsor id="400033" joined="2007-05-07"/>
+		<cosponsor id="400218" joined="2007-05-07"/>
+		<cosponsor id="412219" joined="2007-05-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1178164800" datetime="2007-05-03"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1178569980" datetime="2007-05-07T17:33:00-04:00"><text>Mr. Altmire moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1178569980" datetime="2007-05-07T17:33:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4521-4523"/></action>
+		<action date="1178569980" datetime="2007-05-07T17:33:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 371.</text></action>
+		<action date="1178570460" datetime="2007-05-07T17:41:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1178575500" datetime="2007-05-07T19:05:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4527-4528"/></action>
+		<vote date="1178575860" how="roll" roll="304" datetime="2007-05-07T19:11:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 373 - 0 (Roll no. 304).</text><reference label="text" ref="CR H4521-4522"/></vote>
+		<action date="1185249600" datetime="2007-07-24"><text>Referred to the Subcommittee on Healthy Families and Communities.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/7/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes National Physical Education and Sports Week and the central role of physical activity and sports in creating a healthy lifestyle for all children and youth. Urges communities to work with schools and key stakeholders of the community to craft and implement a local wellness plan, as required by the Child Nutrition and WIC Reauthorization Act of 2004, that includes goals for physical activity, nutrition education, and other school-based activities to promote physical education, as well as nutrition guidelines for foods sold in schools, implementation plans, and measures to determine effectiveness.<br/>Encourages schools to offer physical education classes to students and work with community partners to provide opportunities and safe spaces for physical activities before and after school and during the summer for all children and youth.<br/>
+	</summary>
+</bill>

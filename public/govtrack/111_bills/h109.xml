@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="109" updated="2009-03-07T10:00:32-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">America's Affordable Health Care Act of 2009</title>
+		<title type="official" as="introduced">To provide for the offering of Health Benefit Plans to individuals, to increase funding for State high risk health insurance pools, and to promote best practice protocols for State high risk pools.</title>
+	</titles>
+	<sponsor id="400640"/>
+	<cosponsors>
+		<cosponsor id="400051" joined="2009-01-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Government information and archives"/>
+		<term name="Government investigations"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Licensing and registrations"/>
+		<term name="State and local finance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>America's Affordable Health Care Act of 2009 - Authorizes a health insurance issuer to apply to the Secretary of Health and Human Services to certify health insurance coverage policies offered in the individual market in any state as Health Benefit Plans. Allows certified plans to be offered to individuals in all states without regard to state and local laws respecting mandates for benefits. Requires such plans to cover inpatient hospital services and physicians' surgical and medical services. Requires the Secretary to review the impact of this Act on the availability and purchase of health insurance coverage. Amends the Public Health Service Act to increase the authorization of appropriations for FY2010-FY2014 for grants to states for the creation and operation of qualified high risk health insurance pools. Conditions eligibility for receiving an operating grant on a state submitting to the Secretary evidence-based information on the operation of such pool for purposes of creating best practice guidelines. Requires the Secretary to: (1) recommend and publicly post a list of best practices on the operation of qualified high risk pools; and (2) give a bonus grant to states that demonstrate that their pool was operated in accordance with such best practices.<br/>
+	</summary>
+</bill>

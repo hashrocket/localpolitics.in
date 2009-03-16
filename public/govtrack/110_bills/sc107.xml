@@ -1,0 +1,41 @@
+<bill session="110" type="sc" number="107" updated="2009-01-09T19:53:14-05:00">
+	<status><vote date="1228971600" datetime="2008-12-11" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1228971600" datetime="2008-12-11"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution expressing the sense of Congress regarding the rights of Members of Congress (or any employee of a Member of Congress authorized by that Member) to lead tours of the United States Capitol complex.</title>
+	</titles>
+	<sponsor id="400054"/>
+	<cosponsors>
+		<cosponsor id="300055" joined="2008-12-11"/>
+		<cosponsor id="300052" joined="2008-12-11"/>
+		<cosponsor id="400621" joined="2008-12-11"/>
+		<cosponsor id="300041" joined="2008-12-11"/>
+		<cosponsor id="300077" joined="2008-12-11"/>
+		<cosponsor id="300051" joined="2008-12-11"/>
+		<cosponsor id="400546" joined="2008-12-11"/>
+		<cosponsor id="300014" joined="2008-12-11"/>
+		<cosponsor id="300078" joined="2008-12-11"/>
+	</cosponsors>
+	<actions>
+		<vote date="1228971600" how="by Unanimous Consent" datetime="2008-12-11" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10957"/><reference label="text as passed Senate" ref="CR S10957"/><reference label="text of measure as introduced" ref="CR S10951"/></vote>
+		<action date="1229058000" datetime="2008-12-12"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1230994980" datetime="2009-01-03T11:03:00-05:00"><text>Received in the House.</text></action>
+		<action date="1230958800" datetime="2009-01-03"><text>Referred to the House Committee on House Administration.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/11/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Expresses the sense of Congress that Members of Congress (or their authorized employees) should not be prohibited, with or without prior notice to the Architect of the Capitol (AOC) and other specified officers, from taking guests or visitors into the publicly accessible areas of the U.S. Capitol complex during normal business hours. Expresses the sense of Congress that, at the direction of the Capitol Police Board or the fire marshal, the taking of guests or visitors into such areas by Members or their authorized employees should be temporarily suspended or otherwise subject to restriction for safety or security reasons to the same extent as guided tours of the Capitol led by the AOC or the Capitol Guide Service. Expresses the sense of Congress that nothing in this resolution shall be: (1) construed to affect such authority relating to the movement of such employees through the Capitol; or (2) interpreted to contradict the congressional staff-led tour policy that ensures that tours of the Capitol are conducted by staff members who have undergone mandatory life safety and historical accuracy training.<br/>
+	</summary>
+</bill>

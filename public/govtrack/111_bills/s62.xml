@@ -1,0 +1,35 @@
+<bill session="111" type="s" number="62" updated="2009-03-07T13:39:33-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Broadcaster Freedom Act of 2009</title>
+		<title type="official" as="introduced">A bill to prevent the Federal Communications Commission from repromulgating the fairness doctrine.</title>
+	</titles>
+	<sponsor id="300055"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="226" />
+		<bill relation="identical" session="111" type="s" number="34" />
+	</relatedbills>
+	<subjects>
+		<term name="Science, technology, communications"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Broadcasting, cable, digital media"/>
+		<term name="Federal Communications Commission (FCC)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Broadcaster Freedom Act of 2009 - Amends the Communications Act of 1934 to prohibit the Federal Communications Commission (FCC), notwithstanding any other provision of any Act, from having the authority to require broadcasters to present opposing viewpoints on controversial issues of public importance, commonly referred to as the Fairness Doctrine.<br/>
+	</summary>
+</bill>

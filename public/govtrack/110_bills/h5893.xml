@@ -1,0 +1,54 @@
+<bill session="110" type="h" number="5893" updated="2009-01-09T05:04:00-05:00">
+	<status><enacted date="1222920000" datetime="2008-10-02" /></status>
+
+	<introduced date="1209009600" datetime="2008-04-24"/>
+	<titles>
+		<title type="short" as="introduced">Library of Congress Sound Recording and Film Preservation Programs Reauthorization Act of 2008</title>
+		<title type="short" as="reported to house">Library of Congress Sound Recording and Film Preservation Programs Reauthorization Act of 2008</title>
+		<title type="short" as="passed house">Library of Congress Sound Recording and Film Preservation Programs Reauthorization Act of 2008</title>
+		<title type="short" as="passed senate">Library of Congress Sound Recording and Film Preservation Programs Reauthorization Act of 2008</title>
+		<title type="short" as="enacted">Library of Congress Sound Recording and Film Preservation Programs Reauthorization Act of 2008</title>
+		<title type="official" as="introduced">To reauthorize the sound recording and film preservation programs of the Library of Congress, and for other purposes.</title>
+	</titles>
+	<sponsor id="400047"/>
+	<cosponsors>
+		<cosponsor id="400080" joined="2008-06-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1209009600" datetime="2008-04-24"><text>Referred to the Committee on House Administration, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1209009600" datetime="2008-04-24"><text>Referred to House House Administration</text></action>
+		<action date="1209009600" datetime="2008-04-24"><text>Referred to House Judiciary</text></action>
+		<action date="1210132800" datetime="2008-05-07"><committee name="House House Administration"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1210132800" datetime="2008-05-07" ><committee name="House House Administration"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1212585300" datetime="2008-06-04T10:15:00-04:00"><text>Reported (Amended) by the Committee on House Administration. H. Rept. 110-683, Part I.</text></action>
+		<action date="1212585300" datetime="2008-06-04T10:15:00-04:00"><text>Committee on Judiciary discharged.</text></action>
+		<calendar number="428" date="1212585300" datetime="2008-06-04T10:15:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 428.</text></calendar>
+		<action date="1212635160" datetime="2008-06-04T12:06:00-04:00"><text>Mr. Brady (PA) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1212635220" datetime="2008-06-04T12:07:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4899-4901"/></action>
+		<action date="1212635220" datetime="2008-06-04T12:07:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5893.</text></action>
+		<vote date="1212635640" how="by voice vote" datetime="2008-06-04T12:14:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H4899"/></vote>
+		<action date="1212638400" datetime="2008-06-05"><text>Received in the Senate and Read twice and referred to the Committee on Rules and Administration.</text></action>
+		<action date="1221537600" datetime="2008-09-16"><text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S8875"/></action>
+		<vote date="1221537600" how="by Unanimous Consent" datetime="2008-09-16" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<topresident date="1221537600" datetime="2008-09-16" ><text>Cleared for White House.</text></topresident>
+		<action date="1221624000" datetime="2008-09-17"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1222142400" datetime="2008-09-23" ><text>Presented to President.</text></topresident>
+		<signed date="1222920000" datetime="2008-10-02" ><text>Signed by President.</text></signed>
+		<enacted number="110-336" date="1222920000" datetime="2008-10-02" type="public" ><text>Became Public Law No: 110-336.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/2/2008--Public Law. (This measure has not been amended since it was passed by the House on June 4, 2008. The summary of that version is repeated here.)<br/>Library of Congress Sound Recording and Film Preservation Programs Reauthorization Act of 2008 - Amends the National Recording Preservation Act of 2000 to authorize appropriations through FY2016 for: (1) Library of Congress activities for the maintenance and preservation of sound recordings that are culturally, historically, or aesthetically significant; and (2) the National Recording Preservation Foundation to accept and administer private gifts to promote and ensure the preservation and public accessibility of the nation's sound recording heritage held at the Library of Congress and other public and nonprofit archives.<br/>Revises the standards for removal by the Librarian of Congress of a member of the Library's National Recording Preservation Board.<br/>Allows board members of the National Recording Preservation Foundation to serve more than two consecutive terms.<br/>Amends the National Film Preservation Act of 1996 to authorize appropriations through FY2016 for the Library's National Film Preservation Board. Updates the names of organizations that represent the Board. Authorizes appropriations to the Library through FY2016 for the National Film Preservation Foundation. Adds to the purposes of the Foundation the encouragement, acceptance, and administration of private gifts to ensure the repatriation of American films from foreign archives.<br/>
+	</summary>
+</bill>

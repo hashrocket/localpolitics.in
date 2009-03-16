@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="668" updated="2009-03-07T11:06:16-05:00">
+	<status><introduced date="1232686800" datetime="2009-01-23"/></status>
+
+	<introduced date="1232686800" datetime="2009-01-23"/>
+	<titles>
+		<title type="short" as="introduced">Critical Access Hospital Flexibility Act of 2009</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide flexibility in the manner in which beds are counted for purposes of determining whether a hospital may be designated as a critical access hospital under the Medicare Program and to exempt from the critical access hospital inpatient bed limitation the number of beds provided for certain veterans.</title>
+	</titles>
+	<sponsor id="400419"/>
+	<cosponsors>
+		<cosponsor id="400659" joined="2009-02-03"/>
+		<cosponsor id="400218" joined="2009-01-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1232686800" datetime="2009-01-23"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="307" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Health care coverage and access"/>
+		<term name="Health facilities and institutions"/>
+		<term name="Medicare"/>
+		<term name="Rural conditions and development"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/23/2009--Introduced.<br/>Critical Access Hospital Flexibility Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act with respect to state Medicare rural hospital flexibility programs, in particular the criteria for designation of critical access hospitals. Revises requirements for the counting of beds for purposes of determining whether a hospital may be designated as a critical access hospital. Allows a facility to provide a maximum of 20 (currently 25) acute care inpatient beds, as determined on an annual, average basis. Declares that only occupied beds shall be counted. Exempts from the critical access hospital inpatient bed limitation beds provided to certain veterans.<br/>
+	</summary>
+</bill>

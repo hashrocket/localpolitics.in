@@ -1,0 +1,50 @@
+<bill session="110" type="h" number="1045" updated="2009-01-08T19:01:07-05:00">
+	<status><enacted date="1198645200" datetime="2007-12-26" /></status>
+
+	<introduced date="1171429200" datetime="2007-02-14"/>
+	<titles>
+		<title type="official" as="introduced">To designate the Federal building located at 210 Walnut Street in Des Moines, Iowa, as the &quot;Neal Smith Federal Building&quot;.</title>
+	</titles>
+	<sponsor id="400042"/>
+	<cosponsors>
+		<cosponsor id="412208" joined="2007-02-28"/>
+		<cosponsor id="412209" joined="2007-02-28"/>
+		<cosponsor id="400234" joined="2007-02-28"/>
+		<cosponsor id="400334" joined="2007-02-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1171429200" datetime="2007-02-14"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1171515600" datetime="2007-02-15"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1172725200" datetime="2007-03-01"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1172725200" datetime="2007-03-01" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1173738360" datetime="2007-03-12T19:26:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 110-46.</text></action>
+		<calendar number="24" date="1173738360" datetime="2007-03-12T19:26:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 24.</text></calendar>
+		<action date="1173805200" datetime="2007-03-13T14:00:00-04:00"><text>Mr. Boswell moved to suspend the rules and pass the bill.</text></action>
+		<action date="1173805200" datetime="2007-03-13T14:00:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2460-2461"/></action>
+		<action date="1173805200" datetime="2007-03-13T14:00:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1045.</text></action>
+		<vote date="1173805560" how="by voice vote" datetime="2007-03-13T14:06:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H2460"/></vote>
+		<action date="1173844800" datetime="2007-03-14"><text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<action date="1198040400" datetime="2007-12-19"><text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S16055"/></action>
+		<vote date="1198040400" how="by Unanimous Consent" datetime="2007-12-19" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<topresident date="1198040400" datetime="2007-12-19" ><text>Cleared for White House.</text></topresident>
+		<action date="1198126800" datetime="2007-12-20"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1198126800" datetime="2007-12-20" ><text>Presented to President.</text></topresident>
+		<signed date="1198645200" datetime="2007-12-26" ><text>Signed by President.</text></signed>
+		<enacted number="110-158" date="1198645200" datetime="2007-12-26" type="public" ><text>Became Public Law No: 110-158.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/26/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the federal building located at 210 Walnut Street in Des Moines, Iowa, as the &quot;Neal Smith Federal Building.&quot;<br/>
+	</summary>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="111" type="h" number="1001" updated="2009-03-07T11:46:09-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="short" as="introduced">Nursing Relief Act of 2009</title>
+		<title type="official" as="introduced">To create a new nonimmigrant visa category for registered nurses, and for other purposes.</title>
+	</titles>
+	<sponsor id="400368"/>
+	<cosponsors>
+		<cosponsor id="400134" joined="2009-02-11"/>
+		<cosponsor id="400310" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the House Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Introduced.<br/>Nursing Relief Act of 2009 - Amends the Immigration and Nationality Act to establish a nonimmigrant visa category (W-visa) for an alien coming to the United States to work as a professional nurse. Sets forth employer petition provisions.<br/>
+	</summary>
+</bill>

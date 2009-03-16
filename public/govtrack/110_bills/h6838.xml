@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="6838" updated="2009-01-09T06:55:36-05:00">
+	<status><vote date="1222553160" datetime="2008-09-27T19:06:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1220846400" datetime="2008-09-08"/>
+	<titles>
+		<title type="short" as="introduced">CAMPUS Safety Act of 2008</title>
+		<title type="short" as="introduced">Center to Advance, Monitor, and Preserve University Security Safety Act of 2008</title>
+		<title type="short" as="passed house">CAMPUS Safety Act of 2008</title>
+		<title type="short" as="passed house">Center to Advance, Monitor, and Preserve University Security Safety Act of 2008</title>
+		<title type="official" as="introduced">To establish and operate a National Center for Campus Public Safety.</title>
+	</titles>
+	<sponsor id="400364"/>
+	<cosponsors>
+		<cosponsor id="400184" joined="2008-09-26"/>
+		<cosponsor id="400355" joined="2008-09-26"/>
+		<cosponsor id="400360" joined="2008-09-26"/>
+		<cosponsor id="412236" joined="2008-09-26"/>
+		<cosponsor id="400651" joined="2008-09-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1220846400" datetime="2008-09-08"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1222552980" datetime="2008-09-27T19:03:00-04:00"><text>Ms. Lofgren, Zoe moved to suspend the rules and pass the bill.</text></action>
+		<action date="1222552980" datetime="2008-09-27T19:03:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10267-10268"/></action>
+		<action date="1222553040" datetime="2008-09-27T19:04:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6838.</text></action>
+		<vote date="1222553160" how="by voice vote" datetime="2008-09-27T19:06:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H10267-10268"/></vote>
+		<action date="1222660800" datetime="2008-09-29"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/27/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Center to Advance, Monitor, and Preserve University Security Safety Act of 2008, or the CAMPUS Safety Act of 2008 - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to authorize the Director of the Office of Community Oriented Policing Services to establish and operate a National Center for Campus Public Safety. Tasks the Center with strengthening the safety and security of institutions of higher education (IHEs) by: (1) training IHE public safety agencies and their collaborative partners; (2) fostering safety-related research; (3) collecting, coordinating, and disseminating information and best practices regarding campus safety; (4) developing protocols to prevent, protect against, respond to, and recover from, natural and man-made emergencies that threaten the campus community; and (5) increasing cooperation between IHEs and the law enforcement, mental health, and other agencies and jurisdictions that serve them. Authorizes the Director to award grants to IHEs and other nonprofit organizations for activities that will assist the Center in performing its functions. Requires the Director to coordinate the establishment and operation of the Center with campus public safety resources available within the Department of Homeland Security and the Department of Education. Authorizes appropriations for the Center from FY2009-FY2013.<br/>
+	</summary>
+</bill>

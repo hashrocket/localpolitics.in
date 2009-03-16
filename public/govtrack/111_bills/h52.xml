@@ -1,0 +1,52 @@
+<bill session="111" type="h" number="52" updated="2009-03-07T09:53:54-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Tropical Forest and Coral Conservation Act</title>
+		<title type="official" as="introduced">To amend the Tropical Forest Conservation Act of 1998 to provide debt relief to developing countries that take action to protect tropical forests and coral reefs and associated coastal marine ecosystems, to reauthorize such Act through fiscal year 2011, and for other purposes.</title>
+	</titles>
+	<sponsor id="400222"/>
+	<cosponsors>
+		<cosponsor id="400640" joined="2009-02-13"/>
+		<cosponsor id="400041" joined="2009-02-13"/>
+		<cosponsor id="400057" joined="2009-02-13"/>
+		<cosponsor id="400259" joined="2009-02-13"/>
+		<cosponsor id="400162" joined="2009-02-13"/>
+		<cosponsor id="400170" joined="2009-01-06"/>
+		<cosponsor id="412200" joined="2009-02-13"/>
+		<cosponsor id="412186" joined="2009-02-13"/>
+		<cosponsor id="400119" joined="2009-02-13"/>
+		<cosponsor id="400283" joined="2009-02-13"/>
+		<cosponsor id="400033" joined="2009-02-13"/>
+		<cosponsor id="400312" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR E-8)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Foreign Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="345" />
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Aquatic ecology"/>
+		<term name="Foreign loans and debt"/>
+		<term name="Forests"/>
+		<term name="International law and treaties"/>
+		<term name="International organizations and cooperation"/>
+		<term name="Land transfers"/>
+		<term name="Land use and conservation"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Tropical Forest and Coral Conservation Act - Amends the Tropical Forest Conservation Act of 1998 to make forests, coral reefs, and associated coastal marine ecosystem activities eligible for U.S. debt reduction benefits for developing countries. (Currently, such provision applies to tropical forests.) Renames: (1) the Tropical Forest Facility as the Conservation Facility; and (2) a Tropical Forest Agreement as a Conservation Agreement. Extends authorization of appropriations for debt reduction. Authorizes U.S. government representation on the administering body that oversees the implementation of grants arising from debt-for-nature swap or debt buy-back regardless of whether the United States is a party to any agreement between the purchaser and the beneficiary country government.<br/>
+	</summary>
+</bill>

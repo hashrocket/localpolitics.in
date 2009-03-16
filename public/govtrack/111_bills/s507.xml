@@ -1,0 +1,35 @@
+<bill session="111" type="s" number="507" updated="2009-03-07T14:33:37-05:00">
+	<status><introduced date="1235970000" datetime="2009-03-02"/></status>
+
+	<introduced date="1235970000" datetime="2009-03-02"/>
+	<titles>
+		<title type="short" as="introduced">Non-Foreign AREA Act of 2009</title>
+		<title type="short" as="introduced">Non-Foreign Area Retirement Equity Assurance Act of 2009</title>
+		<title type="official" as="introduced">A bill to provide for retirement equity for Federal employees in nonforeign areas outside the 48 contiguous States and the District of Columbia, and for other purposes.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2009-03-02"/>
+		<cosponsor id="300075" joined="2009-03-02"/>
+		<cosponsor id="412326" joined="2009-03-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1235970000" datetime="2009-03-02"><text>Sponsor introductory remarks on measure. (CR S2638)</text></action>
+		<action date="1235970000" datetime="2009-03-02"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text><reference label="text of measure as introduced" ref="CR S2638-2641"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

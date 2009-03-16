@@ -1,0 +1,38 @@
+<bill session="111" type="hr" number="168" updated="2009-03-07T13:26:39-05:00">
+	<status><vote date="1234538100" datetime="2009-02-13T11:15:00-05:00" where="h" result="pass" how="roll" roll="67"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the conference report to accompany the bill (H.R. 1) making supplemental appropriations for job preservation and creation, infrastructure investment, energy efficiency and science, assistance to the unemployed, and State and local fiscal stabilization, for the fiscal year ending September 30, 2009, and for other purposes.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar date="1234540860" datetime="2009-02-13T00:01:00-05:00" ><text>Placed on the House Calendar, Calendar No. 11.</text></calendar>
+		<action date="1234540860" datetime="2009-02-13T00:01:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 111-17, by Ms. Slaughter.</text></action>
+		<action date="1234540860" datetime="2009-02-13T00:01:00-05:00"><text>The resolution provides 90 minutes of debate on the conference report. The resolution waives all points of order against consideration of the conference report except those arising under clause 9 of rule XXI and provides that the conference report be considered as read. The resolution waives all points of order against the conference report. The waiver does not affect the point of order available under clause 9 of rule XXI. Finally, the resolution provides one motion to recommit, if applicable.</text></action>
+		<action date="1234530720" datetime="2009-02-13T09:12:00-05:00"><text>By the direction of the Committee on Rules, Mr. Perlmutter called up H.Res. 168 and asked for its immediate consideration.</text><reference label="consideration" ref="CR H1524-1536"/></action>
+		<action date="1234530720" datetime="2009-02-13T09:12:00-05:00"><text>POINT OF ORDER - Mr. Dreier raised a point of order against the provisions of H.Res. 168 because it violates the Congressional Budget Act. The Chair announced that the disposition of the point of order would be resolved by the question of consideration of H.Res. 168. The House proceeded with 20 minutes of debate on the point of order at the end of which the Chair will put the question on consideration.</text></action>
+		<action date="1234531620" datetime="2009-02-13T09:27:00-05:00"><text>On question of consideration of resolution Agreed to by voice vote.</text><reference label="consideration" ref="CR H1524-1526"/></action>
+		<action date="1234531680" datetime="2009-02-13T09:28:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 168.</text></action>
+		<action date="1234537620" datetime="2009-02-13T11:07:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 234 - 194 (Roll no. 66). (consideration: H1535-1536)</text></action>
+		<vote date="1234538100" how="roll" roll="67" datetime="2009-02-13T11:15:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 231 - 194 (Roll no. 67).</text><reference label="text" ref="CR H1524"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Rules" subcommittee="" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="1" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Sets forth the rule for consideration of the conference report to accompany the bill (H.R. 1) making supplemental appropriations for job preservation and creation, infrastructure investment, energy efficiency and science, assistance to the unemployed, and State and local fiscal stabilization, for the fiscal year ending September 30, 2009.<br/>
+	</summary>
+</bill>

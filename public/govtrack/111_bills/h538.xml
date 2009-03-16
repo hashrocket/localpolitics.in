@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="538" updated="2009-03-07T10:50:54-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="short" as="introduced">Child Tax Credit Growth Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to reduce the earned income threshold applicable to the refundable portion of the child tax credit and to increase the age limit for such credit.</title>
+	</titles>
+	<sponsor id="400309"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2009-01-27"/>
+		<cosponsor id="400073" joined="2009-02-03"/>
+		<cosponsor id="400645" joined="2009-01-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax credits"/>
+		<term name="Inflation and prices"/>
+		<term name="Tax treatment of families"/>
+		<term name="Wages and earnings"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/14/2009--Introduced.<br/>Child Tax Credit Growth Act of 2009 - Amends the Internal Revenue Code to: (1) reduce from $10,000 to $5,000 the income threshold for calculating the refundable portion of the child tax credit; (2) repeal the annual inflation adjustment to such threshold amount; and (3) increase from 17 to 19 the age limit for dependent children eligible for such credit. 
+	</summary>
+</bill>

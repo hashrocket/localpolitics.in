@@ -1,0 +1,35 @@
+<bill session="110" type="s" number="3521" updated="2009-01-09T19:13:52-05:00">
+	<status><vote date="1222920000" datetime="2008-10-02" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1221710400" datetime="2008-09-18"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the facility of the United States Postal Service located at 95 Dogwood Street in Cary, Mississippi, as the &quot;Spencer Byrd Powers Jr. Post Office&quot;.</title>
+	</titles>
+	<sponsor id="300023"/>
+	<cosponsors>
+		<cosponsor id="400432" joined="2008-09-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1221710400" datetime="2008-09-18"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S10422"/></action>
+		<vote date="1222920000" how="by Unanimous Consent" datetime="2008-10-02" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="text" ref="CR S10422"/></vote>
+		<action date="1223043960" datetime="2008-10-03T11:26:00-04:00"><text>Received in the House.</text></action>
+		<action date="1223006400" datetime="2008-10-03"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1223064540" datetime="2008-10-03T17:09:00-04:00"><text>Held at the desk.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/18/2008--Introduced.<br/>Designates the facility of the United States Postal Service located at 95 Dogwood Street in Cary, Mississippi, as the &quot;Spencer Byrd Powers Jr. Post Office.&quot;<br/>
+	</summary>
+</bill>

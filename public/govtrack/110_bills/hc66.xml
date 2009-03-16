@@ -1,0 +1,44 @@
+<bill session="110" type="hc" number="66" updated="2009-01-08T15:35:11-05:00">
+	<status><vote2 date="1174881600" datetime="2007-03-26" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1171515600" datetime="2007-02-15"/>
+	<titles>
+		<title type="official" as="introduced">Permitting the use of the rotunda of the Capitol for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</title>
+	</titles>
+	<sponsor id="400425"/>
+	<cosponsors>
+		<cosponsor id="400059" joined="2007-02-15"/>
+		<cosponsor id="400060" joined="2007-02-15"/>
+		<cosponsor id="400430" joined="2007-03-19"/>
+		<cosponsor id="400170" joined="2007-03-19"/>
+		<cosponsor id="400231" joined="2007-02-15"/>
+		<cosponsor id="400235" joined="2007-02-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1171515600" datetime="2007-02-15"><text>Referred to the House Committee on House Administration.</text></action>
+		<action date="1174511880" datetime="2007-03-21T18:18:00-04:00"><text>Mrs. Davis (CA) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1174511940" datetime="2007-03-21T18:19:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2793-2795"/></action>
+		<action date="1174511940" datetime="2007-03-21T18:19:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 66.</text></action>
+		<action date="1174512420" datetime="2007-03-21T18:27:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1174619100" datetime="2007-03-22T12:05:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2837-2838"/></action>
+		<vote date="1174619580" how="roll" roll="181" datetime="2007-03-22T12:13:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 181). (text: CR 3/21/2007 H2793)</text></vote>
+		<action date="1174622400" datetime="2007-03-23"><text>Received in the Senate.</text></action>
+		<vote date="1174881600" how="by Unanimous Consent" datetime="2007-03-26" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S3779"/></vote>
+		<action date="1174881600" datetime="2007-03-26"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/26/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes the use of the Capitol rotunda on April 19, 2007, for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.<br/>
+	</summary>
+</bill>

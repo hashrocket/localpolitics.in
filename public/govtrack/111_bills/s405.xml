@@ -1,0 +1,52 @@
+<bill session="111" type="s" number="405" updated="2009-03-07T14:21:37-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="short" as="introduced">Artist-Museum Partnership Act</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide that a deduction equal to fair market value shall be allowed for charitable contributions of literary, musical, artistic, or scholarly compositions created by the donor.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="300007" joined="2009-02-10"/>
+		<cosponsor id="400050" joined="2009-02-10"/>
+		<cosponsor id="400064" joined="2009-02-11"/>
+		<cosponsor id="300059" joined="2009-02-10"/>
+		<cosponsor id="300011" joined="2009-02-10"/>
+		<cosponsor id="300038" joined="2009-02-10"/>
+		<cosponsor id="300006" joined="2009-02-10"/>
+		<cosponsor id="300087" joined="2009-02-10"/>
+		<cosponsor id="300034" joined="2009-02-10"/>
+		<cosponsor id="400357" joined="2009-02-10"/>
+		<cosponsor id="300043" joined="2009-02-11"/>
+		<cosponsor id="412247" joined="2009-02-10"/>
+		<cosponsor id="400194" joined="2009-03-04"/>
+		<cosponsor id="300058" joined="2009-02-10"/>
+		<cosponsor id="300023" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Sponsor introductory remarks on measure. (CR S2081-2082)</text></action>
+		<action date="1234242000" datetime="2009-02-10"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S2082"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="1126" />
+		<bill relation="unknown" session="111" type="s" number="394" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Art, artists, authorship"/>
+		<term name="Income tax deductions"/>
+		<term name="Literature"/>
+		<term name="Music"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Introduced.<br/>Artist-Museum Partnership Act - Amends the Internal Revenue Code to allow taxpayers who create literary, musical, artistic, or scholarly compositions or similar property a fair market value (determined at the time of contribution) tax deduction for contributions of such properties, the copyrights thereon, or both, to certain tax-exempt organizations, if such properties are properly appraised and are donated no sooner than 18 months after their creation. Limits the amount of such deduction based upon the donor's artistic adjusted gross income, as defined by this Act.<br/>
+	</summary>
+</bill>

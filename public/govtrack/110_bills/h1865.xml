@@ -1,0 +1,42 @@
+<bill session="110" type="h" number="1865" updated="2009-01-08T20:44:37-05:00">
+	<status><calendar date="1216180800" datetime="2008-07-16" /></status>
+
+	<introduced date="1176782400" datetime="2007-04-17"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 31, United States Code, to allow certain local tax debt to be collected through the reduction of Federal tax refunds.</title>
+	</titles>
+	<sponsor id="400098"/>
+	<cosponsors>
+		<cosponsor id="400409" joined="2007-04-17"/>
+		<cosponsor id="400570" joined="2007-04-17"/>
+		<cosponsor id="400411" joined="2007-04-17"/>
+		<cosponsor id="400283" joined="2007-04-17"/>
+		<cosponsor id="400321" joined="2007-04-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1176782400" datetime="2007-04-17"><text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1176782400" datetime="2007-04-17"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1176782400" datetime="2007-04-17"><text>Referred to House Ways and Means</text></action>
+		<action date="1176868800" datetime="2007-04-18"><committee name="House Oversight and Government Reform"/><text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text></action>
+		<action date="1176955200" datetime="2007-04-19"><committee name="House Oversight and Government Reform"/><text>Committee Hearings Held.</text></action>
+		<action date="1178683200" datetime="2007-05-09"><committee name="House Oversight and Government Reform" subcommittee="Government Management, Organization, and Procurement"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1178683200" datetime="2007-05-09"><committee name="House Oversight and Government Reform" subcommittee="Government Management, Organization, and Procurement"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1216180800" datetime="2008-07-16"><committee name="House Oversight and Government Reform"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1216180800" datetime="2008-07-16" ><committee name="House Oversight and Government Reform"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/17/2007--Introduced.<br/>Amends federal monetary law relating to reduction of a tax refund by the amount of a tax debt to establish a pilot program during 2009 and 2010 for the collection of past-due legally enforceable local government tax obligations. Instructs the Secretary of the Treasury, upon receiving notice from any eligible state on behalf of a local government that a named person owes such local government a past-due, legally enforceable tax obligation, to: (1) reduce the federal tax refunds payable to such person by the amount of such debt; (2) pay the amount of such reduction to the state for payment to the affected local government; (3) notify the state of the person's name, taxpayer identification number, address, and the amount collected; and (4) notify the person due the refund that it has been reduced by an amount necessary to satisfy a past-due, legally enforceable tax obligation. Requires the Secretary to select between three and five states to participate in the pilot program, including from among: (1) Illinois; (2) Iowa; (3) Louisiana; (4) New York; (5) Ohio; and (6) Virginia. Amends the Internal Revenue Code to permit disclosure of taxpayer information to agencies of states requesting refund offsets for tax debts owed to local governments. 
+	</summary>
+</bill>

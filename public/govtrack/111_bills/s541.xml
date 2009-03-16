@@ -1,0 +1,36 @@
+<bill session="111" type="s" number="541" updated="2009-03-06T12:02:21-05:00">
+	<status><introduced date="1236229200" datetime="2009-03-05"/></status>
+
+	<introduced date="1236229200" datetime="2009-03-05"/>
+	<titles>
+		<title type="official" as="introduced">A bill to increase the borrowing authority of the Federal Deposit Insurance Corporation, and for other purposes.</title>
+	</titles>
+	<sponsor id="300034"/>
+	<cosponsors>
+		<cosponsor id="300030" joined="2009-03-05"/>
+		<cosponsor id="400194" joined="2009-03-05"/>
+		<cosponsor id="412248" joined="2009-03-05"/>
+		<cosponsor id="400050" joined="2009-03-05"/>
+		<cosponsor id="300010" joined="2009-03-05"/>
+		<cosponsor id="300001" joined="2009-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1236229200" datetime="2009-03-05"><text>Sponsor introductory remarks on measure. (CR S2848)</text></action>
+		<action date="1236229200" datetime="2009-03-05"><text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text><reference label="text of measure as introduced" ref="CR S2848-2849"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

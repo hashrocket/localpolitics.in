@@ -1,0 +1,67 @@
+<bill session="110" type="h" number="160" updated="2009-01-08T17:02:43-05:00">
+	<status><vote date="1222300620" datetime="2008-09-24T20:57:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="short" as="introduced">Revolutionary War and War of 1812 Battlefield Protection Act</title>
+		<title type="short" as="reported to house">Revolutionary War and War of 1812 Battlefield Protection Act</title>
+		<title type="official" as="introduced">To amend the American Battlefield Protection Act of 1996 to establish a battlefield acquisition grant program for the acquisition and protection of nationally significant battlefields and associated sites of the Revolutionary War and the War of 1812, and for other purposes.</title>
+	</titles>
+	<sponsor id="400184"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="2007-11-15"/>
+		<cosponsor id="400263" joined="2007-08-04"/>
+		<cosponsor id="400385" joined="2007-09-18"/>
+		<cosponsor id="400095" joined="2007-09-05"/>
+		<cosponsor id="400268" joined="2007-09-05"/>
+		<cosponsor id="400409" joined="2007-09-05"/>
+		<cosponsor id="400370" joined="2007-09-27"/>
+		<cosponsor id="400216" joined="2008-07-14"/>
+		<cosponsor id="400352" joined="2007-09-05"/>
+		<cosponsor id="400230" joined="2007-12-11"/>
+		<cosponsor id="400277" joined="2008-07-14"/>
+		<cosponsor id="400110" joined="2008-05-20"/>
+		<cosponsor id="400346" joined="2007-08-04"/>
+		<cosponsor id="400178" joined="2007-07-31"/>
+		<cosponsor id="412239" joined="2007-10-29"/>
+		<cosponsor id="400093" joined="2007-09-05"/>
+		<cosponsor id="400012" joined="2007-12-11"/>
+		<cosponsor id="400139" joined="2007-08-04"/>
+		<cosponsor id="400047" joined="2008-07-14"/>
+		<cosponsor id="400033" joined="2007-09-05"/>
+		<cosponsor id="412233" joined="2007-10-31"/>
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1170824400" datetime="2007-02-07"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1215662400" datetime="2008-07-10"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Subcommittee on National Parks, Forests, and Public Lands Discharged.</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1216180800" datetime="2008-07-16" ><text>Ordered to be Reported (Amended) by Unanimous Consent.</text></calendar>
+		<action date="1217371080" datetime="2008-07-29T19:38:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-796.</text></action>
+		<calendar number="514" date="1217371080" datetime="2008-07-29T19:38:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 514.</text></calendar>
+		<action date="1222141980" datetime="2008-09-22T12:53:00-04:00"><text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1222141980" datetime="2008-09-22T12:53:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8491-8493"/></action>
+		<action date="1222141980" datetime="2008-09-22T12:53:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 160.</text></action>
+		<action date="1222099380" datetime="2008-09-22T13:03:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Young (AK) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1222300620" datetime="2008-09-24T20:57:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H9406"/></action>
+		<vote date="1222300620" how="by voice vote" datetime="2008-09-24T20:57:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/22/2008 H8491-8492)</text></vote>
+		<action date="1222315200" datetime="2008-09-25"><text>Received in the Senate.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/29/2008--Reported to House amended. Revolutionary War and War of 1812 Battlefield Protection Act - Amends the American Battlefield Protection Act of 1996 to direct the Secretary of the Interior, acting through the American Battlefield Protection Program, to establish an acquisition grant program for battlefields and associated sites identified in the Report to Congress on the Historic Preservation of Revolutionary War and War of 1812 Sites in the United States (battlefield report). Authorizes the Secretary to provide grants to states or local governments (eligible entities) to pay the federal share of the cost of acquiring fee-simple or lesser interests from willing sellers in such sites. Permits eligible entities to acquire an interest in eligible sites using such grants in partnership with nonprofit organizations. Requires the non-federal share of the cost of acquisition of eligible sites to be not less than 50 percent of the total.<br/>Subjects acquired property to the Land and Water Conservation Fund Act's prohibition against conversion to other than public outdoor recreation uses without the Secretary's approval. Requires the Secretary to submit to Congress a report on activities carried out under this Act and an update of the battlefield report.<br/>Authorizes appropriations to: (1) provide grants under the Program for FY2009 through FY2013; and (2) update the battlefield report. 
+	</summary>
+</bill>

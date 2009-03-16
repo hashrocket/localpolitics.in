@@ -1,0 +1,35 @@
+<bill session="110" type="hr" number="99" updated="2009-01-09T08:05:59-05:00">
+	<status><vote date="1170861900" datetime="2007-02-07T11:25:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1169614800" datetime="2007-01-24"/>
+	<titles>
+		<title type="official" as="introduced">Commending the University of Nebraska-Lincoln volleyball team for winning the NCAA Division I Women's Volleyball Championship.</title>
+	</titles>
+	<sponsor id="412217"/>
+	<cosponsors>
+		<cosponsor id="400640" joined="2007-01-24"/>
+		<cosponsor id="400400" joined="2007-01-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1169614800" datetime="2007-01-24"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1170861180" datetime="2007-02-07T11:13:00-05:00"><text>Mrs. Davis (CA) moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1170861240" datetime="2007-02-07T11:14:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1286-1288"/></action>
+		<action date="1170861240" datetime="2007-02-07T11:14:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 99.</text></action>
+		<vote date="1170861900" how="by voice vote" datetime="2007-02-07T11:25:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H1286"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/7/2007--Passed House amended. Commends the University of Nebraska-Lincoln Husker volleyball team for winning the 2006 National Collegiate Athletic Association (NCAA) Division I Women's Volleyball National Championship.<br/>
+	</summary>
+</bill>

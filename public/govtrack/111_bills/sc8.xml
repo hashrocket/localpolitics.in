@@ -1,0 +1,41 @@
+<bill session="111" type="sc" number="8" updated="2009-03-07T14:36:53-05:00">
+	<status><vote date="1235538000" datetime="2009-02-25" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1235538000" datetime="2009-02-25"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution expressing support for Children's Dental Health Month and honoring the memory of Deamonte Driver.</title>
+	</titles>
+	<sponsor id="400064"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="2009-02-25"/>
+		<cosponsor id="300025" joined="2009-02-25"/>
+		<cosponsor id="300073" joined="2009-02-25"/>
+		<cosponsor id="300084" joined="2009-02-25"/>
+	</cosponsors>
+	<actions>
+		<vote date="1235538000" how="by Unanimous Consent" datetime="2009-02-25" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S2501"/><reference label="text as passed Senate" ref="CR S2501"/><reference label="text of measure as introduced" ref="CR S2489"/></vote>
+		<action date="1235656980" datetime="2009-02-26T10:03:00-05:00"><text>Received in the House.</text></action>
+		<action date="1235624400" datetime="2009-02-26"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1235668860" datetime="2009-02-26T13:21:00-05:00"><text>Held at the desk.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="hc" number="56" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Child health"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Dental care"/>
+		<term name="Health promotion and preventive care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/25/2009--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Expresses support for Children's Dental Health Month. Honors the life of Deamonte Driver.<br/>
+	</summary>
+</bill>

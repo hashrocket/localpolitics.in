@@ -1,0 +1,41 @@
+<bill session="110" type="hr" number="1291" updated="2009-01-09T10:34:59-05:00">
+	<status><vote date="1214536140" datetime="2008-06-26T12:09:00-04:00" where="h" result="pass" how="roll" roll="464"/></status>
+
+	<introduced date="1213934400" datetime="2008-06-20"/>
+	<titles>
+		<title type="official" as="introduced">Expressing gratitude for the contributions of the American GI Forum on its 60th anniversary.</title>
+	</titles>
+	<sponsor id="400339"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2008-06-23"/>
+		<cosponsor id="400620" joined="2008-06-23"/>
+		<cosponsor id="400337" joined="2008-06-23"/>
+		<cosponsor id="400302" joined="2008-06-20"/>
+		<cosponsor id="400021" joined="2008-06-23"/>
+		<cosponsor id="400009" joined="2008-06-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1213934400" datetime="2008-06-20"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1214346540" datetime="2008-06-24T19:29:00-04:00"><text>Mr. Filner moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1214346600" datetime="2008-06-24T19:30:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5975-5977"/></action>
+		<action date="1214346600" datetime="2008-06-24T19:30:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1291.</text></action>
+		<action date="1214347860" datetime="2008-06-24T19:51:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1214535720" datetime="2008-06-26T12:02:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6102-6103"/></action>
+		<vote date="1214536140" how="roll" roll="464" datetime="2008-06-26T12:09:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 464). (text: CR 6/24/2008 H5975)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/26/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the need for equal access to veterans' benefits for all who have honorably served. Supports the goals, ideals, and deeds of the American GI Forum and its members. Commends the work of the American GI Forum on its 60th anniversary. Encourages others to join with the American GI Forum to ensure that veterans are never again denied the benefits they rightfully deserve. 
+	</summary>
+</bill>

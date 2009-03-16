@@ -1,0 +1,53 @@
+<bill session="110" type="h" number="990" updated="2009-01-08T18:53:56-05:00">
+	<status><vote date="1172607060" datetime="2007-02-27T16:11:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1171256400" datetime="2007-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Pell Grant Equity Act of 2007</title>
+		<title type="short" as="passed house">Pell Grant Equity Act of 2007</title>
+		<title type="official" as="introduced">To provide all low-income students with the same opportunity to receive a Pell Grant by eliminating the tuition sensitivity provision in the Pell Grant program.</title>
+		<title type="official" as="amended by house">To provide all low-income students with the same opportunity to receive a Pell Grant by suspending the tuition sensitivity provision in the Pell Grant program.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+		<cosponsor id="400407" joined="2007-02-27"/>
+		<cosponsor id="400170" joined="2007-02-27"/>
+		<cosponsor id="400267" joined="2007-02-12"/>
+		<cosponsor id="400396" joined="2007-02-27"/>
+		<cosponsor id="400663" joined="2007-02-27"/>
+		<cosponsor id="400212" joined="2007-02-12"/>
+		<cosponsor id="412204" joined="2007-02-27"/>
+		<cosponsor id="400653" joined="2007-02-27"/>
+		<cosponsor id="400195" joined="2007-02-27"/>
+		<cosponsor id="412236" joined="2007-02-27"/>
+		<cosponsor id="400093" joined="2007-02-27"/>
+		<cosponsor id="400097" joined="2007-02-27"/>
+		<cosponsor id="400179" joined="2007-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1171256400" datetime="2007-02-12"><text>Sponsor introductory remarks on measure. (CR E326)</text></action>
+		<action date="1171256400" datetime="2007-02-12"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1172606400" datetime="2007-02-27T16:00:00-05:00"><text>Mr. Miller, George moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1172606400" datetime="2007-02-27T16:00:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1919-1921"/></action>
+		<action date="1172606400" datetime="2007-02-27T16:00:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 990.</text></action>
+		<vote date="1172607060" how="by voice vote" datetime="2007-02-27T16:11:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H1919"/></vote>
+		<action date="1172607060" datetime="2007-02-27T16:11:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1172638800" datetime="2007-02-28"><text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+		<action date="1181016000" datetime="2007-06-05"><text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/27/2007--Passed House amended. Pell Grant Equity Act of 2007 - Amends the Higher Education Act of 1965 to make the formula for calculation of an individual Pell Grant which includes, in part, the sum of the student's tuition, inapplicable for the 2007-2008 academic year. (Thus suspends for such year the &quot;tuition sensitivity provision&quot; which prohibits maximum Pell Grant awards to students attending low-tuition institutions of higher education even if their income is low enough to otherwise qualify for the maximum award.) Amends the Federal Family Education Loan program to lower from 23% to 22% for FY2008, the percentage of a borrower's student loan payment made subsequent to default that a guaranty agency may retain for deposit in its operating fund if the Secretary of Education has already reimbursed it for such default.<br/>
+	</summary>
+</bill>

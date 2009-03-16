@@ -1,0 +1,41 @@
+<bill session="110" type="h" number="2559" updated="2009-01-08T22:10:31-05:00">
+	<status><vote date="1181138760" datetime="2007-06-06T11:06:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1181016000" datetime="2007-06-05"/>
+	<titles>
+		<title type="short" as="introduced">First Higher Education Extension Act of 2007</title>
+		<title type="short" as="passed house">First Higher Education Extension Act of 2007</title>
+		<title type="official" as="introduced">To temporarily extend the programs under the Higher Education Act of 1965, and for other purposes.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+		<cosponsor id="400267" joined="2007-06-05"/>
+		<cosponsor id="400212" joined="2007-06-05"/>
+		<cosponsor id="400179" joined="2007-06-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1181016000" datetime="2007-06-05"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1181138280" datetime="2007-06-06T10:58:00-04:00"><text>Mr. Hinojosa moved to suspend the rules and pass the bill.</text></action>
+		<action date="1181138280" datetime="2007-06-06T10:58:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6018-6019"/></action>
+		<action date="1181138280" datetime="2007-06-06T10:58:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2559.</text></action>
+		<vote date="1181138760" how="by voice vote" datetime="2007-06-06T11:06:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H6018-6019"/></vote>
+		<action date="1181188800" datetime="2007-06-07"><text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+		<action date="1184644800" datetime="2007-07-17"><text>Star Print ordered on the bill.</text></action>
+		<action date="1185249600" datetime="2007-07-24"><text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/6/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) First Higher Education Extension Act of 2007 - Amends the Higher Education Extension Act of 2005 to extend the programs under the Higher Education Act of 1965 through October 31, 2007.<br/>
+	</summary>
+</bill>

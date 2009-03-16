@@ -1,0 +1,33 @@
+<bill session="110" type="hc" number="179" updated="2009-01-08T15:49:49-05:00">
+	<status><vote2 date="1183003200" datetime="2007-06-28" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1183003200" datetime="2007-06-28"/>
+	<titles>
+		<title type="official" as="introduced">Providing for a conditional adjournment of the House of Representatives and a conditional recess or adjournment of the Senate.</title>
+	</titles>
+	<sponsor id="400366"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1183059120" datetime="2007-06-28T16:32:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H7391"/><reference label="text" ref="CR H7391"/></action>
+		<vote date="1183059240" how="without objection" datetime="2007-06-28T16:34:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text></vote>
+		<vote date="1183003200" how="by Unanimous Consent" datetime="2007-06-28" where="s" type="vote2" result="pass" ><text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S8723-8724"/><reference label="text as passed Senate" ref="CR S8724"/></vote>
+		<action date="1183003200" datetime="2007-06-28"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/28/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Provides for an adjournment of the House of Representatives from June 28 or 29, 2007, until July 10, 2007 (or until another time of reassembly under this concurrent resolution), and a recess or an adjournment of the Senate from June 29 or 30, 2007, or July 1 or 2, 2007, until July 9, 2007 (or until another time of reassembly). Authorizes the Speaker of the House and the Majority Leader of the Senate, or their respective designees, acting jointly after consultation with the Minority Leaders of the House and of the Senate, to notify the Members of the House and the Senate, respectively, to reassemble at such place and time as they may designate whenever, in their opinion, the public interest shall warrant it.<br/>
+	</summary>
+</bill>

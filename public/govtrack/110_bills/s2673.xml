@@ -1,0 +1,36 @@
+<bill session="110" type="s" number="2673" updated="2009-01-09T17:25:44-05:00">
+	<status><calendar date="1207800000" datetime="2008-04-10" /></status>
+
+	<introduced date="1204174800" datetime="2008-02-28"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the facility of the United States Postal Service located at 10799 West Alameda Avenue in Lakewood, Colorado, as the &quot;Felix Sparks Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="300003"/>
+	<cosponsors>
+		<cosponsor id="400619" joined="2008-04-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1204174800" datetime="2008-02-28"><text>Sponsor introductory remarks on measure. (CR S1386)</text></action>
+		<action date="1204174800" datetime="2008-02-28"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text><reference label="text of measure as introduced" ref="CR S1386"/></action>
+		<action date="1206676800" datetime="2008-03-28"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+		<calendar date="1207800000" datetime="2008-04-10" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1207800000" datetime="2008-04-10"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="696" date="1207800000" datetime="2008-04-10" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 696.</text></calendar>
+		<action date="1210564800" datetime="2008-05-12"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S4046"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/28/2008--Introduced.<br/>Designates the facility of the United States Postal Service located at 10799 West Alameda Avenue in Lakewood, Colorado, as the &quot;Felix Sparks Post Office Building.&quot;<br/>
+	</summary>
+</bill>

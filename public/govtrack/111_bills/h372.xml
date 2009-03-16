@@ -1,0 +1,46 @@
+<bill session="111" type="h" number="372" updated="2009-03-07T10:31:13-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">San Joaquin River Restoration Settlement Act</title>
+		<title type="official" as="introduced">To authorize implementation of the San Joaquin River Restoration Settlement, and for other purposes.</title>
+	</titles>
+	<sponsor id="400618"/>
+	<cosponsors>
+		<cosponsor id="400330" joined="2009-01-09"/>
+		<cosponsor id="400065" joined="2009-01-09"/>
+		<cosponsor id="412189" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on Water and Power.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Water and Power" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="161" />
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="California"/>
+		<term name="Dams and canals"/>
+		<term name="Electric power generation and transmission"/>
+		<term name="Fishes"/>
+		<term name="Floods and storm protection"/>
+		<term name="Government investigations"/>
+		<term name="Land transfers"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Water quality"/>
+		<term name="Water resources funding"/>
+		<term name="Water use and supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>San Joaquin River Restoration Settlement Act - Directs the Secretary of the Interior (the Secretary), in cooperation with the state of California, to implement the Stipulation of Settlement dated September 13, 2006, in Natural Resources Defense Council, et al. v. Kirk Rodgers, et al., United States District Court, Eastern District of California. Directs the Secretary to: (1) enter into agreements with California to facilitate or expedite Settlement implementation; and (2) identify impacts of facilities construction or operation decisions and measures to mitigate such impacts on adjacent and downstream water users and landowners before implementing such decisions. Provides that Settlement implementation and the reintroduction of Chinook salmon shall not result in the involuntary reduction in contract water allocations to Central Valley Project long-term contractors other than Friant Division contractors.<br/>Requires the Secretary to prepare an environmental analysis prior to releasing Interim Flows. Authorizes the Secretary to release such flows to the extent that they would not impede or delay completion of specified measures in the Settlement or exceed existing downstream channel capacities.<br/>Authorizes the Secretary to: (1) purchase property needed to implement the Settlement; and (2) dispose of such property and deposit proceeds into the San Joaquin River Restoration Fund established in the Treasury.<br/>Declares that the Settlement satisfies and discharges the Secretary's obligations under the Reclamation Projects Authorization and Adjustment Act of 1992. Provides for the reintroduction of California Central Valley Spring Run Chinook salmon into the San Joaquin River. Directs the Secretary, acting through the Bureau of Reclamation, to provide direct financial assistance to the California Water Institute to study coordination and integration of sub-regional integrated regional water management plans into a unified plan. Directs the Secretary to conduct feasibility studies on: (1) restoration of the capacity of the Friant-Kern Canal and Madera Canal; and (2) reverse flow pump-back facilities on the Friant-Kern Canal.<br/>Authorizes the Secretary to provide financial assistance to local agencies within the Central Valley Project for facilities to bank water underground or to recharge groundwater and to recover such water.<br/>
+	</summary>
+</bill>

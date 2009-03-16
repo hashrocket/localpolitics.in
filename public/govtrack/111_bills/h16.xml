@@ -1,0 +1,87 @@
+<bill session="111" type="h" number="16" updated="2009-03-07T09:49:21-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make permanent the deduction of State and local general sales taxes.</title>
+	</titles>
+	<sponsor id="400011"/>
+	<cosponsors>
+		<cosponsor id="400339" joined="2009-01-06"/>
+		<cosponsor id="400086" joined="2009-01-13"/>
+		<cosponsor id="400279" joined="2009-01-06"/>
+		<cosponsor id="400206" joined="2009-01-06"/>
+		<cosponsor id="412218" joined="2009-01-06"/>
+		<cosponsor id="400367" joined="2009-01-06"/>
+		<cosponsor id="400048" joined="2009-01-06"/>
+		<cosponsor id="412309" joined="2009-02-09"/>
+		<cosponsor id="400659" joined="2009-01-06"/>
+		<cosponsor id="400311" joined="2009-01-06"/>
+		<cosponsor id="400051" joined="2009-01-14"/>
+		<cosponsor id="400381" joined="2009-01-06"/>
+		<cosponsor id="400160" joined="2009-01-07"/>
+		<cosponsor id="400155" joined="2009-01-07"/>
+		<cosponsor id="400657" joined="2009-01-06"/>
+		<cosponsor id="400655" joined="2009-01-06"/>
+		<cosponsor id="400089" joined="2009-01-06"/>
+		<cosponsor id="400660" joined="2009-01-06"/>
+		<cosponsor id="400439" joined="2009-01-13"/>
+		<cosponsor id="400175" joined="2009-01-06"/>
+		<cosponsor id="400096" joined="2009-01-06"/>
+		<cosponsor id="400430" joined="2009-01-13"/>
+		<cosponsor id="400441" joined="2009-01-06"/>
+		<cosponsor id="400107" joined="2009-01-06"/>
+		<cosponsor id="412195" joined="2009-01-06"/>
+		<cosponsor id="400118" joined="2009-01-06"/>
+		<cosponsor id="400328" joined="2009-01-06"/>
+		<cosponsor id="400081" joined="2009-01-06"/>
+		<cosponsor id="400232" joined="2009-01-06"/>
+		<cosponsor id="400443" joined="2009-01-21"/>
+		<cosponsor id="400344" joined="2009-01-13"/>
+		<cosponsor id="400421" joined="2009-01-06"/>
+		<cosponsor id="400193" joined="2009-01-06"/>
+		<cosponsor id="412196" joined="2009-01-08"/>
+		<cosponsor id="400379" joined="2009-01-06"/>
+		<cosponsor id="400171" joined="2009-01-15"/>
+		<cosponsor id="400388" joined="2009-01-06"/>
+		<cosponsor id="400165" joined="2009-01-07"/>
+		<cosponsor id="400018" joined="2009-01-26"/>
+		<cosponsor id="400116" joined="2009-01-06"/>
+		<cosponsor id="400109" joined="2009-01-06"/>
+		<cosponsor id="400032" joined="2009-01-07"/>
+		<cosponsor id="400204" joined="2009-01-06"/>
+		<cosponsor id="400052" joined="2009-01-06"/>
+		<cosponsor id="400046" joined="2009-01-06"/>
+		<cosponsor id="400024" joined="2009-01-06"/>
+		<cosponsor id="400654" joined="2009-01-06"/>
+		<cosponsor id="400152" joined="2009-01-08"/>
+		<cosponsor id="400262" joined="2009-01-06"/>
+		<cosponsor id="400157" joined="2009-01-09"/>
+		<cosponsor id="400179" joined="2009-02-09"/>
+		<cosponsor id="400622" joined="2009-01-06"/>
+		<cosponsor id="412288" joined="2009-03-03"/>
+		<cosponsor id="400656" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="23" />
+		<bill relation="unknown" session="111" type="s" number="35" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax deductions"/>
+		<term name="Sales and excise taxes"/>
+		<term name="State and local taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Amends the Internal Revenue Code to make permanent the election to deduct state and local sales taxes in lieu of state and local income taxes.<br/>
+	</summary>
+</bill>

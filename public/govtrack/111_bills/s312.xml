@@ -1,0 +1,33 @@
+<bill session="111" type="s" number="312" updated="2009-03-07T14:10:52-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">First-Time Homebuyers' Tax Credit Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow a refundable credit against income tax for the purchase of a principal residence by a first-time homebuyer.</title>
+	</titles>
+	<sponsor id="400064"/>
+	<cosponsors>
+		<cosponsor id="300040" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Housing finance and home ownership"/>
+		<term name="Income tax credits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

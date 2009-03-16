@@ -1,0 +1,66 @@
+<bill session="110" type="h" number="1594" updated="2009-01-08T20:10:54-05:00">
+	<status><enacted date="1223956800" datetime="2008-10-14" /></status>
+
+	<introduced date="1174363200" datetime="2007-03-20"/>
+	<titles>
+		<title type="official" as="introduced">To designate the Department of Veterans Affairs Outpatient Clinic in Hermitage, Pennsylvania, as the Michael A. Marzano Department of Veterans Affairs Outpatient Clinic.</title>
+	</titles>
+	<sponsor id="400123"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2008-03-13"/>
+		<cosponsor id="400210" joined="2007-04-19"/>
+		<cosponsor id="400183" joined="2007-03-20"/>
+		<cosponsor id="400317" joined="2007-03-20"/>
+		<cosponsor id="412234" joined="2007-03-21"/>
+		<cosponsor id="400647" joined="2007-04-19"/>
+		<cosponsor id="412231" joined="2007-03-20"/>
+		<cosponsor id="409888" joined="2007-03-20"/>
+		<cosponsor id="412250" joined="2007-04-19"/>
+		<cosponsor id="400285" joined="2007-03-20"/>
+		<cosponsor id="400130" joined="2007-03-23"/>
+		<cosponsor id="400648" joined="2007-03-20"/>
+		<cosponsor id="412258" joined="2008-04-29"/>
+		<cosponsor id="400147" joined="2007-03-20"/>
+		<cosponsor id="400057" joined="2007-03-29"/>
+		<cosponsor id="400320" joined="2007-03-20"/>
+		<cosponsor id="412232" joined="2007-03-20"/>
+		<cosponsor id="400047" joined="2007-03-20"/>
+		<cosponsor id="400286" joined="2007-03-20"/>
+		<cosponsor id="400141" joined="2008-02-12"/>
+		<cosponsor id="400114" joined="2007-03-20"/>
+		<cosponsor id="400321" joined="2007-03-20"/>
+		<cosponsor id="412233" joined="2007-03-20"/>
+	</cosponsors>
+	<actions>
+		<action date="1174363200" datetime="2007-03-20"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1174622400" datetime="2007-03-23"><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1221506280" datetime="2008-09-15T16:18:00-04:00"><text>Mr. Filner moved to suspend the rules and pass the bill.</text></action>
+		<action date="1221506280" datetime="2008-09-15T16:18:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8073-8075"/></action>
+		<action date="1221506280" datetime="2008-09-15T16:18:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1594.</text></action>
+		<action date="1221506940" datetime="2008-09-15T16:29:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Stearns objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1221685320" datetime="2008-09-17T18:02:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8353"/></action>
+		<vote date="1221685800" how="roll" roll="604" datetime="2008-09-17T18:10:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 410 - 0 (Roll no. 604). (text: CR 9/15/2008 H8073)</text></vote>
+		<action date="1221710400" datetime="2008-09-18"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1222747200" how="by Unanimous Consent" datetime="2008-09-30" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10183"/></vote>
+		<topresident date="1222747200" datetime="2008-09-30" ><text>Cleared for White House.</text></topresident>
+		<action date="1222833600" datetime="2008-10-01"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1223611200" datetime="2008-10-10" ><text>Presented to President.</text></topresident>
+		<signed date="1223956800" datetime="2008-10-14" ><text>Signed by President.</text></signed>
+		<enacted number="110-410" date="1223956800" datetime="2008-10-14" type="public" ><text>Became Public Law No: 110-410.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the Department of Veterans Affairs Outpatient Clinic in Hermitage, Pennsylvania, as the &quot;Michael A. Marzano Department of Veterans Affairs Outpatient Clinic.&quot;<br/>
+	</summary>
+</bill>

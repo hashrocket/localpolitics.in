@@ -1,0 +1,59 @@
+<bill session="110" type="hr" number="325" updated="2009-01-09T08:33:33-05:00">
+	<status><vote date="1178569620" datetime="2007-05-07T17:27:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1176955200" datetime="2007-04-19"/>
+	<titles>
+		<title type="official" as="introduced">Commending the Michigan State University Spartans for their victory in the 2007 NCAA Hockey Championship.</title>
+	</titles>
+	<sponsor id="400391"/>
+	<cosponsors>
+		<cosponsor id="400414" joined="2007-04-19"/>
+		<cosponsor id="400616" joined="2007-04-19"/>
+		<cosponsor id="400210" joined="2007-04-19"/>
+		<cosponsor id="400080" joined="2007-04-19"/>
+		<cosponsor id="400183" joined="2007-04-19"/>
+		<cosponsor id="412234" joined="2007-04-19"/>
+		<cosponsor id="400342" joined="2007-04-19"/>
+		<cosponsor id="400058" joined="2007-04-19"/>
+		<cosponsor id="400276" joined="2007-04-19"/>
+		<cosponsor id="400260" joined="2007-04-19"/>
+		<cosponsor id="400433" joined="2007-04-19"/>
+		<cosponsor id="400216" joined="2007-04-19"/>
+		<cosponsor id="400225" joined="2007-04-19"/>
+		<cosponsor id="400331" joined="2007-04-19"/>
+		<cosponsor id="400121" joined="2007-04-19"/>
+		<cosponsor id="400110" joined="2007-04-19"/>
+		<cosponsor id="412240" joined="2007-04-19"/>
+		<cosponsor id="400400" joined="2007-05-01"/>
+		<cosponsor id="400217" joined="2007-04-19"/>
+		<cosponsor id="400093" joined="2007-04-19"/>
+		<cosponsor id="412213" joined="2007-04-19"/>
+		<cosponsor id="400119" joined="2007-04-19"/>
+		<cosponsor id="400218" joined="2007-04-19"/>
+		<cosponsor id="400182" joined="2007-04-19"/>
+		<cosponsor id="400238" joined="2007-04-19"/>
+		<cosponsor id="400114" joined="2007-04-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1176955200" datetime="2007-04-19"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1178569140" datetime="2007-05-07T17:19:00-04:00"><text>Mr. Altmire moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1178569140" datetime="2007-05-07T17:19:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4519-4520"/></action>
+		<action date="1178569140" datetime="2007-05-07T17:19:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 325.</text></action>
+		<vote date="1178569620" how="by voice vote" datetime="2007-05-07T17:27:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H4519"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/7/2007--Passed House amended. Commends the Michigan State University Spartans for their victory in the 2007 NCAA Hockey Championship. 
+	</summary>
+</bill>

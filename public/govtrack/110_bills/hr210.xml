@@ -1,0 +1,39 @@
+<bill session="110" type="hr" number="210" updated="2009-01-09T08:19:36-05:00">
+	<status><vote date="1184194080" datetime="2007-07-11T19:48:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1173070800" datetime="2007-03-05"/>
+	<titles>
+		<title type="official" as="introduced">Commending the Appalachian State University football team for winning the 2006 National Collegiate Athletic Association Division I-AA Football Championship.</title>
+	</titles>
+	<sponsor id="400643"/>
+	<cosponsors>
+		<cosponsor id="400209" joined="2007-03-05"/>
+		<cosponsor id="400288" joined="2007-03-05"/>
+		<cosponsor id="400172" joined="2007-03-05"/>
+		<cosponsor id="400076" joined="2007-03-05"/>
+		<cosponsor id="400644" joined="2007-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1173070800" datetime="2007-03-05"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1181016000" datetime="2007-06-05"><text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text></action>
+		<action date="1184193360" datetime="2007-07-11T19:36:00-04:00"><text>Mr. Yarmuth moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1184193360" datetime="2007-07-11T19:36:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7625-7627"/></action>
+		<action date="1184193360" datetime="2007-07-11T19:36:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 210.</text></action>
+		<vote date="1184194080" how="by voice vote" datetime="2007-07-11T19:48:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H7625"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/11/2007--Passed House amended. Commends the Appalachian State University football team for their historic win in the 2006 National Collegiate Athletic Association (NCAA) 1-AA Football Championship. 
+	</summary>
+</bill>

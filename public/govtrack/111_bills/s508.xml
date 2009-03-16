@@ -1,0 +1,30 @@
+<bill session="111" type="s" number="508" updated="2009-03-07T14:33:44-05:00">
+	<status><introduced date="1235970000" datetime="2009-03-02"/></status>
+
+	<introduced date="1235970000" datetime="2009-03-02"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for the conveyance of certain Bureau of Land Management land in the State of Nevada to the Las Vegas Motor Speedway, and for other purposes.</title>
+	</titles>
+	<sponsor id="300040"/>
+	<cosponsors>
+		<cosponsor id="300082" joined="2009-03-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1235970000" datetime="2009-03-02"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Energy and Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="409" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

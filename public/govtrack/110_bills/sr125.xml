@@ -1,0 +1,49 @@
+<bill session="110" type="sr" number="125" updated="2009-01-09T20:14:06-05:00">
+	<status><vote date="1177992000" datetime="2007-05-01" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1174968000" datetime="2007-03-27"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating May 18, 2007, as &quot;Endangered Species Day&quot;, and encouraging the people of the United States to become educated about, and aware of, threats to species, success stories in species recovery, and the opportunity to promote species conservation worldwide.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300025" joined="2007-03-27"/>
+		<cosponsor id="300018" joined="2007-03-27"/>
+		<cosponsor id="300011" joined="2007-04-26"/>
+		<cosponsor id="300008" joined="2007-03-27"/>
+		<cosponsor id="300030" joined="2007-03-27"/>
+		<cosponsor id="300042" joined="2007-03-27"/>
+		<cosponsor id="300060" joined="2007-03-27"/>
+		<cosponsor id="300066" joined="2007-03-27"/>
+		<cosponsor id="400050" joined="2007-05-01"/>
+		<cosponsor id="300022" joined="2007-03-27"/>
+		<cosponsor id="300001" joined="2007-04-24"/>
+		<cosponsor id="300067" joined="2007-03-27"/>
+		<cosponsor id="300091" joined="2007-03-27"/>
+		<cosponsor id="400357" joined="2007-03-27"/>
+		<cosponsor id="300100" joined="2007-03-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1174968000" datetime="2007-03-27"><text>Sponsor introductory remarks on measure. (CR S3845-3846)</text></action>
+		<action date="1174968000" datetime="2007-03-27"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S3845"/></action>
+		<calendar date="1177473600" datetime="2007-04-25" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1177473600" datetime="2007-04-25"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="122" date="1177473600" datetime="2007-04-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 122.</text></calendar>
+		<vote date="1177992000" how="by Unanimous Consent" datetime="2007-05-01" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S5436-5437"/><reference label="text as passed Senate" ref="CR S5437"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/1/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates May 18, 2007, as Endangered Species Day. Encourages: (1) educational entities to spend at least 30 minutes on such Day teaching students about threats to, and the restoration of, endangered species; and (2) organizations, businesses, private landowners, and agencies with an interest in conserving endangered species to collaborate on educational information for use in schools.<br/>
+	</summary>
+</bill>

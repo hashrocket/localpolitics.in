@@ -1,0 +1,43 @@
+<bill session="111" type="hr" number="184" updated="2009-03-07T13:28:32-05:00">
+	<status><vote date="1235585400" datetime="2009-02-25T14:10:00-05:00" where="h" result="pass" how="roll" roll="85"/></status>
+
+	<introduced date="1235451600" datetime="2009-02-24"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill(H.R. 1105) making omnibus appropriations for the fiscal year ending September 30, 2009, and for other purposes.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1235508720" datetime="2009-02-24T16:52:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 111-20, by Mr. McGovern.</text></action>
+		<action date="1235508780" datetime="2009-02-24T16:53:00-05:00"><text>All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.</text></action>
+		<calendar date="1235508780" datetime="2009-02-24T16:53:00-05:00" ><text>Placed on the House Calendar, Calendar No. 12.</text></calendar>
+		<action date="1235576100" datetime="2009-02-25T11:35:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H2643-2656"/></action>
+		<action date="1235576100" datetime="2009-02-25T11:35:00-05:00"><text>By direction of the Committee on Rules, Mr. McGovern called up H. Res. 184 and asked for its immediate consideration.</text></action>
+		<action date="1235576220" datetime="2009-02-25T11:37:00-05:00"><text>POINT OF ORDER - Mr. Flake raised a point of order against the provisions of H. Res. 184 because it violates the Congressional Budget Act. The Chair announced that the disposition of the point of order would be resolved by the question of consideration of H. Res. 184. the House proceeded with 20 minutes of debate on the point of order at the end of which the Chair will put the question on consideration.</text></action>
+		<action date="1235577180" datetime="2009-02-25T11:53:00-05:00"><text>Mr. Flake moved On question of consideration of the Resolution.</text><reference label="consideration" ref="CR H2645-2646"/></action>
+		<action date="1235621820" datetime="2009-02-25T12:17:00-05:00"><text>On question of consideration of the Resolution Agreed to by the Yeas and Nays: 234 - 177 (Roll no. 83).</text></action>
+		<action date="1235621880" datetime="2009-02-25T12:18:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 184.</text></action>
+		<action date="1235584320" datetime="2009-02-25T13:52:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 393 - 25 (Roll no. 84).</text><reference label="consideration" ref="CR H2655-2656"/></action>
+		<vote date="1235585400" how="roll" roll="85" datetime="2009-02-25T14:10:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 398 - 24 (Roll no. 85).</text><reference label="text" ref="CR H2643-2644"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Rules" subcommittee="" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="158" />
+		<bill relation="unknown" session="111" type="hr" number="158" />
+		<bill relation="unknown" session="111" type="h" number="1105" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Legislative rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/2009--Introduced.<br/>Sets forth the rule for consideration of the bill(H.R. 1105) making omnibus appropriations for the fiscal year ending September 30, 2009.<br/>
+	</summary>
+</bill>

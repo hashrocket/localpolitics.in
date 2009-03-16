@@ -1,0 +1,31 @@
+<bill session="111" type="s" number="431" updated="2009-03-07T14:24:42-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Economic Recovery Adjustment Act of 2009</title>
+		<title type="official" as="introduced">A bill to establish the Temporary Economic Recovery Adjustment Panel to curb excessive executive compensation at firms receiving emergency economic assistance.</title>
+	</titles>
+	<sponsor id="412247"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

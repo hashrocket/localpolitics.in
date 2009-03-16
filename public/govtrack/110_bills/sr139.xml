@@ -1,0 +1,32 @@
+<bill session="110" type="sr" number="139" updated="2009-01-09T20:15:48-05:00">
+	<status><vote date="1176868800" datetime="2007-04-18" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1175140800" datetime="2007-03-29"/>
+	<titles>
+		<title type="official" as="introduced">A resolution commending General Peter J. Schoomaker for his extraordinary dedication to duty and service to the United States.</title>
+	</titles>
+	<sponsor id="300055"/>
+	<cosponsors>
+		<cosponsor id="300001" joined="2007-03-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1175140800" datetime="2007-03-29"><text>Referred to the Committee on Armed Services.</text><reference label="text of measure as introduced" ref="CR S4217-4218"/></action>
+		<action date="1176868800" datetime="2007-04-18"><text>Senate Committee on Armed Services discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S4721-4722"/></action>
+		<vote date="1176868800" how="by Unanimous Consent" datetime="2007-04-18" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S4721-4722"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/18/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Commends General Peter J. Schoomaker for his extraordinary dedication to duty and service to the United States throughout his distinguished career in the U.S. Army.<br/>
+	</summary>
+</bill>

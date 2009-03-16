@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="6859" updated="2009-01-09T06:58:09-05:00">
+	<status><enacted date="1229662800" datetime="2008-12-19" /></status>
+
+	<introduced date="1221019200" datetime="2008-09-10"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 1501 South Slappey Boulevard in Albany, Georgia, as the &quot;Dr. Walter Carl Gordon, Jr. Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400030"/>
+	<cosponsors>
+		<cosponsor id="400627" joined="2008-09-10"/>
+		<cosponsor id="412252" joined="2008-09-10"/>
+		<cosponsor id="400099" joined="2008-09-10"/>
+		<cosponsor id="400626" joined="2008-09-10"/>
+		<cosponsor id="400242" joined="2008-09-10"/>
+		<cosponsor id="400151" joined="2008-09-10"/>
+		<cosponsor id="400254" joined="2008-09-10"/>
+		<cosponsor id="412199" joined="2008-09-10"/>
+		<cosponsor id="400628" joined="2008-09-10"/>
+		<cosponsor id="400221" joined="2008-09-10"/>
+		<cosponsor id="400240" joined="2008-09-10"/>
+		<cosponsor id="400363" joined="2008-09-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1221019200" datetime="2008-09-10"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1222540500" datetime="2008-09-27T15:35:00-04:00"><text>Mr. Clay asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1222540500" datetime="2008-09-27T15:35:00-04:00"><text>Committee on Oversight and Government discharged.</text></action>
+		<action date="1222540500" datetime="2008-09-27T15:35:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10209"/></action>
+		<vote date="1222540500" how="without objection" datetime="2008-09-27T15:35:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H10209"/></vote>
+		<action date="1222660800" datetime="2008-09-29"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1227157200" how="by Unanimous Consent" datetime="2008-11-20" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10768"/></vote>
+		<topresident date="1227157200" datetime="2008-11-20" ><text>Cleared for White House.</text></topresident>
+		<action date="1227502800" datetime="2008-11-24"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1228971600" datetime="2008-12-11" ><text>Presented to President.</text></topresident>
+		<signed date="1229662800" datetime="2008-12-19" ><text>Signed by President.</text></signed>
+		<enacted number="110-454" date="1229662800" datetime="2008-12-19" type="public" ><text>Became Public Law No: 110-454.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/19/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 1501 South Slappey Boulevard in Albany, Georgia, as the &quot;Dr. Walter Carl Gordon, Jr. Post Office Building.&quot; 
+	</summary>
+</bill>

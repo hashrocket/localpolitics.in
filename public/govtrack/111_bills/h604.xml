@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="604" updated="2009-03-07T10:58:36-05:00">
+	<status><introduced date="1232082000" datetime="2009-01-16"/></status>
+
+	<introduced date="1232082000" datetime="2009-01-16"/>
+	<titles>
+		<title type="short" as="introduced">Bountiful City Land Consolidation Act</title>
+		<title type="official" as="introduced">To provide for a land exchange with the City of Bountiful, Utah, involving National Forest System land in the Wasatch-Cache National Forest and to further land ownership consolidation in that national forest, and for other purposes.</title>
+	</titles>
+	<sponsor id="400029"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1232082000" datetime="2009-01-16"><text>Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1232082000" datetime="2009-01-16"><text>Referred to House Natural Resources</text></action>
+		<action date="1232082000" datetime="2009-01-16"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1232082000" datetime="2009-01-16"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1232427600" datetime="2009-01-20"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Forests"/>
+		<term name="Land transfers"/>
+		<term name="Parks, recreation areas, trails"/>
+		<term name="Utah"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/16/2009--Introduced.<br/>Bountiful City Land Consolidation Act - Authorizes the Secretary of Agriculture, if the city of Bountiful, Utah, conveys three parcels of land consisting of a total of approximately 1,680 acres to the Secretary, to convey to the city, in exchange for such land, certain federal land identified as Shooting Range Special Use Permit Area on the map entitled &quot;Bountiful City Land Consolidation Act, &quot; dated October 15, 2007. 
+	</summary>
+</bill>

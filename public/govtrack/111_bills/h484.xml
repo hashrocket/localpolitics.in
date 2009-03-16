@@ -1,0 +1,56 @@
+<bill session="111" type="h" number="484" updated="2009-03-07T10:44:32-05:00">
+	<status><introduced date="1231822800" datetime="2009-01-13"/></status>
+
+	<introduced date="1231822800" datetime="2009-01-13"/>
+	<titles>
+		<title type="short" as="introduced">Chiropractic Health Parity for Military Beneficiaries Act</title>
+		<title type="official" as="introduced">To require the Secretary of Defense to develop and implement a plan to provide chiropractic health care services and benefits for certain new beneficiaries as part of the TRICARE program.</title>
+	</titles>
+	<sponsor id="400341"/>
+	<cosponsors>
+		<cosponsor id="400017" joined="2009-01-13"/>
+		<cosponsor id="400004" joined="2009-01-13"/>
+		<cosponsor id="400199" joined="2009-01-13"/>
+		<cosponsor id="412303" joined="2009-03-05"/>
+		<cosponsor id="412209" joined="2009-03-05"/>
+		<cosponsor id="400311" joined="2009-01-13"/>
+		<cosponsor id="412280" joined="2009-02-03"/>
+		<cosponsor id="400001" joined="2009-01-13"/>
+		<cosponsor id="400155" joined="2009-02-26"/>
+		<cosponsor id="400195" joined="2009-01-13"/>
+		<cosponsor id="400439" joined="2009-03-06"/>
+		<cosponsor id="400234" joined="2009-02-12"/>
+		<cosponsor id="400107" joined="2009-03-02"/>
+		<cosponsor id="400628" joined="2009-03-05"/>
+		<cosponsor id="400421" joined="2009-03-05"/>
+		<cosponsor id="400244" joined="2009-01-13"/>
+		<cosponsor id="400047" joined="2009-01-13"/>
+		<cosponsor id="400042" joined="2009-01-13"/>
+		<cosponsor id="400010" joined="2009-01-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1231822800" datetime="2009-01-13"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1233896400" datetime="2009-02-06"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Armed Services" subcommittee="Military Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Military personnel and dependents"/>
+		<term name="Musculoskeletal and skin diseases"/>
+		<term name="Neurological disorders"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/13/2009--Introduced.<br/>Chiropractic Health Parity for Military Beneficiaries Act - Directs the Secretary of Defense, no later than August 31, 2009, to complete development of a plan to provide chiropractic health care services and benefits, as a permanent part of the TRICARE program (a Department of Defense managed health care program), for covered beneficiaries. Requires plan implementation by January 31, 2010.<br/>
+	</summary>
+</bill>

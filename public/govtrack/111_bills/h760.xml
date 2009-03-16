@@ -1,0 +1,46 @@
+<bill session="111" type="h" number="760" updated="2009-03-07T11:17:18-05:00">
+	<status><introduced date="1233118800" datetime="2009-01-28"/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="short" as="introduced">Advanced Broadband Infrastructure Bond Initiative of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide an income tax credit to holders of bonds financing new advanced broadband infrastructure, and for other purposes.</title>
+	</titles>
+	<sponsor id="400124"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="2009-01-28"/>
+		<cosponsor id="400403" joined="2009-01-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to House Ways and Means</text></action>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to House Energy and Commerce</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Broadcasting, cable, digital media"/>
+		<term name="Business records"/>
+		<term name="Department of Commerce"/>
+		<term name="Federal Communications Commission (FCC)"/>
+		<term name="Financial services and investments"/>
+		<term name="Income tax credits"/>
+		<term name="Infrastructure development"/>
+		<term name="Internet and video services"/>
+		<term name="Securities"/>
+		<term name="Small business"/>
+		<term name="Taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/2009--Introduced.<br/>Advanced Broadband Infrastructure Bond Initiative of 2009 - Amends the Internal Revenue Code to allow a tax credit for investment in qualified advanced broadband infrastructure bonds. Limits the issuance authority for such bonds in 2009, 2010 and 2011 to $1 billion for state and local government issuers and $10 billion for all other issuers. Requires the use of bond proceeds to finance broadband infrastructure projects to provide residential or small business consumers with high-speed access to the Internet.<br/>Amends the National Telecommunications and Information Administration Organization Act to require the National Telecommunications and Information Administration in the Department of Commerce to: (1) approve requests for qualified advanced broadband infrastructure projects; (2) monitor the implementation of such projects; and (3) make determinations regarding increases in the transmission speed requirements of the advanced broadband infrastructure bond program. 
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="326" updated="2009-03-07T10:25:47-05:00">
+	<status><vote date="1236017640" datetime="2009-03-02T14:14:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">Cocopah Lands Act</title>
+		<title type="short" as="passed house">Cocopah Lands Act</title>
+		<title type="official" as="introduced">To direct the Secretary of the Interior to take lands in Yuma County, Arizona, into trust as part of the reservation of the Cocopah Tribe of Arizona, and for other purposes.</title>
+	</titles>
+	<sponsor id="400162"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1236017460" datetime="2009-03-02T14:11:00-05:00"><text>Mr. Holt moved to suspend the rules and pass the bill.</text></action>
+		<action date="1236017460" datetime="2009-03-02T14:11:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2878-2879"/></action>
+		<action date="1236017460" datetime="2009-03-02T14:11:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 326.</text></action>
+		<vote date="1236017640" how="by voice vote" datetime="2009-03-02T14:14:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H2878-2879"/></vote>
+		<action date="1236056400" datetime="2009-03-03"><text>Received in the Senate and Read twice and referred to the Committee on Indian Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral" />
+		<committee name="Senate Indian Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Arizona"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Gambling"/>
+		<term name="Indian lands and resources rights"/>
+		<term name="Land transfers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Cocopah Lands Act - Provides that if the Cocopah Indian Tribe of Arizona transfers title to certain described land to the Secretary of the Interior, the Secretary shall take it into trust for the benefit of the Tribe, if there are no recognized environmental conditions or contamination related concerns and no adverse legal claims to it, including outstanding liens, mortgages, or taxes owed. Considers such land to be part of the Tribe's initial reservation. Designates Yuma county, Arizona, to be the Tribe's service area for the delivery of federal services to enrolled members of the Tribe. Prohibits its use for gaming under the Indian Gaming Regulatory Act. 
+	</summary>
+</bill>

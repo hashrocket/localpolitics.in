@@ -1,0 +1,37 @@
+<bill session="111" type="s" number="102" updated="2009-03-07T13:44:13-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">A bill to repeal the provision of law that provides automatic pay adjustments for Members of Congress.</title>
+	</titles>
+	<sponsor id="400418"/>
+	<cosponsors>
+		<cosponsor id="300040" joined="2009-01-26"/>
+		<cosponsor id="300048" joined="2009-01-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="346" />
+		<bill relation="unknown" session="111" type="h" number="566" />
+		<bill relation="unknown" session="111" type="h" number="581" />
+		<bill relation="unknown" session="111" type="s" number="317" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Legislative rules and procedure"/>
+		<term name="Members of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

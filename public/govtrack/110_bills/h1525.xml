@@ -1,0 +1,49 @@
+<bill session="110" type="h" number="1525" updated="2009-01-08T20:01:43-05:00">
+	<status><vote date="1179845400" datetime="2007-05-22T11:50:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1173844800" datetime="2007-03-14"/>
+	<titles>
+		<title type="short" as="introduced">Internet Spyware (I-SPY) Prevention Act of 2007</title>
+		<title type="short" as="reported to house">Internet Spyware (I-SPY) Prevention Act of 2007</title>
+		<title type="short" as="passed house">Internet Spyware (I-SPY) Prevention Act of 2007</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, to discourage spyware, and for other purposes.</title>
+	</titles>
+	<sponsor id="400245"/>
+	<cosponsors>
+		<cosponsor id="400199" joined="2007-03-14"/>
+		<cosponsor id="400381" joined="2007-03-14"/>
+		<cosponsor id="400137" joined="2007-04-30"/>
+		<cosponsor id="400154" joined="2007-03-14"/>
+		<cosponsor id="400355" joined="2007-03-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1173844800" datetime="2007-03-14"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1175227200" datetime="2007-03-30"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+		<action date="1177992000" datetime="2007-05-01"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1178078400" datetime="2007-05-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1178078400" datetime="2007-05-02" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1178078400" datetime="2007-05-02"><text>Subcommittee on Crime, Terrorism, and Homeland Security Discharged.</text></action>
+		<action date="1179789900" datetime="2007-05-21T20:25:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 110-159.</text></action>
+		<calendar number="95" date="1179789960" datetime="2007-05-21T20:26:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 95.</text></calendar>
+		<action date="1179844200" datetime="2007-05-22T11:30:00-04:00"><text>Mr. Conyers moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1179844200" datetime="2007-05-22T11:30:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5548-5551"/></action>
+		<action date="1179844260" datetime="2007-05-22T11:31:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1525.</text></action>
+		<vote date="1179845400" how="by voice vote" datetime="2007-05-22T11:50:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H5548"/></vote>
+		<action date="1179892800" datetime="2007-05-23"><text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/22/2007--Passed House amended. (This measure has not been amended since it was reported to the House on May 21, 2007. The summary of that version is repeated here.)<br/>Internet Spyware (I-SPY) Prevention Act of 2007 - (Sec. 2) Amends the federal criminal code to impose a fine and/or prison term of up to five years for intentionally accessing a protected computer (a computer exclusively for the use of a financial institution or the U.S. government or which is used in or affects interstate or foreign commerce or communication) without authorization, or exceeding authorized access, by causing a computer program or code to be copied onto the protected computer and intentionally using that program or code in furtherance of another federal criminal offense.<br/>Imposes a fine and/or prison term of up to two years if such unauthorized access of a protected computer is for the purpose of: (1) intentionally obtaining or transmitting personal information (including a Social Security number or other government-issued identification number, a bank or credit card number, or an associated password or access code) with intent to defraud or injure a person or cause damage to a protected computer; or (2) intentionally impairing the security protection of a protected computer with the intent to defraud or injure a person or damage such computer.<br/>Prohibits any person from bringing a civil action under state law premised upon the defendant's violating this Act. Exempts any lawfully authorized investigative, protective, or intelligence activity of the United States, a state, or a local law enforcement agency or of an U.S. intelligence agency from the prohibitions of this Act.<br/>(Sec. 3) Authorizes appropriations for FY2008-FY2011 to the Attorney General for prosecutions needed to discourage the use of spyware and practices commonly called phishing and pharming. (Sec. 4) Expresses the sense of Congress that the Department of Justice should vigorously prosecute those who use spyware to commit crimes and those that conduct phishing and pharming scams.<br/>
+	</summary>
+</bill>

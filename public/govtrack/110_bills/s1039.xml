@@ -1,0 +1,35 @@
+<bill session="110" type="s" number="1039" updated="2009-01-09T13:56:07-05:00">
+	<status><calendar date="1201669200" datetime="2008-01-30" /></status>
+
+	<introduced date="1175140800" datetime="2007-03-29"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend the authorization for the Coastal Heritage Trail in the State of New Jersey.</title>
+	</titles>
+	<sponsor id="300064"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="2007-03-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1175140800" datetime="2007-03-29"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1190865600" datetime="2007-09-27"><text>Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-266.</text></action>
+		<calendar date="1201669200" datetime="2008-01-30" ><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1207800000" datetime="2008-04-10"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-287.</text></action>
+		<calendar under="General Orders" number="639" date="1207800000" datetime="2008-04-10" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 639.</text></calendar>
+		<action date="1213156800" datetime="2008-06-11"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S5530"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/29/2007--Introduced.<br/>Extends the authorities provided to the Secretary of the Interior with respect to the Coastal Heritage Trail Route in New Jersey until September 30, 2011. 
+	</summary>
+</bill>

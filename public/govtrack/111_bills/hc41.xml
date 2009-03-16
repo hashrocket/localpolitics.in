@@ -1,0 +1,35 @@
+<bill session="111" type="hc" number="41" updated="2009-03-07T09:29:50-05:00">
+	<status><vote2 date="1234328400" datetime="2009-02-11" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="official" as="introduced">Providing for a joint session of Congress to receive a message from the President.</title>
+	</titles>
+	<sponsor id="412296"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234298880" datetime="2009-02-10T16:48:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H1103-1104"/></action>
+		<vote date="1234298880" how="by voice vote" datetime="2009-02-10T16:48:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H1103"/></vote>
+		<vote date="1234328400" how="by Unanimous Consent" datetime="2009-02-11" where="s" type="vote2" result="pass" ><text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="text as passed Senate" ref="CR S2166"/><reference label="text of measure as introduced" ref="CR S2166"/></vote>
+		<action date="1234328400" datetime="2009-02-11"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional operations and organization"/>
+		<term name="Presidents and presidential powers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

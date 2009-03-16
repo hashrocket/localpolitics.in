@@ -1,0 +1,75 @@
+<bill session="111" type="h" number="666" updated="2009-03-07T11:06:01-05:00">
+	<status><introduced date="1232686800" datetime="2009-01-23"/></status>
+
+	<introduced date="1232686800" datetime="2009-01-23"/>
+	<titles>
+		<title type="short" as="introduced">Military Valor Roll of Honor Act</title>
+		<title type="official" as="introduced">To amend title 10, United States Code, to require the establishment of a searchable database containing the names and citations of members of the Armed Forces, members of the United States merchant marine, and civilians affiliated with the Armed Forces who have been awarded the medal of honor or any other medal authorized by Congress for the Armed Forces, the United States merchant marine, or affiliated civilians.</title>
+	</titles>
+	<sponsor id="400620"/>
+	<cosponsors>
+		<cosponsor id="400339" joined="2009-01-23"/>
+		<cosponsor id="400224" joined="2009-01-23"/>
+		<cosponsor id="400041" joined="2009-01-23"/>
+		<cosponsor id="400133" joined="2009-02-25"/>
+		<cosponsor id="412271" joined="2009-01-28"/>
+		<cosponsor id="400044" joined="2009-01-23"/>
+		<cosponsor id="400155" joined="2009-02-23"/>
+		<cosponsor id="400618" joined="2009-01-23"/>
+		<cosponsor id="412298" joined="2009-01-23"/>
+		<cosponsor id="400162" joined="2009-02-09"/>
+		<cosponsor id="400340" joined="2009-01-23"/>
+		<cosponsor id="412222" joined="2009-01-23"/>
+		<cosponsor id="400242" joined="2009-01-23"/>
+		<cosponsor id="412204" joined="2009-01-23"/>
+		<cosponsor id="400282" joined="2009-01-23"/>
+		<cosponsor id="400251" joined="2009-01-23"/>
+		<cosponsor id="400439" joined="2009-02-09"/>
+		<cosponsor id="412232" joined="2009-01-23"/>
+		<cosponsor id="400638" joined="2009-03-03"/>
+		<cosponsor id="400065" joined="2009-01-23"/>
+		<cosponsor id="412192" joined="2009-01-23"/>
+		<cosponsor id="400049" joined="2009-02-23"/>
+		<cosponsor id="400260" joined="2009-02-10"/>
+		<cosponsor id="400047" joined="2009-01-23"/>
+		<cosponsor id="400283" joined="2009-01-23"/>
+		<cosponsor id="400204" joined="2009-01-23"/>
+		<cosponsor id="400286" joined="2009-01-23"/>
+		<cosponsor id="412189" joined="2009-01-23"/>
+		<cosponsor id="400254" joined="2009-02-09"/>
+		<cosponsor id="400042" joined="2009-01-23"/>
+		<cosponsor id="412219" joined="2009-01-23"/>
+		<cosponsor id="400101" joined="2009-02-09"/>
+		<cosponsor id="400055" joined="2009-01-23"/>
+		<cosponsor id="400345" joined="2009-01-23"/>
+		<cosponsor id="400437" joined="2009-02-09"/>
+		<cosponsor id="400179" joined="2009-02-23"/>
+		<cosponsor id="400435" joined="2009-01-23"/>
+		<cosponsor id="412255" joined="2009-02-09"/>
+		<cosponsor id="412233" joined="2009-01-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1232686800" datetime="2009-01-23"><text>Referred to the House Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Congressional tributes"/>
+		<term name="Department of Defense"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Government information and archives"/>
+		<term name="Marine and inland water transportation"/>
+		<term name="Military personnel and dependents"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/23/2009--Introduced.<br/>Military Valor Roll of Honor Act - Directs the Secretary of Defense to establish the Military Valor Roll of Honor registry which shall: (1) contain the names and citations of all members of the Armed Forces, members of the U.S. merchant marine (including the Army Transport Service and the Naval Transport Service), and civilians affiliated with the Armed Forces who have been awarded the medal of honor or any other medal authorized by Congress for the Armed Forces, the U.S. merchant marine, or affiliated civilians; and (2) be a publicly available database. 
+	</summary>
+</bill>

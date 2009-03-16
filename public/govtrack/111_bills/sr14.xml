@@ -1,0 +1,33 @@
+<bill session="111" type="sr" number="14" updated="2009-03-07T14:40:07-05:00">
+	<status><vote date="1231995600" datetime="2009-01-15" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="official" as="introduced">A resolution to provide funding for Senate staff transitions.</title>
+	</titles>
+	<sponsor id="300072"/>
+	<cosponsors>
+		<cosponsor id="300082" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<vote date="1231995600" how="by Unanimous Consent" datetime="2009-01-15" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S630"/><reference label="text as passed Senate" ref="CR S630"/><reference label="text of measure as introduced" ref="CR S628"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional operations and organization"/>
+		<term name="Members of Congress"/>
+		<term name="Senate"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

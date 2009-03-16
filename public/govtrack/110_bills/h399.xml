@@ -1,0 +1,44 @@
+<bill session="110" type="h" number="399" updated="2009-01-08T17:34:22-05:00">
+	<status><vote date="1173204540" datetime="2007-03-06T14:09:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1168405200" datetime="2007-01-10"/>
+	<titles>
+		<title type="official" as="introduced">To designate the United States Courthouse to be constructed in Jackson, Mississippi, as the &quot;R. Jess Brown United States Courthouse&quot;.</title>
+	</titles>
+	<sponsor id="400402"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1168405200" datetime="2007-01-10"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1168491600" datetime="2007-01-11"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1170738000" datetime="2007-02-06"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1170738000" datetime="2007-02-06"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1170824400" datetime="2007-02-07"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1170824400" datetime="2007-02-07" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1171658520" datetime="2007-02-16T16:42:00-05:00"><text>Reported by the Committee on Transportation. H. Rept. 110-20.</text></action>
+		<calendar number="14" date="1171658520" datetime="2007-02-16T16:42:00-05:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 14.</text></calendar>
+		<action date="1173204060" datetime="2007-03-06T14:01:00-05:00"><text>Ms. Norton moved to suspend the rules and pass the bill.</text></action>
+		<action date="1173204060" datetime="2007-03-06T14:01:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2190-2191"/></action>
+		<action date="1173204060" datetime="2007-03-06T14:01:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 399.</text></action>
+		<vote date="1173204540" how="by voice vote" datetime="2007-03-06T14:09:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H2190"/></vote>
+		<action date="1173243600" datetime="2007-03-07"><text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text></action>
+		<action date="1173844800" datetime="2007-03-14"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text></action>
+		<action date="1173844800" datetime="2007-03-14"><text>Referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/6/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the U.S. courthouse to be constructed at a specified site in Jackson, Mississippi, as the &quot;R. Jess Brown United States Courthouse.&quot;<br/>
+	</summary>
+</bill>

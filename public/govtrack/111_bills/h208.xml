@@ -1,0 +1,65 @@
+<bill session="111" type="h" number="208" updated="2009-03-07T10:12:15-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">National Guardsmen and Reservists Parity for Patriots Act</title>
+		<title type="official" as="introduced">To amend title 10, United States Code, to ensure that members of the reserve components of the Armed Forces who have served on active duty or performed active service since September 11, 2001, in support of a contingency operation or in other emergency situations receive credit for such service in determining eligibility for early receipt of non-regular service retired pay, and for other purposes.</title>
+	</titles>
+	<sponsor id="400433"/>
+	<cosponsors>
+		<cosponsor id="412193" joined="2009-01-22"/>
+		<cosponsor id="412280" joined="2009-02-10"/>
+		<cosponsor id="400158" joined="2009-01-22"/>
+		<cosponsor id="400346" joined="2009-02-10"/>
+		<cosponsor id="400282" joined="2009-01-22"/>
+		<cosponsor id="400439" joined="2009-01-22"/>
+		<cosponsor id="412302" joined="2009-02-10"/>
+		<cosponsor id="400234" joined="2009-01-22"/>
+		<cosponsor id="400385" joined="2009-01-22"/>
+		<cosponsor id="400647" joined="2009-01-22"/>
+		<cosponsor id="400443" joined="2009-01-22"/>
+		<cosponsor id="400344" joined="2009-01-22"/>
+		<cosponsor id="412196" joined="2009-01-22"/>
+		<cosponsor id="400379" joined="2009-02-10"/>
+		<cosponsor id="400043" joined="2009-01-22"/>
+		<cosponsor id="400391" joined="2009-02-10"/>
+		<cosponsor id="412264" joined="2009-01-22"/>
+		<cosponsor id="400040" joined="2009-01-22"/>
+		<cosponsor id="400274" joined="2009-02-10"/>
+		<cosponsor id="400042" joined="2009-01-22"/>
+		<cosponsor id="400184" joined="2009-02-10"/>
+		<cosponsor id="400288" joined="2009-01-22"/>
+		<cosponsor id="400285" joined="2009-02-10"/>
+		<cosponsor id="400010" joined="2009-01-06"/>
+		<cosponsor id="412255" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1233291600" datetime="2009-01-30"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Armed Services" subcommittee="Military Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Afghanistan"/>
+		<term name="Asia"/>
+		<term name="Conflicts and wars"/>
+		<term name="Iraq"/>
+		<term name="Middle East"/>
+		<term name="Military operations and strategy"/>
+		<term name="National Guard and reserves"/>
+		<term name="Veterans' pensions and compensation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>National Guardsmen and Reservists Parity for Patriots Act - Amends the National Defense Authorization Act for Fiscal Year 2008 to back-date to September 11, 2001, the period of active duty or performed active service, in support of a contingency operation or in other emergency situations, for which members of Ready Reserve components of the armed forces shall receive credit in determining eligibility for early receipt of non-regular service retired pay.<br/>
+	</summary>
+</bill>

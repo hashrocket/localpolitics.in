@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="78" updated="2009-03-07T09:56:54-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Stop Mortgage Fraud Act</title>
+		<title type="official" as="introduced">To authorize additional appropriations for the Federal Bureau of Investigation to enhance its ability to more effectively stop mortgage fraud, and for other purposes.</title>
+	</titles>
+	<sponsor id="400027"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Department of Justice"/>
+		<term name="Federal Bureau of Investigation (FBI)"/>
+		<term name="Fraud offenses"/>
+		<term name="Housing finance and home ownership"/>
+		<term name="Investigation, prosecution, interrogation methods"/>
+		<term name="Law enforcement administration and funding"/>
+		<term name="Law enforcement officers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Stop Mortgage Fraud Act - Authorizes appropriations to the Department of Justice for FY2009-FY2013 for: (1) the employment of 30 additional agents of the Federal Bureau of Investigation (FBI) and two additional prosecutors to coordinate prosecution of mortgage fraud cases with the offices of the U.S. Attorneys; and (2) the operations of the FBI interagency task forces in the areas with the 15 highest concentrations of mortgage fraud. 
+	</summary>
+</bill>

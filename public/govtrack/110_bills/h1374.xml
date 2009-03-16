@@ -1,0 +1,40 @@
+<bill session="110" type="h" number="1374" updated="2009-01-08T19:43:12-05:00">
+	<status><vote date="1197952080" datetime="2007-12-17T12:28:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1173243600" datetime="2007-03-07"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Florida National Forest Land Management Act of 2003 to authorize the conveyance of an additional tract of National Forest System land under that Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="400044"/>
+	<cosponsors>
+		<cosponsor id="400086" joined="2007-03-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1173243600" datetime="2007-03-07"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action date="1174363200" datetime="2007-03-20"><text>Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.</text></action>
+		<action date="1197435600" datetime="2007-12-12"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1197435600" datetime="2007-12-12" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1197951660" datetime="2007-12-17T12:21:00-05:00"><text>Mr. Peterson (MN) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1197951660" datetime="2007-12-17T12:21:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H15475-15476"/></action>
+		<action date="1197951660" datetime="2007-12-17T12:21:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1374.</text></action>
+		<vote date="1197952080" how="by voice vote" datetime="2007-12-17T12:28:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H15475"/></vote>
+		<action date="1197954000" datetime="2007-12-18"><text>Received in the Senate.</text></action>
+		<action date="1200978000" datetime="2008-01-22"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1208836800" datetime="2008-04-22"><text>Committee on Energy and Natural Resources Senate Subcommittee on Public Lands and Forests. Hearings held.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/17/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Amends the Florida National Forest Land Management Act of 2003 to: (1) authorize the conveyance of an additional tract of federal land pursuant to the Act; and (2) provide for the disposition of the net proceeds derived from sales or exchanges under the Act to be available for expenditure by the Secretary of Agriculture for the acquisition, construction, or maintenance of administrative improvements for units of the National Forest System in Florida. Permits: (1) proceeds from the sale or exchange of such additional tract to be used exclusively for the purchase of inholdings in the Apalachicola National Forest; and (2) proceeds from any sale or exchange of land under this Act to be used for administrative improvements, as authorized above, only if the land generating the proceeds was improved with infrastructure. 
+	</summary>
+</bill>

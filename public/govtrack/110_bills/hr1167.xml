@@ -1,0 +1,38 @@
+<bill session="110" type="hr" number="1167" updated="2009-01-09T10:19:27-05:00">
+	<status><vote date="1209700620" datetime="2008-05-01T12:57:00-04:00" where="h" result="pass" how="roll" roll="236"/></status>
+
+	<introduced date="1209528000" datetime="2008-04-30"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of motions to suspend the rules.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1209585480" datetime="2008-04-30T16:58:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-614, by Ms. Slaughter.</text></action>
+		<action date="1209585480" datetime="2008-04-30T16:58:00-04:00"><text>The amendment authorized the Speaker to entertain motions that the House suspend the rules at any time on the legislative day of May 1, 2008 relating to the following measures: H.R. 5715, H.R. 493, and a bill to provide for a temporary extension of programs authorized by the Farm Security and Rural Investment Act of 2002.</text></action>
+		<calendar date="1209585480" datetime="2008-04-30T16:58:00-04:00" ><text>Placed on the House Calendar, Calendar No. 213.</text></calendar>
+		<action date="1209648180" datetime="2008-05-01T10:23:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H2953-2956"/></action>
+		<action date="1209648240" datetime="2008-05-01T10:24:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 1167.</text></action>
+		<action date="1209649080" datetime="2008-05-01T10:38:00-04:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 1167, the Chair put the question on ordering the previous question and by voice vote, announced that the noes had prevailed. Ms. Slaughter demanded the yeas and nays which were ordered and pursuant to the rule, the Chair postponed further proceedings on the resolution until later in the legislative day.</text></action>
+		<action date="1209699660" datetime="2008-05-01T12:41:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2980-2981"/></action>
+		<action date="1209700080" datetime="2008-05-01T12:48:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 226 - 190 (Roll no. 235).</text><reference label="consideration" ref="CR H2956, H2980-2981"/></action>
+		<vote date="1209700620" how="roll" roll="236" datetime="2008-05-01T12:57:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 228 - 189 (Roll no. 236).</text><reference label="text" ref="CR H2953"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/30/2008--Introduced.<br/>Makes it in order at any time on the legislative day of Thursday, May 1, 2008, for the Speaker of the House of Representatives to entertain motions that the House suspend the rules relating to the following measures: (1) H.R. 5715 (Ensuring Continued Access to Student Loans Act of 2008); (2) H.R. 493 (Genetic Information Nondiscrimination Act of 2008); and (3) a bill to provide for a temporary extension of programs authorized by the Farm Security and Rural Investment Act of 2002. 
+	</summary>
+</bill>

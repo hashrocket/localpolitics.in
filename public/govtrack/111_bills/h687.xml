@@ -1,0 +1,49 @@
+<bill session="111" type="h" number="687" updated="2009-03-07T11:08:26-05:00">
+	<status><introduced date="1232946000" datetime="2009-01-26"/></status>
+
+	<introduced date="1232946000" datetime="2009-01-26"/>
+	<titles>
+		<title type="short" as="introduced">Highway Trust Fund Reform Act of 2009</title>
+		<title type="official" as="introduced">To amend titles 23 and 49, United States Code, to repeal wage requirements applicable to laborers and mechanics employed on Federal-aid highway and public transportation construction projects.</title>
+	</titles>
+	<sponsor id="400643"/>
+	<cosponsors>
+		<cosponsor id="400367" joined="2009-01-26"/>
+		<cosponsor id="400311" joined="2009-03-04"/>
+		<cosponsor id="400320" joined="2009-01-26"/>
+		<cosponsor id="400175" joined="2009-01-26"/>
+		<cosponsor id="412270" joined="2009-03-04"/>
+		<cosponsor id="400385" joined="2009-02-23"/>
+		<cosponsor id="400644" joined="2009-01-26"/>
+		<cosponsor id="412256" joined="2009-02-23"/>
+		<cosponsor id="412191" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to House Education and Labor</text></action>
+		<action date="1233032400" datetime="2009-01-27"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Highways and Transit.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Highways and Transit" activity="Referral" />
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Public transit"/>
+		<term name="Roads and highways"/>
+		<term name="Transportation programs funding"/>
+		<term name="Wages and earnings"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/2009--Introduced.<br/>Highway Trust Fund Reform Act of 2009 - Repeals the Davis-Bacon Act (which requires that the locally prevailing wage rate be paid to laborers and mechanics working on federal-aid highway construction projects and public transportation construction projects).<br/>
+	</summary>
+</bill>

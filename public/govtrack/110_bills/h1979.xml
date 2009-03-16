@@ -1,0 +1,42 @@
+<bill session="110" type="h" number="1979" updated="2009-01-08T20:59:30-05:00">
+	<status><vote date="1184095860" datetime="2007-07-10T16:31:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1177041600" datetime="2007-04-20"/>
+	<titles>
+		<title type="short" as="introduced">Interstate Recognition of Notarizations Act of 2007</title>
+		<title type="short" as="passed house">Interstate Recognition of Notarizations Act of 2007</title>
+		<title type="official" as="introduced">To require any Federal or State court to recognize any notarization made by a notary public licensed by a State other than the State where the court is located when such notarization.</title>
+		<title type="official" as="amended by house">To require any Federal or State court to recognize any notarization made by a notary public licensed by a State other than the State where the court is located when such notarization occurs in or affects interstate commerce.</title>
+	</titles>
+	<sponsor id="400004"/>
+	<cosponsors>
+		<cosponsor id="400092" joined="2007-04-20"/>
+		<cosponsor id="412208" joined="2007-04-20"/>
+		<cosponsor id="400070" joined="2007-06-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1177041600" datetime="2007-04-20"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1178251200" datetime="2007-05-04"><text>Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.</text></action>
+		<action date="1184094840" datetime="2007-07-10T16:14:00-04:00"><text>Mr. Conyers moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1184094840" datetime="2007-07-10T16:14:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7466-7468"/></action>
+		<action date="1184094840" datetime="2007-07-10T16:14:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1979.</text></action>
+		<vote date="1184095860" how="by voice vote" datetime="2007-07-10T16:31:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action date="1184095860" datetime="2007-07-10T16:31:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1184126400" datetime="2007-07-11"><text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/10/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Interstate Recognition of Notarizations Act of 2007 - Requires each federal and state court to recognize any lawful notarization occurring in or affecting interstate commerce which is made by a notary public licensed or commissioned under the laws of a state other than the state where the court is located.<br/>Requires such a notarization to: (1) use a seal of office as symbol of the notary public's authority; or (2) have the seal information, in the case of an electronic record, securely attached to, or logically associated with, the electronic record so as to render the record tamper-resistant.<br/>
+	</summary>
+</bill>

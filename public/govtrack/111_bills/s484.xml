@@ -1,0 +1,45 @@
+<bill session="111" type="s" number="484" updated="2009-03-07T14:30:57-05:00">
+	<status><introduced date="1235538000" datetime="2009-02-25"/></status>
+
+	<introduced date="1235538000" datetime="2009-02-25"/>
+	<titles>
+		<title type="short" as="introduced">Social Security Fairness Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend title II of the Social Security Act to repeal the Government pension offset and windfall elimination provisions.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="2009-02-25"/>
+		<cosponsor id="300025" joined="2009-02-25"/>
+		<cosponsor id="400050" joined="2009-02-25"/>
+		<cosponsor id="400064" joined="2009-02-25"/>
+		<cosponsor id="300011" joined="2009-02-25"/>
+		<cosponsor id="300091" joined="2009-03-04"/>
+		<cosponsor id="300060" joined="2009-02-25"/>
+		<cosponsor id="300078" joined="2009-02-25"/>
+		<cosponsor id="300038" joined="2009-02-25"/>
+		<cosponsor id="300034" joined="2009-03-02"/>
+		<cosponsor id="300068" joined="2009-02-25"/>
+		<cosponsor id="412247" joined="2009-02-25"/>
+		<cosponsor id="300058" joined="2009-03-05"/>
+		<cosponsor id="300064" joined="2009-03-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1235538000" datetime="2009-02-25"><text>Sponsor introductory remarks on measure. (CR S2486-2487)</text></action>
+		<action date="1235538000" datetime="2009-02-25"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S2487"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

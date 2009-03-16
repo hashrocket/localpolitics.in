@@ -1,0 +1,38 @@
+<bill session="110" type="s" number="574" updated="2009-01-09T12:23:07-05:00">
+	<status><calendar date="1171429200" datetime="2007-02-14" /></status>
+
+	<introduced date="1171342800" datetime="2007-02-13"/>
+	<titles>
+		<title type="popular" as="">Iraq War Policy bill</title>
+		<title type="official" as="introduced">A bill to express the sense of Congress on Iraq.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="300077" joined="2007-02-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1171342800" datetime="2007-02-13"><text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text><reference label="text of measure as introduced" ref="CR S1916"/></action>
+		<calendar date="1171429200" datetime="2007-02-14" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 25.</text></calendar>
+		<action date="1171515600" datetime="2007-02-15"><text>Motion to proceed to consideration of measure made in Senate.</text><reference label="consideration" ref="CR S2015"/></action>
+		<action date="1171515600" datetime="2007-02-15"><text>Cloture motion on the motion to proceed to the bill presented in Senate.</text><reference label="consideration" ref="CR S2015"/><reference label="text" ref="CR S2015"/></action>
+		<action date="1171602000" datetime="2007-02-16"><text>Motion to proceed to measure considered in Senate.</text><reference label="consideration" ref="CR S2182"/></action>
+		<action date="1171688400" datetime="2007-02-17"><text>Motion to proceed to measure considered in Senate.</text><reference label="consideration" ref="CR S2185-2199"/></action>
+		<vote-aux date="1171688400" how="roll" roll="51" datetime="2007-02-17" where="s" type="cloture" result="fail" ><text>Cloture on the motion to proceed to the bill not invoked in Senate by Yea-Nay Vote. 56 - 34. Record Vote Number: 51.</text><reference label="consideration" ref="CR S2199"/><reference label="text" ref="CR S2199"/></vote-aux>
+		<action date="1171688400" datetime="2007-02-17"><text>Motion to proceed to consideration of measure withdrawn in Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2007--Introduced.<br/>Expresses the sense of Congress that: (1) Congress and the American people will continue to support and protect U.S. Armed Forces members who are serving or who have served bravely and honorably in Iraq; and (2) Congress disapproves of President George W. Bush's decision announced on January 10, 2007, to deploy more than 20,000 additional U.S. combat troops to Iraq. Amends the United States Policy in Iraq Act to require reports every 30 days on specified aspects of U.S. policy and military operations in Iraq until all U.S. combat brigades have been redeployed from Iraq. 
+	</summary>
+</bill>

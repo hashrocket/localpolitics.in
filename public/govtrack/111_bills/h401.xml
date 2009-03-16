@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="401" updated="2009-03-07T10:34:51-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">River Raisin National Battlefield Act</title>
+		<title type="official" as="introduced">To provide for the designation of certain sites in Monroe County and Wayne County, Michigan, relating to the Battles of the River Raisin during the War of 1812 as a unit of the National Park System.</title>
+	</titles>
+	<sponsor id="400110"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="110" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Land transfers"/>
+		<term name="Michigan"/>
+		<term name="Military history"/>
+		<term name="Parks, recreation areas, trails"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>River Raisin National Battlefield Act - Directs the Secretary of the Interior, if offered by Monroe or Wayne Counties, Michigan, or other willing landowners in either county, to accept a donation of real property in either county relating to the Battles of River Raisin (during the War of 1812) on January 18 and 22, 1813, and their aftermath. Instructs the Secretary, upon acquisition of such real property of sufficient acreage to permit efficient administration, to designate the acquired real property as a unit of the National Park System, to be known as the &quot;River Raisin National Battlefield Park.&quot;<br/>Requires the Secretary to submit a report describing the progress made in acquiring real property under this Act and in designating the park. 
+	</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="110" type="h" number="1337" updated="2009-01-08T19:38:25-05:00">
+	<status><vote date="1193078400" datetime="2007-10-22T15:40:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1173157200" datetime="2007-03-06"/>
+	<titles>
+		<title type="official" as="introduced">To provide for a feasibility study of alternatives to augment the water supplies of the Central Oklahoma Master Conservancy District and cities served by the District.</title>
+	</titles>
+	<sponsor id="400077"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1173157200" datetime="2007-03-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1173672000" datetime="2007-03-12"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1176955200" datetime="2007-04-19"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1176955200" datetime="2007-04-19"><text>Forwarded by Subcommittee to Full Committee by Unanimous Consent .</text></action>
+		<calendar date="1183003200" datetime="2007-06-28" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1183003200" datetime="2007-06-28"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<action date="1184086860" datetime="2007-07-10T14:01:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-221.</text></action>
+		<calendar number="137" date="1184086860" datetime="2007-07-10T14:01:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 137.</text></calendar>
+		<action date="1184089140" datetime="2007-07-10T14:39:00-04:00"><text>Mr. Sarbanes moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1184089200" datetime="2007-07-10T14:40:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7443-7444"/></action>
+		<action date="1184089200" datetime="2007-07-10T14:40:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1337.</text></action>
+		<action date="1184089500" datetime="2007-07-10T14:45:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1184195400" datetime="2007-07-11T20:10:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7628"/></action>
+		<vote date="1184195880" how="roll" roll="616" datetime="2007-07-11T20:18:00-04:00" where="h" type="vote" suspension="1" result="fail" ><text>On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 208 - 211 (Roll no. 616). (text: CR 7/10/2007 CR H7443)</text></vote>
+		<action date="1193078220" datetime="2007-10-22T15:37:00-04:00"><text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1193078220" datetime="2007-10-22T15:37:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11802-11803"/></action>
+		<action date="1193078280" datetime="2007-10-22T15:38:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1337.</text></action>
+		<vote date="1193078400" how="by voice vote" datetime="2007-10-22T15:40:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H11802-11803"/></vote>
+		<calendar under="General Orders" number="437" date="1193112000" datetime="2007-10-23" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 437.</text></calendar>
+		<action date="1213156800" datetime="2008-06-11"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S5530"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/22/2007--Passed House amended. (This measure has not been amended since it was reported to the House on July 10, 2007. The summary of that version is repeated here.)<br/>Directs the Commissioner of the Bureau of Reclamation to conduct a feasibility study of alternatives to augment the water supplies of the Central Oklahoma Master Conservatory District and cities served by the District. Authorizes appropriations.<br/>
+	</summary>
+</bill>

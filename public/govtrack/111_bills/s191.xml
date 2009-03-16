@@ -1,0 +1,38 @@
+<bill session="111" type="s" number="191" updated="2009-03-07T13:56:07-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Great Sand Dunes National Park and Preserve Act of 2000 to explain the purpose and provide for the administration of the Baca National Wildlife Refuge.</title>
+	</titles>
+	<sponsor id="400619"/>
+	<cosponsors>
+		<cosponsor id="400412" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Energy and Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="169" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Aquatic ecology"/>
+		<term name="Birds"/>
+		<term name="Colorado"/>
+		<term name="Land use and conservation"/>
+		<term name="Water use and supply"/>
+		<term name="Wetlands"/>
+		<term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Amends the Great Sand Dunes National Park and Preserve Act of 2000 to provide that the purpose of the Baca National Wildlife Refuge shall be to restore, enhance, and maintain wetland, upland, riparian, and other habitats for native wildlife, plant, and fish species in the San Luis Valley. Instructs the Secretary of the Interior, in administering the Refuge, to: (1) emphasize migratory bird conservation; and (2) take into consideration the role of the Refuge in broader landscape conservation efforts. Provides for the Secretary, in administering water resources for the Refuge, to use decreed water rights on the Refuge in approximately the same manner that the water rights have been used historically, subject to any existing agreement and to the extent consistent with the Refuge's purposes. 
+	</summary>
+</bill>

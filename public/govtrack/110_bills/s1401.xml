@@ -1,0 +1,37 @@
+<bill session="110" type="s" number="1401" updated="2009-01-09T14:43:03-05:00">
+	<status><introduced date="1179201600" datetime="2007-05-15"/></status>
+
+	<introduced date="1179201600" datetime="2007-05-15"/>
+	<titles>
+		<title type="short" as="introduced">Student Financial Aid Data Privacy Protection Act</title>
+		<title type="official" as="introduced">A bill to improve the National Student Loan Data System.</title>
+	</titles>
+	<sponsor id="300041"/>
+	<cosponsors>
+		<cosponsor id="300002" joined="2007-05-15"/>
+		<cosponsor id="300083" joined="2007-05-15"/>
+		<cosponsor id="300003" joined="2007-05-15"/>
+		<cosponsor id="300075" joined="2007-05-15"/>
+		<cosponsor id="400054" joined="2007-05-15"/>
+		<cosponsor id="400194" joined="2007-05-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1179201600" datetime="2007-05-15"><text>Sponsor introductory remarks on measure. (CR S6140-6141)</text></action>
+		<action date="1179201600" datetime="2007-05-15"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S6141"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/15/2007--Introduced.<br/>Student Financial Aid Data Privacy Protection Act - Amends the Higher Education Act of 1965 to direct the Secretary of Education to take actions necessary to maintain confidence in the National Student Loan Data System, at a minimum: (1) ensuring that guaranty agencies, lenders, and schools primarily access it for legitimate program operations; (2) prohibiting nongovernmental researchers or policy analysts from accessing personally identifiable information; (3) creating a disclosure form for actual and potential students describing the contents of, and access to, the system; (4) requiring guaranty agencies, lenders, and schools to inform borrowers of Federal Family Education Loans, Direct Loans, and Perkins Loans that such a loan will be submitted to the system and accessible to such entities; (5) regularly review the system to delete inactive users, monitor use, and ensure that data is not used for marketing purposes; and (6) developing standardized protocols for limiting access. Requires the Secretary to study and report to Congress on: (1) mechanisms giving borrowers the option of restricting lender access to their system records; and (2) appropriate risk-based protocols for limiting access.<br/>
+	</summary>
+</bill>

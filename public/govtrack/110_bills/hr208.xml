@@ -1,0 +1,71 @@
+<bill session="110" type="hr" number="208" updated="2009-01-09T08:19:22-05:00">
+	<status><vote date="1184610180" datetime="2007-07-16T15:23:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1172725200" datetime="2007-03-01"/>
+	<titles>
+		<title type="official" as="introduced">Honoring Operation Smile in the 25th Anniversary year of its founding.</title>
+		<title type="official" as="amended by house">Resolution recognizing the 25th anniversary of the founding of Operation Smile.</title>
+	</titles>
+	<sponsor id="400658"/>
+	<cosponsors>
+		<cosponsor id="400627" joined="2007-06-28"/>
+		<cosponsor id="400327" joined="2007-06-25"/>
+		<cosponsor id="400364" joined="2007-03-01"/>
+		<cosponsor id="400660" joined="2007-06-26"/>
+		<cosponsor id="400137" joined="2007-03-14"/>
+		<cosponsor id="400380" joined="2007-06-25"/>
+		<cosponsor id="400342" joined="2007-06-25"/>
+		<cosponsor id="400424" joined="2007-03-22"/>
+		<cosponsor id="400348" joined="2007-06-25"/>
+		<cosponsor id="400095" joined="2007-03-05"/>
+		<cosponsor id="400268" joined="2007-03-06"/>
+		<cosponsor id="400196" joined="2007-04-17"/>
+		<cosponsor id="400260" joined="2007-03-12"/>
+		<cosponsor id="400071" joined="2007-06-25"/>
+		<cosponsor id="400040" joined="2007-06-25"/>
+		<cosponsor id="400662" joined="2007-06-27"/>
+		<cosponsor id="400254" joined="2007-03-06"/>
+		<cosponsor id="400433" joined="2007-06-25"/>
+		<cosponsor id="412250" joined="2007-06-25"/>
+		<cosponsor id="400288" joined="2007-07-10"/>
+		<cosponsor id="400312" joined="2007-06-25"/>
+		<cosponsor id="400359" joined="2007-06-25"/>
+		<cosponsor id="400231" joined="2007-04-24"/>
+		<cosponsor id="400144" joined="2007-06-28"/>
+		<cosponsor id="400068" joined="2007-06-25"/>
+		<cosponsor id="400039" joined="2007-06-25"/>
+		<cosponsor id="400655" joined="2007-06-25"/>
+		<cosponsor id="400644" joined="2007-06-25"/>
+		<cosponsor id="412236" joined="2007-03-09"/>
+		<cosponsor id="400371" joined="2007-06-26"/>
+		<cosponsor id="400145" joined="2007-06-25"/>
+		<cosponsor id="400315" joined="2007-06-25"/>
+		<cosponsor id="400141" joined="2007-03-12"/>
+		<cosponsor id="400622" joined="2007-06-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1172725200" datetime="2007-03-01"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1182830400" datetime="2007-06-26"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1182830400" datetime="2007-06-26" ><text>Committee Agreed to Seek Consideration Under Suspension of the Rules, (Amended) by Unanimous Consent.</text></calendar>
+		<action date="1184609700" datetime="2007-07-16T15:15:00-04:00"><text>Ms. Watson moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1184609700" datetime="2007-07-16T15:15:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7800-7802"/></action>
+		<action date="1184609760" datetime="2007-07-16T15:16:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 208.</text></action>
+		<vote date="1184610180" how="by voice vote" datetime="2007-07-16T15:23:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H7800"/></vote>
+		<action date="1184610180" datetime="2007-07-16T15:23:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/16/2007--Passed House amended. Recognizes the 25th anniversary of the founding of Operation Smile as its volunteer medical professionals continue to travel around the world to treat children suffering from facial deformities. 
+	</summary>
+</bill>

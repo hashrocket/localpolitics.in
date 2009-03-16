@@ -1,0 +1,34 @@
+<bill session="111" type="sr" number="35" updated="2009-03-07T14:42:32-05:00">
+	<status><vote date="1234328400" datetime="2009-02-11" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="official" as="introduced">A resolution honoring Miami University for its 200 years of commitment to public higher education.</title>
+	</titles>
+	<sponsor id="300098"/>
+	<cosponsors>
+		<cosponsor id="400050" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<vote date="1234328400" how="by Unanimous Consent" datetime="2009-02-11" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="text as passed Senate; text of measure as introduced: CR S2163" ref="text as passed Senate; text of measure as introduced: CR S2163"/><reference label="text of measure as introduced" ref="CR S2163"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="128" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Higher education"/>
+		<term name="Ohio"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Congratulates Miami University, in Ohio, on its 200th anniversary. Expresses the Senate's best wishes for its continued success.<br/>
+	</summary>
+</bill>

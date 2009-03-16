@@ -1,0 +1,47 @@
+<bill session="111" type="h" number="32" updated="2009-03-07T09:51:34-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Veterans Outreach Improvement Act of 2009</title>
+		<title type="official" as="introduced">To amend title 38, United States Code, to improve the outreach activities of the Department of Veterans Affairs, and for other purposes.</title>
+	</titles>
+	<sponsor id="400266"/>
+	<cosponsors>
+		<cosponsor id="412287" joined="2009-01-06"/>
+		<cosponsor id="400339" joined="2009-01-13"/>
+		<cosponsor id="400125" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Subcommittee on Oversight and Investigations.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Oversight and Investigations" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Department of Veterans Affairs"/>
+		<term name="Government information and archives"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Performance measurement"/>
+		<term name="Public contracts and procurement"/>
+		<term name="State and local finance"/>
+		<term name="State and local government operations"/>
+		<term name="Veterans' education, employment, rehabilitation"/>
+		<term name="Veterans' loans, housing, homeless programs"/>
+		<term name="Veterans' medical care"/>
+		<term name="Veterans' pensions and compensation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Veterans Outreach Improvement Act of 2009 - Directs the Secretary of Veterans Affairs to establish, maintain, and modify as necessary procedures for ensuring the effective coordination of outreach activities of the Department of Veterans Affairs (VA) between and among the Office of the Secretary, the Office of Public Affairs, the Veterans Health Administration, the Veterans Benefits Administration, and the National Cemetery Administration. Directs the Secretary to give priority to state and county outreach assistance in locations that: (1) have relatively large concentrations of veterans; or (2) are experiencing growth in veteran populations. Authorizes the Secretary to make grants to state or county veterans agencies for state and local outreach services.<br/>
+	</summary>
+</bill>

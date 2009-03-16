@@ -1,0 +1,94 @@
+<bill session="110" type="h" number="814" updated="2009-01-08T18:31:14-05:00">
+	<status><enacted date="1216267200" datetime="2008-07-17" /></status>
+
+	<introduced date="1170651600" datetime="2007-02-05"/>
+	<titles>
+		<title type="short" as="introduced">Children's Gasoline Burn Prevention Act</title>
+		<title type="short" as="reported to house">Children's Gasoline Burn Prevention Act</title>
+		<title type="short" as="passed house">Children's Gasoline Burn Prevention Act</title>
+		<title type="short" as="passed senate">Children's Gasoline Burn Prevention Act</title>
+		<title type="short" as="enacted">Children's Gasoline Burn Prevention Act</title>
+		<title type="official" as="introduced">To require the Consumer Product Safety Commission to issue regulations mandating child-resistant closures on all portable gasoline containers.</title>
+	</titles>
+	<sponsor id="400282"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2007-02-05"/>
+		<cosponsor id="400257" joined="2007-02-05"/>
+		<cosponsor id="400155" joined="2007-09-27"/>
+		<cosponsor id="400407" joined="2007-02-15"/>
+		<cosponsor id="400162" joined="2007-03-06"/>
+		<cosponsor id="400183" joined="2007-02-05"/>
+		<cosponsor id="400096" joined="2007-02-05"/>
+		<cosponsor id="400170" joined="2007-02-08"/>
+		<cosponsor id="400647" joined="2007-02-05"/>
+		<cosponsor id="412210" joined="2007-06-15"/>
+		<cosponsor id="400274" joined="2007-02-05"/>
+		<cosponsor id="400184" joined="2007-02-05"/>
+		<cosponsor id="400055" joined="2007-02-05"/>
+		<cosponsor id="400010" joined="2007-02-05"/>
+		<cosponsor id="400245" joined="2007-02-05"/>
+		<cosponsor id="400356" joined="2007-02-08"/>
+		<cosponsor id="400166" joined="2007-07-12"/>
+		<cosponsor id="400436" joined="2007-03-09"/>
+		<cosponsor id="400076" joined="2007-02-05"/>
+		<cosponsor id="400360" joined="2007-02-05"/>
+		<cosponsor id="400211" joined="2007-02-05"/>
+		<cosponsor id="400074" joined="2007-02-05"/>
+		<cosponsor id="400628" joined="2007-03-12"/>
+		<cosponsor id="400284" joined="2007-02-08"/>
+		<cosponsor id="400326" joined="2007-02-05"/>
+		<cosponsor id="400371" joined="2007-02-05"/>
+		<cosponsor id="400185" joined="2007-03-09"/>
+		<cosponsor id="400283" joined="2007-02-05"/>
+		<cosponsor id="400204" joined="2007-02-05"/>
+		<cosponsor id="400090" joined="2007-02-05"/>
+		<cosponsor id="400042" joined="2007-02-08"/>
+		<cosponsor id="400438" joined="2007-02-05"/>
+		<cosponsor id="400150" joined="2007-02-05"/>
+		<cosponsor id="400215" joined="2007-02-05"/>
+		<cosponsor id="400301" joined="2007-06-05"/>
+		<cosponsor id="400345" joined="2007-03-09"/>
+		<cosponsor id="400163" joined="2007-02-05"/>
+		<cosponsor id="400425" joined="2007-06-05"/>
+		<cosponsor id="400179" joined="2007-03-09"/>
+		<cosponsor id="400639" joined="2007-02-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1170651600" datetime="2007-02-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1170738000" datetime="2007-02-06"><text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text></action>
+		<action date="1181102400" datetime="2007-06-06"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1185854400" datetime="2007-07-31"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1185854400" datetime="2007-07-31"><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action date="1190865600" datetime="2007-09-27"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1190865600" datetime="2007-09-27" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1191954780" datetime="2007-10-09T15:33:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-367.</text></action>
+		<calendar number="228" date="1191954780" datetime="2007-10-09T15:33:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 228.</text></calendar>
+		<action date="1191955380" datetime="2007-10-09T15:43:00-04:00"><text>Mr. Rush moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1191955380" datetime="2007-10-09T15:43:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11337-11339"/></action>
+		<action date="1191955380" datetime="2007-10-09T15:43:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 814.</text></action>
+		<vote date="1191955920" how="by voice vote" datetime="2007-10-09T15:52:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H11337"/></vote>
+		<action date="1192420800" datetime="2007-10-15"><text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+		<action date="1213588800" datetime="2008-06-16"><text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S5665"/></action>
+		<vote date="1213588800" how="by Unanimous Consent" datetime="2008-06-16" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<topresident date="1213588800" datetime="2008-06-16" ><text>Cleared for White House.</text></topresident>
+		<action date="1213675200" datetime="2008-06-17"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1215403200" datetime="2008-07-07" ><text>Presented to President.</text></topresident>
+		<signed date="1216267200" datetime="2008-07-17" ><text>Signed by President.</text></signed>
+		<enacted number="110-278" date="1216267200" datetime="2008-07-17" type="public" ><text>Became Public Law No: 110-278.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/17/2008--Public Law. (This measure has not been amended since it was passed by the House on October 9, 2007. The summary of that version is repeated here.) Children's Gasoline Burn Prevention Act - Requires each portable gasoline container manufactured for sale in the United States and intended for use by consumers to conform to a specified child-resistance standard issued by ASTM International. Considers that requirement to be a consumer product safety rule issued by the Consumer Product Safety Commission (CPSC) under the Consumer Product Safety Act. Requires the CPSC to report to specified congressional committees on the degree of industry compliance, related enforcement actions, and incidents involving children interacting with portable gasoline containers (including both those that are and are not in compliance with the standard).<br/>
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="110" type="sc" number="85" updated="2009-01-09T19:50:35-05:00">
+	<status><vote date="1211428800" datetime="2008-05-22" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1211428800" datetime="2008-05-22"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution authorizing the use of the rotunda of the Capitol to honor Frank W. Buckles, the last surviving United States veteran of the First World War.</title>
+	</titles>
+	<sponsor id="300092"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="2008-05-22"/>
+		<cosponsor id="300016" joined="2008-05-22"/>
+		<cosponsor id="300035" joined="2008-05-22"/>
+		<cosponsor id="300067" joined="2008-05-22"/>
+		<cosponsor id="400054" joined="2008-05-22"/>
+		<cosponsor id="300084" joined="2008-05-22"/>
+		<cosponsor id="300099" joined="2008-05-22"/>
+	</cosponsors>
+	<actions>
+		<vote date="1211428800" how="by Unanimous Consent" datetime="2008-05-22" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S4848"/><reference label="text as passed Senate" ref="CR S4848"/><reference label="text of measure as introduced" ref="CR S4810"/></vote>
+		<action date="1211502120" datetime="2008-05-22T21:22:00-04:00"><text>Received in the House.</text></action>
+		<action date="1211428800" datetime="2008-05-22"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1211503500" datetime="2008-05-22T21:45:00-04:00"><text>Held at the desk.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/22/2008--Introduced.<br/>Authorizes the use of the Capitol rotunda on June 18, 2008, for a ceremony to honor the only living veteran of the First World War, Mr. Frank Woodruff Buckles, as a tribute and recognition of all U.S. military members who served in the First World War. 
+	</summary>
+</bill>

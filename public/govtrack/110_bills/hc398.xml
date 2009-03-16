@@ -1,0 +1,35 @@
+<bill session="110" type="hc" number="398" updated="2009-01-08T16:17:34-05:00">
+	<status><vote2 date="1217476800" datetime="2008-07-31" where="s" result="pass" how="roll" roll="196"/></status>
+
+	<introduced date="1217390400" datetime="2008-07-30"/>
+	<titles>
+		<title type="official" as="introduced">Providing for an adjournment or recess of the two Houses.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1217475240" datetime="2008-07-30T12:34:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H7517-7518"/></action>
+		<action date="1217475300" datetime="2008-07-30T12:35:00-04:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H7517"/></action>
+		<vote date="1217433840" how="roll" roll="537" datetime="2008-07-30T13:04:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 213 - 212 (Roll no. 537).</text><reference label="text" ref="CR H7517"/></vote>
+		<action date="1217390400" datetime="2008-07-30"><text>Received in the Senate.</text></action>
+		<vote date="1217476800" how="roll" roll="196" datetime="2008-07-31" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate without amendment by Yea-Nay Vote. 48 - 40. Record Vote Number: 196.</text><reference label="consideration" ref="CR S7880"/><reference label="text as passed Senate" ref="CR S7880"/></vote>
+		<action date="1217476800" datetime="2008-07-31"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/31/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Declares that, when the House adjourns on the legislative day of Thursday, July 31, 2008, Friday, August 1, 2008, or Saturday, August 2, 2008, it stand adjourned until 2 p.m. on Monday, September 8, 2008. Declares that, when the Senate recesses or adjourns on any day from Friday, August 1, 2008, through Friday, September 5, 2008, it stand recessed or adjourned until noon on Monday, September 8, 2008. 
+	</summary>
+</bill>

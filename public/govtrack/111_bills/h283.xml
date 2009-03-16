@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="283" updated="2009-03-07T10:20:54-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Hopewell Culture National Historical Park Boundary Adjustment Act</title>
+		<title type="official" as="introduced">To modify the boundary of the Hopewell Culture National Historical Park in the State of Ohio, and for other purposes.</title>
+	</titles>
+	<sponsor id="412229"/>
+	<cosponsors>
+		<cosponsor id="400352" joined="2009-01-07"/>
+		<cosponsor id="412227" joined="2009-01-07"/>
+		<cosponsor id="400227" joined="2009-01-07"/>
+		<cosponsor id="412010" joined="2009-01-07"/>
+		<cosponsor id="412228" joined="2009-01-07"/>
+		<cosponsor id="400406" joined="2009-01-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="General Native American affairs matters"/>
+		<term name="Historic sites and heritage areas"/>
+		<term name="Land transfers"/>
+		<term name="Ohio"/>
+		<term name="Parks, recreation areas, trails"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Hopewell Culture National Historical Park Boundary Adjustment Act - Modifies the boundary of the Hopewell Culture National Historical Park in Ohio to include certain lands marked for inclusion in the Park. Permits the acquisition of lands added under this Act only from willing sellers. 
+	</summary>
+</bill>

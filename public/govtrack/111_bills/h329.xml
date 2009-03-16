@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="329" updated="2009-03-07T10:26:20-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">Food Assistance to Improve Reintegration Act of 2009</title>
+		<title type="official" as="introduced">To amend the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to repeal the denial of food stamp eligibility of ex-offenders.</title>
+	</titles>
+	<sponsor id="400237"/>
+	<cosponsors>
+		<cosponsor id="412215" joined="2009-01-08"/>
+		<cosponsor id="400093" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the House Committee on Agriculture.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Agriculture" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Drug trafficking and controlled substances"/>
+		<term name="Drug, alcohol, tobacco use"/>
+		<term name="Food assistance and relief"/>
+		<term name="Poverty and welfare assistance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Food Assistance to Improve Reintegration Act of 2009 - Amends the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to repeal the denial of food stamp eligibility for a person convicted of a felony which has as an element the possession, use, or distribution of a controlled substance.<br/>
+	</summary>
+</bill>

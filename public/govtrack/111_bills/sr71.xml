@@ -1,0 +1,34 @@
+<bill session="111" type="sr" number="71" updated="2009-03-10T12:01:51-04:00">
+	<status><introduced date="1236571200" datetime="2009-03-09"/></status>
+
+	<introduced date="1236571200" datetime="2009-03-09"/>
+	<titles>
+		<title type="official" as="introduced">A resolution condemning the Government of Iran for its state-sponsored persecution of the Baha'i minority in Iran and its continued violation of the International Convenants on Human Rights.</title>
+	</titles>
+	<sponsor id="300100"/>
+	<cosponsors>
+		<cosponsor id="300013" joined="2009-03-09"/>
+		<cosponsor id="412247" joined="2009-03-09"/>
+		<cosponsor id="300091" joined="2009-03-09"/>
+		<cosponsor id="400272" joined="2009-03-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1236571200" datetime="2009-03-09"><text>Sponsor introductory remarks on measure. (CR S2914)</text></action>
+		<action date="1236571200" datetime="2009-03-09"><text>Referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S2914"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Foreign Relations" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="175" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

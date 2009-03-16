@@ -1,0 +1,41 @@
+<bill session="110" type="h" number="1191" updated="2009-01-08T19:19:44-05:00">
+	<status><vote date="1176827340" datetime="2007-04-17T13:29:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1172552400" datetime="2007-02-27"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the National Park Service to pay for services rendered by subcontractors under a General Services Administration Indefinite Deliver/Indefinite Quantity Contract issued for work to be completed at the Grand Canyon National Park.</title>
+	</titles>
+	<sponsor id="400336"/>
+	<cosponsors>
+		<cosponsor id="400310" joined="2007-04-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1172552400" datetime="2007-02-27"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1172725200" datetime="2007-03-01"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1176826920" datetime="2007-04-17T13:22:00-04:00"><text>Mr. Grijalva moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1176826980" datetime="2007-04-17T13:23:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3416-3417"/></action>
+		<action date="1176826980" datetime="2007-04-17T13:23:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1191.</text></action>
+		<vote date="1176827340" how="by voice vote" datetime="2007-04-17T13:29:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H3416"/></vote>
+		<action date="1176868800" datetime="2007-04-18"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1194498000" datetime="2007-11-08"><text>Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held.</text></action>
+		<calendar date="1201669200" datetime="2008-01-30" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1207800000" datetime="2008-04-10"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-319.</text></action>
+		<calendar under="General Orders" number="671" date="1207800000" datetime="2008-04-10" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 671.</text></calendar>
+		<action date="1213156800" datetime="2008-06-11"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S5530"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/17/2007--Passed House amended. Authorizes the Secretary of the Interior, subject to the appropriation of such funds as may be necessary, to pay the amount owed to the subcontractors of Pacific General, Inc.(PGI), for work performed at the Grand Canyon National Park between FY2002-FY2003 under a General Services Administration (GSA) indefinite deliver/indefinite quantity contract (IDIQ), provided that: (1) the primary contract between PGI and the National Park Service is terminated; (2) the amount owed to the subcontractors is verified; (3) all reasonable legal avenues or recourse have been exhausted by the subcontractors to recoup amounts owed directly from PGI; and (4) the subcontractors provide a written statement that payment of the amount verified represents payment in full by the United States for all work performed at the Park under the IDIQ with PGI between FY2002-FY2003. 
+	</summary>
+</bill>

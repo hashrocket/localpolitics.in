@@ -1,0 +1,35 @@
+<bill session="111" type="hr" number="215" updated="2009-03-07T13:32:15-05:00">
+	<status><introduced date="1236229200" datetime="2009-03-05"/></status>
+
+	<introduced date="1236229200" datetime="2009-03-05"/>
+	<titles>
+		<title type="official" as="introduced">Congratulating the Minority Business Development Agency on its 40th anniversary and commending its achievements in fostering the establishment and growth of minority businesses in the United States.</title>
+	</titles>
+	<sponsor id="400185"/>
+	<cosponsors>
+		<cosponsor id="400416" joined="2009-03-05"/>
+		<cosponsor id="400237" joined="2009-03-05"/>
+		<cosponsor id="400216" joined="2009-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1236229200" datetime="2009-03-05"><text>Referred to the Committee on Financial Services, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1236229200" datetime="2009-03-05"><text>Referred to House Financial Services</text></action>
+		<action date="1236229200" datetime="2009-03-05"><text>Referred to House Small Business</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Small Business" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

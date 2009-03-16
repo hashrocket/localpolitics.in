@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="412" updated="2009-03-07T10:36:11-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Homeowners Property Tax Relief Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow the deduction for property taxes in determining the amount of the alternative minimum taxable income of any taxpayer (other than a corporation).</title>
+	</titles>
+	<sponsor id="400195"/>
+	<cosponsors>
+		<cosponsor id="400031" joined="2009-01-13"/>
+		<cosponsor id="412222" joined="2009-01-13"/>
+		<cosponsor id="400426" joined="2009-01-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax deductions"/>
+		<term name="Income tax rates"/>
+		<term name="State and local taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Homeowners Property Tax Relief Act of 2009- Amends the Internal Revenue Code to allow the deduction of state and local real and personal property taxes in calculating the alternative minimum taxable income of individual taxpayers.<br/>
+	</summary>
+</bill>

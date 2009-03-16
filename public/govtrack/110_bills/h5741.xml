@@ -1,0 +1,60 @@
+<bill session="110" type="h" number="5741" updated="2009-01-09T04:45:38-05:00">
+	<status><vote date="1215537960" datetime="2008-07-08T14:26:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1207713600" datetime="2008-04-09"/>
+	<titles>
+		<title type="short" as="introduced">Shark Conservation Act of 2008</title>
+		<title type="short" as="reported to house">Shark Conservation Act of 2008</title>
+		<title type="short" as="passed house">Shark Conservation Act of 2008</title>
+		<title type="official" as="introduced">To amend the High Seas Driftnet Fishing Moratorium Protection Act and the Magnuson-Stevens Fishery Conservation and Management Act to improve the conservation of sharks.</title>
+	</titles>
+	<sponsor id="400041"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="2008-04-09"/>
+		<cosponsor id="400073" joined="2008-04-09"/>
+		<cosponsor id="400149" joined="2008-06-03"/>
+		<cosponsor id="400162" joined="2008-06-11"/>
+		<cosponsor id="400129" joined="2008-04-09"/>
+		<cosponsor id="400152" joined="2008-04-09"/>
+		<cosponsor id="400007" joined="2008-05-07"/>
+		<cosponsor id="400308" joined="2008-04-09"/>
+		<cosponsor id="400001" joined="2008-04-09"/>
+		<cosponsor id="400237" joined="2008-07-08"/>
+		<cosponsor id="400178" joined="2008-04-09"/>
+		<cosponsor id="400193" joined="2008-06-24"/>
+		<cosponsor id="400062" joined="2008-05-19"/>
+		<cosponsor id="400425" joined="2008-04-30"/>
+	</cosponsors>
+	<actions>
+		<action date="1207713600" datetime="2008-04-09"><text>Sponsor introductory remarks on measure. (CR E566)</text></action>
+		<action date="1207713600" datetime="2008-04-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1207800000" datetime="2008-04-10"><text>Referred to the Subcommittee on Fisheries, Wildlife, and Oceans.</text></action>
+		<action date="1208318400" datetime="2008-04-16"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1212552000" datetime="2008-06-04"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1212552000" datetime="2008-06-04"><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action date="1213156800" datetime="2008-06-11"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1213156800" datetime="2008-06-11" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1215537000" datetime="2008-07-08T14:10:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-740.</text></action>
+		<calendar number="471" date="1215537060" datetime="2008-07-08T14:11:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 471.</text></calendar>
+		<action date="1215537240" datetime="2008-07-08T14:14:00-04:00"><text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1215537240" datetime="2008-07-08T14:14:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6180-6182"/></action>
+		<action date="1215537240" datetime="2008-07-08T14:14:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5741.</text></action>
+		<vote date="1215537960" how="by voice vote" datetime="2008-07-08T14:26:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H6181"/></vote>
+		<action date="1215576000" datetime="2008-07-09"><text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/8/2008--Passed House amended. Shark Conservation Act of 2008 - Amends the High Seas Driftnet Fishing Moratorium Protection Act to direct the Secretary of Commerce to list a nation in the biennial report on international compliance if the nation's fishing vessels are or have been engaged in fishing activities that target or incidentally catch sharks and the nation has not adopted a shark conservation program that is comparable, taking into account different conditions, to that of the United States, including measures to prohibit removal any of the fins of a shark (including the tail) and discarding the carcass of the shark at sea. Amends the Magnuson-Stevens Fishery Conservation and Management Act to make it a prohibited act to: (1) remove any shark fin (including the tail) at sea; (2) have a fin aboard a fishing vessel unless the fin is naturally attached to the carcass; (3) transfer a fin from one vessel to another or receive a fin unless it is naturally attached; or (4) land a fin that is not naturally attached or a carcass without fins naturally attached. Creates a rebuttable presumption that, if any shark fin (including the tail) is aboard a non-fishing vessel without being naturally attached, the fin was transferred in violation.<br/>
+	</summary>
+</bill>

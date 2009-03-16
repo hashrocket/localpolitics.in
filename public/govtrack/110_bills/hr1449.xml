@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="1449" updated="2009-01-09T10:55:40-05:00">
+	<status><vote date="1221794580" datetime="2008-09-18T12:23:00-04:00" where="h" result="pass" how="roll" roll="606"/></status>
+
+	<introduced date="1221624000" datetime="2008-09-17"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 6604) to amend the Commodity Exchange Act to bring greater transparency and accountability to commodity markets, and for other purposes.</title>
+	</titles>
+	<sponsor id="412228"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1221686580" datetime="2008-09-17T18:23:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-859, by Ms. Sutton.</text></action>
+		<action date="1221686580" datetime="2008-09-17T18:23:00-04:00"><text>All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted.</text></action>
+		<calendar date="1221686580" datetime="2008-09-17T18:23:00-04:00" ><text>Placed on the House Calendar, Calendar No. 268.</text></calendar>
+		<action date="1221746160" datetime="2008-09-18T10:56:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H8406-8413"/></action>
+		<action date="1221746220" datetime="2008-09-18T10:57:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 1449.</text></action>
+		<action date="1221794100" datetime="2008-09-18T12:15:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 224 - 187 (Roll no. 605).</text><reference label="consideration" ref="CR H8412-8413"/></action>
+		<vote date="1221794580" how="roll" roll="606" datetime="2008-09-18T12:23:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by recorded vote: 218 - 190 (Roll no. 606).</text><reference label="text" ref="CR H8406"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/17/2008--Introduced.<br/>Sets forth the rule for consideration of the bill (H.R. 6604) to amend the Commodity Exchange Act to bring greater transparency and accountability to commodity markets.<br/>
+	</summary>
+</bill>

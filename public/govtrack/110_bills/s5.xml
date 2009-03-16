@@ -1,0 +1,97 @@
+<bill session="110" type="s" number="5" updated="2009-01-09T11:07:43-05:00">
+	<status><veto date="1182312000" datetime="2007-06-20" /></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="short" as="introduced">Stem Cell Research Enhancement Act of 2007</title>
+		<title type="short" as="passed house">Stem Cell Research Enhancement Act of 2007</title>
+		<title type="short" as="passed senate">Stem Cell Research Enhancement Act of 2007</title>
+		<title type="official" as="introduced">A bill to amend the Public Health Service Act to provide for human embryonic stem cell research.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="2007-04-11"/>
+		<cosponsor id="300056" joined="2007-01-04"/>
+		<cosponsor id="300065" joined="2007-01-04"/>
+		<cosponsor id="400272" joined="2007-01-04"/>
+		<cosponsor id="300005" joined="2007-02-05"/>
+		<cosponsor id="300009" joined="2007-03-14"/>
+		<cosponsor id="300025" joined="2007-01-10"/>
+		<cosponsor id="400064" joined="2007-01-09"/>
+		<cosponsor id="300059" joined="2007-01-04"/>
+		<cosponsor id="300018" joined="2007-01-04"/>
+		<cosponsor id="300011" joined="2007-01-04"/>
+		<cosponsor id="300093" joined="2007-01-04"/>
+		<cosponsor id="300042" joined="2007-01-04"/>
+		<cosponsor id="300052" joined="2007-01-04"/>
+		<cosponsor id="300060" joined="2007-01-04"/>
+		<cosponsor id="300038" joined="2007-01-04"/>
+		<cosponsor id="300066" joined="2007-01-04"/>
+		<cosponsor id="300073" joined="2007-01-04"/>
+		<cosponsor id="300087" joined="2007-01-04"/>
+		<cosponsor id="300061" joined="2007-01-04"/>
+		<cosponsor id="300092" joined="2007-01-04"/>
+		<cosponsor id="300034" joined="2007-01-04"/>
+		<cosponsor id="300068" joined="2007-01-04"/>
+		<cosponsor id="300081" joined="2007-01-04"/>
+		<cosponsor id="412249" joined="2007-01-04"/>
+		<cosponsor id="300037" joined="2007-03-13"/>
+		<cosponsor id="300051" joined="2007-01-04"/>
+		<cosponsor id="400050" joined="2007-01-11"/>
+		<cosponsor id="300022" joined="2007-01-04"/>
+		<cosponsor id="300001" joined="2007-01-04"/>
+		<cosponsor id="300067" joined="2007-01-04"/>
+		<cosponsor id="300091" joined="2007-01-04"/>
+		<cosponsor id="412243" joined="2007-04-10"/>
+		<cosponsor id="300076" joined="2007-02-05"/>
+		<cosponsor id="300078" joined="2007-01-04"/>
+		<cosponsor id="400629" joined="2007-01-04"/>
+		<cosponsor id="400357" joined="2007-01-17"/>
+		<cosponsor id="300043" joined="2007-01-04"/>
+		<cosponsor id="300058" joined="2007-02-27"/>
+		<cosponsor id="300090" joined="2007-01-04"/>
+		<cosponsor id="300064" joined="2007-01-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Sponsor introductory remarks on measure. (CR S9-11)</text></action>
+		<action date="1167886800" datetime="2007-01-04"><text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar date="1168232400" datetime="2007-01-08" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 3.</text></calendar>
+		<action date="1175140800" datetime="2007-03-29"><text>Star Print ordered on on the bill.</text></action>
+		<action date="1176177600" datetime="2007-04-10"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S4237-4294"/></action>
+		<action date="1176264000" datetime="2007-04-11"><text>Considered by Senate.</text><reference label="consideration" ref="CR S4319-4371, S4386-4391"/></action>
+		<vote date="1176264000" how="roll" roll="127" datetime="2007-04-11" where="s" type="vote" result="pass" ><text>Passed Senate, having acquired the 60 votes required under unanimous consent, without amendment by Yea-Nay Vote. 63 - 34. Record Vote Number: 127.</text><reference label="text as passed Senate" ref="CR S4389-4390"/></vote>
+		<action date="1176350400" datetime="2007-04-12"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1176743100" datetime="2007-04-16T14:05:00-04:00"><text>Received in the House.</text></action>
+		<action date="1176753480" datetime="2007-04-16T16:58:00-04:00"><text>Held at the desk.</text></action>
+		<action date="1181166360" datetime="2007-06-06T18:46:00-04:00"><text>Rules Committee Resolution H. Res. 464 Reported to House. Rule provides for consideration of S. 5 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. Bill is closed to amendments. All points of order against the bill and against its consideration are waived except those arising under clause 10 of rule XXI. A motion to commit is in order.</text></action>
+		<action date="1181227980" datetime="2007-06-07T11:53:00-04:00"><text>Rule H. Res. 464 passed House.</text></action>
+		<action date="1181228040" datetime="2007-06-07T11:54:00-04:00"><text>Considered under the provisions of rule H. Res. 464.</text><reference label="consideration" ref="CR H6125-6143"/></action>
+		<action date="1181228040" datetime="2007-06-07T11:54:00-04:00"><text>Rule provides for consideration of S. 5 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. Bill is closed to amendments. All points of order against the bill and against its consideration are waived except those arising under clause 10 of rule XXI. A motion to commit is in order.</text></action>
+		<action date="1181228220" datetime="2007-06-07T11:57:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on S. 5.</text></action>
+		<action date="1181233200" datetime="2007-06-07T13:20:00-04:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H6141"/></action>
+		<action date="1181233260" datetime="2007-06-07T13:21:00-04:00"><text>Mr. Gingrey moved to commit with instructions to Energy and Commerce.</text><reference label="consideration" ref="CR H6141-6142"/></action>
+		<action date="1181233320" datetime="2007-06-07T13:22:00-04:00"><text>DEBATE - The House proceeded with 10 minutes of debate on the Gingrey motion to commit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment in the nature of a substitute inserting a complete new text entitled &amp;quot;Alternative Pluripotent Stem Cell Therapies Enhancement Act of 2007.&amp;quot;</text></action>
+		<action date="1181233980" datetime="2007-06-07T13:33:00-04:00"><text>The previous question on the motion to commit with instructions was ordered without objection. (consideration: CR H6142-6143; text: H6141)</text></action>
+		<action date="1181235420" datetime="2007-06-07T13:57:00-04:00"><text>On motion to commit with instructions Failed by the Yeas and Nays: 180 - 242 (Roll no. 442).</text></action>
+		<vote date="1181235840" how="roll" roll="443" datetime="2007-06-07T14:04:00-04:00" where="h" type="vote2" result="pass" ><text>On passage Passed by the Yeas and Nays: 247 - 176 (Roll no. 443).</text><reference label="text" ref="CR H6125"/></vote>
+		<topresident date="1181188800" datetime="2007-06-07" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1181620800" datetime="2007-06-12" ><text>Presented to President.</text></topresident>
+		<vetoed date="1182312000" datetime="2007-06-20" ><text>Vetoed by President.</text><reference label="text of veto message" ref="CR S8060-8061"/></vetoed>
+		<action date="1182312000" datetime="2007-06-20"><text>Veto message received in Senate. Ordered held at the desk.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/7/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The expanded summary of the Senate passed version is repeated here.) Stem Cell Research Enhancement Act of 2007 - (Sec. 2) Amends the Public Health Service Act to require the Secretary of Health and Human Services to conduct and support research that utilizes human embryonic stem cells, regardless of the date on which the stem cells were derived from a human embryo. Limits such research to stem cells that meet the following ethical requirements: (1) the stem cells were derived from human embryos donated from in vitro fertilization clinics for the purpose of fertility treatment and were in excess of the needs of the individuals seeking such treatment; (2) the embryos would never be implanted in a woman and would otherwise be discarded; and (3) such individuals donate the embryos with written informed consent and receive no financial or other inducements. Directs the Secretary to: (1) issue final guidelines to carry out this Act within 60 days; and (2) submit annual reports on activities and research conducted under this Act. (Sec. 3) Requires the Secretary to develop techniques for the isolation, derivation, production, or testing of stem cells that are capable of producing all or almost all of the cell types of the developing body and may result in improved understanding of treatments for diseases and other adverse health conditions, but that are not derived from a human embryo. Requires the Secretary to: (1) provide guidance concerning the next steps required for additional research; (2) prioritize research with the greatest potential for near-term clinical benefit; and (3) take into account techniques outlined by the President's Council on Bioethics and any other appropriate techniques and research. Sets forth reporting requirements. Authorizes appropriations.<br/>
+	</summary>
+</bill>

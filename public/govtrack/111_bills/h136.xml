@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="136" updated="2009-03-07T10:03:46-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To better provide for compensation for certain persons injured in the course of employment at the Santa Susana Field Laboratory in California.</title>
+	</titles>
+	<sponsor id="400144"/>
+	<cosponsors>
+		<cosponsor id="400371" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Judiciary</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Education and Labor</text></action>
+		<action date="1234155600" datetime="2009-02-09"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" activity="Referral" />
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Law"/>
+		<term name="Administrative remedies"/>
+		<term name="California"/>
+		<term name="Department of Energy"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Military procurement, research, weapons development"/>
+		<term name="Nuclear weapons"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Worker safety and health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Amends the Energy Employees Occupational Illness Compensation Program Act of 2000 to include within the meaning of the term “member of the Special Exposure Cohort” a Department of Energy (DOE) employee, DOE contractor employee, or atomic weapons employee who was so employed for a number of work days aggregating at least 250 work days before January 1, 2006, at the Santa Susana Field Laboratory in California. Provides that a claim that an individual qualifies for compensation or benefits under such Act shall be considered notwithstanding any denial of any other claim for compensation with respect to such individual.<br/>
+	</summary>
+</bill>

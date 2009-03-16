@@ -1,0 +1,35 @@
+<bill session="110" type="s" number="979" updated="2009-01-09T13:48:14-05:00">
+	<status><introduced date="1174622400" datetime="2007-03-23"/></status>
+
+	<introduced date="1174622400" datetime="2007-03-23"/>
+	<titles>
+		<title type="short" as="introduced">Vote by Mail Act of 2007</title>
+		<title type="official" as="introduced">A bill to establish a Vote by Mail grant program.</title>
+	</titles>
+	<sponsor id="300100"/>
+	<cosponsors>
+		<cosponsor id="300018" joined="2007-09-27"/>
+		<cosponsor id="300060" joined="2007-03-23"/>
+		<cosponsor id="300019" joined="2008-04-21"/>
+		<cosponsor id="400629" joined="2007-06-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1174622400" datetime="2007-03-23"><text>Sponsor introductory remarks on measure. (CR S3710)</text></action>
+		<action date="1174622400" datetime="2007-03-23"><text>Read twice and referred to the Committee on Rules and Administration.</text><reference label="text of measure as introduced" ref="CR S3710-3712"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/23/2007--Introduced.<br/>Vote by Mail Act of 2007 - Directs the Election Assistance Commission to establish a Vote by Mail program of grants to participating states solely for implementation of procedures for the conduct of all elections by mail at the state or local level.<br/>Directs the Comptroller General to evaluate and report to Congress on the benefits of broader implementation of mail-in voting in elections.<br/>
+	</summary>
+</bill>

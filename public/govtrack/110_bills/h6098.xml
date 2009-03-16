@@ -1,0 +1,75 @@
+<bill session="110" type="h" number="6098" updated="2009-01-09T05:28:32-05:00">
+	<status><enacted date="1223956800" datetime="2008-10-14" /></status>
+
+	<introduced date="1211256000" datetime="2008-05-20"/>
+	<titles>
+		<title type="short" as="introduced">Personnel Reimbursement for Intelligence Cooperation and Enhancement of Homeland Security Act</title>
+		<title type="short" as="introduced">PRICE of Homeland Security Act</title>
+		<title type="short" as="reported to house">Personnel Reimbursement for Intelligence Cooperation and Enhancement of Homeland Security Act</title>
+		<title type="short" as="reported to house">PRICE of Homeland Security Act</title>
+		<title type="short" as="passed house">Personnel Reimbursement for Intelligence Cooperation and Enhancement of Homeland Security Act</title>
+		<title type="short" as="passed house">PRICE of Homeland Security Act</title>
+		<title type="short" as="reported to senate">Personnel Reimbursement for Intelligence Cooperation and Enhancement of Homeland Security Act of 2008</title>
+		<title type="short" as="reported to senate">PRICE of Homeland Security Act</title>
+		<title type="short" as="passed senate">Personnel Reimbursement for Intelligence Cooperation and Enhancement of Homeland Security Act of 2008</title>
+		<title type="short" as="passed senate">PRICE of Homeland Security Act</title>
+		<title type="short" as="enacted">Personnel Reimbursement for Intelligence Cooperation and Enhancement of Homeland Security Act of 2008</title>
+		<title type="short" as="enacted">PRICE of Homeland Security Act</title>
+		<title type="official" as="introduced">To amend the Homeland Security Act of 2002 to improve the financial assistance provided to State, local, and tribal governments for information sharing activities, and for other purposes.</title>
+	</titles>
+	<sponsor id="400660"/>
+	<cosponsors>
+		<cosponsor id="400219" joined="2008-05-21"/>
+		<cosponsor id="412192" joined="2008-06-05"/>
+		<cosponsor id="400370" joined="2008-06-03"/>
+		<cosponsor id="412250" joined="2008-06-03"/>
+		<cosponsor id="400030" joined="2008-06-18"/>
+		<cosponsor id="400648" joined="2008-06-05"/>
+		<cosponsor id="400166" joined="2008-05-22"/>
+		<cosponsor id="400109" joined="2008-06-03"/>
+		<cosponsor id="400047" joined="2008-06-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1211256000" datetime="2008-05-20"><text>Referred to the House Committee on Homeland Security.</text></action>
+		<action date="1212379200" datetime="2008-06-02"><text>Referred to the Subcommittee on Intelligence, Information Sharing, and Terrorism Risk Assessment.</text></action>
+		<action date="1213156800" datetime="2008-06-11"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1213156800" datetime="2008-06-11"><text>Forwarded by Subcommittee to Full Committee (Amended) by Unanimous Consent .</text></action>
+		<action date="1214452800" datetime="2008-06-26"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1214452800" datetime="2008-06-26" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1215721200" datetime="2008-07-10T17:20:00-04:00"><text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-752.</text></action>
+		<calendar number="478" date="1215721260" datetime="2008-07-10T17:21:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 478.</text></calendar>
+		<action date="1217349420" datetime="2008-07-29T13:37:00-04:00"><text>Ms. Harman moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1217349420" datetime="2008-07-29T13:37:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7191-7192"/></action>
+		<action date="1217349420" datetime="2008-07-29T13:37:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6098.</text></action>
+		<action date="1217350140" datetime="2008-07-29T13:49:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Harman objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1217367540" datetime="2008-07-29T18:39:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7191-7192"/></action>
+		<vote date="1217367600" how="by voice vote" datetime="2008-07-29T18:40:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H7191"/></vote>
+		<action date="1217390400" datetime="2008-07-30"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<calendar date="1222142400" datetime="2008-09-23" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1222228800" datetime="2008-09-24"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="1052" date="1222228800" datetime="2008-09-24" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1052.</text></calendar>
+		<vote date="1222488000" how="by Unanimous Consent" datetime="2008-09-27" where="s" type="vote2" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S9901"/><reference label="text as passed Senate" ref="CR S9901"/></vote>
+		<action date="1222488000" datetime="2008-09-27"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1222710420" datetime="2008-09-29T14:47:00-04:00"><text>Mr. Etheridge asked unanimous consent that the House agree to the Senate amendment.</text><reference label="consideration" ref="CR H10625"/></action>
+		<action date="1222710480" datetime="2008-09-29T14:48:00-04:00"><text>On motion that the House agree to the Senate amendment Agreed to without objection.</text><reference label="text as House agreed to Senate amendment" ref="CR H10625"/></action>
+		<topresident date="1222660800" datetime="2008-09-29" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1223006400" datetime="2008-10-03" ><text>Presented to President.</text></topresident>
+		<signed date="1223956800" datetime="2008-10-14" ><text>Signed by President.</text></signed>
+		<enacted number="110-412" date="1223956800" datetime="2008-10-14" type="public" ><text>Became Public Law No: 110-412.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/29/2008--Public Law. Personnel Reimbursement for Intelligence Cooperation and Enhancement of Homeland Security Act of 2008 or PRICE of Homeland Security Act - Amends Homeland Security Act of 2002 provisions concerning the use of funds to allow recipients of grants under provisions relating to the Urban Area Security Initiative or to the State Homeland Security Grant Program to use grant funds to achieve target capabilities related to preventing, preparing for, protecting against, and responding to acts of terrorism, consistent with a state homeland security plan and relevant local, tribal, and regional homeland security plans. Permits such aims to be met, among other ways, by paying intelligence analysts: (1) regardless of whether the analysts are current or new full-time employees or contract employees; and (2) without limitations on the period of time that an analyst can serve under awarded grants.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="111" type="s" number="348" updated="2009-03-07T14:15:04-05:00">
+	<status><introduced date="1233205200" datetime="2009-01-29"/></status>
+
+	<introduced date="1233205200" datetime="2009-01-29"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend section 254 of the Communications Act of 1934 to provide that funds received as universal service contributions and the universal service support programs established pursuant to that section are not subject to certain provisions of title 31, United States Code, commonly known as the Antideficiency Act.</title>
+	</titles>
+	<sponsor id="300084"/>
+	<cosponsors>
+		<cosponsor id="300091" joined="2009-01-29"/>
+		<cosponsor id="412326" joined="2009-02-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1233205200" datetime="2009-01-29"><text>Sponsor introductory remarks on measure. (CR S1063-1064)</text></action>
+		<action date="1233205200" datetime="2009-01-29"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Science, technology, communications"/>
+		<term name="Appropriations"/>
+		<term name="Educational facilities and institutions"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Internet and video services"/>
+		<term name="Libraries and archives"/>
+		<term name="Telecommunication rates and fees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/29/2009--Introduced.<br/>Amends the Communications Act of 1934 to make federal provisions which prohibit the obligation or expenditure of funds either in excess of appropriated amounts or in violation of sequestration orders under the Balanced Budget and Emergency Deficit Control Act of 1986 inapplicable to: (1) any amount collected or received as federal universal service contributions; or (2) the expenditure or obligation of amounts attributable to such contributions.<br/>
+	</summary>
+</bill>

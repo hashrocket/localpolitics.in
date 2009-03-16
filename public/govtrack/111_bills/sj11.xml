@@ -1,0 +1,35 @@
+<bill session="111" type="sj" number="11" updated="2009-03-07T14:38:15-05:00">
+	<status><introduced date="1235538000" datetime="2009-02-25"/></status>
+
+	<introduced date="1235538000" datetime="2009-02-25"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States relative to a seat in the House of Representatives for the District of Columbia.</title>
+	</titles>
+	<sponsor id="300075"/>
+	<cosponsors>
+		<cosponsor id="300016" joined="2009-02-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1235538000" datetime="2009-02-25"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S2488"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Constitution and constitutional amendments"/>
+		<term name="District of Columbia"/>
+		<term name="Elections, voting, political campaign regulation"/>
+		<term name="House of Representatives"/>
+		<term name="Members of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

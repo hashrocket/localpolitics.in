@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="1281" updated="2009-01-09T10:33:44-05:00">
+	<status><vote date="1213884960" datetime="2008-06-19T11:16:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1213761600" datetime="2008-06-18"/>
+	<titles>
+		<title type="official" as="introduced">Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1213821120" datetime="2008-06-18T17:32:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-719, by Ms. Slaughter.</text></action>
+		<action date="1213821120" datetime="2008-06-18T17:32:00-04:00"><text>The resolution waives a requirement of clause 6(a) of rule XIII with respect to consideration of any resolution reported on the legislative day of June 19, 2008, providing for consideration or disposition of a measure making supplemental appropriations for the fiscal year ending September 30, 2008.</text></action>
+		<calendar date="1213821180" datetime="2008-06-18T17:33:00-04:00" ><text>Placed on the House Calendar, Calendar No. 238.</text></calendar>
+		<action date="1213884600" datetime="2008-06-19T11:10:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H5592"/></action>
+		<action date="1213884600" datetime="2008-06-19T11:10:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 1281.</text></action>
+		<action date="1213884960" datetime="2008-06-19T11:16:00-04:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H5592"/></action>
+		<vote date="1213884960" how="by voice vote" datetime="2008-06-19T11:16:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H5592"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/18/2008--Introduced.<br/>Waives a specified requirement of Rule XIII (Calendar and Committee Reports) to allow consideration or disposition of a measure (making supplemental appropriations for FY2008) on the same day it is presented to the House. 
+	</summary>
+</bill>

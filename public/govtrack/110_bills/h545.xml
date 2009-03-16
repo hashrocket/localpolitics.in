@@ -1,0 +1,92 @@
+<bill session="110" type="h" number="545" updated="2009-01-08T17:55:37-05:00">
+	<status><vote date="1174591080" datetime="2007-03-22T16:18:00-04:00" where="h" result="pass" how="roll" roll="183"/></status>
+
+	<introduced date="1169010000" datetime="2007-01-17"/>
+	<titles>
+		<title type="short" as="introduced">Native American Methamphetamine Enforcement and Treatment Act of 2007</title>
+		<title type="short" as="reported to house">Native American Methamphetamine Enforcement and Treatment Act of 2007</title>
+		<title type="short" as="passed house">Native American Methamphetamine Enforcement and Treatment Act of 2007</title>
+		<title type="official" as="introduced">To amend the Omnibus Crime Control and Safe Streets Act of 1968 to clarify that territories and Indian tribes are eligible to receive grants for confronting the use of methamphetamine.</title>
+	</titles>
+	<sponsor id="400413"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-02-14"/>
+		<cosponsor id="400199" joined="2007-02-06"/>
+		<cosponsor id="400659" joined="2007-01-29"/>
+		<cosponsor id="400162" joined="2007-01-29"/>
+		<cosponsor id="400336" joined="2007-01-29"/>
+		<cosponsor id="400403" joined="2007-01-29"/>
+		<cosponsor id="400058" joined="2007-01-29"/>
+		<cosponsor id="400332" joined="2007-02-06"/>
+		<cosponsor id="400443" joined="2007-01-29"/>
+		<cosponsor id="400379" joined="2007-02-06"/>
+		<cosponsor id="400423" joined="2007-01-29"/>
+		<cosponsor id="400274" joined="2007-02-06"/>
+		<cosponsor id="400412" joined="2007-01-29"/>
+		<cosponsor id="400216" joined="2007-01-17"/>
+		<cosponsor id="400437" joined="2007-01-29"/>
+		<cosponsor id="400316" joined="2007-02-06"/>
+		<cosponsor id="400057" joined="2007-01-29"/>
+		<cosponsor id="400039" joined="2007-01-29"/>
+		<cosponsor id="400259" joined="2007-01-29"/>
+		<cosponsor id="400255" joined="2007-01-29"/>
+		<cosponsor id="400645" joined="2007-01-29"/>
+		<cosponsor id="400299" joined="2007-01-29"/>
+		<cosponsor id="400232" joined="2007-01-31"/>
+		<cosponsor id="400266" joined="2007-01-29"/>
+		<cosponsor id="400009" joined="2007-01-29"/>
+		<cosponsor id="400283" joined="2007-01-29"/>
+		<cosponsor id="400033" joined="2007-01-29"/>
+		<cosponsor id="400042" joined="2007-01-31"/>
+		<cosponsor id="400215" joined="2007-01-29"/>
+		<cosponsor id="400088" joined="2007-03-19"/>
+		<cosponsor id="400163" joined="2007-02-08"/>
+		<cosponsor id="400434" joined="2007-03-13"/>
+		<cosponsor id="400186" joined="2007-01-29"/>
+		<cosponsor id="400278" joined="2007-01-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1169010000" datetime="2007-01-17"><text>Sponsor introductory remarks on measure. (CR E131)</text></action>
+		<action date="1169010000" datetime="2007-01-17"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1169010000" datetime="2007-01-17"><text>Referred to House Judiciary</text></action>
+		<action date="1169010000" datetime="2007-01-17"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1170392400" datetime="2007-02-02"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+		<action date="1170392400" datetime="2007-02-02"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1170738000" datetime="2007-02-06"><committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security"/><text>Subcommittee Hearings Held.</text></action>
+		<action date="1170738000" datetime="2007-02-06"><committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1170738000" datetime="2007-02-06"><committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1170824400" datetime="2007-02-07"><committee name="House Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1170824400" datetime="2007-02-07" ><committee name="House Judiciary"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1173385920" datetime="2007-03-08T16:32:00-05:00"><text>Reported by the Committee on Judiciary. H. Rept. 110-35, Part I.</text></action>
+		<action date="1173385920" datetime="2007-03-08T16:32:00-05:00"><text>House Committee on Energy and Commerce Granted an extension for further consideration ending not later than April 20, 2007.</text></action>
+		<action date="1173758400" datetime="2007-03-13"><committee name="House Energy and Commerce" subcommittee="Health"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1173758400" datetime="2007-03-13"><committee name="House Energy and Commerce" subcommittee="Health"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action date="1173931200" datetime="2007-03-15"><committee name="House Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1173931200" datetime="2007-03-15" ><committee name="House Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1174486860" datetime="2007-03-21T11:21:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-35, Part II.</text></action>
+		<calendar number="34" date="1174486860" datetime="2007-03-21T11:21:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 34.</text></calendar>
+		<action date="1174509720" datetime="2007-03-21T17:42:00-04:00"><text>Ms. Sanchez, Linda T. moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1174509780" datetime="2007-03-21T17:43:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2788-2790"/></action>
+		<action date="1174509780" datetime="2007-03-21T17:43:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 545.</text></action>
+		<action date="1174510320" datetime="2007-03-21T17:52:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1174590600" datetime="2007-03-22T16:10:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2874"/></action>
+		<vote date="1174591080" how="roll" roll="183" datetime="2007-03-22T16:18:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 183). (text: CR 3/21/2007 H2788-2789)</text></vote>
+		<action date="1174622400" datetime="2007-03-23"><text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar under="General Orders" number="85" date="1174881600" datetime="2007-03-26" calendar="Senate Legislative" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 85.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/22/2007--Passed House amended. (This measure has not been amended since it was reported to the House on March 21, 2007. The summary of that version is repeated here.)<br/>Native American Methamphetamine Enforcement and Treatment Act of 2007 - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to include territories and Indian tribes as eligible grant recipients (or reaffirm that eligibility) under the programs to: (1) address the manufacture, sale, and use of methamphetamine; (2) aid children in homes in which methamphetamine or other drugs are unlawfully manufactured, distributed, dispensed, or used; and (3) address methamphetamine use by pregnant and parenting women offenders.<br/>
+	</summary>
+</bill>

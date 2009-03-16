@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="929" updated="2009-03-07T11:37:35-05:00">
+	<status><introduced date="1234155600" datetime="2009-02-09"/></status>
+
+	<introduced date="1234155600" datetime="2009-02-09"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to require the Secretary of Veterans Affairs to carry out a program of training to provide eligible veterans with skills relevant to the job market, and for other purposes.</title>
+	</titles>
+	<sponsor id="412239"/>
+	<cosponsors>
+		<cosponsor id="400040" joined="2009-02-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on Economic Opportunity.</text></action>
+		<action date="1236142800" datetime="2009-03-04"><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/9/2009--Introduced.<br/>Directs the Secretary of Veterans Affairs to carry out a program of job training in skills relevant to the job market for discharged veterans who are either currently not paid at more than 150% of the federal minimum wage, or: (1) had a military occupational specialty of limited transferability to the civilian job market; (2) are not otherwise eligible for veterans' education or training services; (3) have not acquired a marketable skill since leaving military service; (4) were discharged under conditions not less than honorable; and (5) have been unemployed for at least 90 of the previous 180 days. Designates the program as the MOST (military occupational specialty transition) Program. Directs the Secretary to contract with employers to provide on-the-job training or apprenticeship programs for such veterans. Limits payments under the program to $20,000 per veteran and 24 months in duration.<br/>
+	</summary>
+</bill>

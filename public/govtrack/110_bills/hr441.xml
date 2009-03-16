@@ -1,0 +1,31 @@
+<bill session="110" type="hr" number="441" updated="2009-01-09T08:47:23-05:00">
+	<status><vote date="1180023900" datetime="2007-05-24T13:25:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1179979200" datetime="2007-05-24"/>
+	<titles>
+		<title type="official" as="introduced">Electing a Member to a certain standing committee of the House of Representatives.</title>
+	</titles>
+	<sponsor id="400120"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1180023840" datetime="2007-05-24T13:24:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H5749"/></action>
+		<vote date="1180023900" how="without objection" datetime="2007-05-24T13:25:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text" ref="CR H5749"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/24/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Elects a named Majority Member to the House Committee on House Administration, including as Chairman.<br/>
+	</summary>
+</bill>

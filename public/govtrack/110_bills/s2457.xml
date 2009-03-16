@@ -1,0 +1,49 @@
+<bill session="110" type="s" number="2457" updated="2009-01-09T16:58:41-05:00">
+	<status><enacted date="1210219200" datetime="2008-05-08" /></status>
+
+	<introduced date="1197435600" datetime="2007-12-12"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for extensions of leases of certain land by Mashantucket Pequot (Western) Tribe.</title>
+	</titles>
+	<sponsor id="300067"/>
+	<cosponsors>
+		<cosponsor id="300034" joined="2007-12-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1197435600" datetime="2007-12-12"><text>Read twice and referred to the Committee on Indian Affairs.</text></action>
+		<action date="1202187600" datetime="2008-02-05"><text>Senate Committee on Indian Affairs discharged by Unanimous Consent.</text></action>
+		<action date="1202187600" datetime="2008-02-05"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S670"/></action>
+		<vote date="1202187600" how="by Unanimous Consent" datetime="2008-02-05" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text><reference label="text" ref="CR S670"/></vote>
+		<action date="1202274000" datetime="2008-02-06"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1202429040" datetime="2008-02-07T20:04:00-05:00"><text>Received in the House.</text></action>
+		<action date="1202360400" datetime="2008-02-07"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1207713600" datetime="2008-04-09"><text>Committee Hearings Held.</text></action>
+		<action date="1208404800" datetime="2008-04-17"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1208404800" datetime="2008-04-17" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1209488520" datetime="2008-04-29T14:02:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 110-611.</text></action>
+		<calendar number="381" date="1209488520" datetime="2008-04-29T14:02:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 381.</text></calendar>
+		<action date="1209489000" datetime="2008-04-29T14:10:00-04:00"><text>Mr. Rahall moved to suspend the rules and pass the bill.</text></action>
+		<action date="1209489000" datetime="2008-04-29T14:10:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2769-2770"/></action>
+		<action date="1209489000" datetime="2008-04-29T14:10:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 2457.</text></action>
+		<vote date="1209489120" how="by voice vote" datetime="2008-04-29T14:12:00-04:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H2769"/></vote>
+		<topresident date="1209441600" datetime="2008-04-29" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1209614400" datetime="2008-05-01" ><text>Presented to President.</text></topresident>
+		<signed date="1210219200" datetime="2008-05-08" ><text>Signed by President.</text></signed>
+		<enacted number="110-228" date="1210219200" datetime="2008-05-08" type="public" ><text>Became Public Law No: 110-228.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/8/2008--Public Law. (This measure has not been amended since it was passed by the Senate on February 5, 2008. The summary of that version is repeated here.) Authorizes any lease of restricted land of the Mashantucket Pequot (Western) Tribe entered into by its tribal corporation to include an option to renew the lease for not more than two additional terms of up to 25 years each, subject only to the approval of the tribal council. Provides that the United States shall not be liable for any loss resulting from such a renewal. Prohibits any entity from conducting gaming activity on any land that is leased with an option to renew under this Act.<br/>
+	</summary>
+</bill>

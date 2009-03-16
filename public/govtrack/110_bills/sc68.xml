@@ -1,0 +1,37 @@
+<bill session="110" type="sc" number="68" updated="2009-01-09T19:48:32-05:00">
+	<status><vote2 date="1204211580" datetime="2008-02-28T11:13:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1202446800" datetime="2008-02-08"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution authorizing the use of the rotunda of the Capitol by the Joint Congressional Committee on Inaugural Ceremonies.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300007" joined="2008-02-08"/>
+	</cosponsors>
+	<actions>
+		<vote date="1202446800" how="by Unanimous Consent" datetime="2008-02-08" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S820-821"/><reference label="text as passed Senate" ref="CR S821"/><reference label="text of measure as introduced" ref="CR S819"/></vote>
+		<action date="1202446800" datetime="2008-02-08"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1202849640" datetime="2008-02-12T16:54:00-05:00"><text>Received in the House.</text></action>
+		<action date="1202792400" datetime="2008-02-12"><text>Referred to the House Committee on House Administration.</text></action>
+		<action date="1204211340" datetime="2008-02-28T11:09:00-05:00"><text>Mrs. Davis (CA) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1204211340" datetime="2008-02-28T11:09:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1165-1166"/></action>
+		<action date="1204211340" datetime="2008-02-28T11:09:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 68.</text></action>
+		<vote date="1204211580" how="by voice vote" datetime="2008-02-28T11:13:00-05:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H1165"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/28/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes the use of the rotunda of the U.S. Capitol on January 20, 2009, by the Joint Congressional Committee on Inaugural Ceremonies in connection with the proceedings and ceremonies for the inauguration of the President-elect and the Vice President-elect of the United States.<br/>
+	</summary>
+</bill>

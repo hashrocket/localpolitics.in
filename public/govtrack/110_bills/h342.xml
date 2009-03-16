@@ -1,0 +1,58 @@
+<bill session="110" type="h" number="342" updated="2009-01-08T17:26:48-05:00">
+	<status><enacted date="1174449600" datetime="2007-03-21" /></status>
+
+	<introduced date="1168318800" datetime="2007-01-09"/>
+	<titles>
+		<title type="official" as="introduced">To designate the United States courthouse located at 555 Independence Street, Cape Girardeau, Missouri, as the &quot;Rush Hudson Limbaugh, Sr., United States Courthouse&quot;.</title>
+		<title type="official" as="amended by house">To designate the United States courthouse located at 555 Independence Street in Cape Girardeau, Missouri, as the &quot;Rush Hudson Limbaugh, Sr. United States Courthouse&quot;.</title>
+	</titles>
+	<sponsor id="400121"/>
+	<cosponsors>
+		<cosponsor id="400034" joined="2007-01-09"/>
+		<cosponsor id="400158" joined="2007-01-09"/>
+		<cosponsor id="400074" joined="2007-01-09"/>
+		<cosponsor id="400638" joined="2007-01-09"/>
+		<cosponsor id="400005" joined="2007-01-09"/>
+		<cosponsor id="400639" joined="2007-01-09"/>
+		<cosponsor id="400190" joined="2007-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1168318800" datetime="2007-01-09"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1168405200" datetime="2007-01-10"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1170738000" datetime="2007-02-06"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1170738000" datetime="2007-02-06"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1170824400" datetime="2007-02-07"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1170824400" datetime="2007-02-07" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1171304520" datetime="2007-02-12T14:22:00-05:00"><text>Reported (Amended) by the Committee on Transportation. H. Rept. 110-10.</text></action>
+		<calendar number="8" date="1171304580" datetime="2007-02-12T14:23:00-05:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 8.</text></calendar>
+		<action date="1171310880" datetime="2007-02-12T16:08:00-05:00"><text>Mr. Oberstar moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1171310880" datetime="2007-02-12T16:08:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1443-1444"/></action>
+		<action date="1171310880" datetime="2007-02-12T16:08:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 342.</text></action>
+		<vote date="1171311240" how="by voice vote" datetime="2007-02-12T16:14:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H1443"/></vote>
+		<action date="1171311240" datetime="2007-02-12T16:14:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1171342800" datetime="2007-02-13"><text>Received in the Senate.</text></action>
+		<action date="1171688400" datetime="2007-02-17"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<action date="1173416400" datetime="2007-03-09"><text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S2989"/></action>
+		<vote date="1173416400" how="by Unanimous Consent" datetime="2007-03-09" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<action date="1173416400" datetime="2007-03-09"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1173416400" datetime="2007-03-09" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1173844800" datetime="2007-03-14" ><text>Presented to President.</text></topresident>
+		<signed date="1174449600" datetime="2007-03-21" ><text>Signed by President.</text></signed>
+		<enacted number="110-13" date="1174449600" datetime="2007-03-21" type="public" ><text>Became Public Law No: 110-13.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/21/2007--Public Law. (This measure has not been amended since it was passed by the House on February 12, 2007. The summary of that version is repeated here.)<br/>Designates the U.S. courthouse located at 555 Independence Street, Cape Girardeau, Missouri, as the &quot;Rush Hudson Limbaugh, Sr. United States Courthouse.&quot;<br/>
+	</summary>
+</bill>

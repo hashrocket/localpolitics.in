@@ -1,0 +1,52 @@
+<bill session="111" type="h" number="468" updated="2009-03-07T10:42:38-05:00">
+	<status><introduced date="1231822800" datetime="2009-01-13"/></status>
+
+	<introduced date="1231822800" datetime="2009-01-13"/>
+	<titles>
+		<title type="short" as="introduced">Retooling the Health Care Workforce for an Aging America Act of 2009</title>
+		<title type="official" as="introduced">To expand, train, and support all sectors of the health care workforce to care for the growing population of older individuals in the United States.</title>
+	</titles>
+	<sponsor id="400360"/>
+	<cosponsors>
+		<cosponsor id="400160" joined="2009-02-12"/>
+		<cosponsor id="412239" joined="2009-02-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1231822800" datetime="2009-01-13"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231822800" datetime="2009-01-13"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1231822800" datetime="2009-01-13"><text>Referred to House Education and Labor</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="245" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Aging"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Employment and training programs"/>
+		<term name="Health personnel"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Higher education"/>
+		<term name="Home and outpatient care"/>
+		<term name="Long-term, rehabilitative, and terminal care"/>
+		<term name="Medicaid"/>
+		<term name="Medical education"/>
+		<term name="Medical research"/>
+		<term name="Medicare"/>
+		<term name="Mental health"/>
+		<term name="National Institutes of Health (NIH)"/>
+		<term name="Nursing"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+		<term name="Unemployment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/13/2009--Introduced.<br/>Retooling the Health Care Workforce for an Aging America Act of 2009 - Amends the Public Health Service Act to require the Secretary of Health and Human Services to expand training for health professionals in the fields of geriatrics, long-term care, and chronic care management. Requires an analysis of the health and long-term care workforce.<br/>Amends the Workforce Investment Act of 1998 to provide for information to adults and dislocated workers about health care and long-term care occupations. Provides for information to veterans about training, internship, and employment opportunities in geriatrics, gerontology, and long-term care. Amends the Older Americans Act of 1965 to require the Assistant Secretary for Aging to: (1) develop family caregiver training materials; and (2) provide for the establishment and operation of a National Resource Center on Volunteers, Students, and Seniors to promote partnerships between entities in the aging network and institutions of higher education and secondary schools, and to encourage projects that involve underserved communities. Requires the Secretary to: (1) provide for the development of core training competencies for personal or home care aides and additional training content for nurse aides and home health aides; and (2) establish a panel of long-term care workforce experts.<br/>Provides for the development of information and referral protocols for family caregivers of Medicare beneficiaries.<br/>Amends title XIX (Medicaid) of the Social Security Act to provide for coverage of assessments of family caregiver support needs.<br/>Provides for studies on: (1) the mental health workforce; (2) the aging network's capacity to meet current and future needs; (3) retention and tenure of nurse aides and home health aides; and (4) spending by the National Institutes of Health (NIH) on conditions and illnesses that disproportionately impact the health of older individuals.<br/>
+	</summary>
+</bill>

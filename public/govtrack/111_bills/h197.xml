@@ -1,0 +1,60 @@
+<bill session="111" type="h" number="197" updated="2009-03-07T10:10:57-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">National Right-to-Carry Reciprocity Act of 2009</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, to provide a national standard in accordance with which nonresidents of a State may carry concealed firearms in the State.</title>
+	</titles>
+	<sponsor id="400388"/>
+	<cosponsors>
+		<cosponsor id="400279" joined="2009-02-23"/>
+		<cosponsor id="400061" joined="2009-03-02"/>
+		<cosponsor id="400648" joined="2009-03-02"/>
+		<cosponsor id="400068" joined="2009-02-23"/>
+		<cosponsor id="400034" joined="2009-02-03"/>
+		<cosponsor id="400331" joined="2009-02-03"/>
+		<cosponsor id="400335" joined="2009-03-02"/>
+		<cosponsor id="412216" joined="2009-02-03"/>
+		<cosponsor id="400209" joined="2009-02-03"/>
+		<cosponsor id="400137" joined="2009-02-23"/>
+		<cosponsor id="412278" joined="2009-03-02"/>
+		<cosponsor id="400385" joined="2009-02-03"/>
+		<cosponsor id="400342" joined="2009-02-23"/>
+		<cosponsor id="400441" joined="2009-02-03"/>
+		<cosponsor id="400281" joined="2009-02-23"/>
+		<cosponsor id="400107" joined="2009-03-02"/>
+		<cosponsor id="412196" joined="2009-02-23"/>
+		<cosponsor id="400043" joined="2009-01-06"/>
+		<cosponsor id="400260" joined="2009-02-03"/>
+		<cosponsor id="400040" joined="2009-02-03"/>
+		<cosponsor id="400286" joined="2009-02-03"/>
+		<cosponsor id="412311" joined="2009-02-03"/>
+		<cosponsor id="400431" joined="2009-02-03"/>
+		<cosponsor id="400321" joined="2009-02-23"/>
+		<cosponsor id="400622" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="371" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Firearms"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Licensing and registrations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>National Right-to-Carry Reciprocity Act of 2009 - Amends the federal criminal code to establish a national standard for the carrying of concealed firearms (other than a machinegun or destructive device) by non-residents. Authorizes a person who has a valid permit to carry a concealed firearm in one state and who is not prohibited from carrying a firearm under federal law to carry a concealed firearm in another state in accordance with the restrictions of that state or as specified under this Act. 
+	</summary>
+</bill>

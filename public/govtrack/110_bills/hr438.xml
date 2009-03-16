@@ -1,0 +1,39 @@
+<bill session="110" type="hr" number="438" updated="2009-01-09T08:47:02-05:00">
+	<status><vote date="1180023780" datetime="2007-05-24T13:23:00-04:00" where="h" result="pass" how="roll" roll="418"/></status>
+
+	<introduced date="1179979200" datetime="2007-05-24"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the Senate amendment to the bill (H.R. 2206) making emergency supplemental appropriations and additional supplemental appropriations for agricultural and other emergency assistance for the fiscal year ending September 30, 2007, and for other purposes.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1180004640" datetime="2007-05-24T08:04:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-168, by Ms. Slaughter.</text></action>
+		<action date="1180004640" datetime="2007-05-24T08:04:00-04:00"><text>Providing for the consideration of the Senate amendment to H.R. 2206.</text></action>
+		<calendar date="1180004640" datetime="2007-05-24T08:04:00-04:00" ><text>Placed on the House Calendar, Calendar No. 66.</text></calendar>
+		<action date="1180013100" datetime="2007-05-24T10:25:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H5730-5738"/></action>
+		<action date="1180013280" datetime="2007-05-24T10:28:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 438.</text></action>
+		<action date="1180017240" datetime="2007-05-24T11:34:00-04:00"><text>POSTPONED PROCEEDINGS - At the conclusion of the debate on H. Res. 438, the Chair put the question on ordering the previous question and by voice vote, announced the ayes had prevailed. Mr. Dreier demanded the yeas and nays and the Chair postponed further proceedings on ordering the previous question until later in the legislative day.</text></action>
+		<action date="1180022880" datetime="2007-05-24T13:08:00-04:00"><text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on ordering the previous question which had been debated earlier and on which further proceedings had been postponed.</text></action>
+		<action date="1180023000" datetime="2007-05-24T13:10:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5747-5749"/></action>
+		<action date="1180023360" datetime="2007-05-24T13:16:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 221 - 199 (Roll no. 417).</text><reference label="consideration" ref="CR H5738, H5747-5748"/></action>
+		<vote date="1180023780" how="roll" roll="418" datetime="2007-05-24T13:23:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 218 - 201 (Roll no. 418).</text><reference label="text" ref="CR H5730"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/24/2007--Passed House without amendment. Sets forth the rule for consideration of the Senate amendment to H.R. 2206 (U.S. Troop Readiness, Veterans' Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007).<br/>
+	</summary>
+</bill>

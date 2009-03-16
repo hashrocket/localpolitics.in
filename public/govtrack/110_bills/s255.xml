@@ -1,0 +1,37 @@
+<bill session="110" type="s" number="255" updated="2009-01-09T11:40:38-05:00">
+	<status><calendar date="1170219600" datetime="2007-01-31" /></status>
+
+	<introduced date="1168405200" datetime="2007-01-10"/>
+	<titles>
+		<title type="short" as="introduced">New Mexico Water Planning Assistance Act</title>
+		<title type="short" as="reported to senate">New Mexico Water Planning Assistance Act</title>
+		<title type="official" as="introduced">A bill to provide assistance to the State of New Mexico for the development of comprehensive State water plans, and for other purposes.</title>
+	</titles>
+	<sponsor id="300036"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="2007-01-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1168405200" datetime="2007-01-10"><text>Sponsor introductory remarks on measure. (CR S393-394)</text></action>
+		<action date="1168405200" datetime="2007-01-10"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text><reference label="text of measure as introduced" ref="CR S394"/></action>
+		<calendar date="1170219600" datetime="2007-01-31" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1171515600" datetime="2007-02-15"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-12.</text></action>
+		<calendar under="General Orders" number="37" date="1171515600" datetime="2007-02-15" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 37.</text></calendar>
+		<action date="1213156800" datetime="2008-06-11"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S5530"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/15/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) New Mexico Water Planning Assistance Act - Directs the Secretary of the Interior, at the request of the governor of New Mexico and acting through the Bureau of Reclamation and the U.S. Geological Survey, to: (1) provide to New Mexico technical assistance and grants for the development of comprehensive state water plans; (2) conduct water resources mapping in New Mexico; and (3) conduct a comprehensive study of groundwater resources in New Mexico to assess the quantity, quality, and interaction of groundwater and surface water resources. Lists types of technical assistance that may be provided, including acquisition of hydrologic data, expansion of groundwater monitoring networks, and coordination of federal water management planning efforts. Directs the Secretary to allocate specified funds: (1) to develop hydrologic models and acquire associated equipment for the New Mexico Rio Grande main stem sections and Rios Pueblo de Taos and Hondo, Rios Nambe, Pojoaque and Teseque, Rio Chama, and Lower Rio Grande tributaries; (2) to complete the hydrographic survey development of hydrologic models and acquire associated equipment for the San Juan River and tributaries and for Southwest New Mexico, including the Animas Basin, the Gila River, and tributaries; and (3) for statewide digital orthophotography mapping. Sets the non-federal share of the total cost of any activity carried out using a grant under this Act at 50%, which may be in the form of in-kind services. Requires: (1) any assistance or grants provided to New Mexico under this Act to be made on a non-reimbursable basis; and (2) the Secretary, at that state's request, to directly transfer to one or more federal agencies any amounts made available to New Mexico to carry out this Act. Authorizes appropriations. Terminates the Secretary's authority to carry out this Act 10 years after its enactment. 
+	</summary>
+</bill>

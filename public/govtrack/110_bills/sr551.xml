@@ -1,0 +1,46 @@
+<bill session="110" type="sr" number="551" updated="2009-01-09T21:07:13-05:00">
+	<status><vote date="1222228800" datetime="2008-09-24" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1210046400" datetime="2008-05-06"/>
+	<titles>
+		<title type="official" as="introduced">A resolution celebrating 75 years of successful State-based alcohol regulation.</title>
+	</titles>
+	<sponsor id="300005"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="2008-06-03"/>
+		<cosponsor id="300025" joined="2008-06-03"/>
+		<cosponsor id="412251" joined="2008-05-06"/>
+		<cosponsor id="300047" joined="2008-09-23"/>
+		<cosponsor id="300019" joined="2008-06-03"/>
+		<cosponsor id="300037" joined="2008-06-03"/>
+		<cosponsor id="400546" joined="2008-07-31"/>
+		<cosponsor id="400576" joined="2008-07-30"/>
+		<cosponsor id="400418" joined="2008-06-03"/>
+		<cosponsor id="300014" joined="2008-07-31"/>
+		<cosponsor id="300003" joined="2008-06-03"/>
+		<cosponsor id="300091" joined="2008-07-30"/>
+		<cosponsor id="300095" joined="2008-06-03"/>
+		<cosponsor id="400054" joined="2008-06-03"/>
+		<cosponsor id="412244" joined="2008-06-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1210046400" datetime="2008-05-06"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S3801-3802"/></action>
+		<action date="1222228800" datetime="2008-09-24"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S9436-9437"/></action>
+		<vote date="1222228800" how="by Unanimous Consent" datetime="2008-09-24" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S9436-9437"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/24/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Celebrates 75 years of effective state-based alcohol regulation. Commends state lawmakers, regulators, law enforcement officers, the public health community, and industry members for successful collaboration in achieving a workable, legal, and successful system for the distribution and sale of alcoholic beverages.<br/>Reaffirms the Senate's continued support for policies that allow states to effectively regulate alcohol.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,64 @@
+<bill session="110" type="h" number="5335" updated="2009-01-09T03:58:05-05:00">
+	<status><vote date="1222101240" datetime="2008-09-22T13:34:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1202446800" datetime="2008-02-08"/>
+	<titles>
+		<title type="short" as="reported to house">Trail of Tears Documentation Act</title>
+		<title type="short" as="passed house">Trail of Tears Documentation Act</title>
+		<title type="official" as="introduced">To amend the National Trails System Act to provide for the inclusion of new trail segments, land components, and campgrounds associated with the Trail of Tears National Historic Trail, and for other purposes.</title>
+	</titles>
+	<sponsor id="400421"/>
+	<cosponsors>
+		<cosponsor id="400004" joined="2008-02-08"/>
+		<cosponsor id="400099" joined="2008-02-08"/>
+		<cosponsor id="400626" joined="2008-02-08"/>
+		<cosponsor id="400242" joined="2008-07-10"/>
+		<cosponsor id="412225" joined="2008-02-08"/>
+		<cosponsor id="400151" joined="2008-02-08"/>
+		<cosponsor id="400096" joined="2008-02-08"/>
+		<cosponsor id="412230" joined="2008-02-08"/>
+		<cosponsor id="400077" joined="2008-02-08"/>
+		<cosponsor id="400116" joined="2008-02-08"/>
+		<cosponsor id="400040" joined="2008-02-08"/>
+		<cosponsor id="400084" joined="2008-02-12"/>
+		<cosponsor id="400392" joined="2008-02-08"/>
+		<cosponsor id="400121" joined="2008-02-12"/>
+		<cosponsor id="400395" joined="2008-02-08"/>
+		<cosponsor id="400383" joined="2008-02-08"/>
+		<cosponsor id="400026" joined="2008-02-08"/>
+		<cosponsor id="400645" joined="2008-02-12"/>
+		<cosponsor id="400247" joined="2008-02-08"/>
+		<cosponsor id="412236" joined="2008-02-08"/>
+		<cosponsor id="400431" joined="2008-02-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1202446800" datetime="2008-02-08"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1202878800" datetime="2008-02-13"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1216094400" datetime="2008-07-15"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1216785600" datetime="2008-07-23"><text>Subcommittee on National Parks, Forests, and Public Lands Discharged.</text></action>
+		<action date="1216785600" datetime="2008-07-23"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1216785600" datetime="2008-07-23" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1221191880" datetime="2008-09-11T12:58:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-840.</text></action>
+		<calendar number="540" date="1221191880" datetime="2008-09-11T12:58:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 540.</text></calendar>
+		<action date="1222101000" datetime="2008-09-22T13:30:00-04:00"><text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1222101060" datetime="2008-09-22T13:31:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8498-8500"/></action>
+		<vote date="1222101240" how="by voice vote" datetime="2008-09-22T13:34:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H8498-8499"/></vote>
+		<action date="1222142400" datetime="2008-09-23"><text>Received in the Senate.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/22/2008--Passed House amended. Trail of Tears Documentation Act - Amends the National Trails System Act to add as components of the Trail of Tears National Historic Trail, as generally described in the environmentally preferred alternative of the November 2007 Feasibility Study Amendment and Environmental Assessment for Trail of Tears National Historic Trail, the following routes and land components by which the Cherokee Nation was removed to Oklahoma: (1) the Benge and Bell routes; (2) the land components of the designated water routes in Alabama, Arkansas, Oklahoma, and Tennessee; (3) the routes from the collection forts in Alabama, Georgia, North Carolina, and Tennessee to the emigration depots; and (4) the related campgrounds located along such routes and land components. Removes a limitation on the authorization of additional appropriations to carry out the addition of such components.<br/>Prohibits acquisition of lands or interests in lands outside the exterior boundaries of any federally administered area by the federal government for the Trail of Tears National Historic Trail except with the consent of the owner.<br/>
+	</summary>
+</bill>

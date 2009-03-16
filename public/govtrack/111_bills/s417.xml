@@ -1,0 +1,43 @@
+<bill session="111" type="s" number="417" updated="2009-03-07T14:23:03-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="short" as="introduced">State Secrets Protection Act</title>
+		<title type="official" as="introduced">A bill to enact a safe, fair, and responsible state secrets privilege Act.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="300059" joined="2009-02-11"/>
+		<cosponsor id="412243" joined="2009-02-11"/>
+		<cosponsor id="300042" joined="2009-02-11"/>
+		<cosponsor id="300092" joined="2009-02-11"/>
+		<cosponsor id="412247" joined="2009-02-11"/>
+		<cosponsor id="412244" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Sponsor introductory remarks on measure. (CR S2155)</text></action>
+		<action date="1234328400" datetime="2009-02-11"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S2155-2157"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Law"/>
+		<term name="Civil actions and liability"/>
+		<term name="Congressional oversight"/>
+		<term name="Evidence and witnesses"/>
+		<term name="Government information and archives"/>
+		<term name="Intelligence activities, surveillance, classified information"/>
+		<term name="Lawyers and legal services"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

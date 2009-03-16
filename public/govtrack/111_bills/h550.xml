@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="550" updated="2009-03-07T10:52:16-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Get America Moving Again Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow individuals and businesses a temporary credit against income tax for the purchase of certain vehicles.</title>
+	</titles>
+	<sponsor id="400252"/>
+	<cosponsors>
+		<cosponsor id="400352" joined="2009-01-28"/>
+		<cosponsor id="400414" joined="2009-01-15"/>
+		<cosponsor id="400276" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Sponsor introductory remarks on measure. (CR E98-99)</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax credits"/>
+		<term name="Motor vehicles"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Get America Moving Again Act of 2009 - Amends the Internal Revenue Code to allow a tax credit for the purchase of a new or used passenger vehicle before or during 2010. Requires that such vehicle have a purchase price not exceeding $50,000 and have a gross vehicle weight rating of not more than 8,500 pounds.<br/>
+	</summary>
+</bill>

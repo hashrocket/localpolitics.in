@@ -1,0 +1,49 @@
+<bill session="110" type="hc" number="123" updated="2009-01-08T15:42:25-05:00">
+	<status><vote2 date="1179288000" datetime="2007-05-16" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1177041600" datetime="2007-04-20"/>
+	<titles>
+		<title type="official" as="introduced">Authorizing the use of the Capitol Grounds for the District of Columbia Special Olympics Law Enforcement Torch Run.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+		<cosponsor id="400189" joined="2007-04-20"/>
+		<cosponsor id="400098" joined="2007-04-20"/>
+		<cosponsor id="400415" joined="2007-04-20"/>
+		<cosponsor id="400283" joined="2007-04-20"/>
+		<cosponsor id="400090" joined="2007-04-20"/>
+		<cosponsor id="400158" joined="2007-04-20"/>
+		<cosponsor id="400438" joined="2007-04-20"/>
+		<cosponsor id="400435" joined="2007-04-20"/>
+	</cosponsors>
+	<actions>
+		<action date="1177041600" datetime="2007-04-20"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1177300800" datetime="2007-04-23"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1178078400" datetime="2007-05-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1178078400" datetime="2007-05-02" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1178078400" datetime="2007-05-02"><text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text></action>
+		<action date="1178654220" datetime="2007-05-08T16:57:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 110-134.</text></action>
+		<calendar number="55" date="1178654340" datetime="2007-05-08T16:59:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 55.</text></calendar>
+		<action date="1179247380" datetime="2007-05-15T13:43:00-04:00"><text>Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1179247440" datetime="2007-05-15T13:44:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5004-5005"/></action>
+		<action date="1179247440" datetime="2007-05-15T13:44:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 123.</text></action>
+		<vote date="1179247620" how="by voice vote" datetime="2007-05-15T13:47:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H5005"/></vote>
+		<vote date="1179288000" how="by Unanimous Consent" datetime="2007-05-16" where="s" type="vote2" result="pass" ><text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6212"/></vote>
+		<action date="1179374400" datetime="2007-05-17"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/16/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes the use of the Capitol grounds for the 2007 District of Columbia Special Olympics Law Enforcement Torch Run on June 8, 2007.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,37 @@
+<bill session="110" type="hr" number="157" updated="2009-01-09T08:13:14-05:00">
+	<status><vote date="1171426920" datetime="2007-02-13T12:22:00-05:00" where="h" result="pass" how="roll" roll="97"/></status>
+
+	<introduced date="1171256400" datetime="2007-02-12"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the concurrent resolution (H. Con. Res. 63) disapproving of the decision of the President announced on January 10, 2007, to deploy more than 20,000 additional United States combat troops to Iraq.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1171335300" datetime="2007-02-12T22:55:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-12, by Ms. Slaughter.</text></action>
+		<action date="1171335300" datetime="2007-02-12T22:55:00-05:00"><text>Debate on the resolution shall continue 1) not beyond midnight on Tuesday, February 13, 2007, equally divided and controlled by the Majority Leader, the Minority Leader or their designees; 2) not beyond midnight on Wednesday, February 14, 2007, equally divided and controlled by the Majority Leader, the Minority Leader or their designees; 3) 12 hours of debate commencing on Thursday, February 15, 2007, equally divided and controlled by the Majority Leader and the Minority Leader or their designees.</text></action>
+		<calendar date="1171335300" datetime="2007-02-12T22:55:00-05:00" ><text>Placed on the House Calendar, Calendar No. 9.</text></calendar>
+		<action date="1171376580" datetime="2007-02-13T10:23:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H1479-1489"/></action>
+		<action date="1171376580" datetime="2007-02-13T10:23:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 157.</text></action>
+		<action date="1171425660" datetime="2007-02-13T12:01:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1490-1491"/></action>
+		<action date="1171426440" datetime="2007-02-13T12:14:00-05:00"><text>On ordering the previous question Agreed to by recorded vote: 227 - 197 (Roll no. 96).</text><reference label="consideration" ref="CR H1489, H1490-1491"/></action>
+		<vote date="1171426920" how="roll" roll="97" datetime="2007-02-13T12:22:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by recorded vote: 232 - 192 (Roll no. 97).</text><reference label="text" ref="CR H1479-1480"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2007--Passed House without amendment. Sets forth the rule for consideration of H.Con.Res. 63 (disapproving the presidential decision to deploy additional U.S. combat troops to Iraq).<br/>
+	</summary>
+</bill>

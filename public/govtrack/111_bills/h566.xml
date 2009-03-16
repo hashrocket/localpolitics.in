@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="566" updated="2009-03-07T10:54:07-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="official" as="introduced">To provide that rates of pay for Members of Congress shall not be adjusted under section 601(a)(2) of the Legislative Reorganization Act of 1946 in the year following any fiscal year in which outlays of the United States exceeded receipts of the United States.</title>
+	</titles>
+	<sponsor id="412196"/>
+	<cosponsors>
+		<cosponsor id="400342" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House House Administration</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House Oversight and Government Reform</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="346" />
+		<bill relation="unknown" session="111" type="h" number="581" />
+		<bill relation="unknown" session="111" type="s" number="102" />
+		<bill relation="unknown" session="111" type="s" number="317" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Budget deficits and national debt"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Members of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

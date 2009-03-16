@@ -1,0 +1,40 @@
+<bill session="110" type="hr" number="1207" updated="2009-01-09T10:24:25-05:00">
+	<status><vote date="1221150840" datetime="2008-09-11T13:34:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1210910400" datetime="2008-05-16"/>
+	<titles>
+		<title type="official" as="introduced">Directing the Chief Administrative Officer of the House of Representatives to provide individuals whose pay is disbursed by the Chief Administrative Officer by electronic funds transfer with the option of receiving receipts of pay and withholdings electronically.</title>
+	</titles>
+	<sponsor id="400643"/>
+	<cosponsors>
+		<cosponsor id="412254" joined="2008-06-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1210910400" datetime="2008-05-16"><text>Referred to the House Committee on House Administration.</text></action>
+		<action date="1217390400" datetime="2008-07-30"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1217390400" datetime="2008-07-30" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1220909700" datetime="2008-09-08T18:35:00-04:00"><text>Reported (Amended) by the Committee on House Administration. H. Rept. 110-830.</text></action>
+		<calendar number="261" date="1220909760" datetime="2008-09-08T18:36:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 261.</text></calendar>
+		<action date="1220984820" datetime="2008-09-09T15:27:00-04:00"><text>Mr. Brady (PA) moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1220984820" datetime="2008-09-09T15:27:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7896-7897"/></action>
+		<action date="1220984820" datetime="2008-09-09T15:27:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1207.</text></action>
+		<action date="1220985540" datetime="2008-09-09T15:39:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Ehlers objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1221150840" datetime="2008-09-11T13:34:00-04:00"><text>ORDER OF PROCEDURE - Mr. Hoyer asked unanimous consent that the motion to suspend the rules be considered as adopted in the form considered by the House on Tuesday, September 9, 2008.</text><reference label="consideration" ref="CR H8025"/></action>
+		<vote date="1221150840" how="without objection" datetime="2008-09-11T13:34:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to without objection. (text: CR 09/09/2008 H7896)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/11/2008--Passed House amended. (This measure has not been amended since it was reported to the House on September 8, 2008. The summary of that version is repeated here.) Requires the Chief Administrative Officer (CAO) of the House of Representatives to take necessary steps to provide individuals whose pay is disbursed by the CAO, by electronic funds transfer, with the option of: (1) receiving electronic receipt of such pay and its accompanying withholdings; (2) viewing electronically the individual's employee statement required under the Internal Revenue Code; and (3) revising electronically the individual's number of deductions and withholdings under that statement and information relating to the deposit of the individual's funds with the financial institution to which the electronic funds transfer is made.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="1015" updated="2009-03-07T11:47:55-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">District of Columbia-Maryland Reunion Act</title>
+		<title type="official" as="introduced">To provide for the retrocession of the District of Columbia to Maryland, and for other purposes.</title>
+	</titles>
+	<sponsor id="400651"/>
+	<cosponsors>
+		<cosponsor id="400343" joined="2009-02-12"/>
+		<cosponsor id="400381" joined="2009-02-12"/>
+		<cosponsor id="400655" joined="2009-02-13"/>
+		<cosponsor id="400089" joined="2009-02-12"/>
+		<cosponsor id="400076" joined="2009-02-12"/>
+		<cosponsor id="412270" joined="2009-02-12"/>
+		<cosponsor id="400151" joined="2009-02-13"/>
+		<cosponsor id="412294" joined="2009-02-13"/>
+		<cosponsor id="400077" joined="2009-02-13"/>
+		<cosponsor id="400145" joined="2009-02-26"/>
+		<cosponsor id="400141" joined="2009-02-12"/>
+		<cosponsor id="412191" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to House Judiciary</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to House Oversight and Government Reform</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

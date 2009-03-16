@@ -1,0 +1,36 @@
+<bill session="111" type="hr" number="107" updated="2009-03-07T13:18:39-05:00">
+	<status><vote date="1233760500" datetime="2009-02-04T11:15:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1233637200" datetime="2009-02-03"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the Senate amendment to the bill (H.R. 2) to amend title XXI of the Social Security Act to extend and improve the Childrens's Health Insurance Program, and for other purposes.</title>
+	</titles>
+	<sponsor id="412308"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233704220" datetime="2009-02-03T19:37:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 111-10, by Mr. Polis (CO).</text></action>
+		<action date="1233704220" datetime="2009-02-03T19:37:00-05:00"><text>Upon the adoption of H. Res. 107, it shall be in order to take from the Speaker's table the bill H.R. 2 with the Senate amendment thereto, and for the Chair to entertain a motion to concur in the Senate amendment. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for one hour.</text></action>
+		<calendar date="1233704220" datetime="2009-02-03T19:37:00-05:00" ><text>Placed on the House Calendar, Calendar No. 7.</text></calendar>
+		<action date="1233757620" datetime="2009-02-04T10:27:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H928-934"/></action>
+		<action date="1233757620" datetime="2009-02-04T10:27:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 107.</text></action>
+		<action date="1233760500" datetime="2009-02-04T11:15:00-05:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H934"/></action>
+		<vote date="1233760500" how="by voice vote" datetime="2009-02-04T11:15:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H928"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Rules" subcommittee="" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="2" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/2009--Introduced.<br/>Sets forth the rule for consideration of the Senate amendment to the bill (H.R. 2) to amend title XXI of the Social Security Act to extend and improve the Childrens's Health Insurance Program.<br/>
+	</summary>
+</bill>

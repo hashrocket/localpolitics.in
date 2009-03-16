@@ -1,0 +1,91 @@
+<bill session="110" type="hr" number="867" updated="2009-01-09T09:40:06-05:00">
+	<status><vote date="1202338380" datetime="2008-02-06T18:53:00-05:00" where="h" result="pass" how="roll" roll="29"/></status>
+
+	<introduced date="1197349200" datetime="2007-12-11"/>
+	<titles>
+		<title type="official" as="introduced">Commending the Houston Dynamo soccer team for winning the 2007 Major League Soccer Cup.</title>
+	</titles>
+	<sponsor id="400160"/>
+	<cosponsors>
+		<cosponsor id="400661" joined="2007-12-13"/>
+		<cosponsor id="400620" joined="2007-12-13"/>
+		<cosponsor id="412229" joined="2007-12-13"/>
+		<cosponsor id="400199" joined="2007-12-11"/>
+		<cosponsor id="400337" joined="2007-12-13"/>
+		<cosponsor id="400177" joined="2007-12-13"/>
+		<cosponsor id="400616" joined="2007-12-13"/>
+		<cosponsor id="400162" joined="2007-12-13"/>
+		<cosponsor id="412221" joined="2007-12-13"/>
+		<cosponsor id="400089" joined="2007-12-11"/>
+		<cosponsor id="400302" joined="2007-12-13"/>
+		<cosponsor id="400635" joined="2007-12-13"/>
+		<cosponsor id="400170" joined="2007-12-13"/>
+		<cosponsor id="400127" joined="2007-12-13"/>
+		<cosponsor id="412210" joined="2007-12-13"/>
+		<cosponsor id="400229" joined="2007-12-11"/>
+		<cosponsor id="400261" joined="2007-12-13"/>
+		<cosponsor id="412231" joined="2007-12-13"/>
+		<cosponsor id="400652" joined="2007-12-11"/>
+		<cosponsor id="400384" joined="2007-12-13"/>
+		<cosponsor id="400184" joined="2007-12-13"/>
+		<cosponsor id="400152" joined="2007-12-13"/>
+		<cosponsor id="400355" joined="2007-12-13"/>
+		<cosponsor id="412208" joined="2007-12-13"/>
+		<cosponsor id="400216" joined="2007-12-13"/>
+		<cosponsor id="400262" joined="2007-12-13"/>
+		<cosponsor id="400402" joined="2007-12-13"/>
+		<cosponsor id="400352" joined="2007-12-13"/>
+		<cosponsor id="400347" joined="2007-12-13"/>
+		<cosponsor id="412187" joined="2007-12-13"/>
+		<cosponsor id="400631" joined="2007-12-13"/>
+		<cosponsor id="400395" joined="2007-12-13"/>
+		<cosponsor id="400087" joined="2007-12-13"/>
+		<cosponsor id="400346" joined="2007-12-13"/>
+		<cosponsor id="400653" joined="2007-12-11"/>
+		<cosponsor id="400178" joined="2007-12-13"/>
+		<cosponsor id="400026" joined="2007-12-13"/>
+		<cosponsor id="400255" joined="2007-12-13"/>
+		<cosponsor id="400645" joined="2007-12-13"/>
+		<cosponsor id="400021" joined="2007-12-13"/>
+		<cosponsor id="400118" joined="2007-12-13"/>
+		<cosponsor id="412200" joined="2007-12-13"/>
+		<cosponsor id="400009" joined="2007-12-13"/>
+		<cosponsor id="412186" joined="2007-12-13"/>
+		<cosponsor id="400016" joined="2007-12-13"/>
+		<cosponsor id="400042" joined="2007-12-13"/>
+		<cosponsor id="400024" joined="2007-12-13"/>
+		<cosponsor id="400654" joined="2007-12-11"/>
+		<cosponsor id="400238" joined="2007-12-13"/>
+		<cosponsor id="412206" joined="2007-12-13"/>
+		<cosponsor id="400345" joined="2007-12-13"/>
+		<cosponsor id="400114" joined="2007-12-13"/>
+		<cosponsor id="400062" joined="2007-12-13"/>
+		<cosponsor id="400309" joined="2007-12-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1197349200" datetime="2007-12-11"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1201582800" datetime="2008-01-29"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1201582800" datetime="2008-01-29" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1202322480" datetime="2008-02-06T14:28:00-05:00"><text>Mr. Hodes moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1202322480" datetime="2008-02-06T14:28:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H565-566"/></action>
+		<action date="1202322480" datetime="2008-02-06T14:28:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 867.</text></action>
+		<action date="1202322960" datetime="2008-02-06T14:36:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1202337180" datetime="2008-02-06T18:33:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H591-592"/></action>
+		<vote date="1202338380" how="roll" roll="29" datetime="2008-02-06T18:53:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 373 - 0 (Roll no. 29).</text><reference label="text" ref="CR H565"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/6/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Commends the Houston Dynamo soccer team for winning the 2007 Major League Soccer Cup. Congratulates the team for back-to-back wins in its first two seasons in Houston.<br/>
+	</summary>
+</bill>

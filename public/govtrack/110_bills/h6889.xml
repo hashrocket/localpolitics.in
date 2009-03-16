@@ -1,0 +1,45 @@
+<bill session="110" type="h" number="6889" updated="2009-01-09T07:01:38-05:00">
+	<status><enacted date="1223352000" datetime="2008-10-07" /></status>
+
+	<introduced date="1221451200" datetime="2008-09-15"/>
+	<titles>
+		<title type="official" as="introduced">To extend the authority of the Secretary of Education to purchase guaranteed student loans for an additional year, and for other purposes.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+		<cosponsor id="400267" joined="2008-09-15"/>
+		<cosponsor id="400212" joined="2008-09-15"/>
+		<cosponsor id="400179" joined="2008-09-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1221451200" datetime="2008-09-15"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1221511320" datetime="2008-09-15T17:42:00-04:00"><text>Mr. Hinojosa moved to suspend the rules and pass the bill.</text></action>
+		<action date="1221511320" datetime="2008-09-15T17:42:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8089-8092"/></action>
+		<action date="1221511320" datetime="2008-09-15T17:42:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6889.</text></action>
+		<action date="1221512280" datetime="2008-09-15T17:58:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1221516540" datetime="2008-09-15T19:09:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8096"/></action>
+		<vote date="1221516960" how="roll" roll="591" datetime="2008-09-15T19:16:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 368 - 4 (Roll no. 591).</text><reference label="text" ref="CR H8089-8090"/></vote>
+		<action date="1221537600" datetime="2008-09-16"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1221624000" how="by Unanimous Consent" datetime="2008-09-17" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S8960"/></vote>
+		<topresident date="1221624000" datetime="2008-09-17" ><text>Cleared for White House.</text></topresident>
+		<action date="1221710400" datetime="2008-09-18"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1222401600" datetime="2008-09-26" ><text>Presented to President.</text></topresident>
+		<signed date="1223352000" datetime="2008-10-07" ><text>Signed by President.</text></signed>
+		<enacted number="110-350" date="1223352000" datetime="2008-10-07" type="public" ><text>Became Public Law No: 110-350.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/7/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends the Higher Education Act of 1965 to extend by one year, from July 2009 to July 2010, the Secretary of Education's authority to purchase, or enter into forward commitments to purchase, Federal Family Education Loans (FFELs) from lenders upon the determination that there is an inadequate availability of loan capital to meet the demand for such loans. Extends by one year, from June 30, 2009 to June 30, 2010, the authority of institutions of higher education (IHEs), with the Secretary's approval, to participate in the FFEL lender-of-last-resort program for borrowers otherwise unable to obtain such loans; thereby requiring guaranty agencies serving as lenders-of-last-resort to make FFELs to student and parent borrowers of such IHEs, until such date, regardless of their ability to otherwise obtain such loans.<br/>
+	</summary>
+</bill>

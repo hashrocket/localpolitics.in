@@ -1,0 +1,37 @@
+<bill session="110" type="h" number="1317" updated="2009-01-08T19:35:50-05:00">
+	<status><introduced date="1173070800" datetime="2007-03-05"/></status>
+
+	<introduced date="1173070800" datetime="2007-03-05"/>
+	<titles>
+		<title type="short" as="introduced">Community-Based Health Care Retraining Act</title>
+		<title type="official" as="introduced">To establish a demonstration project to train unemployed workers for employment as health care professionals, and for other purposes.</title>
+	</titles>
+	<sponsor id="400204"/>
+	<cosponsors>
+		<cosponsor id="400225" joined="2007-08-02"/>
+		<cosponsor id="412236" joined="2007-03-12"/>
+		<cosponsor id="412228" joined="2007-08-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1173070800" datetime="2007-03-05"><text>Referred to the Committee on Education and Labor, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1173070800" datetime="2007-03-05"><text>Referred to House Education and Labor</text></action>
+		<action date="1173070800" datetime="2007-03-05"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1173157200" datetime="2007-03-06"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1181016000" datetime="2007-06-05"><committee name="House Education and Labor"/><text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/5/2007--Introduced.<br/>Community-Based Health Care Retraining Act - Amends the Workforce Investment Act of 1998 to require the Secretary of Labor to establish and carry out a health professions training demonstration project that awards grants to eligible entities to train certain unemployed workers from the manufacturing or service sector for employment as health care professionals in communities with manufacturing and service sector job loss and health care professional shortages.<br/>
+	</summary>
+</bill>

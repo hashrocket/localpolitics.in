@@ -1,0 +1,41 @@
+<bill session="110" type="h" number="391" updated="2009-01-08T17:33:08-05:00">
+	<status><vote date="1168974960" datetime="2007-01-16T15:16:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1168405200" datetime="2007-01-10"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the Secretary of Housing and Urban Development to continue to insure, and to enter into commitments to insure, home equity conversion mortgages under section 255 of the National Housing Act.</title>
+	</titles>
+	<sponsor id="400255"/>
+	<cosponsors>
+		<cosponsor id="400027" joined="2007-01-12"/>
+		<cosponsor id="400633" joined="2007-01-10"/>
+		<cosponsor id="400277" joined="2007-01-10"/>
+		<cosponsor id="400051" joined="2007-01-10"/>
+		<cosponsor id="400140" joined="2007-01-10"/>
+		<cosponsor id="400422" joined="2007-01-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1168405200" datetime="2007-01-10"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1168974120" datetime="2007-01-16T15:02:00-05:00"><text>Mr. Scott (GA) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1168974120" datetime="2007-01-16T15:02:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H534-536"/></action>
+		<action date="1168974120" datetime="2007-01-16T15:02:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 391.</text></action>
+		<vote date="1168974960" how="by voice vote" datetime="2007-01-16T15:16:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H534"/></vote>
+		<action date="1169010000" datetime="2007-01-17"><text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar under="General Orders" number="8" date="1169096400" datetime="2007-01-18" calendar="Senate Legislative" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 8.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/16/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes the Secretary of Housing and Urban Development to continue, until February 15, 2007, to insure, and to enter into commitments to insure, home equity conversion mortgages for elderly homeowners under the National Housing Act, without regard to the maximum aggregate number of mortgages insured or maximum dollar amount of insurance benefits specified in such Act.<br/>
+	</summary>
+</bill>

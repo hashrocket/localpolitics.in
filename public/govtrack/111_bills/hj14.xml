@@ -1,0 +1,36 @@
+<bill session="111" type="hj" number="14" updated="2009-03-07T09:35:01-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to limit the number of consecutive terms that a Member of Congress may serve.</title>
+	</titles>
+	<sponsor id="400321"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Constitution, Civil Rights, and Civil Liberties" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="sj" number="1" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Constitution and constitutional amendments"/>
+		<term name="House of Representatives"/>
+		<term name="Members of Congress"/>
+		<term name="Senate"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Constitutional Amendment - Prohibits a person from serving more than two full consecutive terms as a Senator or six full consecutive terms as a Representative. 
+	</summary>
+</bill>

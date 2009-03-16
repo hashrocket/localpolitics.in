@@ -1,0 +1,64 @@
+<bill session="110" type="h" number="5690" updated="2009-01-09T04:39:38-05:00">
+	<status><enacted date="1214884800" datetime="2008-07-01" /></status>
+
+	<introduced date="1207195200" datetime="2008-04-03"/>
+	<titles>
+		<title type="official" as="introduced">To exempt the African National Congress from treatment as a terrorist organization for certain acts or events, provide relief for certain members of the African National Congress regarding admissibility, and for other purposes.</title>
+		<title type="official" as="amended by house">To remove the African National Congress from treatment as a terrorist organization for certain acts or events, provide relief for certain members of the African National Congress regarding admissibility, and for other purposes.</title>
+	</titles>
+	<sponsor id="400025"/>
+	<cosponsors>
+		<cosponsor id="400199" joined="2008-04-29"/>
+		<cosponsor id="400080" joined="2008-04-08"/>
+		<cosponsor id="400312" joined="2008-04-03"/>
+		<cosponsor id="400402" joined="2008-04-03"/>
+		<cosponsor id="400237" joined="2008-04-03"/>
+		<cosponsor id="412239" joined="2008-04-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1207195200" datetime="2008-04-03"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1207195200" datetime="2008-04-03"><text>Referred to House Judiciary</text></action>
+		<action date="1207195200" datetime="2008-04-03"><text>Referred to House Foreign Affairs</text></action>
+		<action date="1208145600" datetime="2008-04-14"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+		<action date="1209441600" datetime="2008-04-29"><committee name="House Judiciary"/><text>Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law Discharged.</text></action>
+		<action date="1209528000" datetime="2008-04-30"><committee name="House Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1209528000" datetime="2008-04-30" ><committee name="House Judiciary"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1210029060" datetime="2008-05-05T20:11:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 110-620, Part I.</text></action>
+		<action date="1210029060" datetime="2008-05-05T20:11:00-04:00"><text>Committee on Foreign Affairs discharged.</text></action>
+		<calendar number="387" date="1210029120" datetime="2008-05-05T20:12:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 387.</text></calendar>
+		<action date="1210095120" datetime="2008-05-06T14:32:00-04:00"><text>Mr. Conyers moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1210095120" datetime="2008-05-06T14:32:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3078-3083"/></action>
+		<action date="1210095120" datetime="2008-05-06T14:32:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5690.</text></action>
+		<action date="1210097040" datetime="2008-05-06T15:04:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Frelinghuysen objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1210303440" datetime="2008-05-08T12:24:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3203"/></action>
+		<vote date="1210303440" how="by voice vote" datetime="2008-05-08T12:24:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 5/6/2008 H3078-3079)</text></vote>
+		<action date="1210303440" datetime="2008-05-08T12:24:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1210564800" datetime="2008-05-12"><text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text></action>
+		<calendar date="1214452800" datetime="2008-06-26" ><committee name="House Foreign Affairs"/><text>Committee on the Judiciary. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action date="1214452800" datetime="2008-06-26"><text>Committee on the Judiciary. Reported by Senator Leahy with an amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="852" date="1214452800" datetime="2008-06-26" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 852.</text></calendar>
+		<vote date="1214452800" how="by Unanimous Consent" datetime="2008-06-26" where="s" type="vote2" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent. (consideration: S6231-6232)</text></vote>
+		<action date="1214526720" datetime="2008-06-26T21:32:00-04:00"><text>Ms. Lee asked unanimous consent that the House agree to the Senate amendment.</text><reference label="consideration" ref="CR H6171-6172"/></action>
+		<action date="1214526780" datetime="2008-06-26T21:33:00-04:00"><text>On motion that the House agree to the Senate amendment Agreed to without objection.</text><reference label="text as House agreed to Senate amendment" ref="CR H6171"/></action>
+		<action date="1214452800" datetime="2008-06-26"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1214452800" datetime="2008-06-26" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1214539200" datetime="2008-06-27" ><text>Presented to President.</text></topresident>
+		<signed date="1214884800" datetime="2008-07-01" ><text>Signed by President.</text></signed>
+		<enacted number="110-257" date="1214884800" datetime="2008-07-01" type="public" ><text>Became Public Law No: 110-257.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/26/2008--Public Law. (This measure has not been amended since it was passed by the Senate on June 26, 2008. The summary of that version is repeated here.) Amends the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2008 to state that for purposes of alien inadmissibility based upon terrorist-related grounds the African National Congress (ANC) shall not be considered to be a terrorist organization on the basis of any act or event that occurred before the date of enactment of such Act. Authorizes the Secretary of State (after consultation with the Attorney General and the Secretary of Homeland Security) or the Secretary of Homeland Security (after consultation with the Secretary of State and the Attorney General) to determine, in such Secretary's sole and unreviewable discretion, that inadmissibility based upon specified criminal convictions or terrorist activities shall not apply to an alien with respect to activities undertaken in opposition to apartheid rule in South Africa. Expresses the sense of Congress that the Secretary of State and the Secretary of Homeland Security should exercise such authority in appropriate instances to exempt the anti-apartheid activities of aliens who are current or former officials of the government of the Republic of South Africa.<br/>Directs the Secretary of State, in coordination with the Attorney General, the Secretary of Homeland Security, the Director of the Federal Bureau of Investigation, and the Director of National Intelligence, to ensure that databases used to determine U.S. admissibility are appropriately updated.<br/>
+	</summary>
+</bill>

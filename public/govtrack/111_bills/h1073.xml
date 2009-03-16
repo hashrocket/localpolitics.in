@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="1073" updated="2009-03-07T11:54:54-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit the use of funds to transfer individuals detained at Naval Station, Guantanamo Bay, Cuba, to facilities in Florida or to house such individuals at such facilities.</title>
+	</titles>
+	<sponsor id="412311"/>
+	<cosponsors>
+		<cosponsor id="400279" joined="2009-02-13"/>
+		<cosponsor id="400273" joined="2009-02-13"/>
+		<cosponsor id="412309" joined="2009-02-13"/>
+		<cosponsor id="400051" joined="2009-02-13"/>
+		<cosponsor id="400439" joined="2009-02-13"/>
+		<cosponsor id="400328" joined="2009-02-13"/>
+		<cosponsor id="400388" joined="2009-02-13"/>
+		<cosponsor id="400108" joined="2009-02-13"/>
+		<cosponsor id="400622" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the House Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="817" />
+		<bill relation="unknown" session="111" type="h" number="829" />
+		<bill relation="unknown" session="111" type="h" number="1186" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2009--Introduced.<br/>Prohibits federal funds from being used to: (1) transfer any individual detained by the United States at Naval Station Guantanamo Bay, Cuba, to any military installation or federal detention center in Florida; or (2) house any such individual at a Florida installation or detention center.<br/>
+	</summary>
+</bill>

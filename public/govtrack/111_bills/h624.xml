@@ -1,0 +1,64 @@
+<bill session="111" type="h" number="624" updated="2009-03-07T11:00:56-05:00">
+	<status><introduced date="1232514000" datetime="2009-01-21"/></status>
+
+	<introduced date="1232514000" datetime="2009-01-21"/>
+	<titles>
+		<title type="short" as="introduced">Airline Passenger Bill of Rights Act of 2009</title>
+		<title type="official" as="introduced">To amend title 49, United States Code, to ensure air passengers have access to necessary services while on a grounded air carrier, and for other purposes.</title>
+	</titles>
+	<sponsor id="400403"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="2009-01-28"/>
+		<cosponsor id="400387" joined="2009-02-25"/>
+		<cosponsor id="400199" joined="2009-02-02"/>
+		<cosponsor id="400442" joined="2009-01-26"/>
+		<cosponsor id="400177" joined="2009-02-04"/>
+		<cosponsor id="400289" joined="2009-02-04"/>
+		<cosponsor id="400110" joined="2009-01-26"/>
+		<cosponsor id="400237" joined="2009-01-26"/>
+		<cosponsor id="400383" joined="2009-01-22"/>
+		<cosponsor id="412222" joined="2009-02-02"/>
+		<cosponsor id="400400" joined="2009-02-25"/>
+		<cosponsor id="400282" joined="2009-01-22"/>
+		<cosponsor id="400026" joined="2009-02-04"/>
+		<cosponsor id="412225" joined="2009-01-26"/>
+		<cosponsor id="400122" joined="2009-02-10"/>
+		<cosponsor id="400129" joined="2009-01-28"/>
+		<cosponsor id="400074" joined="2009-01-28"/>
+		<cosponsor id="400266" joined="2009-01-28"/>
+		<cosponsor id="400124" joined="2009-01-28"/>
+		<cosponsor id="400003" joined="2009-01-22"/>
+		<cosponsor id="400047" joined="2009-02-10"/>
+		<cosponsor id="400406" joined="2009-02-04"/>
+		<cosponsor id="400283" joined="2009-01-22"/>
+		<cosponsor id="400240" joined="2009-01-22"/>
+		<cosponsor id="400264" joined="2009-02-25"/>
+		<cosponsor id="412219" joined="2009-02-02"/>
+		<cosponsor id="400345" joined="2009-02-02"/>
+		<cosponsor id="412198" joined="2009-01-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1232514000" datetime="2009-01-21"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to the Subcommittee on Aviation.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="213" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Aviation and airports"/>
+		<term name="Consumer affairs"/>
+		<term name="Department of Transportation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/2009--Introduced.<br/>Airline Passenger Bill of Rights Act of 2009 - Requires each air carrier and airport operator to submit for approval by the Secretary of Transportation a proposed contingency plan meeting minimum standards established by the Secretary. Requires an air carrier to provide passengers on a departure- or arrival-delayed grounded aircraft with: (1) adequate food, water, restrooms, ventilation, and medical services; as well as (2) a time frame under which passengers may deplane a delayed aircraft after three hours, except in specified circumstances. Requires an airport operator plan to describe: (1) how passengers will be deplaned following a long tarmac delay; and (2) how facilities will be shared and gates made available to aircraft that experience such delays. Authorizes the Secretary to assess a civil penalty against air carriers and airport operators that fail to submit, obtain approval of, or adhere to a contingency plan. Requires public access to such plans. Directs the Secretary to establish a consumer hotline telephone number for air passenger complaints.<br/>
+	</summary>
+</bill>

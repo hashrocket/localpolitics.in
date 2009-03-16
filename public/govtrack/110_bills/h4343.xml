@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="4343" updated="2009-01-09T01:53:36-05:00">
+	<status><enacted date="1197522000" datetime="2007-12-13" /></status>
+
+	<introduced date="1197349200" datetime="2007-12-11"/>
+	<titles>
+		<title type="short" as="introduced">Fair Treatment for Experienced Pilots Act</title>
+		<title type="short" as="passed house">Fair Treatment for Experienced Pilots Act</title>
+		<title type="short" as="passed senate">Fair Treatment for Experienced Pilots Act</title>
+		<title type="short" as="enacted">Fair Treatment for Experienced Pilots Act</title>
+		<title type="official" as="introduced">To amend title 49, United States Code, to modify age standards for pilots engaged in commercial aviation operations.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="400273" joined="2007-12-11"/>
+		<cosponsor id="400082" joined="2007-12-11"/>
+		<cosponsor id="400048" joined="2007-12-11"/>
+		<cosponsor id="400172" joined="2007-12-11"/>
+		<cosponsor id="400318" joined="2007-12-11"/>
+		<cosponsor id="400090" joined="2007-12-11"/>
+		<cosponsor id="400179" joined="2007-12-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1197349200" datetime="2007-12-11"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1197398460" datetime="2007-12-11T14:41:00-05:00"><text>Mr. Costello moved to suspend the rules and pass the bill.</text></action>
+		<action date="1197398460" datetime="2007-12-11T14:41:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H15252-15255"/></action>
+		<action date="1197398460" datetime="2007-12-11T14:41:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4343.</text></action>
+		<action date="1197399840" datetime="2007-12-11T15:04:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1197414120" datetime="2007-12-11T19:02:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H15274-15275"/></action>
+		<vote date="1197414480" how="roll" roll="1144" datetime="2007-12-11T19:08:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 1144).</text><reference label="text" ref="CR H15252"/></vote>
+		<vote date="1197435600" how="by Unanimous Consent" datetime="2007-12-12" where="s" type="vote2" result="pass" ><text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S15373"/></vote>
+		<topresident date="1197435600" datetime="2007-12-12" ><text>Cleared for White House.</text></topresident>
+		<action date="1197522000" datetime="2007-12-13"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1197522000" datetime="2007-12-13" ><text>Presented to President.</text></topresident>
+		<signed date="1197522000" datetime="2007-12-13" ><text>Signed by President.</text></signed>
+		<enacted number="110-135" date="1197522000" datetime="2007-12-13" type="public" ><text>Became Public Law No: 110-135.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/13/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Fair Treatment for Experienced Pilots Act - Amends federal transportation law to allow a pilot who has attained 60 years of age to serve as a passenger airline pilot until the age of 65, provided that a pilot who has attained age 60 may serve as pilot-in-command on international flights only if there is another pilot in the flight crew who has not yet attained 60 years of age. Prohibits subjecting pilots to different medical examinations and standards on account of age unless to ensure an adequate level of safety in flight, except that no person who has attained 60 years of age may serve as a pilot unless such person has a first-class medical certificate.<br/>Requires air carriers to: (1) continue to provide FAA-approved training to pilots, with specific emphasis on initial and recurring training and qualification of pilots who have attained 60 years of age; and (2) evaluate, every six months, the performance of pilots who have attained 60 years of age through a line check of such pilot.<br/>Requires the Comptroller General to report to Congress on the effect of the modification of pilot age requirements, if any, on aviation safety.<br/>
+	</summary>
+</bill>

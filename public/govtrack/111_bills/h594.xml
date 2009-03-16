@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="594" updated="2009-03-07T10:57:26-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Save Our Climate Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to reduce emissions of carbon dioxide by imposing a tax on primary fossil fuels based on their carbon content.</title>
+	</titles>
+	<sponsor id="400387"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2009-01-21"/>
+		<cosponsor id="400262" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Sponsor introductory remarks on measure. (CR E100-101)</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Air quality"/>
+		<term name="Climate change"/>
+		<term name="Coal"/>
+		<term name="Oil and gas"/>
+		<term name="Sales and excise taxes"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Save Our Climate Act of 2009 - Amends the Internal Revenue Code to impose an excise tax on the carbon content of any taxable fuel sold by a manufacturer, producer, or importer. Sets the amount of such tax at $10 per ton of the carbon content in such fuel, with annual increases in the amount of such tax until the second year after the level of carbon dioxide emissions in the United States for the calendar year does not exceed 20% of the level for 1990. Defines &quot;taxable fuel&quot; as coal (including lignite and peat), petroleum and any petroleum product, and natural gas. Exempts from such tax the sale or in-kind exchange of fuel for deposit in the Strategic Petroleum Reserve and certain exports or resales of such fuel.<br/>
+	</summary>
+</bill>

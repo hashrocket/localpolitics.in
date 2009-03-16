@@ -1,0 +1,50 @@
+<bill session="110" type="hr" number="1271" updated="2009-01-09T10:32:26-05:00">
+	<status><vote date="1214499900" datetime="2008-06-26T14:05:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1213243200" datetime="2008-06-12"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing National Homeownership Month and the importance of homeownership in the United States.</title>
+	</titles>
+	<sponsor id="400277"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2008-06-19"/>
+		<cosponsor id="400280" joined="2008-06-23"/>
+		<cosponsor id="400257" joined="2008-06-19"/>
+		<cosponsor id="400027" joined="2008-06-12"/>
+		<cosponsor id="400441" joined="2008-06-12"/>
+		<cosponsor id="400424" joined="2008-06-12"/>
+		<cosponsor id="400633" joined="2008-06-12"/>
+		<cosponsor id="400010" joined="2008-06-12"/>
+		<cosponsor id="412258" joined="2008-06-19"/>
+		<cosponsor id="400057" joined="2008-06-19"/>
+		<cosponsor id="400422" joined="2008-06-12"/>
+		<cosponsor id="400653" joined="2008-06-12"/>
+		<cosponsor id="400251" joined="2008-06-12"/>
+		<cosponsor id="400179" joined="2008-06-12"/>
+		<cosponsor id="412202" joined="2008-06-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1213243200" datetime="2008-06-12"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1214347920" datetime="2008-06-24T19:52:00-04:00"><text>Mr. Cleaver moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1214347920" datetime="2008-06-24T19:52:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5977-5979"/></action>
+		<action date="1214347920" datetime="2008-06-24T19:52:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1271.</text></action>
+		<action date="1214348460" datetime="2008-06-24T20:01:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Price (GA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1214499900" datetime="2008-06-26T14:05:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6121"/></action>
+		<vote date="1214499900" how="by voice vote" datetime="2008-06-26T14:05:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 6/24/2008 H5977)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/26/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Supports the goals and ideals of National Homeownership Month (June 2008).<br/>Recognizes the importance of homeownership in building strong communities and families.<br/>
+	</summary>
+</bill>

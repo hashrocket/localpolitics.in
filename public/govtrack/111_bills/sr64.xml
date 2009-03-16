@@ -1,0 +1,38 @@
+<bill session="111" type="sr" number="64" updated="2009-03-07T14:45:50-05:00">
+	<status><introduced date="1236142800" datetime="2009-03-04"/></status>
+
+	<introduced date="1236142800" datetime="2009-03-04"/>
+	<titles>
+		<title type="official" as="introduced">A resolution recognizing the need for the Environmental Protection Agency to end decades of delay and utilize existing authority under the Resource Conservation and Recovery Act to comprehensively regulate coal combustion waste and the need for the Tennessee Valley Authority to be a national leader in technological innovation, low-cost power, and environmental stewardship.</title>
+	</titles>
+	<sponsor id="300011"/>
+	<cosponsors>
+		<cosponsor id="300019" joined="2009-03-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1236142800" datetime="2009-03-04"><text>Referred to the Committee on Environment and Public Works.</text><reference label="text of measure as introduced" ref="CR S2775"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Environment and Public Works" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Coal"/>
+		<term name="Congressional oversight"/>
+		<term name="Electric power generation and transmission"/>
+		<term name="Environmental Protection Agency (EPA)"/>
+		<term name="Government investigations"/>
+		<term name="Solid waste and recycling"/>
+		<term name="Tennessee Valley Authority"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

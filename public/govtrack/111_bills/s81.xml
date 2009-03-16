@@ -1,0 +1,32 @@
+<bill session="111" type="s" number="81" updated="2009-03-07T13:41:48-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Notch Fairness Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend title II of the Social Security Act to allow workers who attain age 65 after 1981 and before 1992 to choose either lump sum payments over four years totaling $5,000 or an improved benefit computation formula under a new 10-year rule governing the transition to the changes in benefit computation rules enacted in the Social Security Amendments of 1977, and for other purposes.</title>
+	</titles>
+	<sponsor id="400418"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="1067" />
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Social security and elderly assistance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Notch Fairness Act of 2009 - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to revise the formula for the computation of minimum Old Age Insurance benefits for individuals who reached age 65 in or after 1979, and to whom applies the 15-year transition period for the changes in benefit computation rules enacted in the Social Security Amendments of 1977. Sets forth a schedule of additional benefit increases for such beneficiaries (and related beneficiaries), with percentages declining from 55% to 5% and keyed to the year an individual became eligible for such benefits between 1979 and 1988. Allows such beneficiaries, in the alternative, to receive lump sum payments over four years totaling $5,000. 
+	</summary>
+</bill>

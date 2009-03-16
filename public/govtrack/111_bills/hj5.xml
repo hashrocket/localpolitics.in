@@ -1,0 +1,34 @@
+<bill session="111" type="hj" number="5" updated="2009-03-07T09:34:00-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to repeal the twenty-second article of amendment, thereby removing the limitation on the number of terms an individual may serve as President.</title>
+	</titles>
+	<sponsor id="400366"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Constitution, Civil Rights, and Civil Liberties" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Constitution and constitutional amendments"/>
+		<term name="Presidents and presidential powers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Constitutional Amendment - Repeals the 22nd Amendment to the Constitution (thereby removing the limitation on the number of terms an individual may serve as President).<br/>
+	</summary>
+</bill>

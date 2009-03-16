@@ -1,0 +1,65 @@
+<bill session="110" type="h" number="3986" updated="2009-01-09T01:11:15-05:00">
+	<status><enacted date="1223006400" datetime="2008-10-03" /></status>
+
+	<introduced date="1193630400" datetime="2007-10-29"/>
+	<titles>
+		<title type="short" as="introduced">John F. Kennedy Center Reauthorization Act of 2007</title>
+		<title type="short" as="reported to house">John F. Kennedy Center Reauthorization Act of 2007</title>
+		<title type="short" as="passed house">John F. Kennedy Center Reauthorization Act of 2007</title>
+		<title type="short" as="reported to senate">John F. Kennedy Center Reauthorization Act of 2008</title>
+		<title type="short" as="passed senate">John F. Kennedy Center Reauthorization Act of 2008</title>
+		<title type="short" as="enacted">John F. Kennedy Center Reauthorization Act of 2008</title>
+		<title type="official" as="introduced">To amend the John F. Kennedy Center Act to authorize appropriations for the John F. Kennedy Center for the Performing Arts, and for other purposes.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="400273" joined="2007-10-29"/>
+		<cosponsor id="400295" joined="2007-10-29"/>
+		<cosponsor id="400158" joined="2007-10-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1193630400" datetime="2007-10-29"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1193716800" datetime="2007-10-30"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1193716800" datetime="2007-10-30"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1193716800" datetime="2007-10-30"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1193803200" datetime="2007-10-31"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1193803200" datetime="2007-10-31" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1197314580" datetime="2007-12-10T15:23:00-05:00"><text>Reported by the Committee on Transportation. H. Rept. 110-480.</text></action>
+		<calendar number="296" date="1197314580" datetime="2007-12-10T15:23:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 296.</text></calendar>
+		<action date="1197399840" datetime="2007-12-11T15:04:00-05:00"><text>Mr. Oberstar moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1197399840" datetime="2007-12-11T15:04:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H15255-15256"/></action>
+		<action date="1197399840" datetime="2007-12-11T15:04:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3986.</text></action>
+		<vote date="1197400440" how="by voice vote" datetime="2007-12-11T15:14:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H15255"/></vote>
+		<action date="1197435600" datetime="2007-12-12"><text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar date="1211342400" datetime="2008-05-21" ><text>Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1212552000" datetime="2008-06-04"><text>Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="765" date="1212552000" datetime="2008-06-04" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 765.</text></calendar>
+		<vote date="1214452800" how="by Unanimous Consent" datetime="2008-06-26" where="s" type="vote2" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6302-6303"/></vote>
+		<action date="1214539200" datetime="2008-06-27"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1214539200" datetime="2008-06-27"><text>By Senator Boxer from Committee on Environment and Public Works filed written report. Report No. 110-406.</text></action>
+		<action date="1221679020" datetime="2008-09-17T16:17:00-04:00"><text>Ms. Johnson, E. B. moved that the House suspend the rules an agree to the Senate amendment.</text><reference label="consideration" ref="CR H8341-8343"/></action>
+		<action date="1221679080" datetime="2008-09-17T16:18:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3986.</text></action>
+		<action date="1221679860" datetime="2008-09-17T16:31:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Graves objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1221771240" datetime="2008-09-18T17:54:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8454"/></action>
+		<action date="1221771240" datetime="2008-09-18T17:54:00-04:00"><text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR 9/17/2008 H8341)</text></action>
+		<topresident date="1221710400" datetime="2008-09-18" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1222401600" datetime="2008-09-26" ><text>Presented to President.</text></topresident>
+		<signed date="1223006400" datetime="2008-10-03" ><text>Signed by President.</text></signed>
+		<enacted number="110-338" date="1223006400" datetime="2008-10-03" type="public" ><text>Became Public Law No: 110-338.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/3/2008--Public Law. (This measure has not been amended since it was passed by the Senate on June 26, 2008. The summary of that version is repeated here.)<br/>John. F. Kennedy Center Reauthorization Act of 2008 - Amends the John F. Kennedy Center Act to allow the Trustees of the John F. Kennedy for the Performing Arts (the Board) to study, plan, design, engineer, and construct a photovoltaic system for the main roof of the John F. Kennedy Center for the Performing Arts. Requires the Board, no later than 60 days before beginning construction of the system, to report on the feasibility and design of such project. Authorizes appropriations for such system.<br/>Authorizes appropriations for FY2008-FY2012 to the Board for: (1) maintenance, repair, and security; and (2) capital projects.<br/>Prohibits anything in this Act from limiting or otherwise affecting the authority or responsibility of the National Capital Planning Commission or the Commission of Fine Arts. 
+	</summary>
+</bill>

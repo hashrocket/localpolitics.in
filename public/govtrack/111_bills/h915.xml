@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="915" updated="2009-03-07T11:36:00-05:00">
+	<status><calendar date="1236229200" datetime="2009-03-05" /></status>
+
+	<introduced date="1234155600" datetime="2009-02-09"/>
+	<titles>
+		<title type="short" as="introduced">FAA Reauthorization Act of 2009</title>
+		<title type="short" as="introduced">Federal Aviation Research and Development Reauthorization Act of 2009</title>
+		<title type="official" as="introduced">To amend title 49, United States Code, to authorize appropriations for the Federal Aviation Administration for fiscal years 2009 through 2012, to improve aviation safety and capacity, to provide stable funding for the national aviation system, and for other purposes.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="400082" joined="2009-02-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to House Science and Technology</text></action>
+		<action date="1234242000" datetime="2009-02-10"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Aviation.</text></action>
+		<action date="1234328400" datetime="2009-02-11"><committee name="House Science and Technology"/><text>Referred to the Subcommittee on Space and Aeronautics.</text></action>
+		<action date="1236229200" datetime="2009-03-05"><committee name="House Transportation and Infrastructure"/><text>Subcommittee on Aviation Discharged.</text></action>
+		<action date="1236229200" datetime="2009-03-05"><committee name="House Transportation and Infrastructure"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1236229200" datetime="2009-03-05" ><committee name="House Transportation and Infrastructure"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, Markup, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Aviation" activity="Referral, Discharged" />
+		<committee name="House Science and Technology" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Science and Technology" subcommittee="Space and Aeronautics" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/9/2009--Introduced.<br/>FAA Reauthorization Act of 2009 - Reauthorizes appropriations for FY2009-FY2012 for: (1) airport planning and development and noise compatibility planning programs; (2) air navigation facilities and equipment; (3) Federal Aviation Administration (FAA) operations; and (4) FAA research, engineering, and development. Authorizes additional authorizations of appropriations from the general fund of the Treasury for aviation programs through FY2012. Amends the airport improvement program (AIP) to increase passenger facility charges that can be imposed by an eligible agency to finance an eligible airport-related project. Makes projects for construction of airport bicycle storage facilities and an intermodal ground access pilot project eligible airport-related projects. Specifies FAA services for which user fees may be charged. Requires adjustment of overflight fees by expedited rulemaking. Prescribes certain registration fees. Revises requirements for the airport improvement program (AIP). Increases the allotment of discretionary funds in a fiscal year for the airport security program. Expresses the sense of Congress that the modernizing of the U.S. air transportation system, through implementation of the Next Generation Air Transportation System (NextGen), is a national priority. Requires the FAA Administrator to report to Congress on the program and schedule for integrating automatic dependent surveillance-broadcast (ADS-B) technology into the national airspace system. Prescribes other requirements for development of the NextGen System. Directs the FAA Administrator to develop a monitoring system for flight service specialist staffing and training under service contracts for flight service stations. Establishes a NextGen research and development center of excellence. Directs the FAA Administrator to: (1) develop a strategic runway safety plan, including systems to alert controllers and/or flight crews to potential runway incursions; (2) prescribe standards for the occupational safety and health of flight attendants; (3) establish a pilot program to provide surveillance for aircraft flying outside of radar coverage in mountainous areas; and (4) review off-airport, low-altitude aircraft weather observation technologies. Requires the Secretary of Transportation to develop a plan for the safe integration of commercial unmanned aircraft systems into the national airspace system. Establishes in the FAA an Aviation Safety Whistleblower Investigation Office. Increases from 24 to 34 the number of slots exempt from specified requirements and prohibitions concerning operation of an aircraft nonstop in air transportation between Ronald Reagan Washington National Airport and another airport more than 1,250 statute miles away (Perimeter Rule limit). Increases additional funding and revises requirements for the Essential Air Service program. Requires certain air carriers and airport operators to submit for the Secretary's approval emergency contingency plans for passenger service during grounded aircraft flight delays. Directs the Secretary to establish in the Department of Transportation (DOT): (1) an Office of Rural Aviation; and (2) an advisory committee for aviation consumer protection. Prohibits voice communications using mobile communications devices on scheduled flights. Requires the FAA Administrator to enter into a cooperative agreement with an institution, entity, or consortium to carry out a program for the development, maturing, and certification of CLEEN (continuous lower energy, emissions, and noise) engine and airframe technology for aircraft over the next 10 years. Prohibits operating certain aircraft weighing 75,000 pounds or less that do not comply with stage 3 noise levels. Directs the Secretary to establish: (1) a pilot program to carry out up to six environmental mitigation demonstration projects at public-use airports; and (2) an aircraft departure queue management pilot program. Revises FAA personnel management system requirements with respect to the mediation, alternative resolution, and binding arbitration of disputes between the FAA Administrator and FAA employees about implementation of proposed changes to the system. Directs the FAA Administrator to: (1) increase the number of aviation safety inspectors in the Flight Standards Service; (2) assess training programs for FAA air traffic controllers; and (3) establish an FAA Task Force on Air Traffic Control Facility Conditions. Extends the Secretary's authority to provide insurance and reinsurance against loss or damage arising out of any risk from the operation of a domestic or foreign aircraft. Authorizes the FAA Administrator to access the criminal history records or databases systems of specified federal law enforcement agencies. Establishes within the FAA a working group to make recommendations for the realignment of FAA services and facilities to assist in the transition to next generation facilities. Directs the FAA Administrator to establish a pilot program for redevelopment of airport properties. Federal Aviation Research and Development Reauthorization Act of 2009 - Directs the FAA Administrator to establish a research initiative to assess the impact of aviation on the climate and, if warranted, to evaluate approaches to mitigate such impact. Directs the FAA Administrator to establish a Center for Excellence in Aviation Employment. 
+	</summary>
+</bill>

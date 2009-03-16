@@ -1,0 +1,88 @@
+<bill session="111" type="h" number="21" updated="2009-03-07T09:49:58-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Ocean Conservation, Education, and National Strategy for the 21st Century Act</title>
+		<title type="official" as="introduced">To establish a national policy for our oceans, to strengthen the National Oceanic and Atmospheric Administration, to establish a national and regional ocean governance structure, and for other purposes.</title>
+	</titles>
+	<sponsor id="400129"/>
+	<cosponsors>
+		<cosponsor id="400387" joined="2009-01-15"/>
+		<cosponsor id="400041" joined="2009-01-09"/>
+		<cosponsor id="400133" joined="2009-01-09"/>
+		<cosponsor id="400128" joined="2009-01-09"/>
+		<cosponsor id="400073" joined="2009-01-22"/>
+		<cosponsor id="400001" joined="2009-01-09"/>
+		<cosponsor id="400436" joined="2009-01-15"/>
+		<cosponsor id="400162" joined="2009-01-13"/>
+		<cosponsor id="400237" joined="2009-01-09"/>
+		<cosponsor id="400282" joined="2009-01-09"/>
+		<cosponsor id="400251" joined="2009-01-13"/>
+		<cosponsor id="400178" joined="2009-01-09"/>
+		<cosponsor id="400403" joined="2009-01-09"/>
+		<cosponsor id="400360" joined="2009-01-20"/>
+		<cosponsor id="400430" joined="2009-01-09"/>
+		<cosponsor id="412200" joined="2009-01-09"/>
+		<cosponsor id="412186" joined="2009-01-09"/>
+		<cosponsor id="400371" joined="2009-01-13"/>
+		<cosponsor id="400124" joined="2009-01-09"/>
+		<cosponsor id="400185" joined="2009-01-15"/>
+		<cosponsor id="400047" joined="2009-01-22"/>
+		<cosponsor id="400097" joined="2009-02-03"/>
+		<cosponsor id="400033" joined="2009-01-09"/>
+		<cosponsor id="400240" joined="2009-01-15"/>
+		<cosponsor id="400215" joined="2009-01-09"/>
+		<cosponsor id="400184" joined="2009-02-09"/>
+		<cosponsor id="400025" joined="2009-01-09"/>
+		<cosponsor id="400062" joined="2009-01-09"/>
+		<cosponsor id="400425" joined="2009-01-09"/>
+		<cosponsor id="400312" joined="2009-01-13"/>
+		<cosponsor id="400245" joined="2009-01-22"/>
+		<cosponsor id="400278" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on Natural Resources, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Natural Resources</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Science and Technology</text></action>
+		<action date="1231218000" datetime="2009-01-06"><committee name="House Science and Technology"/><text>Referred to the Subcommittee on Energy and Environment.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Science and Technology" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Science and Technology" subcommittee="Energy and Environment" activity="Referral" />
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Insular Affairs, Oceans and Wildlife" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Aquatic ecology"/>
+		<term name="Atlantic Ocean"/>
+		<term name="Atmospheric science and weather"/>
+		<term name="Caribbean Sea"/>
+		<term name="Department of Commerce"/>
+		<term name="Environmental assessment, monitoring, research"/>
+		<term name="Executive Office of the President"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Government trust funds"/>
+		<term name="Great Lakes"/>
+		<term name="Gulf of Mexico"/>
+		<term name="International organizations and cooperation"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Marine pollution"/>
+		<term name="Pacific Ocean"/>
+		<term name="Postal service"/>
+		<term name="State and local government operations"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Ocean Conservation, Education, and National Strategy for the 21st Century Act - Declares that the purpose of this Act is to secure for future U.S. generations the full range of benefits of healthy marine ecosystems. Specifies a national ocean policy and related principles. Requires each federal agency to act in accordance with that policy. Reestablishes the National Oceanic and Atmospheric Administration (NOAA) and its leadership. (NOAA was created by the Reorganization Plan No. 4 of 1970.) Includes in NOAA the National Weather Service and the Science Advisory Board. Establishes a National Ocean Advisor in the Executive Office of the President. Reestablishes in the Executive Office of the President the Committee on Ocean Policy, which was originally established by executive order. Establishes a Council of Advisors on Ocean Policy to advise the President. Designates nine ocean regions to promote coordinated regional efforts to implement the national ocean policy. Requires the NOAA Administrator to establish or designate a Regional Ocean Partnership for each region and requires each Partnership to prepare a Regional Ocean Strategic Plan. Establishes the Ocean and Great Lakes Conservation Trust Fund. Requires payments to coastal states for Regional Ocean Strategic Plan activities.<br/>Requires the United States Postal Service (USPS) to print a special postage stamp to enable the public to help protect, maintain, and restore marine ecosystems.<br/>
+	</summary>
+</bill>

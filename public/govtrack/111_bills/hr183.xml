@@ -1,0 +1,60 @@
+<bill session="111" type="hr" number="183" updated="2009-03-07T13:28:25-05:00">
+	<status><vote date="1235671440" datetime="2009-02-26T14:04:00-05:00" where="h" result="pass" how="roll" roll="90"/></status>
+
+	<introduced date="1235365200" datetime="2009-02-23"/>
+	<titles>
+		<title type="official" as="introduced">Expressing condolences to the families, friends, and loved ones of the victims of the crash of Continental Connection Flight 3407, and for other purposes.</title>
+	</titles>
+	<sponsor id="412291"/>
+	<cosponsors>
+		<cosponsor id="400031" joined="2009-02-23"/>
+		<cosponsor id="400219" joined="2009-02-23"/>
+		<cosponsor id="400416" joined="2009-02-23"/>
+		<cosponsor id="412297" joined="2009-02-23"/>
+		<cosponsor id="400257" joined="2009-02-23"/>
+		<cosponsor id="400087" joined="2009-02-23"/>
+		<cosponsor id="412221" joined="2009-02-23"/>
+		<cosponsor id="412222" joined="2009-02-23"/>
+		<cosponsor id="400426" joined="2009-02-23"/>
+		<cosponsor id="400195" joined="2009-02-23"/>
+		<cosponsor id="412224" joined="2009-02-23"/>
+		<cosponsor id="400178" joined="2009-02-23"/>
+		<cosponsor id="400378" joined="2009-02-23"/>
+		<cosponsor id="400122" joined="2009-02-23"/>
+		<cosponsor id="400246" joined="2009-02-23"/>
+		<cosponsor id="400366" joined="2009-02-23"/>
+		<cosponsor id="400641" joined="2009-02-23"/>
+		<cosponsor id="412296" joined="2009-02-23"/>
+		<cosponsor id="412299" joined="2009-02-23"/>
+		<cosponsor id="400409" joined="2009-02-23"/>
+		<cosponsor id="400264" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1235365200" datetime="2009-02-23"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1235593080" datetime="2009-02-25T16:18:00-05:00"><text>Committee on Oversight and Government discharged.</text><reference label="consideration" ref="CR H2806"/></action>
+		<action date="1235593140" datetime="2009-02-25T16:19:00-05:00"><text>DISCHARGE AND RE-REFERRAL OF H.RES. 183 - Mr. Arcuri asked unanimous consent that the Committee on Oversight and Government Reform be discharged from further consideration of H.Res. 183, and that the resolution be re-referred to the Committee on Transportation and Infrastructure.</text></action>
+		<action date="1235538000" datetime="2009-02-25"><text>Rereferred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1235593140" datetime="2009-02-25T16:19:00-05:00"><text>Mr. Arcuri moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1235593140" datetime="2009-02-25T16:19:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2806-2808"/></action>
+		<action date="1235593140" datetime="2009-02-25T16:19:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 183.</text></action>
+		<action date="1235593980" datetime="2009-02-25T16:33:00-05:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Arcuri objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1235669460" datetime="2009-02-26T13:31:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2862"/></action>
+		<vote date="1235671440" how="roll" roll="90" datetime="2009-02-26T14:04:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 90). (text: CR 2/25/2009 H2806)</text></vote>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, Discharged" />
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Re-referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/26/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Expresses the condolences of the House of Representatives to the families, friends, and loved ones of the victims of the crash of Continental Connection Flight 3407. Honors those who lost their lives, and expresses sympathies to the people of Clarence Center, the entire state of New York, and the nation who grieve for the victims. Commends the heroic actions of the first responders, emergency services personnel, and air traffic controllers. Commends the hundreds of volunteers who worked together to respond to the tragedy with tremendous courage.<br/>
+	</summary>
+</bill>

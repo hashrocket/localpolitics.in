@@ -1,0 +1,55 @@
+<bill session="110" type="h" number="1777" updated="2009-01-08T20:33:40-05:00">
+	<status><enacted date="1222747200" datetime="2008-09-30" /></status>
+
+	<introduced date="1175140800" datetime="2007-03-29"/>
+	<titles>
+		<title type="short" as="introduced">Need-Based Educational Aid Act of 2007</title>
+		<title type="short" as="reported to house">Need-Based Educational Aid Act of 2007</title>
+		<title type="short" as="passed house">Need-Based Educational Aid Act of 2008</title>
+		<title type="short" as="passed senate">Need-Based Educational Aid Act of 2008</title>
+		<title type="short" as="enacted">Need-Based Educational Aid Act of 2008</title>
+		<title type="official" as="introduced">To amend the Improving America's Schools Act of 1994 to make permanent the favorable treatment of need-based educational aid under the antitrust laws.</title>
+	</titles>
+	<sponsor id="400102"/>
+	<cosponsors>
+		<cosponsor id="400381" joined="2007-03-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1175140800" datetime="2007-03-29"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1207108800" datetime="2008-04-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1207108800" datetime="2008-04-02" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1207852860" datetime="2008-04-10T15:41:00-04:00"><text>Reported by the Committee on Judiciary. H. Rept. 110-577.</text></action>
+		<calendar number="355" date="1207852860" datetime="2008-04-10T15:41:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 355.</text></calendar>
+		<action date="1209592800" datetime="2008-04-30T19:00:00-04:00"><text>Mr. Delahunt moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1209592800" datetime="2008-04-30T19:00:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2922-2924"/></action>
+		<action date="1209592800" datetime="2008-04-30T19:00:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1777.</text></action>
+		<vote date="1209593580" how="by voice vote" datetime="2008-04-30T19:13:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H2922"/></vote>
+		<action date="1209614400" datetime="2008-05-01"><text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text></action>
+		<action date="1222315200" datetime="2008-09-25"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text></action>
+		<action date="1222315200" datetime="2008-09-25"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S9552"/></action>
+		<vote date="1222315200" how="by Unanimous Consent" datetime="2008-09-25" where="s" type="vote2" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action date="1222401600" datetime="2008-09-26"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1222552020" datetime="2008-09-27T18:47:00-04:00"><text>Ms. Lofgren, Zoe moved that the House suspend the rules and agree to the Senate amendment.</text><reference label="consideration" ref="CR H10264-10265"/></action>
+		<action date="1222552080" datetime="2008-09-27T18:48:00-04:00"><text>DEBATE - The House proceeded with fourty minutes of debate on H.R. 1777.</text></action>
+		<action date="1222552380" datetime="2008-09-27T18:53:00-04:00"><text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.</text><reference label="text as House agreed to Senate amendment" ref="CR H10264"/></action>
+		<topresident date="1222488000" datetime="2008-09-27" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1222747200" datetime="2008-09-30" ><text>Presented to President.</text></topresident>
+		<signed date="1222747200" datetime="2008-09-30" ><text>Signed by President.</text></signed>
+		<enacted number="110-327" date="1222747200" datetime="2008-09-30" type="public" ><text>Became Public Law No: 110-327.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/2008--Public Law. (This measure has not been amended since it was passed by the Senate on September 25, 2008. The summary of that version is repeated here.) Need-Based Educational Aid Act of 2008 - Amends the Improving America's Schools Act of 1994 to extend, through September 30, 2015, the antitrust exemption that allows institutions of higher education that admit all students on a need-blind basis to enter into agreements, or attempt to enter into agreements, among themselves regarding the administration of need-based financial aid.<br/>
+	</summary>
+</bill>

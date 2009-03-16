@@ -1,0 +1,66 @@
+<bill session="110" type="hr" number="59" updated="2009-01-09T08:01:15-05:00">
+	<status><vote date="1170258960" datetime="2007-01-31T11:56:00-05:00" where="h" result="pass" how="roll" roll="64"/></status>
+
+	<introduced date="1168578000" datetime="2007-01-12"/>
+	<titles>
+		<title type="official" as="introduced">Supporting the goals and ideals of National Engineeers Week, and for other purposes.</title>
+	</titles>
+	<sponsor id="400630"/>
+	<cosponsors>
+		<cosponsor id="400199" joined="2007-01-12"/>
+		<cosponsor id="400659" joined="2007-01-12"/>
+		<cosponsor id="400155" joined="2007-01-12"/>
+		<cosponsor id="400263" joined="2007-01-12"/>
+		<cosponsor id="400260" joined="2007-01-12"/>
+		<cosponsor id="400184" joined="2007-01-12"/>
+		<cosponsor id="400642" joined="2007-01-18"/>
+		<cosponsor id="400663" joined="2007-01-12"/>
+		<cosponsor id="400082" joined="2007-01-12"/>
+		<cosponsor id="412223" joined="2007-01-18"/>
+		<cosponsor id="400057" joined="2007-01-12"/>
+		<cosponsor id="400343" joined="2007-01-29"/>
+		<cosponsor id="400638" joined="2007-01-12"/>
+		<cosponsor id="412200" joined="2007-01-29"/>
+		<cosponsor id="400319" joined="2007-01-12"/>
+		<cosponsor id="400005" joined="2007-01-22"/>
+		<cosponsor id="400649" joined="2007-01-12"/>
+		<cosponsor id="412228" joined="2007-01-29"/>
+		<cosponsor id="400291" joined="2007-01-12"/>
+		<cosponsor id="400318" joined="2007-01-12"/>
+		<cosponsor id="400185" joined="2007-01-12"/>
+		<cosponsor id="400119" joined="2007-01-12"/>
+		<cosponsor id="400204" joined="2007-01-12"/>
+		<cosponsor id="400141" joined="2007-01-12"/>
+		<cosponsor id="400179" joined="2007-01-12"/>
+		<cosponsor id="400639" joined="2007-01-12"/>
+		<cosponsor id="400252" joined="2007-01-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1168578000" datetime="2007-01-12"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1169614800" datetime="2007-01-24"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1169614800" datetime="2007-01-24" ><text>Ordered to be Reported.</text></calendar>
+		<action date="1170108300" datetime="2007-01-29T18:05:00-05:00"><text>Reported by the Committee on Science and Technology. H. Rept. 110-5.</text></action>
+		<calendar number="5" date="1170108360" datetime="2007-01-29T18:06:00-05:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 5.</text></calendar>
+		<action date="1170178800" datetime="2007-01-30T13:40:00-05:00"><text>Mr. Lipinski moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1170178860" datetime="2007-01-30T13:41:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1004-1007"/></action>
+		<action date="1170178860" datetime="2007-01-30T13:41:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 59.</text></action>
+		<action date="1170180360" datetime="2007-01-30T14:06:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1170257580" datetime="2007-01-31T11:33:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1068-1069"/></action>
+		<vote date="1170258960" how="roll" roll="64" datetime="2007-01-31T11:56:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 64). (text: CR 1/30/2007 H1004)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/31/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) Supports the goals and ideals of National Engineers Week and its aims to increase understanding of and interest in engineering and technology careers and to promote literacy in math and science. Declares that the House of Representatives will work with the engineering community to make sure that the creativity and contribution of that community can be expressed through research, development, standardization, and innovation.<br/>
+	</summary>
+</bill>

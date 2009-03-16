@@ -1,0 +1,82 @@
+<bill session="110" type="hr" number="1137" updated="2009-01-09T10:15:27-05:00">
+	<status><vote date="1211416140" datetime="2008-05-21T21:29:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1208923200" datetime="2008-04-23"/>
+	<titles>
+		<title type="official" as="introduced">Supporting the goals and ideals of National Public Works Week, and for other purposes.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2008-04-23"/>
+		<cosponsor id="400133" joined="2008-04-23"/>
+		<cosponsor id="400031" joined="2008-04-23"/>
+		<cosponsor id="412229" joined="2008-04-23"/>
+		<cosponsor id="400660" joined="2008-04-24"/>
+		<cosponsor id="412224" joined="2008-04-23"/>
+		<cosponsor id="400063" joined="2008-04-23"/>
+		<cosponsor id="400630" joined="2008-04-23"/>
+		<cosponsor id="400049" joined="2008-04-23"/>
+		<cosponsor id="412231" joined="2008-04-23"/>
+		<cosponsor id="409888" joined="2008-04-24"/>
+		<cosponsor id="400396" joined="2008-04-23"/>
+		<cosponsor id="400658" joined="2008-04-24"/>
+		<cosponsor id="412253" joined="2008-04-23"/>
+		<cosponsor id="400663" joined="2008-04-23"/>
+		<cosponsor id="400331" joined="2008-05-14"/>
+		<cosponsor id="400082" joined="2008-04-23"/>
+		<cosponsor id="400048" joined="2008-04-23"/>
+		<cosponsor id="400172" joined="2008-04-24"/>
+		<cosponsor id="412222" joined="2008-04-23"/>
+		<cosponsor id="400638" joined="2008-04-23"/>
+		<cosponsor id="412200" joined="2008-04-23"/>
+		<cosponsor id="412186" joined="2008-04-23"/>
+		<cosponsor id="400440" joined="2008-04-23"/>
+		<cosponsor id="400318" joined="2008-04-24"/>
+		<cosponsor id="400204" joined="2008-04-23"/>
+		<cosponsor id="400090" joined="2008-04-23"/>
+		<cosponsor id="400042" joined="2008-04-23"/>
+		<cosponsor id="400011" joined="2008-04-23"/>
+		<cosponsor id="400100" joined="2008-04-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1208923200" datetime="2008-04-23"><text>Referred to the House Committee on Transportation.</text></action>
+		<action date="1209009600" datetime="2008-04-24"><text>Referred to the Subcommittee on Aviation.</text></action>
+		<action date="1209009600" datetime="2008-04-24"><text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text></action>
+		<action date="1209009600" datetime="2008-04-24"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1209009600" datetime="2008-04-24"><text>Referred to the Subcommittee on Highways and Transit.</text></action>
+		<action date="1209009600" datetime="2008-04-24"><text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text></action>
+		<action date="1209009600" datetime="2008-04-24"><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action date="1210132800" datetime="2008-05-07"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1210132800" datetime="2008-05-07"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1210824000" datetime="2008-05-15"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1210824000" datetime="2008-05-15" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1210824000" datetime="2008-05-15"><text>Subcommittee on Aviation Discharged.</text></action>
+		<action date="1210824000" datetime="2008-05-15"><text>Subcommittee on Coast Guard and Maritime Transportation Discharged.</text></action>
+		<action date="1210824000" datetime="2008-05-15"><text>Subcommittee on Highways and Transit Discharged.</text></action>
+		<action date="1210824000" datetime="2008-05-15"><text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text></action>
+		<action date="1210824000" datetime="2008-05-15"><text>Subcommittee on Railroads, Pipelines, and Hazardous Materials Discharged.</text></action>
+		<action date="1211255400" datetime="2008-05-19T12:50:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 110-654.</text></action>
+		<calendar number="220" date="1211255400" datetime="2008-05-19T12:50:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 220.</text></calendar>
+		<action date="1211219400" datetime="2008-05-19T14:50:00-04:00"><text>Ms. Hirono moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1211219400" datetime="2008-05-19T14:50:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4098-4099"/></action>
+		<action date="1211219400" datetime="2008-05-19T14:50:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1137.</text></action>
+		<action date="1211219880" datetime="2008-05-19T14:58:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Petri objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1211416080" datetime="2008-05-21T21:28:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4432"/></action>
+		<vote date="1211416140" how="by voice vote" datetime="2008-05-21T21:29:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 5/19/2008 H4098)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/21/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) Expresses support for the goals and ideals of National Public Works Week. Recognizes the contributions of public works professionals to improve public infrastructure. 
+	</summary>
+</bill>

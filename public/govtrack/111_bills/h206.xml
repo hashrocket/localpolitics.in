@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="206" updated="2009-03-07T10:12:01-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">State Defense Force Improvement Act</title>
+		<title type="official" as="introduced">To amend title 32, United States Code, to improve the readiness of State defense forces and to increase military coordination for homeland security between the States and the Department of Defense.</title>
+	</titles>
+	<sponsor id="400433"/>
+	<cosponsors>
+		<cosponsor id="400627" joined="2009-01-15"/>
+		<cosponsor id="400154" joined="2009-01-22"/>
+		<cosponsor id="400260" joined="2009-01-15"/>
+		<cosponsor id="400288" joined="2009-01-06"/>
+		<cosponsor id="400055" joined="2009-02-10"/>
+		<cosponsor id="400341" joined="2009-01-15"/>
+		<cosponsor id="400435" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Homeland security"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Military facilities and property"/>
+		<term name="Military readiness and strategic materials"/>
+		<term name="State and local government operations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>State Defense Force Improvement Act - Recognizes state defense forces as integral military components of the homeland security effort of the United States, while reaffirming that such forces remain entirely state regulated, organized, and equipped, and recognizing that they will be used for homeland security purposes exclusively at the local level under state law. Authorizes the Secretary of Defense to coordinate homeland security efforts with, and provide assistance (including the use of Department of Defense (DOD) property, arms, equipment, and facilities) to, a state defense force, upon request. Leaves participation by a state defense force in a DOD or Department of Homeland Security (DHS) training program to state discretion. Requires a state to reimburse DOD for training assistance costs. Provides that funds available to DOD may not be made available to a state defense force. Makes the state liable for any injuries or damages incurred by a defense force member while engaged in training activities or state active duty.<br/>
+	</summary>
+</bill>

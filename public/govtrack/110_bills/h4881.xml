@@ -1,0 +1,45 @@
+<bill session="110" type="h" number="4881" updated="2009-01-09T03:05:06-05:00">
+	<status><vote date="1208196540" datetime="2008-04-14T15:09:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1198040400" datetime="2007-12-19"/>
+	<titles>
+		<title type="short" as="introduced">Contracting and Tax Accountability Act of 2007</title>
+		<title type="short" as="reported to house">Contracting and Tax Accountability Act of 2008</title>
+		<title type="short" as="passed house">Contracting and Tax Accountability Act of 2008</title>
+		<title type="official" as="introduced">To prohibit the awarding of a contract or grant in excess of the simplified acquisition threshold unless the prospective contractor or grantee certifies in writing to the agency awarding the contract or grant that the contractor or grantee has no seriously delinquent tax debts, and for other purposes.</title>
+	</titles>
+	<sponsor id="412206"/>
+	<cosponsors>
+		<cosponsor id="400409" joined="2007-12-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1198040400" datetime="2007-12-19"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1200459600" datetime="2008-01-16"><text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text></action>
+		<action date="1205208000" datetime="2008-03-11"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1205208000" datetime="2008-03-11"><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action date="1205380800" datetime="2008-03-13"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1205380800" datetime="2008-03-13" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1207860840" datetime="2008-04-10T17:54:00-04:00"><text>Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-578.</text></action>
+		<calendar number="356" date="1207860960" datetime="2008-04-10T17:56:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 356.</text></calendar>
+		<action date="1208195880" datetime="2008-04-14T14:58:00-04:00"><text>Mr. Braley (IA) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1208195880" datetime="2008-04-14T14:58:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2234-2237"/></action>
+		<action date="1208195880" datetime="2008-04-14T14:58:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4881.</text></action>
+		<vote date="1208196540" how="by voice vote" datetime="2008-04-14T15:09:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H2234-2235"/></vote>
+		<action date="1208232000" datetime="2008-04-15"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/14/2008--Passed House amended. (This measure has not been amended since it was reported to the House on April 10, 2008. The summary of that version is repeated here.)<br/>Contracting and Tax Accountability Act of 2008 - Establishes a policy that no U.S. government contracts or grants should be awarded to individuals or companies with seriously delinquent tax debts.<br/>Requires a person who has such a debt to be proposed for debarment from any federal government contract unless such requirement is waived by a federal agency head. Requires an agency head that issues an invitation for bids or a request for proposals for a contract in an amount greater than the simplified acquisition threshold to require prospective contractors to: (1) certify that they do not have such a debt; and (2) authorize the Secretary of the Treasury to disclose information describing whether they have such a debt. Exempts contracts designated by agency heads as assisting the agency in the performance of disaster relief authorities or as necessary to national security.<br/>Prohibits the head of an agency offering a grant exceeding such threshold from awarding it to a person who does not submit such certification and authorization. Requires the Federal Acquisition Regulation and regulations governing grants to be revised to require such certification and authorization. Defines &quot;seriously delinquent tax debt&quot; as an outstanding tax debt for which a notice of lien has been filed in public records. Excludes a tax debt: (1) that is being paid in a timely manner pursuant to an installment agreement; or (2) for which a collection due process hearing, or for which relief from liability for a tax deficiency applicable to joint filers, is requested or pending.<br/>
+	</summary>
+</bill>

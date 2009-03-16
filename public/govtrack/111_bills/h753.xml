@@ -1,0 +1,62 @@
+<bill session="111" type="h" number="753" updated="2009-03-07T11:16:26-05:00">
+	<status><introduced date="1233118800" datetime="2009-01-28"/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="short" as="introduced">Sewage Overflow Community Right-to-Know Act</title>
+		<title type="official" as="introduced">To amend the Federal Water Pollution Control Act to ensure that publicly owned treatment works monitor for and report sewer overflows, and for other purposes.</title>
+	</titles>
+	<sponsor id="400031"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2009-02-24"/>
+		<cosponsor id="400289" joined="2009-02-24"/>
+		<cosponsor id="400103" joined="2009-02-24"/>
+		<cosponsor id="400162" joined="2009-03-03"/>
+		<cosponsor id="400237" joined="2009-02-24"/>
+		<cosponsor id="412204" joined="2009-02-24"/>
+		<cosponsor id="400426" joined="2009-02-24"/>
+		<cosponsor id="400251" joined="2009-03-03"/>
+		<cosponsor id="400178" joined="2009-02-24"/>
+		<cosponsor id="400380" joined="2009-03-03"/>
+		<cosponsor id="400122" joined="2009-02-24"/>
+		<cosponsor id="400246" joined="2009-03-03"/>
+		<cosponsor id="400638" joined="2009-02-24"/>
+		<cosponsor id="400244" joined="2009-01-28"/>
+		<cosponsor id="400184" joined="2009-03-03"/>
+		<cosponsor id="412194" joined="2009-03-03"/>
+		<cosponsor id="412198" joined="2009-03-03"/>
+		<cosponsor id="400349" joined="2009-02-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1233205200" datetime="2009-01-29"><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Emergency communications systems"/>
+		<term name="Environmental Protection Agency (EPA)"/>
+		<term name="Environmental assessment, monitoring, research"/>
+		<term name="Environmental health"/>
+		<term name="Government information and archives"/>
+		<term name="Government lending"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Solid waste and recycling"/>
+		<term name="State and local finance"/>
+		<term name="State and local government operations"/>
+		<term name="Water quality"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

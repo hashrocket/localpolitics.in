@@ -1,0 +1,76 @@
+<bill session="111" type="h" number="104" updated="2009-03-07T09:59:55-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To establish a national commission on presidential war powers and civil liberties.</title>
+	</titles>
+	<sponsor id="400080"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2009-02-11"/>
+		<cosponsor id="400199" joined="2009-01-06"/>
+		<cosponsor id="400364" joined="2009-01-07"/>
+		<cosponsor id="400289" joined="2009-01-06"/>
+		<cosponsor id="412199" joined="2009-01-06"/>
+		<cosponsor id="400263" joined="2009-03-05"/>
+		<cosponsor id="400162" joined="2009-01-15"/>
+		<cosponsor id="400237" joined="2009-02-09"/>
+		<cosponsor id="400140" joined="2009-02-04"/>
+		<cosponsor id="400209" joined="2009-02-09"/>
+		<cosponsor id="400013" joined="2009-01-07"/>
+		<cosponsor id="400102" joined="2009-01-06"/>
+		<cosponsor id="400251" joined="2009-02-09"/>
+		<cosponsor id="400178" joined="2009-01-15"/>
+		<cosponsor id="400360" joined="2009-01-14"/>
+		<cosponsor id="400623" joined="2009-01-07"/>
+		<cosponsor id="412215" joined="2009-01-15"/>
+		<cosponsor id="412236" joined="2009-01-06"/>
+		<cosponsor id="412228" joined="2009-03-05"/>
+		<cosponsor id="400043" joined="2009-01-07"/>
+		<cosponsor id="400310" joined="2009-02-04"/>
+		<cosponsor id="400090" joined="2009-02-09"/>
+		<cosponsor id="400184" joined="2009-03-05"/>
+		<cosponsor id="400355" joined="2009-02-12"/>
+		<cosponsor id="400163" joined="2009-01-07"/>
+		<cosponsor id="400437" joined="2009-01-21"/>
+		<cosponsor id="400100" joined="2009-01-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on Armed Services, and in addition to the Committees on Intelligence (Permanent Select), the Judiciary, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Armed Services</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Intelligence (Permanent Select)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Judiciary</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Foreign Affairs</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Intelligence (Permanent Select)" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Foreign Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Advisory bodies"/>
+		<term name="Detention of persons"/>
+		<term name="Due process and equal protection"/>
+		<term name="Government investigations"/>
+		<term name="Human rights"/>
+		<term name="Intelligence activities, surveillance, classified information"/>
+		<term name="Investigation, prosecution, interrogation methods"/>
+		<term name="Military law"/>
+		<term name="Presidential administrations"/>
+		<term name="Presidents and presidential powers"/>
+		<term name="Right of privacy"/>
+		<term name="Terrorism"/>
+		<term name="War and emergency powers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Establishes the National Commission on Presidential War Powers and Civil Liberties to investigate, and report to the President and Congress on, the broad range of policies of the Bush Administration that were undertaken under claims of unreviewable war powers, including: (1) detention by the Armed Forces and the intelligence community; (2) the use by such entities of enhanced interrogation techniques or techniques not authorized by the Uniform Code of Military Justice; (3) &quot;ghosting&quot; or other policies intended to conceal an individual's capture or detention; (4) extraordinary rendition; and (5) domestic warrantless electronic surveillance.<br/>
+	</summary>
+</bill>

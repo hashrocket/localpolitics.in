@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="1127" updated="2009-03-16T12:00:26-04:00">
+	<status><vote2 date="1236744000" datetime="2009-03-11" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1235365200" datetime="2009-02-23"/>
+	<titles>
+		<title type="official" as="introduced">To extend certain immigration programs.</title>
+	</titles>
+	<sponsor id="400245"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1235365200" datetime="2009-02-23"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1236189540" datetime="2009-03-04T13:59:00-05:00"><text>Ms. Lofgren, Zoe moved to suspend the rules and pass the bill.</text></action>
+		<action date="1236189540" datetime="2009-03-04T13:59:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2942-2945"/></action>
+		<action date="1236189540" datetime="2009-03-04T13:59:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1127.</text></action>
+		<vote date="1236191160" how="by voice vote" datetime="2009-03-04T14:26:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H2942"/></vote>
+		<action date="1236229200" datetime="2009-03-05"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1236744000" how="by Unanimous Consent" datetime="2009-03-11" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S3033"/></vote>
+		<action date="1236830400" datetime="2009-03-12"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/2009--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends the Immigration and Nationality Act to extend the special immigrant program for non-minister religious workers until September 30, 2009. Amends the Immigration and Nationality Technical Corrections Act of 1994 to extend the J-1 visa waiver (Conrad state 30/medical services in underserved areas) program until September 30, 2009.<br/>
+	</summary>
+</bill>

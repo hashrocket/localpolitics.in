@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="876" updated="2009-03-07T11:31:14-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of Kazakhstan.</title>
+	</titles>
+	<sponsor id="400128"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="282" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Asia"/>
+		<term name="Kazakhstan"/>
+		<term name="Normal trade relations, most-favored-nation treatment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Introduced.<br/>Authorizes the President to extend nondiscriminatory treatment (normal trade relations treatment) to the products of Kazakhstan.<br/>
+	</summary>
+</bill>

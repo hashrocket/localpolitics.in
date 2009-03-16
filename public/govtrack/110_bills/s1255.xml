@@ -1,0 +1,46 @@
+<bill session="110" type="s" number="1255" updated="2009-01-09T14:24:35-05:00">
+	<status><vote date="1222142400" datetime="2008-09-23" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1177992000" datetime="2007-05-01"/>
+	<titles>
+		<title type="short" as="introduced">Indian Arts and Crafts Amendments Act of 2007</title>
+		<title type="short" as="reported to senate">Indian Arts and Crafts Amendments Act of 2008</title>
+		<title type="short" as="passed senate">Indian Arts and Crafts Amendments Act of 2008</title>
+		<title type="official" as="introduced">A bill to protect Indian arts and crafts through the improvement of applicable criminal proceedings, and for other purposes.</title>
+	</titles>
+	<sponsor id="300071"/>
+	<cosponsors>
+		<cosponsor id="300037" joined="2008-09-22"/>
+		<cosponsor id="300062" joined="2007-05-01"/>
+		<cosponsor id="300097" joined="2007-05-01"/>
+		<cosponsor id="300036" joined="2007-05-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1177992000" datetime="2007-05-01"><text>Sponsor introductory remarks on measure. (CR S5393)</text></action>
+		<action date="1177992000" datetime="2007-05-01"><text>Read twice and referred to the Committee on Indian Affairs.</text></action>
+		<calendar date="1213848000" datetime="2008-06-19" ><text>Committee on Indian Affairs. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action date="1221451200" datetime="2008-09-15"><text>Committee on Indian Affairs. Reported by Senator Dorgan with amendments. With written report No. 110-460.</text></action>
+		<calendar under="General Orders" number="961" date="1221451200" datetime="2008-09-15" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 961.</text></calendar>
+		<vote date="1222142400" how="by Unanimous Consent" datetime="2008-09-23" where="s" type="vote" result="pass" ><text>Passed Senate with amendments by Unanimous Consent.</text><reference label="consideration" ref="CR S9336-9338"/><reference label="text of measure as reported in Senate" ref="CR S9336-9337"/><reference label="text as passed Senate" ref="CR S9337-9338"/></vote>
+		<action date="1222261380" datetime="2008-09-24T10:03:00-04:00"><text>Received in the House.</text></action>
+		<action date="1222228800" datetime="2008-09-24"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1222228800" datetime="2008-09-24"><text>Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1222228800" datetime="2008-09-24"><text>Referred to House Natural Resources</text></action>
+		<action date="1222228800" datetime="2008-09-24"><text>Referred to House Judiciary</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/23/2008--Passed Senate amended. Indian Arts and Crafts Amendments Act of 2008 - Amends the Indian Arts and Crafts Act of 1990 to: (1) authorize any federal law enforcement officer to conduct an investigation of an offense involving the sale of any item that is misrepresented as an Indian produced good or product that occurs on land under the jurisdiction of the federal government; and (2) authorize the Indian Arts and Crafts Board to refer an alleged violation to any federal law enforcement officer (currently, just to the Federal Bureau of Investigation [FBI]) for appropriate investigation. Permits a federal law enforcement officer to investigate an alleged violation regardless of whether such officer receives a referral from the Board. Requires that the findings of an investigation of such an alleged violation by any federal department or agency be submitted to a federal or state prosecuting authority or the Board. Authorizes the Board, upon receiving the findings of such an investigation, to: (1) recommend to the Attorney General that criminal proceedings be initiated (current law); and (2) provide such support to the Attorney General relating to the criminal proceedings as the Attorney General determines to be appropriate. Allows the Board, in lieu of or in addition to any such criminal proceeding, to recommend that the Attorney General initiate a civil action. Revises the definitions and requirements relating to civil actions for mispresentation of Indian produced goods and products.<br/>Amends the federal criminal code to base criminal penalties for misrepresentation of Indian produced goods and products upon the value of such goods and products. 
+	</summary>
+</bill>

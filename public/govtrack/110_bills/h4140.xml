@@ -1,0 +1,53 @@
+<bill session="110" type="h" number="4140" updated="2009-01-09T01:29:25-05:00">
+	<status><enacted date="1216094400" datetime="2008-07-15" /></status>
+
+	<introduced date="1194584400" datetime="2007-11-09"/>
+	<titles>
+		<title type="official" as="introduced">To designate the Port Angeles Federal Building in Port Angeles, Washington, as the &quot;Richard B. Anderson Federal Building&quot;.</title>
+	</titles>
+	<sponsor id="400109"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1194584400" datetime="2007-11-09"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1194930000" datetime="2007-11-13"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1200459600" datetime="2008-01-16"><text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text></action>
+		<action date="1200459600" datetime="2008-01-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1200459600" datetime="2008-01-16" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1201543200" datetime="2008-01-28T14:00:00-05:00"><text>Reported by the Committee on Transportation. H. Rept. 110-515.</text></action>
+		<calendar number="180" date="1201543260" datetime="2008-01-28T14:01:00-05:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 180.</text></calendar>
+		<action date="1201545240" datetime="2008-01-28T14:34:00-05:00"><text>Ms. Johnson, E. B. moved to suspend the rules and pass the bill.</text></action>
+		<action date="1201545240" datetime="2008-01-28T14:34:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H463-464"/></action>
+		<action date="1201545240" datetime="2008-01-28T14:34:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4140.</text></action>
+		<action date="1201545480" datetime="2008-01-28T14:38:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1201555680" datetime="2008-01-28T17:28:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H471-472"/></action>
+		<vote date="1201556220" how="roll" roll="24" datetime="2008-01-28T17:37:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 24).</text><reference label="text" ref="CR H463"/></vote>
+		<action date="1201582800" datetime="2008-01-29"><text>Received in the Senate.</text></action>
+		<action date="1204174800" datetime="2008-02-28"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar date="1211342400" datetime="2008-05-21" ><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1212552000" datetime="2008-06-04"><text>Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="766" date="1212552000" datetime="2008-06-04" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 766.</text></calendar>
+		<vote date="1214280000" how="by Unanimous Consent" datetime="2008-06-24" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6080-6081"/></vote>
+		<topresident date="1214280000" datetime="2008-06-24" ><text>Cleared for White House.</text></topresident>
+		<action date="1214366400" datetime="2008-06-25"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1215403200" datetime="2008-07-07" ><text>Presented to President.</text></topresident>
+		<signed date="1216094400" datetime="2008-07-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-266" date="1216094400" datetime="2008-07-15" type="public" ><text>Became Public Law No: 110-266.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/15/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the federal building located at 138 West First Street, Port Angeles, Washington, as the &quot;Richard B. Anderson Federal Building.&quot;<br/>
+	</summary>
+</bill>

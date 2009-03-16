@@ -1,0 +1,36 @@
+<bill session="110" type="h" number="7007" updated="2009-01-09T07:15:11-05:00">
+	<status><introduced date="1222142400" datetime="2008-09-23"/></status>
+
+	<introduced date="1222142400" datetime="2008-09-23"/>
+	<titles>
+		<title type="short" as="introduced">National Commission on American Cybersecurity Act of 2008</title>
+		<title type="official" as="introduced">To establish the American Cybersecurity Commission to investigate the current threats to the cybersecurity of American business and infrastructure from foreign entities.</title>
+	</titles>
+	<sponsor id="400003"/>
+	<cosponsors>
+		<cosponsor id="400210" joined="2008-09-23"/>
+		<cosponsor id="400260" joined="2008-09-23"/>
+		<cosponsor id="400435" joined="2008-09-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1222142400" datetime="2008-09-23"><text>Referred to the Committee on Science and Technology, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1222142400" datetime="2008-09-23"><text>Referred to House Science and Technology</text></action>
+		<action date="1222142400" datetime="2008-09-23"><committee name="House Science and Technology"/><text>Referred to the Subcommittee on Technology and Innovation.</text></action>
+		<action date="1222142400" datetime="2008-09-23"><text>Referred to House Oversight and Government Reform</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/23/2008--Introduced.<br/>National Commission on American Cybersecurity Act of 2008 - Establishes the National Commission on American Cybersecurity to analyze the cybersecuirty of American business, national infrastructure, and U.S. Government non-military and non-national security related computer systems and to recommend a comprehensive cybersecurity strategy for those systems.<br/>
+	</summary>
+</bill>

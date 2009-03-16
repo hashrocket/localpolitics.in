@@ -1,0 +1,37 @@
+<bill session="111" type="s" number="39" updated="2009-03-13T12:03:04-04:00">
+	<status><vote date="1236830400" datetime="2009-03-12" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">A bill to repeal section 10(f) of Public Law 93-531, commonly known as the &quot;Bennett Freeze&quot;.</title>
+	</titles>
+	<sponsor id="300071"/>
+	<cosponsors>
+		<cosponsor id="300062" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR S55)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Indian Affairs.</text></action>
+		<action date="1236830400" datetime="2009-03-12"><text>Senate Committee on Indian Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S3091"/></action>
+		<vote date="1236830400" how="by Unanimous Consent" type="vote" datetime="2009-03-12" where="s" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="text" ref="CR S3091"/></vote>
+	</actions>
+	<committees>
+		<committee name="Senate Indian Affairs" subcommittee="" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Arizona"/>
+		<term name="Indian lands and resources rights"/>
+		<term name="Indian social and development programs"/>
+		<term name="Real estate business"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Amends federal law to repeal the requirement regarding the freeze on the development of lands in litigation under the Navajo-Hopi Settlement Act of 1974.<br/>
+	</summary>
+</bill>

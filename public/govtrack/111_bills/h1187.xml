@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="1187" updated="2009-03-07T12:11:45-05:00">
+	<status><introduced date="1235538000" datetime="2009-02-25"/></status>
+
+	<introduced date="1235538000" datetime="2009-02-25"/>
+	<titles>
+		<title type="short" as="introduced">Smarter Funding for All of America's Homeland Security Act of 2009</title>
+		<title type="official" as="introduced">To authorize the Secretary of Homeland Security to make grants to first responders, and for other purposes.</title>
+	</titles>
+	<sponsor id="400142"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to the Committee on Homeland Security, and in addition to the Committees on Transportation and Infrastructure, the Judiciary, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to House Homeland Security</text></action>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to House Judiciary</text></action>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1235624400" datetime="2009-02-26"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1235970000" datetime="2009-03-02"><committee name="House Homeland Security"/><text>Referred to the Subcommittee on Emergency Communications, Preparedness, and Response.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Homeland Security" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Homeland Security" subcommittee="Emergency Communications, Preparedness, and Response" activity="Referral" />
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings and Emergency Management" activity="Referral" />
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

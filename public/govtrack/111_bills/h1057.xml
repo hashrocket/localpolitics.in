@@ -1,0 +1,32 @@
+<bill session="111" type="h" number="1057" updated="2009-03-07T11:53:02-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the Secretary of the department in which the Coast Guard is operating to issue a certificate of documentation for operation in the coastwise trade for the vessel MAYA.</title>
+	</titles>
+	<sponsor id="400176"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Coast Guard and Maritime Transportation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

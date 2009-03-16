@@ -1,0 +1,52 @@
+<bill session="111" type="h" number="1087" updated="2009-03-07T11:56:32-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="short" as="introduced">ADOPT HIT Act of 2009</title>
+		<title type="short" as="introduced">Assisting Doctors to Obtain Proficient and Transmissible Health Information Technology Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to increase the deduction under section 179 for the purchase of qualified health care information technology by medical care providers, and for other purposes.</title>
+	</titles>
+	<sponsor id="400151"/>
+	<cosponsors>
+		<cosponsor id="400206" joined="2009-02-13"/>
+		<cosponsor id="400017" joined="2009-02-13"/>
+		<cosponsor id="400367" joined="2009-02-13"/>
+		<cosponsor id="400659" joined="2009-02-23"/>
+		<cosponsor id="400220" joined="2009-02-13"/>
+		<cosponsor id="400381" joined="2009-02-13"/>
+		<cosponsor id="400626" joined="2009-02-13"/>
+		<cosponsor id="400320" joined="2009-02-13"/>
+		<cosponsor id="400175" joined="2009-02-13"/>
+		<cosponsor id="412010" joined="2009-02-13"/>
+		<cosponsor id="412230" joined="2009-02-13"/>
+		<cosponsor id="412275" joined="2009-02-13"/>
+		<cosponsor id="400005" joined="2009-02-13"/>
+		<cosponsor id="400077" joined="2009-02-13"/>
+		<cosponsor id="400049" joined="2009-02-13"/>
+		<cosponsor id="400029" joined="2009-02-13"/>
+		<cosponsor id="400055" joined="2009-02-13"/>
+		<cosponsor id="412191" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to House Ways and Means</text></action>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to House Energy and Commerce</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2009--Introduced.<br/>Assisting Doctors to Obtain Proficient and Transmissible Health Information Technology Act of 2009 or the ADOPT HIT Act of 2009 - Amends the Internal Revenue Code to allow medical care providers to expense (i.e., deduct all costs in the current taxable year) up to $250,000 of the cost of health care information technology used primarily for the electronic creation, maintenance, and exchange of medical care information.<br/>Directs the Secretary of Health and Human Services to develop standards for hardware, software, and support services for the electronic exchange of health information. 
+	</summary>
+</bill>

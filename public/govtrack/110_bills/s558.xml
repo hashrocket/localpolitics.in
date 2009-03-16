@@ -1,0 +1,103 @@
+<bill session="110" type="s" number="558" updated="2009-01-09T12:21:01-05:00">
+	<status><vote date="1190088000" datetime="2007-09-18" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1171256400" datetime="2007-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Mental Health Parity Act of 2007</title>
+		<title type="short" as="reported to senate">Mental Health Parity Act of 2007</title>
+		<title type="short" as="passed senate">Mental Health Parity Act of 2007</title>
+		<title type="official" as="introduced">A bill to provide parity between health insurance coverage of mental health benefits and benefits for medical and surgical services.</title>
+	</titles>
+	<sponsor id="300036"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2007-02-15"/>
+		<cosponsor id="412242" joined="2007-02-15"/>
+		<cosponsor id="300002" joined="2007-02-14"/>
+		<cosponsor id="400272" joined="2007-04-23"/>
+		<cosponsor id="300005" joined="2007-07-31"/>
+		<cosponsor id="300009" joined="2007-02-14"/>
+		<cosponsor id="300025" joined="2007-02-12"/>
+		<cosponsor id="300070" joined="2007-02-27"/>
+		<cosponsor id="400064" joined="2007-02-12"/>
+		<cosponsor id="300059" joined="2007-02-12"/>
+		<cosponsor id="300018" joined="2007-02-12"/>
+		<cosponsor id="300011" joined="2007-02-12"/>
+		<cosponsor id="300008" joined="2007-02-12"/>
+		<cosponsor id="300047" joined="2007-02-12"/>
+		<cosponsor id="300093" joined="2007-02-12"/>
+		<cosponsor id="300098" joined="2007-06-21"/>
+		<cosponsor id="300042" joined="2007-02-12"/>
+		<cosponsor id="300052" joined="2007-02-12"/>
+		<cosponsor id="300060" joined="2007-03-08"/>
+		<cosponsor id="300024" joined="2007-02-12"/>
+		<cosponsor id="400619" joined="2007-02-13"/>
+		<cosponsor id="300038" joined="2007-02-15"/>
+		<cosponsor id="300066" joined="2007-02-28"/>
+		<cosponsor id="300087" joined="2007-03-01"/>
+		<cosponsor id="300061" joined="2007-05-21"/>
+		<cosponsor id="300092" joined="2007-04-10"/>
+		<cosponsor id="300034" joined="2007-08-03"/>
+		<cosponsor id="300019" joined="2007-03-08"/>
+		<cosponsor id="300041" joined="2007-02-12"/>
+		<cosponsor id="300068" joined="2007-04-19"/>
+		<cosponsor id="412247" joined="2007-03-20"/>
+		<cosponsor id="412249" joined="2007-05-02"/>
+		<cosponsor id="300037" joined="2007-06-18"/>
+		<cosponsor id="300077" joined="2007-02-12"/>
+		<cosponsor id="300051" joined="2007-02-15"/>
+		<cosponsor id="300023" joined="2007-03-12"/>
+		<cosponsor id="300007" joined="2007-03-08"/>
+		<cosponsor id="300083" joined="2007-02-12"/>
+		<cosponsor id="400050" joined="2007-02-12"/>
+		<cosponsor id="300080" joined="2007-04-10"/>
+		<cosponsor id="300022" joined="2007-02-15"/>
+		<cosponsor id="300014" joined="2007-05-16"/>
+		<cosponsor id="300001" joined="2007-02-12"/>
+		<cosponsor id="300067" joined="2007-03-20"/>
+		<cosponsor id="300091" joined="2007-02-12"/>
+		<cosponsor id="412243" joined="2007-02-14"/>
+		<cosponsor id="300078" joined="2007-03-07"/>
+		<cosponsor id="300075" joined="2007-02-12"/>
+		<cosponsor id="400629" joined="2007-05-16"/>
+		<cosponsor id="412248" joined="2007-08-03"/>
+		<cosponsor id="300026" joined="2007-02-15"/>
+		<cosponsor id="412244" joined="2007-04-10"/>
+		<cosponsor id="300084" joined="2007-08-03"/>
+		<cosponsor id="300058" joined="2007-02-28"/>
+		<cosponsor id="300099" joined="2007-02-12"/>
+		<cosponsor id="300090" joined="2007-02-12"/>
+		<cosponsor id="300064" joined="2007-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1171256400" datetime="2007-02-12"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S1865-1867"/></action>
+		<calendar date="1171429200" datetime="2007-02-14" ><text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action date="1174968000" datetime="2007-03-27"><text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="93" date="1174968000" datetime="2007-03-27" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 93.</text></calendar>
+		<action date="1176264000" datetime="2007-04-11"><text>By Senator Kennedy from Committee on Health, Education, Labor, and Pensions filed written report. Report No. 110-53.</text></action>
+		<action date="1190088000" datetime="2007-09-18"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S11679-11684"/><reference label="text of measure as reported in Senate" ref="CR S11679-11680"/></action>
+		<action date="1190088000" datetime="2007-09-18"><text>The committee substitute as amended agreed to by Unanimous Consent.</text></action>
+		<vote date="1190088000" how="by Unanimous Consent" datetime="2007-09-18" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action date="1190207280" datetime="2007-09-19T10:08:00-04:00"><text>Received in the House.</text></action>
+		<action date="1190174400" datetime="2007-09-19"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1190174400" datetime="2007-09-19"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1190174400" datetime="2007-09-19"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1190174400" datetime="2007-09-19"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1190174400" datetime="2007-09-19"><text>Referred to House Education and Labor</text></action>
+		<action date="1192593600" datetime="2007-10-17"><committee name="House Education and Labor"/><text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/18/2007--Passed Senate amended. Mental Health Parity Act of 2007 - (Sec. 2) Amends the Employee Retirement Income Security Act (ERISA) and the Public Health Service Act to require a group health plan that provides both medical and surgical benefits and mental health benefits to ensure that: (1) the financial requirements applicable to such mental health benefits are no more restrictive than those of substantially all medical and surgical benefits covered by the plan, including deductibles and copayments; and (2) the treatment limitations applicable to such mental health benefits are no more restrictive than those applied to substantially all medical and surgical benefits covered by the plan, including limits on the frequency of treatments or similar limits on the scope or duration of treatment. Prohibits the plan from establishing separate cost sharing requirements that are applicable only with respect to mental health benefits. Requires that such a plan ensure that the requirements of this Act are applied to both in- and out-of-network services, if offered, by comparing in-network medical and surgical benefits to in-network mental health benefits and out-of network medical and surgical benefits to out-of-network mental health benefits. Excludes from the requirements of this Act any group health plan: (1) for an employer with not more than 50 employees; or (2) whose costs of compliance with this Act increase the total costs of coverage by more than a specified percentage. Requires that determinations as to increases in actual costs under a plan be made and certified by a qualified and licensed actuary. Sets forth procedures for seeking a cost exemption, and authorizes audits of books and records relating to such an exemption. (Sec. 4) Requires the Secretary of Labor and the Secretary of Health and Human Services to designate an individual within their departments as the group health plan ombudsman to serve as an initial point of contact to permit individuals to obtain information and provide assistance concerning coverage of mental health services under group health plans in accordance with this Act. Requires the Secretaries to provide for the conduct of random audits of group health plans to ensure compliance with this Act. Requires the Comptroller General to study the effect of this Act on the cost of health insurance coverage, access to such coverage, the quality of health care, and the impact on benefits and coverage for mental health and substance use disorders.<br/>
+	</summary>
+</bill>

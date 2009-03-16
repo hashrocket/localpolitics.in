@@ -1,0 +1,33 @@
+<bill session="111" type="s" number="293" updated="2009-03-07T14:08:37-05:00">
+	<status><introduced date="1232514000" datetime="2009-01-21"/></status>
+
+	<introduced date="1232514000" datetime="2009-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for a 5-year carryback of certain net operating losses and to suspend the 90 percent alternative minimum tax limit on certain net operating losses.</title>
+	</titles>
+	<sponsor id="300092"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1232514000" datetime="2009-01-21"><text>Sponsor introductory remarks on measure. (CR S722-723)</text></action>
+		<action date="1232514000" datetime="2009-01-21"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="561" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax deductions"/>
+		<term name="Income tax rates"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

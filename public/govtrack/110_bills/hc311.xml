@@ -1,0 +1,46 @@
+<bill session="110" type="hc" number="311" updated="2009-01-08T16:06:04-05:00">
+	<status><vote2 date="1212638400" datetime="2008-06-05" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1204779600" datetime="2008-03-06"/>
+	<titles>
+		<title type="official" as="introduced">Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby.</title>
+	</titles>
+	<sponsor id="400189"/>
+	<cosponsors>
+		<cosponsor id="400295" joined="2008-03-06"/>
+		<cosponsor id="400415" joined="2008-03-06"/>
+		<cosponsor id="400283" joined="2008-03-06"/>
+		<cosponsor id="400438" joined="2008-03-06"/>
+		<cosponsor id="400435" joined="2008-03-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1204779600" datetime="2008-03-06"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1204866000" datetime="2008-03-07"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1210824000" datetime="2008-05-15"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1210824000" datetime="2008-05-15" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1210824000" datetime="2008-05-15"><text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text></action>
+		<action date="1212514320" datetime="2008-06-03T14:32:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 110-675.</text></action>
+		<calendar number="228" date="1212514320" datetime="2008-06-03T14:32:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 228.</text></calendar>
+		<action date="1212586080" datetime="2008-06-04T10:28:00-04:00"><text>Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1212586140" datetime="2008-06-04T10:29:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4882-4886"/></action>
+		<action date="1212586140" datetime="2008-06-04T10:29:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 311.</text></action>
+		<vote date="1212588000" how="by voice vote" datetime="2008-06-04T11:00:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H4882-4883"/></vote>
+		<vote date="1212638400" how="by Unanimous Consent" datetime="2008-06-05" where="s" type="vote2" result="pass" ><text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S5331"/></vote>
+		<action date="1212724800" datetime="2008-06-06"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/5/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Permits the Greater Washington Soap Box Derby Association to sponsor soap box derby races as a free public event on the Capitol grounds on June 21, 2008.<br/>
+	</summary>
+</bill>

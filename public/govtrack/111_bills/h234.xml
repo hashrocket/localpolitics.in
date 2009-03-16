@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="234" updated="2009-03-07T10:15:18-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Nevada Cancer Institute Expansion Act</title>
+		<title type="official" as="introduced">To provide for the conveyance of the Alta-Hualapai Site to the Nevada Cancer Institute, and for other purposes.</title>
+	</titles>
+	<sponsor id="400024"/>
+	<cosponsors>
+		<cosponsor id="412218" joined="2009-01-27"/>
+		<cosponsor id="412318" joined="2009-01-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Cancer"/>
+		<term name="Floods and storm protection"/>
+		<term name="Health facilities and institutions"/>
+		<term name="Land transfers"/>
+		<term name="Medical research"/>
+		<term name="Nevada"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+		<term name="Water use and supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Nevada Cancer Institute Expansion Act - Authorizes the Secretary of the Interior, acting through the Director of the Bureau of Land Management (BLM), to accept the relinquishment of all or part of the Alta-Hualapai Site by the city of Las Vegas, Nevada. Directs the Secretary, after relinquishment of all or part of the Alta-Hualapai Site, to convey to the Nevada Cancer Institute (the Institute) in Las Vegas, the part of the Site that is necessary for the development of a nonprofit cancer institute. Requires the Secretary, after a request from the city, to convey to the city any remaining part of the Alta-Hualapai Site necessary for ancillary medical or nonprofit use compatible with the Institute's mission. Requires the Secretary to submit a report on all transactions conducted under Public Law 105-263 (the Southern Nevada Public Land Management Act of 1998). Authorizes the Secretary to grant rights-of-way to the Las Vegas Valley Water District on a portion of the Alta-Hualapai Site for a flood control project and a water pumping facility. 
+	</summary>
+</bill>

@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="165" updated="2009-03-07T10:07:16-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Act Commemorating the LITE, or Lifetime Innovations of Thomas Edison</title>
+		<title type="official" as="introduced">To establish the Thomas Edison National Historical Park in the State of New Jersey as the successor to the Edison National Historic Site.</title>
+	</titles>
+	<sponsor id="400312"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Advanced technology and technological innovations"/>
+		<term name="Historic sites and heritage areas"/>
+		<term name="New Jersey"/>
+		<term name="Parks, recreation areas, trails"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Act Commemorating the LITE, or Lifetime Innovations of Thomas Edison - Establishes the Thomas Edison National Historical Park in New Jersey as a unit of the National Park System. 
+	</summary>
+</bill>

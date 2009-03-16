@@ -1,0 +1,79 @@
+<bill session="110" type="h" number="1441" updated="2009-01-08T19:51:40-05:00">
+	<status><vote date="1181588400" datetime="2007-06-11T16:00:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1173416400" datetime="2007-03-09"/>
+	<titles>
+		<title type="short" as="introduced">Stop Arming Iran Act</title>
+		<title type="official" as="introduced">To prohibit the sale by the Department of Defense of parts for F-14 fighter aircraft.</title>
+		<title type="official" as="amended by house">A bill to strengthen controls on the export of surplus parts for F-14 fighter aircraft.</title>
+	</titles>
+	<sponsor id="412188"/>
+	<cosponsors>
+		<cosponsor id="400222" joined="2007-03-27"/>
+		<cosponsor id="400199" joined="2007-03-27"/>
+		<cosponsor id="400162" joined="2007-03-19"/>
+		<cosponsor id="400209" joined="2007-03-19"/>
+		<cosponsor id="412234" joined="2007-03-20"/>
+		<cosponsor id="400122" joined="2007-03-21"/>
+		<cosponsor id="400246" joined="2007-05-02"/>
+		<cosponsor id="400385" joined="2007-03-20"/>
+		<cosponsor id="400430" joined="2007-03-26"/>
+		<cosponsor id="400170" joined="2007-03-21"/>
+		<cosponsor id="412190" joined="2007-03-27"/>
+		<cosponsor id="400313" joined="2007-03-09"/>
+		<cosponsor id="412210" joined="2007-03-20"/>
+		<cosponsor id="400003" joined="2007-04-19"/>
+		<cosponsor id="400423" joined="2007-03-21"/>
+		<cosponsor id="400652" joined="2007-03-20"/>
+		<cosponsor id="400288" joined="2007-03-20"/>
+		<cosponsor id="412198" joined="2007-03-29"/>
+		<cosponsor id="400316" joined="2007-03-20"/>
+		<cosponsor id="400086" joined="2007-04-24"/>
+		<cosponsor id="400386" joined="2007-03-29"/>
+		<cosponsor id="400001" joined="2007-03-14"/>
+		<cosponsor id="400087" joined="2007-03-20"/>
+		<cosponsor id="400655" joined="2007-03-19"/>
+		<cosponsor id="400426" joined="2007-03-21"/>
+		<cosponsor id="400195" joined="2007-03-14"/>
+		<cosponsor id="400251" joined="2007-06-11"/>
+		<cosponsor id="412200" joined="2007-04-23"/>
+		<cosponsor id="400266" joined="2007-03-14"/>
+		<cosponsor id="412186" joined="2007-03-27"/>
+		<cosponsor id="400097" joined="2007-06-11"/>
+		<cosponsor id="412219" joined="2007-03-27"/>
+		<cosponsor id="400024" joined="2007-03-27"/>
+		<cosponsor id="400025" joined="2007-03-26"/>
+		<cosponsor id="400011" joined="2007-03-26"/>
+		<cosponsor id="412191" joined="2007-03-19"/>
+		<cosponsor id="400252" joined="2007-03-29"/>
+		<cosponsor id="400067" joined="2007-04-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1173416400" datetime="2007-03-09"><text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1173416400" datetime="2007-03-09"><text>Referred to House Foreign Affairs</text></action>
+		<action date="1173416400" datetime="2007-03-09"><text>Referred to House Armed Services</text></action>
+		<action date="1174968000" datetime="2007-03-27"><committee name="House Foreign Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1174968000" datetime="2007-03-27" ><committee name="House Foreign Affairs"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1181588040" datetime="2007-06-11T15:54:00-04:00"><text>Ms. Giffords moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1181588040" datetime="2007-06-11T15:54:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6202-6204"/></action>
+		<action date="1181588040" datetime="2007-06-11T15:54:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1441.</text></action>
+		<vote date="1181588400" how="by voice vote" datetime="2007-06-11T16:00:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H6202"/></vote>
+		<action date="1181588400" datetime="2007-06-11T16:00:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1181620800" datetime="2007-06-12"><text>Received in the Senate and Read twice and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/11/2007--Passed House amended. Prohibits the Department of Defense (DOD) from selling any parts for the F-14 fighter aircraft (parts), whether through the Defense Reutilization and Marketing Service or through another DOD agency or element. Provides an exception with respect to the sale of such parts to a U.S. museum or similar organization involved in the preservation of F-14 fighter aircraft for historical purposes. Prohibits the issuance of any license for the export of such parts to a non-U.S. person or entity.<br/>
+	</summary>
+</bill>

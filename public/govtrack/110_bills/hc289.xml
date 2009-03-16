@@ -1,0 +1,84 @@
+<bill session="110" type="hc" number="289" updated="2009-01-08T16:03:22-05:00">
+	<status><vote2 date="1204693200" datetime="2008-03-05" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1202360400" datetime="2008-02-07"/>
+	<titles>
+		<title type="official" as="introduced">Honoring and praising the National Association for the Advancement of Colored People on the occasion of its 99th anniversary.</title>
+	</titles>
+	<sponsor id="400653"/>
+	<cosponsors>
+		<cosponsor id="400663" joined="2008-02-07"/>
+		<cosponsor id="400041" joined="2008-02-07"/>
+		<cosponsor id="400073" joined="2008-02-07"/>
+		<cosponsor id="400199" joined="2008-02-07"/>
+		<cosponsor id="400227" joined="2008-02-07"/>
+		<cosponsor id="400364" joined="2008-02-07"/>
+		<cosponsor id="400616" joined="2008-02-13"/>
+		<cosponsor id="400110" joined="2008-02-12"/>
+		<cosponsor id="400087" joined="2008-02-07"/>
+		<cosponsor id="400160" joined="2008-02-07"/>
+		<cosponsor id="400270" joined="2008-02-07"/>
+		<cosponsor id="400259" joined="2008-02-07"/>
+		<cosponsor id="400436" joined="2008-02-07"/>
+		<cosponsor id="400237" joined="2008-02-07"/>
+		<cosponsor id="400282" joined="2008-02-07"/>
+		<cosponsor id="400251" joined="2008-02-07"/>
+		<cosponsor id="400217" joined="2008-02-12"/>
+		<cosponsor id="400360" joined="2008-02-12"/>
+		<cosponsor id="400366" joined="2008-02-07"/>
+		<cosponsor id="400295" joined="2008-02-07"/>
+		<cosponsor id="400623" joined="2008-02-12"/>
+		<cosponsor id="400430" joined="2008-02-07"/>
+		<cosponsor id="400170" joined="2008-02-07"/>
+		<cosponsor id="412215" joined="2008-02-07"/>
+		<cosponsor id="412236" joined="2008-02-07"/>
+		<cosponsor id="400009" joined="2008-02-13"/>
+		<cosponsor id="400093" joined="2008-02-07"/>
+		<cosponsor id="400440" joined="2008-02-07"/>
+		<cosponsor id="400185" joined="2008-02-13"/>
+		<cosponsor id="400047" joined="2008-02-12"/>
+		<cosponsor id="400310" joined="2008-02-12"/>
+		<cosponsor id="400090" joined="2008-02-07"/>
+		<cosponsor id="400409" joined="2008-02-07"/>
+		<cosponsor id="400438" joined="2008-02-07"/>
+		<cosponsor id="400433" joined="2008-02-07"/>
+		<cosponsor id="400412" joined="2008-02-07"/>
+		<cosponsor id="400355" joined="2008-02-07"/>
+		<cosponsor id="400345" joined="2008-02-07"/>
+		<cosponsor id="400216" joined="2008-02-07"/>
+		<cosponsor id="400262" joined="2008-02-07"/>
+		<cosponsor id="400130" joined="2008-02-07"/>
+		<cosponsor id="400030" joined="2008-02-07"/>
+		<cosponsor id="400349" joined="2008-02-07"/>
+		<cosponsor id="400402" joined="2008-02-07"/>
+		<cosponsor id="400417" joined="2008-02-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1202360400" datetime="2008-02-07"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1202936160" datetime="2008-02-13T16:56:00-05:00"><text>Mr. Cohen moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1202936160" datetime="2008-02-13T16:56:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H910-912"/></action>
+		<action date="1202936160" datetime="2008-02-13T16:56:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 289.</text></action>
+		<action date="1202937120" datetime="2008-02-13T17:12:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1203015540" datetime="2008-02-14T14:59:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H966"/></action>
+		<vote date="1203016020" how="roll" roll="64" datetime="2008-02-14T15:07:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 64). (text: CR 2/13/2008 H910)</text></vote>
+		<action date="1203915600" datetime="2008-02-25"><text>Received in the Senate and referred to the Committee on the Judiciary.</text></action>
+		<action date="1204693200" datetime="2008-03-05"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S1653-1654"/></action>
+		<vote date="1204693200" how="by Unanimous Consent" datetime="2008-03-05" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text></vote>
+		<action date="1204693200" datetime="2008-03-05"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/5/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the 99th anniversary of the historic founding of the National Association for the Advancement of Colored People (NAACP). Honors and praises the NAACP for its work to ensure the political, educational, social, and economic equality of all persons.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="110" type="hr" number="57" updated="2009-01-09T08:01:01-05:00">
+	<status><vote date="1169577300" datetime="2007-01-23T14:35:00-05:00" where="h" result="pass" how="roll" roll="50"/></status>
+
+	<introduced date="1168578000" datetime="2007-01-12"/>
+	<titles>
+		<title type="official" as="introduced">Congratulating Illinois State University as it celebrates its sesquicentennial.</title>
+	</titles>
+	<sponsor id="400429"/>
+	<cosponsors>
+		<cosponsor id="400222" joined="2007-01-12"/>
+		<cosponsor id="400228" joined="2007-01-12"/>
+		<cosponsor id="400027" joined="2007-01-12"/>
+		<cosponsor id="400198" joined="2007-01-12"/>
+		<cosponsor id="400630" joined="2007-01-12"/>
+		<cosponsor id="400373" joined="2007-01-12"/>
+		<cosponsor id="400082" joined="2007-01-12"/>
+		<cosponsor id="400631" joined="2007-01-12"/>
+		<cosponsor id="400169" joined="2007-01-12"/>
+		<cosponsor id="412204" joined="2007-01-12"/>
+		<cosponsor id="400350" joined="2007-01-12"/>
+		<cosponsor id="400360" joined="2007-01-12"/>
+		<cosponsor id="400120" joined="2007-01-12"/>
+		<cosponsor id="400207" joined="2007-01-12"/>
+		<cosponsor id="400093" joined="2007-01-12"/>
+		<cosponsor id="400163" joined="2007-01-12"/>
+		<cosponsor id="412202" joined="2007-01-12"/>
+		<cosponsor id="400252" joined="2007-01-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1168578000" datetime="2007-01-12"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1169490600" datetime="2007-01-22T14:30:00-05:00"><text>Mrs. Davis (CA) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1169490660" datetime="2007-01-22T14:31:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H800-801"/></action>
+		<action date="1169490660" datetime="2007-01-22T14:31:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 57.</text></action>
+		<action date="1169491380" datetime="2007-01-22T14:43:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1169576820" datetime="2007-01-23T14:27:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H860-861"/></action>
+		<vote date="1169577300" how="roll" roll="50" datetime="2007-01-23T14:35:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 50). (text: CR 1/22/2007 H800)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/23/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Congratulates Illinois State University as it celebrates its sesquicentennial.<br/>
+	</summary>
+</bill>

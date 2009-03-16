@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="895" updated="2009-03-07T11:33:26-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Water Quality Investment Act of 2009</title>
+		<title type="official" as="introduced">To amend the Federal Water Pollution Control Act to reauthorize the sewer overflow control grants program.</title>
+	</titles>
+	<sponsor id="400309"/>
+	<cosponsors>
+		<cosponsor id="400058" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1233810000" datetime="2009-02-05"><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

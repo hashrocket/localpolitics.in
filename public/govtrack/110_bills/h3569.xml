@@ -1,0 +1,96 @@
+<bill session="110" type="h" number="3569" updated="2009-01-09T00:21:49-05:00">
+	<status><enacted date="1198645200" datetime="2007-12-26" /></status>
+
+	<introduced date="1190088000" datetime="2007-09-18"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 16731 Santa Ana Avenue in Fontana, California, as the &quot;Beatrice E. Watson Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400009"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2007-10-17"/>
+		<cosponsor id="400133" joined="2007-10-18"/>
+		<cosponsor id="400618" joined="2007-10-17"/>
+		<cosponsor id="400330" joined="2007-10-18"/>
+		<cosponsor id="400403" joined="2007-10-03"/>
+		<cosponsor id="400113" joined="2007-10-17"/>
+		<cosponsor id="400129" joined="2007-10-18"/>
+		<cosponsor id="412190" joined="2007-10-18"/>
+		<cosponsor id="400348" joined="2007-10-18"/>
+		<cosponsor id="400267" joined="2007-10-18"/>
+		<cosponsor id="400065" joined="2007-10-18"/>
+		<cosponsor id="400297" joined="2007-10-18"/>
+		<cosponsor id="400191" joined="2007-10-18"/>
+		<cosponsor id="400361" joined="2007-10-17"/>
+		<cosponsor id="400196" joined="2007-10-18"/>
+		<cosponsor id="400176" joined="2007-10-18"/>
+		<cosponsor id="400124" joined="2007-10-10"/>
+		<cosponsor id="400239" joined="2007-10-18"/>
+		<cosponsor id="400423" joined="2007-10-17"/>
+		<cosponsor id="412189" joined="2007-09-24"/>
+		<cosponsor id="400396" joined="2007-10-03"/>
+		<cosponsor id="400384" joined="2007-10-10"/>
+		<cosponsor id="400355" joined="2007-10-18"/>
+		<cosponsor id="400245" joined="2007-10-18"/>
+		<cosponsor id="400231" joined="2007-09-24"/>
+		<cosponsor id="412253" joined="2007-10-17"/>
+		<cosponsor id="400663" joined="2007-10-17"/>
+		<cosponsor id="400387" joined="2007-10-10"/>
+		<cosponsor id="400144" joined="2007-10-18"/>
+		<cosponsor id="400347" joined="2007-10-17"/>
+		<cosponsor id="400356" joined="2007-10-18"/>
+		<cosponsor id="400277" joined="2007-10-18"/>
+		<cosponsor id="400057" joined="2007-10-18"/>
+		<cosponsor id="400343" joined="2007-10-18"/>
+		<cosponsor id="400039" joined="2007-10-18"/>
+		<cosponsor id="400166" joined="2007-09-24"/>
+		<cosponsor id="400115" joined="2007-10-18"/>
+		<cosponsor id="400436" joined="2007-10-17"/>
+		<cosponsor id="400237" joined="2007-10-03"/>
+		<cosponsor id="400570" joined="2007-10-18"/>
+		<cosponsor id="400422" joined="2007-10-17"/>
+		<cosponsor id="400021" joined="2007-10-17"/>
+		<cosponsor id="400617" joined="2007-10-17"/>
+		<cosponsor id="400371" joined="2007-10-18"/>
+		<cosponsor id="400185" joined="2007-10-17"/>
+		<cosponsor id="400097" joined="2007-10-18"/>
+		<cosponsor id="400025" joined="2007-10-17"/>
+		<cosponsor id="400062" joined="2007-10-18"/>
+		<cosponsor id="400425" joined="2007-10-17"/>
+		<cosponsor id="400314" joined="2007-10-18"/>
+		<cosponsor id="412011" joined="2007-10-18"/>
+		<cosponsor id="400278" joined="2007-10-17"/>
+	</cosponsors>
+	<actions>
+		<action date="1190088000" datetime="2007-09-18"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1193112000" datetime="2007-10-23"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1193112000" datetime="2007-10-23" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1194990420" datetime="2007-11-13T17:47:00-05:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1194990420" datetime="2007-11-13T17:47:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H13811-13812"/></action>
+		<action date="1194990420" datetime="2007-11-13T17:47:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3569.</text></action>
+		<vote date="1194990780" how="by voice vote" datetime="2007-11-13T17:53:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H13811"/></vote>
+		<action date="1195016400" datetime="2007-11-14"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1197435600" datetime="2007-12-12"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+		<action date="1198040400" datetime="2007-12-19"><text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S16055"/></action>
+		<vote date="1198040400" how="by Unanimous Consent" datetime="2007-12-19" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<topresident date="1198040400" datetime="2007-12-19" ><text>Cleared for White House.</text></topresident>
+		<action date="1198126800" datetime="2007-12-20"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1198126800" datetime="2007-12-20" ><text>Presented to President.</text></topresident>
+		<signed date="1198645200" datetime="2007-12-26" ><text>Signed by President.</text></signed>
+		<enacted number="110-163" date="1198645200" datetime="2007-12-26" type="public" ><text>Became Public Law No: 110-163.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/26/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 16731 Santa Ana Avenue in Fontana, California, as the &quot;Beatrice E. Watson Post Office Building.&quot; 
+	</summary>
+</bill>

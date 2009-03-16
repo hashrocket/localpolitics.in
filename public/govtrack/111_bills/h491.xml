@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="491" updated="2009-03-07T10:45:22-05:00">
+	<status><introduced date="1231822800" datetime="2009-01-13"/></status>
+
+	<introduced date="1231822800" datetime="2009-01-13"/>
+	<titles>
+		<title type="official" as="introduced">To direct the Secretary of Transportation to waive non-Federal share requirements for certain transportation programs and activities through September 30, 2009.</title>
+	</titles>
+	<sponsor id="412239"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231822800" datetime="2009-01-13"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1231822800" datetime="2009-01-13"><text>Referred to the Subcommittee on Highways and Transit.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Highways and Transit" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="198" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Roads and highways"/>
+		<term name="Transportation programs funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/13/2009--Introduced.<br/>Directs the Secretary of Transportation to waive, through FY2009, any requirement that would otherwise require a state or local government to contribute non-federal funds toward the cost of a covered transportation program or activity authorized by the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (SAFTETEA-LU) or an amendment made by that Act. Declares, however, that nothing in this Act shall be construed to prohibit a state or local government from contributing non-federal funds toward the cost of a covered transportation program or activity.<br/>
+	</summary>
+</bill>

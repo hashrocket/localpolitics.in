@@ -1,0 +1,37 @@
+<bill session="110" type="hr" number="421" updated="2009-01-09T08:45:02-05:00">
+	<status><vote date="1181139480" datetime="2007-06-06T11:18:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1179720000" datetime="2007-05-21"/>
+	<titles>
+		<title type="official" as="introduced">Honoring the trailblazing accomplishments of the &quot;Mercury 13&quot; women, whose efforts in the early 1960s demonstrated the capabilities of American women to undertake the human exploration of space.</title>
+	</titles>
+	<sponsor id="412240"/>
+	<cosponsors>
+		<cosponsor id="400155" joined="2007-05-21"/>
+		<cosponsor id="400365" joined="2007-05-21"/>
+		<cosponsor id="400204" joined="2007-06-05"/>
+		<cosponsor id="400218" joined="2007-05-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1179720000" datetime="2007-05-21"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1181138760" datetime="2007-06-06T11:06:00-04:00"><text>Mr. Wu moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1181138820" datetime="2007-06-06T11:07:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6019-6021"/></action>
+		<action date="1181138820" datetime="2007-06-06T11:07:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 421.</text></action>
+		<vote date="1181139480" how="by voice vote" datetime="2007-06-06T11:18:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H6020"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/6/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Recognizes and honors the contributions of the &quot;Mercury 13 women&quot;: Myrtle Cagle, Geraldyn &quot;Jerrie&quot; Cobb, Jan Dietrich, Marion Dietrich, Mary Wallace &quot;Wally&quot; Funk, Jane Briggs Hart, Jean Hixson, Gene Nora Stumbough Jessen, Irene Leverton, Sarah Lee Gorelick Ratley, Bernice Trimble Steadman, Geraldine &quot;Jerri&quot; Sloan Truhill, and Rhea Hurrle Allison Woltman.<br/>Encourages young women to follow in the footsteps of those women and pursue careers of excellence in aviation and astronautics, as well as in engineering and science.<br/>
+	</summary>
+</bill>

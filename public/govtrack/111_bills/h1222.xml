@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="1222" updated="2009-03-07T12:15:57-05:00">
+	<status><introduced date="1235624400" datetime="2009-02-26"/></status>
+
+	<introduced date="1235624400" datetime="2009-02-26"/>
+	<titles>
+		<title type="short" as="introduced">Guaranteed Benefits for Our Troops Act</title>
+		<title type="official" as="introduced">To provide benefits under the Post-Deployment/Mobilization Respite Absence program for certain periods before the implementation of the program.</title>
+	</titles>
+	<sponsor id="412208"/>
+	<cosponsors>
+		<cosponsor id="400224" joined="2009-02-26"/>
+		<cosponsor id="400640" joined="2009-02-26"/>
+		<cosponsor id="412303" joined="2009-02-26"/>
+		<cosponsor id="412209" joined="2009-02-26"/>
+		<cosponsor id="400220" joined="2009-02-26"/>
+		<cosponsor id="400259" joined="2009-02-26"/>
+		<cosponsor id="412216" joined="2009-03-02"/>
+		<cosponsor id="400234" joined="2009-02-26"/>
+		<cosponsor id="400299" joined="2009-02-26"/>
+		<cosponsor id="412215" joined="2009-03-02"/>
+		<cosponsor id="400042" joined="2009-02-26"/>
+		<cosponsor id="412214" joined="2009-02-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1235624400" datetime="2009-02-26"><text>Referred to the House Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

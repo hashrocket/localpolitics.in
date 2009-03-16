@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="2601" updated="2009-01-08T22:16:01-05:00">
+	<status><vote date="1197403800" datetime="2007-12-11T16:10:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1181102400" datetime="2007-06-06"/>
+	<titles>
+		<title type="short" as="reported to house">Do-Not-Call Registry Fee Extension Act of 2007</title>
+		<title type="short" as="passed house">Do-Not-Call Registry Fee Extension Act of 2007</title>
+		<title type="official" as="introduced">To extend the authority of the Federal Trade Commission to collect fees to administer and enforce the provisions relating to the &quot;Do-not-call&quot; registry of the Telemarketing Sales Rule.</title>
+	</titles>
+	<sponsor id="400388"/>
+	<cosponsors>
+		<cosponsor id="400222" joined="2007-10-22"/>
+		<cosponsor id="412210" joined="2007-11-05"/>
+		<cosponsor id="400018" joined="2007-06-06"/>
+		<cosponsor id="400052" joined="2007-06-06"/>
+		<cosponsor id="400110" joined="2007-06-06"/>
+		<cosponsor id="400320" joined="2007-06-06"/>
+		<cosponsor id="400350" joined="2007-06-06"/>
+		<cosponsor id="400319" joined="2007-06-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1181102400" datetime="2007-06-06"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1181102400" datetime="2007-06-06"><text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text></action>
+		<action date="1193112000" datetime="2007-10-23"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1193112000" datetime="2007-10-23"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1193112000" datetime="2007-10-23"><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action date="1193716800" datetime="2007-10-30"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1193716800" datetime="2007-10-30" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1197402000" datetime="2007-12-11T15:40:00-05:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-485.</text></action>
+		<calendar number="300" date="1197402000" datetime="2007-12-11T15:40:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 300.</text></calendar>
+		<action date="1197403320" datetime="2007-12-11T16:02:00-05:00"><text>Mr. Butterfield moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1197403320" datetime="2007-12-11T16:02:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H15265-15267"/></action>
+		<action date="1197403320" datetime="2007-12-11T16:02:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2601.</text></action>
+		<vote date="1197403800" how="by voice vote" datetime="2007-12-11T16:10:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="consideration" ref="CR H15265-15266"/></vote>
+		<action date="1197435600" datetime="2007-12-12"><text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/11/2007--Passed House amended. Do-Not-Call Registry Fee Extension Act of 2007 - (Sec. 2) Amends the Do-Not-Call Implementation Act to replace provisions relating to fees regarding the &quot;do-not-call&quot; registry of the Telemarketing Sales Rule with provisions requiring the Federal Trade Commission (FTC) to collect an annual fee to implement and enforce the registry or any other regulation issued by the FTC under specified provisions of the Telemarketing and Consumer Fraud and Abuse Prevention Act. Sets the fee amount per area code accessed, subject to a maximum amount, and indexes the amount to inflation. Prohibits any arrangement to divide the fee among various clients of a telemarketer or service provider. (Sec. 3) Replaces current reporting requirements with provisions requiring the FTC to report biennially to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives. Requires an additional, one-time FTC report to those committees on the effectiveness of do-not-call outreach and enforcement efforts to senior citizens and immigrant communities, the impact of the exceptions to the do-not-call registry on businesses and consumers, and the impact on do-not-call enforcement of abandoned calls made by predictive dialing devices.<br/>
+	</summary>
+</bill>

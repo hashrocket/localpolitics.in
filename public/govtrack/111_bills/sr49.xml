@@ -1,0 +1,33 @@
+<bill session="111" type="sr" number="49" updated="2009-03-07T14:44:08-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="official" as="introduced">A resolution to express the sense of the Senate regarding the importance of public diplomacy.</title>
+	</titles>
+	<sponsor id="300070"/>
+	<cosponsors>
+		<cosponsor id="412329" joined="2009-03-04"/>
+		<cosponsor id="300060" joined="2009-02-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S2345"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Foreign Relations" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Diplomacy, foreign officials, Americans abroad"/>
+		<term name="Government information and archives"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

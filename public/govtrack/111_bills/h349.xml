@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="349" updated="2009-03-07T10:28:38-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="official" as="introduced">To authorize an additional district judgeship for the district of Nebraska.</title>
+	</titles>
+	<sponsor id="400400"/>
+	<cosponsors>
+		<cosponsor id="400640" joined="2009-01-08"/>
+		<cosponsor id="412217" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Courts, the Internet, and Intellectual Property" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Law"/>
+		<term name="Federal district courts"/>
+		<term name="Judges"/>
+		<term name="Nebraska"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Requires the President to appoint, with the advice and consent of the Senate, one additional district judge for the district of Nebraska.<br/>
+	</summary>
+</bill>

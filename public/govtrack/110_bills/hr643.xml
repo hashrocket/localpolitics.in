@@ -1,0 +1,35 @@
+<bill session="110" type="hr" number="643" updated="2009-01-09T09:12:12-05:00">
+	<status><vote date="1189461780" datetime="2007-09-10T19:03:00-04:00" where="h" result="pass" how="roll" roll="866"/></status>
+
+	<introduced date="1189396800" datetime="2007-09-10"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing September 11 as a day of rememberance, extending sympathies to those who lost their lives on September 11, 2001, and their families, honoring the heroic actions of our nation's first responders and Armed Forces, and reaffirming the commitment to defending the people of the United States against any and all future challenges.</title>
+	</titles>
+	<sponsor id="400189"/>
+	<cosponsors>
+		<cosponsor id="400036" joined="2007-09-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1189455900" datetime="2007-09-10T17:25:00-04:00"><text>Mr. Hoyer moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1189455960" datetime="2007-09-10T17:26:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10335-10345"/></action>
+		<action date="1189455960" datetime="2007-09-10T17:26:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 643.</text></action>
+		<action date="1189459140" datetime="2007-09-10T18:19:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1189461300" datetime="2007-09-10T18:55:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10345"/></action>
+		<vote date="1189461780" how="roll" roll="866" datetime="2007-09-10T19:03:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 334 - 1 (Roll no. 866).</text><reference label="text" ref="CR H10335"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/10/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Recognizes September 11 as a day to remember those who died in the September 11, 2001, terrorist attacks. Extends deepest sympathies to the innocent victims of those attacks and honors the first responders and others who aided the victims.<br/>Expresses gratitude to the foreign leaders and citizens who have assisted and who continue to stand in solidarity with the United States against terrorism. Rejects any effort to confuse the war on terrorism with a war on any people or any faith.<br/>Honors the U.S. military, intelligence, and diplomatic personnel who have sacrificed much in defense of their country against terrorism. Expresses a commitment to providing such personnel with the resources necessary to defeat terrorists and their supporters. Reaffirms the commitment to defend the American people from all future challenges.<br/>
+	</summary>
+</bill>

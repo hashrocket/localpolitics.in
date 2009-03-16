@@ -1,0 +1,35 @@
+<bill session="111" type="s" number="194" updated="2009-03-07T13:56:27-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Bonus TEFAP Assistance Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Emergency Food Assistance Act of 1983 to require the Secretary of Agriculture to help offset the costs of intrastate transportation, storage, and distribution of bonus commodities provided to States and food assistance agencies under the emergency food assistance program.</title>
+	</titles>
+	<sponsor id="412246"/>
+	<cosponsors>
+		<cosponsor id="300091" joined="2009-01-09"/>
+		<cosponsor id="300098" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Sponsor introductory remarks on measure. (CR S257-258)</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text><reference label="text of measure as introduced" ref="CR S258"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Agriculture, Nutrition, and Forestry" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Food assistance and relief"/>
+		<term name="Transportation costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Bonus TEFAP Assistance Act of 2009 - Amends the Emergency Food Assistance Act of 1983 to direct the Secretary of Agriculture to provide assistance for the costs of intrastate transportation, storage, and distribution of bonus commodities provided to states and food assistance agencies under the emergency food assistance program.<br/>
+	</summary>
+</bill>

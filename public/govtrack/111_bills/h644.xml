@@ -1,0 +1,47 @@
+<bill session="111" type="h" number="644" updated="2009-03-07T11:03:21-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">Grand Canyon Watersheds Protection Act of 2009</title>
+		<title type="official" as="introduced">To withdraw the Tusayan Ranger District and Federal land managed by the Bureau of Land Management in the vicinity of Kanab Creek and in House Rock Valley from location, entry, and patent under the mining laws, and for other purposes.</title>
+	</titles>
+	<sponsor id="400162"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2009-02-04"/>
+		<cosponsor id="400387" joined="2009-02-12"/>
+		<cosponsor id="400331" joined="2009-01-22"/>
+		<cosponsor id="400178" joined="2009-01-22"/>
+		<cosponsor id="412286" joined="2009-02-04"/>
+		<cosponsor id="400310" joined="2009-01-22"/>
+		<cosponsor id="400152" joined="2009-02-04"/>
+		<cosponsor id="412188" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on Energy and Mineral Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+		<committee name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Arizona"/>
+		<term name="Mining"/>
+		<term name="Water use and supply"/>
+		<term name="Watersheds"/>
+		<term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2009--Introduced.<br/>Grand Canyon Watersheds Protection Act of 2009 - Withdraws the approximately 1,068,908 acres of the Tusayan Ranger District and federal land managed by the Bureau of Land Management (BLM) in the vicinity of Kanab Creek and in House Rock Valley from: (1) all forms of entry, appropriation, and disposal under the public land laws; (2) location, entry, and patent under the mining laws; and (3) operation of the mineral leasing, geothermal leasing, and mineral materials laws. Subjects such withdrawal to valid, existing rights.<br/>
+	</summary>
+</bill>

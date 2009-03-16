@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="449" updated="2009-03-07T10:40:27-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Health Care for America's Heroes Act</title>
+		<title type="official" as="introduced">To amend title 38, United States Code, to expand the availability of health care provided by the Secretary of Veterans Affairs by adjusting the income level for certain priority veterans.</title>
+	</titles>
+	<sponsor id="412232"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Health care coverage and access"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Health Care for America's Heroes Act - Makes eligible for health care under the Department of Veterans Affairs (VA) patient enrollment system veterans with incomes not exceeding 200% of the maximum for treatment as a low-income family. (Currently, only veterans with incomes not exceeding the maximum for treatment as a low-income family are so eligible.) 
+	</summary>
+</bill>

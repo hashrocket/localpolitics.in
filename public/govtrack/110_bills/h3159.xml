@@ -1,0 +1,71 @@
+<bill session="110" type="h" number="3159" updated="2009-01-08T23:25:37-05:00">
+	<status><vote date="1186073520" datetime="2007-08-02T13:52:00-04:00" where="h" result="pass" how="roll" roll="796"/></status>
+
+	<introduced date="1185249600" datetime="2007-07-24"/>
+	<titles>
+		<title type="short" as="reported to house">Ensuring Military Readiness Through Stability and Predictability Deployment Policy Act of 2007</title>
+		<title type="short" as="passed house">Ensuring Military Readiness Through Stability and Predictability Deployment Policy Act of 2007</title>
+		<title type="official" as="introduced">To mandate minimum periods of rest and recuperation for units and members of the regular and reserve components of the Armed Forces between deployments for Operation Iraqi Freedom or Operation Enduring Freedom.</title>
+	</titles>
+	<sponsor id="400396"/>
+	<cosponsors>
+		<cosponsor id="400337" joined="2007-07-24"/>
+		<cosponsor id="400149" joined="2007-07-24"/>
+		<cosponsor id="400209" joined="2007-07-24"/>
+		<cosponsor id="400302" joined="2007-07-24"/>
+		<cosponsor id="400379" joined="2007-07-24"/>
+		<cosponsor id="400124" joined="2007-07-31"/>
+		<cosponsor id="400370" joined="2007-07-25"/>
+		<cosponsor id="400377" joined="2007-07-25"/>
+		<cosponsor id="412188" joined="2007-07-24"/>
+		<cosponsor id="400008" joined="2007-07-24"/>
+		<cosponsor id="400356" joined="2007-07-24"/>
+		<cosponsor id="412209" joined="2007-07-24"/>
+		<cosponsor id="412193" joined="2007-07-24"/>
+		<cosponsor id="412199" joined="2007-07-24"/>
+		<cosponsor id="400001" joined="2007-07-24"/>
+		<cosponsor id="400270" joined="2007-07-24"/>
+		<cosponsor id="400166" joined="2007-07-24"/>
+		<cosponsor id="400399" joined="2007-07-24"/>
+		<cosponsor id="412204" joined="2007-07-24"/>
+		<cosponsor id="400211" joined="2007-07-24"/>
+		<cosponsor id="400232" joined="2007-07-24"/>
+		<cosponsor id="412219" joined="2007-07-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1185249600" datetime="2007-07-24"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1185508800" datetime="2007-07-27"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1185508800" datetime="2007-07-27" ><text>Ordered to be Reported by the Yeas and Nays: 32 - 25.</text></calendar>
+		<action date="1185923700" datetime="2007-07-31T20:15:00-04:00"><text>Reported (Amended) by the Committee on Armed Services. H. Rept. 110-282.</text></action>
+		<calendar number="183" date="1185923700" datetime="2007-07-31T20:15:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 183.</text></calendar>
+		<action date="1186020000" datetime="2007-08-01T23:00:00-04:00"><text>Rules Committee Resolution H. Res. 601 Reported to House. Rule provides for consideration of H.R. 3159 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text></action>
+		<action date="1186066380" datetime="2007-08-02T11:53:00-04:00"><text>Rule H. Res. 601 passed House.</text></action>
+		<action date="1186066620" datetime="2007-08-02T11:57:00-04:00"><text>Considered under the provisions of rule H. Res. 601.</text><reference label="consideration" ref="CR H9565-9579"/></action>
+		<action date="1186066620" datetime="2007-08-02T11:57:00-04:00"><text>Rule provides for consideration of H.R. 3159 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text></action>
+		<action date="1186066620" datetime="2007-08-02T11:57:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H.R. 3159.</text></action>
+		<action date="1186070880" datetime="2007-08-02T13:08:00-04:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H9576"/></action>
+		<action date="1186070940" datetime="2007-08-02T13:09:00-04:00"><text>Mr. Hunter moved to recommit with instructions to Armed Services.</text><reference label="consideration" ref="CR H9576"/><reference label="text" ref="CR H9576"/></action>
+		<action date="1186070940" datetime="2007-08-02T13:09:00-04:00"><text>DEBATE - The House proceeded with 10 minutes of debate on the Hunter motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with amendments inserting a new section providing for certification requirement.</text></action>
+		<action date="1186071660" datetime="2007-08-02T13:21:00-04:00"><text>The previous question on the motion to recommit with instructions was ordered without objection.</text><reference label="consideration" ref="CR H9577"/></action>
+		<action date="1186073040" datetime="2007-08-02T13:44:00-04:00"><text>On motion to recommit with instructions Failed by the Yeas and Nays: 207 - 217, 1 Present (Roll no. 795).</text><reference label="consideration" ref="CR H9578"/></action>
+		<vote date="1186073520" how="roll" roll="796" datetime="2007-08-02T13:52:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed by recorded vote: 229 - 194, 3 Present (Roll no. 796).</text><reference label="text" ref="CR H9566"/></vote>
+		<action date="1186027200" datetime="2007-08-02"><text>Received in the Senate.</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Read twice and referred to the Committee on Armed Services.</text></action>
+		<action date="1187064000" datetime="2007-08-14"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/2/2007--Passed House amended. (This measure has not been amended since it was reported to the House on July 31, 2007. The summary of that version is repeated here.)<br/>Ensuring Military Readiness Through Stability and Predictability Deployment Policy Act of 2007 - Prohibits any unit of the regular Armed Forces from being deployed for Operation Iraqi Freedom unless the period between the most recent previous deployment and a subsequent deployment is equal to or longer than the period of the most recent previous deployment. Expresses the sense of Congress that the optimal minimum period between such deployments should be equal to or longer than twice the period of the most recent previous deployment.<br/>Prohibits any unit of the reserves from being deployed for such Operation unless the period between the most recent previous deployment and a subsequent deployment is at least three times longer than the period of the most recent previous deployment. Expresses the sense of Congress that units of the reserves should not be mobilized continuously for more than one year, and that the optimal minimum period between such deployments should be five years.<br/>Provides exceptions from deployment requirements with respect to: (1) special operations forces; and (2) units needed to assist in the redeployment of members from Iraq to another operational requirement or back to their home stations.<br/>Authorizes the: (1) President to waive deployment requirements if the President certifies to Congress within 30 days that the deployment is necessary to meet U.S. national security interests; and (2) chief of staff of the military department concerned to waive such requirements with respect to a member who has voluntarily requested mobilization.<br/>
+	</summary>
+</bill>

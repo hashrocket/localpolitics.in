@@ -1,0 +1,40 @@
+<bill session="110" type="h" number="6216" updated="2009-01-09T05:42:05-05:00">
+	<status><vote date="1215621180" datetime="2008-07-09T13:33:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1212984000" datetime="2008-06-09"/>
+	<titles>
+		<title type="short" as="introduced">Asset Management Improvement Act of 2008</title>
+		<title type="short" as="passed house">Asset Management Improvement Act of 2008</title>
+		<title type="official" as="introduced">To improve the Operating Fund for public housing of the Department of Housing and Urban Development, and for other purposes.</title>
+	</titles>
+	<sponsor id="412186"/>
+	<cosponsors>
+		<cosponsor id="400270" joined="2008-06-09"/>
+		<cosponsor id="400140" joined="2008-06-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1212984000" datetime="2008-06-09"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1214366400" datetime="2008-06-25"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1214366400" datetime="2008-06-25" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1215620280" datetime="2008-07-09T13:18:00-04:00"><text>Mr. Frank (MA) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1215620280" datetime="2008-07-09T13:18:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6269-6271"/></action>
+		<action date="1215620280" datetime="2008-07-09T13:18:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6216.</text></action>
+		<vote date="1215621180" how="by voice vote" datetime="2008-07-09T13:33:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H6269-6270"/></vote>
+		<action date="1215662400" datetime="2008-07-10"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/9/2008--Passed House amended. Asset Management Improvement Act of 2008 - Prohibits the Secretary of Housing and Urban Development from imposing restrictions or limitations on the amount of management and related fees for a public housing project which the public housing agency (PHA) determines reasonable, unless such restriction or limitation: (1) is determined pursuant to a negotiated rulemaking convened by the Secretary no earlier than April 1, 2009, with representatives from interested parties; and (2) is effective only on or after January 1, 2011. Allows any PHA that owns or operates fewer than 500 public housing units under the United States Housing Act of 1937 to elect to be exempt from asset management requirements imposed by the Secretary. Prohibits the Secretary from imposing any requirement, regulation, or guideline relating to asset management that restricts or limits in any way the use by PHAs of amounts for Capital Fund assistance for costs of any PHA central office. Requires the Secretary to ensure that PHAs encourage the reasonable efforts of resident tenant organizations to represent their members and of tenants to organize. Makes illegal immigrants ineligible for financial assistance under this Act. Prohibits the Secretary from accepting as reasonable any management or related fees for enforcing a dwelling lease or other similar agreement that requires the registration of or prohibits the possession of firearms by an individual for personal protection or for sport, if the possession is not prohibited, or the registration is not required, by existing law. Amends the Quality Housing and Work Responsibility Act of 1998 to permit a PHA or owner of federally assisted housing to terminate the tenancy or assistance for any household with a member who is illegally using a firearm, or whose illegal use is determined by the PHA or owner to interfere with the health, safety, or right to peaceful enjoyment of the premises by other residents. 
+	</summary>
+</bill>

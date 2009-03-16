@@ -1,0 +1,39 @@
+<bill session="110" type="h" number="3959" updated="2009-01-09T01:08:06-05:00">
+	<status><vote date="1201109580" datetime="2008-01-23T13:33:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1193198400" datetime="2007-10-24"/>
+	<titles>
+		<title type="official" as="introduced">To amend the National Flood Insurance Act of 1968 to provide for the phase-in of actuarial rates for certain pre-FIRM properties.</title>
+	</titles>
+	<sponsor id="400145"/>
+	<cosponsors>
+		<cosponsor id="400140" joined="2007-10-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1193198400" datetime="2007-10-24"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1193803200" datetime="2007-10-31"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1193803200" datetime="2007-10-31" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1200518340" datetime="2008-01-16T17:19:00-05:00"><text>Reported (Amended) by the Committee on Financial Services. H. Rept. 110-510.</text></action>
+		<calendar number="311" date="1200518340" datetime="2008-01-16T17:19:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 311.</text></calendar>
+		<action date="1201109100" datetime="2008-01-23T13:25:00-05:00"><text>Mr. Frank (MA) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1201109100" datetime="2008-01-23T13:25:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H412-413"/></action>
+		<action date="1201109160" datetime="2008-01-23T13:26:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3959.</text></action>
+		<vote date="1201109580" how="by voice vote" datetime="2008-01-23T13:33:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H412-413"/></vote>
+		<action date="1201150800" datetime="2008-01-24"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/23/2008--Passed House amended. Amends the National Flood Insurance Act of 1968 (Act) to provide for phased-in actuarial premium rates for recently purchased pre-FIRM single family properties used as a principal residence and purchased for at least $600,000. (A pre-FIRM structure is one that was not constructed or substantially improved after the later of: (1) December 31, 1974; or (2) the effective date of the initial rate map published by the Director of the Federal Emergency Management Agency (FEMA) under the National Flood Insurance Act of 1968 for the area in which such structure is located.)<br/>Declares January 1, 2011, the effective date of this Act.<br/>Sets forth transition provisions under which the Director of the Federal Emergency Management Agency (FEMA) is instructed to increase annually the chargeable premium rates for certain properties covered under the national flood insurance program if those rates are less than the applicable estimated risk premium rates.<br/>
+	</summary>
+</bill>

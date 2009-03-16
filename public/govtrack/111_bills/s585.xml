@@ -1,0 +1,32 @@
+<bill session="111" type="s" number="585" updated="2009-03-13T12:01:22-04:00">
+	<status><introduced date="1236830400" datetime="2009-03-12"/></status>
+
+	<introduced date="1236830400" datetime="2009-03-12"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide additional protections for recipients of the earned income tax credit.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="2009-03-12"/>
+		<cosponsor id="300038" joined="2009-03-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1236830400" datetime="2009-03-12"><text>Sponsor introductory remarks on measure. (CR S3078)</text></action>
+		<action date="1236830400" datetime="2009-03-12"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S3078-3079"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

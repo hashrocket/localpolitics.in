@@ -1,0 +1,54 @@
+<bill session="110" type="h" number="3174" updated="2009-01-08T23:27:32-05:00">
+	<status><vote date="1222552020" datetime="2008-09-27T18:47:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1185336000" datetime="2007-07-25"/>
+	<titles>
+		<title type="short" as="introduced">Equal Justice for Our Military Act of 2007</title>
+		<title type="short" as="passed house">Equal Justice for Our Military Act of 2007</title>
+		<title type="official" as="introduced">To amend titles 28 and 10, United States Code, to allow for certiorari review of certain cases denied relief or review by the United States Court of Appeals for the Armed Forces.</title>
+	</titles>
+	<sponsor id="400097"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2008-09-23"/>
+		<cosponsor id="400364" joined="2007-09-24"/>
+		<cosponsor id="400430" joined="2008-09-11"/>
+		<cosponsor id="400003" joined="2007-07-25"/>
+		<cosponsor id="400184" joined="2007-09-24"/>
+		<cosponsor id="400377" joined="2007-07-25"/>
+		<cosponsor id="400262" joined="2008-06-25"/>
+		<cosponsor id="400006" joined="2007-07-31"/>
+		<cosponsor id="412209" joined="2007-08-02"/>
+		<cosponsor id="400001" joined="2007-07-25"/>
+		<cosponsor id="400436" joined="2008-09-23"/>
+		<cosponsor id="400140" joined="2008-06-25"/>
+		<cosponsor id="400360" joined="2008-07-15"/>
+		<cosponsor id="412219" joined="2007-07-31"/>
+		<cosponsor id="400067" joined="2007-07-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1185336000" datetime="2007-07-25"><text>Sponsor introductory remarks on measure. (CR E1618)</text></action>
+		<action date="1185336000" datetime="2007-07-25"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1189396800" datetime="2007-09-10"><text>Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.</text></action>
+		<action date="1222551480" datetime="2008-09-27T18:38:00-04:00"><text>Mr. Conyers moved to suspend the rules and pass the bill.</text></action>
+		<action date="1222551480" datetime="2008-09-27T18:38:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10263-10264"/></action>
+		<action date="1222551480" datetime="2008-09-27T18:38:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3174.</text></action>
+		<vote date="1222552020" how="by voice vote" datetime="2008-09-27T18:47:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H10263"/></vote>
+		<action date="1222660800" datetime="2008-09-29"><text>Received in the Senate.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/27/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Equal Justice for Our Military Act of 2007 - Amends the federal judicial code to allow for review by writ of certiorari of certain cases denied relief or review by the U.S. Court of Appeals for the Armed Forces.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="1036" updated="2009-01-09T10:01:43-05:00">
+	<status><vote date="1205344620" datetime="2008-03-12T14:57:00-04:00" where="h" result="pass" how="roll" roll="130"/></status>
+
+	<introduced date="1205208000" datetime="2008-03-11"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the concurrent resolution (H. Con. Res. 312) revising the congressional budget for the United States Government for fiscal year 2008, establishing the congressional budget for the United States Government for fiscal year 2009, and setting forth appropriate budgetary levels for fiscal years 2010 through 2013.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1205274900" datetime="2008-03-11T19:35:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-548, by Mr. McGovern.</text></action>
+		<action date="1205274900" datetime="2008-03-11T19:35:00-04:00"><text>Rule provides for consideration of H. Con. Res. 312 with 4 hours of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. Specified amendments are in order.</text></action>
+		<calendar date="1205275080" datetime="2008-03-11T19:38:00-04:00" ><text>Placed on the House Calendar, Calendar No. 196.</text></calendar>
+		<action date="1205340120" datetime="2008-03-12T13:42:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H1553-1560"/></action>
+		<action date="1205340360" datetime="2008-03-12T13:46:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 1036.</text></action>
+		<action date="1205344080" datetime="2008-03-12T14:48:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 222 - 196 (Roll no. 129).</text><reference label="consideration" ref="CR H1559-1560"/></action>
+		<vote date="1205344620" how="roll" roll="130" datetime="2008-03-12T14:57:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 195 (Roll no. 130).</text><reference label="text" ref="CR H1553-1554, H1559"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/12/2008--Passed House without amendment. Sets forth the rule for consideration of H.Con.Res. 312 (congressional budget).<br/>
+	</summary>
+</bill>

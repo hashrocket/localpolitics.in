@@ -1,0 +1,34 @@
+<bill session="111" type="h" number="1134" updated="2009-03-07T12:03:43-05:00">
+	<status><introduced date="1235365200" datetime="2009-02-23"/></status>
+
+	<introduced date="1235365200" datetime="2009-02-23"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow the credit for nonbusiness energy property for 2008.</title>
+	</titles>
+	<sponsor id="400365"/>
+	<cosponsors>
+		<cosponsor id="400147" joined="2009-02-23"/>
+		<cosponsor id="412209" joined="2009-03-05"/>
+		<cosponsor id="400027" joined="2009-02-25"/>
+		<cosponsor id="400385" joined="2009-02-23"/>
+		<cosponsor id="400119" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1235365200" datetime="2009-02-23"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="329" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

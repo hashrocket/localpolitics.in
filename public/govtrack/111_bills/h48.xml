@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="48" updated="2009-03-07T09:53:26-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Asian Carp Prevention and Control Act</title>
+		<title type="official" as="introduced">To amend section 42 of title 18, United States Code, popularly known as the Lacey Act, to add certain species of carp to the list of injurious species that are prohibited from being imported or shipped.</title>
+	</titles>
+	<sponsor id="400027"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Aquatic ecology"/>
+		<term name="Fishes"/>
+		<term name="Smuggling and trafficking"/>
+		<term name="Trade restrictions"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Asian Carp Prevention and Control Act - Amends the Lacey Act to add specified species of black, bighead, and silver carp to the list of injurious species that are prohibited from being shipped or imported into the United States.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="1425" updated="2009-03-11T12:07:38-04:00">
+	<status><introduced date="1236657600" datetime="2009-03-10"/></status>
+
+	<introduced date="1236657600" datetime="2009-03-10"/>
+	<titles>
+		<title type="short" as="introduced">Wartime Treatment Study Act</title>
+		<title type="official" as="introduced">To establish commissions to review the facts and circumstances surrounding injustices suffered by European Americans, European Latin Americans, and Jewish refugees during World War II.</title>
+	</titles>
+	<sponsor id="400430"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2009-03-10"/>
+		<cosponsor id="400222" joined="2009-03-10"/>
+		<cosponsor id="400162" joined="2009-03-10"/>
+		<cosponsor id="400346" joined="2009-03-10"/>
+		<cosponsor id="412186" joined="2009-03-10"/>
+		<cosponsor id="400185" joined="2009-03-10"/>
+		<cosponsor id="412296" joined="2009-03-10"/>
+		<cosponsor id="400042" joined="2009-03-10"/>
+		<cosponsor id="400184" joined="2009-03-10"/>
+		<cosponsor id="400163" joined="2009-03-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1236657600" datetime="2009-03-10"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1236657600" datetime="2009-03-10"><text>Referred to House Judiciary</text></action>
+		<action date="1236657600" datetime="2009-03-10"><text>Referred to House Appropriations</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Appropriations" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

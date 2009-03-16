@@ -1,0 +1,103 @@
+<bill session="110" type="h" number="584" updated="2009-01-08T18:02:19-05:00">
+	<status><enacted date="1174622400" datetime="2007-03-23" /></status>
+
+	<introduced date="1169182800" datetime="2007-01-19"/>
+	<titles>
+		<title type="official" as="introduced">To designate the headquarters building of the Department of Education in Washington, DC, as the Lyndon Baines Johnson Federal Building.</title>
+		<title type="official" as="amended by house">To designate the Federal building located at 400 Maryland Avenue Southwest in the District of Columbia as the 'Lyndon Baines Johnson Department of Education Building'.</title>
+	</titles>
+	<sponsor id="400160"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="2007-02-16"/>
+		<cosponsor id="400133" joined="2007-02-07"/>
+		<cosponsor id="400199" joined="2007-01-19"/>
+		<cosponsor id="400367" joined="2007-01-22"/>
+		<cosponsor id="400337" joined="2007-01-19"/>
+		<cosponsor id="400657" joined="2007-01-19"/>
+		<cosponsor id="400089" joined="2007-01-19"/>
+		<cosponsor id="400282" joined="2007-02-06"/>
+		<cosponsor id="400302" joined="2007-01-19"/>
+		<cosponsor id="400430" joined="2007-01-19"/>
+		<cosponsor id="400424" joined="2007-01-19"/>
+		<cosponsor id="400165" joined="2007-01-19"/>
+		<cosponsor id="400018" joined="2007-01-19"/>
+		<cosponsor id="400229" joined="2007-01-22"/>
+		<cosponsor id="412231" joined="2007-02-06"/>
+		<cosponsor id="400300" joined="2007-01-19"/>
+		<cosponsor id="400052" joined="2007-01-19"/>
+		<cosponsor id="400409" joined="2007-01-19"/>
+		<cosponsor id="400652" joined="2007-01-19"/>
+		<cosponsor id="400152" joined="2007-01-19"/>
+		<cosponsor id="400231" joined="2007-02-14"/>
+		<cosponsor id="400339" joined="2007-01-22"/>
+		<cosponsor id="400068" joined="2007-01-19"/>
+		<cosponsor id="400331" joined="2007-02-06"/>
+		<cosponsor id="400356" joined="2007-01-19"/>
+		<cosponsor id="400442" joined="2007-02-06"/>
+		<cosponsor id="400395" joined="2007-01-31"/>
+		<cosponsor id="400110" joined="2007-01-19"/>
+		<cosponsor id="400087" joined="2007-01-19"/>
+		<cosponsor id="400655" joined="2007-01-19"/>
+		<cosponsor id="412204" joined="2007-02-16"/>
+		<cosponsor id="400653" joined="2007-01-19"/>
+		<cosponsor id="400251" joined="2007-01-19"/>
+		<cosponsor id="400350" joined="2007-01-19"/>
+		<cosponsor id="400111" joined="2007-01-19"/>
+		<cosponsor id="400366" joined="2007-02-06"/>
+		<cosponsor id="400299" joined="2007-01-19"/>
+		<cosponsor id="400074" joined="2007-01-19"/>
+		<cosponsor id="400118" joined="2007-01-19"/>
+		<cosponsor id="400081" joined="2007-02-06"/>
+		<cosponsor id="412236" joined="2007-02-07"/>
+		<cosponsor id="400009" joined="2007-01-19"/>
+		<cosponsor id="400310" joined="2007-02-06"/>
+		<cosponsor id="400042" joined="2007-02-14"/>
+		<cosponsor id="400240" joined="2007-01-19"/>
+		<cosponsor id="400046" joined="2007-01-19"/>
+		<cosponsor id="400438" joined="2007-01-19"/>
+		<cosponsor id="400215" joined="2007-01-19"/>
+		<cosponsor id="400654" joined="2007-01-19"/>
+		<cosponsor id="400157" joined="2007-01-19"/>
+		<cosponsor id="400179" joined="2007-01-19"/>
+		<cosponsor id="400067" joined="2007-02-14"/>
+		<cosponsor id="400656" joined="2007-01-19"/>
+		<cosponsor id="400075" joined="2007-01-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1169182800" datetime="2007-01-19"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1169442000" datetime="2007-01-22"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1170738000" datetime="2007-02-06"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1170738000" datetime="2007-02-06"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1170824400" datetime="2007-02-07"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1170824400" datetime="2007-02-07" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1171657380" datetime="2007-02-16T16:23:00-05:00"><text>Reported (Amended) by the Committee on Transportation. H. Rept. 110-17.</text></action>
+		<calendar number="11" date="1171657380" datetime="2007-02-16T16:23:00-05:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 11.</text></calendar>
+		<action date="1173201480" datetime="2007-03-06T13:18:00-05:00"><text>Ms. Norton moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1173201480" datetime="2007-03-06T13:18:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2182-2190"/></action>
+		<action date="1173201540" datetime="2007-03-06T13:19:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 584.</text></action>
+		<vote date="1173204000" how="by voice vote" datetime="2007-03-06T14:00:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H2182"/></vote>
+		<action date="1173204000" datetime="2007-03-06T14:00:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1173243600" datetime="2007-03-07"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1173416400" how="by Unanimous Consent" datetime="2007-03-09" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S2989"/></vote>
+		<action date="1173416400" datetime="2007-03-09"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1173416400" datetime="2007-03-09" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1173844800" datetime="2007-03-14" ><text>Presented to President.</text></topresident>
+		<signed date="1174622400" datetime="2007-03-23" ><text>Signed by President.</text></signed>
+		<enacted number="110-15" date="1174622400" datetime="2007-03-23" type="public" ><text>Became Public Law No: 110-15.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/23/2007--Public Law. (This measure has not been amended since it was reported to the House on February 16, 2007. The summary of that version is repeated here.)<br/>Designates the federal building located at 400 Maryland Avenue Southwest in the District of Columbia as the &quot;Lyndon Baines Johnson Department of Education Building.&quot;<br/>
+	</summary>
+</bill>

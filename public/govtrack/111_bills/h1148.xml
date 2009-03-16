@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="1148" updated="2009-03-07T12:05:20-05:00">
+	<status><introduced date="1235451600" datetime="2009-02-24"/></status>
+
+	<introduced date="1235451600" datetime="2009-02-24"/>
+	<titles>
+		<title type="official" as="introduced">To require the Secretary of Homeland Security to conduct a program in the maritime environment for the mobile biometric identification of suspected individuals, including terrorists, to enhance border security.</title>
+	</titles>
+	<sponsor id="412250"/>
+	<cosponsors>
+		<cosponsor id="400570" joined="2009-02-24"/>
+		<cosponsor id="400047" joined="2009-02-24"/>
+		<cosponsor id="412311" joined="2009-02-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1235451600" datetime="2009-02-24"><text>Referred to the House Committee on Homeland Security.</text></action>
+		<action date="1235970000" datetime="2009-03-02"><text>Referred to the Subcommittee on Border, Maritime, and Global Counterterrorism.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Homeland Security" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Homeland Security" subcommittee="Border, Maritime, and Global Counterterrorism" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Emergency management"/>
+		<term name="Border security and unlawful immigration"/>
+		<term name="Criminal justice information and records"/>
+		<term name="Marine and inland water transportation"/>
+		<term name="Terrorism"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/2009--Introduced.<br/>Directs the Secretary of Homeland Security to: (1) conduct in the maritime environment a program for the mobile biometric identification of suspected individuals, including terrorists, to enhance border security and for other purposes; (2) ensure such program's coordination with other Department of Homeland Security (DHS) biometric identification programs; and (3) report to the appropriate congressional committees respecting the cost of expanding DHS biometric identification capabilities for use by departmental maritime assets. Defines &quot;biometric identification&quot; as the use of fingerprint and digital photography images.<br/>
+	</summary>
+</bill>

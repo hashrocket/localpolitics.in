@@ -1,0 +1,88 @@
+<bill session="110" type="h" number="1434" updated="2009-01-08T19:50:50-05:00">
+	<status><enacted date="1186632000" datetime="2007-08-09" /></status>
+
+	<introduced date="1173416400" datetime="2007-03-09"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 896 Pittsburgh Street in Springdale, Pennsylvania, as the &quot;Rachel Carson Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="412231"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-03-09"/>
+		<cosponsor id="400661" joined="2007-03-26"/>
+		<cosponsor id="400041" joined="2007-03-26"/>
+		<cosponsor id="400199" joined="2007-03-26"/>
+		<cosponsor id="400227" joined="2007-04-20"/>
+		<cosponsor id="400289" joined="2007-03-29"/>
+		<cosponsor id="400210" joined="2007-03-09"/>
+		<cosponsor id="400263" joined="2007-04-20"/>
+		<cosponsor id="400183" joined="2007-03-09"/>
+		<cosponsor id="400282" joined="2007-03-26"/>
+		<cosponsor id="400317" joined="2007-03-09"/>
+		<cosponsor id="412234" joined="2007-03-09"/>
+		<cosponsor id="400647" joined="2007-03-09"/>
+		<cosponsor id="409888" joined="2007-03-09"/>
+		<cosponsor id="400285" joined="2007-03-09"/>
+		<cosponsor id="400130" joined="2007-03-09"/>
+		<cosponsor id="400312" joined="2007-04-16"/>
+		<cosponsor id="400007" joined="2007-03-29"/>
+		<cosponsor id="400245" joined="2007-03-29"/>
+		<cosponsor id="400387" joined="2007-03-29"/>
+		<cosponsor id="400648" joined="2007-03-09"/>
+		<cosponsor id="400017" joined="2007-03-29"/>
+		<cosponsor id="400147" joined="2007-03-09"/>
+		<cosponsor id="400237" joined="2007-03-29"/>
+		<cosponsor id="412240" joined="2007-03-26"/>
+		<cosponsor id="400320" joined="2007-03-09"/>
+		<cosponsor id="400178" joined="2007-03-29"/>
+		<cosponsor id="412232" joined="2007-03-09"/>
+		<cosponsor id="400360" joined="2007-04-16"/>
+		<cosponsor id="412236" joined="2007-03-29"/>
+		<cosponsor id="412228" joined="2007-04-20"/>
+		<cosponsor id="400047" joined="2007-03-09"/>
+		<cosponsor id="400283" joined="2007-03-26"/>
+		<cosponsor id="400286" joined="2007-03-09"/>
+		<cosponsor id="400033" joined="2007-04-16"/>
+		<cosponsor id="400114" joined="2007-03-09"/>
+		<cosponsor id="400062" joined="2007-04-16"/>
+		<cosponsor id="400321" joined="2007-03-09"/>
+		<cosponsor id="400435" joined="2007-03-26"/>
+		<cosponsor id="412233" joined="2007-03-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1173416400" datetime="2007-03-09"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1175140800" datetime="2007-03-29"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1175140800" datetime="2007-03-29" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1177350060" datetime="2007-04-23T14:41:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1177350120" datetime="2007-04-23T14:42:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3733-3735"/></action>
+		<action date="1177350120" datetime="2007-04-23T14:42:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1434.</text></action>
+		<action date="1177351380" datetime="2007-04-23T15:03:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1177365780" datetime="2007-04-23T19:03:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3742"/></action>
+		<vote date="1177366320" how="roll" roll="246" datetime="2007-04-23T19:12:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 334 - 53, 3 Present (Roll no. 246).</text><reference label="text" ref="CR H3733"/></vote>
+		<action date="1177387200" datetime="2007-04-24"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1181102400" datetime="2007-06-06"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+		<calendar date="1185940800" datetime="2007-08-01" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1185940800" datetime="2007-08-01"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="305" date="1185940800" datetime="2007-08-01" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 305.</text></calendar>
+		<vote date="1186113600" how="by Unanimous Consent" datetime="2007-08-03" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10978-10979"/></vote>
+		<topresident date="1186113600" datetime="2007-08-03" ><text>Cleared for White House.</text></topresident>
+		<action date="1186200000" datetime="2007-08-04"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1186372800" datetime="2007-08-06" ><text>Presented to President.</text></topresident>
+		<signed date="1186632000" datetime="2007-08-09" ><text>Signed by President.</text></signed>
+		<enacted number="110-62" date="1186632000" datetime="2007-08-09" type="public" ><text>Became Public Law No: 110-62.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/9/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 896 Pittsburgh Street in Springdale, Pennsylvania, as the &quot;Rachel Carson Post Office Building.&quot; 
+	</summary>
+</bill>

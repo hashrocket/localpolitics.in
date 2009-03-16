@@ -1,0 +1,32 @@
+<bill session="110" type="sr" number="490" updated="2009-01-09T20:59:27-05:00">
+	<status><vote date="1222142400" datetime="2008-09-23" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1206936000" datetime="2008-03-31"/>
+	<titles>
+		<title type="official" as="introduced">A resolution recognizing the Alvin Ailey American Dance Theater for 50 years of service to the performing arts.</title>
+	</titles>
+	<sponsor id="300022"/>
+	<cosponsors>
+		<cosponsor id="300087" joined="2008-03-31"/>
+	</cosponsors>
+	<actions>
+		<action date="1206936000" datetime="2008-03-31"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S2237"/></action>
+		<action date="1222142400" datetime="2008-09-23"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S9344"/></action>
+		<vote date="1222142400" how="by Unanimous Consent" datetime="2008-09-23" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S9344"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/23/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Recognizes and commends the Alvin Ailey American Dance Theater (AAADT) for 50 years of service as a cultural ambassador of the United States to the world, by bringing world-class American modern dance to people around the globe.<br/>Recognizes that: (1) AAADT has been a true pioneer in the world of dance by establishing an extended cultural community that provides dance performances, training, and community programs to all people while using the beauty and humanity of African-American heritage and other cultures to unite people; and (2) the Ailey II company, the Ailey School, and the extensive and innovative Arts in Education and Community Programs of AAADT train future generations of dancers and choreographers while exposing young people to the arts. 
+	</summary>
+</bill>

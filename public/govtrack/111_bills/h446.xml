@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="446" updated="2009-03-07T10:40:06-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">EXPENSE Act of 2009</title>
+		<title type="short" as="introduced">Expensing Property Expands our Nation's Strong Economy Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal certain limitations on the expensing of section 179 property, to allow taxpayers to elect shorter recovery periods for purposes of determining the deduction for depreciation, and for other purposes.</title>
+	</titles>
+	<sponsor id="400367"/>
+	<cosponsors>
+		<cosponsor id="400115" joined="2009-01-09"/>
+		<cosponsor id="400655" joined="2009-01-09"/>
+		<cosponsor id="400264" joined="2009-01-09"/>
+		<cosponsor id="400365" joined="2009-01-09"/>
+		<cosponsor id="400405" joined="2009-01-09"/>
+		<cosponsor id="400654" joined="2009-01-09"/>
+		<cosponsor id="400656" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Business investment and capital"/>
+		<term name="Income tax deductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Expensing Property Expands our Nation's Strong Economy Act of 2009 or the EXPENSE Act of 2009 - Amends the Internal Revenue Code to: (1) repeal the limitations on the expensing of depreciable business assets; and (2) allow taxpers to elect a two-year recovery period for depreciable property.<br/>
+	</summary>
+</bill>

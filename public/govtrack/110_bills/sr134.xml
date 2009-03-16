@@ -1,0 +1,38 @@
+<bill session="110" type="sr" number="134" updated="2009-01-09T20:15:11-05:00">
+	<status><vote date="1189137600" datetime="2007-09-07" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1175140800" datetime="2007-03-29"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating September 2007 as &quot;Adopt a School Library Month&quot;.</title>
+	</titles>
+	<sponsor id="300038"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2007-04-18"/>
+		<cosponsor id="300024" joined="2007-03-29"/>
+		<cosponsor id="300023" joined="2007-04-18"/>
+		<cosponsor id="400194" joined="2007-05-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1175140800" datetime="2007-03-29"><text>Sponsor introductory remarks on measure. (CR S4215)</text></action>
+		<action date="1175140800" datetime="2007-03-29"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S4215"/></action>
+		<calendar date="1189051200" datetime="2007-09-06" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1189051200" datetime="2007-09-06"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="342" date="1189051200" datetime="2007-09-06" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 342.</text></calendar>
+		<vote date="1189137600" how="by Unanimous Consent" datetime="2007-09-07" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S11278-11279"/><reference label="text as passed Senate" ref="CR S11278"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/7/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates September 2007 as &quot;Adopt a School Library Month&quot; to raise public awareness about the important role school libraries play in the academic achievement of children. 
+	</summary>
+</bill>

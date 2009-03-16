@@ -1,0 +1,78 @@
+<bill session="110" type="h" number="5781" updated="2009-01-09T04:50:21-05:00">
+	<status><vote date="1213897140" datetime="2008-06-19T14:39:00-04:00" where="h" result="pass" how="roll" roll="428"/></status>
+
+	<introduced date="1208145600" datetime="2008-04-14"/>
+	<titles>
+		<title type="short" as="introduced">Federal Employees Paid Parental Leave Act of 2008</title>
+		<title type="short" as="reported to house">Federal Employees Paid Parental Leave Act of 2008</title>
+		<title type="short" as="passed house">Federal Employees Paid Parental Leave Act of 2008</title>
+		<title type="official" as="introduced">To provide that 8 of the 12 weeks of parental leave made available to a Federal employee shall be paid leave, and for other purposes.</title>
+	</titles>
+	<sponsor id="400251"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2008-04-14"/>
+		<cosponsor id="400227" joined="2008-04-14"/>
+		<cosponsor id="412215" joined="2008-04-14"/>
+		<cosponsor id="400130" joined="2008-04-14"/>
+		<cosponsor id="400098" joined="2008-04-14"/>
+		<cosponsor id="412223" joined="2008-04-14"/>
+		<cosponsor id="400103" joined="2008-04-14"/>
+		<cosponsor id="400259" joined="2008-04-14"/>
+		<cosponsor id="400436" joined="2008-04-14"/>
+		<cosponsor id="400653" joined="2008-04-14"/>
+		<cosponsor id="400360" joined="2008-04-14"/>
+		<cosponsor id="400366" joined="2008-04-14"/>
+		<cosponsor id="400189" joined="2008-04-14"/>
+		<cosponsor id="400415" joined="2008-04-14"/>
+		<cosponsor id="400093" joined="2008-04-14"/>
+		<cosponsor id="412212" joined="2008-04-14"/>
+		<cosponsor id="400283" joined="2008-04-14"/>
+		<cosponsor id="400090" joined="2008-04-14"/>
+		<cosponsor id="400240" joined="2008-04-14"/>
+		<cosponsor id="400025" joined="2008-04-14"/>
+		<cosponsor id="400278" joined="2008-04-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1208145600" datetime="2008-04-14"><text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1208145600" datetime="2008-04-14"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1208145600" datetime="2008-04-14"><text>Referred to House House Administration</text></action>
+		<action date="1208232000" datetime="2008-04-15"><committee name="House Oversight and Government Reform"/><text>Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia.</text></action>
+		<action date="1208318400" datetime="2008-04-16"><committee name="House Oversight and Government Reform" subcommittee="Federal Workforce, Post Office, and the District of Columbia"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1208318400" datetime="2008-04-16"><committee name="House Oversight and Government Reform" subcommittee="Federal Workforce, Post Office, and the District of Columbia"/><text>Forwarded by Subcommittee to Full Committee .</text></action>
+		<action date="1208318400" datetime="2008-04-16"><committee name="House Oversight and Government Reform"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1208318400" datetime="2008-04-16" ><committee name="House Oversight and Government Reform"/><text>Ordered to be Reported by the Yeas and Nays: 21 - 10.</text></calendar>
+		<action date="1210278060" datetime="2008-05-08T17:21:00-04:00"><text>Reported (Amended) by the Committee on Oversight and Government Reform, H. Rept. 110-624, Part I.</text></action>
+		<action date="1210278180" datetime="2008-05-08T17:23:00-04:00"><text>Committee on House Administration discharged.</text></action>
+		<calendar number="389" date="1210278180" datetime="2008-05-08T17:23:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 389.</text></calendar>
+		<action date="1213729680" datetime="2008-06-17T16:08:00-04:00"><text>Supplemental report filed by the Committee on Oversight and Government Reform, H. Rept. 110-624, Part II.</text></action>
+		<action date="1213738800" datetime="2008-06-17T18:40:00-04:00"><text>Rules Committee Resolution H. Res. 1277 Reported to House. Rule provides for consideration of H.R. 5781 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Oversight and Government Reform now printed in the bill shall be considered as adopted.</text></action>
+		<action date="1213887120" datetime="2008-06-19T11:52:00-04:00"><text>Rule H. Res. 1277 passed House.</text></action>
+		<action date="1213930920" datetime="2008-06-19T12:02:00-04:00"><text>Considered under the provisions of rule H. Res. 1277.</text><reference label="consideration" ref="CR H5595-5607, H5608-5611"/><reference label="text of measure as introduced" ref="CR H5595-5596"/><reference label="text of measure as reported in House" ref="CR H5596-5597"/></action>
+		<action date="1213930920" datetime="2008-06-19T12:02:00-04:00"><text>Rule provides for consideration of H.R. 5781 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Oversight and Government Reform now printed in the bill shall be considered as adopted.</text></action>
+		<action date="1213930980" datetime="2008-06-19T12:03:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H.R. 5781.</text></action>
+		<action date="1213891980" datetime="2008-06-19T13:13:00-04:00"><text>DEBATE - Pursuant to the provisions of H.Res. 1277, the House proceeded with 10 minutes of debate on the Davis(IL) amendment pending reservation of a point of order. Subsequently, the reservation was removed.</text></action>
+		<action date="1213894680" datetime="2008-06-19T13:58:00-04:00"><text>Mr. Jordan moved to recommit with instructions to Oversight and Government.</text><reference label="consideration" ref="CR H5608-5610"/><reference label="text" ref="CR H5608"/></action>
+		<action date="1213894740" datetime="2008-06-19T13:59:00-04:00"><text>DEBATE - The House proceeded with 10 minutes of debate on the Jordan motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment that an employee who is a father and who is not in compliance with a court ordered child support arrangement shall not be eligible for any paid leave.</text></action>
+		<action date="1213895340" datetime="2008-06-19T14:09:00-04:00"><text>The previous question on the motion to recommit with instructions was ordered without objection.</text><reference label="consideration" ref="CR H5609"/></action>
+		<action date="1213896720" datetime="2008-06-19T14:32:00-04:00"><text>On motion to recommit with instructions Failed by the Yeas and Nays: 206 - 220 (Roll no. 427).</text><reference label="consideration" ref="CR H5609-5610"/></action>
+		<vote date="1213897140" how="roll" roll="428" datetime="2008-06-19T14:39:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed by the Yeas and Nays: 278 - 146 (Roll no. 428).</text></vote>
+		<action date="1213897200" datetime="2008-06-19T14:40:00-04:00"><text>The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 5781.</text></action>
+		<action date="1213934400" datetime="2008-06-20"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1216612800" datetime="2008-07-21"><committee name="House House Administration"/><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/19/2008--Passed House amended. Federal Employees Paid Parental Leave Act of 2008 - Allows federal employees to substitute any available paid leave for any leave without pay available for either the: (1) birth of a child; or (2) placement of a child with the employee for either adoption or foster care. Makes available for any of the 12 weeks of leave an employee is entitled to for such purposes: (1) four administrative weeks of paid parental leave in connection with the birth or placement involved; and (2) any accumulated annual or sick leave. Authorizes the Director of the Office of Personnel Management (OPM) to increase the amount of paid parental leave available to up to eight administrative workweeks, based on the consideration of: (1) the benefits provided to the federal government of offering increased paid parental leave, including enhanced recruitment and retention of employees; (2) the cost to the federal government of increasing the amount of paid parental leave that is available to employees; (3) trends in the private sector and in state and local governments with respect to offering paid parental leave; and (4) the federal government's role as a model employer. Amends the Congressional Accountability Act of 1995 to allow the same substitution for covered congressional employees.<br/>Amends the Family and Medical Leave Act of 1993 to allow the same substitution for Government Accountability Office (GAO) and Library of Congress employees.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="110" type="hr" number="413" updated="2009-01-09T08:44:03-05:00">
+	<status><vote date="1179843840" datetime="2007-05-22T11:24:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1179374400" datetime="2007-05-17"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the service of United States Merchant Marine veterans.</title>
+	</titles>
+	<sponsor id="400133"/>
+	<cosponsors>
+		<cosponsor id="412219" joined="2007-05-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1179374400" datetime="2007-05-17"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1179842820" datetime="2007-05-22T11:07:00-04:00"><text>Mr. Cummings moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1179842880" datetime="2007-05-22T11:08:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5544-5547"/></action>
+		<action date="1179842880" datetime="2007-05-22T11:08:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 413.</text></action>
+		<vote date="1179843840" how="by voice vote" datetime="2007-05-22T11:24:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H5544-5545"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/22/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes, on National Maritime Day, the heroic and invaluable sacrifices that the U.S. Merchant Marine veterans have made to help ensure our nation's prosperity and safety.<br/>
+	</summary>
+</bill>

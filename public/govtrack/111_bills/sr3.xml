@@ -1,0 +1,32 @@
+<bill session="111" type="sr" number="3" updated="2009-03-07T14:38:50-05:00">
+	<status><vote date="1231218000" datetime="2009-01-06" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">A resolution fixing the hour of daily meeting of the Senate.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="300072" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<vote date="1231218000" how="by Unanimous Consent" datetime="2009-01-06" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6"/><reference label="text as passed Senate" ref="CR S6"/><reference label="text of measure as introduced" ref="CR S147"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional operations and organization"/>
+		<term name="Senate"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Sets the daily meeting of the Senate at 12 Noon unless otherwise ordered.<br/>
+	</summary>
+</bill>

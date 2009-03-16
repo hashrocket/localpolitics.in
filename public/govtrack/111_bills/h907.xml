@@ -1,0 +1,31 @@
+<bill session="111" type="h" number="907" updated="2009-03-07T11:35:02-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for a livestock energy investment credit.</title>
+	</titles>
+	<sponsor id="400400"/>
+	<cosponsors>
+		<cosponsor id="400297" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="1158" />
+		<bill relation="unknown" session="111" type="s" number="306" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Introduced.<br/>Amends the Internal Revenue Code to allow a business-related tax credit for: (1) the production of renewable energy from qualified energy feedstock using a technology verified by the Environmental Protection Agency (EPA); and (2) the sale or use of such energy. Defines &quot;qualified energy feedstock&quot; to include manure of livestock, any nonhazardous, organic agricultural or food industry byproduct or waste material derived from renewable biomass, solid wood waste materials, or agricultural or forestry crops. Allows such credit to offset alternative minimum tax (AMT) liability.<br/>
+	</summary>
+</bill>

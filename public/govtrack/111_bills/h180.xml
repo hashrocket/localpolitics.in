@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="180" updated="2009-03-07T10:08:59-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Medicaid Newborn Coverage Act of 2009</title>
+		<title type="official" as="introduced">To amend title XIX of the Social Security Act to waive the requirement for proof of citizenship during first year of life for children born in the United States to a Medicaid-eligible mother.</title>
+	</titles>
+	<sponsor id="400366"/>
+	<cosponsors>
+		<cosponsor id="400347" joined="2009-01-06"/>
+		<cosponsor id="400162" joined="2009-01-06"/>
+		<cosponsor id="400409" joined="2009-01-06"/>
+		<cosponsor id="400262" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Border security and unlawful immigration"/>
+		<term name="Child health"/>
+		<term name="Citizenship and naturalization"/>
+		<term name="Family relationships"/>
+		<term name="Immigrant health and welfare"/>
+		<term name="Immigration status and procedures"/>
+		<term name="Medicaid"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Medicaid Newborn Coverage Act of 2009 - Amends title XIX (Medicaid) of the Social Security Act to waive the requirement for proof of citizenship during the first year of life for children born in the United States to a Medicaid-eligible mother.<br/>
+	</summary>
+</bill>

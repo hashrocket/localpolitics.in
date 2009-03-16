@@ -1,0 +1,57 @@
+<bill session="110" type="h" number="3681" updated="2009-01-09T00:35:13-05:00">
+	<status><vote date="1211341380" datetime="2008-05-20T12:43:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1190865600" datetime="2007-09-27"/>
+	<titles>
+		<title type="short" as="introduced">Veterans Benefits Awareness Act of 2007</title>
+		<title type="short" as="reported to house">Veterans Benefits Awareness Act of 2008</title>
+		<title type="short" as="passed house">Veterans Benefits Awareness Act of 2008</title>
+		<title type="official" as="introduced">To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to advertise in the national media to promote awareness of benefits under laws administered by the Secretary.</title>
+	</titles>
+	<sponsor id="400040"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2008-03-11"/>
+		<cosponsor id="400133" joined="2008-03-12"/>
+		<cosponsor id="412229" joined="2007-10-25"/>
+		<cosponsor id="412234" joined="2007-10-25"/>
+		<cosponsor id="400385" joined="2007-10-22"/>
+		<cosponsor id="400443" joined="2007-09-27"/>
+		<cosponsor id="400049" joined="2008-03-04"/>
+		<cosponsor id="412187" joined="2008-01-15"/>
+		<cosponsor id="412222" joined="2008-05-14"/>
+		<cosponsor id="400056" joined="2008-05-15"/>
+		<cosponsor id="400628" joined="2008-01-15"/>
+		<cosponsor id="400043" joined="2008-02-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1190865600" datetime="2007-09-27"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1191211200" datetime="2007-10-01"><text>Referred to the Subcommittee on Economic Opportunity.</text></action>
+		<action date="1208318400" datetime="2008-04-16"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1208923200" datetime="2008-04-23"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1208923200" datetime="2008-04-23"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1209528000" datetime="2008-04-30"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1209528000" datetime="2008-04-30" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1210881660" datetime="2008-05-15T17:01:00-04:00"><text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-644.</text></action>
+		<calendar number="405" date="1210881720" datetime="2008-05-15T17:02:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 405.</text></calendar>
+		<action date="1211340540" datetime="2008-05-20T12:29:00-04:00"><text>Mr. Filner moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1211340540" datetime="2008-05-20T12:29:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4185-4187"/></action>
+		<action date="1211340540" datetime="2008-05-20T12:29:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3681.</text></action>
+		<vote date="1211341380" how="by voice vote" datetime="2008-05-20T12:43:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H4185"/></vote>
+		<action date="1211342400" datetime="2008-05-21"><text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/2008--Passed House amended. (This measure has not been amended since it was reported to the House on May 15, 2008. The summary of that version is repeated here.) Veterans Benefits Awareness Act of 2008 - Authorizes the Secretary of Veterans Affairs to purchase advertising in national media outlets to promote awareness of veterans' benefits, including assistance for homeless veterans, the promotion of veteran-owned small businesses, opportunities for employment in the Department of Veterans Affairs (VA), and for education, training, compensation, pension, vocational rehabilitation, and health care benefits, as well as mental health care (including the prevention of suicide among veterans).<br/>
+	</summary>
+</bill>

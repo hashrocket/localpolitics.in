@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="809" updated="2009-01-09T09:32:44-05:00">
+	<status><vote date="1194620700" datetime="2007-11-09T11:05:00-05:00" where="h" result="pass" how="roll" roll="1078"/></status>
+
+	<introduced date="1194498000" datetime="2007-11-08"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 3996) to amend the Internal Revenue Code of 1986 to extend certain expiring provisions, and for other purposes.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1194566820" datetime="2007-11-08T20:07:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-438, by Mr. McGovern.</text></action>
+		<action date="1194566820" datetime="2007-11-08T20:07:00-05:00"><text>All points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill shall be considered as adopted and the bill, as amended.</text></action>
+		<calendar date="1194566820" datetime="2007-11-08T20:07:00-05:00" ><text>Placed on the House Calendar, Calendar No. 152.</text></calendar>
+		<action date="1194614280" datetime="2007-11-09T09:18:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H13417-13426"/></action>
+		<action date="1194614340" datetime="2007-11-09T09:19:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 809.</text></action>
+		<action date="1194619920" datetime="2007-11-09T10:52:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 215 - 185 (Roll no. 1077).</text><reference label="consideration" ref="CR H13425-13426"/></action>
+		<vote date="1194620700" how="roll" roll="1078" datetime="2007-11-09T11:05:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 185 (Roll no. 1078).</text><reference label="text" ref="CR H13417"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/9/2007--Passed House without amendment. Sets forth the rule for consideration of the bill (H.R. 3996) to amend the Internal Revenue Code of 1986 to extend certain expiring provisions. 
+	</summary>
+</bill>

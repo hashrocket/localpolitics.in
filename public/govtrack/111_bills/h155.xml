@@ -1,0 +1,60 @@
+<bill session="111" type="h" number="155" updated="2009-03-07T10:05:59-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Suspension of Federal Income Tax on Unemployment Benefits Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to suspend the taxation of unemployment compensation for 2 years.</title>
+	</titles>
+	<sponsor id="400264"/>
+	<cosponsors>
+		<cosponsor id="400224" joined="2009-01-27"/>
+		<cosponsor id="400279" joined="2009-01-28"/>
+		<cosponsor id="400147" joined="2009-02-04"/>
+		<cosponsor id="400219" joined="2009-01-27"/>
+		<cosponsor id="400367" joined="2009-01-22"/>
+		<cosponsor id="400311" joined="2009-01-13"/>
+		<cosponsor id="400335" joined="2009-01-28"/>
+		<cosponsor id="400051" joined="2009-02-04"/>
+		<cosponsor id="400057" joined="2009-02-02"/>
+		<cosponsor id="400158" joined="2009-01-22"/>
+		<cosponsor id="400376" joined="2009-02-02"/>
+		<cosponsor id="400570" joined="2009-01-21"/>
+		<cosponsor id="400089" joined="2009-02-10"/>
+		<cosponsor id="400340" joined="2009-01-27"/>
+		<cosponsor id="400660" joined="2009-01-22"/>
+		<cosponsor id="400385" joined="2009-01-26"/>
+		<cosponsor id="400342" joined="2009-02-02"/>
+		<cosponsor id="400211" joined="2009-03-02"/>
+		<cosponsor id="400643" joined="2009-02-02"/>
+		<cosponsor id="412256" joined="2009-02-04"/>
+		<cosponsor id="400440" joined="2009-01-27"/>
+		<cosponsor id="400032" joined="2009-01-26"/>
+		<cosponsor id="400274" joined="2009-01-26"/>
+		<cosponsor id="412311" joined="2009-02-09"/>
+		<cosponsor id="412299" joined="2009-02-02"/>
+		<cosponsor id="400405" joined="2009-02-02"/>
+		<cosponsor id="412255" joined="2009-02-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action date="1231822800" datetime="2009-01-13"><text>Sponsor introductory remarks on measure. (CR E69)</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="155" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax exclusion"/>
+		<term name="Unemployment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Suspension of Federal Income Tax on Unemployment Benefits Act of 2009 - Amends the Internal Revenue Code to suspend, for taxable years beginning after December 31, 2008, and before January 1, 2011, the taxation of unemployment compensation.<br/>
+	</summary>
+</bill>

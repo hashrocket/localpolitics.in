@@ -1,0 +1,41 @@
+<bill session="110" type="h" number="3528" updated="2009-01-09T00:16:57-05:00">
+	<status><enacted date="1190865600" datetime="2007-09-27" /></status>
+
+	<introduced date="1189742400" datetime="2007-09-14"/>
+	<titles>
+		<title type="official" as="introduced">To provide authority to the Peace Corps to provide separation pay for host country resident personal services contractors of the Peace Corps.</title>
+	</titles>
+	<sponsor id="400231"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1189742400" datetime="2007-09-14"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1190051220" datetime="2007-09-17T14:47:00-04:00"><text>Mr. Faleomavaega moved to suspend the rules and pass the bill.</text></action>
+		<action date="1190051220" datetime="2007-09-17T14:47:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10384-10385"/></action>
+		<action date="1190051220" datetime="2007-09-17T14:47:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3528.</text></action>
+		<vote date="1190051460" how="by voice vote" datetime="2007-09-17T14:51:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H10384"/></vote>
+		<action date="1190088000" datetime="2007-09-18"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1190174400" how="by Unanimous Consent" datetime="2007-09-19" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S11773-11774"/></vote>
+		<topresident date="1190174400" datetime="2007-09-19" ><text>Cleared for White House.</text></topresident>
+		<action date="1190260800" datetime="2007-09-20"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1190606400" datetime="2007-09-24" ><text>Presented to President.</text></topresident>
+		<signed date="1190865600" datetime="2007-09-27" ><text>Signed by President.</text></signed>
+		<enacted number="110-86" date="1190865600" datetime="2007-09-27" type="public" ><text>Became Public Law No: 110-86.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/27/2007--Public Law. (This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.) Establishes in the Treasury a fund for the Peace Corps to provide separation payments for host country resident personal services contractors of the Peace Corps. Makes fund amounts beginning in FY2007 available without fiscal year limitation for such payments.<br/>
+	</summary>
+</bill>

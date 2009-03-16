@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="400" updated="2009-03-07T10:34:44-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Protecting Consumers through Proper Forbearance Procedures Act</title>
+		<title type="official" as="introduced">To amend the Communications Act of 1934 to prevent the granting of regulatory forbearance by default.</title>
+	</titles>
+	<sponsor id="400110"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="2009-01-09"/>
+		<cosponsor id="400155" joined="2009-01-09"/>
+		<cosponsor id="400166" joined="2009-01-09"/>
+		<cosponsor id="400124" joined="2009-01-09"/>
+		<cosponsor id="400043" joined="2009-01-09"/>
+		<cosponsor id="400391" joined="2009-01-09"/>
+		<cosponsor id="400114" joined="2009-01-09"/>
+		<cosponsor id="400062" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Sponsor introductory remarks on measure. (CR E149)</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Science, technology, communications"/>
+		<term name="Administrative remedies"/>
+		<term name="Broadcasting, cable, digital media"/>
+		<term name="Federal Communications Commission (FCC)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Protecting Consumers through Proper Forbearance Procedures Act - Amends the Communications Act of 1934 to require the Federal Communications Commission (FCC) to grant or deny, within one year, a petition by one or more telecommunications carriers or classes of carriers requesting that the FCC forbear from applying any regulation or provision under the Act. (Current law deems such a petition granted if not denied within one year.)<br/>
+	</summary>
+</bill>

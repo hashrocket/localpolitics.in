@@ -1,0 +1,36 @@
+<bill session="111" type="hc" number="69" updated="2009-03-07T09:33:23-05:00">
+	<status><introduced date="1236229200" datetime="2009-03-05"/></status>
+
+	<introduced date="1236229200" datetime="2009-03-05"/>
+	<titles>
+		<title type="official" as="introduced">Honoring the 100th anniversary of Fort McCoy in Sparta, Wisconsin.</title>
+	</titles>
+	<sponsor id="400218"/>
+	<cosponsors>
+		<cosponsor id="400661" joined="2009-03-05"/>
+		<cosponsor id="400013" joined="2009-03-05"/>
+		<cosponsor id="412240" joined="2009-03-05"/>
+		<cosponsor id="400318" joined="2009-03-05"/>
+		<cosponsor id="400300" joined="2009-03-05"/>
+		<cosponsor id="400351" joined="2009-03-05"/>
+		<cosponsor id="400365" joined="2009-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1236229200" datetime="2009-03-05"><text>Referred to the House Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

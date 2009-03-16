@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="1036" updated="2009-03-07T11:50:36-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Veterans Physical Therapy Services Improvement Act of 2009</title>
+		<title type="official" as="introduced">To amend title 38, United States Code, to establish the position of Director of Physical Therapy Service within the Veterans Health Administration and to establish a fellowship program for physical therapists in the areas of geriatrics, amputee rehabilitation, polytrauma care, and rehabilitation research.</title>
+	</titles>
+	<sponsor id="400443"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2009-02-12"/>
+		<cosponsor id="400048" joined="2009-02-26"/>
+		<cosponsor id="412204" joined="2009-02-12"/>
+		<cosponsor id="412232" joined="2009-02-12"/>
+		<cosponsor id="400638" joined="2009-02-26"/>
+		<cosponsor id="400274" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Veterans Physical Therapy Services Improvement Act of 2009 - Establishes in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA): (1) the position of Director of Physical Therapy Service; and (2) degree and license requirements for appointment to a physical therapist position. Establishes the Department of Veterans Affairs Geriatric, Amputee, Polytrauma, and Rehabilitation Research Fellowships Program to assist in the recruitment of qualified physical therapists for VHA positions specializing in the areas of geriatrics, amputee rehabilitation, polytrauma care, and rehabilitation research. 
+	</summary>
+</bill>

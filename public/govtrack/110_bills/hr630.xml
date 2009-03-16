@@ -1,0 +1,90 @@
+<bill session="110" type="hr" number="630" updated="2009-01-09T09:10:37-05:00">
+	<status><vote date="1191952740" datetime="2007-10-09T14:59:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1188878400" datetime="2007-09-04"/>
+	<titles>
+		<title type="official" as="introduced">Congratulating the Warner Robins Little League Baseball Team from Warner Robins, Georgia, on winning the 2007 Little League World Series Championship.</title>
+	</titles>
+	<sponsor id="400254"/>
+	<cosponsors>
+		<cosponsor id="400661" joined="2007-09-24"/>
+		<cosponsor id="400627" joined="2007-09-04"/>
+		<cosponsor id="400133" joined="2007-09-18"/>
+		<cosponsor id="400177" joined="2007-09-24"/>
+		<cosponsor id="412252" joined="2007-09-04"/>
+		<cosponsor id="400099" joined="2007-09-04"/>
+		<cosponsor id="400160" joined="2007-09-18"/>
+		<cosponsor id="400155" joined="2007-09-24"/>
+		<cosponsor id="400263" joined="2007-09-18"/>
+		<cosponsor id="400626" joined="2007-09-04"/>
+		<cosponsor id="400242" joined="2007-09-04"/>
+		<cosponsor id="400282" joined="2007-09-24"/>
+		<cosponsor id="400317" joined="2007-09-18"/>
+		<cosponsor id="412234" joined="2007-09-18"/>
+		<cosponsor id="412225" joined="2007-09-24"/>
+		<cosponsor id="400302" joined="2007-09-24"/>
+		<cosponsor id="400122" joined="2007-09-24"/>
+		<cosponsor id="400151" joined="2007-09-04"/>
+		<cosponsor id="400443" joined="2007-09-24"/>
+		<cosponsor id="400323" joined="2007-09-24"/>
+		<cosponsor id="400396" joined="2007-09-24"/>
+		<cosponsor id="412208" joined="2007-09-24"/>
+		<cosponsor id="400262" joined="2007-09-26"/>
+		<cosponsor id="400030" joined="2007-09-04"/>
+		<cosponsor id="400230" joined="2007-09-24"/>
+		<cosponsor id="400048" joined="2007-09-18"/>
+		<cosponsor id="400044" joined="2007-09-18"/>
+		<cosponsor id="412193" joined="2007-09-24"/>
+		<cosponsor id="412199" joined="2007-09-04"/>
+		<cosponsor id="400631" joined="2007-09-18"/>
+		<cosponsor id="400001" joined="2007-09-18"/>
+		<cosponsor id="400395" joined="2007-09-24"/>
+		<cosponsor id="400166" joined="2007-09-24"/>
+		<cosponsor id="400399" joined="2007-09-24"/>
+		<cosponsor id="400140" joined="2007-09-24"/>
+		<cosponsor id="400383" joined="2007-09-24"/>
+		<cosponsor id="412204" joined="2007-09-24"/>
+		<cosponsor id="400645" joined="2007-09-24"/>
+		<cosponsor id="400281" joined="2007-09-24"/>
+		<cosponsor id="400118" joined="2007-09-24"/>
+		<cosponsor id="400628" joined="2007-09-04"/>
+		<cosponsor id="400266" joined="2007-09-18"/>
+		<cosponsor id="400125" joined="2007-10-01"/>
+		<cosponsor id="400221" joined="2007-09-04"/>
+		<cosponsor id="400201" joined="2007-09-18"/>
+		<cosponsor id="400109" joined="2007-09-18"/>
+		<cosponsor id="400185" joined="2007-09-24"/>
+		<cosponsor id="400641" joined="2007-09-24"/>
+		<cosponsor id="400097" joined="2007-09-24"/>
+		<cosponsor id="400286" joined="2007-09-18"/>
+		<cosponsor id="400240" joined="2007-09-04"/>
+		<cosponsor id="400363" joined="2007-09-04"/>
+		<cosponsor id="400141" joined="2007-09-24"/>
+		<cosponsor id="400345" joined="2007-09-24"/>
+		<cosponsor id="400114" joined="2007-09-18"/>
+	</cosponsors>
+	<actions>
+		<action date="1188878400" datetime="2007-09-04"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1191470400" datetime="2007-10-04"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1191470400" datetime="2007-10-04" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1191952140" datetime="2007-10-09T14:49:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1191952140" datetime="2007-10-09T14:49:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11330-11331"/></action>
+		<action date="1191952140" datetime="2007-10-09T14:49:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 630.</text></action>
+		<vote date="1191952740" how="by voice vote" datetime="2007-10-09T14:59:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H11330"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/9/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Congratulates the Warner Robins Little League Baseball Team from Warner Robins, Georgia, on winning the 2007 Little League World Series Championship. 
+	</summary>
+</bill>

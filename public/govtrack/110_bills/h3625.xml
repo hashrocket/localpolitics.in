@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="3625" updated="2009-01-09T00:28:33-05:00">
+	<status><enacted date="1191124800" datetime="2007-09-30" /></status>
+
+	<introduced date="1190260800" datetime="2007-09-20"/>
+	<titles>
+		<title type="official" as="introduced">To make permanent the waiver authority of the Secretary of Education with respect to student financial assistance during a war or other military operation or national emergency.</title>
+	</titles>
+	<sponsor id="412232"/>
+	<cosponsors>
+		<cosponsor id="400179" joined="2007-09-20"/>
+		<cosponsor id="400278" joined="2007-09-20"/>
+	</cosponsors>
+	<actions>
+		<action date="1190260800" datetime="2007-09-20"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1190737440" datetime="2007-09-25T13:24:00-04:00"><text>Mr. Sestak moved to suspend the rules and pass the bill.</text></action>
+		<action date="1190737500" datetime="2007-09-25T13:25:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10789-10791"/></action>
+		<action date="1190737500" datetime="2007-09-25T13:25:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3625.</text></action>
+		<vote date="1190738340" how="by voice vote" datetime="2007-09-25T13:39:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H10789"/></vote>
+		<action date="1190779200" datetime="2007-09-26"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1190865600" how="by Unanimous Consent" datetime="2007-09-27" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S12316"/></vote>
+		<topresident date="1190865600" datetime="2007-09-27" ><text>Cleared for White House.</text></topresident>
+		<action date="1190952000" datetime="2007-09-28"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1191038400" datetime="2007-09-29" ><text>Presented to President.</text></topresident>
+		<signed date="1191124800" datetime="2007-09-30" ><text>Signed by President.</text></signed>
+		<enacted number="110-93" date="1191124800" datetime="2007-09-30" type="public" ><text>Became Public Law No: 110-93.</text></enacted>
+		<action date="1192593600" datetime="2007-10-17"><text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/30/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Declares the sense of Congress that: (1) the Higher Education Relief Opportunities for Students Act of 2003 addresses the unique situations that active duty military personnel and other affected individuals may face in connection with their enrollment in postsecondary institutions and their federal student loans; and (2) the provisions authorized by such Act should be made permanent, thereby allowing the Secretary of Education to continue providing assistance to active duty service members and other affected individuals and their families. Amends the Higher Education Relief Opportunities for Students Act of 2003 to repeal the termination date of such act, thereby making permanent the Secretary's authority to waive or modify any statutory or regulatory provision applicable to the student financial assistance programs under title IV of the Higher Education Act of 1965 as deemed necessary in connection with a war or other military operation or national emergency.<br/>
+	</summary>
+</bill>

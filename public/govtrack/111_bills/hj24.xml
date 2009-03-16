@@ -1,0 +1,34 @@
+<bill session="111" type="hj" number="24" updated="2009-03-07T09:36:12-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the appointment of David M. Rubenstein as a citizen regent of the Board of Regents of the Smithsonian Institution.</title>
+	</titles>
+	<sponsor id="400663"/>
+	<cosponsors>
+		<cosponsor id="400206" joined="2009-02-12"/>
+		<cosponsor id="400021" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the House Committee on House Administration.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="sj" number="8" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Federal officials"/>
+		<term name="Museums, exhibitions, cultural centers"/>
+		<term name="Smithsonian Institution"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Appoints David M. Rubenstein as a citizen regent of the Board of Regents of the Smithsonian Institution. 
+	</summary>
+</bill>

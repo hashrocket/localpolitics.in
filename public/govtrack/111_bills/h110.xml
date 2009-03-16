@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="110" updated="2009-03-07T10:00:39-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Human Cloning Prohibition Act of 2009</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, to prohibit human cloning.</title>
+	</titles>
+	<sponsor id="400640"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="1050" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Cell biology and embryology"/>
+		<term name="Criminal procedure and sentencing"/>
+		<term name="Genetics"/>
+		<term name="Medical ethics"/>
+		<term name="Medical research"/>
+		<term name="Trade restrictions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Human Cloning Prohibition Act of 2009 - Amends the federal criminal code to prohibit any public or private person or entity, in or affecting interstate commerce, from: (1) performing or attempting to perform human cloning; (2) participating in an attempt to perform human cloning; or (3) shipping, receiving, or importing the product of human cloning for any purpose. Sets forth criminal and civil penalties for violations.<br/>Provides that nothing in this Act shall restrict areas of scientific research not specifically prohibited by this Act, including research in the use of nuclear transfer or other cloning techniques to produce molecules, DNA, cells other than human embryos, tissues, organs, plants, or animals other than humans.<br/>
+	</summary>
+</bill>

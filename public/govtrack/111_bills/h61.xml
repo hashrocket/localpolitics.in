@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="61" updated="2009-03-07T09:54:55-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Federal Prison Bureau Nonviolent Offender Relief Act of 2009</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, to provide an alternate release date for certain nonviolent offenders, and for other purposes.</title>
+	</titles>
+	<sponsor id="400199"/>
+	<cosponsors>
+		<cosponsor id="400093" joined="2009-03-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Correctional facilities and imprisonment"/>
+		<term name="Criminal procedure and sentencing"/>
+		<term name="Violent crime"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Federal Prison Bureau Nonviolent Offender Relief Act of 2009- Amends the federal criminal code to direct the Bureau of Prisons, pursuant to a good time policy, to release a prisoner who has served one half or more of his or her term of imprisonment if that prisoner: (1) has attained age 45; (2) has never been convicted of a crime of violence; and (3) has not engaged in any violation, involving violent conduct, of institutional disciplinary regulations.<br/>
+	</summary>
+</bill>

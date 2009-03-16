@@ -1,0 +1,50 @@
+<bill session="111" type="hr" number="82" updated="2009-03-07T13:15:41-05:00">
+	<status><vote date="1233701760" datetime="2009-02-03T18:56:00-05:00" where="h" result="pass" how="roll" roll="47"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="official" as="introduced">Raising awareness and encouraging prevention of stalking by establishing January 2009 as &quot;National Stalking Awareness Month&quot;.</title>
+	</titles>
+	<sponsor id="400652"/>
+	<cosponsors>
+		<cosponsor id="400663" joined="2009-01-22"/>
+		<cosponsor id="400347" joined="2009-01-22"/>
+		<cosponsor id="400356" joined="2009-01-22"/>
+		<cosponsor id="412263" joined="2009-01-22"/>
+		<cosponsor id="400618" joined="2009-01-22"/>
+		<cosponsor id="400282" joined="2009-01-22"/>
+		<cosponsor id="400251" joined="2009-01-22"/>
+		<cosponsor id="400348" joined="2009-02-03"/>
+		<cosponsor id="400283" joined="2009-01-22"/>
+		<cosponsor id="400656" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1233687600" datetime="2009-02-03T15:00:00-05:00"><text>Mr. Scott (VA) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1233687600" datetime="2009-02-03T15:00:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H887-890"/></action>
+		<action date="1233687600" datetime="2009-02-03T15:00:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 82.</text></action>
+		<action date="1233688920" datetime="2009-02-03T15:22:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1233700260" datetime="2009-02-03T18:31:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H906"/></action>
+		<vote date="1233701760" how="roll" roll="47" datetime="2009-02-03T18:56:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 47).</text><reference label="text" ref="CR H887"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="46" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Assault and harassment offenses"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Crime victims"/>
+		<term name="Law enforcement officers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2009--Introduced.<br/>Urges national and community organizations, private businesses, and the media to promote, through National Stalking Awareness Month, awareness of the crime of stalking.<br/>
+	</summary>
+</bill>

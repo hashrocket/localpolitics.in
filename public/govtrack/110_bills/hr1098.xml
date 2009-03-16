@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="1098" updated="2009-01-09T10:09:42-05:00">
+	<status><vote date="1214513460" datetime="2008-06-26T17:51:00-04:00" where="h" result="pass" how="roll" roll="470"/></status>
+
+	<introduced date="1207800000" datetime="2008-04-10"/>
+	<titles>
+		<title type="official" as="introduced">Supporting the goals and ideals of the Year of the American Veteran.</title>
+	</titles>
+	<sponsor id="400133"/>
+	<cosponsors>
+		<cosponsor id="412250" joined="2008-04-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1207800000" datetime="2008-04-10"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1214342340" datetime="2008-06-24T18:19:00-04:00"><text>Mr. Filner moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1214342400" datetime="2008-06-24T18:20:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5965-5968"/></action>
+		<action date="1214342400" datetime="2008-06-24T18:20:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1098.</text></action>
+		<action date="1214343540" datetime="2008-06-24T18:39:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1214513100" datetime="2008-06-26T17:45:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6145"/></action>
+		<vote date="1214513460" how="roll" roll="470" datetime="2008-06-26T17:51:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 470). (text: CR 6/24/2008 H5965)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/26/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Encourages the American people to recognize and acknowledge the sacrifices the American veteran demonstrates in the name of freedom. Encourages the education of the American people on the many contributions of the American veteran to American society. Supports the goals and ideals of the Year of the American Veteran.<br/>
+	</summary>
+</bill>

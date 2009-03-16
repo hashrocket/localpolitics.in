@@ -1,0 +1,53 @@
+<bill session="111" type="s" number="4" updated="2009-03-07T13:33:27-05:00">
+	<status><calendar date="1231304400" datetime="2009-01-07" /></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Comprehensive Health Reform Act of 2009</title>
+		<title type="official" as="introduced">A bill to guarantee affordable, quality health coverage for all Americans, and for other purposes.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2009-01-21"/>
+		<cosponsor id="412242" joined="2009-01-06"/>
+		<cosponsor id="400272" joined="2009-01-06"/>
+		<cosponsor id="300009" joined="2009-01-06"/>
+		<cosponsor id="400050" joined="2009-01-07"/>
+		<cosponsor id="300059" joined="2009-01-06"/>
+		<cosponsor id="300022" joined="2009-01-06"/>
+		<cosponsor id="300011" joined="2009-01-06"/>
+		<cosponsor id="412246" joined="2009-01-06"/>
+		<cosponsor id="300093" joined="2009-01-06"/>
+		<cosponsor id="412243" joined="2009-01-06"/>
+		<cosponsor id="300060" joined="2009-01-06"/>
+		<cosponsor id="300038" joined="2009-01-06"/>
+		<cosponsor id="300066" joined="2009-01-06"/>
+		<cosponsor id="300087" joined="2009-01-06"/>
+		<cosponsor id="300034" joined="2009-01-06"/>
+		<cosponsor id="300051" joined="2009-01-06"/>
+		<cosponsor id="412326" joined="2009-01-06"/>
+		<cosponsor id="300064" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text><reference label="text of measure as introduced" ref="CR S45"/></action>
+		<calendar date="1231304400" datetime="2009-01-07" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 4.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Health promotion and preventive care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Comprehensive Health Reform Act of 2009 - Calls for Congress to enact, and the President to sign, legislation to guarantee health coverage, improve health care quality and disease prevention, and reduce health care costs for all Americans and the health care system.<br/>
+	</summary>
+</bill>

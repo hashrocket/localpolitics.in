@@ -1,0 +1,70 @@
+<bill session="111" type="h" number="311" updated="2009-03-07T10:24:05-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">Spending Reform Act of 2009</title>
+		<title type="official" as="introduced">To cap discretionary spending, eliminate wasteful and duplicative agencies, reform entitlement programs, and reform the congressional earmark process.</title>
+	</titles>
+	<sponsor id="400046"/>
+	<cosponsors>
+		<cosponsor id="400224" joined="2009-01-21"/>
+		<cosponsor id="400017" joined="2009-01-08"/>
+		<cosponsor id="412309" joined="2009-01-08"/>
+		<cosponsor id="412252" joined="2009-01-08"/>
+		<cosponsor id="400655" joined="2009-01-08"/>
+		<cosponsor id="400320" joined="2009-01-08"/>
+		<cosponsor id="400175" joined="2009-01-08"/>
+		<cosponsor id="400151" joined="2009-01-08"/>
+		<cosponsor id="400005" joined="2009-01-08"/>
+		<cosponsor id="400221" joined="2009-01-08"/>
+		<cosponsor id="400145" joined="2009-01-08"/>
+		<cosponsor id="400016" joined="2009-01-08"/>
+		<cosponsor id="400032" joined="2009-01-08"/>
+		<cosponsor id="412295" joined="2009-01-08"/>
+		<cosponsor id="400141" joined="2009-01-08"/>
+		<cosponsor id="412226" joined="2009-01-08"/>
+		<cosponsor id="412191" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the Committee on the Budget, and in addition to the Committees on Rules, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to House Budget</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to House Rules</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to House Oversight and Government Reform</text></action>
+	</actions>
+	<committees>
+		<committee name="House Budget" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Rules" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Economics and public finance"/>
+		<term name="Accounting and auditing"/>
+		<term name="Advisory bodies"/>
+		<term name="Appropriations"/>
+		<term name="Bank accounts, deposits, capital"/>
+		<term name="Budget deficits and national debt"/>
+		<term name="Budget process"/>
+		<term name="Congressional committees"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="General taxation matters"/>
+		<term name="Government ethics and transparency, public corruption"/>
+		<term name="Government information and archives"/>
+		<term name="Legislative rules and procedure"/>
+		<term name="Performance measurement"/>
+		<term name="Presidents and presidential powers"/>
+		<term name="Public participation and lobbying"/>
+		<term name="Securities"/>
+		<term name="Tariffs"/>
+		<term name="U.S. and foreign investments"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

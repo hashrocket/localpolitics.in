@@ -1,0 +1,41 @@
+<bill session="110" type="hc" number="196" updated="2009-01-08T15:51:52-05:00">
+	<status><vote2 date="1188964800" datetime="2007-09-05" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1185940800" datetime="2007-08-01"/>
+	<titles>
+		<title type="official" as="introduced">Authorizing the use of the rotunda and grounds of the Capitol for a ceremony to award the Congressional Gold Medal to Tenzin Gyatso, the Fourteenth Dalai Lama.</title>
+	</titles>
+	<sponsor id="400047"/>
+	<cosponsors>
+		<cosponsor id="400344" joined="2007-08-01"/>
+		<cosponsor id="400231" joined="2007-08-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1185940800" datetime="2007-08-01"><text>Referred to the Committee on House Administration, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1185940800" datetime="2007-08-01"><text>Referred to House House Administration</text></action>
+		<action date="1185940800" datetime="2007-08-01"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1186027200" datetime="2007-08-02"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1188930420" datetime="2007-09-04T15:27:00-04:00"><text>Committee on House Administration discharged.</text></action>
+		<action date="1188930420" datetime="2007-09-04T15:27:00-04:00"><text>Committee on Transportation discharged.</text></action>
+		<action date="1188930480" datetime="2007-09-04T15:28:00-04:00"><text>Mr. Brady (PA) asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1188930480" datetime="2007-09-04T15:28:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10038"/></action>
+		<vote date="1188930480" how="without objection" datetime="2007-09-04T15:28:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text" ref="CR H10038"/></vote>
+		<vote date="1188964800" how="by Unanimous Consent" datetime="2007-09-05" where="s" type="vote2" result="pass" ><text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S11125"/></vote>
+		<action date="1189051200" datetime="2007-09-06"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/5/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes the use of the Capitol rotunda on October 17, 2007, for a ceremony to award the Congressional Gold Medal to Tenzin Gyatso, the Fourteenth Dalai Lama, in accordance with Public Law 109-287. 
+	</summary>
+</bill>

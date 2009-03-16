@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="959" updated="2009-03-07T11:41:07-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="short" as="introduced">Officer Daniel Faulkner Children of Fallen Heroes Scholarship Act of 2009</title>
+		<title type="official" as="introduced">To increase Federal Pell Grants for the children of fallen public safety officers, and for other purposes.</title>
+	</titles>
+	<sponsor id="412233"/>
+	<cosponsors>
+		<cosponsor id="400648" joined="2009-02-26"/>
+		<cosponsor id="400647" joined="2009-02-26"/>
+		<cosponsor id="400321" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the Committee on Education and Labor, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to House Education and Labor</text></action>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to House Judiciary</text></action>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Education programs funding"/>
+		<term name="Emergency medical services"/>
+		<term name="Family relationships"/>
+		<term name="Fires"/>
+		<term name="Health personnel"/>
+		<term name="Higher education"/>
+		<term name="Law enforcement officers"/>
+		<term name="Student aid and college costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Introduced.<br/>Officer Daniel Faulkner Children of Fallen Heroes Scholarship Act of 2009 - Amends title IV (Student Assistance) of the Higher Education Act of 1965 to eliminate the expected family contribution used in determining Pell Grant eligibility in the case of a student applicant whose parent or guardian died as a result of performing service as a law enforcement officer, firefighter, or member of a rescue squad or ambulance crew. Prohibits any increase in the Pell Grant such students receive by reason of this Act from: (1) factoring into the calculation of their need for other title IV assistance; or (2) reducing the educational assistance some may receive under the Omnibus Crime Control and Safe Streets Act of 1968 as dependents of civilian federal law enforcement officers killed in the line of duty.<br/>
+	</summary>
+</bill>

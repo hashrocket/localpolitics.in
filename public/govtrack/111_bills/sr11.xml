@@ -1,0 +1,38 @@
+<bill session="111" type="sr" number="11" updated="2009-03-07T14:39:45-05:00">
+	<status><vote date="1231390800" datetime="2009-01-08" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="official" as="introduced">A resolution to authorize production of documents to the Department of Defense Inspector General.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="300072" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<vote date="1231390800" how="by Unanimous Consent" datetime="2009-01-08" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S237-238"/><reference label="text as passed Senate" ref="CR S238"/><reference label="text of measure as introduced" ref="CR S235"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional oversight"/>
+		<term name="Department of Defense"/>
+		<term name="Government investigations"/>
+		<term name="Iraq"/>
+		<term name="Middle East"/>
+		<term name="Military operations and strategy"/>
+		<term name="Military procurement, research, weapons development"/>
+		<term name="Public contracts and procurement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes the Chairman and ranking member of the Senate Armed Services Committee, acting jointly, to produce to the Department of Defense (DOD) Inspector General records of the Committee's inquiry into allegations relating to administration of the Army's LOGCAP contract (a contract for logistical support in Iraq).<br/>
+	</summary>
+</bill>

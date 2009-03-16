@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="1015" updated="2009-01-09T09:58:58-05:00">
+	<status><vote date="1204816380" datetime="2008-03-06T11:13:00-05:00" where="h" result="pass" how="roll" roll="104"/></status>
+
+	<introduced date="1204606800" datetime="2008-03-04"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 2857) to reauthorize and reform the national service laws.</title>
+	</titles>
+	<sponsor id="400663"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1204675980" datetime="2008-03-04T20:13:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-539, by Ms. Matsui.</text></action>
+		<action date="1204675980" datetime="2008-03-04T20:13:00-05:00"><text>Rule provides for consideration of H.R. 2857 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.</text></action>
+		<calendar date="1204676040" datetime="2008-03-04T20:14:00-05:00" ><text>Placed on the House Calendar, Calendar No. 193.</text></calendar>
+		<action date="1204813080" datetime="2008-03-06T10:18:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H1345-1349"/></action>
+		<action date="1204813260" datetime="2008-03-06T10:21:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 1015.</text></action>
+		<action date="1204815900" datetime="2008-03-06T11:05:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 217 - 193, 1 Present (Roll no. 103).</text><reference label="consideration" ref="CR H1347-1348"/></action>
+		<vote date="1204816380" how="roll" roll="104" datetime="2008-03-06T11:13:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by recorded vote: 222 - 190 (Roll no. 104).</text><reference label="text" ref="CR H1345"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/6/2008--Passed House without amendment. Sets forth the rule for consideration of H.R. 2857 (Generations Invigorating Volunteerism and Education Act).<br/>
+	</summary>
+</bill>

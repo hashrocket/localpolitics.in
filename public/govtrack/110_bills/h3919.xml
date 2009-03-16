@@ -1,0 +1,58 @@
+<bill session="110" type="h" number="3919" updated="2009-01-09T01:03:27-05:00">
+	<status><vote date="1194980520" datetime="2007-11-13T15:02:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1193025600" datetime="2007-10-22"/>
+	<titles>
+		<title type="short" as="introduced">Broadband Census of America Act of 2007</title>
+		<title type="short" as="reported to house">Broadband Census of America Act of 2007</title>
+		<title type="short" as="passed house">Broadband Census of America Act of 2007</title>
+		<title type="official" as="introduced">To provide for a comprehensive nationwide inventory of existing broadband service, and for other purposes.</title>
+	</titles>
+	<sponsor id="400253"/>
+	<cosponsors>
+		<cosponsor id="412229" joined="2007-10-22"/>
+		<cosponsor id="400414" joined="2007-11-01"/>
+		<cosponsor id="400177" joined="2007-10-22"/>
+		<cosponsor id="400160" joined="2007-10-22"/>
+		<cosponsor id="400155" joined="2007-10-22"/>
+		<cosponsor id="400124" joined="2007-10-22"/>
+		<cosponsor id="400018" joined="2007-11-01"/>
+		<cosponsor id="400384" joined="2007-10-22"/>
+		<cosponsor id="400152" joined="2007-10-22"/>
+		<cosponsor id="400007" joined="2007-10-22"/>
+		<cosponsor id="400110" joined="2007-10-22"/>
+		<cosponsor id="400391" joined="2007-11-01"/>
+		<cosponsor id="400114" joined="2007-10-22"/>
+		<cosponsor id="400062" joined="2007-10-22"/>
+		<cosponsor id="400434" joined="2007-10-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1193025600" datetime="2007-10-22"><text>Sponsor introductory remarks on measure. (CR E2196-2197)</text></action>
+		<action date="1193025600" datetime="2007-10-22"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1193112000" datetime="2007-10-23"><text>Referred to the Subcommittee on Telecommunications and the Internet.</text></action>
+		<action date="1193716800" datetime="2007-10-30"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1193716800" datetime="2007-10-30" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1194977460" datetime="2007-11-13T14:11:00-05:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-443.</text></action>
+		<calendar number="274" date="1194977460" datetime="2007-11-13T14:11:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 274.</text></calendar>
+		<action date="1194979860" datetime="2007-11-13T14:51:00-05:00"><text>Mr. Markey moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1194979860" datetime="2007-11-13T14:51:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H13557-13561"/></action>
+		<action date="1194979860" datetime="2007-11-13T14:51:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3919.</text></action>
+		<vote date="1194980520" how="by voice vote" datetime="2007-11-13T15:02:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H13557-13559"/></vote>
+		<action date="1195016400" datetime="2007-11-14"><text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/13/2007--Passed House amended. Broadband Census of America Act of 2007 - (Sec. 2) Requires the Federal Communications Commission (FCC) to conduct an annual assessment and report to the public on the nature and deployment of, and subscription to, broadband service capability throughout the states, including information comparing the extent of broadband service capability in other countries. Provides for enforcement as if the provisions of this paragraph were a part of the Communications Act of 1934. Considers a violation of the provisions of this paragraph to be a violation of that Act or a regulation promulgated under that Act. Makes the provisions of this paragraph ineffective six years after enactment of this Act. (Sec. 3) Directs the Assistant Secretary of Commerce for Communications and Information and the National Telecommunications and Information Administration (NTIA) of the Department of Commerce to develop and maintain a broadband inventory map of the United States that identifies and depicts the geographic extent to which broadband service capability is deployed and available from commercial or public providers throughout each state. Requires the NTIA to seek to overlay demographic data obtained from other sources in the Department of Commerce and elsewhere for use with the map and to make the map accessible by the public on an interactive and searchable NTIA website. Requires that the NTIA request and obtain information as necessary from entities that are eligible for map grants under this Act, the FCC and commercial and public broadband service providers. Makes the provisions of this paragraph ineffective seven years after enactment of this Act. (Sec. 4) Authorizes the NTIA, subject to fund availability, to make grants to states or nonprofit organizations to assist in providing the NTIA with information to facilitate the development of that map. (Sec. 5) Requires the NTIA to make grants to local technology planning entities, including to assess the current use of broadband service capability, set goals for improving or maximizing such use, identify local broadband demand and aggregate such demand, and establish programs to improve computer ownership and Internet access for unserved and underserved populations. Prohibits using grant funds to provide broadband service or acquire equipment or facilities for such capability. (Sec. 6) Requires the FCC to conduct and make public periodic consumer surveys regarding the types of technology used, the amounts consumers pay, the actual data transmission speeds, the types of applications and services consumers most frequently use in conjunction with such capability, the reasons given by consumers who decline to subscribe to broadband service, and other sources of broadband service consumers regularly use or on which they rely. Makes the provisions of this paragraph ineffective six years after enactment of this Act. (Sec. 8) Prohibits construing this Act to expand or limit the authority of states, Indian tribes, or units of local government to compel the collection of information. (Sec. 9) Authorizes appropriations to carry out provisions of this Act relating to the broadband inventory map, grants for that map, and grants to technology planning entities.<br/>
+	</summary>
+</bill>

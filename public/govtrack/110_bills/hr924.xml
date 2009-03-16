@@ -1,0 +1,64 @@
+<bill session="110" type="hr" number="924" updated="2009-01-09T09:47:18-05:00">
+	<status><vote date="1205264040" datetime="2008-03-11T16:34:00-04:00" where="h" result="pass" how="roll" roll="115"/></status>
+
+	<introduced date="1200459600" datetime="2008-01-16"/>
+	<titles>
+		<title type="official" as="introduced">Congratulating Iowa State University of Science and Technology for 150 years of leadership and service to the United States and the world as Iowa's land-grant university.</title>
+	</titles>
+	<sponsor id="412208"/>
+	<cosponsors>
+		<cosponsor id="400177" joined="2008-03-04"/>
+		<cosponsor id="412224" joined="2008-02-13"/>
+		<cosponsor id="412234" joined="2008-02-25"/>
+		<cosponsor id="412195" joined="2008-03-04"/>
+		<cosponsor id="412210" joined="2008-02-12"/>
+		<cosponsor id="412231" joined="2008-03-04"/>
+		<cosponsor id="412214" joined="2008-03-04"/>
+		<cosponsor id="412198" joined="2008-03-04"/>
+		<cosponsor id="400082" joined="2008-03-10"/>
+		<cosponsor id="412187" joined="2008-03-04"/>
+		<cosponsor id="412209" joined="2008-01-16"/>
+		<cosponsor id="412193" joined="2008-03-04"/>
+		<cosponsor id="400220" joined="2008-01-16"/>
+		<cosponsor id="412240" joined="2008-02-12"/>
+		<cosponsor id="412222" joined="2008-03-05"/>
+		<cosponsor id="412204" joined="2008-02-25"/>
+		<cosponsor id="400234" joined="2008-01-16"/>
+		<cosponsor id="412239" joined="2008-02-25"/>
+		<cosponsor id="400074" joined="2008-03-04"/>
+		<cosponsor id="400628" joined="2008-03-03"/>
+		<cosponsor id="412200" joined="2008-02-12"/>
+		<cosponsor id="400093" joined="2008-02-26"/>
+		<cosponsor id="412228" joined="2008-02-14"/>
+		<cosponsor id="400185" joined="2008-02-12"/>
+		<cosponsor id="412220" joined="2008-02-27"/>
+		<cosponsor id="400042" joined="2008-01-16"/>
+		<cosponsor id="400218" joined="2008-03-04"/>
+		<cosponsor id="400636" joined="2008-03-04"/>
+		<cosponsor id="412191" joined="2008-03-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1200459600" datetime="2008-01-16"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1205171220" datetime="2008-03-10T14:47:00-04:00"><text>Mr. Loebsack moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1205171220" datetime="2008-03-10T14:47:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1425-1427"/></action>
+		<action date="1205171220" datetime="2008-03-10T14:47:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 924.</text></action>
+		<action date="1205171760" datetime="2008-03-10T14:56:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1205263380" datetime="2008-03-11T16:23:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1500"/></action>
+		<vote date="1205264040" how="roll" roll="115" datetime="2008-03-11T16:34:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 115).</text><reference label="text" ref="CR H1425"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/2008--Passed House amended. Congratulates Iowa State University of Science and Technology on its 150 years of outstanding service to the state of Iowa, the United States, and the world in fulfilling its mission as a land-grant university. Thanks the state of Iowa for its visionary leadership in the beginning of the land-grant movement in the United States of America.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="111" type="h" number="99" updated="2009-03-07T09:59:20-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Fair and Simple Tax Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to reduce taxes by providing an alternative determination of income tax liability for individuals, repealing the estate and gift taxes, reducing corporate income tax rates, reducing the maximum tax for individuals on capital gains and dividends to 10 percent, indexing the basis of assets for purposes of determining capital gain or loss, creating tax-free accounts for retirement savings, lifetime savings, and life skills, repealing the adjusted gross income threshold in the medical care deduction for individuals under age 65 who have no employer health coverage, and for other purposes.</title>
+	</titles>
+	<sponsor id="400115"/>
+	<cosponsors>
+		<cosponsor id="400648" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Adult education and literacy"/>
+		<term name="Bank accounts, deposits, capital"/>
+		<term name="Capital gains tax"/>
+		<term name="Employee benefits and pensions"/>
+		<term name="Employment and training programs"/>
+		<term name="Financial services and investments"/>
+		<term name="General taxation matters"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Income tax credits"/>
+		<term name="Income tax deductions"/>
+		<term name="Income tax exclusion"/>
+		<term name="Income tax rates"/>
+		<term name="Inflation and prices"/>
+		<term name="Research and development"/>
+		<term name="Securities"/>
+		<term name="Tax administration and collection, taxpayers"/>
+		<term name="Taxation of foreign income"/>
+		<term name="Transfer and inheritance taxes"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Fair and Simple Tax Act of 2009 - Amends the Internal Revenue Code to: (1) establish an alternative income tax rate system with three tax brackets (10, 15, and 30%); (2) repeal the estate and gift tax; (3) adjust the increased alternative minimum tax (AMT) exemption amounts for inflation after 2008 and make such exemptions permanent; (4) reduce the maximum corporate income tax rate to 25%; (5) reduce the maximum tax rate on capital gains to 10%; (6) allow an inflation adjustment to the basis of capital assets for purposes of determining gain or loss; (7) establish new tax-exempt accounts for retirement savings, lifetime savings, and lifetime skills accounts; (8) exempt individuals under age 65 who do not have employer health care coverage from the adjusted gross income threshold for the medical care tax deduction; and (9) make permanent the tax credit for increasing research activities.<br/>Repeals the terminating dates applicable to provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 and the Jobs and Growth Tax Relief Reconciliation Act of 2003. 
+	</summary>
+</bill>

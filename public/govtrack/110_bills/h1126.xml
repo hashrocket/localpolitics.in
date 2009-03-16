@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="1126" updated="2009-01-08T19:11:50-05:00">
+	<status><vote date="1173721320" datetime="2007-03-12T14:42:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1171602000" datetime="2007-02-16"/>
+	<titles>
+		<title type="official" as="introduced">To reauthorize the Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988.</title>
+	</titles>
+	<sponsor id="400630"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-03-05"/>
+		<cosponsor id="400616" joined="2007-03-05"/>
+		<cosponsor id="400183" joined="2007-03-06"/>
+		<cosponsor id="412231" joined="2007-03-06"/>
+		<cosponsor id="400082" joined="2007-03-05"/>
+		<cosponsor id="412227" joined="2007-03-06"/>
+		<cosponsor id="400005" joined="2007-03-05"/>
+		<cosponsor id="412228" joined="2007-03-06"/>
+		<cosponsor id="400119" joined="2007-02-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1171602000" datetime="2007-02-16"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<calendar date="1172638800" datetime="2007-02-28" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1172638800" datetime="2007-02-28"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<action date="1173391560" datetime="2007-03-08T18:06:00-05:00"><text>Reported by the Committee on Science and Technology. H. Rept. 110-41.</text></action>
+		<calendar number="17" date="1173391620" datetime="2007-03-08T18:07:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 17.</text></calendar>
+		<action date="1173720720" datetime="2007-03-12T14:32:00-04:00"><text>Mr. Lipinski moved to suspend the rules and pass the bill.</text></action>
+		<action date="1173720780" datetime="2007-03-12T14:33:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2411-2412"/></action>
+		<action date="1173720780" datetime="2007-03-12T14:33:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1126.</text></action>
+		<vote date="1173721320" how="by voice vote" datetime="2007-03-12T14:42:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H2411"/></vote>
+		<action date="1173758400" datetime="2007-03-13"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1179806400" datetime="2007-05-22"><text>Committee on Energy and Natural Resources Senate Subcommittee on Energy. Hearings held.</text></action>
+		<calendar date="1185336000" datetime="2007-07-25" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1190001600" datetime="2007-09-17"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-181.</text></action>
+		<calendar under="General Orders" number="379" date="1190001600" datetime="2007-09-17" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 379.</text></calendar>
+		<action date="1213156800" datetime="2008-06-11"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S5530"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/17/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Amends the Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988 to authorize appropriations for FY2008-FY2012.<br/>Requires the Secretary of Energy, in reviewing research and development activities for possible inclusion in the research plan to expand the steel research and development initiative, to consider among steel project priorities the development of technologies which reduce greenhouse gas emissions. Revises the requirement for consideration of the development of advanced coatings for sheet steels to specify sheet and bar steels.<br/>
+	</summary>
+</bill>

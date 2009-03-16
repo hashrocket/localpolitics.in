@@ -1,0 +1,32 @@
+<bill session="110" type="sr" number="107" updated="2009-01-09T20:11:50-05:00">
+	<status><vote date="1173931200" datetime="2007-03-15" where="s" result="pass" how="roll" roll="76"/></status>
+
+	<introduced date="1173931200" datetime="2007-03-15"/>
+	<titles>
+		<title type="official" as="introduced">A resolution expressing the sense of the Senate that no action should be taken to undermine the safety of the Armed Forces of the United States or impact their ability to complete their assigned or future missions.</title>
+	</titles>
+	<sponsor id="300076"/>
+	<cosponsors>
+		<cosponsor id="300066" joined="2007-03-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1173931200" datetime="2007-03-15"><text>Submitted in the Senate.</text><reference label="text of measure as introduced" ref="CR S3224"/></action>
+		<action date="1173931200" datetime="2007-03-15"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S3187-3188"/></action>
+		<vote date="1173931200" how="roll" roll="76" datetime="2007-03-15" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Yea-Nay Vote. 96 - 2. Record Vote Number: 76.</text><reference label="text as passed Senate" ref="CR S3187"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/15/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Declares that the President and Congress: (1) should not take any action that will endanger U.S. Armed Forces; and (2) will provide necessary funds for training, equipment, and other support for troops in the field to ensure their safety and effectiveness in preparing for and carrying out their assigned missions. States that the President and Congress should: (1) continue to exercise their constitutional responsibilities to ensure that the Armed Forces have everything they need to perform their assigned or future missions; and (2) review, assess, and adjust U.S. policy and funding to ensure that U.S. troops have the best chance for success in Iraq and elsewhere.<br/>
+	</summary>
+</bill>

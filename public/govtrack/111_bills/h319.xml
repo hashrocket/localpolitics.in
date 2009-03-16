@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="319" updated="2009-03-07T10:25:00-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">Legal Immigrant Children's Health Improvement Act of 2009</title>
+		<title type="official" as="introduced">To amend titles XIX and XXI of the Social Security Act to permit States the option of coverage of legal immigrants under the Medicaid Program and the State children's health insurance program (SCHIP).</title>
+	</titles>
+	<sponsor id="400107"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to House Judiciary</text></action>
+		<action date="1234155600" datetime="2009-02-09"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Child health"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Immigrant health and welfare"/>
+		<term name="Medicaid"/>
+		<term name="Poverty and welfare assistance"/>
+		<term name="Sex and reproductive health"/>
+		<term name="Women's health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Legal Immigrant Children's Health Improvement Act of 2009 - Amends titles XIX (Medicaid) and XXI (State Children's Health Insurance) (SCHIP) of the Social Security Act to grant states the option of covering certain categories of eligible pregnant women and child resident aliens, including targeted low-income children, under the Medicaid and SCHIP programs. 
+	</summary>
+</bill>

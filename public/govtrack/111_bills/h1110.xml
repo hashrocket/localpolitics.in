@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="1110" updated="2009-03-07T12:00:56-05:00">
+	<status><introduced date="1235365200" datetime="2009-02-23"/></status>
+
+	<introduced date="1235365200" datetime="2009-02-23"/>
+	<titles>
+		<title type="short" as="introduced">PHONE Act of 2009</title>
+		<title type="short" as="introduced">Preventing Harassment through Outbound Number Enforcement Act of 2009</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, to prevent caller ID spoofing, and for other purposes.</title>
+	</titles>
+	<sponsor id="400364"/>
+	<cosponsors>
+		<cosponsor id="400199" joined="2009-02-23"/>
+		<cosponsor id="400080" joined="2009-02-23"/>
+		<cosponsor id="400371" joined="2009-02-23"/>
+		<cosponsor id="400285" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1235365200" datetime="2009-02-23"><text>Referred to the House Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="1246" updated="2009-03-07T12:19:06-05:00">
+	<status><introduced date="1235970000" datetime="2009-03-02"/></status>
+
+	<introduced date="1235970000" datetime="2009-03-02"/>
+	<titles>
+		<title type="short" as="introduced">Early Hearing Detection and Intervention Act of 2009</title>
+		<title type="official" as="introduced">To amend the Public Health Service Act regarding early detection, diagnosis, and treatment of hearing loss.</title>
+	</titles>
+	<sponsor id="400062"/>
+	<cosponsors>
+		<cosponsor id="400121" joined="2009-03-02"/>
+		<cosponsor id="400155" joined="2009-03-03"/>
+		<cosponsor id="400436" joined="2009-03-04"/>
+		<cosponsor id="400162" joined="2009-03-04"/>
+		<cosponsor id="400251" joined="2009-03-03"/>
+		<cosponsor id="400360" joined="2009-03-03"/>
+		<cosponsor id="412195" joined="2009-03-04"/>
+		<cosponsor id="400244" joined="2009-03-03"/>
+		<cosponsor id="412228" joined="2009-03-02"/>
+		<cosponsor id="400152" joined="2009-03-04"/>
+		<cosponsor id="412208" joined="2009-03-04"/>
+		<cosponsor id="400245" joined="2009-03-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1235970000" datetime="2009-03-02"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

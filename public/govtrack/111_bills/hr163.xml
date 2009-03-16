@@ -1,0 +1,34 @@
+<bill session="111" type="hr" number="163" updated="2009-03-07T13:25:30-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives on the need for appropriate accountability and congressional oversight of public buildings and facilities projects.</title>
+	</titles>
+	<sponsor id="400108"/>
+	<cosponsors>
+		<cosponsor id="400061" joined="2009-02-12"/>
+		<cosponsor id="400273" joined="2009-02-12"/>
+		<cosponsor id="412278" joined="2009-02-12"/>
+		<cosponsor id="412268" joined="2009-02-12"/>
+		<cosponsor id="412230" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

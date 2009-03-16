@@ -1,0 +1,40 @@
+<bill session="111" type="s" number="268" updated="2009-03-07T14:05:45-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Green-Collar Youth Jobs, Education, and Training Stimulus Act</title>
+		<title type="official" as="introduced">A bill to provide funding for a Green Job Corps program, YouthBuild Build Green Grants, and Green-Collar Youth Opportunity Grants, and for other purposes.</title>
+	</titles>
+	<sponsor id="300076"/>
+	<cosponsors>
+		<cosponsor id="300093" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S617-619"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="267" />
+		<bill relation="unknown" session="111" type="s" number="269" />
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Alternative and renewable resources"/>
+		<term name="Climate change"/>
+		<term name="Consumer affairs"/>
+		<term name="Employment and training programs"/>
+		<term name="Energy efficiency and conservation"/>
+		<term name="Environmental technology"/>
+		<term name="Low- and moderate-income housing"/>
+		<term name="Youth employment and child labor"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

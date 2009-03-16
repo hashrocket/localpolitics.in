@@ -1,0 +1,32 @@
+<bill session="110" type="sr" number="114" updated="2009-01-09T20:12:41-05:00">
+	<status><vote date="1175054400" datetime="2007-03-28" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1174449600" datetime="2007-03-21"/>
+	<titles>
+		<title type="official" as="introduced">A resolution recognizing the contributions of agricultural producers in Pennsylvania and throughout the Nation on the occasion of National Agriculture Day.</title>
+	</titles>
+	<sponsor id="412246"/>
+	<cosponsors>
+		<cosponsor id="300092" joined="2007-03-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1174449600" datetime="2007-03-21"><text>Referred to the Committee on Agriculture, Nutrition, and Forestry.</text><reference label="text of measure as introduced" ref="CR S3532"/></action>
+		<action date="1175054400" datetime="2007-03-28"><text>Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.</text></action>
+		<vote date="1175054400" how="by Unanimous Consent" datetime="2007-03-28" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S4078"/><reference label="text as passed Senate" ref="CR S4078"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/28/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes: (1) that agriculture is the number one industry in Pennsylvania; (2) the outstanding contribution of Pennsylvania's agricultural producers to the economy of the Commonwealth and the Nation; and (3) that Pennsylvania's agriculture is diverse and provides important nutrition to the people of the United States. Pays tribute to agriculture and agricultural producers in Pennsylvania and throughout the United States on the occasion of National Agriculture Day. 
+	</summary>
+</bill>

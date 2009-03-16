@@ -1,0 +1,36 @@
+<bill session="111" type="s" number="437" updated="2009-03-07T14:25:26-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow the deduction of attorney-advanced expenses and court costs in contingency fee cases.</title>
+	</titles>
+	<sponsor id="300092"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2009-02-13"/>
+		<cosponsor id="300030" joined="2009-02-13"/>
+		<cosponsor id="300047" joined="2009-02-13"/>
+		<cosponsor id="400621" joined="2009-02-13"/>
+		<cosponsor id="300063" joined="2009-02-13"/>
+		<cosponsor id="300100" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Sponsor introductory remarks on measure. (CR S2325)</text></action>
+		<action date="1234501200" datetime="2009-02-13"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S2325-2326"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2009--Introduced.<br/>Amends the Internal Revenue Code to allow attorneys a tax deduction in the current taxable year for reimbursable expenses and court costs which they pay or incur in connection with contingency fee cases.<br/>
+	</summary>
+</bill>

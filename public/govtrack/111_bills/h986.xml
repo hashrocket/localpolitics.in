@@ -1,0 +1,49 @@
+<bill session="111" type="h" number="986" updated="2009-03-07T11:44:18-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 28 Washington Street in Mount Holly, New Jersey, as the &quot;Jim Saxton Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="412264"/>
+	<cosponsors>
+		<cosponsor id="400008" joined="2009-02-11"/>
+		<cosponsor id="400308" joined="2009-02-11"/>
+		<cosponsor id="400142" joined="2009-02-11"/>
+		<cosponsor id="400346" joined="2009-02-11"/>
+		<cosponsor id="400380" joined="2009-02-11"/>
+		<cosponsor id="400129" joined="2009-02-24"/>
+		<cosponsor id="400644" joined="2009-02-23"/>
+		<cosponsor id="400244" joined="2009-02-11"/>
+		<cosponsor id="412186" joined="2009-02-11"/>
+		<cosponsor id="400145" joined="2009-02-11"/>
+		<cosponsor id="412290" joined="2009-02-11"/>
+		<cosponsor id="400184" joined="2009-02-11"/>
+		<cosponsor id="400288" joined="2009-02-23"/>
+		<cosponsor id="400377" joined="2009-02-24"/>
+		<cosponsor id="400312" joined="2009-02-11"/>
+		<cosponsor id="400309" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Congressional tributes"/>
+		<term name="Government buildings, facilities, and property"/>
+		<term name="New Jersey"/>
+		<term name="Postal service"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Introduced.<br/>Designates the facility of the United States Postal Service located at 28 Washington Street in Mount Holly, New Jersey, as the &quot;Jim Saxton Post Office Building.&quot;<br/>
+	</summary>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="111" type="h" number="199" updated="2009-03-07T10:11:11-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Simple Savings Tax Relief Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to exclude from gross income certain interest amounts received by individuals.</title>
+	</titles>
+	<sponsor id="400388"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax exclusion"/>
+		<term name="Inflation and prices"/>
+		<term name="Interest and interest rates"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Simple Savings Tax Relief Act of 2009 - Amends the Internal Revenue Code to exclude from gross income up to $400 (twice such amount on a joint return) of interest income annually. Provides for an inflation adjustment to such exclusion amount beginning after 2010.<br/>
+	</summary>
+</bill>

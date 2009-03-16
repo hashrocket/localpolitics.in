@@ -1,0 +1,61 @@
+<bill session="110" type="h" number="323" updated="2009-01-08T17:24:22-05:00">
+	<status><vote date="1169614740" datetime="2007-01-23T12:59:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1168318800" datetime="2007-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Seasoned Customer CTR Exemption Act of 2007</title>
+		<title type="short" as="passed house">Seasoned Customer CTR Exemption Act of 2007</title>
+		<title type="official" as="introduced">To amend section 5313 of title 31, United States Code, to reform certain requirements for reporting cash transactions, and for other purposes.</title>
+	</titles>
+	<sponsor id="400010"/>
+	<cosponsors>
+		<cosponsor id="400257" joined="2007-01-09"/>
+		<cosponsor id="400027" joined="2007-01-09"/>
+		<cosponsor id="400092" joined="2007-01-12"/>
+		<cosponsor id="400209" joined="2007-01-09"/>
+		<cosponsor id="400336" joined="2007-01-09"/>
+		<cosponsor id="400282" joined="2007-01-09"/>
+		<cosponsor id="400623" joined="2007-01-09"/>
+		<cosponsor id="400441" joined="2007-01-09"/>
+		<cosponsor id="400633" joined="2007-01-09"/>
+		<cosponsor id="400370" joined="2007-01-09"/>
+		<cosponsor id="400277" joined="2007-01-12"/>
+		<cosponsor id="400311" joined="2007-01-09"/>
+		<cosponsor id="400131" joined="2007-01-09"/>
+		<cosponsor id="400140" joined="2007-01-09"/>
+		<cosponsor id="400070" joined="2007-01-12"/>
+		<cosponsor id="400251" joined="2007-01-09"/>
+		<cosponsor id="400175" joined="2007-01-09"/>
+		<cosponsor id="400255" joined="2007-01-09"/>
+		<cosponsor id="400074" joined="2007-01-09"/>
+		<cosponsor id="400644" joined="2007-01-09"/>
+		<cosponsor id="400145" joined="2007-01-09"/>
+		<cosponsor id="400150" joined="2007-01-09"/>
+		<cosponsor id="400179" joined="2007-01-09"/>
+		<cosponsor id="412011" joined="2007-01-22"/>
+		<cosponsor id="400186" joined="2007-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1168318800" datetime="2007-01-09"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1169613780" datetime="2007-01-23T12:43:00-05:00"><text>Mr. Frank (MA) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1169613780" datetime="2007-01-23T12:43:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H848-851"/></action>
+		<action date="1169613780" datetime="2007-01-23T12:43:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 323.</text></action>
+		<vote date="1169614740" how="by voice vote" datetime="2007-01-23T12:59:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H848-849"/></vote>
+		<action date="1169614800" datetime="2007-01-24"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/23/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Seasoned Customer CTR Exemption Act of 2007 - Amends federal money and finance law to: (1) repeal the authority of the Secretary of the Treasury to exempt a depository institution from currency transaction reporting (CTR) requirements with respect to transactions between the depository institution and a qualified business customer; and (2) instruct the Secretary to prescribe regulations that exempt a depository institution from filing a CTR if the transaction is with a qualified customer. Defines qualified customer as any person that: (1) is incorporated or organized under federal or state law, including a sole proprietorship, or is registered as and eligible to do business within the United States or a state; (2) has maintained a deposit account with the depository institution for at least 12 months; and (3) has engaged, using such account, in multiple currency transactions subject to federal CTR requirements. Requires such regulations to require a depository institution to file a one-time notice of designation of exemption for each of its qualified customers. Authorizes the Secretary to: (1) suspend, reject, or revoke any qualified customer exemption notice; and (2) establish conditions under which exempt qualified customers of an insured depository institution merged with or acquired by another insured depository institution will continue to be treated as designated exempt qualified customers of the surviving or acquiring institution. Requires the Secretary to submit a three-year review and report evaluating implementation of this Act. Requires the Secretary to review every five years: (1) the continuing appropriateness, relevance, and utility of each threshold amount or denomination established for any mandatory CTR; (2) adjust such amount for inflation, if any; and (3) report to Congress the review findings and conclusions, together with an explanation for any adjustment, or lack of adjustment, of any threshold amount or denomination.<br/>
+	</summary>
+</bill>

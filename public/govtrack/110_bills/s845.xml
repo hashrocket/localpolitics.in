@@ -1,0 +1,57 @@
+<bill session="110" type="s" number="845" updated="2009-01-09T13:30:12-05:00">
+	<status><enacted date="1208923200" datetime="2008-04-23" /></status>
+
+	<introduced date="1173672000" datetime="2007-03-12"/>
+	<titles>
+		<title type="short" as="introduced">Keeping Seniors Safe From Falls Act of 2007</title>
+		<title type="short" as="passed house">Safety of Seniors Act of 2007</title>
+		<title type="short" as="reported to senate">Safety of Seniors Act of 2007</title>
+		<title type="short" as="passed senate">Safety of Seniors Act of 2007</title>
+		<title type="short" as="enacted">Safety of Seniors Act of 2007</title>
+		<title type="official" as="introduced">A bill to direct the Secretary of Health and Human Services to expand and intensify programs with respect to research and related activities concerning elder falls.</title>
+	</titles>
+	<sponsor id="300041"/>
+	<cosponsors>
+		<cosponsor id="300059" joined="2007-03-28"/>
+		<cosponsor id="300052" joined="2007-03-28"/>
+		<cosponsor id="300073" joined="2007-03-12"/>
+		<cosponsor id="300061" joined="2007-05-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1173672000" datetime="2007-03-12"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+		<calendar date="1173931200" datetime="2007-03-15" ><text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1175140800" datetime="2007-03-29"><text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="99" date="1175140800" datetime="2007-03-29" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 99.</text></calendar>
+		<action date="1183003200" datetime="2007-06-28"><text>By Senator Kennedy from Committee on Health, Education, Labor, and Pensions filed written report. Report No. 110-110.</text></action>
+		<action date="1185940800" datetime="2007-08-01"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S10676-10678"/><reference label="text of measure as reported in Senate" ref="CR S10676-10677"/></action>
+		<action date="1185940800" datetime="2007-08-01"><text>The committee substitute as amended agreed to by Unanimous Consent.</text></action>
+		<vote date="1185940800" how="by Unanimous Consent" datetime="2007-08-01" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action date="1186062720" datetime="2007-08-02T10:52:00-04:00"><text>Received in the House.</text></action>
+		<action date="1186027200" datetime="2007-08-02"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1186027200" datetime="2007-08-02"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1186027200" datetime="2007-08-02"><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1207679700" datetime="2008-04-08T15:35:00-04:00"><text>Mrs. Capps moved to suspend the rules and pass the bill.</text></action>
+		<action date="1207679700" datetime="2008-04-08T15:35:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2034-2036"/></action>
+		<action date="1207679700" datetime="2008-04-08T15:35:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 845.</text></action>
+		<vote date="1207679940" how="by voice vote" datetime="2008-04-08T15:39:00-04:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H2034-2035"/></vote>
+		<topresident date="1207627200" datetime="2008-04-08" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1208145600" datetime="2008-04-14" ><text>Presented to President.</text></topresident>
+		<signed date="1208923200" datetime="2008-04-23" ><text>Signed by President.</text></signed>
+		<enacted number="110-202" date="1208923200" datetime="2008-04-23" type="public" ><text>Became Public Law No: 110-202.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/23/2008--Public Law. (This measure has not been amended since it was passed by the Senate on August 1, 2007. The summary of that version is repeated here.) Safety of Seniors Act of 2007 - Amends the Public Health Service Act to authorize the Secretary of Health and Human Services to: (1) oversee and support a national education campaign focusing on reducing falls among older adults and preventing repeat falls; and (2) award grants, contracts, or cooperative agreements to design and carry out local education campaigns. Allows the Secretary to conduct and support research to: (1) improve the identification of older adults who have a high risk of falling; (2) improve data collection and analysis to identify fall risk and protective factors; (3) design, implement, and evaluate the most effective fall prevention interventions; (4) tailor effective strategies to reduce falls to specific populations of older adults; (5) maximize the dissemination of proven, effective fall prevention interventions; (6) improve the diagnosis, treatment, and rehabilitation of elderly fall victims and older adults at high risk for falls; and (7) assess the risks of falls occurring in various settings. Authorizes the Secretary to: (1) conduct research concerning the barriers to the adoption of proven fall prevention interventions; (2) conduct research to develop, implement, and evaluate the most effective approaches to reduce falls among high-risk older adults living in communities and long-term care and assisted living facilities; (3) evaluate the effectiveness of community programs; (4) provide professional education for physicians and allied health professionals in fall prevention; (5) oversee and support specified demonstration and research projects; (6) award grants to design, implement, and evaluate fall prevention programs using proven intervention strategies and carry out a multistate demonstration project; (7) give priority in awarding grants under this Act to entities that explore the use of cost-sharing to ensure the institutional commitment of the recipients of such assistance to the funded projects; and (8) report to Congress on the effects of falls on health care costs, the potential for reducing falls, and the most effective strategies for reducing associated health care costs.<br/>
+	</summary>
+</bill>

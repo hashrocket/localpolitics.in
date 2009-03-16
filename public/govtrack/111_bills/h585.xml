@@ -1,0 +1,61 @@
+<bill session="111" type="h" number="585" updated="2009-03-07T10:56:19-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Environment and Public Health Restoration Act of 2009</title>
+		<title type="official" as="introduced">To direct the President to enter into an arrangement with the National Academy of Sciences to evaluate certain Federal rules and regulations for potentially harmful impacts on public health, air quality, water quality, plant and animal wildlife, global climate, or the environment; and to direct Federal departments and agencies to create plans to reverse those impacts that are determined to be harmful by the National Academy of Sciences.</title>
+	</titles>
+	<sponsor id="400237"/>
+	<cosponsors>
+		<cosponsor id="400387" joined="2009-01-15"/>
+		<cosponsor id="400227" joined="2009-01-15"/>
+		<cosponsor id="400080" joined="2009-01-15"/>
+		<cosponsor id="400162" joined="2009-01-15"/>
+		<cosponsor id="400350" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the Committee on Science and Technology, and in addition to the Committees on Transportation and Infrastructure, Natural Resources, Agriculture, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House Science and Technology</text></action>
+		<action date="1231995600" datetime="2009-01-15"><committee name="House Science and Technology"/><text>Referred to the Subcommittee on Energy and Environment.</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House Natural Resources</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House Agriculture</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1232082000" datetime="2009-01-16"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Science and Technology" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Science and Technology" subcommittee="Energy and Environment" activity="Referral" />
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment" activity="Referral" />
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Agriculture" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Air quality"/>
+		<term name="Climate change"/>
+		<term name="Endangered and threatened species"/>
+		<term name="Environmental assessment, monitoring, research"/>
+		<term name="Environmental health"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Forests"/>
+		<term name="Intergovernmental relations"/>
+		<term name="International organizations and cooperation"/>
+		<term name="Land use and conservation"/>
+		<term name="State and local government operations"/>
+		<term name="Water quality"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Environment and Public Health Restoration Act of 2009 - States that it is U.S. government policy to work with states, territories, tribal governments, international organizations, and foreign governments to act as a steward of the environment for the benefit of public health, to maintain air quality and water quality, to sustain the diversity of plant and animal species, to combat global climate change, and to protect the environment for future generations. Requires the President to enter into an arrangement under which the National Academy of Sciences will: (1) study and report to the public, Congress, and implementing agencies on the impact on public health, air quality, water quality, wildlife, and the environment of specified clean water, clean air, and forest, land management, and endangered species regulations, laws, proposed laws, and guidance documents; and (2) make recommendations to maintain, restore, or improve protections for public health, air quality, water quality, wildlife, or the environment for each of such regulations, laws, proposed laws, or documents. Requires the head of each federal agency that issued or implemented such laws or regulations to submit to Congress a plan describing steps to restore or improve such protections.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,37 @@
+<bill session="110" type="hr" number="873" updated="2009-01-09T09:40:49-05:00">
+	<status><vote date="1197933600" datetime="2007-12-17T19:20:00-05:00" where="h" result="pass" how="roll" roll="1166"/></status>
+
+	<introduced date="1197522000" datetime="2007-12-13"/>
+	<titles>
+		<title type="official" as="introduced">Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1197569400" datetime="2007-12-13T14:10:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-493, by Mr. McGovern.</text></action>
+		<calendar date="1197569400" datetime="2007-12-13T14:10:00-05:00" ><text>Placed on the House Calendar, Calendar No. 171.</text></calendar>
+		<action date="1197928140" datetime="2007-12-17T17:49:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H15508-15512"/></action>
+		<action date="1197928140" datetime="2007-12-17T17:49:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 873.</text></action>
+		<action date="1197930300" datetime="2007-12-17T18:25:00-05:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 873, the Chair put the question on ordering the previous question and by voice vote, announced the ayes had prevailed. Mr. Lincoln Diaz-Balart demanded the yeas and nays and the Chair postponed further proceedings on ordering the previous question until later in the legislative day.</text></action>
+		<action date="1197932760" datetime="2007-12-17T19:06:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H15514-15516"/></action>
+		<action date="1197933180" datetime="2007-12-17T19:13:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 215 - 183 (Roll no. 1165).</text><reference label="consideration" ref="CR H15512, H15514-15515"/></action>
+		<vote date="1197933600" how="roll" roll="1166" datetime="2007-12-17T19:20:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 212 - 185 (Roll no. 1166).</text><reference label="text" ref="CR H15508"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/17/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Waives a specified requirement of Rule XIII (Calendar and Committee Reports) to allow consideration of the following Senate amendments on the same day they are presented to the House: (1) the Senate amendment to H.R. 2764 (Department of State, Foreign Operations, and Related Programs Appropriations Act, 2008); and (2) the Senate amendments to H.R. 6 (Renewable Fuels, Consumer Protection, and Energy Efficiency Act of 2007). 
+	</summary>
+</bill>

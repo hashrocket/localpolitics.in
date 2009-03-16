@@ -1,0 +1,51 @@
+<bill session="110" type="h" number="6309" updated="2009-01-09T05:53:01-05:00">
+	<status><vote date="1217544480" datetime="2008-07-31T19:48:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1213848000" datetime="2008-06-19"/>
+	<titles>
+		<title type="short" as="introduced">Lead-Safe Housing for Kids Act of 2008</title>
+		<title type="short" as="reported to house">Lead-Safe Housing for Kids Act of 2008</title>
+		<title type="short" as="passed house">Lead-Safe Housing for Kids Act of 2008</title>
+		<title type="official" as="introduced">To amend the Residential Lead-Based Paint Hazard Reduction Act of 1992 to define environmental intervention blood lead level and establish additional requirements for certain lead hazard screens, and for other purposes.</title>
+		<title type="official" as="amended by house">To amend the Residential Lead-Based Paint Hazard Reduction Act of 1992 to define environmental intervention blood lead level, and for other purposes.</title>
+	</titles>
+	<sponsor id="412215"/>
+	<cosponsors>
+		<cosponsor id="400661" joined="2008-07-09"/>
+		<cosponsor id="400271" joined="2008-06-23"/>
+		<cosponsor id="400130" joined="2008-07-09"/>
+		<cosponsor id="400416" joined="2008-06-23"/>
+		<cosponsor id="400251" joined="2008-06-23"/>
+		<cosponsor id="400217" joined="2008-07-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1213848000" datetime="2008-06-19"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1214280000" datetime="2008-06-24"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1214280000" datetime="2008-06-24" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1217353680" datetime="2008-07-29T14:48:00-04:00"><text>Reported (Amended) by the Committee on Financial Services. H. Rept. 110-788.</text></action>
+		<calendar number="506" date="1217353680" datetime="2008-07-29T14:48:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 506.</text></calendar>
+		<action date="1217374020" datetime="2008-07-29T20:27:00-04:00"><text>Mr. Ellison moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1217374080" datetime="2008-07-29T20:28:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7280-7282"/></action>
+		<action date="1217374080" datetime="2008-07-29T20:28:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6309.</text></action>
+		<action date="1217374500" datetime="2008-07-29T20:35:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Herger objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1217544480" datetime="2008-07-31T19:48:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7706"/></action>
+		<vote date="1217544480" how="by voice vote" datetime="2008-07-31T19:48:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/29/2008 H7280-7281)</text></vote>
+		<action date="1217544480" datetime="2008-07-31T19:48:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1217563200" datetime="2008-08-01"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/31/2008--Passed House amended. Lead-Safe Housing for Kids Act of 2008 - Amends the Residential Lead-Based Paint Hazard Reduction Act of 1992, with respect to lead-based paint hazards in housing, to set the environmental intervention blood lead level as equal to the lower of: (1) ten micrograms of lead per deciliter; or (2) the elevated blood lead level of concern for a child under six years of age recommended by the Centers for Disease Control and Prevention. Requires the Secretary of Housing and Urban Development to amend related regulations to comply with this Act within 90 days. Requires the Secretary to report to Congress on the status of the Department of Housing and Urban Development &quot;Big Buy&quot; program, and any other voluntary programs the Secretary has implemented or has planned to implement, through which the Secretary has conducted, or planned to conduct, lead evaluations. Authorizes appropriations for FY2009. Denies that this Act creates any obligation or requirement on the part of any owner of housing, public housing agency, or other party (besides the Secretary of Housing and Urban Development) to comply with any new obligations established by or pursuant to this Act, except to the extent that the Secretary makes funds available to the owner, agency, or party for the costs of compliance.<br/>
+	</summary>
+</bill>

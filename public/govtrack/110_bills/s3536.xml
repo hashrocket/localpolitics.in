@@ -1,0 +1,49 @@
+<bill session="110" type="s" number="3536" updated="2009-01-09T19:15:41-05:00">
+	<status><enacted date="1223870400" datetime="2008-10-13" /></status>
+
+	<introduced date="1222056000" datetime="2008-09-22"/>
+	<titles>
+		<title type="short" as="introduced">Air Carriage of International Mail Act</title>
+		<title type="short" as="passed house">Air Carriage of International Mail Act</title>
+		<title type="short" as="passed senate">Air Carriage of International Mail Act</title>
+		<title type="short" as="enacted">Air Carriage of International Mail Act</title>
+		<title type="official" as="introduced">A bill to amend section 5402 of title 39, United States Code, to modify the authority relating to United States Postal Service air transportation contracts, and for other purposes.</title>
+	</titles>
+	<sponsor id="300019"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1222056000" datetime="2008-09-22"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1222401600" datetime="2008-09-26"><text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text></action>
+		<vote date="1222401600" how="by Unanimous Consent" datetime="2008-09-26" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S9865-9866"/><reference label="text as passed Senate" ref="CR S9865-9866"/></vote>
+		<action date="1222525260" datetime="2008-09-27T11:21:00-04:00"><text>Received in the House.</text></action>
+		<action date="1222488000" datetime="2008-09-27"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1222488000" datetime="2008-09-27"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1222539960" datetime="2008-09-27T15:26:00-04:00"><text>Mr. Clay moved to suspend the rules and pass the bill.</text></action>
+		<action date="1222540020" datetime="2008-09-27T15:27:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10206-10208"/></action>
+		<action date="1222540020" datetime="2008-09-27T15:27:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 3536.</text></action>
+		<action date="1222540320" datetime="2008-09-27T15:32:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Davis, Tom objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1222711080" datetime="2008-09-29T14:58:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10631"/></action>
+		<vote date="1222711080" how="by voice vote" datetime="2008-09-29T14:58:00-04:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 9/27/2008 H10206-10207)</text></vote>
+		<topresident date="1222660800" datetime="2008-09-29" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1223006400" datetime="2008-10-03" ><text>Presented to President.</text></topresident>
+		<signed date="1223870400" datetime="2008-10-13" ><text>Signed by President.</text></signed>
+		<enacted number="110-405" date="1223870400" datetime="2008-10-13" type="public" ><text>Became Public Law No: 110-405.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/22/2008--Introduced.<br/>Air Carriage of International Mail Act - Authorizes the U.S. Postal Service to contract, through an open procurement process, for air transportation of mail between foreign points only with certificated air carriers (carriers that hold a certificate of public convenience and necessity issued under specified provisions). Allows a contract to be awarded to transport mail between any foreign points the Secretary of Transportation has authorized the carrier to serve either directly or through a code-share relationship. Provides for exceptions for emergency or unanticipated conditions. Removes provisions requiring that the Secretary of Transportation set prices to be paid by the Postal Service for the transportation of mail by aircraft in foreign air transportation. Removes references to foreign air transportation from provisions relating to a duty to provide certain transportation of mail. Authorizes the Postal Service to weigh mail transported by aircraft between places in Alaska and make statistical and administrative computations necessary in the interest of mail service. (Current law does not restrict that authorization to flights between places in Alaska.) Removes a requirement that the Postal Service make a fair and equitable distribution of mail business to carriers providing similar modes of transportation. Modifies provisions regarding the mail of members of the U.S. Armed Forces and of friendly foreign nations.<br/>
+	</summary>
+</bill>

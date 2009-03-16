@@ -1,0 +1,65 @@
+<bill session="111" type="s" number="6" updated="2009-03-07T13:33:42-05:00">
+	<status><calendar date="1231304400" datetime="2009-01-07" /></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Restoring America's Power Act of 2009</title>
+		<title type="official" as="introduced">A bill to restore and enhance the national security of the United States.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2009-01-06"/>
+		<cosponsor id="400272" joined="2009-01-06"/>
+		<cosponsor id="300009" joined="2009-01-06"/>
+		<cosponsor id="400050" joined="2009-01-07"/>
+		<cosponsor id="300059" joined="2009-01-06"/>
+		<cosponsor id="300011" joined="2009-01-06"/>
+		<cosponsor id="300067" joined="2009-01-06"/>
+		<cosponsor id="412246" joined="2009-01-06"/>
+		<cosponsor id="412323" joined="2009-01-06"/>
+		<cosponsor id="300093" joined="2009-01-06"/>
+		<cosponsor id="412243" joined="2009-01-06"/>
+		<cosponsor id="300060" joined="2009-01-06"/>
+		<cosponsor id="300038" joined="2009-01-06"/>
+		<cosponsor id="300066" joined="2009-01-06"/>
+		<cosponsor id="300073" joined="2009-01-06"/>
+		<cosponsor id="300087" joined="2009-01-06"/>
+		<cosponsor id="300043" joined="2009-01-06"/>
+		<cosponsor id="412326" joined="2009-01-06"/>
+		<cosponsor id="300064" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text><reference label="text of measure as introduced" ref="CR S45"/></action>
+		<calendar date="1231304400" datetime="2009-01-07" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 6.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Afghanistan"/>
+		<term name="Arms control and nonproliferation"/>
+		<term name="Asia"/>
+		<term name="Diplomacy, foreign officials, Americans abroad"/>
+		<term name="Foreign aid and international relief"/>
+		<term name="Homeland security"/>
+		<term name="Intelligence activities, surveillance, classified information"/>
+		<term name="Iran"/>
+		<term name="Middle East"/>
+		<term name="Military personnel and dependents"/>
+		<term name="North Korea"/>
+		<term name="Nuclear weapons"/>
+		<term name="Pakistan"/>
+		<term name="Terrorism"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Restoring America's Power Act of 2009 - Expresses the sense of Congress that Congress should enact, and the President should sign, legislation to restore and enhance U.S. national security by: (1) strengthening America's military capabilities and recognizing the service of our troops and the commitment of their families; (2) addressing the threat posed by al Qaeda and other terrorist groups and refocusing on Afghanistan and Pakistan as the United States transitions in Iraq; (3) defeating extremist ideology; and (4) reducing the threat posed by unsecured nuclear materials and other weapons of mass destruction and addressing the security challenges posed by Iran and North Korea.<br/>
+	</summary>
+</bill>

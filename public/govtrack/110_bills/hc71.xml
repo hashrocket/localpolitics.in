@@ -1,0 +1,96 @@
+<bill session="110" type="hc" number="71" updated="2009-01-08T15:35:47-05:00">
+	<status><vote2 date="1179115200" datetime="2007-05-14" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1171602000" datetime="2007-02-16"/>
+	<titles>
+		<title type="official" as="introduced">Commemorating the 85th Anniversary of the founding of the American Hellenic Educational Progressive Association (AHEPA), a leading association for the Nation's 1.3 million American citizens of Greek ancestry, and Philhellenes.</title>
+	</titles>
+	<sponsor id="400251"/>
+	<cosponsors>
+		<cosponsor id="400352" joined="2007-03-15"/>
+		<cosponsor id="400332" joined="2007-03-08"/>
+		<cosponsor id="400253" joined="2007-03-14"/>
+		<cosponsor id="400648" joined="2007-03-23"/>
+		<cosponsor id="400344" joined="2007-04-16"/>
+		<cosponsor id="400266" joined="2007-03-08"/>
+		<cosponsor id="400268" joined="2007-02-16"/>
+		<cosponsor id="400331" joined="2007-04-16"/>
+		<cosponsor id="400063" joined="2007-02-16"/>
+		<cosponsor id="400415" joined="2007-03-12"/>
+		<cosponsor id="400386" joined="2007-03-05"/>
+		<cosponsor id="412229" joined="2007-02-16"/>
+		<cosponsor id="412236" joined="2007-03-12"/>
+		<cosponsor id="400008" joined="2007-03-20"/>
+		<cosponsor id="400356" joined="2007-03-09"/>
+		<cosponsor id="400145" joined="2007-02-16"/>
+		<cosponsor id="412212" joined="2007-02-16"/>
+		<cosponsor id="400364" joined="2007-03-27"/>
+		<cosponsor id="400308" joined="2007-02-16"/>
+		<cosponsor id="400049" joined="2007-02-16"/>
+		<cosponsor id="400423" joined="2007-02-16"/>
+		<cosponsor id="400260" joined="2007-03-12"/>
+		<cosponsor id="400343" joined="2007-03-15"/>
+		<cosponsor id="400142" joined="2007-03-09"/>
+		<cosponsor id="400139" joined="2007-02-27"/>
+		<cosponsor id="400103" joined="2007-04-16"/>
+		<cosponsor id="400110" joined="2007-03-01"/>
+		<cosponsor id="400087" joined="2007-02-16"/>
+		<cosponsor id="400283" joined="2007-02-16"/>
+		<cosponsor id="400263" joined="2007-02-16"/>
+		<cosponsor id="400033" joined="2007-03-01"/>
+		<cosponsor id="400370" joined="2007-03-19"/>
+		<cosponsor id="400101" joined="2007-04-16"/>
+		<cosponsor id="400433" joined="2007-02-16"/>
+		<cosponsor id="400209" joined="2007-03-01"/>
+		<cosponsor id="412250" joined="2007-02-16"/>
+		<cosponsor id="400184" joined="2007-02-16"/>
+		<cosponsor id="400024" joined="2007-02-16"/>
+		<cosponsor id="400288" joined="2007-03-06"/>
+		<cosponsor id="400355" joined="2007-03-14"/>
+		<cosponsor id="400137" joined="2007-03-19"/>
+		<cosponsor id="400114" joined="2007-03-14"/>
+		<cosponsor id="400122" joined="2007-03-05"/>
+		<cosponsor id="400062" joined="2007-04-16"/>
+		<cosponsor id="400350" joined="2007-03-09"/>
+		<cosponsor id="400108" joined="2007-03-08"/>
+		<cosponsor id="400312" joined="2007-02-16"/>
+		<cosponsor id="400658" joined="2007-02-16"/>
+		<cosponsor id="400295" joined="2007-03-21"/>
+		<cosponsor id="412191" joined="2007-02-27"/>
+		<cosponsor id="400349" joined="2007-02-16"/>
+		<cosponsor id="400309" joined="2007-03-19"/>
+		<cosponsor id="400245" joined="2007-03-20"/>
+		<cosponsor id="400231" joined="2007-02-27"/>
+		<cosponsor id="400107" joined="2007-02-16"/>
+		<cosponsor id="400417" joined="2007-03-05"/>
+		<cosponsor id="412200" joined="2007-02-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1171602000" datetime="2007-02-16"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1175140800" datetime="2007-03-29"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1175140800" datetime="2007-03-29" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1176745680" datetime="2007-04-16T14:48:00-04:00"><text>Ms. Watson moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1176745680" datetime="2007-04-16T14:48:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3387-3389"/></action>
+		<action date="1176745740" datetime="2007-04-16T14:49:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 71.</text></action>
+		<vote date="1176746400" how="by voice vote" datetime="2007-04-16T15:00:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H3387"/></vote>
+		<action date="1176782400" datetime="2007-04-17"><text>Received in the Senate and referred to the Committee on the Judiciary.</text></action>
+		<action date="1179115200" datetime="2007-05-14"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S6078"/></action>
+		<vote date="1179115200" how="by Unanimous Consent" datetime="2007-05-14" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text></vote>
+		<action date="1179201600" datetime="2007-05-15"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/14/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the contributions of American citizens of Hellenic heritage to the United States and commemorates the 85th Anniversary of the founding of the American Hellenic Educational Progressive Association.<br/>
+	</summary>
+</bill>

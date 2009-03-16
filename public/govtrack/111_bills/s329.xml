@@ -1,0 +1,32 @@
+<bill session="111" type="s" number="329" updated="2009-03-07T14:12:51-05:00">
+	<status><introduced date="1232946000" datetime="2009-01-26"/></status>
+
+	<introduced date="1232946000" datetime="2009-01-26"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to extend the nonbusiness energy property credit for property placed in service during 2008.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1232946000" datetime="2009-01-26"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S846"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="1134" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Energy efficiency and conservation"/>
+		<term name="Income tax credits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

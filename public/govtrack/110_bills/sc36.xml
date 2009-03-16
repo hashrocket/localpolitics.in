@@ -1,0 +1,43 @@
+<bill session="110" type="sc" number="36" updated="2009-01-09T19:44:39-05:00">
+	<status><vote date="1192420800" datetime="2007-10-15" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1181102400" datetime="2007-06-06"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution supporting the goals and ideals of National Teen Driver Safety Week.</title>
+	</titles>
+	<sponsor id="412246"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="2007-09-26"/>
+		<cosponsor id="300038" joined="2007-06-06"/>
+		<cosponsor id="300092" joined="2007-06-06"/>
+		<cosponsor id="300076" joined="2007-09-26"/>
+		<cosponsor id="400629" joined="2007-06-06"/>
+		<cosponsor id="300043" joined="2007-09-26"/>
+		<cosponsor id="400194" joined="2007-09-26"/>
+		<cosponsor id="300064" joined="2007-09-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1181102400" datetime="2007-06-06"><text>Sponsor introductory remarks on measure. (CR S7197-7198)</text></action>
+		<action date="1181102400" datetime="2007-06-06"><text>Referred to the Committee on Commerce, Science, and Transportation.</text><reference label="text of measure as introduced" ref="CR S7197"/></action>
+		<action date="1192420800" datetime="2007-10-15"><text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text></action>
+		<vote date="1192420800" how="by Unanimous Consent" datetime="2007-10-15" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S12853"/><reference label="text of measure as passed Senate" ref="CR S12853"/></vote>
+		<action date="1192539720" datetime="2007-10-16T10:02:00-04:00"><text>Received in the House.</text></action>
+		<action date="1192507200" datetime="2007-10-16"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1192555380" datetime="2007-10-16T14:23:00-04:00"><text>Held at the desk.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/15/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Supports the goals and ideals of National Teen Driver Safety Week. Encourages the people of the United States to observe the week with activities that promote licensed teenage drivers to drive safely.<br/>
+	</summary>
+</bill>

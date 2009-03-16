@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="740" updated="2009-03-07T11:14:55-05:00">
+	<status><introduced date="1233118800" datetime="2009-01-28"/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="short" as="introduced">Additional Safeguards For Lease and Development of Non-Excess Property of Military Departments Act</title>
+		<title type="official" as="introduced">To amend title 10, United States Code, to take reasonable steps to prevent avoidable disasters related to seismic activity in connection with the lease and development of non-excess property of military departments, and for other purposes.</title>
+	</titles>
+	<sponsor id="400133"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1234846800" datetime="2009-02-17"><text>Referred to the Subcommittee on Readiness.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Armed Services" subcommittee="Readiness" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Land transfers"/>
+		<term name="Military facilities and property"/>
+		<term name="Natural disasters"/>
+		<term name="Public contracts and procurement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/2009--Introduced.<br/>Additional Safeguards For Lease and Development of Non-Excess Property of Military Departments Act - Prohibits the lease of non-excess land that is under the control of a military department if the land is located in an area designated UBC Seismic Zone 4. Provides for an exception if the Secretary concerned determines that seismic activity would not have any significant impact on any portion of the proposed development under the lease. Prohibits such Secretary from omitting a revocation provision from a lease allowed under this exception. Requires revocation of previously-approved leases in such zones unless a lease is under substantial construction or the Secretary determines a lease should not be revoked.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="801" updated="2009-01-09T09:31:41-05:00">
+	<status><vote date="1194481320" datetime="2007-11-07T20:22:00-05:00" where="h" result="pass" how="roll" roll="1059"/></status>
+
+	<introduced date="1194325200" datetime="2007-11-06"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 3688) to implement the United States-Peru Trade Promotion Agreement.</title>
+	</titles>
+	<sponsor id="400663"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1194399120" datetime="2007-11-06T21:32:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-432, by Ms. Matsui.</text></action>
+		<action date="1194399120" datetime="2007-11-06T21:32:00-05:00"><text>Rule provides for consideration of H.R. 3688 with 3 hours of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. Bill is closed to amendments.</text></action>
+		<calendar date="1194399120" datetime="2007-11-06T21:32:00-05:00" ><text>Placed on the House Calendar, Calendar No. 147.</text></calendar>
+		<action date="1194474780" datetime="2007-11-07T18:33:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H13254-13263"/></action>
+		<action date="1194474840" datetime="2007-11-07T18:34:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 801.</text></action>
+		<action date="1194479700" datetime="2007-11-07T19:55:00-05:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H13262"/></action>
+		<vote date="1194481320" how="roll" roll="1059" datetime="2007-11-07T20:22:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by recorded vote: 349 - 55 (Roll no. 1059).</text><reference label="text" ref="CR H13254"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/7/2007--Passed House without amendment. Sets forth the rule for consideration of H.R. 3688 (United States-Peru Trade Promotion Agreement Implementation Act).<br/>
+	</summary>
+</bill>

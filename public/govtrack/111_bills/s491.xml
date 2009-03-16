@@ -1,0 +1,43 @@
+<bill session="111" type="s" number="491" updated="2009-03-07T14:31:46-05:00">
+	<status><introduced date="1235624400" datetime="2009-02-26"/></status>
+
+	<introduced date="1235624400" datetime="2009-02-26"/>
+	<titles>
+		<title type="short" as="introduced">Federal and Military Retiree Health Care Equity Act</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow Federal civilian and military retirees to pay health insurance premiums on a pretax basis and to allow a deduction for TRICARE supplemental premiums.</title>
+	</titles>
+	<sponsor id="412249"/>
+	<cosponsors>
+		<cosponsor id="412321" joined="2009-02-26"/>
+		<cosponsor id="300025" joined="2009-02-26"/>
+		<cosponsor id="400064" joined="2009-02-26"/>
+		<cosponsor id="300014" joined="2009-02-26"/>
+		<cosponsor id="300001" joined="2009-02-26"/>
+		<cosponsor id="300030" joined="2009-03-03"/>
+		<cosponsor id="300060" joined="2009-02-26"/>
+		<cosponsor id="300038" joined="2009-02-26"/>
+		<cosponsor id="300034" joined="2009-02-26"/>
+		<cosponsor id="400054" joined="2009-02-26"/>
+		<cosponsor id="300084" joined="2009-02-26"/>
+		<cosponsor id="300064" joined="2009-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1235624400" datetime="2009-02-26"><text>Sponsor introductory remarks on measure. (CR S2565)</text></action>
+		<action date="1235624400" datetime="2009-02-26"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S2565"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="1203" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

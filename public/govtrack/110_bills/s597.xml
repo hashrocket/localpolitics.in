@@ -1,0 +1,115 @@
+<bill session="110" type="s" number="597" updated="2009-01-09T12:28:04-05:00">
+	<status><enacted date="1198213200" datetime="2007-12-21" /></status>
+
+	<introduced date="1171429200" datetime="2007-02-14"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend the special postage stamp for breast cancer research for 2 years.</title>
+		<title type="official" as="amended by house">A bill to amend title 39, United States Code, to extend the authority of the United States Postal Service to issue a semipostal to raise funds for breast cancer research.</title>
+		<title type="official" as="amended by senate">An act to amend title 39, United States Code, to extend the authority of the United States Postal Service to issue a semipostal to raise funds for breast cancer research.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="2007-02-14"/>
+		<cosponsor id="300065" joined="2007-02-14"/>
+		<cosponsor id="300005" joined="2007-02-14"/>
+		<cosponsor id="300025" joined="2007-06-06"/>
+		<cosponsor id="300070" joined="2007-05-02"/>
+		<cosponsor id="300018" joined="2007-02-14"/>
+		<cosponsor id="300011" joined="2007-02-14"/>
+		<cosponsor id="300055" joined="2007-11-02"/>
+		<cosponsor id="300008" joined="2007-02-14"/>
+		<cosponsor id="300047" joined="2007-02-14"/>
+		<cosponsor id="300093" joined="2007-02-28"/>
+		<cosponsor id="300098" joined="2007-02-14"/>
+		<cosponsor id="300042" joined="2007-02-14"/>
+		<cosponsor id="300071" joined="2007-07-16"/>
+		<cosponsor id="300052" joined="2007-02-15"/>
+		<cosponsor id="300024" joined="2007-05-03"/>
+		<cosponsor id="300088" joined="2007-02-28"/>
+		<cosponsor id="400619" joined="2007-02-14"/>
+		<cosponsor id="400621" joined="2007-03-05"/>
+		<cosponsor id="300038" joined="2007-02-14"/>
+		<cosponsor id="300073" joined="2007-02-14"/>
+		<cosponsor id="300087" joined="2007-02-14"/>
+		<cosponsor id="300092" joined="2007-02-28"/>
+		<cosponsor id="300013" joined="2007-02-14"/>
+		<cosponsor id="300034" joined="2007-02-14"/>
+		<cosponsor id="300041" joined="2007-09-06"/>
+		<cosponsor id="300068" joined="2007-02-15"/>
+		<cosponsor id="412247" joined="2007-07-25"/>
+		<cosponsor id="300037" joined="2007-04-10"/>
+		<cosponsor id="300077" joined="2007-03-14"/>
+		<cosponsor id="300023" joined="2007-02-28"/>
+		<cosponsor id="400576" joined="2007-02-16"/>
+		<cosponsor id="300083" joined="2007-05-02"/>
+		<cosponsor id="300035" joined="2007-02-15"/>
+		<cosponsor id="300062" joined="2007-02-14"/>
+		<cosponsor id="400050" joined="2007-05-03"/>
+		<cosponsor id="300010" joined="2007-02-15"/>
+		<cosponsor id="300054" joined="2007-02-14"/>
+		<cosponsor id="300022" joined="2007-02-14"/>
+		<cosponsor id="300040" joined="2007-02-28"/>
+		<cosponsor id="300014" joined="2007-02-15"/>
+		<cosponsor id="300048" joined="2007-02-28"/>
+		<cosponsor id="300067" joined="2007-02-16"/>
+		<cosponsor id="300097" joined="2007-02-14"/>
+		<cosponsor id="300091" joined="2007-02-14"/>
+		<cosponsor id="300076" joined="2007-03-05"/>
+		<cosponsor id="300078" joined="2007-09-24"/>
+		<cosponsor id="300075" joined="2007-02-14"/>
+		<cosponsor id="300063" joined="2007-04-10"/>
+		<cosponsor id="300036" joined="2007-02-14"/>
+		<cosponsor id="300006" joined="2007-04-10"/>
+		<cosponsor id="300095" joined="2007-02-14"/>
+		<cosponsor id="400629" joined="2007-05-24"/>
+		<cosponsor id="412248" joined="2007-05-03"/>
+		<cosponsor id="400357" joined="2007-02-28"/>
+		<cosponsor id="400054" joined="2007-02-14"/>
+		<cosponsor id="400194" joined="2007-03-26"/>
+		<cosponsor id="300058" joined="2007-04-24"/>
+		<cosponsor id="300099" joined="2007-02-14"/>
+		<cosponsor id="300090" joined="2007-11-01"/>
+		<cosponsor id="300100" joined="2007-11-08"/>
+		<cosponsor id="300064" joined="2007-04-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1171429200" datetime="2007-02-14"><text>Sponsor introductory remarks on measure. (CR S1975-1976)</text></action>
+		<action date="1171429200" datetime="2007-02-14"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text><reference label="text of measure as introduced" ref="CR S1976"/></action>
+		<action date="1175227200" datetime="2007-03-30"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+		<calendar date="1185940800" datetime="2007-08-01" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1194411600" datetime="2007-11-07"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-222.</text></action>
+		<calendar under="General Orders" number="473" date="1194411600" datetime="2007-11-07" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 473.</text></calendar>
+		<action date="1195016400" datetime="2007-11-14"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S14416"/></action>
+		<vote date="1195016400" how="by Unanimous Consent" datetime="2007-11-14" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.</text><reference label="text" ref="CR S14416"/></vote>
+		<action date="1195134720" datetime="2007-11-15T09:52:00-05:00"><text>Received in the House.</text></action>
+		<action date="1195102800" datetime="2007-11-15"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1195186020" datetime="2007-11-15T12:07:00-05:00"><text>Held at the desk.</text></action>
+		<action date="1197397140" datetime="2007-12-11T14:19:00-05:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1197397200" datetime="2007-12-11T14:20:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H15248-15249"/></action>
+		<action date="1197397200" datetime="2007-12-11T14:20:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 597.</text></action>
+		<vote date="1197397500" how="by voice vote" datetime="2007-12-11T14:25:00-05:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H15248"/></vote>
+		<action date="1197397500" datetime="2007-12-11T14:25:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1197435600" datetime="2007-12-12"><text>Message on House action received in Senate and at desk: House amendments to Senate bill.</text></action>
+		<action date="1197522000" datetime="2007-12-13"><text>Senate concurred in House amendments (text and title) by Unanimous Consent.</text><reference label="consideration" ref="CR S15568"/><reference label="text as Senate agreed to House amendments" ref="CR S15568"/></action>
+		<topresident date="1197522000" datetime="2007-12-13" ><text>Cleared for White House.</text></topresident>
+		<action date="1197608400" datetime="2007-12-14"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1198040400" datetime="2007-12-19" ><text>Presented to President.</text></topresident>
+		<signed date="1198213200" datetime="2007-12-21" ><text>Signed by President.</text></signed>
+		<enacted number="110-150" date="1198213200" datetime="2007-12-21" type="public" ><text>Became Public Law No: 110-150.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/21/2007--Public Law. Extends through December 31, 2011, provisions requiring the U.S. Postal Service to issue a special postage stamp for first-class mail that costs not less than 15% more than the regular first-class stamp to contribute funding for breast cancer research. Requires the National Institutes of Health (NIH) and the Department of Defense (DOD) to annually report to Congress and the Government Accountability Office (GAO) on the use of any such funding, including a description of any significant advances or accomplishments.<br/>
+	</summary>
+</bill>

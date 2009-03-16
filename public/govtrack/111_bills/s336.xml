@@ -1,0 +1,173 @@
+<bill session="111" type="s" number="336" updated="2009-03-07T14:13:41-05:00">
+	<status><calendar date="1233032400" datetime="2009-01-27" /></status>
+
+	<introduced date="1233032400" datetime="2009-01-27"/>
+	<titles>
+		<title type="short" as="introduced">American Recovery and Reinvestment Act of 2009</title>
+		<title type="short" as="introduced">Health Information Technology for Economic and Clinical Health Act</title>
+		<title type="short" as="introduced">HITECH Act</title>
+		<title type="short" as="reported to senate">American Recovery and Reinvestment Act of 2009</title>
+		<title type="short" as="reported to senate">Health Information Technology for Economic and Clinical Health Act</title>
+		<title type="short" as="reported to senate">HITECH Act</title>
+		<title type="official" as="introduced">An original bill making supplemental appropriations for job preservation and creation, infrastructure investment, energy efficiency and science, assistance to the unemployed, and State and local fiscal stabilization, for the fiscal year ending September 30, 2009, and for other purposes.</title>
+	</titles>
+	<sponsor id="300056"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar date="1233032400" datetime="2009-01-27" ><text>Committee on Appropriations ordered to be reported an original measure.</text></calendar>
+		<action date="1233032400" datetime="2009-01-27"><text>Committee on Appropriations. Original measure reported to Senate by Senator Inouye. With written report No. 111-3.</text></action>
+		<calendar under="General Orders" number="19" date="1233032400" datetime="2009-01-27" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 19.</text></calendar>
+	</actions>
+	<committees>
+		<committee name="Senate Appropriations" subcommittee="" activity="Origin, Reporting, Markup" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="1" />
+		<bill relation="unknown" session="111" type="h" number="1" />
+		<bill relation="unknown" session="111" type="h" number="679" />
+		<bill relation="unknown" session="111" type="h" number="679" />
+	</relatedbills>
+	<subjects>
+		<term name="Economics and public finance"/>
+		<term name="Academic performance and assessments"/>
+		<term name="Advanced technology and technological innovations"/>
+		<term name="Advisory bodies"/>
+		<term name="Aging"/>
+		<term name="Agricultural insurance"/>
+		<term name="Agricultural prices, subsidies, credit"/>
+		<term name="Agricultural research"/>
+		<term name="Alternative and renewable resources"/>
+		<term name="Alternative dispute resolution, mediation, arbitration"/>
+		<term name="American Samoa"/>
+		<term name="Appropriations"/>
+		<term name="Atmospheric science and weather"/>
+		<term name="Aviation and airports"/>
+		<term name="Border security and unlawful immigration"/>
+		<term name="Broadcasting, cable, digital media"/>
+		<term name="Buy American requirements"/>
+		<term name="Centers for Disease Control and Prevention (CDC)"/>
+		<term name="Child care and development"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional oversight"/>
+		<term name="Corporation for National and Community Service"/>
+		<term name="Correctional facilities and imprisonment"/>
+		<term name="Crime prevention"/>
+		<term name="Crimes against women"/>
+		<term name="Defense spending"/>
+		<term name="Department of Agriculture"/>
+		<term name="Department of Defense"/>
+		<term name="Department of Education"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Department of Homeland Security"/>
+		<term name="Department of Housing and Urban Development"/>
+		<term name="Department of Justice"/>
+		<term name="Department of Labor"/>
+		<term name="Department of State"/>
+		<term name="Department of Transportation"/>
+		<term name="Department of Veterans Affairs"/>
+		<term name="Department of the Interior"/>
+		<term name="Department of the Treasury"/>
+		<term name="Diplomacy, foreign officials, Americans abroad"/>
+		<term name="Disability and paralysis"/>
+		<term name="Disaster relief and insurance"/>
+		<term name="District of Columbia"/>
+		<term name="Economic development"/>
+		<term name="Economic performance and conditions"/>
+		<term name="Education of the disadvantaged"/>
+		<term name="Education programs funding"/>
+		<term name="Educational facilities and institutions"/>
+		<term name="Electric power generation and transmission"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Employee benefits and pensions"/>
+		<term name="Employment and training programs"/>
+		<term name="Energy efficiency and conservation"/>
+		<term name="Environmental Protection Agency (EPA)"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Federal Bureau of Investigation (FBI)"/>
+		<term name="Financial crises and failures"/>
+		<term name="Financial services and investments"/>
+		<term name="Fires"/>
+		<term name="Floods and storm protection"/>
+		<term name="Food assistance and relief"/>
+		<term name="Foreign aid and international relief"/>
+		<term name="Forests"/>
+		<term name="Fraud offenses"/>
+		<term name="General Services Administration"/>
+		<term name="Government Accountability Office (GAO)"/>
+		<term name="Government buildings, facilities, and property"/>
+		<term name="Government investigations"/>
+		<term name="Government lending"/>
+		<term name="Hazardous wastes and toxic substances"/>
+		<term name="Health care quality"/>
+		<term name="Health facilities and institutions"/>
+		<term name="Health information and medical records"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Higher education"/>
+		<term name="Historic sites and heritage areas"/>
+		<term name="Homelessness and emergency shelter"/>
+		<term name="Housing and community development funding"/>
+		<term name="Housing finance and home ownership"/>
+		<term name="Humanities programs funding"/>
+		<term name="Hybrid, electric, and advanced technology vehicles"/>
+		<term name="Indian social and development programs"/>
+		<term name="Infrastructure development"/>
+		<term name="International organizations and cooperation"/>
+		<term name="Internet and video services"/>
+		<term name="Latin America"/>
+		<term name="Law enforcement administration and funding"/>
+		<term name="Law enforcement officers"/>
+		<term name="Marine and inland water transportation"/>
+		<term name="Medical research"/>
+		<term name="Mexico"/>
+		<term name="Military cemeteries and funerals"/>
+		<term name="Military facilities and property"/>
+		<term name="Military personnel and dependents"/>
+		<term name="Military procurement, research, weapons development"/>
+		<term name="Mississippi River"/>
+		<term name="National Aeronautics and Space Administration"/>
+		<term name="National Foundation on the Arts and the Humanities"/>
+		<term name="National Guard and reserves"/>
+		<term name="National Institutes of Health (NIH)"/>
+		<term name="National Railroad Passenger Corporation (Amtrak)"/>
+		<term name="National Science Foundation"/>
+		<term name="Northern Mariana Islands"/>
+		<term name="Nuclear weapons"/>
+		<term name="Parks, recreation areas, trails"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Public housing"/>
+		<term name="Public transit"/>
+		<term name="Railroads"/>
+		<term name="Research administration and funding"/>
+		<term name="Research and development"/>
+		<term name="Right of privacy"/>
+		<term name="Roads and highways"/>
+		<term name="Rural conditions and development"/>
+		<term name="Small Business Administration"/>
+		<term name="Small business"/>
+		<term name="Smithsonian Institution"/>
+		<term name="Social Security Administration"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+		<term name="Solid waste and recycling"/>
+		<term name="Special education"/>
+		<term name="Student aid and college costs"/>
+		<term name="Teaching, teachers, curricula"/>
+		<term name="Transportation programs funding"/>
+		<term name="Transportation safety and security"/>
+		<term name="U.S. Agency for International Development (USAID)"/>
+		<term name="Unemployment"/>
+		<term name="User charges and fees"/>
+		<term name="Veterans' medical care"/>
+		<term name="Violent crime"/>
+		<term name="Wages and earnings"/>
+		<term name="Water resources funding"/>
+		<term name="Watersheds"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/2009--Introduced.<br/>American Recovery and Reinvestment Act of 2009 - Makes supplemental appropriations for FY2009 to: (1) the Department of Agriculture; (2) the Department of Commerce; (3) the Department of Justice (DOJ); (4) the National Aeronautics and Space Administration (NASA); (5) the National Science Foundation; (6) the Department of Defense (DOD); (7) the Department of the Army, Corps of Engineers - Civil; (8) the Department of the Interior; and (9) the Department of Energy.<br/>Makes additional appropriations for FY2009 to the Secretary of Agriculture to provide a temporary increase in benefits under the Supplemental Nutrition Assistance Program.<br/>Amends the Crop Insurance Act and the Trade Act of 1974 to provide 2008 transition assistance to certain farmers for lost income due to natural disasters and other unforeseen events. Instructs the Assistant Secretary of Commerce for Communications and Information to establish a national broadband service development and expansion program in conjunction with the Broadband Technology Opportunities Program.<br/>Makes additional borrowing authority available to the Bonneville Power Administration.<br/>Amends the Hoover Power Plant Act of 1984 to authorize the Western Area Power Administration to borrow funds from the Treasury for: (1) new or upgraded electric power transmission lines and related facilities; and (2) the delivery of power generated by renewable energy resources after enactment of this Act.<br/>Makes technical corrections to the Energy Independence and Security Act of 2007.<br/>Revises requirements with respect to smart grid regional demonstration initiatives.<br/>Instructs the Secretary of Energy to establish a smart grid information clearinghouse.<br/>Amends the Energy Policy Act of 2005 to direct the Secretary to make loan guarantees for rapid deployment before FY2012 of renewable energy and electric power transmission projects.<br/>Amends the Energy Conservation and Production Act to increase the income eligibility level for the Weatherization Assistance Program, as well as the maximum amount of financial assistance.<br/>Makes supplemental appropriations for FY2009: (1) to the Department of the Treasury; (2) for federal payments to the District of Columbia; (3) to the General Services Administration (GSA); (4) to the Recovery Act Accountability and Transparency Board; and (5) to Small Business Administration (SBA).<br/>Provides temporary elimination of SBA fees on: (1) small-business loans; (2) state and local development program loans; and (3) lender oversight fees.<br/>Provides increased SBA loan leverage and investment limits. Authorizes the SBA to refinance certain loans to state and local development companies.<br/>Makes supplemental appropriations for FY2009 to: (1) the Department of Homeland Security (DHS); (2) the Department of the Interior; (3) the Environmental Protection Agency (EPA); (4) the Department of Agriculture; (5) the Department of Health and Human Services (HHS); (6) the Smithsonian Institution; (7) the National Foundation on the Arts and the Humanities; (8) the National Endowment for the Arts; (9) the Department of Labor (DOL), Employment and Training Administration; (10) the Department of Health and Human Services (HHS); (11) the Department of Education; (12) the Corporation for National and Community Service; (13) the National Service Trust; (14) the Social Security Administration (SSA); (15) the Government Accountability Office (GAO); (16) the DOD; (17) the Department of Veterans Affairs; (18) the DOD - Civil; (19) the Department of State; (20) the Department of Transportation; and (21) the Department of Housing and Urban Development (HUD).<br/>Requires the President to establish an arbitration panel under the Federal Emergency Management Agency (FEMA) public assistance program to expedite the recovery efforts from Hurricanes Katrina, Rita, Gustav, and Ike within the Gulf Coast Region.<br/>Amends the U.S. Troop Readiness, Veterans' Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007 to require GAO (currently, the Secretary of Labor) to report on the impact of past and future minimum wage increases in American Samoa and the Commonwealth of the Northern Mariana Islands regarding living standards and rates of employment.<br/>Establishes the Federal Coordinating Council for Comparative Clinical Effectiveness Research.<br/>Provides grants for higher education facility modernization, renovation, and repair.<br/>Amends the Longshore and Harbor Workers' Compensation Act to revise the exclusion from the meaning of &quot;employee in the recreational marine industry&quot; of any individuals employed to repair a recreational vessel or to dismantle any part of it in connection with its repair.<br/>Amends the Demonstration Cities and Metropolitan Development Act of 1966 to expand temporarily the homeowners assistance plan to respond to mortgage foreclosures and the credit crisis with respect to: (1) acquisition of property at or near military installations that have been ordered to be closed; (2) homeowner assistance for wounded members of the Armed Forces and DOD and U.S. Coast Guard civilian employees and their spouses; and (3) temporary homeowner assistance for members of the Armed Forces permanently reassigned during a specified period involving a mortgage crisis.<br/>Provides for payments to eligible persons who served in the Armed Forces in the Far East during World War II.<br/>Directs the Secretary of Health and Human Services to invest in the infrastructure necessary to allow for and promote the electronic exchange and use of health information for each individual in the United States, consistent with the goals outlined in the Strategic Plan developed by the Office of the National Coordinator for Health Information Technology.<br/>Establishes a State Stabilization Fund which the Secretary of Education is to use to provide grants to states: (1) to restore state funding for elementary, secondary, and postsecondary education; (2) to supplement school improvement funds provided to local educational agencies (LEAs) under the Elementary and Secondary Education Act of 1965; and (3) for public safety and other government services. Reserves a portion of such Fund for: (1) awarding grants to states that make significant progress in addressing inequities in teacher distribution, establishing longitudinal education data systems, and improving educational assessments; and (2) establishing an Innovation Fund to award states, LEAs, and schools that make significant progress in closing student achievement gaps.<br/>Establishes the Recovery Accountability and Transparency Board.<br/>Designates each amount in this Act as an emergency requirement, necessary to meet certain emergency needs in accordance with the FY2008-FY2009 congressional budget resolutions.<br/>Makes all funds appropriated in this Act available for obligation in such current fiscal year, unless expressly expressly provided otherwise.<br/>Prohibits the use of funds for a project for the construction, alteration, maintenance, or repair of a public building or public work unless all of the iron and steel used in the project is domestic, except in certain circumstances.<br/>Prohibits a state or local agency from receiving infrastructure investment funding from funds made available under this Act unless its chief executive certifies that: (1) such investment funding has been reviewed and vetted; and (2) the investment is an appropriate use of taxpayer dollars.<br/>Amends the Emergency Economic Stabilization Act of 2008 to revise contracting requirements to include individuals with disabilities and businesses owned by such persons.<br/>
+	</summary>
+</bill>

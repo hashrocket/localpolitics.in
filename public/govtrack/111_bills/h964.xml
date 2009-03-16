@@ -1,0 +1,47 @@
+<bill session="111" type="h" number="964" updated="2009-03-07T11:41:41-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="short" as="introduced">Emergency Solar Power Permit Act</title>
+		<title type="official" as="introduced">To amend the National Environmental Policy Act of 1969 to exempt any solar energy project on lands managed by the Bureau of Land Management from an environmental impact statement requirement.</title>
+	</titles>
+	<sponsor id="400343"/>
+	<cosponsors>
+		<cosponsor id="400144" joined="2009-02-10"/>
+		<cosponsor id="400277" joined="2009-02-10"/>
+		<cosponsor id="400057" joined="2009-02-13"/>
+		<cosponsor id="400570" joined="2009-02-10"/>
+		<cosponsor id="400209" joined="2009-02-10"/>
+		<cosponsor id="400330" joined="2009-02-10"/>
+		<cosponsor id="412270" joined="2009-03-04"/>
+		<cosponsor id="400643" joined="2009-02-10"/>
+		<cosponsor id="400348" joined="2009-02-13"/>
+		<cosponsor id="400154" joined="2009-02-10"/>
+		<cosponsor id="412256" joined="2009-02-10"/>
+		<cosponsor id="400440" joined="2009-02-10"/>
+		<cosponsor id="400029" joined="2009-02-13"/>
+		<cosponsor id="400288" joined="2009-02-10"/>
+		<cosponsor id="400055" joined="2009-02-10"/>
+		<cosponsor id="400141" joined="2009-02-10"/>
+		<cosponsor id="412011" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the House Committee on Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Introduced.<br/>Emergency Solar Power Permit Act - Amends the National Environmental Policy Act of 1969 to exempt any action relating to the development, deployment, or operation of a solar energy project on lands managed by the Bureau of Land Management (BLM) from environmental impact statement (EIS) requirements.<br/>Requires each federal agency, for any such action relating to a solar energy project, to cease the preparation of an EIS to the extent that its preparation would delay or otherwise interfere with the action.<br/>
+	</summary>
+</bill>

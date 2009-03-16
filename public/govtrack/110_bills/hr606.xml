@@ -1,0 +1,41 @@
+<bill session="110" type="hr" number="606" updated="2009-01-09T09:07:41-05:00">
+	<status><vote date="1189011000" datetime="2007-09-05T13:50:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1186027200" datetime="2007-08-02"/>
+	<titles>
+		<title type="official" as="introduced">Honoring the city of Minneapolis, first responders, and the citizens of the State of Minnesota for their valiant efforts in responding to the horrific collapse of the Interstate Route 35W Mississippi River Bridge.</title>
+	</titles>
+	<sponsor id="412215"/>
+	<cosponsors>
+		<cosponsor id="400332" joined="2007-08-02"/>
+		<cosponsor id="412214" joined="2007-08-02"/>
+		<cosponsor id="400316" joined="2007-08-02"/>
+		<cosponsor id="400224" joined="2007-08-02"/>
+		<cosponsor id="400259" joined="2007-08-02"/>
+		<cosponsor id="412216" joined="2007-08-02"/>
+		<cosponsor id="400299" joined="2007-08-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1186027200" datetime="2007-08-02"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1189009560" datetime="2007-09-05T13:26:00-04:00"><text>Mr. Walz (MN) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1189009620" datetime="2007-09-05T13:27:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10107-10111"/></action>
+		<action date="1189009620" datetime="2007-09-05T13:27:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 606.</text></action>
+		<vote date="1189011000" how="by voice vote" datetime="2007-09-05T13:50:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H10107"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/5/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Honors the city of Minneapolis, first responders, and the citizens of Minnesota for their efforts in responding to the collapse of the Interstate Route 35W Mississippi River Bridge. Recognizes the leadership and commitment of the elected officials of the city, the state, and Hennepin County. Extends sympathy to the families of those lost.<br/>Reaffirms support and commitment to all of the nation's law enforcement officers, firefighters, and emergency medical technicians as they selflessly serve their communities. 
+	</summary>
+</bill>

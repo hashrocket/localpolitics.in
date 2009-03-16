@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="507" updated="2009-03-07T10:47:14-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow a temporary dividends received deduction for taxable years beginning in 2008 or 2009.</title>
+	</titles>
+	<sponsor id="400046"/>
+	<cosponsors>
+		<cosponsor id="400206" joined="2009-01-14"/>
+		<cosponsor id="400242" joined="2009-01-15"/>
+		<cosponsor id="400633" joined="2009-01-15"/>
+		<cosponsor id="400176" joined="2009-01-14"/>
+		<cosponsor id="400654" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Employment and training programs"/>
+		<term name="Foreign and international corporations"/>
+		<term name="Income tax deductions"/>
+		<term name="Taxation of foreign income"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/14/2009--Introduced.<br/>Amends Internal Revenue Code provisions relating to the tax deduction for dividends received by a U.S. corporation from a controlled foreign corporation to: (1) extend the applicability of such provisions to taxable years beginning after FY2008; and (2) reduce such deduction for corporations that do not maintain certain employment levels. 
+	</summary>
+</bill>

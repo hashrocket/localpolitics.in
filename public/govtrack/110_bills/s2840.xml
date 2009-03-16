@@ -1,0 +1,56 @@
+<bill session="110" type="s" number="2840" updated="2009-01-09T17:46:55-05:00">
+	<status><enacted date="1223524800" datetime="2008-10-09" /></status>
+
+	<introduced date="1207800000" datetime="2008-04-10"/>
+	<titles>
+		<title type="short" as="introduced">Military Personnel Citizenship Processing Act</title>
+		<title type="short" as="passed house">Military Personnel Citizenship Processing Act</title>
+		<title type="short" as="reported to senate">Military Personnel Citizenship Processing Act</title>
+		<title type="short" as="passed senate">Military Personnel Citizenship Processing Act</title>
+		<title type="short" as="enacted">Military Personnel Citizenship Processing Act</title>
+		<title type="official" as="introduced">A bill to establish a liaison with the Federal Bureau of Investigation in United States Citizenship and Immigration Services to expedite naturalization applications filed by members of the Armed Forces and to establish a deadline for processing such applications.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2008-05-06"/>
+		<cosponsor id="400272" joined="2008-04-15"/>
+		<cosponsor id="300059" joined="2008-04-21"/>
+		<cosponsor id="300092" joined="2008-04-23"/>
+		<cosponsor id="300050" joined="2008-04-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1207800000" datetime="2008-04-10"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+		<calendar date="1210219200" datetime="2008-05-08" ><text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1217563200" datetime="2008-08-01"><text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. With written report No. 110-440.</text></action>
+		<calendar under="General Orders" number="936" date="1217563200" datetime="2008-08-01" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 936.</text></calendar>
+		<vote date="1222228800" how="by Unanimous Consent" datetime="2008-09-24" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S9433-9434"/><reference label="text as passed Senate" ref="CR S9433-9434"/></vote>
+		<action date="1222347780" datetime="2008-09-25T10:03:00-04:00"><text>Received in the House.</text></action>
+		<action date="1222315200" datetime="2008-09-25"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1222315200" datetime="2008-09-25"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1222550460" datetime="2008-09-27T18:21:00-04:00"><text>Mr. Conyers moved to suspend the rules and pass the bill.</text></action>
+		<action date="1222550460" datetime="2008-09-27T18:21:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10257-10258"/></action>
+		<action date="1222550460" datetime="2008-09-27T18:21:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 2840.</text></action>
+		<action date="1222550820" datetime="2008-09-27T18:27:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Smith (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1222645860" datetime="2008-09-28T20:51:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10309"/></action>
+		<vote date="1222646580" how="roll" roll="668" datetime="2008-09-28T21:03:00-04:00" where="h" type="vote2" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 416 - 0 (Roll no. 668). (text: CR 9/27/2008 H10257)</text></vote>
+		<topresident date="1222574400" datetime="2008-09-28" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1222747200" datetime="2008-09-30" ><text>Presented to President.</text></topresident>
+		<signed date="1223524800" datetime="2008-10-09" ><text>Signed by President.</text></signed>
+		<enacted number="110-382" date="1223524800" datetime="2008-10-09" type="public" ><text>Became Public Law No: 110-382.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/9/2008--Public Law. (This measure has not been amended since it was reported to the Senate on August 1, 2008. The summary of that version is repeated here.) Military Personnel Citizenship Processing Act - Amends the Homeland Security Act of 2002 to establish an Office of the FBI Liaison in the Department of Homeland Security (DHS) which shall monitor and assist with Federal Bureau of Investigation (FBI) functions related to expeditiously processing naturalization applications filed by or on behalf of: (1) members and former members of the Armed Forces; (2) current spouses of active Armed Forces members and surviving spouses and children of U.S. citizens who died while on active duty; or (3) deceased individuals eligible for posthumous citizenship. Authorizes appropriations. Amends the the Immigration and Nationality Act to require that United States Citizenship and Immigration Services (USCIS) within six months of receipt of a naturalization application filed by a member of the Armed Forces, or the spouse, surviving spouse, or child of such member: (1) process and adjudicate the application, including background checks; or (2) provide the applicant with an explanation for the inability to meet such deadline and an estimate of the adjudication date. Requires that: (1) the Director of USCIS report annually to the appropriate congressional subcommittees identifying all such naturalization applications that have not been processed and adjudicated within one year because of background check delays; and (2) the Comptroller General report to Congress regarding the average length of time taken by USCIS to process and adjudicate naturalization applications filed by members of the Armed Forces, deceased members of the Armed Forces, and their spouses and children. Repeals the provisions of this Act five years after the date of enactment of this Act.<br/>
+	</summary>
+</bill>

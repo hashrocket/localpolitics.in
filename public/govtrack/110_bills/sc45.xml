@@ -1,0 +1,44 @@
+<bill session="110" type="sc" number="45" updated="2009-01-09T19:45:44-05:00">
+	<status><vote2 date="1194991200" datetime="2007-11-13T18:00:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1190001600" datetime="2007-09-17"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution commending the Ed Block Courage Award Foundation for its work in aiding children and families affected by child abuse, and designating November 2007 as National Courage Month.</title>
+	</titles>
+	<sponsor id="400064"/>
+	<cosponsors>
+		<cosponsor id="300073" joined="2007-09-18"/>
+		<cosponsor id="300027" joined="2007-09-17"/>
+	</cosponsors>
+	<actions>
+		<action date="1190001600" datetime="2007-09-17"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S11603"/></action>
+		<calendar date="1190865600" datetime="2007-09-27" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1190865600" datetime="2007-09-27"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="398" date="1190865600" datetime="2007-09-27" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 398.</text></calendar>
+		<vote date="1191384000" how="by Unanimous Consent" datetime="2007-10-03" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S12691-12692"/><reference label="text as passed Senate" ref="CR S12691-12692"/></vote>
+		<action date="1191503820" datetime="2007-10-04T10:17:00-04:00"><text>Received in the House.</text></action>
+		<action date="1191470400" datetime="2007-10-04"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1191470400" datetime="2007-10-04"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1194498000" datetime="2007-11-08"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1194498000" datetime="2007-11-08" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1194991020" datetime="2007-11-13T17:57:00-05:00"><text>Mr. Davis (IL) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1194991080" datetime="2007-11-13T17:58:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H13813-13814"/></action>
+		<action date="1194991080" datetime="2007-11-13T17:58:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 45.</text></action>
+		<vote date="1194991200" how="by voice vote" datetime="2007-11-13T18:00:00-05:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H13813"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/13/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Expresses the sense of Congress that: (1) National Courage Month provides an opportunity to educate the people of the United States about the positive role that professional athletes can play as inspirations for America's youth; and (2) the Ed Block Courage Award Foundation should be recognized for its outstanding contributions toward helping those affected by child abuse. 
+	</summary>
+</bill>

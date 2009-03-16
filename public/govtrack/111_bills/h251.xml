@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="251" updated="2009-03-07T10:17:14-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Life Insurance Employee Notification Act</title>
+		<title type="official" as="introduced">To prevent the nondisclosure of employer-owned life insurance coverage of employees as an unfair trade practice under the Federal Trade Commission Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="400160"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the Committee on Education and Labor, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to House Education and Labor</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to House Energy and Commerce</text></action>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Employment discrimination and employee rights"/>
+		<term name="Insurance industry and regulation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Life Insurance Employee Notification Act - Requires an employer to notify an employee in writing upon the purchase of an employer-owned insurance policy on the life of such employee for a beneficiary other than the individual who is the subject of the policy.<br/>Declares that violation of this Act constitutes an unfair method of competition and an unfair or deceptive act or practice under the Federal Trade Commission Act.<br/>
+	</summary>
+</bill>

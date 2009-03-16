@@ -1,0 +1,37 @@
+<bill session="111" type="s" number="515" updated="2009-03-13T12:14:40-04:00">
+	<status><introduced date="1236056400" datetime="2009-03-03"/></status>
+
+	<introduced date="1236056400" datetime="2009-03-03"/>
+	<titles>
+		<title type="short" as="introduced">Patent Reform Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend title 35, United States Code, to provide for patent reform.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="2009-03-03"/>
+		<cosponsor id="300030" joined="2009-03-03"/>
+		<cosponsor id="300087" joined="2009-03-03"/>
+		<cosponsor id="412247" joined="2009-03-03"/>
+		<cosponsor id="412322" joined="2009-03-03"/>
+		<cosponsor id="412223" joined="2009-03-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1236056400" datetime="2009-03-03"><text>Sponsor introductory remarks on measure. (CR S2706-2707)</text></action>
+		<action date="1236056400" datetime="2009-03-03"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S2707-2715"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="1260" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

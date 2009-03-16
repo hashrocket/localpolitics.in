@@ -1,0 +1,36 @@
+<bill session="110" type="s" number="1523" updated="2009-01-09T14:58:40-05:00">
+	<status><calendar date="1181102400" datetime="2007-06-06" /></status>
+
+	<introduced date="1179979200" datetime="2007-05-24"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Clean Air Act to reduce emissions of carbon dioxide from the Capitol power plant.</title>
+	</titles>
+	<sponsor id="300011"/>
+	<cosponsors>
+		<cosponsor id="300002" joined="2007-05-24"/>
+		<cosponsor id="300067" joined="2007-06-11"/>
+		<cosponsor id="300072" joined="2007-06-11"/>
+		<cosponsor id="300099" joined="2007-06-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1179979200" datetime="2007-05-24"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar date="1181102400" datetime="2007-06-06" ><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1198040400" datetime="2007-12-19"><text>Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-254.</text></action>
+		<calendar under="General Orders" number="553" date="1198040400" datetime="2007-12-19" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 553.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/19/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Amends the Clean Air Act to direct the Administrator of the Environmental Protection Agency (EPA) to establish a competitive grant demonstration program to carry out projects to demonstrate the capture and storage or use of carbon dioxide emitted from the Capitol power plant in Washington, D.C., as a result of burning coal. Requires the Administrator, in providing grants, to take into consideration: (1) the practicability of conversion by the proposed project of carbon dioxide into useful products; (2) the carbon dioxide energy efficiency of the proposed project; and (3) whether the proposed project is able to reduce more than one regulated air pollutant. Requires entities that receive grants to use technology designed to reduce or eliminate emission of carbon dioxide that has been used: (1) by not less than three other facilities (including a coal-fired power plant); and (2) on a scale of not less than five times the size of the proposed project of the entity at the Capitol power plant. Requires such entities to carry out a project in consultation and concurrence with the Architect of the Capitol. Authorizes the Administrator to provide to an entity that receives such a grant an incentive award for sustained operation. Terminates the program after two years after this Act's enactment. Authorizes appropriations.<br/>
+	</summary>
+</bill>

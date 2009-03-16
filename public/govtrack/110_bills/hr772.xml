@@ -1,0 +1,43 @@
+<bill session="110" type="hr" number="772" updated="2009-01-09T09:28:05-05:00">
+	<status><vote date="1201028340" datetime="2008-01-22T14:59:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1193198400" datetime="2007-10-24"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the American Highway Users Alliance on the occasion of its 75th anniversary, and for other purposes.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="400273" joined="2007-10-24"/>
+		<cosponsor id="400116" joined="2007-10-24"/>
+		<cosponsor id="400318" joined="2007-10-31"/>
+		<cosponsor id="400100" joined="2007-10-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1193198400" datetime="2007-10-24"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1193284800" datetime="2007-10-25"><text>Referred to the Subcommittee on Highways and Transit.</text></action>
+		<action date="1193803200" datetime="2007-10-31"><text>Subcommittee on Highways and Transit Discharged.</text></action>
+		<action date="1193803200" datetime="2007-10-31"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1193803200" datetime="2007-10-31" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1195164540" datetime="2007-11-15T18:09:00-05:00"><text>Reported by the Committee on Transportation. H. Rept. 110-453.</text></action>
+		<calendar number="159" date="1195164540" datetime="2007-11-15T18:09:00-05:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 159.</text></calendar>
+		<action date="1201028040" datetime="2008-01-22T14:54:00-05:00"><text>Mr. DeFazio moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1201028100" datetime="2008-01-22T14:55:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H367-368"/></action>
+		<action date="1201028100" datetime="2008-01-22T14:55:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 772.</text></action>
+		<vote date="1201028340" how="by voice vote" datetime="2008-01-22T14:59:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H367"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the American Highway Users Alliance on its 75th anniversary. Commends its many achievements and encourages it to continue its tradition of excellence in service to motorists and the transportation industry.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="5349" updated="2009-01-09T03:59:39-05:00">
+	<status><vote date="1202933460" datetime="2008-02-13T16:11:00-05:00" where="h" result="fail" how="roll" roll="54"/></status>
+
+	<introduced date="1202792400" datetime="2008-02-12"/>
+	<titles>
+		<title type="official" as="introduced">To extend the Protect America Act of 2007 for 21 days.</title>
+	</titles>
+	<sponsor id="400080"/>
+	<cosponsors>
+		<cosponsor id="400337" joined="2008-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1202792400" datetime="2008-02-12"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1202792400" datetime="2008-02-12"><text>Referred to House Judiciary</text></action>
+		<action date="1202792400" datetime="2008-02-12"><text>Referred to House Intelligence (Permanent Select)</text></action>
+		<action date="1202862060" datetime="2008-02-12T20:21:00-05:00"><text>Rules Committee Resolution H. Res. 976 Reported to House. Rule provides for consideration of H.R. 5349 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.</text></action>
+		<action date="1202964840" datetime="2008-02-13T12:54:00-05:00"><text>Rule H. Res. 976 passed House.</text></action>
+		<action date="1202923260" datetime="2008-02-13T13:21:00-05:00"><text>Considered under the provisions of rule H. Res. 976.</text><reference label="consideration" ref="CR H887-892"/><reference label="text of measure as introduced" ref="CR H887"/></action>
+		<action date="1202923260" datetime="2008-02-13T13:21:00-05:00"><text>Rule provides for consideration of H.R. 5349 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.</text></action>
+		<action date="1202923320" datetime="2008-02-13T13:22:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H.R. 5349.</text></action>
+		<action date="1202926500" datetime="2008-02-13T14:15:00-05:00"><text>Pursuant to section 2 of H. Res. 976, further proceedings on H.R. 5349 are postponed.</text></action>
+		<action date="1202929560" datetime="2008-02-13T15:06:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H901-907"/></action>
+		<action date="1202929620" datetime="2008-02-13T15:07:00-05:00"><text>DEBATE - Pursuant to H. Res. 976, the House resumed debate on H.R. 5349.</text></action>
+		<action date="1202931060" datetime="2008-02-13T15:31:00-05:00"><text>Mr. Smith (TX) moved to recommit with instructions to Judiciary.</text><reference label="consideration" ref="CR H905-906"/></action>
+		<action date="1202931060" datetime="2008-02-13T15:31:00-05:00"><text>Mr. Conyers raised a point of order against the motion to recommit with instructions. Mr. Conyers stated that the amendment contained in the motion to recommit with instructions was not germane and should not be considered. Sustained by the Chair.</text></action>
+		<action date="1202931060" datetime="2008-02-13T15:31:00-05:00"><text>Point of order sustained against the motion to recommit with instructions.</text></action>
+		<action date="1202931300" datetime="2008-02-13T15:35:00-05:00"><text>Mr. Smith (TX) appealed the ruling of the chair. The question was then put on sustaining the ruling of the chair.</text></action>
+		<action date="1202931360" datetime="2008-02-13T15:36:00-05:00"><text>Mr. Conyers moved to table the appeal of the ruling of the Chair.</text></action>
+		<action date="1202932860" datetime="2008-02-13T16:01:00-05:00"><text>On motion to table the appeal of the ruling of the Chair Agreed to by the Yeas and Nays: 222 - 196 (Roll no. 53).</text><reference label="consideration" ref="CR H906"/></action>
+		<vote date="1202933460" how="roll" roll="54" datetime="2008-02-13T16:11:00-05:00" where="h" type="vote" result="fail" ><text>On passage Failed by recorded vote: 191 - 229 (Roll no. 54).</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2008--Introduced.<br/>Amends the Protect America Act of 2007 (currently set to expire on February 16, 2008) to extend its authority for 21days.<br/>
+	</summary>
+</bill>

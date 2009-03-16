@@ -1,0 +1,37 @@
+<bill session="110" type="s" number="3501" updated="2009-01-09T19:11:29-05:00">
+	<status><calendar date="1222315200" datetime="2008-09-25" /></status>
+
+	<introduced date="1221537600" datetime="2008-09-16"/>
+	<titles>
+		<title type="short" as="introduced">OLC Reporting Act of 2008</title>
+		<title type="short" as="reported to senate">OLC Reporting Act of 2008</title>
+		<title type="official" as="introduced">A bill to ensure that Congress is notified when the Department of Justice determines that the Executive Branch is not bound by a statute.</title>
+	</titles>
+	<sponsor id="300042"/>
+	<cosponsors>
+		<cosponsor id="300043" joined="2008-09-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1221537600" datetime="2008-09-16"><text>Sponsor introductory remarks on measure. (CR S8859-8861)</text></action>
+		<action date="1221537600" datetime="2008-09-16"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S8861-8862"/></action>
+		<calendar date="1222315200" datetime="2008-09-25" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1222315200" datetime="2008-09-25"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="1083" date="1222315200" datetime="2008-09-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1083.</text></calendar>
+		<action date="1228971600" datetime="2008-12-11"><text>By Senator Leahy from Committee on the Judiciary filed written report. Report No. 110-528.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/25/2008--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>OLC Reporting Act of 2008 - Amends the federal judicial code to require the Attorney General to report to Congress on any instance in which the Attorney General or any officer of the Department of Justice issues an authoritative legal interpretation of any provision of a federal statute that: (1) concludes that the provision is unconstitutional or would be unconstitutional in a particular application; (2) relies for its conclusion on a determination that any other interpretation would raise constitutional concerns under article II of the Constitution or separation of powers principles; (3) relies for its conclusion on a legal presumption against applying the provision to the executive branch or any member thereof; or (4) concludes the provision has been superseded or deprived of effect by a subsequently enacted statute where there is no express statutory language stating an intent to do so. Provides for the protection of privileged and classified information contained in a report by the Attorney General on the enforcement of laws.<br/>
+	</summary>
+</bill>

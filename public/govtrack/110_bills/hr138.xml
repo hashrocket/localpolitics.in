@@ -1,0 +1,42 @@
+<bill session="110" type="hr" number="138" updated="2009-01-09T08:10:57-05:00">
+	<status><vote date="1174341540" datetime="2007-03-19T18:59:00-04:00" where="h" result="pass" how="roll" roll="157"/></status>
+
+	<introduced date="1170824400" datetime="2007-02-07"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the importance of Hot Springs National Park on its 175th anniversary.</title>
+	</titles>
+	<sponsor id="400345"/>
+	<cosponsors>
+		<cosponsor id="400040" joined="2007-02-07"/>
+		<cosponsor id="400383" joined="2007-02-07"/>
+		<cosponsor id="400026" joined="2007-02-07"/>
+		<cosponsor id="412236" joined="2007-02-16"/>
+		<cosponsor id="400326" joined="2007-02-16"/>
+		<cosponsor id="400391" joined="2007-02-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1170824400" datetime="2007-02-07"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1170910800" datetime="2007-02-08"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1174324080" datetime="2007-03-19T14:08:00-04:00"><text>Mr. Grijalva moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1174324080" datetime="2007-03-19T14:08:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2627-2628"/></action>
+		<action date="1174324080" datetime="2007-03-19T14:08:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 138.</text></action>
+		<action date="1174324560" datetime="2007-03-19T14:16:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1174339860" datetime="2007-03-19T18:31:00-04:00"><text>Considered as unfinished business. (CR H2637-2638)</text></action>
+		<vote date="1174341540" how="roll" roll="157" datetime="2007-03-19T18:59:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 157).</text><reference label="text" ref="CR H2627"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/19/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the important contributions of Hot Springs National Park to the history of conservation in the United States on its 175th anniversary. 
+	</summary>
+</bill>

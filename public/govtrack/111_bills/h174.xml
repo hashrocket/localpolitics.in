@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="174" updated="2009-03-07T10:08:18-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To direct the Secretary of Veterans Affairs to establish a national cemetery for veterans in the southern Colorado region.</title>
+	</titles>
+	<sponsor id="400620"/>
+	<cosponsors>
+		<cosponsor id="400199" joined="2009-01-09"/>
+		<cosponsor id="412308" joined="2009-03-03"/>
+		<cosponsor id="412204" joined="2009-01-09"/>
+		<cosponsor id="412192" joined="2009-01-23"/>
+		<cosponsor id="400101" joined="2009-01-09"/>
+		<cosponsor id="412191" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Veterans' Affairs</text></action>
+		<action date="1231218000" datetime="2009-01-06"><committee name="House Veterans' Affairs"/><text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Ways and Means</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Disability Assistance and Memorial Affairs" activity="Referral" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Colorado"/>
+		<term name="Land transfers"/>
+		<term name="Military cemeteries and funerals"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Directs the Secretary of Veterans Affairs to establish a national cemetery in El Paso County, Colorado.<br/>
+	</summary>
+</bill>

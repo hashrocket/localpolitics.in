@@ -1,0 +1,72 @@
+<bill session="110" type="h" number="1722" updated="2009-01-08T20:26:40-05:00">
+	<status><enacted date="1186632000" datetime="2007-08-09" /></status>
+
+	<introduced date="1174968000" datetime="2007-03-27"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 601 Banyan Trail in Boca Raton, Florida, as the &quot;Leonard W. Herman Post Office&quot;.</title>
+	</titles>
+	<sponsor id="400430"/>
+	<cosponsors>
+		<cosponsor id="400279" joined="2007-03-27"/>
+		<cosponsor id="400273" joined="2007-03-27"/>
+		<cosponsor id="400623" joined="2007-03-27"/>
+		<cosponsor id="400170" joined="2007-03-27"/>
+		<cosponsor id="412195" joined="2007-03-27"/>
+		<cosponsor id="400344" joined="2007-03-27"/>
+		<cosponsor id="400388" joined="2007-03-27"/>
+		<cosponsor id="412250" joined="2007-03-27"/>
+		<cosponsor id="400427" joined="2007-03-27"/>
+		<cosponsor id="412197" joined="2007-03-27"/>
+		<cosponsor id="412198" joined="2007-03-27"/>
+		<cosponsor id="400086" joined="2007-03-27"/>
+		<cosponsor id="400212" joined="2007-03-27"/>
+		<cosponsor id="400048" joined="2007-03-27"/>
+		<cosponsor id="400044" joined="2007-03-27"/>
+		<cosponsor id="400051" joined="2007-03-27"/>
+		<cosponsor id="400131" joined="2007-03-27"/>
+		<cosponsor id="400270" joined="2007-03-27"/>
+		<cosponsor id="400439" joined="2007-03-27"/>
+		<cosponsor id="400107" joined="2007-03-27"/>
+		<cosponsor id="400328" joined="2007-03-27"/>
+		<cosponsor id="412196" joined="2007-03-27"/>
+		<cosponsor id="400108" joined="2007-03-27"/>
+		<cosponsor id="400622" joined="2007-03-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1174968000" datetime="2007-03-27"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1177992000" datetime="2007-05-01"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1177992000" datetime="2007-05-01" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1179772380" datetime="2007-05-21T15:33:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1179772440" datetime="2007-05-21T15:34:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5483-5484"/></action>
+		<action date="1179772440" datetime="2007-05-21T15:34:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1722.</text></action>
+		<action date="1179772740" datetime="2007-05-21T15:39:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1179862980" datetime="2007-05-22T16:43:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5583-5584"/></action>
+		<vote date="1179863340" how="roll" roll="401" datetime="2007-05-22T16:49:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 401). (text: CR 5/21/2007 H5484)</text></vote>
+		<action date="1179892800" datetime="2007-05-23"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1184299200" datetime="2007-07-13"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+		<calendar date="1185940800" datetime="2007-08-01" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1185940800" datetime="2007-08-01"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="307" date="1185940800" datetime="2007-08-01" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 307.</text></calendar>
+		<vote date="1186113600" how="by Unanimous Consent" datetime="2007-08-03" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10978-10979"/></vote>
+		<topresident date="1186113600" datetime="2007-08-03" ><text>Cleared for White House.</text></topresident>
+		<action date="1186200000" datetime="2007-08-04"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1186372800" datetime="2007-08-06" ><text>Presented to President.</text></topresident>
+		<signed date="1186632000" datetime="2007-08-09" ><text>Signed by President.</text></signed>
+		<enacted number="110-64" date="1186632000" datetime="2007-08-09" type="public" ><text>Became Public Law No: 110-64.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/9/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 601 Banyan Trail in Boca Raton, Florida, as the &quot;Leonard W. Herman Post Office.&quot; 
+	</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="110" type="h" number="3247" updated="2009-01-08T23:36:26-05:00">
+	<status><vote date="1193685780" datetime="2007-10-29T16:23:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1185854400" datetime="2007-07-31"/>
+	<titles>
+		<title type="short" as="introduced">Hurricanes Katrina and Rita Recovery Facilitation Act of 2007</title>
+		<title type="short" as="reported to house">Hurricanes Katrina and Rita Recovery Facilitation Act of 2007</title>
+		<title type="short" as="passed house">Hurricanes Katrina and Rita Recovery Facilitation Act of 2007</title>
+		<title type="short" as="reported to senate">Hurricanes Katrina and Rita Recovery Facilitation Act of 2007</title>
+		<title type="official" as="introduced">To improve the provision of disaster assistance for Hurricanes Katrina and Rita, and for other purposes.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+		<cosponsor id="400635" joined="2007-07-31"/>
+		<cosponsor id="400634" joined="2007-07-31"/>
+		<cosponsor id="400399" joined="2007-07-31"/>
+		<cosponsor id="400319" joined="2007-07-31"/>
+		<cosponsor id="400012" joined="2007-07-31"/>
+		<cosponsor id="400201" joined="2007-07-31"/>
+	</cosponsors>
+	<actions>
+		<action date="1185854400" datetime="2007-07-31"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1185940800" datetime="2007-08-01"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1185940800" datetime="2007-08-01"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1185940800" datetime="2007-08-01"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1186027200" datetime="2007-08-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1186027200" datetime="2007-08-02" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1192719240" datetime="2007-10-18T11:54:00-04:00"><text>Reported (Amended) by the Committee on Transportation. H. Rept. 110-387.</text></action>
+		<calendar number="241" date="1192719240" datetime="2007-10-18T11:54:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 241.</text></calendar>
+		<action date="1193684520" datetime="2007-10-29T16:02:00-04:00"><text>Ms. Norton moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1193684580" datetime="2007-10-29T16:03:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H12124-12128"/></action>
+		<action date="1193684580" datetime="2007-10-29T16:03:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3247.</text></action>
+		<vote date="1193685780" how="by voice vote" datetime="2007-10-29T16:23:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H12124-12125"/></vote>
+		<action date="1193716800" datetime="2007-10-30"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<calendar date="1207800000" datetime="2008-04-10" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1221710400" datetime="2008-09-18"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 110-471.</text></action>
+		<calendar under="General Orders" number="1031" date="1221710400" datetime="2008-09-18" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1031.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/29/2007--Passed House amended. Hurricanes Katrina and Rita Recovery Facilitation Act of 2007 - Directs the President to increase the amount of federal contributions under the Robert T. Stafford Disaster Relief and Emergency Assistance Act in lieu of repairing, restoring, reconstructing, or replacing any facility damaged in Louisiana and Mississippi as a result of Hurricanes Katrina and Rita to 90% of the federal share of the federal estimate of such cost.<br/>Makes Louisiana, Mississippi, and local governments in such states eligible to participate in the pilot program under the Department of Homeland Security Appropriations Act, 2007 that would increase the federal share of debris removal and financial incentives to expedite recovery project completion. Authorizes and encourages the President to use alternative dispute resolution procedures for appeals of decisions made under the Stafford Act regarding the award, denial, or amount of assistance to specified parties for covered hurricane damages. Directs the President to report to specified congressional committees on how such procedures are being used, with recommendations on whether the President should be given the authority to use such procedures on a permanent basis.<br/>Authorizes the President, subject to specified limitations, to: (1) provide assistance under the Stafford Act for the re-interment of human remains at a privately-owned for-profit cemetery or a nonprofit cemetery; (2) use a simplified procedure under that Act, if requested by specified parties, for a project for which the federal estimate of the cost is less than $100,000; (3) provide temporary housing units for volunteers assisting in the recovery; and (4) make contributions to Louisiana for costs incurred with respect to public facilities used to host public events (including the reasonable costs of renting or leasing a facility that was used for conducting response activities for Hurricane Katrina or Rita between August 29, 2005, and January 6, 2006).<br/>Authorizes: (1) a project for covered hurricane damages initiated by Louisiana or Mississippi between August 29, 2005, and this Act's enactment date to contribute toward the nonfederal share of hazard mitigation assistance under the Stafford Act if the project complies with all applicable federal laws governing such assistance and otherwise is eligible to contribute to the nonfederal share, notwithstanding any requirement for presidential approval; and (2) Louisiana and Mississippi to submit an application to the President under the Stafford Act with respect to any such project.<br/>
+	</summary>
+</bill>

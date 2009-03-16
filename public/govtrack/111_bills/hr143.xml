@@ -1,0 +1,34 @@
+<bill session="111" type="hr" number="143" updated="2009-03-07T13:23:10-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="official" as="introduced">Raising a question of the privileges of the House.</title>
+	</titles>
+	<sponsor id="400068"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234307460" datetime="2009-02-10T19:11:00-05:00"><text>QUESTION OF THE PRIVILEGES OF THE HOUSE - Mr. Carter rose to a question of the privileges of the House and offered a resolution. The Chair directed the Clerk to report the resolution.</text></action>
+		<action date="1234307460" datetime="2009-02-10T19:11:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H1128-1129"/><reference label="text of measure as introduced" ref="CR H1128"/></action>
+		<action date="1234307700" datetime="2009-02-10T19:15:00-05:00"><text>At the conclusion of the reading of the resolution the Chair announced that the resolution qualified as a question of privilege.</text></action>
+		<action date="1234307760" datetime="2009-02-10T19:16:00-05:00"><text>Mr. Crowley moved to table the measure.</text></action>
+		<action date="1234309080" datetime="2009-02-10T19:38:00-05:00"><text>On motion to table the measure Agreed to by the Yeas and Nays: 242 - 157, 16 Present (Roll no. 57).</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

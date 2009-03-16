@@ -1,0 +1,33 @@
+<bill session="111" type="hr" number="229" updated="2009-03-13T12:12:09-04:00">
+	<status><calendar date="1236709800" datetime="2009-03-10T15:30:00-04:00" /></status>
+
+	<introduced date="1236657600" datetime="2009-03-10"/>
+	<titles>
+		<title type="official" as="introduced">Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules, and for other purposes.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1236709800" datetime="2009-03-10T15:30:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 111-35, by Mr. McGovern.</text></action>
+		<action date="1236709800" datetime="2009-03-10T15:30:00-04:00"><text>The resolution waives clause 6(a) of rule XIII (requiring a two-thirds vote to consider a rule on the same day it is reported from the Rules Committee) against certain resolutions reported from the Rules Committee on the legislative day of March 9, 2009 and which provides for consideration or disposition of any measure making appropriations for the fiscal year 2009, and for other purposes. The resolution also provides that House Resolutions 218 and 219 are laid on the table.</text></action>
+		<calendar date="1236709800" datetime="2009-03-10T15:30:00-04:00" ><text>Placed on the House Calendar, Calendar No. 25.</text></calendar>
+		<action date="1236866160" datetime="2009-03-12T10:56:00-04:00"><text>Pursuant to the provisions of H. Res. 235, H. Res. 229 is laid on the table.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Rules" subcommittee="" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="235" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

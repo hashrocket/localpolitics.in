@@ -1,0 +1,39 @@
+<bill session="110" type="sr" number="596" updated="2009-01-09T21:12:56-05:00">
+	<status><vote date="1214193600" datetime="2008-06-23" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1213848000" datetime="2008-06-19"/>
+	<titles>
+		<title type="official" as="introduced">A resolution congratulating the Boston Celtics on winning the 2008 National Basketball Association Championship.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2008-06-19"/>
+		<cosponsor id="300059" joined="2008-06-19"/>
+		<cosponsor id="300034" joined="2008-06-19"/>
+		<cosponsor id="412247" joined="2008-06-19"/>
+		<cosponsor id="300081" joined="2008-06-19"/>
+		<cosponsor id="300067" joined="2008-06-19"/>
+		<cosponsor id="300095" joined="2008-06-19"/>
+		<cosponsor id="300049" joined="2008-06-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1213848000" datetime="2008-06-19"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S5838-5839"/></action>
+		<action date="1214193600" datetime="2008-06-23"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S5971-5972"/></action>
+		<vote date="1214193600" how="by Unanimous Consent" datetime="2008-06-23" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text as passed Senate" ref="CR S5971-5972"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/23/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Congratulates: (1) the Boston Celtics for winning the 2008 National Basketball Association (NBA) Championship; and (2) the Los Angeles Lakers for their success during the 2008 season and winning the NBA Western Conference Championship.<br/>
+	</summary>
+</bill>

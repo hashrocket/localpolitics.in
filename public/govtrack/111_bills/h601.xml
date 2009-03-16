@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="601" updated="2009-03-07T10:58:15-05:00">
+	<status><vote date="1235431140" datetime="2009-02-23T19:19:00-05:00" where="h" result="pass" how="roll" roll="74"/></status>
+
+	<introduced date="1232082000" datetime="2009-01-16"/>
+	<titles>
+		<title type="short" as="introduced">Box Elder Utah Land Conveyance Act</title>
+		<title type="short" as="passed house">Box Elder Utah Land Conveyance Act</title>
+		<title type="official" as="introduced">To provide for the conveyance of parcels of land to Mantua, Box Elder County, Utah.</title>
+	</titles>
+	<sponsor id="400029"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1232082000" datetime="2009-01-16"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action date="1235419440" datetime="2009-02-23T16:04:00-05:00"><text>Ms. Bordallo moved to suspend the rules and pass the bill.</text></action>
+		<action date="1235419440" datetime="2009-02-23T16:04:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1626-1627"/></action>
+		<action date="1235419440" datetime="2009-02-23T16:04:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 601.</text></action>
+		<action date="1235419680" datetime="2009-02-23T16:08:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1235430600" datetime="2009-02-23T19:10:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1636"/></action>
+		<vote date="1235431140" how="roll" roll="74" datetime="2009-02-23T19:19:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 1 (Roll no. 74).</text><reference label="text" ref="CR H1626-1627"/></vote>
+		<action date="1235451600" datetime="2009-02-24"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+		<committee name="Senate Energy and Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Forests"/>
+		<term name="Land transfers"/>
+		<term name="Utah"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Box Elder Utah Land Conveyance Act - Directs the Secretary of Agriculture to convey to the town of Mantua, Utah, all interest of the United States in and to parcels of National Forest System land in the Wasatch-Cache National Forest in Box Elder County, Utah, that are labeled as parcels A, B, and C on the map entitled &quot;Box Elder Utah Land Conveyance Act&quot; and dated July 14, 2008. Requires the town to use the land conveyed under this Act for public purposes. 
+	</summary>
+</bill>

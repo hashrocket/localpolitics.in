@@ -1,0 +1,32 @@
+<bill session="111" type="h" number="660" updated="2009-03-07T11:05:19-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Carlos Espinal Castillo-Reynolds.</title>
+	</titles>
+	<sponsor id="400421"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1233810000" datetime="2009-02-05"><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2009--Introduced.<br/>Provides for the relief of Carlos Espinal Castillo-Reynolds.<br/>
+	</summary>
+</bill>

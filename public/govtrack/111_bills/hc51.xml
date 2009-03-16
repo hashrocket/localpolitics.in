@@ -1,0 +1,42 @@
+<bill session="111" type="hc" number="51" updated="2009-03-07T09:31:02-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the 50th anniversary of the signing of the Antarctic Treaty.</title>
+	</titles>
+	<sponsor id="400406"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2009-02-12"/>
+		<cosponsor id="412272" joined="2009-02-12"/>
+		<cosponsor id="400057" joined="2009-02-12"/>
+		<cosponsor id="400155" joined="2009-02-12"/>
+		<cosponsor id="400178" joined="2009-02-12"/>
+		<cosponsor id="400411" joined="2009-02-12"/>
+		<cosponsor id="400129" joined="2009-02-12"/>
+		<cosponsor id="400649" joined="2009-02-12"/>
+		<cosponsor id="400318" joined="2009-02-12"/>
+		<cosponsor id="400119" joined="2009-02-12"/>
+		<cosponsor id="400260" joined="2009-02-12"/>
+		<cosponsor id="412273" joined="2009-02-12"/>
+		<cosponsor id="400652" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Foreign Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

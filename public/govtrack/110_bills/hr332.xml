@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="332" updated="2009-01-09T08:34:25-05:00">
+	<status><vote date="1177540620" datetime="2007-04-25T19:37:00-04:00" where="h" result="pass" how="roll" roll="264"/></status>
+
+	<introduced date="1177387200" datetime="2007-04-24"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the conference report to accompany the bill (H.R. 1591) making emergency supplemental appropriations for the fiscal year ending September 30, 2007, and for other purposes.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1177453740" datetime="2007-04-24T19:29:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-110, by Ms. Slaughter.</text></action>
+		<action date="1177453740" datetime="2007-04-24T19:29:00-04:00"><text>All points of order against the conference report and against its consideration are waived. The conference report shall be considered as read.</text></action>
+		<calendar date="1177453800" datetime="2007-04-24T19:30:00-04:00" ><text>Placed on the House Calendar, Calendar No. 45.</text></calendar>
+		<action date="1177535340" datetime="2007-04-25T18:09:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H4121-4131"/></action>
+		<action date="1177535400" datetime="2007-04-25T18:10:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 332.</text></action>
+		<action date="1177539300" datetime="2007-04-25T19:15:00-04:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H4131"/></action>
+		<vote date="1177540620" how="roll" roll="264" datetime="2007-04-25T19:37:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by recorded vote: 226 - 195 (Roll no. 264).</text><reference label="text" ref="CR H4121"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/25/2007--Passed House without amendment. Sets forth the rule for consideration of the conference report on H.R. 1591 (U.S. Troop Readiness, Veterans' Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007). 
+	</summary>
+</bill>

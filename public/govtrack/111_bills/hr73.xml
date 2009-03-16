@@ -1,0 +1,88 @@
+<bill session="111" type="hr" number="73" updated="2009-03-07T13:14:35-05:00">
+	<status><vote date="1232600220" datetime="2009-01-21T12:57:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1232082000" datetime="2009-01-16"/>
+	<titles>
+		<title type="official" as="introduced">Observing the birthday of Martin Luther King, Jr., and encouraging the people of the United States to observe the birthday of Martin Luther King, Jr., and the life and legacy of Dr. Martin Luther King, Jr., and for other purposes.</title>
+	</titles>
+	<sponsor id="400240"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="2009-01-16"/>
+		<cosponsor id="400041" joined="2009-01-21"/>
+		<cosponsor id="400133" joined="2009-01-16"/>
+		<cosponsor id="412319" joined="2009-01-16"/>
+		<cosponsor id="400199" joined="2009-01-16"/>
+		<cosponsor id="400227" joined="2009-01-21"/>
+		<cosponsor id="412193" joined="2009-01-21"/>
+		<cosponsor id="400364" joined="2009-01-16"/>
+		<cosponsor id="400289" joined="2009-01-16"/>
+		<cosponsor id="412199" joined="2009-01-16"/>
+		<cosponsor id="400381" joined="2009-01-16"/>
+		<cosponsor id="412263" joined="2009-01-16"/>
+		<cosponsor id="400080" joined="2009-01-16"/>
+		<cosponsor id="400162" joined="2009-01-16"/>
+		<cosponsor id="400383" joined="2009-01-21"/>
+		<cosponsor id="412204" joined="2009-01-16"/>
+		<cosponsor id="400282" joined="2009-01-16"/>
+		<cosponsor id="400426" joined="2009-01-16"/>
+		<cosponsor id="412274" joined="2009-01-16"/>
+		<cosponsor id="400195" joined="2009-01-21"/>
+		<cosponsor id="400251" joined="2009-01-21"/>
+		<cosponsor id="400366" joined="2009-01-21"/>
+		<cosponsor id="400295" joined="2009-01-21"/>
+		<cosponsor id="400623" joined="2009-01-16"/>
+		<cosponsor id="400271" joined="2009-01-16"/>
+		<cosponsor id="400430" joined="2009-01-16"/>
+		<cosponsor id="400129" joined="2009-01-21"/>
+		<cosponsor id="400424" joined="2009-01-16"/>
+		<cosponsor id="412305" joined="2009-01-16"/>
+		<cosponsor id="400118" joined="2009-01-21"/>
+		<cosponsor id="400628" joined="2009-01-16"/>
+		<cosponsor id="412215" joined="2009-01-21"/>
+		<cosponsor id="400198" joined="2009-01-21"/>
+		<cosponsor id="412236" joined="2009-01-16"/>
+		<cosponsor id="412186" joined="2009-01-21"/>
+		<cosponsor id="400361" joined="2009-01-16"/>
+		<cosponsor id="412306" joined="2009-01-16"/>
+		<cosponsor id="400371" joined="2009-01-16"/>
+		<cosponsor id="412304" joined="2009-01-16"/>
+		<cosponsor id="400185" joined="2009-01-16"/>
+		<cosponsor id="400274" joined="2009-01-21"/>
+		<cosponsor id="400283" joined="2009-01-16"/>
+		<cosponsor id="412299" joined="2009-01-16"/>
+		<cosponsor id="400215" joined="2009-01-16"/>
+		<cosponsor id="400345" joined="2009-01-16"/>
+		<cosponsor id="400216" joined="2009-01-16"/>
+		<cosponsor id="400130" joined="2009-01-21"/>
+		<cosponsor id="400114" joined="2009-01-21"/>
+		<cosponsor id="400030" joined="2009-01-16"/>
+		<cosponsor id="400321" joined="2009-01-16"/>
+		<cosponsor id="400309" joined="2009-01-16"/>
+		<cosponsor id="400075" joined="2009-01-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1232082000" datetime="2009-01-16"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1232598480" datetime="2009-01-21T12:28:00-05:00"><text>Mr. Conyers moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1232598540" datetime="2009-01-21T12:29:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H394-398"/></action>
+		<action date="1232598600" datetime="2009-01-21T12:30:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 73.</text></action>
+		<vote date="1232600220" how="by voice vote" datetime="2009-01-21T12:57:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H394-395"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Racial and ethnic relations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Declares that the House of Representatives: (1) observes the 80th birthday of Martin Luther King, Jr.; and (2) pledges to advance Dr. King's legacy. Encourages the people of the United States to: (1) observe Dr. King's 80th birthday and his life; (2) commemorate his legacy so that, as Dr. King hoped, &quot;one day this nation will rise up and live out the true meaning of its creed: `We hold these truths to be self-evident; that all men are created equal'&quot;; and (3) remember Dr. King's message and rededicate themselves to his goal of a free and just United States.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="111" type="hr" number="78" updated="2009-03-07T13:15:13-05:00">
+	<status><vote date="1232633400" datetime="2009-01-22T10:10:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="official" as="introduced">Electing certain minority members to certain standing committees.</title>
+	</titles>
+	<sponsor id="400315"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1232633340" datetime="2009-01-22T10:09:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H445"/></action>
+		<vote date="1232633400" how="by voice vote" datetime="2009-01-22T10:10:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H445"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional committees"/>
+		<term name="House Committee on Agriculture"/>
+		<term name="House Committee on Energy and Commerce"/>
+		<term name="House Committee on Oversight and Government Reform"/>
+		<term name="House Committee on Science and Technology"/>
+		<term name="House Committee on Transportation and Infrastructure"/>
+		<term name="House Committee on Veterans' Affairs"/>
+		<term name="House Committee on the Budget"/>
+		<term name="House of Representatives"/>
+		<term name="Members of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Elects certain named Minority Members to specified House Committees.<br/>
+	</summary>
+</bill>

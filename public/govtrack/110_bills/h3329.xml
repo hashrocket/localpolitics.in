@@ -1,0 +1,97 @@
+<bill session="110" type="h" number="3329" updated="2009-01-08T23:47:38-05:00">
+	<status><vote date="1215637200" datetime="2008-07-09T18:00:00-04:00" where="h" result="pass" how="roll" roll="478"/></status>
+
+	<introduced date="1186027200" datetime="2007-08-02"/>
+	<titles>
+		<title type="short" as="introduced">Homes for Heroes Act of 2007</title>
+		<title type="short" as="passed house">Homes for Heroes Act of 2008</title>
+		<title type="official" as="introduced">To provide housing assistance for very low-income veterans.</title>
+	</titles>
+	<sponsor id="400653"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2007-12-11"/>
+		<cosponsor id="400661" joined="2007-12-11"/>
+		<cosponsor id="400133" joined="2008-06-12"/>
+		<cosponsor id="400031" joined="2008-06-25"/>
+		<cosponsor id="400413" joined="2008-02-06"/>
+		<cosponsor id="400210" joined="2008-06-25"/>
+		<cosponsor id="400080" joined="2007-10-03"/>
+		<cosponsor id="400162" joined="2007-09-18"/>
+		<cosponsor id="400302" joined="2007-09-17"/>
+		<cosponsor id="400430" joined="2007-09-24"/>
+		<cosponsor id="412195" joined="2008-05-15"/>
+		<cosponsor id="412215" joined="2007-09-19"/>
+		<cosponsor id="400379" joined="2008-01-23"/>
+		<cosponsor id="400274" joined="2007-08-02"/>
+		<cosponsor id="412189" joined="2008-06-26"/>
+		<cosponsor id="400370" joined="2007-12-05"/>
+		<cosponsor id="400396" joined="2007-10-01"/>
+		<cosponsor id="400355" joined="2007-09-18"/>
+		<cosponsor id="400262" joined="2008-05-20"/>
+		<cosponsor id="400249" joined="2007-12-05"/>
+		<cosponsor id="400030" joined="2008-07-09"/>
+		<cosponsor id="400316" joined="2008-01-22"/>
+		<cosponsor id="400008" joined="2008-05-22"/>
+		<cosponsor id="400356" joined="2007-11-08"/>
+		<cosponsor id="400048" joined="2008-05-15"/>
+		<cosponsor id="400051" joined="2008-07-08"/>
+		<cosponsor id="412193" joined="2008-01-22"/>
+		<cosponsor id="400103" joined="2007-11-08"/>
+		<cosponsor id="400259" joined="2007-09-24"/>
+		<cosponsor id="400422" joined="2008-05-13"/>
+		<cosponsor id="400251" joined="2007-11-08"/>
+		<cosponsor id="412232" joined="2007-12-13"/>
+		<cosponsor id="400360" joined="2007-11-13"/>
+		<cosponsor id="412239" joined="2007-09-17"/>
+		<cosponsor id="400074" joined="2008-05-13"/>
+		<cosponsor id="400415" joined="2007-12-19"/>
+		<cosponsor id="412236" joined="2007-08-03"/>
+		<cosponsor id="400009" joined="2008-02-06"/>
+		<cosponsor id="412186" joined="2007-10-23"/>
+		<cosponsor id="412228" joined="2007-11-08"/>
+		<cosponsor id="400043" joined="2007-11-13"/>
+		<cosponsor id="412220" joined="2008-05-13"/>
+		<cosponsor id="400283" joined="2008-05-22"/>
+		<cosponsor id="400204" joined="2008-01-23"/>
+		<cosponsor id="400033" joined="2007-12-13"/>
+		<cosponsor id="400208" joined="2007-11-08"/>
+		<cosponsor id="400240" joined="2008-07-08"/>
+		<cosponsor id="400215" joined="2007-09-17"/>
+		<cosponsor id="400163" joined="2007-12-11"/>
+		<cosponsor id="412194" joined="2007-11-08"/>
+		<cosponsor id="400179" joined="2008-01-22"/>
+		<cosponsor id="400639" joined="2007-08-03"/>
+		<cosponsor id="400067" joined="2007-08-03"/>
+		<cosponsor id="412233" joined="2007-11-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1186027200" datetime="2007-08-02"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1210305600" datetime="2008-05-09"><text>Referred to the Subcommittee on Housing and Community Opportunity.</text></action>
+		<action date="1210737600" datetime="2008-05-14"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1210737600" datetime="2008-05-14"><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action date="1214280000" datetime="2008-06-24"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1214280000" datetime="2008-06-24" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1215621240" datetime="2008-07-09T13:34:00-04:00"><text>Mr. Green, Al moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1215621240" datetime="2008-07-09T13:34:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6271-6278"/></action>
+		<action date="1215621240" datetime="2008-07-09T13:34:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3329.</text></action>
+		<action date="1215621960" datetime="2008-07-09T13:46:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1215636780" datetime="2008-07-09T17:53:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6305"/></action>
+		<vote date="1215637200" how="roll" roll="478" datetime="2008-07-09T18:00:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 9 (Roll no. 478).</text><reference label="text" ref="CR H6272-6276"/></vote>
+		<action date="1215662400" datetime="2008-07-10"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/9/2008--Passed House amended. Homes for Heroes Act of 2008 - (Sec. 2) Amends the Department of Housing and Urban Development Act to establish in the Department of Housing and Urban Development (HUD) a Special Assistant for Veterans Affairs to: (1) ensure veteran access to HUD housing and homeless assistance programs; (2) coordinate all HUD programs and activities relating to veterans; and (3) serve as a HUD liaison with the Department of Veterans Affairs. (Sec. 3) Directs the HUD Secretary to provide assistance in the form of planning grants, capital advances, and project rental assistance to private nonprofit organizations and consumer cooperatives to expand the supply of supportive housing for very low-income veteran families (that is, families with incomes not exceeding 50% of the area median income). Prescribes a formula for such families' rent contribution for a dwelling unit assisted under this Act. Allows the families to occupy such units for at least 15 years. Limits a project rental assistance contract to an initial 60-month term. Authorizes the Secretary, subject only to the availability of amounts provided in appropriations Acts, to renew the contract for 10 consecutive one-year terms, beginning upon the expiration of such 60-month period. Requires the Secretary to establish selection criteria for such assistance, based in part upon: (1) the extent to which the proposed housing design will meet the service-connected disability needs of such families; and (2) a preference in such selection for applications proposing housing to be reserved for occupancy by such families who are homeless. Directs the Secretary, in issuing a capital advance for projects, to delegate review and processing of such projects to a state or local housing agency that: (1) is in geographic proximity to the property; (2) has demonstrated experience in and capacity for underwriting multifamily housing loans that provide housing and supportive services; (3) may or may not be providing low-income housing tax credits in combination with such capital advance; and (4) agrees to issue a firm commitment within 12 months of delegation. Authorizes the Secretary to retain such processing authority if no state or local housing agency has applied to provide it or entered into an agreement with the Secretary to serve as a delegated processing agency. Allows such agencies to: (1) assess a reasonable fee to be included in the capital advance amounts; and (2) recommend project rental assistance amounts in excess of those initially awarded by the Secretary. Declares that the Secretary, under the delegated system, shall retain the authority to approve rents and development costs and to execute a capital advance within 60 days of receipt of the state or local agency's commitment. Requires the Secretary to coordinate with the Secretary of Veterans Affairs to ensure that any housing assistance provided to veterans or veteran families includes a range of specified services tailored to the occupant's needs. Requires the Secretary to coordinate with the Secretary of Veterans Affairs to ensure that owners of such assisted housing have the managerial capacity to: (1) assess the service needs of residents; (2) coordinate the provision of supportive services, tailoring them to a resident's individual needs; and (3) seek new sources of assistance to ensure the long-term provision of such services. Requires the Secretary periodically to establish reasonable development cost limitations by market area for various types and sizes of supportive housing for the families by publishing a notice of such limitations in the Federal Register. States that neither this Act nor any other provision of law may be construed as prohibiting or preventing the location and operation, in an assisted project, of commercial facilities for the benefit of project and community residents. Prohibits use of such assistance to subsidize any such commercial facility. Entitles project owners, if their actual development costs are less than the financing amount, to retain 50% of the savings in a special housing account, increased to 75% for owners which add energy efficiency features meeting specified requirements. Requires the Secretary to give owners the flexibility to design housing appropriate to their location and proposed resident population within broadly defined parameters. Permits an owner voluntarily to provide funds from sources other than this Act for amenities and other features of appropriate design and construction suitable for supportive housing if their cost is not: (1) financed with the capital advance; or (2) taken into account in determining the amount of federal assistance or tenant rent contribution. Requires an owner to: (1) adopt written tenant selection procedures that meet specified requirements; and (2) notify in writing any rejected applicant of the grounds for rejection. Requires the Secretary to make available appropriate technical assistance to ensure that prospective applicants are able to participate more fully in the program. Prescribes antidiscrimination, owner deposit, prevailing wage labor, residual receipt, project reserves, and other specified requirements and prohibitions. Authorizes appropriations for FY2008 and following fiscal years. (Sec. 4) Amends the United States Housing Act of 1937 to extend to all homeless veterans, regardless of medical condition, the program of rental vouchers (at least 20,000 per fiscal year) for Department of Veterans Affairs supported housing, which is currently limited to homeless veterans with chronic mental illnesses or chronic substance use disorders. Declares that if any veteran member of a household for which such rental assistance is being provided, including its sole veteran member, dies, such household may not be considered, due to such death, to lose its status as the household of a homeless veteran for continued: (1) assistance eligibility; or (2) occupancy in the dwelling unit in which such family is residing at the time of such death. Authorizes an annual increase in the budget authority for such rental assistance by sums necessary to provide the 20,000 additional vouchers for each fiscal year. (Sec. 5) Requires annual public housing agency (PHA) plans to include veterans. Amends the Cranston-Gonzalez National Affordable Housing Act to require a state and local comprehensive housing affordability strategy to include veterans. Requires the Secretary to revise the federal regulations relating to submission of consolidated plans in accordance with the amendments made by this Act to require inclusion of appropriate information relating to veterans and veterans service agencies in all such plans. (Sec. 6) Excludes veterans' benefits from income for purposes of HUD assisted housing rental eligibility determinations. (Sec. 7) Requires the Secretary to make grants to nonprofit entities or organizations for technical assistance in sponsoring HUD housing projects for veterans. Provides funding for such grants for FY2008 and ensuing fiscal years. (Sec. 8) Requires the Secretary to: (1) report annually to specified congressional committees on HUD veteran-related activities; and (2) assess every five years the housing needs of very low-income veteran families. Prescribes funding. 
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="3361" updated="2009-01-08T23:54:24-05:00">
+	<status><vote date="1205365740" datetime="2008-03-12T20:49:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1186113600" datetime="2007-08-03"/>
+	<titles>
+		<title type="short" as="introduced">Pension Protection Technical Corrections Act of 2007</title>
+		<title type="short" as="passed house">Pension Protection Technical Corrections Act of 2008</title>
+		<title type="official" as="introduced">To make technical corrections related to the Pension Protection Act of 2006.</title>
+	</titles>
+	<sponsor id="400333"/>
+	<cosponsors>
+		<cosponsor id="400267" joined="2007-08-03"/>
+		<cosponsor id="400261" joined="2007-08-03"/>
+		<cosponsor id="400278" joined="2007-08-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1186113600" datetime="2007-08-03"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Referred to House Ways and Means</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Referred to House Education and Labor</text></action>
+		<action date="1190174400" datetime="2007-09-19"><committee name="House Education and Labor"/><text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text></action>
+		<action date="1205364900" datetime="2008-03-12T20:35:00-04:00"><text>Mr. Pomeroy moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1205364960" datetime="2008-03-12T20:36:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1598-1606"/></action>
+		<action date="1205364960" datetime="2008-03-12T20:36:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3361.</text></action>
+		<vote date="1205365740" how="by voice vote" datetime="2008-03-12T20:49:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H1598-1604"/></vote>
+		<action date="1205441940" datetime="2008-03-13T17:59:00-04:00"><text>Mr. Stark asked unanimous consent that H.R. 3361 be engrossed in the form submitted to the desk. Agreed to without objection.</text></action>
+		<calendar under="General Orders" number="621" date="1206936000" datetime="2008-03-31" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 621.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/12/2008--Passed House amended. Pension Protection Technical Corrections Act of 2008 - Amends the Employee Retirement Income Security Act of 1974 (ERISA) and the Internal Revenue Code, as amended by the Pension Protection Act of 2006, to make changes to rules governing defined benefit and defined contribution pension plans. (Sec. 2) Modifies rules relating to increases in pension plan benefits while a waiver or amortization extension is in effect or with respect to retroactive amendments to such plans. Revises the definition of &quot;target normal cost&quot; with respect to increases and decreases in such costs. Requires the Secretary of the Treasury to prescribe rules for quarterly contributions to pension plans with a shortfall in 2008. (Sec. 3) Revises the criteria for use of the shortfall funding method for multiemployer defined benefit plans. Requires the Secretary of the Treasury, in consultation with the Secretary of Labor, to establish criteria for required notices relating to multiemployer plans in endangered or critical status. Revises: (1) criteria for implementation and enforcement of a multiemployer plan default schedule; (2) the definition of plan sponsor for purposes of multiemployer plan funding rules; and (3) the method for calculating the excise tax on trustees of multiemployer plans for failure to adopt a timely rehabilitation plan. (Sec. 4) Extends until 2009 the temporary interest rate for pension plan funding. (Sec. 5) Limits the coverage of the missing participant rules to qualified plans that did not provide for employer contributions. (Sec. 6) Revises requirements relating to: (1) annual funding notices for single and multiemployer defined benefit plans; (2) termination information for pension plan participants; (3) periodic pension benefit statements; and (4) notices to pension plan participants or beneficiaries of blackout periods (i.e, restrictions on plan operations, including investment changes).<br/>(Sec. 7) Modifies pension plan requirements relating to investment advice, prohibited transactions, and fiduciary rules. (Sec. 8) Provides that failure to meet pension plan preservation of capital requirements constitutes a violation of ERISA age discrimination rules.<br/>(Sec. 9) Modifies rules relating to: (1) the deduction limit for single-employer pension plans; (2) deductions for employer contributions to one or more defined contribution plans; (3) rollovers from retirement plans to Roth individual retirement accounts (IRAs); (4) rollovers by nonspouse beneficiaries of retirement plans; (5) distributions from public pension plans for health and long-term care insurance for public safety officers; and (6) survivor annuity plans of special trial judges of the U.S. Tax Court. Exempts assets transfers from health accounts to maintain a pension plan's funded status from the excise tax on reversions.<br/>(Sec. 10) Revises the definition of &quot;one-participant retirement plan&quot; for purposes of ERISA diversification and participation requirements.<br/>Expands rules allowing automatic contributions to employer pension plans. Requires the administrator of a combined pension plan (consisting of a defined benefit plan and a qualified cash or deferred arrangement) to treat such plans separately upon termination.<br/>(Sec. 11) Provides that former spouses shall be entitled to survivor benefits under the Railroad Retirement Act if: (1) the employee completed 10 years of service in the railroad industry (or five years of service after December 31, 1995); (2) the spouse or former spouse has attained age 62; and (3) the employee attains age 62 (or if deceased, would have attained age 62). Makes such provision effective for payments due after August 2007.<br/>(Sec. 12) Prohibits states from reducing unemployment compensation by the amount of pension rollovers. 
+	</summary>
+</bill>

@@ -1,0 +1,37 @@
+<bill session="110" type="hr" number="390" updated="2009-01-09T08:41:22-05:00">
+	<status><vote date="1181065680" datetime="2007-06-05T14:48:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1178683200" datetime="2007-05-09"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the importance of the Ouachita National Forest on its 100th anniversary.</title>
+	</titles>
+	<sponsor id="400345"/>
+	<cosponsors>
+		<cosponsor id="400040" joined="2007-05-09"/>
+		<cosponsor id="400383" joined="2007-05-09"/>
+		<cosponsor id="400026" joined="2007-05-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1178683200" datetime="2007-05-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1178856000" datetime="2007-05-11"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1181065260" datetime="2007-06-05T14:41:00-04:00"><text>Mrs. Christensen moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1181065260" datetime="2007-06-05T14:41:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5939-5940"/></action>
+		<action date="1181065320" datetime="2007-06-05T14:42:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 390.</text></action>
+		<vote date="1181065680" how="by voice vote" datetime="2007-06-05T14:48:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H5939"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/5/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the important contributions, on the 100th anniversary of its creation, of the Ouachita National Forest to the success of the United States in conserving the environment and ensuring that our natural resources remain sources of pride for our citizens, our communities, and our Nation. 
+	</summary>
+</bill>

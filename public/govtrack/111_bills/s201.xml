@@ -1,0 +1,32 @@
+<bill session="111" type="s" number="201" updated="2009-03-07T13:57:15-05:00">
+	<status><introduced date="1231736400" datetime="2009-01-12"/></status>
+
+	<introduced date="1231736400" datetime="2009-01-12"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to extend the additional standard deduction for real property taxes for nonitemizers for 2010.</title>
+	</titles>
+	<sponsor id="412251"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231736400" datetime="2009-01-12"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax deductions"/>
+		<term name="State and local taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/12/2009--Introduced.<br/>Amends the Internal Revenue Code to extend through 2010 the additional standard tax deduction for real property taxes for taxpayers who do not itemize their tax deductions.<br/>
+	</summary>
+</bill>

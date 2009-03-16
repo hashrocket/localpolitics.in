@@ -1,0 +1,52 @@
+<bill session="111" type="h" number="482" updated="2009-03-07T10:44:18-05:00">
+	<status><introduced date="1231822800" datetime="2009-01-13"/></status>
+
+	<introduced date="1231822800" datetime="2009-01-13"/>
+	<titles>
+		<title type="short" as="introduced">Frank Buckles World War I Memorial Act</title>
+		<title type="official" as="introduced">To authorize the rededication of the District of Columbia War Memorial as a National and District of Columbia World War I Memorial to honor the sacrifices made by American veterans of World War I.</title>
+	</titles>
+	<sponsor id="400652"/>
+	<cosponsors>
+		<cosponsor id="400061" joined="2009-01-15"/>
+		<cosponsor id="400144" joined="2009-01-13"/>
+		<cosponsor id="400343" joined="2009-01-15"/>
+		<cosponsor id="412216" joined="2009-01-13"/>
+		<cosponsor id="400242" joined="2009-01-13"/>
+		<cosponsor id="412225" joined="2009-02-09"/>
+		<cosponsor id="412232" joined="2009-01-13"/>
+		<cosponsor id="400644" joined="2009-01-13"/>
+		<cosponsor id="412230" joined="2009-01-13"/>
+		<cosponsor id="400276" joined="2009-01-13"/>
+		<cosponsor id="400119" joined="2009-01-13"/>
+		<cosponsor id="400049" joined="2009-01-13"/>
+		<cosponsor id="400260" joined="2009-01-13"/>
+		<cosponsor id="400042" joined="2009-01-22"/>
+		<cosponsor id="412311" joined="2009-03-05"/>
+		<cosponsor id="400285" joined="2009-01-28"/>
+		<cosponsor id="412191" joined="2009-01-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1231822800" datetime="2009-01-13"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Conflicts and wars"/>
+		<term name="District of Columbia"/>
+		<term name="Monuments and memorials"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/13/2009--Introduced.<br/>Frank Buckles World War I Memorial Act - Authorizes the World War I Memorial Foundation to establish a commemorative work rededicating the District of Columbia War Memorial as a National and District of Columbia World War I Memorial.<br/>
+	</summary>
+</bill>

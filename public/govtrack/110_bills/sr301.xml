@@ -1,0 +1,50 @@
+<bill session="110" type="sr" number="301" updated="2009-01-09T20:35:34-05:00">
+	<status><vote date="1189137600" datetime="2007-09-07" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1186113600" datetime="2007-08-03"/>
+	<titles>
+		<title type="official" as="introduced">A resolution recognizing the 50th anniversary of the desegregation of Little Rock Central High School, one of the most significant events in the American civil rights movement.</title>
+	</titles>
+	<sponsor id="300068"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2007-09-05"/>
+		<cosponsor id="400272" joined="2007-09-05"/>
+		<cosponsor id="300059" joined="2007-09-05"/>
+		<cosponsor id="300011" joined="2007-09-05"/>
+		<cosponsor id="300008" joined="2007-09-05"/>
+		<cosponsor id="300093" joined="2007-09-05"/>
+		<cosponsor id="300060" joined="2007-09-05"/>
+		<cosponsor id="400619" joined="2007-09-05"/>
+		<cosponsor id="300038" joined="2007-09-05"/>
+		<cosponsor id="300087" joined="2007-09-05"/>
+		<cosponsor id="300092" joined="2007-09-05"/>
+		<cosponsor id="300034" joined="2007-09-05"/>
+		<cosponsor id="300019" joined="2007-09-05"/>
+		<cosponsor id="300080" joined="2007-08-03"/>
+		<cosponsor id="300021" joined="2007-09-05"/>
+		<cosponsor id="400629" joined="2007-09-05"/>
+		<cosponsor id="300043" joined="2007-09-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1186113600" datetime="2007-08-03"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S10937-10938"/></action>
+		<calendar date="1189051200" datetime="2007-09-06" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1189051200" datetime="2007-09-06"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="346" date="1189051200" datetime="2007-09-06" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 346.</text></calendar>
+		<vote date="1189137600" how="by Unanimous Consent" datetime="2007-09-07" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S11278-11279"/><reference label="text as passed Senate" ref="CR S11279"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/7/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Recognizes the extraordinary bravery and courage of the Little Rock Nine, who helped expand opportunity and equality in public education in Arkansas and throughout the United States by becoming the first African-American students at Little Rock Central High School. Commemorates the 50th anniversary of the desegregation of Little Rock Central High School. Encourages all people of the United States to reflect on the importance of this event and acknowledges that continued efforts and resources should be directed to enable all children to achieve equal opportunity in education in the United States.<br/>
+	</summary>
+</bill>

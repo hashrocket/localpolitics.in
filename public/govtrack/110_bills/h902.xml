@@ -1,0 +1,48 @@
+<bill session="110" type="h" number="902" updated="2009-01-08T18:42:00-05:00">
+	<status><vote date="1174325280" datetime="2007-03-19T14:28:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1170824400" datetime="2007-02-07"/>
+	<titles>
+		<title type="short" as="introduced">More Water and More Energy Act of 2007</title>
+		<title type="short" as="passed house">More Water and More Energy Act of 2007</title>
+		<title type="short" as="reported to senate">More Water, More Energy, and Less Waste Act of 2007</title>
+		<title type="official" as="introduced">To facilitate the use for irrigation and other purposes of water produced in connection with development of energy resources.</title>
+	</titles>
+	<sponsor id="400412"/>
+	<cosponsors>
+		<cosponsor id="400313" joined="2007-02-07"/>
+		<cosponsor id="400118" joined="2007-02-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1170824400" datetime="2007-02-07"><text>Sponsor introductory remarks on measure. (CR E285)</text></action>
+		<action date="1170824400" datetime="2007-02-07"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1171515600" datetime="2007-02-15"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1171515600" datetime="2007-02-15"><text>Referred to the Subcommittee on Energy and Mineral Resources.</text></action>
+		<action date="1171602000" datetime="2007-02-16"><text>Sponsor introductory remarks on measure. (CR E373-374)</text></action>
+		<action date="1174324560" datetime="2007-03-19T14:16:00-04:00"><text>Mr. Grijalva moved to suspend the rules and pass the bill.</text></action>
+		<action date="1174324560" datetime="2007-03-19T14:16:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2628-2631"/></action>
+		<action date="1174324560" datetime="2007-03-19T14:16:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 902.</text></action>
+		<vote date="1174325280" how="by voice vote" datetime="2007-03-19T14:28:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H2628-2629"/></vote>
+		<action date="1174363200" datetime="2007-03-20"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1177473600" datetime="2007-04-25"><text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held.</text></action>
+		<calendar date="1179892800" datetime="2007-05-23" ><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1183003200" datetime="2007-06-28"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-122.</text></action>
+		<calendar under="General Orders" number="256" date="1183003200" datetime="2007-06-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 256.</text></calendar>
+		<action date="1213156800" datetime="2008-06-11"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S5530"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/28/2007--Reported to Senate amended. More Water, More Energy, and Less Waste Act of 2007 - Directs the Secretary of the Interior to study and report to specified congressional committees on: (1) obstacles to reducing the quantity of produced water (water that is brought to the surface as part of the process of exploration for or development of oil, natural gas, coal-bed methane, or any other substance to be used as an energy source) and to increasing the extent to which produced water can be used for irrigation and other purposes without adversely affecting water quality or the environment; (2) actions that could reduce or eliminate such obstacles; and (3) the costs and benefits associated with reducing or eliminating such obstacles.<br/>Directs the Secretary to provide financial assistance for the development of facilities, technologies, and processes to demonstrate the feasibility, effectiveness, and safety of: (1) optimizing energy resource production by reducing the quantity of produced water generated; or (2) increasing the extent to which produced water may be recovered and made suitable for irrigation, municipal, or industrial uses or other purposes without adversely affecting water quality or the environment. Requires such assistance to be provided for: (1) at least one project in each of the Upper Basin States (Colorado, New Mexico, Utah, and Wyoming); and (2) at least one project in at least one of the Lower Basin States (Arizona, California, and Nevada). Prohibits such assistance from exceeding $1 million for any project or from being used to pay more than 50% of project cost or for facility operation or maintenance. Authorizes appropriations. 
+	</summary>
+</bill>

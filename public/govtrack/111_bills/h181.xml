@@ -1,0 +1,54 @@
+<bill session="111" type="h" number="181" updated="2009-03-07T10:09:06-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To permit members of the House of Representatives to donate used computer equipment to public elementary and secondary schools designated by the members.</title>
+	</titles>
+	<sponsor id="400366"/>
+	<cosponsors>
+		<cosponsor id="400387" joined="2009-02-23"/>
+		<cosponsor id="400041" joined="2009-02-26"/>
+		<cosponsor id="412258" joined="2009-02-26"/>
+		<cosponsor id="400347" joined="2009-03-06"/>
+		<cosponsor id="412272" joined="2009-02-23"/>
+		<cosponsor id="400155" joined="2009-02-23"/>
+		<cosponsor id="400263" joined="2009-02-26"/>
+		<cosponsor id="412308" joined="2009-03-06"/>
+		<cosponsor id="412298" joined="2009-02-26"/>
+		<cosponsor id="400162" joined="2009-02-26"/>
+		<cosponsor id="400195" joined="2009-02-23"/>
+		<cosponsor id="412224" joined="2009-02-26"/>
+		<cosponsor id="412312" joined="2009-02-23"/>
+		<cosponsor id="412306" joined="2009-02-26"/>
+		<cosponsor id="412293" joined="2009-02-23"/>
+		<cosponsor id="400264" joined="2009-01-27"/>
+		<cosponsor id="400152" joined="2009-01-27"/>
+		<cosponsor id="400011" joined="2009-02-23"/>
+		<cosponsor id="400639" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on House Administration.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Computers and information technology"/>
+		<term name="Congressional operations and organization"/>
+		<term name="Educational technology and distance education"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Government buildings, facilities, and property"/>
+		<term name="Members of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Amends the Legislative Branch Appropriations Act, 1987 to allow the Clerk of the House of Representatives, at the request of a Member of the House, to donate computers and related peripheral tools previously used by the Member to a public elementary or secondary school designated by such Member without regard to whether the donation: (1) is a cost to the government; or (2) has a recoverable value. 
+	</summary>
+</bill>

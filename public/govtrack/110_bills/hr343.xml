@@ -1,0 +1,35 @@
+<bill session="110" type="hr" number="343" updated="2009-01-09T08:35:42-05:00">
+	<status><vote date="1179249000" datetime="2007-05-15T14:10:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1177560000" datetime="2007-04-26"/>
+	<titles>
+		<title type="official" as="introduced">Commemorating the marinas of the United States, expressing support for the designation of the sixth annual National Marina Day, and for other purposes.</title>
+	</titles>
+	<sponsor id="400340"/>
+	<cosponsors>
+		<cosponsor id="400367" joined="2007-05-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1177560000" datetime="2007-04-26"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1177646400" datetime="2007-04-27"><text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text></action>
+		<action date="1179248160" datetime="2007-05-15T13:56:00-04:00"><text>Mr. Cummings moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1179248160" datetime="2007-05-15T13:56:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5007-5009"/></action>
+		<action date="1179248160" datetime="2007-05-15T13:56:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 343.</text></action>
+		<vote date="1179249000" how="by voice vote" datetime="2007-05-15T14:10:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H5007"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/15/2007--Passed House amended. Commemorates the marinas of the United States for providing environmentally friendly gateways to boating for the citizens of, and the visitors to, the United States. Supports designation of the sixth annual National Marina Day.<br/>
+	</summary>
+</bill>

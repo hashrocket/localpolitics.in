@@ -1,0 +1,97 @@
+<bill session="111" type="hc" number="64" updated="2009-03-12T12:06:09-04:00">
+	<status><vote date="1236795720" datetime="2009-03-11T15:22:00-04:00" where="h" result="pass" how="roll" roll="119"/></status>
+
+	<introduced date="1235624400" datetime="2009-02-26"/>
+	<titles>
+		<title type="official" as="introduced">Urging the President to designate 2009 as the &quot;Year of the Military Family&quot;.</title>
+	</titles>
+	<sponsor id="400377"/>
+	<cosponsors>
+		<cosponsor id="412287" joined="2009-02-26"/>
+		<cosponsor id="412311" joined="2009-02-26"/>
+		<cosponsor id="400644" joined="2009-03-09"/>
+		<cosponsor id="412299" joined="2009-02-26"/>
+		<cosponsor id="400224" joined="2009-02-26"/>
+		<cosponsor id="400431" joined="2009-03-09"/>
+		<cosponsor id="400279" joined="2009-02-26"/>
+		<cosponsor id="400232" joined="2009-02-26"/>
+		<cosponsor id="412307" joined="2009-02-26"/>
+		<cosponsor id="400264" joined="2009-02-26"/>
+		<cosponsor id="412230" joined="2009-02-26"/>
+		<cosponsor id="400070" joined="2009-03-09"/>
+		<cosponsor id="412219" joined="2009-02-26"/>
+		<cosponsor id="412215" joined="2009-03-09"/>
+		<cosponsor id="400655" joined="2009-02-26"/>
+		<cosponsor id="400041" joined="2009-02-26"/>
+		<cosponsor id="400396" joined="2009-02-26"/>
+		<cosponsor id="412275" joined="2009-02-26"/>
+		<cosponsor id="400433" joined="2009-02-26"/>
+		<cosponsor id="400344" joined="2009-03-09"/>
+		<cosponsor id="400266" joined="2009-02-26"/>
+		<cosponsor id="400209" joined="2009-02-26"/>
+		<cosponsor id="400017" joined="2009-02-26"/>
+		<cosponsor id="400383" joined="2009-02-26"/>
+		<cosponsor id="412271" joined="2009-02-26"/>
+		<cosponsor id="412254" joined="2009-02-26"/>
+		<cosponsor id="400379" joined="2009-02-26"/>
+		<cosponsor id="400386" joined="2009-02-26"/>
+		<cosponsor id="400005" joined="2009-02-26"/>
+		<cosponsor id="400137" joined="2009-03-09"/>
+		<cosponsor id="412261" joined="2009-03-09"/>
+		<cosponsor id="400230" joined="2009-02-26"/>
+		<cosponsor id="400008" joined="2009-02-26"/>
+		<cosponsor id="400093" joined="2009-02-26"/>
+		<cosponsor id="400356" joined="2009-02-26"/>
+		<cosponsor id="400302" joined="2009-02-26"/>
+		<cosponsor id="400337" joined="2009-02-26"/>
+		<cosponsor id="412232" joined="2009-02-26"/>
+		<cosponsor id="412209" joined="2009-02-26"/>
+		<cosponsor id="400659" joined="2009-02-26"/>
+		<cosponsor id="400030" joined="2009-03-11"/>
+		<cosponsor id="412193" joined="2009-02-26"/>
+		<cosponsor id="400151" joined="2009-03-09"/>
+		<cosponsor id="412283" joined="2009-02-26"/>
+		<cosponsor id="412188" joined="2009-02-26"/>
+		<cosponsor id="412281" joined="2009-03-09"/>
+		<cosponsor id="412191" joined="2009-02-26"/>
+		<cosponsor id="412199" joined="2009-02-26"/>
+		<cosponsor id="400001" joined="2009-02-26"/>
+		<cosponsor id="400381" joined="2009-03-09"/>
+		<cosponsor id="400309" joined="2009-03-11"/>
+		<cosponsor id="400616" joined="2009-02-26"/>
+		<cosponsor id="400047" joined="2009-02-26"/>
+		<cosponsor id="412255" joined="2009-03-09"/>
+		<cosponsor id="400270" joined="2009-02-26"/>
+		<cosponsor id="400097" joined="2009-02-26"/>
+		<cosponsor id="412233" joined="2009-02-26"/>
+		<cosponsor id="400267" joined="2009-02-26"/>
+		<cosponsor id="400166" joined="2009-02-26"/>
+		<cosponsor id="400399" joined="2009-02-26"/>
+		<cosponsor id="412289" joined="2009-02-26"/>
+		<cosponsor id="400254" joined="2009-02-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1235624400" datetime="2009-02-26"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1236829980" datetime="2009-03-11T12:53:00-04:00"><text>Mr. Skelton moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1236829980" datetime="2009-03-11T12:53:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3297-3300"/></action>
+		<action date="1236829980" datetime="2009-03-11T12:53:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 64.</text></action>
+		<action date="1236788220" datetime="2009-03-11T13:17:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1236794160" datetime="2009-03-11T14:56:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3315-3316"/></action>
+		<vote date="1236795720" how="roll" roll="119" datetime="2009-03-11T15:22:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 119).</text><reference label="text" ref="CR H3297"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/26/2009--Introduced.<br/>Expresses the deepest appreciation to the families of members of the Armed Forces who serve or have served in defense of the United States. Recognizes the contributions that military families make, and encourages the people of the United States to share in appreciation for the sacrifices of military families. Urges the President to designate a &quot;Year of the Military Family&quot; and encourage the people of the United States and the Department of Defense (DOD) to observe it.<br/>
+	</summary>
+</bill>

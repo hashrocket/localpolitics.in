@@ -1,0 +1,41 @@
+<bill session="110" type="h" number="6346" updated="2009-01-09T05:57:31-05:00">
+	<status><vote date="1214342220" datetime="2008-06-24T18:17:00-04:00" where="h" result="fail" how="roll" roll="448"/></status>
+
+	<introduced date="1214193600" datetime="2008-06-23"/>
+	<titles>
+		<title type="short" as="introduced">Federal Price Gouging Prevention Act</title>
+		<title type="official" as="introduced">To protect consumers from price-gouging of gasoline and other fuels, and for other purposes.</title>
+	</titles>
+	<sponsor id="400391"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1214193600" datetime="2008-06-23"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1214193600" datetime="2008-06-23"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1214193600" datetime="2008-06-23"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text></action>
+		<action date="1214193600" datetime="2008-06-23"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Energy and Air Quality.</text></action>
+		<action date="1214193600" datetime="2008-06-23"><text>Referred to House Education and Labor</text></action>
+		<action date="1214326500" datetime="2008-06-24T13:55:00-04:00"><text>Mr. Stupak moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1214326500" datetime="2008-06-24T13:55:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5934-5940"/></action>
+		<action date="1214326500" datetime="2008-06-24T13:55:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6346.</text></action>
+		<action date="1214329260" datetime="2008-06-24T14:41:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1214341620" datetime="2008-06-24T18:07:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5964-5965"/></action>
+		<vote date="1214342220" how="roll" roll="448" datetime="2008-06-24T18:17:00-04:00" where="h" type="vote" suspension="1" result="fail" ><text>On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 276 - 146 (Roll no. 448).</text><reference label="text" ref="CR H5934-5935"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/23/2008--Introduced.<br/>Federal Price Gouging Prevention Act - Makes it unlawful, during a period proclaimed by the President as an energy emergency, to sell gasoline or any other petroleum distillate at a price that: (1) is unconscionably excessive; or (2) indicates the seller is taking unfair advantage of the circumstances of an emergency to increase prices unreasonably. Authorizes the President to issue an energy emergency proclamation of up to 30 days, with renewals allowed, and to cite the geographic area, gasoline or other petroleum distillate, and time period covered. Authorizes a proclamation to include a period of up to one week preceding a reasonably foreseeable emergency. Exempts from this Act a sale of gasoline or other petroleum distillate transaction on a futures market. Empowers the Federal Trade Commission (FTC) and state attorneys general to enforce this Act and provides for civil and criminal penalties, limiting the criminal penalty to criminal actions brought by the Department of Justice (DOJ). Allows a state to bring a civil action to enforce this Act or to impose civil penalties. Requires deposit of fines and penalties collected under this Act in a separate Consumer Relief Trust Fund fund in the Treasury to provide assistance under the Low Income Home Energy Assistance (LIHEAP) Program. Declares that nothing in this Act preempts state law.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,71 @@
+<bill session="110" type="h" number="1528" updated="2009-01-08T20:02:05-05:00">
+	<status><vote date="1201646160" datetime="2008-01-29T18:36:00-05:00" where="h" result="pass" how="roll" roll="28"/></status>
+
+	<introduced date="1173844800" datetime="2007-03-14"/>
+	<titles>
+		<title type="short" as="introduced">New England National Scenic Trail Designation Act</title>
+		<title type="short" as="reported to house">New England National Scenic Trail Designation Act</title>
+		<title type="short" as="passed house">New England National Scenic Trail Designation Act</title>
+		<title type="short" as="reported to senate">New England National Scenic Trail Designation Act</title>
+		<title type="official" as="introduced">To amend the National Trails System Act to designate the New England National Scenic Trail, and for other purposes.</title>
+	</titles>
+	<sponsor id="400301"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="2007-10-15"/>
+		<cosponsor id="400407" joined="2007-05-07"/>
+		<cosponsor id="400102" joined="2007-06-22"/>
+		<cosponsor id="400370" joined="2007-09-27"/>
+		<cosponsor id="412193" joined="2007-03-14"/>
+		<cosponsor id="400103" joined="2007-03-14"/>
+		<cosponsor id="400291" joined="2007-03-14"/>
+		<cosponsor id="412194" joined="2007-03-14"/>
+		<cosponsor id="400233" joined="2007-03-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1173844800" datetime="2007-03-14"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1174276800" datetime="2007-03-19"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1179201600" datetime="2007-05-15"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1191988800" datetime="2007-10-10"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<action date="1191988800" datetime="2007-10-10"><text>Subcommittee on National Parks, Forests, and Public Lands Discharged.</text></action>
+		<calendar date="1191988800" datetime="2007-10-10" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1198101540" datetime="2007-12-19T17:59:00-05:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-502.</text></action>
+		<calendar number="307" date="1198101600" datetime="2007-12-19T18:00:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 307.</text></calendar>
+		<action date="1201555080" datetime="2008-01-28T17:18:00-05:00"><text>Rules Committee Resolution H. Res. 940 Reported to House. Rule provides for consideration of H.R. 1528 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against such amendments are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in the bill.</text></action>
+		<action date="1201639620" datetime="2008-01-29T16:47:00-05:00"><text>Rule H. Res. 940 passed House.</text></action>
+		<action date="1201639680" datetime="2008-01-29T16:48:00-05:00"><text>Considered under the provisions of rule H. Res. 940.</text><reference label="consideration" ref="CR H522-535"/><reference label="text of measure as reported in House" ref="CR H531"/></action>
+		<action date="1201639680" datetime="2008-01-29T16:48:00-05:00"><text>Rule provides for consideration of H.R. 1528 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against such amendments are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in the bill.</text></action>
+		<action date="1201639680" datetime="2008-01-29T16:48:00-05:00"><text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 940 and Rule XVIII.</text></action>
+		<action date="1201639680" datetime="2008-01-29T16:48:00-05:00"><text>The Speaker designated the Honorable Stephen F. Lynch to act as Chairman of the Committee.</text></action>
+		<action date="1201639740" datetime="2008-01-29T16:49:00-05:00"><text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1528.</text></action>
+		<action date="1201642920" datetime="2008-01-29T17:42:00-05:00"><text>DEBATE - Pursuant to the provisions of H.Res 940, the Committee of the Whole proceeded with 10 minutes of debate on the Bishop(UT) amendment.</text></action>
+		<action date="1201643160" datetime="2008-01-29T17:46:00-05:00"><text>DEBATE - Pursuant to the provisions of H. Res. 940, the Committee of the Whole proceeded with ten minutes of debate on the Bishop (UT) amendment.</text></action>
+		<action date="1201643520" datetime="2008-01-29T17:52:00-05:00"><text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1528.</text></action>
+		<action date="1201643580" datetime="2008-01-29T17:53:00-05:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H533"/></action>
+		<action date="1201643580" datetime="2008-01-29T17:53:00-05:00"><text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text></action>
+		<action date="1201643640" datetime="2008-01-29T17:54:00-05:00"><text>Mr. Bishop (UT) moved to recommit with instructions to Natural Resources.</text><reference label="consideration" ref="CR H533-535"/><reference label="text" ref="CR H533"/></action>
+		<action date="1201643700" datetime="2008-01-29T17:55:00-05:00"><text>DEBATE - The House proceeded with ten minutes of debate on the Bishop (UT) motion to recommit with instructions. The instructions contained in the motion seek to insert language preventing the Secretary from using eminent domain to acquire land for the trail and may not accept any land that was acquired through the use of eminent domain for inclusion in the trail.</text></action>
+		<action date="1201644240" datetime="2008-01-29T18:04:00-05:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H534"/></action>
+		<action date="1201645680" datetime="2008-01-29T18:28:00-05:00"><text>On motion to recommit with instructions Failed by the Yeas and Nays: 183 - 205 (Roll no. 27).</text></action>
+		<vote date="1201646160" how="roll" roll="28" datetime="2008-01-29T18:36:00-05:00" where="h" type="vote" result="pass" ><text>On passage Passed by recorded vote: 261 - 122 (Roll no. 28).</text></vote>
+		<action date="1201755600" datetime="2008-01-31"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1208923200" datetime="2008-04-23"><text>Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held.</text></action>
+		<calendar date="1210132800" datetime="2008-05-07" ><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1213588800" datetime="2008-06-16"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-382.</text></action>
+		<calendar under="General Orders" number="814" date="1213588800" datetime="2008-06-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 814.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/16/2008--Reported to Senate amended. New England National Scenic Trail Designation Act - Amends the National Trails System Act to designate the New England National Scenic Trail as a National Scenic Trail. Requires the Secretary of the Interior, in cooperation with federal, state, tribal, regional, and local agencies, the Appalachian Mountain Club, the Connecticut Forest and Park Association, and other organizations, to administer the Trail after considering the recommendations of the Metacomet Monadnock Mattabesett Trail System National Scenic Trail Feasibility Study and Environmental Assessment prepared by the National Park Service (NPS), dated Spring 2006. Bars the acquisition of any land or interest for the Trail by the government without the owner's consent. Directs the Secretary to consider the actions outlined in the Trail Management Blueprint as the framework for management and administration of the Trail. Allows for the development of additional or more detailed plans for the administration, management, protection, access, maintenance, or development of the Trail consistent with the Blueprint, and as approved by the Secretary. Authorizes the Secretary to enter into cooperative agreements with Massachusetts, Connecticut, and other regional, local, and private organizations deemed necessary and desirable to accomplish cooperative trail objectives consistent with the Blueprint. Permits such an agreement to include provisions for limited financial assistance to encourage participation in the planning, acquisition, protection, operation, development, or maintenance of the Trail. Encourages the Secretary to work with New Hampshire and appropriate local and private organizations to include that part of the Metacomet-Monadock Trail in New Hampshire (which lies between Royalston, Massachusetts, and Jaffrey, New Hampshire) as a component of the Trail. Makes inclusion of this segment, as well as other potential side or connecting trails, contingent upon written application to the Secretary by appropriate state and local jurisdictions and a finding by the Secretary that trail management and administration is consistent with the Blueprint.<br/>
+	</summary>
+</bill>

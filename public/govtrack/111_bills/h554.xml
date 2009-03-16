@@ -1,0 +1,85 @@
+<bill session="111" type="h" number="554" updated="2009-03-07T10:52:43-05:00">
+	<status><vote date="1234372320" datetime="2009-02-11T13:12:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">National Nanotechnology Initiative Amendments Act of 2009</title>
+		<title type="official" as="introduced">To authorize activities for support of nanotechnology research and development, and for other purposes.</title>
+	</titles>
+	<sponsor id="400155"/>
+	<cosponsors>
+		<cosponsor id="400017" joined="2009-01-15"/>
+		<cosponsor id="400280" joined="2009-01-15"/>
+		<cosponsor id="412227" joined="2009-01-15"/>
+		<cosponsor id="400381" joined="2009-01-15"/>
+		<cosponsor id="400027" joined="2009-01-15"/>
+		<cosponsor id="400346" joined="2009-01-15"/>
+		<cosponsor id="400638" joined="2009-01-15"/>
+		<cosponsor id="400247" joined="2009-01-15"/>
+		<cosponsor id="400005" joined="2009-01-15"/>
+		<cosponsor id="400165" joined="2009-01-15"/>
+		<cosponsor id="400649" joined="2009-01-15"/>
+		<cosponsor id="400630" joined="2009-01-15"/>
+		<cosponsor id="400185" joined="2009-01-15"/>
+		<cosponsor id="400119" joined="2009-01-15"/>
+		<cosponsor id="400204" joined="2009-01-15"/>
+		<cosponsor id="400365" joined="2009-01-15"/>
+		<cosponsor id="400654" joined="2009-01-15"/>
+		<cosponsor id="400437" joined="2009-01-15"/>
+		<cosponsor id="400011" joined="2009-01-15"/>
+		<cosponsor id="400108" joined="2009-01-15"/>
+		<cosponsor id="412188" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1234413120" datetime="2009-02-11T12:32:00-05:00"><text>Mr. Gordon (TN) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1234413120" datetime="2009-02-11T12:32:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1180-1188"/></action>
+		<action date="1234413120" datetime="2009-02-11T12:32:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 554.</text></action>
+		<vote date="1234372320" how="by voice vote" datetime="2009-02-11T13:12:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H1180-1183"/></vote>
+		<action date="1234414800" datetime="2009-02-12"><text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Science and Technology" subcommittee="" activity="Referral" />
+		<committee name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Science, technology, communications"/>
+		<term name="Advanced technology and technological innovations"/>
+		<term name="Advisory bodies"/>
+		<term name="Competitiveness, trade promotion, trade deficits"/>
+		<term name="Education programs funding"/>
+		<term name="Educational technology and distance education"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Energy efficiency and conservation"/>
+		<term name="Energy research"/>
+		<term name="Environmental assessment, monitoring, research"/>
+		<term name="Environmental health"/>
+		<term name="Environmental technology"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Government information and archives"/>
+		<term name="Higher education"/>
+		<term name="Internet and video services"/>
+		<term name="Manufacturing"/>
+		<term name="Medical research"/>
+		<term name="Office of Science and Technology Policy"/>
+		<term name="Product safety and quality"/>
+		<term name="Public participation and lobbying"/>
+		<term name="Public-private cooperation"/>
+		<term name="Research administration and funding"/>
+		<term name="Research and development"/>
+		<term name="Research ethics"/>
+		<term name="Science and engineering education"/>
+		<term name="Teaching, teachers, curricula"/>
+		<term name="Technology transfer and commercialization"/>
+		<term name="Water quality"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) National Nanotechnology Initiative Amendments Act of 2009 - (Sec. 2) Revises the 21st Century Nanotechnology Research and Development Act with regard to strategic plans developed pursuant to the National Nanotechnology Program (the Program). Modifies annual reporting requirements with regard to the Program. Requires agencies participating in the Program to support the activities of committees involved in the setting of standards for nanotechnology. Allows such agencies to reimburse the travel costs of scientists and engineers participating in the activities of such committees. Revises requirements with respect to the National Nanotechnology Coordination Office. Requires the Office to be supported by funds from each agency participating in the Program. Sets forth annual reporting requirements regarding the Office. Requires the National Nanotechnology Coordination Office to: (1) develop a database providing information to the public concerning projects funded under the Environmental, Health, and Safety, the Education and Societal Dimensions, and the Nanomanufacturing program component areas; and (2) develop and publicize information on nanotechnology facilities supported under the Program, which may include information on nanotechnology facilities supported by the states, that are accessible for use by individuals from academic institutions and industry. Makes the National Nanotechnology Advisory Panel a distinct entity. Instructs the Panel to form a subpanel to enable it to assess whether societal, ethical, legal, environmental, and workforce concerns are adequately addressed by the Program. Requires at least one member of the Advisory Panel to be an individual employed by and representing a minority-serving institution. Rewrites provisions for triennial external review of the Program. Authorizes appropriations for FY2010-FY2012 for such reviews from the amounts provided by participating agencies supporting the National Nanotechnology Coordination Office. Modifies the definition of &quot;nanotechnology.&quot; Defines &quot;nanoscale&quot; as one or more dimensions of between approximately 1 and 100 nanometers. (Sec. 3) Requires the Director of the Office of Science and Technology Policy to designate an associate director of the Office of Science and Technology Policy as the Coordinator for Societal Dimensions of Nanotechnology. Makes the Coordinator responsible for oversight of the coordination, planning, and budget prioritization of activities required by the Program to ensure that ethical, legal, environmental, and other appropriate societal concerns are considered during the nanotechnology development. Includes among the Coordinator's responsibilities: (1) ensuring that the plan for the environmental, health, and safety research activities is developed, updated, and implemented and responsive to recommendations of the subpanel of the Advisory Panel; (2) encouraging and monitoring efforts of participating agencies to allocate resources and management necessary to ensure that societal concerns related to nanotechnology are addressed; and (3) encouraging agencies developing the research plan to implement mechanisms establishing public-private partnerships supporting environmental, health, and safety research. Requires the Coordinator to convene a panel to develop a research plan for the Environmental, Health, and Safety program component area. Instructs such panel to solicit and be responsive to recommendations from the subpanel of the Advisory Panel and the agencies responsible for environmental, health, and safety regulations associated with nanoscale materials and products. Requires the plan to include a description of how the Program will help to ensure the development of standards related to engineered nanoscale materials. Specifies the plan's components and requires it to be updated annually. Requires the Director of the National Science Foundation (NSF), as part of the mathematics and science education partnerships program carried out pursuant to the National Science Foundation Authorization Act of 2002, to provide one or more grants to establish Nanotechnology Education Partnerships and requires each such partnership to include one or more businesses engaged in nanoscale production. Requires such partnerships to be designed to recruit and to help prepare secondary school students to pursue postsecondary level nanotechnology courses. Requires such grants to support: (1) activities to inform teachers and students about career possibilities in nanotechnology; and (2) identification of nanotechnology educational materials and incorporation of nanotechnology into the curriculum at one or more organizations participating in a Partnership. Requires the Program, as part of the activities included under the Education and Societal Dimensions program component area to support efforts to introduce nanoscale science, engineering, and technology into undergraduate science and engineering education. Includes as supported activities: (1) the development of courses or modules to existing courses; (2) faculty professional development; and (3) the acquisition of equipment and instrumentation suitable for undergraduate education and research. Authorizes appropriations to the NSF Director for FY2010 to carry out such activities through: (1) the Course, Curriculum, and Laboratory Improvement program; and (2) the Advanced Technology Education program. Requires the National Science and Technology Council to establish, under the Nanoscale Science, Engineering, and Technology Subcommittee, an Education Working Group to plan educational activities supported under the Program. Requires activities supported under the Education and Societal Dimensions program component area to include education regarding the environmental, health and safety, and other societal aspects of nanotechnology. Directs agencies supporting nanotechnology research facilities to allow Internet access and support the associated costs. Permits waivers of such requirement when particular facilities would be inappropriate for educational purposes or the costs of providing such access would be prohibitive. (Sec. 4) Requires agencies supporting nanotechnology research facilities to provide access to such facilities to assist companies develop prototypes of nanoscale products, devices, or processes. Sets forth provisions concerning nanotechnology related projects under existing nanotechnology transfer programs. Establishes industry liaison groups for all industry sectors that would benefit from nanotechnology applications. Requires the Nanomanufacturing, Industry Liaison, and Innovation Working Group of the National Science and Technology Council to actively pursue such liaison groups. Requires coordination and leveraging of federal investments with nanotechnology research, development, and technology transition initiatives supported by the states. (Sec. 5) Requires the Program to include support for nanotechnology research and development activities directed toward areas that have the potential for significant contributions to national economic competitiveness and other significant societal benefits. Requires supported activities to be designed to advance the development of research discoveries in such areas as nano-electronics, energy efficiency, health care, and water remediation and purification. Requires the Advisory Panel to recommend to the Program candidate research and development areas. Requires such research and development activities to include: (1) projects selected for support through a competitive, merit-based process; and (2) a plan for fostering the transfer of research discoveries and the results of technology demonstration activities to industry for commercial development. Requires collaboration of no fewer than two participating agencies to determine the procedures for review, selection, and subsequent project funding. Requires such agencies to give special consideration to projects with cost-sharing from non-federal sources. Permits such research and development activities to be supported through interdisciplinary nanotechnology research centers organized to investigate basic research questions and carry out technology demonstration activities. Requires the Program annual report to include a description of the research and development areas supported. (Sec. 6) Requires the Nanomanufacturing program component area to include research on: (1) the development of instrumentation and tools required for the rapid characterization of nanoscale materials and for monitoring nanoscale manufacturing processes; and (2) techniques for scaling the synthesis of new nanoscale materials to achieve industrial-level production rates. Directs interdisciplinary research centers to include activities relating to green nanomanufacturing research. Requires the National Nanotechnology Coordination Office to sponsor a public meeting to: (1) obtain views on the relevance and value of the nanomanufacturing research being carried out under the Program and whether nanotechnology research facilities supported under the Program are adequate; and (2) receive recommendations on ways to strengthen research supported under the Nanomanufacturing program component area and on improving the capabilities of such facilities. Requires inviting companies participating in industry liaison groups to participate in such meeting. Directs the Advisory Panel to review the Program and the capabilities of nanotechnology research facilities, taking into consideration the findings and recommendations of the public meeting.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,33 @@
+<bill session="110" type="sr" number="718" updated="2009-01-09T21:27:51-05:00">
+	<status><vote date="1228798800" datetime="2008-12-09" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1227157200" datetime="2008-11-20"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating November 30, 2008, as &quot;Drive Safer Sunday&quot;.</title>
+	</titles>
+	<sponsor id="300021"/>
+	<cosponsors>
+		<cosponsor id="300068" joined="2008-11-20"/>
+		<cosponsor id="400194" joined="2008-11-20"/>
+	</cosponsors>
+	<actions>
+		<action date="1227157200" datetime="2008-11-20"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S10754"/></action>
+		<action date="1228798800" datetime="2008-12-09"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S10835"/></action>
+		<vote date="1228798800" how="by Unanimous Consent" datetime="2008-12-09" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text as passed Senate" ref="CR S10835"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

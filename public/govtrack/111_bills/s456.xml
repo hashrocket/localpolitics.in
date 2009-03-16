@@ -1,0 +1,39 @@
+<bill session="111" type="s" number="456" updated="2009-03-07T14:27:31-05:00">
+	<status><introduced date="1235365200" datetime="2009-02-23"/></status>
+
+	<introduced date="1235365200" datetime="2009-02-23"/>
+	<titles>
+		<title type="short" as="introduced">Food Allergy and Anaphylaxis Management Act of 2009</title>
+		<title type="official" as="introduced">A bill to direct the Secretary of Health and Human Services, in consultation with the Secretary of Education, to develop guidelines to be used on a voluntary basis to develop plans to manage the risk of food allergy and anaphylaxis in schools and early childhood education programs, to establish school-based food allergy management grants, and for other purposes.</title>
+	</titles>
+	<sponsor id="300034"/>
+	<cosponsors>
+		<cosponsor id="300002" joined="2009-02-23"/>
+		<cosponsor id="412246" joined="2009-03-05"/>
+		<cosponsor id="300060" joined="2009-02-23"/>
+		<cosponsor id="412248" joined="2009-02-24"/>
+		<cosponsor id="400357" joined="2009-02-26"/>
+		<cosponsor id="412247" joined="2009-02-23"/>
+		<cosponsor id="300051" joined="2009-03-02"/>
+		<cosponsor id="300064" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1235365200" datetime="2009-02-23"><text>Sponsor introductory remarks on measure. (CR S2368-2369)</text></action>
+		<action date="1235365200" datetime="2009-02-23"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S2369-2370"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

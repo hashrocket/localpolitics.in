@@ -1,0 +1,31 @@
+<bill session="110" type="s" number="1202" updated="2009-01-09T14:17:33-05:00">
+	<status><introduced date="1177387200" datetime="2007-04-24"/></status>
+
+	<introduced date="1177387200" datetime="2007-04-24"/>
+	<titles>
+		<title type="short" as="introduced">Personal Data Protection Act of 2007</title>
+		<title type="official" as="introduced">A bill to require agencies and persons in possession of computerized data containing sensitive personal information, to disclose security breaches where such breach poses a significant risk of identity theft.</title>
+	</titles>
+	<sponsor id="300088"/>
+	<cosponsors>
+		<cosponsor id="300062" joined="2007-05-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1177387200" datetime="2007-04-24"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/24/2007--Introduced.<br/>Personal Data Protection Act of 2007 - Defines &quot;identity theft&quot; to mean a fraud committed using the sensitive personal information of another individual with the intent to commit or to aid or abet unlawful activity that results in economic loss to that individual.<br/>Requires any agency or person that owns or licenses computerized data containing sensitive personal information to: (1) develop, implement, and maintain reasonable security and notification procedures and practices (appropriate to the size and nature of the agency or person and the nature of the information) to ensure the security and confidentiality of the personal information and to protect sensitive personal information against unauthorized access, destruction, use, modification, or disclosure; and (2) notify any individual whose sensitive personal information was compromised (permits a federal law enforcement agency of domestic or foreign jurisdiction to delay notification if notification would impede a criminal or civil investigation).<br/>Requires any agency or person in possession of computerized data containing sensitive personal information that it does not own or license to notify and cooperate with the owner or licensor upon discovery of a breach of the security of the system of such agency or person as expediently as possible. Authorizes an agency or person in possession of sensitive personal information to enter into an agreement with the owner or licensor of information regarding which person or entity will provide any notice required to an individual whose sensitive personal information was compromised. Requires the agency or person that owns or licenses computerized data containing sensitive personal information to provide any notice required if there is not such an agreement. Sets forth provisions regarding the timeliness of notification, the methods and contents of notice, and the duty to coordinate with consumer reporting agencies.<br/>Establishes civil remedies for failure to provide notice of a security breach. Authorizes enforcement by state Attorneys General on behalf of residents of the state.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,61 @@
+<bill session="110" type="s" number="1257" updated="2009-01-09T14:24:51-05:00">
+	<status><calendar date="1181707200" datetime="2007-06-13" /></status>
+
+	<introduced date="1177992000" datetime="2007-05-01"/>
+	<titles>
+		<title type="short" as="introduced">District of Columbia House Voting Rights Act of 2007</title>
+		<title type="short" as="reported to senate">District of Columbia House Voting Rights Act of 2007</title>
+		<title type="official" as="introduced">A bill to provide the District of Columbia a voting seat and the State of Utah an additional seat in the House of Representatives.</title>
+	</titles>
+	<sponsor id="300067"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2007-05-02"/>
+		<cosponsor id="400272" joined="2007-07-16"/>
+		<cosponsor id="300059" joined="2007-05-03"/>
+		<cosponsor id="300011" joined="2007-09-17"/>
+		<cosponsor id="300042" joined="2007-05-14"/>
+		<cosponsor id="300052" joined="2007-05-01"/>
+		<cosponsor id="300060" joined="2007-05-11"/>
+		<cosponsor id="300038" joined="2007-06-27"/>
+		<cosponsor id="300066" joined="2007-06-11"/>
+		<cosponsor id="300073" joined="2007-05-07"/>
+		<cosponsor id="300034" joined="2007-07-11"/>
+		<cosponsor id="300019" joined="2007-05-21"/>
+		<cosponsor id="300007" joined="2007-05-01"/>
+		<cosponsor id="300080" joined="2007-05-21"/>
+		<cosponsor id="300022" joined="2007-05-02"/>
+		<cosponsor id="412243" joined="2007-05-15"/>
+		<cosponsor id="300063" joined="2007-05-02"/>
+		<cosponsor id="400629" joined="2007-05-03"/>
+		<cosponsor id="400357" joined="2007-06-22"/>
+		<cosponsor id="300043" joined="2007-09-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1177992000" datetime="2007-05-01"><text>Sponsor introductory remarks on measure. (CR S5394-5395)</text></action>
+		<action date="1177992000" datetime="2007-05-01"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text><reference label="text of measure as introduced" ref="CR S5395-5396"/></action>
+		<action date="1179892800" datetime="2007-05-23"><text>Committee on the Judiciary. Hearings held. Hearings printed: S.Hrg. 110-440.</text></action>
+		<calendar date="1181707200" datetime="2007-06-13" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with amendments favorably.</text></calendar>
+		<action date="1183003200" datetime="2007-06-28"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 110-123. Additional views filed.</text></action>
+		<calendar under="General Orders" number="257" date="1183003200" datetime="2007-06-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 257.</text></calendar>
+		<action date="1189569600" datetime="2007-09-12"><text>Motion to proceed to consideration of measure made in Senate.</text><reference label="consideration" ref="CR S11516"/></action>
+		<action date="1189569600" datetime="2007-09-12"><text>Cloture motion on the motion to proceed to the bill presented in Senate.</text><reference label="consideration" ref="CR S11516"/><reference label="text" ref="CR S11516"/></action>
+		<action date="1189569600" datetime="2007-09-12"><text>Motion to proceed to consideration of measure withdrawn in Senate.</text></action>
+		<action date="1190088000" datetime="2007-09-18"><text>Motion to proceed to measure considered in Senate.</text><reference label="consideration" ref="CR S11626-11632"/></action>
+		<vote-aux date="1190088000" how="roll" roll="339" datetime="2007-09-18" where="s" type="cloture" result="fail" ><text>Cloture on the motion to proceed to consideration of the measure not invoked in Senate by Yea-Nay Vote. 57 - 42. Record Vote Number: 339.</text><reference label="consideration" ref="CR S11631"/><reference label="text" ref="CR S11631"/></vote-aux>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/28/2007--Reported to Senate amended. District of Columbia House Voting Rights Act of 2007 - (Sec. 2) Considers the District of Columbia a congressional district for purposes of representation in the House of Representatives. Declares that the District shall not be considered a state for purposes of representation in the Senate. Applies to the District in the same manner as it applies to a state the federal law providing for the fifteenth and subsequent decennial censuses and for apportionment of Representatives in Congress. Limits the District to one Member under any reapportionment of Members. Modifies the formula regarding the number of presidential electors to subject it to the 23rd amendment to the Constitution in the case of the District. (Sec. 3) Increases membership of the House from 435 to 437 Members. Provides for a reapportionment of Members resulting from such increase. Requires the: (1) President to submit to Congress a revised version of the most recent statement of such apportionment identifying Utah as the state entitled to one additional Representative; and (2) Clerk of the House, upon receipt of such revision, to identify such state to the Speaker of the House. (Sec. 5) Repeals provisions of: (1) the District of Columbia Delegate Act establishing the office of District of Columbia Delegate to the House of Representatives; and (2) the District of Columbia Statehood Constitution Convention Initiative of 1979 providing for election of a Representative for the District. Makes conforming amendments to the District of Columbia Elections Code of 1955. (Sec. 7) Sets forth procedures for expedited judicial review of any action brought to challenge the constitutionality of any provision of this Act or any amendment made by it. 
+	</summary>
+</bill>

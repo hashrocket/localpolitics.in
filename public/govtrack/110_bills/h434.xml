@@ -1,0 +1,50 @@
+<bill session="110" type="h" number="434" updated="2009-01-08T17:40:56-05:00">
+	<status><enacted date="1171515600" datetime="2007-02-15" /></status>
+
+	<introduced date="1168578000" datetime="2007-01-12"/>
+	<titles>
+		<title type="official" as="introduced">To provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958 through December 31, 2007, and for other purposes.</title>
+		<title type="official" as="amended by senate">An act to provide for an additional temporary extension of programs under the Small Business Act and the Small business Investment Act of 1958 through July 31, 2007, and for other purposes.</title>
+	</titles>
+	<sponsor id="400071"/>
+	<cosponsors>
+		<cosponsor id="400416" joined="2007-01-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1168578000" datetime="2007-01-12"><text>Referred to the House Committee on Small Business.</text></action>
+		<action date="1169045100" datetime="2007-01-17T10:45:00-05:00"><text>Ms. Velazquez moved to suspend the rules and pass the bill.</text></action>
+		<action date="1169045160" datetime="2007-01-17T10:46:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H582-584"/></action>
+		<action date="1169045160" datetime="2007-01-17T10:46:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 434.</text></action>
+		<action date="1169045640" datetime="2007-01-17T10:54:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1169095680" datetime="2007-01-17T12:48:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H595-596"/></action>
+		<vote date="1169096340" how="roll" roll="28" datetime="2007-01-17T12:59:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 2 (Roll no. 28).</text><reference label="text" ref="CR H582-583"/></vote>
+		<action date="1169096400" datetime="2007-01-18"><text>Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.</text></action>
+		<action date="1170306000" datetime="2007-02-01"><text>Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.</text></action>
+		<action date="1170306000" datetime="2007-02-01"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S1539-1540, S1543"/></action>
+		<vote date="1170306000" how="by Unanimous Consent" datetime="2007-02-01" where="s" type="vote2" result="pass" ><text>Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.</text></vote>
+		<action date="1170651600" datetime="2007-02-05"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1170863220" datetime="2007-02-07T11:47:00-05:00"><text>Ms. Velazquez moved that the House suspend the rules and agree to the Senate amendments.</text><reference label="consideration" ref="CR H1291-1292"/></action>
+		<action date="1170863280" datetime="2007-02-07T11:48:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 434.</text></action>
+		<action date="1170863520" datetime="2007-02-07T11:52:00-05:00"><text>On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.</text><reference label="text as House agreed to Senate amendment" ref="CR H1291"/></action>
+		<action date="1170863520" datetime="2007-02-07T11:52:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<topresident date="1170824400" datetime="2007-02-07" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1170997200" datetime="2007-02-09" ><text>Presented to President.</text></topresident>
+		<signed date="1171515600" datetime="2007-02-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-4" date="1171515600" datetime="2007-02-15" type="public" ><text>Became Public Law No: 110-4.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/15/2007--Public Law. (This measure has not been amended since it was passed by the Senate on February 1, 2007. The summary of that version is repeated here.) Extends through July 31, 2007, under the same terms and conditions, the authorization for any program, authority, or provision, including any pilot program, that is currently authorized through February 2, 2007, under the Small Business Act or the Small Business Investment Act of 1958.<br/>
+	</summary>
+</bill>

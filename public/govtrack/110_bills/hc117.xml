@@ -1,0 +1,113 @@
+<bill session="110" type="hc" number="117" updated="2009-01-08T15:41:38-05:00">
+	<status><vote date="1178652780" datetime="2007-05-08T16:33:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1176868800" datetime="2007-04-18"/>
+	<titles>
+		<title type="official" as="introduced">Commemorating the 400th Anniversary of the settlement of Jamestown.</title>
+	</titles>
+	<sponsor id="400095"/>
+	<cosponsors>
+		<cosponsor id="400328" joined="2007-04-24"/>
+		<cosponsor id="400123" joined="2007-04-24"/>
+		<cosponsor id="400332" joined="2007-04-24"/>
+		<cosponsor id="400279" joined="2007-04-24"/>
+		<cosponsor id="400297" joined="2007-04-24"/>
+		<cosponsor id="400154" joined="2007-04-18"/>
+		<cosponsor id="400059" joined="2007-04-24"/>
+		<cosponsor id="400206" joined="2007-04-24"/>
+		<cosponsor id="400648" joined="2007-04-24"/>
+		<cosponsor id="400041" joined="2007-05-03"/>
+		<cosponsor id="400420" joined="2007-04-24"/>
+		<cosponsor id="400191" joined="2007-04-24"/>
+		<cosponsor id="400068" joined="2007-04-24"/>
+		<cosponsor id="400017" joined="2007-04-19"/>
+		<cosponsor id="400319" joined="2007-04-24"/>
+		<cosponsor id="400421" joined="2007-04-24"/>
+		<cosponsor id="400004" joined="2007-04-24"/>
+		<cosponsor id="400098" joined="2007-04-18"/>
+		<cosponsor id="400277" joined="2007-04-24"/>
+		<cosponsor id="400367" joined="2007-04-24"/>
+		<cosponsor id="412217" joined="2007-04-24"/>
+		<cosponsor id="400060" joined="2007-04-18"/>
+		<cosponsor id="400012" joined="2007-04-24"/>
+		<cosponsor id="400318" joined="2007-04-24"/>
+		<cosponsor id="400043" joined="2007-04-18"/>
+		<cosponsor id="400220" joined="2007-04-24"/>
+		<cosponsor id="400364" joined="2007-04-18"/>
+		<cosponsor id="400116" joined="2007-04-19"/>
+		<cosponsor id="400239" joined="2007-04-24"/>
+		<cosponsor id="400049" joined="2007-04-19"/>
+		<cosponsor id="400172" joined="2007-04-24"/>
+		<cosponsor id="400260" joined="2007-04-19"/>
+		<cosponsor id="400057" joined="2007-04-24"/>
+		<cosponsor id="400343" joined="2007-04-24"/>
+		<cosponsor id="400016" joined="2007-04-24"/>
+		<cosponsor id="400139" joined="2007-05-03"/>
+		<cosponsor id="400032" joined="2007-04-24"/>
+		<cosponsor id="400406" joined="2007-04-24"/>
+		<cosponsor id="400228" joined="2007-04-19"/>
+		<cosponsor id="400027" joined="2007-04-24"/>
+		<cosponsor id="400283" joined="2007-04-18"/>
+		<cosponsor id="409888" joined="2007-04-24"/>
+		<cosponsor id="400399" joined="2007-04-19"/>
+		<cosponsor id="400431" joined="2007-04-24"/>
+		<cosponsor id="400264" joined="2007-04-19"/>
+		<cosponsor id="400570" joined="2007-04-19"/>
+		<cosponsor id="400370" joined="2007-04-19"/>
+		<cosponsor id="400169" joined="2007-04-24"/>
+		<cosponsor id="400150" joined="2007-04-24"/>
+		<cosponsor id="400029" joined="2007-04-24"/>
+		<cosponsor id="400433" joined="2007-04-24"/>
+		<cosponsor id="400209" joined="2007-04-19"/>
+		<cosponsor id="412250" joined="2007-04-24"/>
+		<cosponsor id="400089" joined="2007-04-19"/>
+		<cosponsor id="400405" joined="2007-04-24"/>
+		<cosponsor id="400288" joined="2007-04-24"/>
+		<cosponsor id="400076" joined="2007-04-24"/>
+		<cosponsor id="400377" joined="2007-04-19"/>
+		<cosponsor id="400137" joined="2007-04-18"/>
+		<cosponsor id="400439" joined="2007-04-24"/>
+		<cosponsor id="400320" joined="2007-04-24"/>
+		<cosponsor id="400368" joined="2007-04-24"/>
+		<cosponsor id="400114" joined="2007-05-03"/>
+		<cosponsor id="400425" joined="2007-05-03"/>
+		<cosponsor id="400151" joined="2007-04-24"/>
+		<cosponsor id="400321" joined="2007-04-19"/>
+		<cosponsor id="400658" joined="2007-04-18"/>
+		<cosponsor id="400385" joined="2007-04-24"/>
+		<cosponsor id="400359" joined="2007-04-24"/>
+		<cosponsor id="400058" joined="2007-04-24"/>
+		<cosponsor id="400435" joined="2007-04-18"/>
+		<cosponsor id="412191" joined="2007-04-24"/>
+		<cosponsor id="400153" joined="2007-04-18"/>
+		<cosponsor id="400441" joined="2007-04-24"/>
+		<cosponsor id="400107" joined="2007-04-24"/>
+		<cosponsor id="400348" joined="2007-04-24"/>
+		<cosponsor id="412010" joined="2007-04-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1176868800" datetime="2007-04-18"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1177992000" datetime="2007-05-01"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1177992000" datetime="2007-05-01" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1178652060" datetime="2007-05-08T16:21:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1178652120" datetime="2007-05-08T16:22:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4609-4611"/></action>
+		<action date="1178652120" datetime="2007-05-08T16:22:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 117.</text></action>
+		<vote date="1178652780" how="by voice vote" datetime="2007-05-08T16:33:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H4609-4610"/></vote>
+		<action date="1178683200" datetime="2007-05-09"><text>Received in the Senate and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/8/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Commemorates the 400th Anniversary of the founding of the colony Jamestown in 1607 and urges all Americans to honor this seminal event in our nation's history.<br/>
+	</summary>
+</bill>

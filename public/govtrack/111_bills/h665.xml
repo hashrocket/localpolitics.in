@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="665" updated="2009-03-07T11:05:55-05:00">
+	<status><introduced date="1232686800" datetime="2009-01-23"/></status>
+
+	<introduced date="1232686800" datetime="2009-01-23"/>
+	<titles>
+		<title type="short" as="introduced">District of Columbia Voting Rights Restoration Act of 2009</title>
+		<title type="official" as="introduced">To restore the Federal electoral rights of the residents of the District of Columbia, and for other purposes.</title>
+	</titles>
+	<sponsor id="400343"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1232686800" datetime="2009-01-23"><text>Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1232686800" datetime="2009-01-23"><text>Referred to House House Administration</text></action>
+		<action date="1232686800" datetime="2009-01-23"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1232686800" datetime="2009-01-23"><text>Referred to House Judiciary</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="160" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Congressional elections"/>
+		<term name="Congressional operations and organization"/>
+		<term name="District of Columbia"/>
+		<term name="Elections, voting, political campaign regulation"/>
+		<term name="Maryland"/>
+		<term name="Members of Congress"/>
+		<term name="Political representation"/>
+		<term name="Voting rights"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/23/2009--Introduced.<br/>District of Columbia Voting Rights Restoration Act of 2009 - Restores the right of District of Columbia residents to participate as Maryland residents in congressional elections and presidential elections. Repeals provisions of: (1) the District of Columbia Delegate Act that establishes the office of District of Columbia Delegate to the House of Representatives; and (2) the District of Columbia Statehood Constitution Convention Initiative of 1979 that provides for electing a Senator and Representative for the District.<br/>
+	</summary>
+</bill>

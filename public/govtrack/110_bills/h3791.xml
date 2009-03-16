@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="3791" updated="2009-01-09T00:48:08-05:00">
+	<status><vote date="1196890980" datetime="2007-12-05T17:43:00-05:00" where="h" result="pass" how="roll" roll="1131"/></status>
+
+	<introduced date="1191988800" datetime="2007-10-10"/>
+	<titles>
+		<title type="short" as="introduced">SAFE Act of 2007</title>
+		<title type="short" as="introduced">Securing Adolescents From Exploitation-Online Act of 2007</title>
+		<title type="short" as="passed house">SAFE Act of 2007</title>
+		<title type="short" as="passed house">Securing Adolescents From Exploitation-Online Act of 2007</title>
+		<title type="official" as="introduced">To modernize and expand the reporting requirements relating to child pornography, to expand cooperation in combating child pornography, and for other purposes.</title>
+	</titles>
+	<sponsor id="400229"/>
+	<cosponsors>
+		<cosponsor id="412210" joined="2007-12-04"/>
+		<cosponsor id="400071" joined="2007-10-10"/>
+		<cosponsor id="400141" joined="2007-11-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1191988800" datetime="2007-10-10"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1193976000" datetime="2007-11-02"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+		<action date="1196877840" datetime="2007-12-05T14:04:00-05:00"><text>Mr. Conyers moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1196877840" datetime="2007-12-05T14:04:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H14190-14193, H14224-14225"/></action>
+		<action date="1196877840" datetime="2007-12-05T14:04:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3791.</text></action>
+		<action date="1196878800" datetime="2007-12-05T14:20:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<vote date="1196890980" how="roll" roll="1131" datetime="2007-12-05T17:43:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 2 (Roll no. 1131).</text><reference label="text" ref="CR H14190-14192"/></vote>
+		<action date="1196917200" datetime="2007-12-06"><text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/5/2007--Passed House amended. Securing Adolescents From Exploitation-Online Act of 2007 or the SAFE Act of 2007 - Amends the federal criminal code to expand the reporting requirements of electronic communication and remote computing service providers with respect to violations of laws prohibiting sexual exploitation of children and child pornography.<br/>Requires such service providers who obtain knowledge of violations of child exploitation and pornography laws to: (1) complete and maintain with current information a registration with the CyberTipline of the National Center for Missing and Exploited Children (NCMEC); and (2) provide information relating to the Internet identity of any individual who appears to have violated a child exploitation or pornography law, including the geographic location of such individual and images of any apparent child pornography. Requires NCMEC to forward any report of suspected child pornography violations to law enforcement agencies designated by the Attorney General. Imposes civil penalties on service providers who fail to report suspected child exploitation or pornography. Prohibits law enforcement agencies that receive reports from service providers from disclosing information in such reports except for law enforcement and criminal defense purposes.<br/>Requires service providers to preserve images of child pornography for evidentiary purposes. Grants service providers and NCMEC limited immunity from civil and criminal liability for reporting information required by this Act, except in cases of intentional misconduct or malicious failure to act in accordance with law. Requires service providers and NCMEC to minimize employee access to pornographic images and to destroy such images upon notification from a law enforcement agency.<br/>Authorizes NCMEC to provide images of child pornography reported to its CyberTipline to service providers to enable such providers to stop further transmission of pornographic images of children.<br/>
+	</summary>
+</bill>

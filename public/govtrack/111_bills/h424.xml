@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="424" updated="2009-03-07T10:37:34-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Protecting Senior's Nest Egg Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend the temporary waiver of the required minimum distribution rules for certain retirement plans and accounts for an additional year.</title>
+	</titles>
+	<sponsor id="400285"/>
+	<cosponsors>
+		<cosponsor id="400222" joined="2009-01-27"/>
+		<cosponsor id="400057" joined="2009-02-13"/>
+		<cosponsor id="400242" joined="2009-01-27"/>
+		<cosponsor id="400380" joined="2009-01-27"/>
+		<cosponsor id="400040" joined="2009-02-13"/>
+		<cosponsor id="400288" joined="2009-01-27"/>
+		<cosponsor id="400055" joined="2009-01-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Employee benefits and pensions"/>
+		<term name="Income tax deferral"/>
+		<term name="Tax administration and collection, taxpayers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Protecting Senior's Nest Egg Act of 2009 - Amends the Internal Revenue Code to extend through 2010 the suspension of minimum distribution rules for tax-deferred retirement plans. 
+	</summary>
+</bill>

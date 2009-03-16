@@ -1,0 +1,36 @@
+<bill session="111" type="s" number="78" updated="2009-03-07T13:41:27-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Invest in Small Business Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide a full exclusion for gain from certain small business stocks.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+		<cosponsor id="300091" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR S83-84)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Capital gains tax"/>
+		<term name="Income tax exclusion"/>
+		<term name="Securities"/>
+		<term name="Small business"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Invest in Small Business Act of 2009 - Amends the Internal Revenue Code to: (1) increase the exclusion from gross income of gain from the sale or exchange of qualified small business stock from 50 to 100 % of such gain and to reduce the required holding period for such stock from five to four years; (2) deny a tax exclusion for small business stock held by a 25% controlled corporate group; (3) repeal as an item of tax preference under the alternative minimum tax the exclusion of gain from the sale of small business stock; (4) repeal the 28% income tax rate on the gain from the sale of small business stock which is not excluded from gross income; (5) revise the definition of &quot;qualified small business&quot; for certain tax purposes to mean a C corporation with aggregate gross assets not exceeding $100 million (currently, $50 million); and (6) provide for an annual inflation adjustment to the small business aggregate gross asset amount after 2009.<br/>
+	</summary>
+</bill>

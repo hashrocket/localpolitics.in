@@ -1,0 +1,38 @@
+<bill session="110" type="hr" number="370" updated="2009-01-09T08:38:58-05:00">
+	<status><vote date="1178642880" datetime="2007-05-08T13:48:00-04:00" where="h" result="pass" how="roll" roll="306"/></status>
+
+	<introduced date="1178164800" datetime="2007-05-03"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the concurrent resolution (S. Con. Res. 21) setting forth the congressional budget for the United States Government for fiscal year 2008 and including the appropriate budgetary levels for fiscal years 2007 and 2009 through 2012.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1178218080" datetime="2007-05-03T15:48:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-121, by Ms. Slaughter.</text></action>
+		<action date="1178218080" datetime="2007-05-03T15:48:00-04:00"><text>Upon the adoption of this resolution, it shall be in order to consider in the House, S. Con. Res. 21. All points of order against consideration of the concurrent resolution are waived. The concurrent resolution shall be considered as read. It shall be in order to strike out all after the resolving clause of S. Con. Res. 21 and insert in lieu thereof the provisions of H. Con. Res. 99 as adopted by the House. It shall then be in order for the House to insist on its amendment to S. Con. Res. 21 and to ask for a conference.</text></action>
+		<calendar date="1178218140" datetime="2007-05-03T15:49:00-04:00" ><text>Placed on the House Calendar, Calendar No. 50.</text></calendar>
+		<action date="1178564160" datetime="2007-05-07T15:56:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H4509-4516"/></action>
+		<action date="1178564220" datetime="2007-05-07T15:57:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 370.</text></action>
+		<action date="1178567640" datetime="2007-05-07T16:54:00-04:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H4516"/></action>
+		<action date="1178567640" datetime="2007-05-07T16:54:00-04:00"><text>POSTPONED PROCEEDINGS - At the conclusion of the debate on H.Res. 370, the Chair put the question on the resolution and by voice vote, announced that the ayes had prevailed. Mr. Sessions demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption until later in the legislative day.</text></action>
+		<action date="1178642280" datetime="2007-05-08T13:38:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4567"/></action>
+		<vote date="1178642880" how="roll" roll="306" datetime="2007-05-08T13:48:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 221 - 197 (Roll no. 306). (text: CR 5/7/2007 H4510)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/8/2007--Passed House without amendment. Sets forth the rule for consideration of S.Con.Res. 21 (congressional budget).<br/>
+	</summary>
+</bill>

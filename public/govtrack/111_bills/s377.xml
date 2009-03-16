@@ -1,0 +1,35 @@
+<bill session="111" type="s" number="377" updated="2009-03-07T14:18:25-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the United States courthouse located at 131 East 4th Street in Davenport, Iowa, as the &quot;James A. Leach United States Courthouse&quot;.</title>
+	</titles>
+	<sponsor id="300048"/>
+	<cosponsors>
+		<cosponsor id="300051" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Environment and Public Works" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="887" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Congressional tributes"/>
+		<term name="Government buildings, facilities, and property"/>
+		<term name="House of Representatives"/>
+		<term name="Iowa"/>
+		<term name="Members of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Introduced.<br/>Designates the U.S. courthouse located at 131 East 4th Street in Davenport, Iowa, as the &quot;James A. Leach United States Courthouse.&quot; 
+	</summary>
+</bill>

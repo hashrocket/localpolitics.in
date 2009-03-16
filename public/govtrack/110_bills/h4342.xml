@@ -1,0 +1,62 @@
+<bill session="110" type="h" number="4342" updated="2009-01-09T01:53:29-05:00">
+	<status><vote date="1197912000" datetime="2007-12-17T13:20:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1197262800" datetime="2007-12-10"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 824 Manatee Avenue West in Bradenton, Florida, as the &quot;Dan Miller Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="412196"/>
+	<cosponsors>
+		<cosponsor id="400279" joined="2007-12-10"/>
+		<cosponsor id="400273" joined="2007-12-10"/>
+		<cosponsor id="400623" joined="2007-12-10"/>
+		<cosponsor id="400430" joined="2007-12-10"/>
+		<cosponsor id="400170" joined="2007-12-10"/>
+		<cosponsor id="412195" joined="2007-12-10"/>
+		<cosponsor id="400344" joined="2007-12-10"/>
+		<cosponsor id="400388" joined="2007-12-10"/>
+		<cosponsor id="412250" joined="2007-12-10"/>
+		<cosponsor id="400427" joined="2007-12-10"/>
+		<cosponsor id="412197" joined="2007-12-10"/>
+		<cosponsor id="412198" joined="2007-12-10"/>
+		<cosponsor id="400086" joined="2007-12-10"/>
+		<cosponsor id="400212" joined="2007-12-10"/>
+		<cosponsor id="400048" joined="2007-12-10"/>
+		<cosponsor id="400044" joined="2007-12-10"/>
+		<cosponsor id="400051" joined="2007-12-10"/>
+		<cosponsor id="400131" joined="2007-12-10"/>
+		<cosponsor id="400270" joined="2007-12-10"/>
+		<cosponsor id="400439" joined="2007-12-10"/>
+		<cosponsor id="400107" joined="2007-12-10"/>
+		<cosponsor id="400328" joined="2007-12-10"/>
+		<cosponsor id="400108" joined="2007-12-10"/>
+		<cosponsor id="400622" joined="2007-12-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1197262800" datetime="2007-12-10"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1197435600" datetime="2007-12-12"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1197435600" datetime="2007-12-12" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1197911760" datetime="2007-12-17T13:16:00-05:00"><text>Ms. Norton moved to suspend the rules and pass the bill.</text></action>
+		<action date="1197911820" datetime="2007-12-17T13:17:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H15482-15483"/></action>
+		<action date="1197911820" datetime="2007-12-17T13:17:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4342.</text></action>
+		<vote date="1197912000" how="by voice vote" datetime="2007-12-17T13:20:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H15482"/></vote>
+		<action date="1197954000" datetime="2007-12-18"><text>Received in the Senate.</text></action>
+		<action date="1200978000" datetime="2008-01-22"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1204088400" datetime="2008-02-27"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/10/2007--Introduced.<br/>Designates the facility of the United States Postal Service located at 824 Manatee Avenue West in Bradenton, Florida, as the &quot;Dan Miller Post Office Building.&quot;<br/>
+	</summary>
+</bill>

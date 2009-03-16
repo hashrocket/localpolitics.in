@@ -1,0 +1,39 @@
+<bill session="111" type="s" number="213" updated="2009-03-07T13:58:39-05:00">
+	<status><introduced date="1231736400" datetime="2009-01-12"/></status>
+
+	<introduced date="1231736400" datetime="2009-01-12"/>
+	<titles>
+		<title type="short" as="introduced">Airline Passenger Bill of Rights Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend title 49, United States Code, to ensure air passengers have access to necessary services while on a grounded air carrier, and for other purposes.</title>
+	</titles>
+	<sponsor id="300011"/>
+	<cosponsors>
+		<cosponsor id="300091" joined="2009-01-12"/>
+		<cosponsor id="300042" joined="2009-02-23"/>
+		<cosponsor id="300087" joined="2009-01-27"/>
+		<cosponsor id="300064" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1231736400" datetime="2009-01-12"><text>Sponsor introductory remarks on measure. (CR S314-315)</text></action>
+		<action date="1231736400" datetime="2009-01-12"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="624" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Aviation and airports"/>
+		<term name="Consumer affairs"/>
+		<term name="Department of Transportation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/12/2009--Introduced.<br/>Airline Passenger Bill of Rights Act of 2009 - Requires each air carrier and airport operator to submit for approval by the Secretary of Transportation a proposed contingency plan meeting minimum standards established by the Secretary. Requires an air carrier to provide passengers on a departure- or arrival-delayed grounded aircraft with: (1) adequate food, water, restrooms, ventilation, and medical services; as well as (2) a time frame under which passengers may deplane a delayed aircraft after three hours, except in specified circumstances. Requires an airport operator plan to describe: (1) how passengers will be deplaned following a long tarmac delay; and (2) how facilities will be shared and gates made available to aircraft that experience such delays. Authorizes the Secretary to assess a civil penalty against air carriers and airport operators that fail to submit, obtain approval of, or adhere to a contingency plan. Requires public access to such plans. Directs the Secretary to establish a consumer hotline telephone number for air passenger complaints.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="701" updated="2009-03-07T11:10:16-05:00">
+	<status><introduced date="1233032400" datetime="2009-01-27"/></status>
+
+	<introduced date="1233032400" datetime="2009-01-27"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit the use of funds to transfer enemy combatants detained by the United States at Naval Station, Guantanamo Bay, Cuba, to any facility in Oklahoma, or to construct any facility for such enemy combatants in Oklahoma.</title>
+	</titles>
+	<sponsor id="412230"/>
+	<cosponsors>
+		<cosponsor id="400645" joined="2009-01-27"/>
+		<cosponsor id="400247" joined="2009-01-27"/>
+		<cosponsor id="400077" joined="2009-01-27"/>
+		<cosponsor id="400392" joined="2009-01-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1233032400" datetime="2009-01-27"><text>Referred to the House Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="633" />
+		<bill relation="unknown" session="111" type="h" number="794" />
+		<bill relation="unknown" session="111" type="h" number="951" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Appropriations"/>
+		<term name="Caribbean area"/>
+		<term name="Correctional facilities and imprisonment"/>
+		<term name="Cuba"/>
+		<term name="Detention of persons"/>
+		<term name="Latin America"/>
+		<term name="Military facilities and property"/>
+		<term name="Oklahoma"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/2009--Introduced.<br/>Prohibits federal funds from being used to: (1) transfer any enemy combatant detained by the United States at Naval Station Guantanamo Bay, Cuba, to any facility in Oklahoma; or (2) construct housing facilities for such individuals in Oklahoma.<br/>
+	</summary>
+</bill>

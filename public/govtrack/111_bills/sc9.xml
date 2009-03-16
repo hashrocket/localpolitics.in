@@ -1,0 +1,43 @@
+<bill session="111" type="sc" number="9" updated="2009-03-07T14:37:00-05:00">
+	<status><vote date="1235970000" datetime="2009-03-02" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1235970000" datetime="2009-03-02"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution supporting the goals and ideals of Multiple Sclerosis Awareness Week.</title>
+	</titles>
+	<sponsor id="412246"/>
+	<cosponsors>
+		<cosponsor id="300080" joined="2009-03-02"/>
+		<cosponsor id="300091" joined="2009-03-02"/>
+		<cosponsor id="300063" joined="2009-03-02"/>
+		<cosponsor id="400357" joined="2009-03-02"/>
+		<cosponsor id="300037" joined="2009-03-02"/>
+		<cosponsor id="300064" joined="2009-03-02"/>
+	</cosponsors>
+	<actions>
+		<vote date="1235970000" how="by Unanimous Consent" datetime="2009-03-02" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S2644-2645"/><reference label="text as passed" ref="CR S2644-2645"/><reference label="text of measure as introduced" ref="CR S2641-2642"/></vote>
+		<action date="1236090660" datetime="2009-03-03T10:31:00-05:00"><text>Received in the House.</text></action>
+		<action date="1236056400" datetime="2009-03-03"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1236056400" datetime="2009-03-03"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hc" number="14" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Health personnel"/>
+		<term name="Medical research"/>
+		<term name="Neurological disorders"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

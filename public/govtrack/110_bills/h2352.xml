@@ -1,0 +1,110 @@
+<bill session="110" type="h" number="2352" updated="2009-01-08T21:45:33-05:00">
+	<status><vote date="1221688920" datetime="2008-09-17T19:02:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1179288000" datetime="2007-05-16"/>
+	<titles>
+		<title type="short" as="introduced">School Safety Enhancements Act of 2007</title>
+		<title type="short" as="reported to house">School Safety Enhancements Act of 2008</title>
+		<title type="short" as="passed house">School Safety Enhancements Act of 2008</title>
+		<title type="official" as="introduced">To enhance the safety of elementary schools, secondary schools, and institutions of higher education.</title>
+	</titles>
+	<sponsor id="400346"/>
+	<cosponsors>
+		<cosponsor id="400199" joined="2007-05-16"/>
+		<cosponsor id="400227" joined="2007-05-16"/>
+		<cosponsor id="400364" joined="2007-05-16"/>
+		<cosponsor id="400160" joined="2007-05-16"/>
+		<cosponsor id="400080" joined="2008-04-22"/>
+		<cosponsor id="412221" joined="2007-05-16"/>
+		<cosponsor id="400102" joined="2007-05-16"/>
+		<cosponsor id="412224" joined="2008-02-21"/>
+		<cosponsor id="400302" joined="2008-02-21"/>
+		<cosponsor id="400246" joined="2007-05-24"/>
+		<cosponsor id="400271" joined="2007-05-16"/>
+		<cosponsor id="400424" joined="2007-05-16"/>
+		<cosponsor id="400003" joined="2007-05-16"/>
+		<cosponsor id="400409" joined="2007-05-16"/>
+		<cosponsor id="400101" joined="2007-05-16"/>
+		<cosponsor id="400184" joined="2007-05-16"/>
+		<cosponsor id="400437" joined="2007-05-16"/>
+		<cosponsor id="400030" joined="2007-05-16"/>
+		<cosponsor id="400312" joined="2007-05-16"/>
+		<cosponsor id="400402" joined="2008-02-27"/>
+		<cosponsor id="400663" joined="2007-05-16"/>
+		<cosponsor id="400008" joined="2007-05-16"/>
+		<cosponsor id="400048" joined="2007-05-16"/>
+		<cosponsor id="412209" joined="2008-02-14"/>
+		<cosponsor id="412211" joined="2007-05-16"/>
+		<cosponsor id="400166" joined="2008-04-10"/>
+		<cosponsor id="400237" joined="2007-05-16"/>
+		<cosponsor id="400140" joined="2007-05-16"/>
+		<cosponsor id="400013" joined="2007-05-16"/>
+		<cosponsor id="412222" joined="2007-05-16"/>
+		<cosponsor id="400422" joined="2007-05-16"/>
+		<cosponsor id="412204" joined="2007-05-16"/>
+		<cosponsor id="400426" joined="2007-05-16"/>
+		<cosponsor id="400178" joined="2007-05-16"/>
+		<cosponsor id="400217" joined="2007-05-16"/>
+		<cosponsor id="400120" joined="2007-05-16"/>
+		<cosponsor id="412236" joined="2008-02-15"/>
+		<cosponsor id="412186" joined="2007-05-16"/>
+		<cosponsor id="400093" joined="2007-05-16"/>
+		<cosponsor id="412228" joined="2007-05-16"/>
+		<cosponsor id="400291" joined="2007-05-16"/>
+		<cosponsor id="400185" joined="2008-02-21"/>
+		<cosponsor id="400641" joined="2007-05-16"/>
+		<cosponsor id="400047" joined="2008-07-29"/>
+		<cosponsor id="400283" joined="2008-03-14"/>
+		<cosponsor id="400033" joined="2007-05-24"/>
+		<cosponsor id="400218" joined="2007-05-16"/>
+		<cosponsor id="400240" joined="2007-06-11"/>
+		<cosponsor id="400438" joined="2007-05-16"/>
+		<cosponsor id="400024" joined="2007-05-16"/>
+		<cosponsor id="400363" joined="2007-05-16"/>
+		<cosponsor id="400100" joined="2008-02-21"/>
+		<cosponsor id="400309" joined="2007-05-16"/>
+		<cosponsor id="400067" joined="2007-06-26"/>
+		<cosponsor id="412233" joined="2007-05-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1179288000" datetime="2007-05-16"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1179288000" datetime="2007-05-16"><text>Referred to House Judiciary</text></action>
+		<action date="1179288000" datetime="2007-05-16"><text>Referred to House Education and Labor</text></action>
+		<action date="1180929600" datetime="2007-06-04"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+		<action date="1184644800" datetime="2007-07-17"><committee name="House Education and Labor"/><text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text></action>
+		<action date="1184644800" datetime="2007-07-17"><committee name="House Education and Labor"/><text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text></action>
+		<action date="1208404800" datetime="2008-04-17"><committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security"/><text>Subcommittee Hearings Held.</text></action>
+		<action date="1210046400" datetime="2008-05-06"><committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1210651200" datetime="2008-05-13"><committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1210651200" datetime="2008-05-13"><committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1210737600" datetime="2008-05-14"><committee name="House Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<action date="1213156800" datetime="2008-06-11"><committee name="House Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1213156800" datetime="2008-06-11" ><committee name="House Judiciary"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1217614740" datetime="2008-08-01T15:19:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 110-821, Part I.</text></action>
+		<action date="1217614800" datetime="2008-08-01T15:20:00-04:00"><text>House Committee on Education and Labor Granted an extension for further consideration ending not later than Sept. 12, 2008.</text></action>
+		<action date="1221276060" datetime="2008-09-12T12:21:00-04:00"><text>Committee on Education and Labor discharged.</text></action>
+		<calendar number="543" date="1221276060" datetime="2008-09-12T12:21:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 543.</text></calendar>
+		<action date="1221509160" datetime="2008-09-15T17:06:00-04:00"><text>Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1221509160" datetime="2008-09-15T17:06:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8083-8085"/></action>
+		<action date="1221509160" datetime="2008-09-15T17:06:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2352.</text></action>
+		<action date="1221509700" datetime="2008-09-15T17:15:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Issa objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1221688920" datetime="2008-09-17T19:02:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8368-8369"/></action>
+		<vote date="1221688920" how="by voice vote" datetime="2008-09-17T19:02:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/15/2008 H8083-8084)</text></vote>
+		<action date="1222056000" datetime="2008-09-22"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/17/2008--Passed House amended. (This measure has not been amended since it was reported to the House on August 1, 2008. The summary of that version is repeated here.) School Safety Enhancements Act of 2008 - Title I: Elementary and Secondary Education Safety Enhancements - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to allow matching grants to states, localities, and Indian tribes for public elementary and secondary school security to be used for: (1) installing and using surveillance equipment in schools; (2) developing and implementing safety measures to protect students in the event of a terrorist attack or other hazardous condition or situation; and (3) establishing hotlines or tiplines for reporting potentially dangerous students and situations, including hazardous conditions. Increases the maximum federal share of program costs from 50% to 80%. Requires the Director of the Bureau of Justice Assistance and the Secretary of Education to establish an interagency task force to develop and promulgate advisory school safety guidelines. Requires grant applicants to include in their applications a report, signed by their chief education officer and attorney general or other chief law enforcement executive, certifying that the security measures to be funded: (1) will effectively improve school safety; (2) fit into a comprehensive approach to preventing school violence; and (3) are individualized to the needs of each school at which they are to be implemented. Authorizes appropriations for such grant program for FY2009-FY2010. Title II: Higher Education Security Enhancement - Amends the Higher Education Act of 1965 to require each institution of higher education participating in any program under title IV (Student Assistance) of that Act to: (1) conduct an annual campus safety assessment in consultation with local law enforcement officials; and (2) develop and implement a campus emergency response plan that addresses a comprehensive set of emergency situations, including natural disasters, active shooter situations, and terrorism.<br/>
+	</summary>
+</bill>

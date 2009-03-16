@@ -1,0 +1,34 @@
+<bill session="110" type="hr" number="491" updated="2009-01-09T08:53:23-05:00">
+	<status><vote date="1182202560" datetime="2007-06-18T18:36:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1182139200" datetime="2007-06-18"/>
+	<titles>
+		<title type="official" as="introduced">Providing for earmark reform.</title>
+	</titles>
+	<sponsor id="400189"/>
+	<cosponsors>
+		<cosponsor id="400036" joined="2007-06-18"/>
+	</cosponsors>
+	<actions>
+		<action date="1182139200" datetime="2007-06-18"><text>Referred to the House Committee on Rules.</text></action>
+		<action date="1182202500" datetime="2007-06-18T18:35:00-04:00"><text>Committee on Rules discharged.</text></action>
+		<action date="1182202560" datetime="2007-06-18T18:36:00-04:00"><text>Ms. Slaughter asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1182202560" datetime="2007-06-18T18:36:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H6622-6623"/></action>
+		<vote date="1182202560" how="without objection" datetime="2007-06-18T18:36:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text" ref="CR H6623"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/18/2007--Introduced.<br/>Makes it out of order, during the remainder of the 110th Congress, to consider a conference report to accompany a regular general appropriation bill unless the joint explanatory statement prepared by the managers on the part of the House and the Senate, respectively, includes a list of congressional earmarks in the conference report or joint statement (and the name of the requesting Member of Congress) that were not committed to the conference committee by either chamber, not in a report on such bill, and not in a report of a committee of the Senate on a companion measure. Makes it out of order to consider a rule or order that waives the application of this resolution. 
+	</summary>
+</bill>

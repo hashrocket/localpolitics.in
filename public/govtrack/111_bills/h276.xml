@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="276" updated="2009-03-07T10:20:06-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Drug Free Water Act of 2009</title>
+		<title type="official" as="introduced">To direct the Administrator of the Environmental Protection Agency to convene a task force to develop recommendations on the proper disposal of unused pharmaceuticals, and for other purposes.</title>
+	</titles>
+	<sponsor id="400276"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Advisory bodies"/>
+		<term name="Drug safety, medical device, and laboratory regulation"/>
+		<term name="Government information and archives"/>
+		<term name="Hazardous wastes and toxic substances"/>
+		<term name="Solid waste and recycling"/>
+		<term name="Water quality"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Drug Free Water Act of 2009 - Requires the Administrator of the Environmental Protection Agency (EPA) to convene a task force to develop: (1) recommendations on the proper disposal of unused pharmaceuticals to prevent or reduce the detrimental effects caused by introducing such materials into water systems and for limiting the disposal of unused pharmaceuticals through treatment works in accordance with the Federal Water Pollution Control Act (commonly known as the Clean Water Act); and (2) a strategy for educating the public on such recommendations. Requires a report by the task force to Congress containing the recommendations and strategy required by this Act.<br/>
+	</summary>
+</bill>

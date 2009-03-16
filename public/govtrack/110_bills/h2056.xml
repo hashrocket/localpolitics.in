@@ -1,0 +1,36 @@
+<bill session="110" type="h" number="2056" updated="2009-01-08T21:09:25-05:00">
+	<status><introduced date="1177560000" datetime="2007-04-26"/></status>
+
+	<introduced date="1177560000" datetime="2007-04-26"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Part D Improvement Act of 2007</title>
+		<title type="official" as="introduced">To amend part D of title XVIII of the Social Security Act to improve the Medicare part D prescription drug program.</title>
+	</titles>
+	<sponsor id="412193"/>
+	<cosponsors>
+		<cosponsor id="412236" joined="2007-06-27"/>
+		<cosponsor id="412194" joined="2007-04-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1177560000" datetime="2007-04-26"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1177560000" datetime="2007-04-26"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1177560000" datetime="2007-04-26"><text>Referred to House Ways and Means</text></action>
+		<action date="1177905600" datetime="2007-04-30"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1178078400" datetime="2007-05-02"><committee name="House Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/26/2007--Introduced.<br/>Medicare Part D Improvement Act of 2007 - Amends part D (Voluntary Prescription Drug Benefit Program) of the Social Security Act to revise requirements for the Medicare prescription drug program with respect to: (1) counting certain expenditures towards out-of-pocket limits; (2) conforming the late enrollment penalty to the Medicare part B penalty structure; (3) allowing more frequent changes in plans; and (4) removing the asset test and eliminating late enrollment penalties for low-income subsidy eligible individuals. Directs the Secretary of Health and Human Services to study and report to Congress on how to: (1) eliminate the gap in Medicare part D prescription drug coverage created through the application of an initial coverage limit; and (2) finance such elimination.<br/>
+	</summary>
+</bill>

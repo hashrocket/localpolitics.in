@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="53" updated="2009-03-07T09:54:01-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Bad Polluters Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to deny refinery expensing to owners of refineries that are permitted to increase the discharge of pollutants into the Great Lakes.</title>
+	</titles>
+	<sponsor id="400222"/>
+	<cosponsors>
+		<cosponsor id="400227" joined="2009-01-06"/>
+		<cosponsor id="400178" joined="2009-01-06"/>
+		<cosponsor id="412202" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR E5-6)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Great Lakes"/>
+		<term name="Income tax deductions"/>
+		<term name="Lakes and rivers"/>
+		<term name="Marine pollution"/>
+		<term name="Oil and gas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Bad Polluters Act of 2009- Amends the Internal Revenue Code to deny to a Great Lakes polluter the taxpayer election to expense 50% of the cost of refinery property in the current taxpayer year. Defines &quot;Great Lakes polluter&quot; as a refinery owner that holds a permit issued by the Environmental Protection Agency (EPA) to discharge a certain level of pollutants into the Great Lakes.<br/>
+	</summary>
+</bill>

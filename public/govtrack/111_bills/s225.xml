@@ -1,0 +1,49 @@
+<bill session="111" type="s" number="225" updated="2009-03-07T14:00:05-05:00">
+	<status><introduced date="1231822800" datetime="2009-01-13"/></status>
+
+	<introduced date="1231822800" datetime="2009-01-13"/>
+	<titles>
+		<title type="short" as="introduced">Children's Health Care Quality Act</title>
+		<title type="official" as="introduced">A bill to amend title XIX of the Social Security Act to establish programs to improve the quality, performance, and delivery of pediatric care.</title>
+	</titles>
+	<sponsor id="300006"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2009-01-21"/>
+		<cosponsor id="300007" joined="2009-01-13"/>
+		<cosponsor id="300070" joined="2009-01-13"/>
+		<cosponsor id="300059" joined="2009-01-13"/>
+		<cosponsor id="300093" joined="2009-01-13"/>
+		<cosponsor id="300098" joined="2009-01-13"/>
+		<cosponsor id="300052" joined="2009-01-13"/>
+		<cosponsor id="300060" joined="2009-01-13"/>
+		<cosponsor id="300038" joined="2009-01-15"/>
+		<cosponsor id="300068" joined="2009-01-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1231822800" datetime="2009-01-13"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="314" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Child health"/>
+		<term name="Congressional oversight"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Health care quality"/>
+		<term name="Health information and medical records"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Medicaid"/>
+		<term name="Performance measurement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/13/2009--Introduced.<br/>Children's Health Care Quality Act - Amends title XIX (Medicaid) of the Social Security Act (SSA) to direct the Secretary of Health and Human Services to establish a program to: (1) identify quality and performance measures for pediatric service providers; and (2) award grants or contracts for the development, validation, and testing of new and emerging measures. Directs the Secretary, acting through the Administrator of the Centers for Medicare &amp;amp; Medicaid Services, to establish demonstration projects to award grants to states to improve the delivery of health care services to children under Medicaid and SSA title XXI (State Children's Health Insurance Program) (SCHIP). Requires demonstration projects in the categories of: (1) health information technology systems; (2) disease management for children with chronic conditions; (3) evidence-based quality improvement; and (4) quality and performance measures for providers of children's health care services. Requires the Comptroller General to make recommendations to Congress for the design and implementation of a demonstration project to evaluate the suitability of existing quality and performance measures for children's inpatient hospital services for public reporting, differentiating quality, identifying best practices, and providing a basis for payment rewards. 
+	</summary>
+</bill>

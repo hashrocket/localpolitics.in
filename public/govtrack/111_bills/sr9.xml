@@ -1,0 +1,38 @@
+<bill session="111" type="sr" number="9" updated="2009-03-07T14:39:31-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="official" as="introduced">A resolution commemorating 90 years of U.S.-Polish diplomatic relations, during which Poland has proven to be an exceptionally strong partner to the United States in advancing freedom around the world.</title>
+	</titles>
+	<sponsor id="300070"/>
+	<cosponsors>
+		<cosponsor id="300055" joined="2009-01-27"/>
+		<cosponsor id="300098" joined="2009-01-07"/>
+		<cosponsor id="300073" joined="2009-01-07"/>
+		<cosponsor id="300092" joined="2009-02-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Sponsor introductory remarks on measure. (CR S175)</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S175"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Foreign Relations" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Europe"/>
+		<term name="Poland"/>
+		<term name="Sovereignty, recognition, national governance and status"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Celebrates the 90th anniversary of U.S.-Polish diplomatic relations. Congratulates the Polish people on their great accomplishments as a democracy. Expresses appreciation for Poland's steadfast partnership with the United States.<br/>
+	</summary>
+</bill>

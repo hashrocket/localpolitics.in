@@ -1,0 +1,61 @@
+<bill session="110" type="h" number="3446" updated="2009-01-09T00:06:00-05:00">
+	<status><enacted date="1196398800" datetime="2007-11-30" /></status>
+
+	<introduced date="1186113600" datetime="2007-08-03"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 202 East Michigan Avenue in Marshall, Michigan, as the &quot;Michael W. Schragg Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="412213"/>
+	<cosponsors>
+		<cosponsor id="400414" joined="2007-08-03"/>
+		<cosponsor id="400080" joined="2007-10-02"/>
+		<cosponsor id="400342" joined="2007-10-01"/>
+		<cosponsor id="400058" joined="2007-09-07"/>
+		<cosponsor id="400276" joined="2007-09-18"/>
+		<cosponsor id="400260" joined="2007-10-01"/>
+		<cosponsor id="400216" joined="2007-10-01"/>
+		<cosponsor id="400225" joined="2007-10-01"/>
+		<cosponsor id="400110" joined="2007-10-02"/>
+		<cosponsor id="400217" joined="2007-10-03"/>
+		<cosponsor id="400391" joined="2007-08-03"/>
+		<cosponsor id="400119" joined="2007-08-03"/>
+		<cosponsor id="400182" joined="2007-08-03"/>
+		<cosponsor id="400238" joined="2007-10-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1186113600" datetime="2007-08-03"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1193112000" datetime="2007-10-23"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1193112000" datetime="2007-10-23" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1193767800" datetime="2007-10-30T15:10:00-04:00"><text>Mr. Clay moved to suspend the rules and pass the bill.</text></action>
+		<action date="1193767800" datetime="2007-10-30T15:10:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H12197-12198"/></action>
+		<action date="1193767800" datetime="2007-10-30T15:10:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3446.</text></action>
+		<action date="1193768400" datetime="2007-10-30T15:20:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1193773680" datetime="2007-10-30T16:48:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H12206-12207"/></action>
+		<vote date="1193774160" how="roll" roll="1019" datetime="2007-10-30T16:56:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 1019).</text><reference label="text" ref="CR H12197"/></vote>
+		<action date="1193889600" datetime="2007-11-01"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<calendar date="1195016400" datetime="2007-11-14" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1195016400" datetime="2007-11-14"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="504" date="1195016400" datetime="2007-11-14" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 504.</text></calendar>
+		<vote date="1195189200" how="by Unanimous Consent" datetime="2007-11-16" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S14656-14657"/></vote>
+		<action date="1195189200" datetime="2007-11-16"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1195189200" datetime="2007-11-16" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1196053200" datetime="2007-11-26" ><text>Presented to President.</text></topresident>
+		<signed date="1196398800" datetime="2007-11-30" ><text>Signed by President.</text></signed>
+		<enacted number="110-128" date="1196398800" datetime="2007-11-30" type="public" ><text>Became Public Law No: 110-128.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/30/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 202 East Michigan Avenue in Marshall, Michigan, as the &quot;Michael W. Schragg Post Office Building.&quot; 
+	</summary>
+</bill>

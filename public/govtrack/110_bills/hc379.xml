@@ -1,0 +1,36 @@
+<bill session="110" type="hc" number="379" updated="2009-01-08T16:15:06-05:00">
+	<status><vote2 date="1214452800" datetime="2008-06-26" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1214280000" datetime="2008-06-24"/>
+	<titles>
+		<title type="official" as="introduced">Providing for an adjournment or recess of the two Houses.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1214333640" datetime="2008-06-24T15:54:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H5949"/></action>
+		<action date="1214333760" datetime="2008-06-24T15:56:00-04:00"><text>POSTPONED PROCEEDINGS - The Chair put the question on the adoption of the concurrent resolution and by voice vote, announced that the ayes had prevailed. Mr. McKeon demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the concurrent resolution until a time to be announced.</text></action>
+		<action date="1214339580" datetime="2008-06-24T17:33:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5962-5963"/></action>
+		<vote date="1214340720" how="roll" roll="445" datetime="2008-06-24T17:52:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 225 - 197 (Roll no. 445).</text><reference label="text" ref="CR H5949"/></vote>
+		<action date="1214280000" datetime="2008-06-24"><text>Received in the Senate.</text></action>
+		<vote date="1214452800" how="by Unanimous Consent" datetime="2008-06-26" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6305-6306"/><reference label="text as passed Senate" ref="CR S6305-6306"/></vote>
+		<action date="1214539200" datetime="2008-06-27"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/26/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Declares that, when the House adjourns on the legislative day of Thursday, June 26, 2008, or Friday, June 27, 2008, it stand adjourned until 2 p.m. on Tuesday, July 8, 2008. Declares that, when the Senate recesses or adjourns on any day from Thursday, June 26, 2008, through Friday, July 4, 2008, it stand recessed or adjourned until noon on Monday, July 7, 2008. 
+	</summary>
+</bill>

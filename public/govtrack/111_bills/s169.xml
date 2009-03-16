@@ -1,0 +1,43 @@
+<bill session="111" type="s" number="169" updated="2009-03-07T13:53:20-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">Biennial Budgeting and Appropriations Act</title>
+		<title type="official" as="introduced">A bill to provide for a biennial budget process and a biennial appropriations process and to enhance oversight and the performance of the Federal Government.</title>
+	</titles>
+	<sponsor id="400194"/>
+	<cosponsors>
+		<cosponsor id="300002" joined="2009-01-08"/>
+		<cosponsor id="300062" joined="2009-01-08"/>
+		<cosponsor id="400418" joined="2009-01-08"/>
+		<cosponsor id="300091" joined="2009-01-08"/>
+		<cosponsor id="300098" joined="2009-01-08"/>
+		<cosponsor id="300088" joined="2009-01-22"/>
+		<cosponsor id="400621" joined="2009-01-08"/>
+		<cosponsor id="300021" joined="2009-01-08"/>
+		<cosponsor id="412248" joined="2009-01-08"/>
+		<cosponsor id="300041" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Read twice and referred to the Committee on the Budget.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Budget" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Economics and public finance"/>
+		<term name="Appropriations"/>
+		<term name="Budget process"/>
+		<term name="Performance measurement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="110" type="sr" number="367" updated="2009-01-09T20:43:45-05:00">
+	<status><vote date="1195189200" datetime="2007-11-16" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1194325200" datetime="2007-11-06"/>
+	<titles>
+		<title type="official" as="introduced">A resolution commemorating the 40th anniversary of the mass movement for Soviet Jewish freedom and the 20th anniversary of the Freedom Sunday rally for Soviet Jewry on the National Mall.</title>
+	</titles>
+	<sponsor id="300067"/>
+	<cosponsors>
+		<cosponsor id="400064" joined="2007-11-06"/>
+		<cosponsor id="300008" joined="2007-11-06"/>
+		<cosponsor id="300098" joined="2007-11-06"/>
+		<cosponsor id="400621" joined="2007-11-06"/>
+		<cosponsor id="300073" joined="2007-11-06"/>
+		<cosponsor id="300087" joined="2007-11-15"/>
+		<cosponsor id="300092" joined="2007-11-06"/>
+		<cosponsor id="300013" joined="2007-11-06"/>
+		<cosponsor id="400418" joined="2007-11-15"/>
+		<cosponsor id="300022" joined="2007-11-06"/>
+		<cosponsor id="300048" joined="2007-11-16"/>
+		<cosponsor id="412246" joined="2007-11-06"/>
+		<cosponsor id="300063" joined="2007-11-15"/>
+		<cosponsor id="300043" joined="2007-11-06"/>
+		<cosponsor id="300026" joined="2007-11-06"/>
+		<cosponsor id="300090" joined="2007-11-06"/>
+		<cosponsor id="300100" joined="2007-11-06"/>
+		<cosponsor id="300064" joined="2007-11-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1194325200" datetime="2007-11-06"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S13999"/></action>
+		<calendar date="1195102800" datetime="2007-11-15" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1195102800" datetime="2007-11-15"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="510" date="1195102800" datetime="2007-11-15" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 510.</text></calendar>
+		<vote date="1195189200" how="by Unanimous Consent" datetime="2007-11-16" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S14657-14658"/><reference label="text as passed Senate" ref="CR S14657-14658"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/16/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the contributions of American citizens of Jewish descent who emigrated from the Soviet Union. Commemorates: (1) the 40th anniversary of the mass movement for freedom by and on behalf of Soviet Jewry; and (2) the 20th anniversary of the December 6, 1987, Freedom Sunday rally for Soviet Jews. Condemns incidents of anti-Semitism, xenophobia, and religious persecution in the independent states of the former Soviet Union and encourages the development of democracy, religious freedom, rule of law, and human rights in those states. 
+	</summary>
+</bill>

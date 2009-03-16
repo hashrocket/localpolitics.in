@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="260" updated="2009-01-09T08:25:40-05:00">
+	<status><vote date="1174619100" datetime="2007-03-22T12:05:00-04:00" where="h" result="pass" how="roll" roll="180"/></status>
+
+	<introduced date="1174449600" datetime="2007-03-21"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 1433) to provide for the treatment of the District of Columbia as a Congressional district for purposes of representation in the House of Representatives, and for other purposes.</title>
+	</titles>
+	<sponsor id="412224"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1174536120" datetime="2007-03-22T01:02:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-63, by Mr. Arcuri.</text></action>
+		<action date="1174536120" datetime="2007-03-22T01:02:00-04:00"><text>All points of order against consideration of the bill are waived except those arising under clause 9 or 10 or rule XXI. All points of order against the bill, as amended, are waived. The amendment printed in the report of the Committee on Rules accompanying this resolution shall</text></action>
+		<calendar date="1174536180" datetime="2007-03-22T01:03:00-04:00" ><text>Placed on the House Calendar, Calendar No. 28.</text></calendar>
+		<action date="1174569780" datetime="2007-03-22T10:23:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H2825-2837"/></action>
+		<action date="1174569900" datetime="2007-03-22T10:25:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 260.</text></action>
+		<action date="1174575420" datetime="2007-03-22T11:57:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 228 - 198 (Roll no. 179).</text><reference label="consideration" ref="CR H2836-2837"/></action>
+		<vote date="1174619100" how="roll" roll="180" datetime="2007-03-22T12:05:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by recorded vote: 226 - 195 (Roll no. 180).</text><reference label="text" ref="CR H2825"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/22/2007--Passed House without amendment. Sets forth the rule for consideration of H.R. 1433 (District of Columbia House Voting Rights Act of 2007).<br/>
+	</summary>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="111" type="s" number="232" updated="2009-03-07T14:00:55-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="short" as="introduced">Radioactive Import Deterrence Act</title>
+		<title type="official" as="introduced">A bill to prohibit the importation of certain low-level radioactive waste into the United States.</title>
+	</titles>
+	<sponsor id="300002"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Environment and Public Works" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="515" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Licensing and registrations"/>
+		<term name="Radioactive wastes and releases"/>
+		<term name="Trade restrictions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

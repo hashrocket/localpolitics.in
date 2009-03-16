@@ -1,0 +1,69 @@
+<bill session="110" type="hc" number="187" updated="2009-01-08T15:50:46-05:00">
+	<status><vote date="1185379500" datetime="2007-07-25T13:05:00-04:00" where="h" result="pass" how="roll" roll="719"/></status>
+
+	<introduced date="1184731200" datetime="2007-07-18"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of Congress regarding the dumping of industrial waste into the Great Lakes.</title>
+	</titles>
+	<sponsor id="400120"/>
+	<cosponsors>
+		<cosponsor id="400352" joined="2007-07-23"/>
+		<cosponsor id="400222" joined="2007-07-19"/>
+		<cosponsor id="400198" joined="2007-07-23"/>
+		<cosponsor id="400276" joined="2007-07-19"/>
+		<cosponsor id="400093" joined="2007-07-23"/>
+		<cosponsor id="400227" joined="2007-07-23"/>
+		<cosponsor id="400414" joined="2007-07-23"/>
+		<cosponsor id="400318" joined="2007-07-19"/>
+		<cosponsor id="400630" joined="2007-07-19"/>
+		<cosponsor id="400391" joined="2007-07-24"/>
+		<cosponsor id="400119" joined="2007-07-18"/>
+		<cosponsor id="400423" joined="2007-07-23"/>
+		<cosponsor id="400631" joined="2007-07-19"/>
+		<cosponsor id="400641" joined="2007-07-23"/>
+		<cosponsor id="400110" joined="2007-07-19"/>
+		<cosponsor id="400208" joined="2007-07-19"/>
+		<cosponsor id="400218" joined="2007-07-19"/>
+		<cosponsor id="400013" joined="2007-07-23"/>
+		<cosponsor id="412240" joined="2007-07-19"/>
+		<cosponsor id="400238" joined="2007-07-19"/>
+		<cosponsor id="412224" joined="2007-07-19"/>
+		<cosponsor id="400178" joined="2007-07-19"/>
+		<cosponsor id="400216" joined="2007-07-19"/>
+		<cosponsor id="400163" joined="2007-07-23"/>
+		<cosponsor id="400350" joined="2007-07-19"/>
+		<cosponsor id="400217" joined="2007-07-23"/>
+		<cosponsor id="400360" joined="2007-07-23"/>
+		<cosponsor id="400342" joined="2007-07-19"/>
+		<cosponsor id="400359" joined="2007-07-23"/>
+		<cosponsor id="412202" joined="2007-07-19"/>
+		<cosponsor id="400299" joined="2007-07-19"/>
+		<cosponsor id="400067" joined="2007-07-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1184731200" datetime="2007-07-18"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1184817600" datetime="2007-07-19"><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action date="1185283980" datetime="2007-07-24T10:33:00-04:00"><text>Mr. Oberstar moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1185283980" datetime="2007-07-24T10:33:00-04:00"><text>Considered under suspension of the rules. (consideration: CR H8301-8307; text: CR 7/25/2007 H8301)</text></action>
+		<action date="1185283980" datetime="2007-07-24T10:33:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 187.</text></action>
+		<action date="1185286560" datetime="2007-07-24T11:16:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1185422280" datetime="2007-07-25T12:58:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8419-8420"/></action>
+		<vote date="1185379500" how="roll" roll="719" datetime="2007-07-25T13:05:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 387 - 26, 2 Present (Roll no. 719). (text: CR 7/24/2007 H8301)</text></vote>
+		<action date="1185422400" datetime="2007-07-26"><text>Received in the Senate and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/25/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Expresses disapproval of the Indiana Department of Environmental Management's issuance of a permit allowing BP to increase their daily dumping of ammonia and total suspended solids into Lake Michigan. Urges Indiana to reconsider issuance of such permit.<br/>Calls for Congress to take action to protect and restore the Great Lakes.<br/>Expresses the sense of Congress that: (1) the Environmental Protection Agency's (EPA) actions in the Great Lakes basin should be consistent with the goal of preserving and restoring the Great Lakes; and (2) EPA should not allow increased dumping of chemicals and pollutants into the Great Lakes. 
+	</summary>
+</bill>

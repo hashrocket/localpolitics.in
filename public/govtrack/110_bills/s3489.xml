@@ -1,0 +1,35 @@
+<bill session="110" type="s" number="3489" updated="2009-01-09T19:09:59-05:00">
+	<status><calendar date="1221624000" datetime="2008-09-17" /></status>
+
+	<introduced date="1221451200" datetime="2008-09-15"/>
+	<titles>
+		<title type="official" as="introduced">A bill to require the Administrator of the Environmental Protection Agency to conduct a study on black carbon emissions.</title>
+	</titles>
+	<sponsor id="300022"/>
+	<cosponsors>
+		<cosponsor id="300055" joined="2008-09-17"/>
+		<cosponsor id="300060" joined="2008-09-15"/>
+		<cosponsor id="300019" joined="2008-09-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1221451200" datetime="2008-09-15"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar date="1221624000" datetime="2008-09-17" ><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1222228800" datetime="2008-09-24"><text>Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-489.</text></action>
+		<calendar under="General Orders" number="1060" date="1222228800" datetime="2008-09-24" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1060.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

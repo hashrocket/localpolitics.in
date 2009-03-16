@@ -1,0 +1,40 @@
+<bill session="111" type="s" number="179" updated="2009-03-07T13:54:28-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">Health Information Technology Act of 2009</title>
+		<title type="official" as="introduced">A bill to improve quality in health care by providing incentives for adoption of modern information technology.</title>
+	</titles>
+	<sponsor id="300093"/>
+	<cosponsors>
+		<cosponsor id="300091" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Sponsor introductory remarks on measure. (CR S226-227)</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Computers and information technology"/>
+		<term name="Government investigations"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care quality"/>
+		<term name="Health information and medical records"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Income tax deductions"/>
+		<term name="Medicare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Health Information Technology Act of 2009 - Directs the Secretary of Health and Human Services to establish a program to award grants to eligible health care entities to offset costs related to clinical health care informatics systems and services designed to improve quality in health care and patient safety, including costs for the purchase, lease, or installation of computer software and hardware. Requires the Secretary to conduct studies to: (1) evaluate the use of clinical health care informatics systems and services to measure and report quality data; and (2) assess the impact of such systems and services on improving patient care, reducing costs, and increasing efficiencies. Directs the Secretary to establish a methodology for making adjustments in Medicare payment amounts for providers of services and suppliers who use health information technology and technology services with patient-specific applications that improve the quality and accuracy of clinical decision-making, compliance, health care delivery, and efficiency. Requires the Secretary to provide for the development and adoption of national data and communication health information technology standards that promote the efficient exchange of data between varieties of provider health information technology systems. Amends the Internal Revenue Code to allow an eligible entity to elect to expense qualified health care informatics system expenditures.<br/>
+	</summary>
+</bill>

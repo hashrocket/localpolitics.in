@@ -1,0 +1,50 @@
+<bill session="110" type="h" number="1285" updated="2009-01-08T19:31:29-05:00">
+	<status><vote date="1185247380" datetime="2007-07-23T12:23:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1172725200" datetime="2007-03-01"/>
+	<titles>
+		<title type="short" as="introduced">Snoqualmie Pass Land Conveyance Act</title>
+		<title type="short" as="reported to house">Snoqualmie Pass Land Conveyance Act</title>
+		<title type="short" as="passed house">Snoqualmie Pass Land Conveyance Act</title>
+		<title type="short" as="reported to senate">Snoqualmie Pass Land Conveyance Act</title>
+		<title type="official" as="introduced">To provide for the conveyance of a parcel of National Forest System land in Kittitas County, Washington, to facilitate the construction of a new fire and rescue station, and for other purposes.</title>
+	</titles>
+	<sponsor id="400171"/>
+	<cosponsors>
+		<cosponsor id="400660" joined="2007-03-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1172725200" datetime="2007-03-01"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1173070800" datetime="2007-03-05"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1176782400" datetime="2007-04-17"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1183003200" datetime="2007-06-28"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1183003200" datetime="2007-06-28" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1183003200" datetime="2007-06-28"><text>Subcommittee on National Parks, Forests, and Public Lands Discharged.</text></action>
+		<action date="1185246000" datetime="2007-07-23T12:00:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-249.</text></action>
+		<calendar number="158" date="1185246060" datetime="2007-07-23T12:01:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 158.</text></calendar>
+		<action date="1185247260" datetime="2007-07-23T12:21:00-04:00"><text>Mr. Grijalva moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1185247260" datetime="2007-07-23T12:21:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8194-8195"/></action>
+		<action date="1185247260" datetime="2007-07-23T12:21:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1285.</text></action>
+		<vote date="1185247380" how="by voice vote" datetime="2007-07-23T12:23:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text as passed in House" ref="CR H8194"/></vote>
+		<action date="1185249600" datetime="2007-07-24"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1204088400" datetime="2008-02-27"><text>Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held.</text></action>
+		<calendar date="1210132800" datetime="2008-05-07" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1213588800" datetime="2008-06-16"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-379.</text></action>
+		<calendar under="General Orders" number="811" date="1213588800" datetime="2008-06-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 811.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/16/2008--Reported to Senate without amendment. (This measure has not been amended since it was passed by the House on August 23, 2007. The summary of that version is repeated here.)<br/>Snoqualmie Pass Land Conveyance Act - Directs the Secretary of Agriculture to convey a specified parcel of National Forest System land to the King and Kittitas Counties Fire District #51 of King and Kittitas Counties, Washington, and to permit the District to use such parcel as a site for a new Snoqualmie Pass fire and rescue station. Provides for reversion to the United States of the conveyed property if it is not being used in accordance with the purposes specified above. Provides that, if necessary, the exact acreage and legal description of the lands to be conveyed shall be determined by a survey satisfactory to the Secretary.<br/>
+	</summary>
+</bill>

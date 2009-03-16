@@ -1,0 +1,59 @@
+<bill session="111" type="s" number="296" updated="2009-03-07T14:09:01-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">Fair Tax Act of 2009</title>
+		<title type="official" as="introduced">A bill to promote freedom, fairness, and economic opportunity by repealing the income tax and other taxes, abolishing the Internal Revenue Service, and enacting a national sales tax to be administered primarily by the States.</title>
+	</titles>
+	<sponsor id="300021"/>
+	<cosponsors>
+		<cosponsor id="400576" joined="2009-01-22"/>
+		<cosponsor id="300027" joined="2009-01-22"/>
+		<cosponsor id="400194" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="25" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Constitution and constitutional amendments"/>
+		<term name="Department of the Treasury"/>
+		<term name="Employment taxes"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Foreign and international corporations"/>
+		<term name="Fraud offenses"/>
+		<term name="Gambling"/>
+		<term name="Games and hobbies"/>
+		<term name="General taxation matters"/>
+		<term name="Government information and archives"/>
+		<term name="Government trust funds"/>
+		<term name="Income tax credits"/>
+		<term name="Interest and interest rates"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Internal Revenue Service (IRS)"/>
+		<term name="Medicare"/>
+		<term name="Poverty and welfare assistance"/>
+		<term name="Sales and excise taxes"/>
+		<term name="Small business"/>
+		<term name="Social security and elderly assistance"/>
+		<term name="State and local government operations"/>
+		<term name="Tax administration and collection, taxpayers"/>
+		<term name="Tax reform and tax simplification"/>
+		<term name="Taxation of foreign income"/>
+		<term name="Transfer and inheritance taxes"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

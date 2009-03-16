@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="1232" updated="2009-03-07T12:17:13-05:00">
+	<status><introduced date="1235624400" datetime="2009-02-26"/></status>
+
+	<introduced date="1235624400" datetime="2009-02-26"/>
+	<titles>
+		<title type="short" as="introduced">Far South Texas Veterans Medical Center Act of 2009</title>
+		<title type="official" as="introduced">To authorize the Secretary of Veterans Affairs to construct a full service hospital in Far South Texas.</title>
+	</titles>
+	<sponsor id="400302"/>
+	<cosponsors>
+		<cosponsor id="400657" joined="2009-02-26"/>
+		<cosponsor id="400111" joined="2009-02-26"/>
+		<cosponsor id="400204" joined="2009-02-26"/>
+		<cosponsor id="400179" joined="2009-02-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1235624400" datetime="2009-02-26"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1235624400" datetime="2009-02-26"><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

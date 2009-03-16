@@ -1,0 +1,39 @@
+<bill session="110" type="h" number="5953" updated="2009-01-09T05:11:13-05:00">
+	<status><introduced date="1209614400" datetime="2008-05-01"/></status>
+
+	<introduced date="1209614400" datetime="2008-05-01"/>
+	<titles>
+		<title type="short" as="introduced">MediFair Act of 2008</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to improve the provision of items and services provided to Medicare beneficiaries residing in rural areas.</title>
+	</titles>
+	<sponsor id="400379"/>
+	<cosponsors>
+		<cosponsor id="400262" joined="2008-05-01"/>
+		<cosponsor id="400232" joined="2008-05-01"/>
+		<cosponsor id="400193" joined="2008-05-01"/>
+		<cosponsor id="400109" joined="2008-05-01"/>
+		<cosponsor id="400011" joined="2008-05-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1209614400" datetime="2008-05-01"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1209614400" datetime="2008-05-01"><text>Referred to House Ways and Means</text></action>
+		<action date="1209614400" datetime="2008-05-01"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1209960000" datetime="2008-05-05"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1210132800" datetime="2008-05-07"><committee name="House Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/1/2008--Introduced.<br/>MediFair Act of 2008 - Amends title XVIII (Medicare) of the Social Security Act (SSA) to direct the Secretary of Health and Human Services to establish a system for making adjustments to the amount of payment made to entities and individuals for items and services provided under the original Medicare fee-for-service program under parts A (Hospital Insurance) and B (Supplementary Medical Insurance). Requires such adjustments in order to make the state average per beneficiary amount equal to the national average per beneficiary amount. Directs the Medicare Payment Advisory Commission (MEDPAC) to develop recommendations on policies and practices that would encourage: (1) healthy outcomes and quality care under the Medicare program in states with respect to which payments are reduced under such system; and (2) the efficient use of payments made under the Medicare program in such states.<br/>
+	</summary>
+</bill>

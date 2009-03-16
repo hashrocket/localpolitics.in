@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="526" updated="2009-01-09T08:57:39-05:00">
+	<status><vote date="1184209860" datetime="2007-07-11T12:11:00-04:00" where="h" result="pass" how="roll" roll="609"/></status>
+
+	<introduced date="1183003200" datetime="2007-06-28"/>
+	<titles>
+		<title type="official" as="introduced">Supporting home ownership and responsible lending.</title>
+	</titles>
+	<sponsor id="400090"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1183003200" datetime="2007-06-28"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1184090580" datetime="2007-07-10T15:03:00-04:00"><text>Mrs. Maloney (NY) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1184090640" datetime="2007-07-10T15:04:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7448-7451"/></action>
+		<action date="1184090640" datetime="2007-07-10T15:04:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 526.</text></action>
+		<action date="1184092080" datetime="2007-07-10T15:28:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1184209500" datetime="2007-07-11T12:05:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7505"/></action>
+		<vote date="1184209860" how="roll" roll="609" datetime="2007-07-11T12:11:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 411 - 7 (Roll no. 609). (text: CR 7/10/2007 H7448-7449)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/11/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)<br/>Declares the sense of the House that specified government action should be taken that protects buyers from unscrupulous mortgage brokers and lenders. Declares that such action should: (1) enforce rules to eliminate unfair and deceptive practices in sub-prime mortgage lending; (2) encourage lenders to evaluate a borrower's ability to reasonably repay any mortgage loan; (3) establish clear minimum standards for mortgage originators; (4) require that disclosures clearly and effectively communicate necessary information about any mortgage loan to the potential borrower; (5) reduce or eliminate abuses in prepayment penalties; (6) address appraisal and other mortgage fraud; (7) raise public awareness regarding mortgage originators whose loans have high foreclosure rates; and (8) increase opportunities for loan counseling.<br/>
+	</summary>
+</bill>

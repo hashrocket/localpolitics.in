@@ -1,0 +1,44 @@
+<bill session="110" type="h" number="5104" updated="2009-01-09T03:31:09-05:00">
+	<status><enacted date="1201755600" datetime="2008-01-31" /></status>
+
+	<introduced date="1201064400" datetime="2008-01-23"/>
+	<titles>
+		<title type="official" as="introduced">To extend the Protect America Act of 2007 for 30 days.</title>
+		<title type="official" as="amended by house">To extend the Protect America Act of 2007 for 15 days.</title>
+	</titles>
+	<sponsor id="400080"/>
+	<cosponsors>
+		<cosponsor id="400337" joined="2008-01-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1201064400" datetime="2008-01-23"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1201064400" datetime="2008-01-23"><text>Referred to House Judiciary</text></action>
+		<action date="1201064400" datetime="2008-01-23"><text>Referred to House Intelligence (Permanent Select)</text></action>
+		<action date="1201634520" datetime="2008-01-29T15:22:00-05:00"><text>Mr. Conyers moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1201634520" datetime="2008-01-29T15:22:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H510-517"/></action>
+		<action date="1201634520" datetime="2008-01-29T15:22:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5104.</text></action>
+		<vote date="1201636980" how="by voice vote" datetime="2008-01-29T16:03:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H510"/></vote>
+		<action date="1201636980" datetime="2008-01-29T16:03:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<vote date="1201582800" how="by Unanimous Consent" datetime="2008-01-29" where="s" type="vote2" result="pass" ><text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S457"/></vote>
+		<topresident date="1201582800" datetime="2008-01-29" ><text>Cleared for White House.</text></topresident>
+		<action date="1201669200" datetime="2008-01-30"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1201669200" datetime="2008-01-30" ><text>Presented to President.</text></topresident>
+		<signed date="1201755600" datetime="2008-01-31" ><text>Signed by President.</text></signed>
+		<enacted number="110-182" date="1201755600" datetime="2008-01-31" type="public" ><text>Became Public Law No: 110-182.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/31/2008--Public Law. (This measure has not been amended since it was passed by the House on January 29, 2008. The summary of that version is repeated here.) Amends the Protect America Act of 2007 (currently set to expire on February 1, 2008) to extend its authority for 15 days.<br/>
+	</summary>
+</bill>

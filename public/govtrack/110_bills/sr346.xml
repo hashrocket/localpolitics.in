@@ -1,0 +1,46 @@
+<bill session="110" type="sr" number="346" updated="2009-01-09T20:41:08-05:00">
+	<status><vote date="1193371200" datetime="2007-10-26" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1192420800" datetime="2007-10-15"/>
+	<titles>
+		<title type="official" as="introduced">A resolution expressing heartfelt sympathy for the victims of the devastating thunderstorms that caused severe flooding during August 2007 in the States of Illinois, Iowa, Minnesota, Ohio, and Wisconsin, and for other purposes.</title>
+		<title type="official" as="amended by senate">A resolution expressing heartfelt sympathy for the victims of the devastating thunderstorms that caused severe flooding during August 2007 in the States of Illinois, Iowa, Minnesota, Ohio, Oklahoma, and Wisconsin, and for other purposes.</title>
+	</titles>
+	<sponsor id="300024"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2007-10-15"/>
+		<cosponsor id="300055" joined="2007-10-25"/>
+		<cosponsor id="300098" joined="2007-10-15"/>
+		<cosponsor id="300042" joined="2007-10-15"/>
+		<cosponsor id="300038" joined="2007-10-15"/>
+		<cosponsor id="300061" joined="2007-10-15"/>
+		<cosponsor id="300051" joined="2007-10-15"/>
+		<cosponsor id="400576" joined="2007-10-26"/>
+		<cosponsor id="400050" joined="2007-10-15"/>
+		<cosponsor id="300048" joined="2007-10-15"/>
+		<cosponsor id="400629" joined="2007-10-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1192420800" datetime="2007-10-15"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S12874"/></action>
+		<calendar date="1193284800" datetime="2007-10-25" ><text>Committee on the Judiciary. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action date="1193284800" datetime="2007-10-25"><text>Committee on the Judiciary. Reported by Senator Leahy with an amendment and with an amended preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="445" date="1193284800" datetime="2007-10-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 445.</text></calendar>
+		<action date="1193371200" datetime="2007-10-26"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S13494-13495"/><reference label="text of measure as reported in Senate" ref="CR S13494-13495"/></action>
+		<vote date="1193371200" how="by Unanimous Consent" datetime="2007-10-26" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent.</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/26/2007--Passed Senate amended. Expresses sympathy for the victims of the devastating thunderstorms that caused severe flooding during August 2007 in Illinois, Iowa, Minnesota, Ohio, Oklahoma, and Wisconsin and conveys gratitude to the officials and emergency personnel who responded swiftly to the crisis. Recognizes the generous support of citizens, local businesses, the American Red Cross, the United Way, Catholic Charities, and the Salvation Army.<br/>Reaffirms support for helping the victims rebuild.<br/>
+	</summary>
+</bill>

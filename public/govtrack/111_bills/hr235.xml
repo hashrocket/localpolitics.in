@@ -1,0 +1,39 @@
+<bill session="111" type="hr" number="235" updated="2009-03-13T12:11:48-04:00">
+	<status><vote date="1236866160" datetime="2009-03-12T10:56:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1236744000" datetime="2009-03-11"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 1262) to amend the Federal Water Pollution Control Act to authorize appropriations for State water pollution control revolving funds, and for other purposes.</title>
+	</titles>
+	<sponsor id="412224"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1236801780" datetime="2009-03-11T17:03:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 111-36, by Mr. Arcuri.</text></action>
+		<action date="1236801780" datetime="2009-03-11T17:03:00-04:00"><text>All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Transportation now printed in the bill. House Resolutions 218, 219 and 229 are laid on the table.</text></action>
+		<calendar date="1236801780" datetime="2009-03-11T17:03:00-04:00" ><text>Placed on the House Calendar, Calendar No. 26.</text></calendar>
+		<action date="1236864000" datetime="2009-03-12T10:20:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H3341-3345"/></action>
+		<action date="1236864000" datetime="2009-03-12T10:20:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 235.</text></action>
+		<action date="1236866160" datetime="2009-03-12T10:56:00-04:00"><text>The previous question was ordered without objection.</text></action>
+		<vote date="1236866160" how="by voice vote" datetime="2009-03-12T10:56:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H3341"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Rules" subcommittee="" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="218" />
+		<bill relation="unknown" session="111" type="hr" number="219" />
+		<bill relation="unknown" session="111" type="hr" number="229" />
+		<bill relation="unknown" session="111" type="h" number="1262" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/11/2009--Introduced.<br/>Sets forth the rule for consideration of the bill (H.R. 1262) to amend the Federal Water Pollution Control Act to authorize appropriations for State water pollution control revolving funds.<br/>
+	</summary>
+</bill>

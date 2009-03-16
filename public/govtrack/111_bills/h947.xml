@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="947" updated="2009-03-07T11:39:40-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="short" as="introduced">ON TIME Act of 2009</title>
+		<title type="short" as="introduced">Our Nation's Trade, Infrastructure, Mobility, and Efficiency Act of 2009</title>
+		<title type="official" as="introduced">To direct the Secretary of Transportation to establish and collect a fee based on the fair market value of articles imported into the United States and articles exported from the United States in commerce and to use amounts collected from the fee to make grants to carry out certain transportation projects in the transportation trade corridors for which the fee is collected, and for other purposes.</title>
+	</titles>
+	<sponsor id="400057"/>
+	<cosponsors>
+		<cosponsor id="400198" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Ways and Means, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to House Ways and Means</text></action>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to House Foreign Affairs</text></action>
+		<action date="1234328400" datetime="2009-02-11"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Highways and Transit.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Highways and Transit" activity="Referral" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Foreign Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

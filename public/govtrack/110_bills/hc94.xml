@@ -1,0 +1,51 @@
+<bill session="110" type="hc" number="94" updated="2009-01-08T15:38:48-05:00">
+	<status><vote date="1181064180" datetime="2007-06-05T14:23:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1174363200" datetime="2007-03-20"/>
+	<titles>
+		<title type="official" as="introduced">Encouraging the elimination of harmful fishing subsidies that contribute to overcapacity in commercial fishing fleets worldwide and that lead to the overfishing of global fish stocks.</title>
+	</titles>
+	<sponsor id="400041"/>
+	<cosponsors>
+		<cosponsor id="412236" joined="2007-05-23"/>
+		<cosponsor id="400308" joined="2007-03-30"/>
+		<cosponsor id="400185" joined="2007-05-23"/>
+		<cosponsor id="400662" joined="2007-06-05"/>
+		<cosponsor id="400039" joined="2007-06-05"/>
+		<cosponsor id="400149" joined="2007-03-30"/>
+		<cosponsor id="400162" joined="2007-05-23"/>
+		<cosponsor id="400062" joined="2007-05-01"/>
+		<cosponsor id="400403" joined="2007-05-24"/>
+		<cosponsor id="400425" joined="2007-04-19"/>
+		<cosponsor id="400359" joined="2007-05-17"/>
+		<cosponsor id="400007" joined="2007-03-30"/>
+		<cosponsor id="400129" joined="2007-03-30"/>
+		<cosponsor id="400278" joined="2007-06-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1174363200" datetime="2007-03-20"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1174449600" datetime="2007-03-21"><text>Sponsor introductory remarks on measure. (CR E600)</text></action>
+		<action date="1174536000" datetime="2007-03-22"><text>Referred to the Subcommittee on Fisheries, Wildlife, and Oceans.</text></action>
+		<action date="1181064060" datetime="2007-06-05T14:21:00-04:00"><text>Mrs. Christensen moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1181064120" datetime="2007-06-05T14:22:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5934-5936"/></action>
+		<action date="1181064120" datetime="2007-06-05T14:22:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 94.</text></action>
+		<vote date="1181064180" how="by voice vote" datetime="2007-06-05T14:23:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H5934-5935"/></vote>
+		<action date="1181188800" datetime="2007-06-07"><text>Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+		<action date="1184644800" datetime="2007-07-17"><text>Star Print ordered on the concurrent resolution.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/5/2007--Passed House amended. Declares that the United States should continue to promote the elimination of harmful fishing subsidies that lead to overcapitalization, overfishing, and illegal, unregulated, and unreported fishing.<br/>
+	</summary>
+</bill>

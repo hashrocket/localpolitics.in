@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="77" updated="2009-03-07T09:56:47-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Health Care Incentive Act</title>
+		<title type="official" as="introduced">To provide for a credit for certain health care benefits in determining the minimum wage.</title>
+	</titles>
+	<sponsor id="400196"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Education and Labor.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Department of Labor"/>
+		<term name="Employee benefits and pensions"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Wages and earnings"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Health Care Incentive Act - Directs the Secretary of Labor to allow any employer in interstate commerce that is required by federal or state law to pay a minimum wage rate higher than the current federal rate under the Fair Labor Standards Act of 1938 to include the value of creditable health care benefits in determining the required wage.<br/>
+	</summary>
+</bill>

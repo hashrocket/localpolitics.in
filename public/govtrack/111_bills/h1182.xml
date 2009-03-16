@@ -1,0 +1,104 @@
+<bill session="111" type="h" number="1182" updated="2009-03-07T12:09:14-05:00">
+	<status><introduced date="1235538000" datetime="2009-02-25"/></status>
+
+	<introduced date="1235538000" datetime="2009-02-25"/>
+	<titles>
+		<title type="short" as="introduced">Military Spouses Residency Relief Act</title>
+		<title type="official" as="introduced">To amend the Servicemembers Civil Relief Act to guarantee the equity of spouses of military personnel with regard to matters of residency, and for other purposes.</title>
+	</titles>
+	<sponsor id="400068"/>
+	<cosponsors>
+		<cosponsor id="400339" joined="2009-02-25"/>
+		<cosponsor id="400224" joined="2009-03-06"/>
+		<cosponsor id="400627" joined="2009-03-06"/>
+		<cosponsor id="400144" joined="2009-03-06"/>
+		<cosponsor id="400206" joined="2009-03-06"/>
+		<cosponsor id="400648" joined="2009-02-25"/>
+		<cosponsor id="400034" joined="2009-02-25"/>
+		<cosponsor id="412309" joined="2009-03-06"/>
+		<cosponsor id="400311" joined="2009-03-06"/>
+		<cosponsor id="412252" joined="2009-03-06"/>
+		<cosponsor id="400099" joined="2009-02-25"/>
+		<cosponsor id="400057" joined="2009-03-06"/>
+		<cosponsor id="412280" joined="2009-03-06"/>
+		<cosponsor id="400381" joined="2009-03-06"/>
+		<cosponsor id="400027" joined="2009-03-06"/>
+		<cosponsor id="400039" joined="2009-03-06"/>
+		<cosponsor id="412216" joined="2009-03-06"/>
+		<cosponsor id="400115" joined="2009-03-06"/>
+		<cosponsor id="400657" joined="2009-02-25"/>
+		<cosponsor id="400626" joined="2009-03-06"/>
+		<cosponsor id="400209" joined="2009-03-06"/>
+		<cosponsor id="400089" joined="2009-03-06"/>
+		<cosponsor id="400340" joined="2009-03-06"/>
+		<cosponsor id="400660" joined="2009-03-06"/>
+		<cosponsor id="400076" joined="2009-02-25"/>
+		<cosponsor id="400175" joined="2009-03-06"/>
+		<cosponsor id="400368" joined="2009-03-06"/>
+		<cosponsor id="400404" joined="2009-03-06"/>
+		<cosponsor id="400380" joined="2009-03-06"/>
+		<cosponsor id="412278" joined="2009-03-06"/>
+		<cosponsor id="412302" joined="2009-03-06"/>
+		<cosponsor id="400151" joined="2009-03-06"/>
+		<cosponsor id="400342" joined="2009-02-25"/>
+		<cosponsor id="412294" joined="2009-03-06"/>
+		<cosponsor id="400096" joined="2009-03-06"/>
+		<cosponsor id="400036" joined="2009-02-25"/>
+		<cosponsor id="400441" joined="2009-03-06"/>
+		<cosponsor id="400643" joined="2009-03-06"/>
+		<cosponsor id="400118" joined="2009-02-25"/>
+		<cosponsor id="400056" joined="2009-03-06"/>
+		<cosponsor id="412230" joined="2009-03-06"/>
+		<cosponsor id="400247" joined="2009-03-06"/>
+		<cosponsor id="412275" joined="2009-03-06"/>
+		<cosponsor id="400344" joined="2009-03-06"/>
+		<cosponsor id="400276" joined="2009-03-06"/>
+		<cosponsor id="400165" joined="2009-03-06"/>
+		<cosponsor id="400077" joined="2009-03-06"/>
+		<cosponsor id="400124" joined="2009-03-06"/>
+		<cosponsor id="412310" joined="2009-03-06"/>
+		<cosponsor id="412291" joined="2009-03-06"/>
+		<cosponsor id="400018" joined="2009-03-06"/>
+		<cosponsor id="400049" joined="2009-03-06"/>
+		<cosponsor id="400260" joined="2009-03-06"/>
+		<cosponsor id="400016" joined="2009-03-06"/>
+		<cosponsor id="400040" joined="2009-02-25"/>
+		<cosponsor id="412311" joined="2009-03-06"/>
+		<cosponsor id="400182" joined="2009-03-06"/>
+		<cosponsor id="400652" joined="2009-03-06"/>
+		<cosponsor id="412250" joined="2009-03-06"/>
+		<cosponsor id="400184" joined="2009-02-25"/>
+		<cosponsor id="400405" joined="2009-03-06"/>
+		<cosponsor id="400654" joined="2009-02-25"/>
+		<cosponsor id="400288" joined="2009-02-25"/>
+		<cosponsor id="400025" joined="2009-03-06"/>
+		<cosponsor id="412261" joined="2009-02-25"/>
+		<cosponsor id="400108" joined="2009-03-06"/>
+		<cosponsor id="400321" joined="2009-03-06"/>
+		<cosponsor id="400157" joined="2009-02-25"/>
+		<cosponsor id="412011" joined="2009-03-06"/>
+		<cosponsor id="400622" joined="2009-03-06"/>
+		<cosponsor id="400252" joined="2009-03-06"/>
+		<cosponsor id="412292" joined="2009-03-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to the Subcommittee on Economic Opportunity.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="475" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

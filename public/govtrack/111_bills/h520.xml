@@ -1,0 +1,48 @@
+<bill session="111" type="h" number="520" updated="2009-03-07T10:48:49-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="short" as="introduced">Accelerated Retirement of Inefficient Vehicles Act of 2009</title>
+		<title type="official" as="introduced">To accelerate motor fuel savings nationwide and provide incentives to registered owners of high fuel consumption automobiles to replace such automobiles with fuel efficient automobiles or public transportation, and for other purposes.</title>
+	</titles>
+	<sponsor id="400195"/>
+	<cosponsors>
+		<cosponsor id="400237" joined="2009-01-14"/>
+		<cosponsor id="400282" joined="2009-01-14"/>
+		<cosponsor id="400178" joined="2009-01-14"/>
+		<cosponsor id="400193" joined="2009-01-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to House Transportation and Infrastructure</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="247" />
+	</relatedbills>
+	<subjects>
+		<term name="Energy"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Consumer affairs"/>
+		<term name="Department of Energy"/>
+		<term name="Energy efficiency and conservation"/>
+		<term name="Government information and archives"/>
+		<term name="Hazardous wastes and toxic substances"/>
+		<term name="Motor vehicles"/>
+		<term name="Public transit"/>
+		<term name="Retail and wholesale trades"/>
+		<term name="Solid waste and recycling"/>
+		<term name="Transportation costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

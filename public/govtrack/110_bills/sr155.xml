@@ -1,0 +1,35 @@
+<bill session="110" type="sr" number="155" updated="2009-01-09T20:17:45-05:00">
+	<status><vote date="1177992000" datetime="2007-05-01" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1176868800" datetime="2007-04-18"/>
+	<titles>
+		<title type="official" as="introduced">A resolution expressing the sense of the Senate on efforts to control violence and strengthen the rule of law in Guatemala.</title>
+	</titles>
+	<sponsor id="300034"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2007-04-18"/>
+		<cosponsor id="300009" joined="2007-04-30"/>
+		<cosponsor id="300008" joined="2007-04-26"/>
+		<cosponsor id="300038" joined="2007-04-30"/>
+	</cosponsors>
+	<actions>
+		<action date="1176868800" datetime="2007-04-18"><text>Referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S4699"/></action>
+		<action date="1177992000" datetime="2007-05-01"><text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S5432"/></action>
+		<vote date="1177992000" how="by Unanimous Consent" datetime="2007-05-01" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S5432"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/1/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Expresses the sense of the Senate that the International Commission against Impunity in Guatemala is an innovative mechanism to support local efforts to confront the problem posed by illegal armed groups and clandestine security organizations in Guatemala and their infiltration into state institutions. Encourages the Guatemalan Congress to enact legislation to implement the International Commission against Impunity in Guatemala and other pending legislation needed to fulfill the 1996 peace agreement. Calls on the government of Guatemala and all sectors of society in Guatemala to support the investigation and prosecution of illegal armed groups and clandestine security organizations. Reiterates the Senate's commitment to support the government of Guatemala in its efforts to strengthen the rule of law.<br/>
+	</summary>
+</bill>

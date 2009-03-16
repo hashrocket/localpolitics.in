@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="537" updated="2009-03-07T10:50:47-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="short" as="introduced">Sustainable Water Infrastructure Investment Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide that the volume cap for private activity bonds shall not apply to bonds for facilities for the furnishing of water and sewage facilities.</title>
+	</titles>
+	<sponsor id="400309"/>
+	<cosponsors>
+		<cosponsor id="400051" joined="2009-01-27"/>
+		<cosponsor id="400092" joined="2009-01-14"/>
+		<cosponsor id="412186" joined="2009-01-27"/>
+		<cosponsor id="412228" joined="2009-01-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Infrastructure development"/>
+		<term name="Securities"/>
+		<term name="Solid waste and recycling"/>
+		<term name="State and local finance"/>
+		<term name="Water quality"/>
+		<term name="Water resources funding"/>
+		<term name="Water use and supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/14/2009--Introduced.<br/>Sustainable Water Infrastructure Investment Act of 2009 - Amends the Internal Revenue Code to exempt from state volume caps private facility bonds for sewage and water supply facilities.<br/>
+	</summary>
+</bill>

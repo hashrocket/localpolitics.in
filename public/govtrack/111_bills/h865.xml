@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="865" updated="2009-03-07T11:29:58-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="official" as="introduced">To convey the New River State Park campground located in the Mount Rogers National Recreation Area in the Jefferson National Forest in Carroll County, Virginia, to the Commonwealth of Virginia, and for other purposes.</title>
+	</titles>
+	<sponsor id="400043"/>
+	<cosponsors>
+		<cosponsor id="400154" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to House Natural Resources</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to House Agriculture</text></action>
+		<action date="1234155600" datetime="2009-02-09"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+		<committee name="House Agriculture" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Introduced.<br/>Directs the Secretary of Agriculture to convey to the Commonwealth of Virginia certain federally owned land in the Mount Rogers National Recreation Area in the Jefferson National Forest in Carroll County, Virginia, as depicted on the map titled &quot;Potential Conveyance of the New River Campground to the Commonwealth of Virginia.&quot;<br/>
+	</summary>
+</bill>

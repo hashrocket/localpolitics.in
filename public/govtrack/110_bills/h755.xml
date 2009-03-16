@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="755" updated="2009-01-08T18:23:37-05:00">
+	<status><vote date="1172617740" datetime="2007-02-27T19:09:00-05:00" where="h" result="pass" how="roll" roll="104"/></status>
+
+	<introduced date="1170219600" datetime="2007-01-31"/>
+	<titles>
+		<title type="short" as="introduced">Promoting Transparency in Financial Reporting Act of 2007</title>
+		<title type="short" as="passed house">Promoting Transparency in Financial Reporting Act of 2007</title>
+		<title type="official" as="introduced">To require annual oral testimony before the Financial Services Committee of the Chairperson or a designee of the Chairperson of the Securities and Exchange Commission, the Financial Accounting Standards Board, and the Public Company Accounting Oversight Board, relating to their efforts to promote transparency in financial reporting.</title>
+	</titles>
+	<sponsor id="400633"/>
+	<cosponsors>
+		<cosponsor id="400131" joined="2007-01-31"/>
+		<cosponsor id="400070" joined="2007-01-31"/>
+		<cosponsor id="400328" joined="2007-01-31"/>
+		<cosponsor id="400363" joined="2007-01-31"/>
+		<cosponsor id="400179" joined="2007-01-31"/>
+	</cosponsors>
+	<actions>
+		<action date="1170219600" datetime="2007-01-31"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1172601000" datetime="2007-02-27T14:30:00-05:00"><text>Mr. Scott (GA) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1172601000" datetime="2007-02-27T14:30:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1903-1905"/></action>
+		<action date="1172601000" datetime="2007-02-27T14:30:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 755.</text></action>
+		<action date="1172601840" datetime="2007-02-27T14:44:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1172617320" datetime="2007-02-27T19:02:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1931-1932"/></action>
+		<vote date="1172617740" how="roll" roll="104" datetime="2007-02-27T19:09:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 104).</text><reference label="text" ref="CR H1903"/></vote>
+		<action date="1172638800" datetime="2007-02-28"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/27/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Promoting Transparency in Financial Reporting Act of 2007 - Requires the Securities and Exchange Commission (SEC), the Financial Accounting Standards Board, and the Public Company Accounting Oversight Board to provide oral testimony by their respective Chairpersons (or a designee), beginning in 2007, and annually for five years, to the Committee on Financial Services of the House of Representatives on their efforts to reduce the complexity in financial reporting to provide more accurate and clear financial information to investors.<br/>
+	</summary>
+</bill>

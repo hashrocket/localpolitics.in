@@ -1,0 +1,45 @@
+<bill session="110" type="h" number="798" updated="2009-01-08T18:29:10-05:00">
+	<status><vote date="1171312560" datetime="2007-02-12T16:36:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1170651600" datetime="2007-02-05"/>
+	<titles>
+		<title type="official" as="introduced">To direct the Administrator of General Services to install a photovoltaic system for the headquarters building of the Department of Energy.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="400273" joined="2007-02-05"/>
+		<cosponsor id="400295" joined="2007-02-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1170651600" datetime="2007-02-05"><text>Sponsor introductory remarks on measure. (CR E261-262)</text></action>
+		<action date="1170651600" datetime="2007-02-05"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1170824400" datetime="2007-02-07"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1170824400" datetime="2007-02-07" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1171305000" datetime="2007-02-12T14:30:00-05:00"><text>Reported by the Committee on Transportation. H. Rept. 110-11.</text></action>
+		<calendar number="4" date="1171305000" datetime="2007-02-12T14:30:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 4.</text></calendar>
+		<action date="1171311300" datetime="2007-02-12T16:15:00-05:00"><text>Mr. Oberstar moved to suspend the rules and pass the bill.</text></action>
+		<action date="1171311300" datetime="2007-02-12T16:15:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1444-1446"/></action>
+		<action date="1171311300" datetime="2007-02-12T16:15:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 798.</text></action>
+		<vote date="1171312560" how="by voice vote" datetime="2007-02-12T16:36:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H1444"/></vote>
+		<action date="1171342800" datetime="2007-02-13"><text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar date="1181102400" datetime="2007-06-06" ><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1194411600" datetime="2007-11-07"><text>Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-224.</text></action>
+		<calendar under="General Orders" number="475" date="1194411600" datetime="2007-11-07" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 475.</text></calendar>
+		<action date="1198040400" datetime="2007-12-19"><text>Provisions of Measure Incorporated into Title V, Subtitle C, Section 521 of H.R. 6.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/7/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.))<br/>Directs the Administrator of General Services to install a photovoltaic system, as set forth in the Sun Wall Design Project, for the headquarters building of the Department of Energy located at 1000 Independence Avenue, Southwest, Washington, D.C., commonly known as the Forrestal Building. Authorizes funding from the Federal Buildings Fund.<br/>
+	</summary>
+</bill>

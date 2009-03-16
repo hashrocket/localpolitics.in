@@ -1,0 +1,51 @@
+<bill session="110" type="h" number="6113" updated="2009-01-09T05:30:19-05:00">
+	<status><vote date="1217369460" datetime="2008-07-29T19:11:00-04:00" where="h" result="pass" how="roll" roll="535"/></status>
+
+	<introduced date="1211342400" datetime="2008-05-21"/>
+	<titles>
+		<title type="short" as="reported to house">Paperwork Assistance Act</title>
+		<title type="short" as="passed house">Paperwork Assistance Act</title>
+		<title type="official" as="introduced">To amend title 44, United States Code, to require each agency to include a contact telephone number in its collection of information.</title>
+		<title type="official" as="amended by house">To amend title 44, United States Code, to require each agency to include contact information for the agency in its collection of information.</title>
+	</titles>
+	<sponsor id="412210"/>
+	<cosponsors>
+		<cosponsor id="412188" joined="2008-07-16"/>
+		<cosponsor id="412199" joined="2008-07-16"/>
+		<cosponsor id="400643" joined="2008-07-16"/>
+		<cosponsor id="412200" joined="2008-07-22"/>
+		<cosponsor id="412236" joined="2008-07-17"/>
+	</cosponsors>
+	<actions>
+		<action date="1211342400" datetime="2008-05-21"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1212552000" datetime="2008-06-04"><text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1216180800" datetime="2008-07-16" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1216180800" datetime="2008-07-16"><text>Subcommittee on Government Management, Organization, and Procurement Discharged.</text></action>
+		<action date="1217255700" datetime="2008-07-28T11:35:00-04:00"><text>Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-781.</text></action>
+		<calendar number="500" date="1217255700" datetime="2008-07-28T11:35:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 500.</text></calendar>
+		<action date="1217351820" datetime="2008-07-29T14:17:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1217351820" datetime="2008-07-29T14:17:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7218-7220"/></action>
+		<action date="1217351820" datetime="2008-07-29T14:17:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6113.</text></action>
+		<action date="1217352480" datetime="2008-07-29T14:28:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1217368980" datetime="2008-07-29T19:03:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7268-7269"/></action>
+		<vote date="1217369460" how="roll" roll="535" datetime="2008-07-29T19:11:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 0 (Roll no. 535).</text><reference label="text" ref="CR H7219"/></vote>
+		<action date="1217369460" datetime="2008-07-29T19:11:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1217390400" datetime="2008-07-30"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/29/2008--Passed House amended. Paperwork Assistance Act - Requires a federal agency to inform any person receiving a collection of information from the agency of the agency's contact information, including a website and a telephone number, by which a person may obtain a specific contact person responsible for answering questions about the information collection and other information to assist in responding to the information collection.<br/>Requires the Director of the Office of Management and Budget (OMB) to include in the Director's annual report on information policy activities: (1) the status of implementation by agencies of the requirements of this Act; and (2) a description of how each agency has responded to complaints related to the agency's compliance with such requirements.<br/>Makes this Act's contact information requirements applicable to new or revised collections of information approved by the Director beginning one year after enactment.<br/>
+	</summary>
+</bill>

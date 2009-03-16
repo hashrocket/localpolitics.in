@@ -1,0 +1,307 @@
+<bill session="110" type="h" number="493" updated="2009-01-08T17:48:22-05:00">
+	<status><enacted date="1211342400" datetime="2008-05-21" /></status>
+
+	<introduced date="1168923600" datetime="2007-01-16"/>
+	<titles>
+		<title type="short" as="introduced">Genetic Information Nondiscrimination Act of 2007</title>
+		<title type="short" as="reported to house">Genetic Information Nondiscrimination Act of 2007</title>
+		<title type="short" as="passed house">Genetic Information Nondiscrimination Act of 2007</title>
+		<title type="short" as="passed senate">Genetic Information Nondiscrimination Act of 2008</title>
+		<title type="short" as="passed senate">Genetic Information Nondiscrimination Act of 2008</title>
+		<title type="short" as="enacted">Genetic Information Nondiscrimination Act of 2008</title>
+		<title type="official" as="introduced">To prohibit discrimination on the basis of genetic information with respect to health insurance and employment.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-01-16"/>
+		<cosponsor id="400253" joined="2007-02-12"/>
+		<cosponsor id="400061" joined="2007-01-16"/>
+		<cosponsor id="400273" joined="2007-01-16"/>
+		<cosponsor id="400420" joined="2007-01-16"/>
+		<cosponsor id="400327" joined="2007-01-16"/>
+		<cosponsor id="400222" joined="2007-01-16"/>
+		<cosponsor id="400031" joined="2007-02-12"/>
+		<cosponsor id="400219" joined="2007-01-16"/>
+		<cosponsor id="400280" joined="2007-01-24"/>
+		<cosponsor id="400367" joined="2007-01-16"/>
+		<cosponsor id="400227" joined="2007-01-16"/>
+		<cosponsor id="400414" joined="2007-01-16"/>
+		<cosponsor id="400177" joined="2007-03-26"/>
+		<cosponsor id="400364" joined="2007-02-12"/>
+		<cosponsor id="400257" joined="2007-01-29"/>
+		<cosponsor id="400413" joined="2007-01-16"/>
+		<cosponsor id="400616" joined="2007-03-19"/>
+		<cosponsor id="400142" joined="2007-01-16"/>
+		<cosponsor id="400228" joined="2007-01-16"/>
+		<cosponsor id="400210" joined="2007-01-16"/>
+		<cosponsor id="400027" joined="2007-01-16"/>
+		<cosponsor id="400160" joined="2007-01-16"/>
+		<cosponsor id="400155" joined="2007-01-31"/>
+		<cosponsor id="400263" joined="2007-01-23"/>
+		<cosponsor id="400407" joined="2007-01-16"/>
+		<cosponsor id="400149" joined="2007-01-16"/>
+		<cosponsor id="400092" joined="2007-03-26"/>
+		<cosponsor id="400080" joined="2007-01-16"/>
+		<cosponsor id="400376" joined="2007-01-16"/>
+		<cosponsor id="400162" joined="2007-01-16"/>
+		<cosponsor id="400209" joined="2007-01-16"/>
+		<cosponsor id="400660" joined="2007-01-16"/>
+		<cosponsor id="400282" joined="2007-01-29"/>
+		<cosponsor id="400419" joined="2007-01-16"/>
+		<cosponsor id="400122" joined="2007-01-16"/>
+		<cosponsor id="400403" joined="2007-01-16"/>
+		<cosponsor id="400246" joined="2007-01-29"/>
+		<cosponsor id="400180" joined="2007-01-16"/>
+		<cosponsor id="400635" joined="2007-02-15"/>
+		<cosponsor id="400333" joined="2007-01-16"/>
+		<cosponsor id="400385" joined="2007-01-16"/>
+		<cosponsor id="400295" joined="2007-01-24"/>
+		<cosponsor id="400430" joined="2007-01-16"/>
+		<cosponsor id="400129" joined="2007-01-16"/>
+		<cosponsor id="400441" joined="2007-01-16"/>
+		<cosponsor id="412195" joined="2007-01-18"/>
+		<cosponsor id="400313" joined="2007-01-16"/>
+		<cosponsor id="400633" joined="2007-01-16"/>
+		<cosponsor id="400332" joined="2007-01-16"/>
+		<cosponsor id="400095" joined="2007-01-18"/>
+		<cosponsor id="400647" joined="2007-01-24"/>
+		<cosponsor id="400443" joined="2007-01-16"/>
+		<cosponsor id="400191" joined="2007-01-16"/>
+		<cosponsor id="400344" joined="2007-01-16"/>
+		<cosponsor id="400268" joined="2007-01-16"/>
+		<cosponsor id="400063" joined="2007-01-16"/>
+		<cosponsor id="400361" joined="2007-01-16"/>
+		<cosponsor id="400165" joined="2007-01-16"/>
+		<cosponsor id="400077" joined="2007-01-16"/>
+		<cosponsor id="400176" joined="2007-01-16"/>
+		<cosponsor id="400124" joined="2007-01-16"/>
+		<cosponsor id="400630" joined="2007-01-16"/>
+		<cosponsor id="400116" joined="2007-01-16"/>
+		<cosponsor id="400003" joined="2007-01-16"/>
+		<cosponsor id="400049" joined="2007-01-16"/>
+		<cosponsor id="400423" joined="2007-01-16"/>
+		<cosponsor id="400260" joined="2007-01-16"/>
+		<cosponsor id="400071" joined="2007-01-16"/>
+		<cosponsor id="400132" joined="2007-01-16"/>
+		<cosponsor id="412231" joined="2007-03-14"/>
+		<cosponsor id="400406" joined="2007-01-16"/>
+		<cosponsor id="400300" joined="2007-02-15"/>
+		<cosponsor id="400241" joined="2007-01-16"/>
+		<cosponsor id="400084" joined="2007-03-05"/>
+		<cosponsor id="400409" joined="2007-01-24"/>
+		<cosponsor id="400264" joined="2007-01-16"/>
+		<cosponsor id="400370" joined="2007-01-16"/>
+		<cosponsor id="400101" joined="2007-01-16"/>
+		<cosponsor id="400652" joined="2007-01-19"/>
+		<cosponsor id="400396" joined="2007-02-27"/>
+		<cosponsor id="400384" joined="2007-01-16"/>
+		<cosponsor id="400433" joined="2007-01-16"/>
+		<cosponsor id="412250" joined="2007-01-16"/>
+		<cosponsor id="400184" joined="2007-01-16"/>
+		<cosponsor id="400288" joined="2007-01-16"/>
+		<cosponsor id="400152" joined="2007-03-19"/>
+		<cosponsor id="400412" joined="2007-03-23"/>
+		<cosponsor id="400055" joined="2007-01-16"/>
+		<cosponsor id="400355" joined="2007-01-29"/>
+		<cosponsor id="400216" joined="2007-01-16"/>
+		<cosponsor id="400262" joined="2007-01-29"/>
+		<cosponsor id="400130" joined="2007-03-29"/>
+		<cosponsor id="400437" joined="2007-01-29"/>
+		<cosponsor id="400312" joined="2007-01-29"/>
+		<cosponsor id="400658" joined="2007-01-16"/>
+		<cosponsor id="400359" joined="2007-01-16"/>
+		<cosponsor id="400010" joined="2007-01-16"/>
+		<cosponsor id="400007" joined="2007-01-16"/>
+		<cosponsor id="400245" joined="2007-01-16"/>
+		<cosponsor id="400634" joined="2007-01-16"/>
+		<cosponsor id="400642" joined="2007-01-16"/>
+		<cosponsor id="400235" joined="2007-01-16"/>
+		<cosponsor id="400387" joined="2007-01-16"/>
+		<cosponsor id="400324" joined="2007-01-16"/>
+		<cosponsor id="400144" joined="2007-01-16"/>
+		<cosponsor id="400006" joined="2007-01-16"/>
+		<cosponsor id="400017" joined="2007-01-16"/>
+		<cosponsor id="400098" joined="2007-01-16"/>
+		<cosponsor id="400386" joined="2007-01-29"/>
+		<cosponsor id="400147" joined="2007-01-16"/>
+		<cosponsor id="400082" joined="2007-02-05"/>
+		<cosponsor id="400230" joined="2007-01-29"/>
+		<cosponsor id="400121" joined="2007-01-16"/>
+		<cosponsor id="400432" joined="2007-01-16"/>
+		<cosponsor id="412209" joined="2007-02-13"/>
+		<cosponsor id="400442" joined="2007-01-16"/>
+		<cosponsor id="400051" joined="2007-01-16"/>
+		<cosponsor id="412193" joined="2007-01-31"/>
+		<cosponsor id="400287" joined="2007-02-13"/>
+		<cosponsor id="400296" joined="2007-01-16"/>
+		<cosponsor id="400308" joined="2007-01-23"/>
+		<cosponsor id="400057" joined="2007-01-16"/>
+		<cosponsor id="400631" joined="2007-03-08"/>
+		<cosponsor id="400001" joined="2007-02-06"/>
+		<cosponsor id="400103" joined="2007-01-29"/>
+		<cosponsor id="400110" joined="2007-01-16"/>
+		<cosponsor id="400087" joined="2007-01-16"/>
+		<cosponsor id="400131" joined="2007-01-19"/>
+		<cosponsor id="412211" joined="2007-01-16"/>
+		<cosponsor id="400039" joined="2007-01-16"/>
+		<cosponsor id="400259" joined="2007-01-16"/>
+		<cosponsor id="400166" joined="2007-01-24"/>
+		<cosponsor id="400436" joined="2007-01-16"/>
+		<cosponsor id="400346" joined="2007-01-19"/>
+		<cosponsor id="400140" joined="2007-01-24"/>
+		<cosponsor id="400070" joined="2007-01-16"/>
+		<cosponsor id="400655" joined="2007-01-16"/>
+		<cosponsor id="400013" joined="2007-01-16"/>
+		<cosponsor id="412204" joined="2007-01-29"/>
+		<cosponsor id="400426" joined="2007-01-23"/>
+		<cosponsor id="400195" joined="2007-01-16"/>
+		<cosponsor id="400251" joined="2007-01-16"/>
+		<cosponsor id="400439" joined="2007-01-16"/>
+		<cosponsor id="400320" joined="2007-01-16"/>
+		<cosponsor id="400178" joined="2007-01-24"/>
+		<cosponsor id="400026" joined="2007-01-29"/>
+		<cosponsor id="412232" joined="2007-02-05"/>
+		<cosponsor id="400350" joined="2007-03-08"/>
+		<cosponsor id="400111" joined="2007-01-16"/>
+		<cosponsor id="400360" joined="2007-01-16"/>
+		<cosponsor id="400234" joined="2007-01-16"/>
+		<cosponsor id="400255" joined="2007-02-27"/>
+		<cosponsor id="400338" joined="2007-01-16"/>
+		<cosponsor id="400269" joined="2007-01-19"/>
+		<cosponsor id="400120" joined="2007-01-16"/>
+		<cosponsor id="400299" joined="2007-01-23"/>
+		<cosponsor id="400074" joined="2007-01-29"/>
+		<cosponsor id="412200" joined="2007-01-16"/>
+		<cosponsor id="400328" joined="2007-01-16"/>
+		<cosponsor id="400081" joined="2007-03-19"/>
+		<cosponsor id="400207" joined="2007-01-16"/>
+		<cosponsor id="400189" joined="2007-01-18"/>
+		<cosponsor id="400247" joined="2007-01-16"/>
+		<cosponsor id="400125" joined="2007-03-05"/>
+		<cosponsor id="400319" joined="2007-02-27"/>
+		<cosponsor id="400421" joined="2007-01-16"/>
+		<cosponsor id="400193" joined="2007-03-22"/>
+		<cosponsor id="400415" joined="2007-01-16"/>
+		<cosponsor id="400171" joined="2007-01-16"/>
+		<cosponsor id="400244" joined="2007-01-16"/>
+		<cosponsor id="412236" joined="2007-02-15"/>
+		<cosponsor id="400093" joined="2007-03-09"/>
+		<cosponsor id="400326" joined="2007-01-16"/>
+		<cosponsor id="400371" joined="2007-02-06"/>
+		<cosponsor id="400012" joined="2007-01-16"/>
+		<cosponsor id="412228" joined="2007-02-14"/>
+		<cosponsor id="400043" joined="2007-02-05"/>
+		<cosponsor id="400109" joined="2007-01-16"/>
+		<cosponsor id="400391" joined="2007-02-14"/>
+		<cosponsor id="400119" joined="2007-01-16"/>
+		<cosponsor id="400641" joined="2007-01-29"/>
+		<cosponsor id="400032" joined="2007-01-16"/>
+		<cosponsor id="400283" joined="2007-01-16"/>
+		<cosponsor id="400097" joined="2007-01-16"/>
+		<cosponsor id="400286" joined="2007-01-31"/>
+		<cosponsor id="400090" joined="2007-02-06"/>
+		<cosponsor id="400651" joined="2007-01-16"/>
+		<cosponsor id="400033" joined="2007-01-16"/>
+		<cosponsor id="400351" joined="2007-01-16"/>
+		<cosponsor id="400218" joined="2007-02-05"/>
+		<cosponsor id="400182" joined="2007-01-16"/>
+		<cosponsor id="400431" joined="2007-01-16"/>
+		<cosponsor id="400240" joined="2007-01-24"/>
+		<cosponsor id="400438" joined="2007-03-05"/>
+		<cosponsor id="412219" joined="2007-02-06"/>
+		<cosponsor id="400150" joined="2007-01-16"/>
+		<cosponsor id="400215" joined="2007-01-16"/>
+		<cosponsor id="400334" joined="2007-01-16"/>
+		<cosponsor id="400636" joined="2007-01-16"/>
+		<cosponsor id="400024" joined="2007-02-13"/>
+		<cosponsor id="400654" joined="2007-01-16"/>
+		<cosponsor id="400238" joined="2007-01-29"/>
+		<cosponsor id="400025" joined="2007-01-29"/>
+		<cosponsor id="400301" joined="2007-01-16"/>
+		<cosponsor id="400345" joined="2007-03-05"/>
+		<cosponsor id="400394" joined="2007-01-16"/>
+		<cosponsor id="400114" joined="2007-02-12"/>
+		<cosponsor id="400062" joined="2007-01-16"/>
+		<cosponsor id="400425" joined="2007-01-16"/>
+		<cosponsor id="400233" joined="2007-01-24"/>
+		<cosponsor id="400321" joined="2007-01-16"/>
+		<cosponsor id="400157" joined="2007-01-16"/>
+		<cosponsor id="400179" joined="2007-01-16"/>
+		<cosponsor id="400100" joined="2007-01-19"/>
+		<cosponsor id="400435" joined="2007-01-16"/>
+		<cosponsor id="400639" joined="2007-01-31"/>
+		<cosponsor id="400309" joined="2007-01-24"/>
+		<cosponsor id="412202" joined="2007-01-16"/>
+		<cosponsor id="400252" joined="2007-01-16"/>
+		<cosponsor id="400186" joined="2007-01-16"/>
+		<cosponsor id="400278" joined="2007-01-16"/>
+		<cosponsor id="400429" joined="2007-01-16"/>
+		<cosponsor id="400656" joined="2007-01-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1168923600" datetime="2007-01-16"><text>Sponsor introductory remarks on measure. (CR E120-121)</text></action>
+		<action date="1168923600" datetime="2007-01-16"><text>Referred to the Committee on Education and Labor, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1168923600" datetime="2007-01-16"><text>Referred to House Education and Labor</text></action>
+		<action date="1168923600" datetime="2007-01-16"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1168923600" datetime="2007-01-16"><text>Referred to House Ways and Means</text></action>
+		<action date="1170392400" datetime="2007-02-02"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1171429200" datetime="2007-02-14"><committee name="House Education and Labor"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1171429200" datetime="2007-02-14" ><committee name="House Education and Labor"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1173124020" datetime="2007-03-05T15:47:00-05:00"><text>Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-28, Part I.</text></action>
+		<action date="1173124080" datetime="2007-03-05T15:48:00-05:00"><text>House Committee on Energy and Commerce Granted an extension for further consideration ending not later than March 23, 2007.</text></action>
+		<action date="1173124140" datetime="2007-03-05T15:49:00-05:00"><text>House Committee on Ways and Means Granted an extension for further consideration ending not later than March 23, 2007.</text></action>
+		<action date="1173330000" datetime="2007-03-08"><committee name="House Energy and Commerce" subcommittee="Health"/><text>Subcommittee Hearings Held.</text></action>
+		<action date="1173758400" datetime="2007-03-13"><committee name="House Energy and Commerce" subcommittee="Health"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1173758400" datetime="2007-03-13"><committee name="House Energy and Commerce" subcommittee="Health"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action date="1174449600" datetime="2007-03-21"><committee name="House Ways and Means"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1174449600" datetime="2007-03-21" ><committee name="House Ways and Means"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1174536000" datetime="2007-03-22"><committee name="House Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<action date="1174622400" datetime="2007-03-23"><committee name="House Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1174622400" datetime="2007-03-23" ><committee name="House Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1174677240" datetime="2007-03-23T16:14:00-04:00"><text>House Committee on Energy and Commerce Granted an extension for further consideration ending not later than March 26, 2007.</text></action>
+		<action date="1174677240" datetime="2007-03-23T16:14:00-04:00"><text>House Committee on Ways and Means Granted an extension for further consideration ending not later than March 26, 2007.</text></action>
+		<action date="1174943520" datetime="2007-03-26T18:12:00-04:00"><text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-28, Part II.</text></action>
+		<action date="1174943520" datetime="2007-03-26T18:12:00-04:00"><text>House Committee on Energy and Commerce Granted an extension for further consideration ending not later than March 29, 2007.</text></action>
+		<action date="1175197260" datetime="2007-03-29T16:41:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-28, Part III.</text></action>
+		<calendar number="46" date="1175197260" datetime="2007-03-29T16:41:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 46.</text></calendar>
+		<action date="1177027020" datetime="2007-04-19T20:57:00-04:00"><text>Supplemental report filed by the Committee on Energy and Commerce, H. Rept. 110-28, Part IV.</text></action>
+		<action date="1177519380" datetime="2007-04-25T13:43:00-04:00"><text>Mr. Miller, George moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1177519380" datetime="2007-04-25T13:43:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4083-4101"/></action>
+		<action date="1177519380" datetime="2007-04-25T13:43:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 493.</text></action>
+		<action date="1177522020" datetime="2007-04-25T14:27:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1177529100" datetime="2007-04-25T16:25:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4108"/></action>
+		<vote date="1177529460" how="roll" roll="261" datetime="2007-04-25T16:31:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 261).</text><reference label="text" ref="CR H4083-4094"/></vote>
+		<action date="1177560000" datetime="2007-04-26"><text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar under="General Orders" number="125" date="1177905600" datetime="2007-04-30" calendar="Senate Legislative" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 125.</text></calendar>
+		<action date="1209009600" datetime="2008-04-24"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S3363-3375"/></action>
+		<vote date="1209009600" how="roll" roll="113" datetime="2008-04-24" where="s" type="vote2" result="pass" ><text>Passed Senate with an amendment by Yea-Nay Vote. 95 - 0. Record Vote Number: 113.</text></vote>
+		<action date="1209009600" datetime="2008-04-24"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1209355200" datetime="2008-04-28"><text>Senate requests return of papers with respect to H.R. 493 by Unanimous Consent.</text></action>
+		<action date="1209355200" datetime="2008-04-28"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1209502800" datetime="2008-04-29T18:00:00-04:00"><text>Papers returned to Senate</text></action>
+		<action date="1209441600" datetime="2008-04-29"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1209651720" datetime="2008-05-01T11:22:00-04:00"><text>Mr. Miller, George moved that the House agree to the Senate amendment.</text><reference label="consideration" ref="CR H2961-2980"/></action>
+		<action date="1209651720" datetime="2008-05-01T11:22:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 1156, the House proceeded with one hour of debate on the George Miller (CA) motion to agree to the Senate amendment to H.R. 493.</text></action>
+		<action date="1209699660" datetime="2008-05-01T12:41:00-04:00"><text>On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 414 - 1 (Roll no. 234).</text><reference label="text as House agreed to Senate amendment" ref="CR H2961-2972"/></action>
+		<action date="1209678300" datetime="2008-05-01T18:45:00-04:00"><text>Pursuant to the provisions of H. Con. Res. 340, enrollment corrections on H.R. 493 have been made.</text></action>
+		<topresident date="1209614400" datetime="2008-05-01" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1211169600" datetime="2008-05-19" ><text>Presented to President.</text></topresident>
+		<signed date="1211342400" datetime="2008-05-21" ><text>Signed by President.</text></signed>
+		<enacted number="110-233" date="1211342400" datetime="2008-05-21" type="public" ><text>Became Public Law No: 110-233.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/21/2008--Public Law. (This measure has not been amended since it was passed by the Senate on April 24, 2008. The summary of that version is repeated here, with changes reflecting enrollment corrections.)<br/>Genetic Information Nondiscrimination Act of 2008 - Title I: Genetic Nondiscrimination in Health Insurance - (Sec. 101) Amends the Employee Retirement Income Security Act of 1974 (ERISA), the Public Health Service Act (PHSA), and the Internal Revenue Code to prohibit a group health plan from adjusting premium or contribution amounts for a group on the basis of genetic information.<br/>Prohibits a group health plan from requesting or requiring an individual or family member of an individual from undergoing a genetic test. Provides that such prohibition does not: (1) limit the authority of a health care professional to request an individual to undergo a genetic test; or (2) preclude a group health plan from obtaining or using the results of a genetic test in making a determination regarding payment. Requires the plan to request only the minimum amount of information necessary to accomplish the intended purpose.<br/>Allows a group health plan to request, but not require, a participant or beneficiary to undergo a genetic test for research purposes if certain requirements are met, including: (1) the plan clearly indicates that compliance is voluntary and that noncompliance will have no effect on enrollment status or premium or contribution amounts; (2) no genetic information collected or acquired is used for underwriting purposes; and (3) the plan notifies the Secretary of Health and Human Services that it is conducting activities pursuant to this exception and includes a description of the activities.<br/>Prohibits a group health plan from requesting, requiring, or purchasing genetic information: (1) for underwriting purposes; or (2) with respect to any individual prior to such individual's enrollment in connection with such enrollment (provides that incidentally obtains such information is not a violation).<br/>Applies such prohibitions to all group health plans, including small group health plans.<br/>Provides that any reference to genetic information concerning an individual or family member includes genetic information of: (1) a fetus carried by a pregnant woman; and (2) an embryo legally held by an individual or family member utilizing an assisted reproductive technology.<br/>Authorizes a penalty against any sponsor of a group health plan for any failure to meet requirements of this Act. Allows a waiver or limitation on such penalty if the failure was not discovered after exercising reasonable diligence or was due to reasonable cause.<br/>(Sec. 102) Amends the PHSA to prohibit: (1) a health insurance issuer offering health insurance coverage in the individual market from establishing eligibility rules for enrollment based on genetic information; (2) discrimination on the basis of genetic information for health insurance offered in the individual market in the same manner as such discrimination is prohibited for group coverage; and (3) the imposition by a health insurance issuer offering health insurance coverage in the individual market of a preexisting condition exclusion on the basis of genetic information.<br/>Applies such requirements to nonfederal governmental plans.<br/>(Sec. 104) Amends title XVIII (Medicare) of the Social Security Act (SSA) to prohibit an issuer of a Medicare supplemental policy, on the basis of genetic information, from: (1) denying or conditioning the issuance or effectiveness of the policy, including the imposition of any exclusion of benefits based on a preexisting condition; or (2) discriminating in the pricing of the policy, including the adjustment of premium rates.<br/>Prohibits an issuer of a Medicare supplemental policy from: (1) requesting or requiring an individual or a family member to undergo a genetic test; or (2) requesting, requiring, or purchasing genetic information for underwriting purposes or for any individual prior to enrollment.<br/>(Sec. 105) Amends title XI (General Provisions, Peer Review, and Administrative Simplification) of SSA to require the Secretary of Health and Human Services to revise Health Insurance Portability and Accountability Act of 1996 (HIPAA) privacy regulations to: (1) treat genetic information as health information; and (2) prohibit the use or disclosure by a group health plan, health insurance coverage, or Medicare supplemental policy of genetic information about an individual for underwriting purposes.<br/>(Sec. 106) Requires the Secretaries of Health and Human Services, Labor, and the Treasury to ensure that their regulations, rulings, and interpretations under this title are administered so as to have the same effect at all times and that they adopt a coordinated enforcement strategy.<br/>Title II: Prohibiting Employment Discrimination on the Basis of Genetic Information - (Sec. 202) Prohibits, as an unlawful employment practice, an employer, employment agency, labor organization, or joint labor-management committee from discriminating against an employee, individual, or member because of genetic information, including: (1) for an employer, by failing to hire or discharging an employee or otherwise discriminating against an employee with respect to the compensation, terms, conditions, or privileges of employment; (2) for an employment agency, by failing or refusing to refer an individual for employment; (3) for a labor organization, by excluding or expelling a member from the organization; (4) for an employment agency, labor organization, or joint labor-management committee, by causing or attempting to cause an employer to discriminate against a member in violation of this Act; or (5) for an employer, labor organization, or joint labor-management committee, by discriminating against an individual in admission to, or employment in, any program established to provide apprenticeships or other training or retraining.<br/>Prohibits, as an unlawful employment practice, an employer, employment agency, labor organization, or joint labor-management committee from limiting, segregating, or classifying employees, individuals, or members because of genetic information in any way that would deprive or tend to deprive such individuals of employment opportunities or otherwise adversely affect their status as employees.<br/>Prohibits, as an unlawful employment practice, an employer, employment agency, labor organization, or joint labor-management committee from requesting, requiring, or purchasing an employee's genetic information, except for certain purposes, which include where: (1) such information is requested or required to comply with certification requirements of family and medical leave laws; (2) the information involved is to be used for genetic monitoring of the biological effects of toxic substances in the workplace; and (3) the employer conducts DNA analysis for law enforcement purposes as a forensic laboratory or for purposes of human remains identification.<br/>(Sec. 206) Requires an employer, employment agency, labor organization, or joint labor-management committee that possesses any genetic information about an employee or member to maintain such information in separate files and treat such information as a confidential medical record.<br/>Prohibits an employer, employment agency, labor organization, or joint labor-management committee from disclosing such genetic information, except: (1) to the employee or member upon request; (2) to an occupational or other health researcher; (3) in response to a court order; (4) to a government official investigating compliance with this Act if the information is relevant to the investigation; (5) in connection with the employee's compliance with the certification provisions of the Family and Medical Leave Act of 1993 or such requirements under state family and medical leave laws; or (6) to a public health agency.<br/>(Sec. 207) Sets forth provisions regarding enforcement of this Act. (Sec. 208) Provides that disparate impact on the basis of genetic information does not establish a cause of action under this Act.<br/>Establishes the Genetic Nondiscrimination Study Commission six years after enactment of this Act to review the developing science of genetics and to make recommendations to Congress regarding whether to provide a disparate impact cause of action under this Act. Authorizes appropriations to the Equal Employment Opportunity Commission (EEOC) to carry out this section.<br/>(Sec. 212) Authorizes appropriations.<br/>Title III: Miscellaneous Provisions - (Sec. 301) Provides that if any provision of this Act, an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act shall not be affected.<br/>(Sec. 302) Amends the Fair Labor Standards Act of 1938 to increase the maximum employer penalty for violations involving oppressive child labor provisions or certain child labor safety requirements. Establishes an additional civil penalty for any such violation that causes the death or serious injury of an employee under the age of 18, which may be doubled for a repeated or willful violation.<br/>Defines &quot;serious injury&quot; as: (1) permanent loss or substantial impairment of one of the senses or of the function of a bodily member, organ, or mental faculty; or (2) permanent paralysis or substantial impairment that causes loss of movement or mobility of a body part.<br/>Increases the maximum civil penalty for any repeated or willful violation of minimum wage or maximum hours requirements. 
+	</summary>
+</bill>

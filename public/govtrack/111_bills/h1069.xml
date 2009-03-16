@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="1069" updated="2009-03-07T11:54:27-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="short" as="introduced">Guantanamo Bay Detention Facility Safe Closure Act of 2009</title>
+		<title type="official" as="introduced">To provide for certain requirements related to the closing of the Guantanamo Bay detention facility.</title>
+	</titles>
+	<sponsor id="400057"/>
+	<cosponsors>
+		<cosponsor id="400279" joined="2009-02-13"/>
+		<cosponsor id="412284" joined="2009-02-13"/>
+		<cosponsor id="400570" joined="2009-02-13"/>
+		<cosponsor id="400196" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the House Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="291" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Caribbean area"/>
+		<term name="Congressional oversight"/>
+		<term name="Correctional facilities and imprisonment"/>
+		<term name="Cuba"/>
+		<term name="Detention of persons"/>
+		<term name="Government investigations"/>
+		<term name="Latin America"/>
+		<term name="Military facilities and property"/>
+		<term name="Terrorism"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2009--Introduced.<br/>Guantanamo Bay Detention Facility Safe Closure Act of 2009 - Directs the President to notify the congressional defense and appropriations committees at least 90 days before taking any action associated with the closure of the Department of Defense (DOD) detention facility at Guantanamo Bay, Cuba, and the transfer of any persons detained there to a new detention facility in the United States.<br/>Requires the notification to include a: (1) study addressing the legal ramifications and the security, infrastructure, and other support requirements associated with such closure and transfer of persons detained; and (2) plan for the relocation of the persons detained.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,33 @@
+<bill session="111" type="hj" number="20" updated="2009-03-07T09:35:44-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="short" as="introduced">Native American Heritage Day Act of 2009</title>
+		<title type="official" as="introduced">To honor the achievements and contributions of Native Americans to the United States, and for other purposes.</title>
+	</titles>
+	<sponsor id="400009"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Indian social and development programs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

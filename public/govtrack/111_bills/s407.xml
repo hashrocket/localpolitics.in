@@ -1,0 +1,49 @@
+<bill session="111" type="s" number="407" updated="2009-03-07T14:21:51-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="short" as="introduced">Veterans' Compensation Cost-of-Living Adjustment Act of 2009</title>
+		<title type="official" as="introduced">A bill to increase, effective as of December 1, 2009, the rates of compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for the survivors of certain disabled veterans, and for other purposes.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+		<cosponsor id="412320" joined="2009-02-10"/>
+		<cosponsor id="400432" joined="2009-02-10"/>
+		<cosponsor id="400050" joined="2009-02-10"/>
+		<cosponsor id="300047" joined="2009-02-10"/>
+		<cosponsor id="300076" joined="2009-02-10"/>
+		<cosponsor id="300092" joined="2009-02-10"/>
+		<cosponsor id="400357" joined="2009-02-10"/>
+		<cosponsor id="400054" joined="2009-02-10"/>
+		<cosponsor id="412328" joined="2009-02-10"/>
+		<cosponsor id="412249" joined="2009-02-10"/>
+		<cosponsor id="412244" joined="2009-02-10"/>
+		<cosponsor id="400194" joined="2009-02-10"/>
+		<cosponsor id="300084" joined="2009-02-10"/>
+		<cosponsor id="412326" joined="2009-02-10"/>
+		<cosponsor id="300064" joined="2009-02-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Sponsor introductory remarks on measure. (CR S2083)</text></action>
+		<action date="1234242000" datetime="2009-02-10"><text>Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Disability assistance"/>
+		<term name="Inflation and prices"/>
+		<term name="Veterans' pensions and compensation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Introduced.<br/>Veterans' Compensation Cost-of-Living Adjustment Act of 2009 - Directs the Secretary of Veterans Affairs to increase, as of December 1, 2009, the rates of veterans' disability compensation, additional compensation for dependents, the clothing allowance for certain disabled adult children, and dependency and indemnity compensation for surviving spouses and children. Requires each such increase to be the same percentage as the increase in benefits provided under title II (Old Age, Survivors and Disability Insurance) of the Social Security Act, on the same effective date.<br/>
+	</summary>
+</bill>

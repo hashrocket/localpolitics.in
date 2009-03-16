@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="407" updated="2009-03-07T10:35:33-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="official" as="introduced">To provide for the release of any reversionary interest of the United States in and to certain lands in Reno, Nevada.</title>
+	</titles>
+	<sponsor id="412218"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Land transfers"/>
+		<term name="Nevada"/>
+		<term name="Railroads"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Releases any reversionary interests of the United States (including interests under the Union Pacific Railroad Act) in and to specified railroad lands in the City of Reno, Nevada, that were originally granted to the Union Pacific Railroad under the provisions of such Act. 
+	</summary>
+</bill>

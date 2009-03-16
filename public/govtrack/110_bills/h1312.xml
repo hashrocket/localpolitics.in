@@ -1,0 +1,57 @@
+<bill session="110" type="h" number="1312" updated="2009-01-08T19:35:14-05:00">
+	<status><vote date="1207073640" datetime="2008-04-01T15:14:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1173070800" datetime="2007-03-05"/>
+	<titles>
+		<title type="short" as="introduced">Arts Require Timely Service (ARTS) Act</title>
+		<title type="short" as="reported to house">Arts Require Timely Service (ARTS) Act</title>
+		<title type="short" as="passed house">Arts Require Timely Service (ARTS) Act</title>
+		<title type="official" as="introduced">To expedite adjudication of employer petitions for aliens of extraordinary artistic ability.</title>
+	</titles>
+	<sponsor id="400025"/>
+	<cosponsors>
+		<cosponsor id="400289" joined="2007-03-05"/>
+		<cosponsor id="400080" joined="2007-04-23"/>
+		<cosponsor id="400361" joined="2007-03-05"/>
+		<cosponsor id="400071" joined="2007-03-05"/>
+		<cosponsor id="400355" joined="2008-02-07"/>
+		<cosponsor id="400422" joined="2007-09-25"/>
+		<cosponsor id="400076" joined="2007-03-05"/>
+		<cosponsor id="400426" joined="2007-03-05"/>
+		<cosponsor id="400617" joined="2007-03-05"/>
+		<cosponsor id="400032" joined="2007-03-05"/>
+		<cosponsor id="412220" joined="2007-10-04"/>
+		<cosponsor id="400654" joined="2008-02-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1173070800" datetime="2007-03-05"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1175227200" datetime="2007-03-30"><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+		<action date="1190692800" datetime="2007-09-25"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1190692800" datetime="2007-09-25"><text>Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 7 - 5 .</text></action>
+		<action date="1193198400" datetime="2007-10-24"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<action date="1194411600" datetime="2007-11-07"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1194411600" datetime="2007-11-07" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1204835940" datetime="2008-03-06T16:39:00-05:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 110-540.</text></action>
+		<calendar number="330" date="1204836060" datetime="2008-03-06T16:41:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 330.</text></calendar>
+		<action date="1207072680" datetime="2008-04-01T14:58:00-04:00"><text>Mr. Conyers moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1207072680" datetime="2008-04-01T14:58:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1857-1860"/></action>
+		<action date="1207072680" datetime="2008-04-01T14:58:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1312.</text></action>
+		<vote date="1207073640" how="by voice vote" datetime="2008-04-01T15:14:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H1857"/></vote>
+		<action date="1207108800" datetime="2008-04-02"><text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/1/2008--Passed House amended. Arts Require Timely Service (ARTS) Act - Amends the Immigration and Nationality Act to require the Secretary of Homeland Security to adjudicate a visa petition filed by an employer on behalf of an alien with extraordinary ability in the arts (O- and P- visas other than athletes) and an accompanying alien not later than 30 days after: (1) the date on which the petitioner submits the petition with a written advisory opinion, letter of no objection, or request for a waiver; or (2) the date on which the 15-day period to comment upon a petition has expired if the petitioner has had an opportunity, as appropriate, to supply rebuttal evidence. States that if such petition is not adjudicated within the required time frame and the petitioner is a qualified nonprofit organization or an individual or entity petitioning on behalf of a qualified nonprofit organization the petitioner shall be provided premium-processing services without a fee.<br/>
+	</summary>
+</bill>

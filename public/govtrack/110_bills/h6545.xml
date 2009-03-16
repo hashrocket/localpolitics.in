@@ -1,0 +1,50 @@
+<bill session="110" type="h" number="6545" updated="2009-01-09T06:21:39-05:00">
+	<status><vote date="1216843680" datetime="2008-07-23T17:08:00-04:00" where="h" result="pass" how="roll" roll="520"/></status>
+
+	<introduced date="1216267200" datetime="2008-07-17"/>
+	<titles>
+		<title type="short" as="introduced">National Energy Security Intelligence Act of 2008</title>
+		<title type="short" as="passed house">National Energy Security Intelligence Act of 2008</title>
+		<title type="official" as="introduced">To require the Director of National Intelligence to conduct a national intelligence assessment on national security and energy security issues.</title>
+	</titles>
+	<sponsor id="412260"/>
+	<cosponsors>
+		<cosponsor id="412210" joined="2008-07-17"/>
+		<cosponsor id="412198" joined="2008-07-17"/>
+		<cosponsor id="412188" joined="2008-07-17"/>
+		<cosponsor id="412262" joined="2008-07-17"/>
+		<cosponsor id="412257" joined="2008-07-22"/>
+		<cosponsor id="412220" joined="2008-07-17"/>
+		<cosponsor id="412219" joined="2008-07-17"/>
+		<cosponsor id="412233" joined="2008-07-17"/>
+	</cosponsors>
+	<actions>
+		<action date="1216267200" datetime="2008-07-17"><text>Referred to the House Committee on Intelligence (Permanent Select).</text></action>
+		<action date="1216765260" datetime="2008-07-22T19:21:00-04:00"><text>Mr. Ruppersberger moved to suspend the rules and pass the bill.</text></action>
+		<action date="1216765260" datetime="2008-07-22T19:21:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6796-6801"/></action>
+		<action date="1216765260" datetime="2008-07-22T19:21:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6545.</text></action>
+		<action date="1216767480" datetime="2008-07-22T19:58:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1216843320" datetime="2008-07-23T17:02:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7011-7012"/></action>
+		<vote date="1216843680" how="roll" roll="520" datetime="2008-07-23T17:08:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0, 2 Present (Roll no. 520). (text: CR 7/22/2008 H6796)</text></vote>
+		<action date="1216843680" datetime="2008-07-23T17:08:00-04:00"><text>Mr. Price (GA) moved to reconsider the vote.</text></action>
+		<action date="1216843740" datetime="2008-07-23T17:09:00-04:00"><text>Mr. Hastings (FL) moved to table the motion to reconsider the vote</text></action>
+		<action date="1216843800" datetime="2008-07-23T17:10:00-04:00"><text>On motion to table the motion to reconsider the vote Agreed to by recorded vote: 242 - 179 (Roll no. 521).</text></action>
+		<action date="1216843860" datetime="2008-07-23T17:11:00-04:00"><text>Motion to reconsider the vote tabled.</text></action>
+		<action date="1216872000" datetime="2008-07-24"><text>Received in the Senate and Read twice and referred to the Select Committee on Intelligence.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/23/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) National Energy Security Intelligence Act of 2008 - Requires the Director of National Intelligence to submit to Congress a national intelligence assessment on national security and energy security issues relating to rapidly escalating energy costs, including: (1) the short- and long-term outlook for prices, supply, and demand for key forms of energy such as crude oil, natural gas, and alternative fuels; (2) the plans and intentions of key energy-producing and exporting nations with respect to energy production and supply; and (3) the national security implications.<br/>
+	</summary>
+</bill>

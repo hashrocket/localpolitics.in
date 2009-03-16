@@ -1,0 +1,33 @@
+<bill session="110" type="sr" number="305" updated="2009-01-09T20:36:05-05:00">
+	<status><vote date="1188878400" datetime="2007-09-04" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1186113600" datetime="2007-08-03"/>
+	<titles>
+		<title type="official" as="introduced">A resolution to express the sense of the Senate regarding the Medicare national coverage determination on the treatment of anemia in cancer patients.</title>
+	</titles>
+	<sponsor id="300092"/>
+	<cosponsors>
+		<cosponsor id="300051" joined="2007-08-03" withdrawn="2007-09-04"/>
+		<cosponsor id="300064" joined="2007-08-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1186113600" datetime="2007-08-03"><text>Referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S10943-10944"/></action>
+		<action date="1188878400" datetime="2007-09-04"><text>Senate Committee on Finance discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S11080-11081"/></action>
+		<vote date="1188878400" how="by Unanimous Consent" datetime="2007-09-04" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S11080-11081"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/4/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Expresses the sense of the Senate that the Centers for Medicare &amp;amp; Medicaid Services should: (1) begin an immediate reconsideration of the final National Coverage Determination on the Use of Erythropoiesis Stimulating Agents in Cancer and Related Neoplastic Conditions (CAG-000383N); (2) consult with members of the clinical oncology community to determine appropriate revisions to it: and (3) implement such revisions as soon as feasible, and brief Congress in advance of announcing such changes.<br/>
+	</summary>
+</bill>

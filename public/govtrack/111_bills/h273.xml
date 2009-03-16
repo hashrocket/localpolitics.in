@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="273" updated="2009-03-07T10:19:45-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to modify the treatment of qualified restaurant property as 15-year property for purposes of the depreciation deduction.</title>
+	</titles>
+	<sponsor id="400270"/>
+	<cosponsors>
+		<cosponsor id="400645" joined="2009-02-26"/>
+		<cosponsor id="400176" joined="2009-01-07"/>
+		<cosponsor id="400406" joined="2009-01-07"/>
+		<cosponsor id="412214" joined="2009-02-11"/>
+		<cosponsor id="400024" joined="2009-01-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Business investment and capital"/>
+		<term name="Food industry and services"/>
+		<term name="Income tax deductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Amends the Internal Revenue Code to make permanent the 15-year recovery period for purposes of the tax deduction for depreciation of qualified restaurant property. Revises the term &quot;qualified restaurant property&quot; to include existing buildings as well as improvements to buildings.<br/>
+	</summary>
+</bill>

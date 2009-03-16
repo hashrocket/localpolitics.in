@@ -1,0 +1,57 @@
+<bill session="111" type="s" number="167" updated="2009-03-07T13:53:06-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">COPS Improvements Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Omnibus Crime Control and Safe Streets Act of 1968 to enhance the COPS ON THE BEAT grant program, and for other purposes.</title>
+	</titles>
+	<sponsor id="300061"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2009-01-26"/>
+		<cosponsor id="300065" joined="2009-01-08"/>
+		<cosponsor id="412223" joined="2009-02-24"/>
+		<cosponsor id="300005" joined="2009-01-22"/>
+		<cosponsor id="300082" joined="2009-01-08"/>
+		<cosponsor id="300011" joined="2009-01-08"/>
+		<cosponsor id="300093" joined="2009-01-08"/>
+		<cosponsor id="300060" joined="2009-01-08"/>
+		<cosponsor id="300038" joined="2009-01-08"/>
+		<cosponsor id="300006" joined="2009-01-26"/>
+		<cosponsor id="300087" joined="2009-01-08"/>
+		<cosponsor id="300034" joined="2009-01-08"/>
+		<cosponsor id="300043" joined="2009-01-08"/>
+		<cosponsor id="412247" joined="2009-01-08"/>
+		<cosponsor id="300064" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Sponsor introductory remarks on measure. (CR S212-213)</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S213-214"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="1139" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Crime prevention"/>
+		<term name="Drug trafficking and controlled substances"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Juvenile crime and gang violence"/>
+		<term name="Law enforcement administration and funding"/>
+		<term name="Law enforcement officers"/>
+		<term name="Military facilities and property"/>
+		<term name="School administration"/>
+		<term name="Terrorism"/>
+		<term name="Veterans' education, employment, rehabilitation"/>
+		<term name="Violent crime"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>COPS Improvements Act of 2009 - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to expand the authority of the Attorney General to make grants for public safety and community policing programs (COPS ON THE BEAT grant program). Authorizes grants to: (1) hire school resource officers and establish local partnerships to combat crime, gangs, drug activities, and other problems in elementary and secondary schools; (2) establish and implement programs to reduce and prevent illegal drug activities, including the manufacturing, distribution, and use of methamphetamine; and (3) meet emerging law enforcement needs, as warranted. Authorizes the use of COPS ON THE BEAT grants to hire former members of the Armed Forces to serve as career law enforcement officers.<br/>Authorizes the Attorney General to make grants for: (1) assigning prosecutors to handle cases from specific geographic areas and to address counter-terrorism problems and violent crime in local communities; and (2) developing new technologies to assist state and local law enforcement agencies in crime prevention and training.<br/>Grants the Office of Community Oriented Policing Services exclusive authority to perform functions and activities under COPS ON THE BEAT grant program.<br/>Authorizes the Attorney General to extend grant periods and to renew grants if the grant recipient can demonstrate significant progress in achieving the objectives of the initial grant application.<br/>Increases and extends the authorization of appropriations for the COPS ON THE BEAT grant program for FY2009-FY2014.<br/>
+	</summary>
+</bill>

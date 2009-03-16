@@ -1,0 +1,32 @@
+<bill session="111" type="s" number="427" updated="2009-03-07T14:24:15-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title XVI of the Social Security Act to clarify that the value of certain funeral and burial arrangements are not to be considered available resources under the supplemental security income program.</title>
+	</titles>
+	<sponsor id="300068"/>
+	<cosponsors>
+		<cosponsor id="300091" joined="2009-02-12"/>
+		<cosponsor id="300058" joined="2009-02-12"/>
+		<cosponsor id="400546" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Amends title XVI (Supplemental Security Income) (SSI) of the Social Security Act to provide that the value of certain funeral and burial arrangements involving an irrevocable trust whose named beneficiary is the funeral provider are not to be considered, under the SSI program, as resources available to the individual. 
+	</summary>
+</bill>

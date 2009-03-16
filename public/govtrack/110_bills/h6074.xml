@@ -1,0 +1,61 @@
+<bill session="110" type="h" number="6074" updated="2009-01-09T05:25:42-05:00">
+	<status><vote date="1211300880" datetime="2008-05-20T13:28:00-04:00" where="h" result="pass" how="roll" roll="332"/></status>
+
+	<introduced date="1210824000" datetime="2008-05-15"/>
+	<titles>
+		<title type="short" as="introduced">Gas Price Relief for Consumers Act of 2008</title>
+		<title type="short" as="introduced">No Oil Producing and Exporting Cartels Act of 2008</title>
+		<title type="short" as="introduced">NOPEC</title>
+		<title type="short" as="passed house">Gas Price Relief for Consumers Act of 2008</title>
+		<title type="short" as="passed house">No Oil Producing and Exporting Cartels Act of 2008</title>
+		<title type="short" as="passed house">NOPEC</title>
+		<title type="official" as="introduced">To amend the Sherman Act to make oil-producing and exporting cartels illegal and for other purposes.</title>
+	</titles>
+	<sponsor id="412240"/>
+	<cosponsors>
+		<cosponsor id="412224" joined="2008-05-15"/>
+		<cosponsor id="412195" joined="2008-05-20"/>
+		<cosponsor id="412215" joined="2008-05-15"/>
+		<cosponsor id="412189" joined="2008-05-19"/>
+		<cosponsor id="412214" joined="2008-05-15"/>
+		<cosponsor id="412208" joined="2008-05-15"/>
+		<cosponsor id="412258" joined="2008-05-15"/>
+		<cosponsor id="412227" joined="2008-05-15"/>
+		<cosponsor id="412199" joined="2008-05-15"/>
+		<cosponsor id="412222" joined="2008-05-15"/>
+		<cosponsor id="400178" joined="2008-05-19"/>
+		<cosponsor id="400360" joined="2008-05-19"/>
+		<cosponsor id="412239" joined="2008-05-15"/>
+		<cosponsor id="412200" joined="2008-05-15"/>
+		<cosponsor id="412254" joined="2008-05-19"/>
+		<cosponsor id="400371" joined="2008-05-20"/>
+		<cosponsor id="412228" joined="2008-05-15"/>
+		<cosponsor id="412220" joined="2008-05-15"/>
+		<cosponsor id="412233" joined="2008-05-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1210824000" datetime="2008-05-15"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1211221080" datetime="2008-05-19T15:18:00-04:00"><text>Mr. Scott (VA) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1211221080" datetime="2008-05-19T15:18:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4104-4109"/></action>
+		<action date="1211221080" datetime="2008-05-19T15:18:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6074.</text></action>
+		<action date="1211223300" datetime="2008-05-19T15:55:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1211300340" datetime="2008-05-20T13:19:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4189"/></action>
+		<vote date="1211300880" how="roll" roll="332" datetime="2008-05-20T13:28:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 324 - 84 (Roll no. 332). (text: CR 5/19/2008 H4104)</text></vote>
+		<calendar under="General Orders" number="744" date="1211342400" datetime="2008-05-21" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 744.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Gas Price Relief for Consumers Act of 2008 - Title I: Amendment to Sherman Act - No Oil Producing and Exporting Cartels Act of 2008 or NOPEC - (Sec. 102) Amends the Sherman Act to make it illegal for any foreign state or instrumentality thereof to act collectively or in combination with any other foreign state or any other person, when such action has a direct, substantial, and reasonably foreseeable effect on the market, supply, price, or distribution of petroleum in the United States, to: (1) limit the production or distribution of oil, natural gas, or any other petroleum product (petroleum); (2) set or maintain the price of petroleum; or (3) otherwise take any action in restraint of trade for petroleum. Denies a foreign state engaged in such conduct sovereign immunity from the jurisdiction or judgments of U.S. courts in any action brought to enforce this Act. States that no U.S. court shall decline, based on the act of state doctrine, to make a determination on the merits in an action brought under this Act. Authorizes the Attorney General to bring an action in U.S. district court to enforce this Act. (Sec. 103) Makes an exception to the jurisdictional immunity of a foreign state in an action brought under this Act. Title II: Creation of Department of Justice Petroleum Industry Antitrust Task Force - (Sec. 201) Directs the Attorney General to establish in the Department of Justice (DOJ) a Petroleum Industry Antitrust Task Force to: (1) develop, coordinate, and facilitate the implementation of DOJ investigative and enforcement policies related to petroleum industry antitrust issues under federal law; and (2) report annually to Congress on DOJ investigatory and enforcement efforts related to petroleum industry antitrust issues, and on issues related to the application of federal antitrust laws to the market for petroleum. Title III: Study by the Government Accountability Office - (Sec. 301) Directs the Comptroller General to: (1) conduct a study evaluating the effects of mergers addressed in covered petroleum merger consent decrees on competition in the markets involved, including the effectiveness of divestitures required in such decrees in preserving competition in those markets; and (2) report study results to Congress and DOJ. Directs the Attorney General to refer such report to the Task Force, which shall consider whether any further enforcement action is warranted to protect or restore competition in any market affected by a transaction to which any covered merger consent decree relates.<br/>
+	</summary>
+</bill>

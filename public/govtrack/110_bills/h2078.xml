@@ -1,0 +1,60 @@
+<bill session="110" type="h" number="2078" updated="2009-01-08T21:11:59-05:00">
+	<status><enacted date="1186632000" datetime="2007-08-09" /></status>
+
+	<introduced date="1177905600" datetime="2007-04-30"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 14536 State Route 136 in Cherry Fork, Ohio, as the &quot;Staff Sergeant Omer T. 'O.T.' Hawkins Post Office&quot;.</title>
+	</titles>
+	<sponsor id="412010"/>
+	<cosponsors>
+		<cosponsor id="400327" joined="2007-04-30"/>
+		<cosponsor id="412229" joined="2007-04-30"/>
+		<cosponsor id="400227" joined="2007-04-30"/>
+		<cosponsor id="400180" joined="2007-04-30"/>
+		<cosponsor id="400071" joined="2007-04-30"/>
+		<cosponsor id="400406" joined="2007-04-30"/>
+		<cosponsor id="412226" joined="2007-04-30"/>
+		<cosponsor id="400235" joined="2007-04-30"/>
+		<cosponsor id="400352" joined="2007-04-30"/>
+		<cosponsor id="412227" joined="2007-04-30"/>
+		<cosponsor id="400411" joined="2007-04-30"/>
+		<cosponsor id="400211" joined="2007-04-30"/>
+		<cosponsor id="412228" joined="2007-04-30"/>
+		<cosponsor id="400208" joined="2007-04-30"/>
+		<cosponsor id="400150" joined="2007-04-30"/>
+		<cosponsor id="400334" joined="2007-05-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1177905600" datetime="2007-04-30"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1179772740" datetime="2007-05-21T15:39:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1179772740" datetime="2007-05-21T15:39:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5484-5486"/></action>
+		<action date="1179772740" datetime="2007-05-21T15:39:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2078.</text></action>
+		<vote date="1179773340" how="by voice vote" datetime="2007-05-21T15:49:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H5484"/></vote>
+		<action date="1179806400" datetime="2007-05-22"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1181102400" datetime="2007-06-06"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+		<calendar date="1185940800" datetime="2007-08-01" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1185940800" datetime="2007-08-01"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="310" date="1185940800" datetime="2007-08-01" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 310.</text></calendar>
+		<vote date="1186113600" how="by Unanimous Consent" datetime="2007-08-03" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10978-10979"/></vote>
+		<topresident date="1186113600" datetime="2007-08-03" ><text>Cleared for White House.</text></topresident>
+		<action date="1186200000" datetime="2007-08-04"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1186372800" datetime="2007-08-06" ><text>Presented to President.</text></topresident>
+		<signed date="1186632000" datetime="2007-08-09" ><text>Signed by President.</text></signed>
+		<enacted number="110-67" date="1186632000" datetime="2007-08-09" type="public" ><text>Became Public Law No: 110-67.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/9/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 14536 State Route 136 in Cherry Fork, Ohio, as the &quot;Staff Sergeant Omer T. 'O.T.' Hawkins Post Office.&quot; 
+	</summary>
+</bill>

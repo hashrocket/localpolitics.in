@@ -1,0 +1,63 @@
+<bill session="110" type="h" number="3179" updated="2009-01-08T23:28:09-05:00">
+	<status><enacted date="1214452800" datetime="2008-06-26" /></status>
+
+	<introduced date="1185336000" datetime="2007-07-25"/>
+	<titles>
+		<title type="short" as="introduced">Local Preparedness Acquisition Act</title>
+		<title type="short" as="reported to house">Local Preparedness Acquisition Act</title>
+		<title type="short" as="passed house">Local Preparedness Acquisition Act</title>
+		<title type="short" as="reported to senate">Local Preparedness Acquisition Act</title>
+		<title type="short" as="passed senate">Local Preparedness Acquisition Act</title>
+		<title type="short" as="enacted">Local Preparedness Acquisition Act</title>
+		<title type="official" as="introduced">To amend title 40, United States Code, to authorize the use of Federal supply schedules for the acquisition of law enforcement, security, and certain other related items by State and local governments.</title>
+	</titles>
+	<sponsor id="400409"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2007-11-01"/>
+		<cosponsor id="400184" joined="2007-12-06"/>
+		<cosponsor id="400055" joined="2007-10-30"/>
+		<cosponsor id="400570" joined="2007-07-25"/>
+		<cosponsor id="400400" joined="2007-10-30"/>
+		<cosponsor id="400047" joined="2007-11-01"/>
+		<cosponsor id="400108" joined="2007-12-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1185336000" datetime="2007-07-25"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1189137600" datetime="2007-09-07"><text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text></action>
+		<action date="1194498000" datetime="2007-11-08"><text>Subcommittee on Government Management, Organization, and Procurement Discharged.</text></action>
+		<action date="1194498000" datetime="2007-11-08"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1194498000" datetime="2007-11-08" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1197952320" datetime="2007-12-17T12:32:00-05:00"><text>Reported by the Committee on Oversight and Government. H. Rept. 110-494.</text></action>
+		<calendar number="303" date="1197952380" datetime="2007-12-17T12:33:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 303.</text></calendar>
+		<action date="1197913200" datetime="2007-12-17T13:40:00-05:00"><text>Ms. Norton moved to suspend the rules and pass the bill.</text></action>
+		<action date="1197913200" datetime="2007-12-17T13:40:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H15488-15489"/></action>
+		<action date="1197913200" datetime="2007-12-17T13:40:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3179.</text></action>
+		<vote date="1197913860" how="by voice vote" datetime="2007-12-17T13:51:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H15488"/></vote>
+		<action date="1197954000" datetime="2007-12-18"><text>Received in the Senate.</text></action>
+		<action date="1200978000" datetime="2008-01-22"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<calendar date="1207800000" datetime="2008-04-10" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1212638400" datetime="2008-06-05"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-344.</text></action>
+		<calendar under="General Orders" number="768" date="1212638400" datetime="2008-06-05" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 768.</text></calendar>
+		<vote date="1213070400" how="by Unanimous Consent" datetime="2008-06-10" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S5457"/></vote>
+		<topresident date="1213070400" datetime="2008-06-10" ><text>Cleared for White House.</text></topresident>
+		<action date="1213156800" datetime="2008-06-11"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1213761600" datetime="2008-06-18" ><text>Presented to President.</text></topresident>
+		<signed date="1214452800" datetime="2008-06-26" ><text>Signed by President.</text></signed>
+		<enacted number="110-248" date="1214452800" datetime="2008-06-26" type="public" ><text>Became Public Law No: 110-248.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/26/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Local Preparedness Acquisition Act - Authorizes the Administrator of General Services to provide for the use by state or local governments of federal supply schedules of the General Services Administration (GSA) for alarm and signal systems, facility management systems, firefighting and rescue equipment, law enforcement and security equipment, marine craft and related equipment, special purpose clothing, and related services (as contained in federal supply classification code group 84).<br/>
+	</summary>
+</bill>

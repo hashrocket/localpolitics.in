@@ -1,0 +1,35 @@
+<bill session="111" type="hj" number="6" updated="2009-03-07T09:34:07-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States relating to voluntary school prayer.</title>
+	</titles>
+	<sponsor id="400121"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Constitution, Civil Rights, and Civil Liberties" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Arts, culture, religion"/>
+		<term name="Constitution and constitutional amendments"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Religion"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Constitutional Amendment - Declares that the Constitution shall not be construed to prohibit individual or group prayer in public schools or other public institutions. Prohibits the United States or any state from requiring any person to participate in prayer or from prescribing the content of any prayer.<br/>
+	</summary>
+</bill>

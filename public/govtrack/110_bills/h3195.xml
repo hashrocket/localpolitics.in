@@ -1,0 +1,319 @@
+<bill session="110" type="h" number="3195" updated="2009-01-08T23:30:01-05:00">
+	<status><vote date="1214428260" datetime="2008-06-25T18:11:00-04:00" where="h" result="pass" how="roll" roll="460"/></status>
+
+	<introduced date="1185422400" datetime="2007-07-26"/>
+	<titles>
+		<title type="short" as="introduced">ADA Restoration Act of 2007</title>
+		<title type="short" as="reported to house">ADA Amendments Act of 2008</title>
+		<title type="short" as="passed house">ADA Amendments Act of 2008</title>
+		<title type="official" as="introduced">To restore the intent and protections of the Americans with Disabilities Act of 1990.</title>
+	</titles>
+	<sponsor id="400189"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-07-26"/>
+		<cosponsor id="400290" joined="2007-09-27"/>
+		<cosponsor id="400661" joined="2007-08-02"/>
+		<cosponsor id="400253" joined="2007-07-26"/>
+		<cosponsor id="400041" joined="2007-07-26"/>
+		<cosponsor id="400133" joined="2007-07-26"/>
+		<cosponsor id="400420" joined="2007-07-26"/>
+		<cosponsor id="400327" joined="2007-10-12"/>
+		<cosponsor id="400222" joined="2007-07-26"/>
+		<cosponsor id="400620" joined="2008-06-18"/>
+		<cosponsor id="400034" joined="2008-06-18"/>
+		<cosponsor id="400031" joined="2007-07-26"/>
+		<cosponsor id="412229" joined="2007-07-26"/>
+		<cosponsor id="400219" joined="2007-07-26"/>
+		<cosponsor id="400280" joined="2007-07-26"/>
+		<cosponsor id="400199" joined="2007-10-04"/>
+		<cosponsor id="400367" joined="2008-06-20"/>
+		<cosponsor id="400337" joined="2007-08-03"/>
+		<cosponsor id="400227" joined="2007-08-02"/>
+		<cosponsor id="400177" joined="2007-09-17"/>
+		<cosponsor id="400364" joined="2007-07-26"/>
+		<cosponsor id="400257" joined="2007-07-26"/>
+		<cosponsor id="400289" joined="2007-07-26"/>
+		<cosponsor id="400413" joined="2007-07-26"/>
+		<cosponsor id="400616" joined="2007-07-26"/>
+		<cosponsor id="400142" joined="2007-07-26"/>
+		<cosponsor id="400228" joined="2007-07-26"/>
+		<cosponsor id="400160" joined="2007-08-02"/>
+		<cosponsor id="400155" joined="2007-09-04"/>
+		<cosponsor id="400263" joined="2007-07-26"/>
+		<cosponsor id="400618" joined="2007-07-26"/>
+		<cosponsor id="400407" joined="2007-07-26"/>
+		<cosponsor id="400092" joined="2007-10-03"/>
+		<cosponsor id="400080" joined="2007-07-26"/>
+		<cosponsor id="400162" joined="2007-07-26"/>
+		<cosponsor id="412221" joined="2007-10-03"/>
+		<cosponsor id="400183" joined="2007-07-26"/>
+		<cosponsor id="400102" joined="2007-07-26"/>
+		<cosponsor id="412224" joined="2007-09-17"/>
+		<cosponsor id="412234" joined="2007-07-26"/>
+		<cosponsor id="400302" joined="2007-08-02"/>
+		<cosponsor id="400380" joined="2007-07-26"/>
+		<cosponsor id="400122" joined="2007-07-26"/>
+		<cosponsor id="400403" joined="2007-10-04"/>
+		<cosponsor id="400246" joined="2007-07-26"/>
+		<cosponsor id="400333" joined="2007-07-26"/>
+		<cosponsor id="400385" joined="2007-07-26"/>
+		<cosponsor id="400295" joined="2007-07-26"/>
+		<cosponsor id="400623" joined="2007-07-26"/>
+		<cosponsor id="400096" joined="2007-10-18"/>
+		<cosponsor id="400430" joined="2007-10-01"/>
+		<cosponsor id="400129" joined="2007-07-26"/>
+		<cosponsor id="400170" joined="2007-07-26"/>
+		<cosponsor id="412195" joined="2007-10-03"/>
+		<cosponsor id="400065" joined="2007-07-26"/>
+		<cosponsor id="400332" joined="2007-07-26"/>
+		<cosponsor id="400647" joined="2007-12-10"/>
+		<cosponsor id="400297" joined="2007-07-26"/>
+		<cosponsor id="400443" joined="2007-08-03"/>
+		<cosponsor id="412215" joined="2007-09-17"/>
+		<cosponsor id="400344" joined="2007-10-18"/>
+		<cosponsor id="400198" joined="2007-09-27"/>
+		<cosponsor id="400268" joined="2007-07-26"/>
+		<cosponsor id="400063" joined="2007-12-10"/>
+		<cosponsor id="400276" joined="2007-10-18"/>
+		<cosponsor id="400361" joined="2007-09-17"/>
+		<cosponsor id="412192" joined="2007-07-26"/>
+		<cosponsor id="400165" joined="2007-09-17"/>
+		<cosponsor id="400196" joined="2007-07-26"/>
+		<cosponsor id="400124" joined="2007-10-03"/>
+		<cosponsor id="400630" joined="2007-10-31"/>
+		<cosponsor id="400323" joined="2007-09-04"/>
+		<cosponsor id="400239" joined="2007-07-26"/>
+		<cosponsor id="400003" joined="2007-07-26"/>
+		<cosponsor id="400423" joined="2007-07-26"/>
+		<cosponsor id="400260" joined="2007-07-26"/>
+		<cosponsor id="400229" joined="2008-06-20"/>
+		<cosponsor id="400132" joined="2007-07-26"/>
+		<cosponsor id="412231" joined="2007-10-03"/>
+		<cosponsor id="400274" joined="2007-08-02"/>
+		<cosponsor id="400662" joined="2008-01-15"/>
+		<cosponsor id="412189" joined="2007-12-04"/>
+		<cosponsor id="412214" joined="2007-07-26"/>
+		<cosponsor id="400409" joined="2007-07-26"/>
+		<cosponsor id="400264" joined="2007-07-26"/>
+		<cosponsor id="400370" joined="2007-07-26"/>
+		<cosponsor id="400365" joined="2007-07-26"/>
+		<cosponsor id="400101" joined="2007-07-26"/>
+		<cosponsor id="400396" joined="2007-07-26"/>
+		<cosponsor id="400384" joined="2007-07-26"/>
+		<cosponsor id="400184" joined="2007-07-26"/>
+		<cosponsor id="400405" joined="2007-07-26"/>
+		<cosponsor id="400152" joined="2007-10-31"/>
+		<cosponsor id="400412" joined="2007-10-12"/>
+		<cosponsor id="400355" joined="2007-07-30"/>
+		<cosponsor id="400427" joined="2007-07-26"/>
+		<cosponsor id="412208" joined="2007-08-02"/>
+		<cosponsor id="400216" joined="2007-07-26"/>
+		<cosponsor id="400262" joined="2007-07-26"/>
+		<cosponsor id="400130" joined="2007-10-03"/>
+		<cosponsor id="400249" joined="2007-08-02"/>
+		<cosponsor id="400437" joined="2007-08-03"/>
+		<cosponsor id="400312" joined="2007-07-26"/>
+		<cosponsor id="412198" joined="2007-10-01"/>
+		<cosponsor id="400658" joined="2008-04-08"/>
+		<cosponsor id="400359" joined="2007-09-04"/>
+		<cosponsor id="412188" joined="2007-07-26"/>
+		<cosponsor id="400316" joined="2007-08-03"/>
+		<cosponsor id="400010" joined="2007-07-26"/>
+		<cosponsor id="400007" joined="2007-07-26"/>
+		<cosponsor id="400245" joined="2007-07-26"/>
+		<cosponsor id="400225" joined="2007-07-26"/>
+		<cosponsor id="400231" joined="2007-07-26"/>
+		<cosponsor id="400417" joined="2007-07-26"/>
+		<cosponsor id="400663" joined="2007-07-26"/>
+		<cosponsor id="400352" joined="2007-10-18"/>
+		<cosponsor id="400339" joined="2007-07-26"/>
+		<cosponsor id="400387" joined="2007-07-26"/>
+		<cosponsor id="400324" joined="2007-12-04"/>
+		<cosponsor id="400144" joined="2007-07-26"/>
+		<cosponsor id="400331" joined="2007-07-26"/>
+		<cosponsor id="400098" joined="2007-07-26"/>
+		<cosponsor id="412258" joined="2008-06-18"/>
+		<cosponsor id="400386" joined="2007-09-27"/>
+		<cosponsor id="400147" joined="2007-12-10"/>
+		<cosponsor id="400082" joined="2007-07-26"/>
+		<cosponsor id="400347" joined="2007-07-26"/>
+		<cosponsor id="400230" joined="2007-07-26"/>
+		<cosponsor id="400038" joined="2007-07-30"/>
+		<cosponsor id="400008" joined="2007-07-26"/>
+		<cosponsor id="412227" joined="2007-09-17"/>
+		<cosponsor id="400356" joined="2007-07-26"/>
+		<cosponsor id="400121" joined="2007-07-26"/>
+		<cosponsor id="412223" joined="2008-06-23"/>
+		<cosponsor id="400048" joined="2007-07-26"/>
+		<cosponsor id="412209" joined="2007-07-26"/>
+		<cosponsor id="400442" joined="2007-07-26"/>
+		<cosponsor id="400051" joined="2007-08-02"/>
+		<cosponsor id="412193" joined="2007-07-26"/>
+		<cosponsor id="400308" joined="2007-10-04"/>
+		<cosponsor id="412199" joined="2007-07-26"/>
+		<cosponsor id="400057" joined="2007-07-26"/>
+		<cosponsor id="400001" joined="2007-08-03"/>
+		<cosponsor id="400103" joined="2007-07-26"/>
+		<cosponsor id="400110" joined="2007-07-26"/>
+		<cosponsor id="400087" joined="2007-09-17"/>
+		<cosponsor id="412211" joined="2007-10-31"/>
+		<cosponsor id="400270" joined="2007-10-03"/>
+		<cosponsor id="400259" joined="2007-07-26"/>
+		<cosponsor id="400166" joined="2007-09-04"/>
+		<cosponsor id="400115" joined="2007-07-26"/>
+		<cosponsor id="400436" joined="2007-07-26"/>
+		<cosponsor id="400346" joined="2007-07-26"/>
+		<cosponsor id="400237" joined="2007-10-01"/>
+		<cosponsor id="400140" joined="2007-07-26"/>
+		<cosponsor id="400070" joined="2007-08-02"/>
+		<cosponsor id="400570" joined="2007-07-26"/>
+		<cosponsor id="400013" joined="2007-07-26"/>
+		<cosponsor id="412240" joined="2007-07-30"/>
+		<cosponsor id="412222" joined="2007-07-26"/>
+		<cosponsor id="400422" joined="2007-09-27"/>
+		<cosponsor id="412204" joined="2007-07-30"/>
+		<cosponsor id="400076" joined="2007-07-26"/>
+		<cosponsor id="400426" joined="2007-10-04"/>
+		<cosponsor id="400195" joined="2007-07-26"/>
+		<cosponsor id="400251" joined="2007-07-26"/>
+		<cosponsor id="400439" joined="2007-07-26"/>
+		<cosponsor id="400178" joined="2007-07-30"/>
+		<cosponsor id="400378" joined="2007-07-26"/>
+		<cosponsor id="412232" joined="2007-07-30"/>
+		<cosponsor id="400350" joined="2007-10-03"/>
+		<cosponsor id="400217" joined="2007-07-26"/>
+		<cosponsor id="400111" joined="2007-08-02"/>
+		<cosponsor id="400360" joined="2007-07-26"/>
+		<cosponsor id="400366" joined="2007-08-02"/>
+		<cosponsor id="400255" joined="2007-07-26"/>
+		<cosponsor id="400021" joined="2007-12-04"/>
+		<cosponsor id="412239" joined="2007-07-26"/>
+		<cosponsor id="400281" joined="2007-07-30"/>
+		<cosponsor id="400211" joined="2007-07-26"/>
+		<cosponsor id="400107" joined="2007-09-27"/>
+		<cosponsor id="400120" joined="2007-07-26"/>
+		<cosponsor id="400299" joined="2007-07-26"/>
+		<cosponsor id="400074" joined="2007-07-26"/>
+		<cosponsor id="400118" joined="2007-07-30"/>
+		<cosponsor id="400638" joined="2007-08-02"/>
+		<cosponsor id="412200" joined="2007-10-18"/>
+		<cosponsor id="412010" joined="2008-06-18"/>
+		<cosponsor id="400232" joined="2007-10-04"/>
+		<cosponsor id="400125" joined="2007-07-26"/>
+		<cosponsor id="412196" joined="2007-10-18"/>
+		<cosponsor id="400415" joined="2007-07-26"/>
+		<cosponsor id="412254" joined="2008-01-23"/>
+		<cosponsor id="400244" joined="2007-10-18"/>
+		<cosponsor id="412236" joined="2007-07-26"/>
+		<cosponsor id="400009" joined="2007-09-04"/>
+		<cosponsor id="412186" joined="2007-08-02"/>
+		<cosponsor id="400093" joined="2007-07-26"/>
+		<cosponsor id="400440" joined="2007-07-26"/>
+		<cosponsor id="400326" joined="2007-09-04"/>
+		<cosponsor id="400371" joined="2008-06-20"/>
+		<cosponsor id="412228" joined="2007-07-26"/>
+		<cosponsor id="412212" joined="2007-07-26"/>
+		<cosponsor id="400291" joined="2007-07-26"/>
+		<cosponsor id="400201" joined="2007-07-26"/>
+		<cosponsor id="400318" joined="2007-07-26"/>
+		<cosponsor id="400043" joined="2007-07-26"/>
+		<cosponsor id="400109" joined="2007-07-26"/>
+		<cosponsor id="400185" joined="2007-07-26"/>
+		<cosponsor id="400119" joined="2007-07-26"/>
+		<cosponsor id="400641" joined="2008-06-18"/>
+		<cosponsor id="400047" joined="2007-07-30"/>
+		<cosponsor id="412220" joined="2007-08-03"/>
+		<cosponsor id="400283" joined="2007-07-26"/>
+		<cosponsor id="400204" joined="2008-01-15"/>
+		<cosponsor id="400097" joined="2007-09-17"/>
+		<cosponsor id="400310" joined="2007-08-02"/>
+		<cosponsor id="400286" joined="2007-10-01"/>
+		<cosponsor id="400090" joined="2007-07-26"/>
+		<cosponsor id="400033" joined="2007-07-26"/>
+		<cosponsor id="400042" joined="2007-07-26"/>
+		<cosponsor id="400208" joined="2007-07-26"/>
+		<cosponsor id="400351" joined="2007-07-26"/>
+		<cosponsor id="400218" joined="2007-07-26"/>
+		<cosponsor id="400182" joined="2007-10-03"/>
+		<cosponsor id="400240" joined="2007-07-26"/>
+		<cosponsor id="400438" joined="2007-07-26"/>
+		<cosponsor id="412219" joined="2007-07-26"/>
+		<cosponsor id="400150" joined="2007-08-02"/>
+		<cosponsor id="400215" joined="2007-07-26"/>
+		<cosponsor id="400024" joined="2007-08-02"/>
+		<cosponsor id="400238" joined="2007-07-26"/>
+		<cosponsor id="412206" joined="2007-09-27"/>
+		<cosponsor id="400025" joined="2007-07-26"/>
+		<cosponsor id="400301" joined="2007-08-02"/>
+		<cosponsor id="400141" joined="2007-07-26"/>
+		<cosponsor id="400345" joined="2007-10-03"/>
+		<cosponsor id="400163" joined="2007-08-02"/>
+		<cosponsor id="400114" joined="2007-08-02"/>
+		<cosponsor id="400062" joined="2007-09-17"/>
+		<cosponsor id="412194" joined="2007-08-02"/>
+		<cosponsor id="400425" joined="2007-07-26"/>
+		<cosponsor id="400233" joined="2007-10-12"/>
+		<cosponsor id="400179" joined="2007-07-26"/>
+		<cosponsor id="400100" joined="2007-07-26"/>
+		<cosponsor id="400639" joined="2007-07-26"/>
+		<cosponsor id="400349" joined="2007-07-26"/>
+		<cosponsor id="400309" joined="2007-08-03"/>
+		<cosponsor id="412202" joined="2007-07-26"/>
+		<cosponsor id="400186" joined="2007-09-04"/>
+		<cosponsor id="400278" joined="2007-07-26"/>
+		<cosponsor id="400067" joined="2007-08-02"/>
+		<cosponsor id="400429" joined="2008-06-18"/>
+		<cosponsor id="412233" joined="2007-07-26"/>
+		<cosponsor id="400075" joined="2007-07-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1185422400" datetime="2007-07-26"><text>Referred to the Committee on Education and Labor, and in addition to the Committees on the Judiciary, Transportation and Infrastructure, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1185422400" datetime="2007-07-26"><text>Referred to House Education and Labor</text></action>
+		<action date="1185422400" datetime="2007-07-26"><text>Referred to House Judiciary</text></action>
+		<action date="1185422400" datetime="2007-07-26"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1185422400" datetime="2007-07-26"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1185422400" datetime="2007-07-26"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1185508800" datetime="2007-07-27"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Aviation.</text></action>
+		<action date="1185508800" datetime="2007-07-27"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Highways and Transit.</text></action>
+		<action date="1185508800" datetime="2007-07-27"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text></action>
+		<action date="1189396800" datetime="2007-09-10"><committee name="House Judiciary"/><text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text></action>
+		<action date="1190174400" datetime="2007-09-19"><committee name="House Education and Labor"/><text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text></action>
+		<action date="1191470400" datetime="2007-10-04"><committee name="House Judiciary" subcommittee="the Constitution, Civil Rights, and Civil Liberties"/><text>Subcommittee Hearings Held.</text></action>
+		<action date="1213761600" datetime="2008-06-18"><committee name="House Education and Labor"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1213761600" datetime="2008-06-18" ><committee name="House Education and Labor"/><text>Ordered to be Reported (Amended) by the Yeas and Nays: 43 - 1.</text></calendar>
+		<action date="1213761600" datetime="2008-06-18"><committee name="House Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1213761600" datetime="2008-06-18" ><committee name="House Judiciary"/><text>Ordered to be Reported (Amended) by the Yeas and Nays: 27 - 0.</text></calendar>
+		<action date="1213761600" datetime="2008-06-18"><committee name="House Judiciary"/><text>Subcommittee on the Constitution, Civil Rights, and Civil Liberties Discharged.</text></action>
+		<action date="1214248140" datetime="2008-06-23T16:09:00-04:00"><text>Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-730, Part I.</text></action>
+		<action date="1214251380" datetime="2008-06-23T17:03:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 110-730, Part II.</text></action>
+		<action date="1214251440" datetime="2008-06-23T17:04:00-04:00"><text>Committee on Transportation discharged.</text></action>
+		<action date="1214251440" datetime="2008-06-23T17:04:00-04:00"><text>Committee on Energy and Commerce discharged.</text></action>
+		<calendar number="465" date="1214251440" datetime="2008-06-23T17:04:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 465.</text></calendar>
+		<action date="1214340240" datetime="2008-06-24T17:44:00-04:00"><text>Rules Committee Resolution H. Res. 1299 Reported to House. Rule provides for consideration of H.R. 3195 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill shall be considered as adopted.</text></action>
+		<action date="1214410320" datetime="2008-06-25T13:12:00-04:00"><text>Rule H. Res. 1299 passed House.</text></action>
+		<action date="1214421300" datetime="2008-06-25T16:15:00-04:00"><text>Considered under the provisions of rule H. Res. 1299.</text><reference label="consideration" ref="CR H6058-6075"/><reference label="text of measure as introduced" ref="CR H6058-6059"/></action>
+		<action date="1214421360" datetime="2008-06-25T16:16:00-04:00"><text>Rule provides for consideration of H.R. 3195 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill shall be considered as adopted.</text></action>
+		<action date="1214421480" datetime="2008-06-25T16:18:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H.R. 3195.</text></action>
+		<action date="1214425200" datetime="2008-06-25T17:20:00-04:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H6074"/></action>
+		<action date="1214425260" datetime="2008-06-25T17:21:00-04:00"><text>POSTPONED PROCEEINGS - At the conclusion of debate on H.R. 3195, the Chair put the question on adoption of H.R. 3195 and by voice vote, announced the ayes had prevailed. Mr. Sensenbrenner demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of H.R. 3195 until later in the legislative day.</text></action>
+		<action date="1214427840" datetime="2008-06-25T18:04:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6081-6082"/></action>
+		<vote date="1214428260" how="roll" roll="460" datetime="2008-06-25T18:11:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed by the Yeas and Nays: 402 - 17 (Roll no. 460).</text><reference label="text" ref="CR H6059-6061"/></vote>
+		<action date="1214452800" datetime="2008-06-26"><text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar under="General Orders" number="856" date="1214539200" datetime="2008-06-27" calendar="Senate Legislative" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 856.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/25/2008--Passed House amended. ADA Amendments Act of 2008 - (Sec. 4) Amends the Americans with Disabilities Act of 1990 (ADA) to redefine the term &quot;disability,&quot; including by defining &quot;major life activities&quot; and &quot;being regarded as having such an impairment.&quot;<br/>Sets forth rules of construction regarding the definition of &quot;disability,&quot; including that: (1) such term shall be construed in favor of broad coverage of individuals under the Act; (2) an impairment that substantially limits one major life activity need not limit other major life activities in order to be a disability; (3) an impairment that is episodic or in remission is a disability if it would substantially limit a major life activity when active; and (4) the determination of whether an impairment substantially limits a major life activity shall be made without regard to the ameliorative effects of specified mitigating measures.<br/>Defines the term &quot;auxiliary aids and services.&quot;<br/>(Sec. 5) Prohibits employment discrimination against a qualified individual on the basis of disability. (Current law prohibits employment discrimination against a qualified individual with a disability because of the disability.)<br/>Prohibits the use of qualification standards, employment tests, or other selection criteria based on an individual's uncorrected vision unless the standard, test, or other selection criteria, as used by the covered entity, is shown to be related to the position and is consistent with business necessity.<br/>(Sec. 6) Declares that nothing in the Act: (1) alters the standards for determining eligibility for benefits under state worker's compensation laws or under state and federal disability benefit programs; (2) alters the requirement to make reasonable modifications in policies or procedures, unless such modifications would fundamentally alter the nature of the goods, services, facilities, or accommodations involved; or (3) provides the basis for a claim by a person without a disability that he or she was subject to discrimination because of the lack of disability.<br/>Declares that the authority of the Equal Employment Opportunity Commission (EEOC), the Attorney General, and the Secretary of Transportation to issue regulations includes the authority to issue regulations implementing the definitions of this Act.<br/>(Sec. 7) Makes conforming amendments to the Rehabilitation Act of 1973.<br/>
+	</summary>
+</bill>

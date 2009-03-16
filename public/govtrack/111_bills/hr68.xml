@@ -1,0 +1,41 @@
+<bill session="111" type="hr" number="68" updated="2009-03-07T13:13:56-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="official" as="introduced">Supports the establishment of an NCAA Division I Football Bowl Subdivision Championship playoff system in the interest of fairness and to bring parity to all NCAA teams.</title>
+	</titles>
+	<sponsor id="400001"/>
+	<cosponsors>
+		<cosponsor id="400627" joined="2009-01-15"/>
+		<cosponsor id="400277" joined="2009-02-13"/>
+		<cosponsor id="400376" joined="2009-01-15"/>
+		<cosponsor id="400255" joined="2009-01-15"/>
+		<cosponsor id="400018" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House Judiciary</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House Education and Labor</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Commerce"/>
+		<term name="Competition and antitrust"/>
+		<term name="Government investigations"/>
+		<term name="Higher education"/>
+		<term name="School athletics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Rejects the National Collegiate Athletic Association (NCAA) Division I Bowl Championship Series (BCS) football playoff system as an illegal restraint of trade that violates the Sherman Anti-Trust Act. Calls for: (1) the Department of Justice's Antitrust Division to investigate and bring appropriate action to have the BCS system declared illegal and to require a playoff to determine a national champion; and (2) establishment of an NCAA Division I Football Bowl Subdivision Championship playoff system in the interest of fairness and to bring parity to all NCAA teams.<br/>
+	</summary>
+</bill>

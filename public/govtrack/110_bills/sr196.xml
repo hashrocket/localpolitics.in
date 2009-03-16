@@ -1,0 +1,33 @@
+<bill session="110" type="sr" number="196" updated="2009-01-09T20:22:41-05:00">
+	<status><vote date="1228885200" datetime="2008-12-10" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1179115200" datetime="2007-05-14"/>
+	<titles>
+		<title type="official" as="introduced">A resolution commending Idaho on winning the bid to host the 2009 Special Olympics World Winter Games.</title>
+	</titles>
+	<sponsor id="300030"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="2007-08-01"/>
+		<cosponsor id="300029" joined="2007-05-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1179115200" datetime="2007-05-14"><text>Referred to the Committee on Commerce, Science, and Transportation.</text><reference label="text of measure as introduced" ref="CR S6071"/></action>
+		<action date="1228885200" datetime="2008-12-10"><text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S10885"/></action>
+		<vote date="1228885200" how="by Unanimous Consent" datetime="2008-12-10" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text as passed Senate" ref="CR S10885"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/10/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Applauds the goals and principles of Special Olympics. Salutes those that make it possible. Congratulates Idaho on its selection as host for the 2009 Special Olympics World Winter Games.<br/>
+	</summary>
+</bill>

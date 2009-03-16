@@ -1,0 +1,42 @@
+<bill session="111" type="s" number="413" updated="2009-03-07T14:22:34-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="short" as="introduced">Graduate for a Better Future Act</title>
+		<title type="official" as="introduced">A bill to establish a grant program to improve high school graduation rates and prepare students for college and work.</title>
+	</titles>
+	<sponsor id="400054"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Academic performance and assessments"/>
+		<term name="Education of the disadvantaged"/>
+		<term name="Education programs funding"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Higher education"/>
+		<term name="Literacy and language arts"/>
+		<term name="Minority education"/>
+		<term name="Science and engineering education"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+		<term name="Teaching, teachers, curricula"/>
+		<term name="Vocational education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Introduced.<br/>Graduate for a Better Future Act - Authorizes the Secretary of Education to award competitive grants to states, educational nonprofit organizations, or partnerships of such entities for their use in providing competitive subgrants to local educational agencies (LEAs) that have a high school graduation rate of no more than 60% in the aggregate or among at least two subgroups consisting of the poor or major racial or ethnic groups. Requires each LEA subgrantee to use the funds to implement: (1) a college-preparatory curriculum aligned with rigorous secondary school studies; (2) accelerated remedial programs that allow underperforming students to become proficient in mathematics, reading and language arts, and science and thereby graduate in a timely manner; (3) systems to measure student progress in the core subjects and quickly identify students who are dropout risks; (4) a comprehensive college guidance program; (5) a program offering students opportunities for work-based and experiential learning; (6) a program providing students with access to courses in which they may earn college credit; (7) a program providing each student with an academic teacher advisor with whom the student regularly meets; and (8) a program of teacher professional development and institutional leadership that includes diagnostic and formative assessments. Requires nonfederal matching contributions equal to the grant amount. Directs the Secretary to provide for an independent evaluation of, and report to Congress on, the impact this program has on high school graduation rates, college attendance rates, and academic achievement.<br/>
+	</summary>
+</bill>

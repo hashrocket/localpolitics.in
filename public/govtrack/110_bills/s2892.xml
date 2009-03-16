@@ -1,0 +1,40 @@
+<bill session="110" type="s" number="2892" updated="2009-01-09T17:53:24-05:00">
+	<status><calendar date="1214452800" datetime="2008-06-26" /></status>
+
+	<introduced date="1208491200" datetime="2008-04-18"/>
+	<titles>
+		<title type="short" as="introduced">Wartime Enforcement of Fraud Act of 2008</title>
+		<title type="short" as="reported to senate">Wartime Enforcement of Fraud Act of 2008</title>
+		<title type="official" as="introduced">A bill to promote the prosecution and enforcement of frauds against the United States by suspending the statute of limitations during times when Congress has authorized the use of military force.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="400064" joined="2008-06-16"/>
+		<cosponsor id="300016" joined="2008-04-23"/>
+		<cosponsor id="412249" joined="2008-09-10"/>
+		<cosponsor id="300048" joined="2008-04-18"/>
+		<cosponsor id="400629" joined="2008-04-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1208491200" datetime="2008-04-18"><text>Sponsor introductory remarks on measure. (CR S3174-3175)</text></action>
+		<action date="1208491200" datetime="2008-04-18"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S3175"/></action>
+		<calendar date="1214452800" datetime="2008-06-26" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1216958400" datetime="2008-07-25"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment. With written report No. 110-431. Additional views filed.</text></action>
+		<calendar under="General Orders" number="899" date="1216958400" datetime="2008-07-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 899.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/25/2008--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Wartime Enforcement of Fraud Act of 2008 - Amends the federal criminal code to revise provisions that suspend the statute of limitations for wartime frauds against the United States by: (1) making such provisions applicable to an authorization for the use of Armed Forces (currently, applicable only if a war has been declared); (2) extending such limitation period from three to five years after the termination of hostilities; and (3) requiring a presidential proclamation, with notice to Congress, to signal the end of hostilities and thus end the suspension of the statute of limitations.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="110" type="sr" number="396" updated="2009-01-09T20:47:42-05:00">
+	<status><vote date="1197608400" datetime="2007-12-14" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1197003600" datetime="2007-12-07"/>
+	<titles>
+		<title type="official" as="introduced">A resolution expressing the sense of the Senate that the hanging of nooses for the purpose of intimidation should be thoroughly investigated by Federal, State, and local law enforcement authorities and that any criminal violations should be vigorously prosecuted.</title>
+		<title type="official" as="amended by senate">A resolution expressing the sense of the Senate that the hanging of nooses should be thoroughly investigated by Federal, State, and local law enforcement authorities and that any criminal violations should be vigorously prosecuted.</title>
+	</titles>
+	<sponsor id="400064"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2007-12-13"/>
+		<cosponsor id="400272" joined="2007-12-13"/>
+		<cosponsor id="300059" joined="2007-12-13"/>
+		<cosponsor id="300008" joined="2007-12-13"/>
+		<cosponsor id="300052" joined="2007-12-13"/>
+		<cosponsor id="300087" joined="2007-12-13"/>
+		<cosponsor id="300061" joined="2007-12-13"/>
+		<cosponsor id="300092" joined="2007-12-13"/>
+		<cosponsor id="300034" joined="2007-12-14"/>
+		<cosponsor id="412247" joined="2007-12-13"/>
+		<cosponsor id="400576" joined="2007-12-13"/>
+		<cosponsor id="300022" joined="2007-12-13"/>
+		<cosponsor id="300048" joined="2007-12-13"/>
+		<cosponsor id="300063" joined="2007-12-13"/>
+		<cosponsor id="400629" joined="2007-12-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1197003600" datetime="2007-12-07"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S15034"/></action>
+		<calendar date="1197522000" datetime="2007-12-13" ><text>Committee on the Judiciary. Ordered to be reported with amendments favorably.</text></calendar>
+		<action date="1197522000" datetime="2007-12-13"><text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="543" date="1197522000" datetime="2007-12-13" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 543.</text></calendar>
+		<vote date="1197608400" how="by Unanimous Consent" datetime="2007-12-14" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S15704-15705"/><reference label="text of measure as reported in Senate" ref="CR S15704-15705"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/14/2007--Passed Senate amended. Expresses the sense of the Senate that the hanging of nooses for the purpose of intimidation is a reprehensible, and under certain circumstances, criminal act.<br/>Calls for: (1) thorough investigation by federal, state, and local law enforcement of such conduct and for the cooperation of all private entities and individuals with such investigations; and (2) vigorous prosecution of any criminal violations.<br/>
+	</summary>
+</bill>

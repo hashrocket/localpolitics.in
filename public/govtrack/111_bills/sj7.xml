@@ -1,0 +1,38 @@
+<bill session="111" type="sj" number="7" updated="2009-03-12T12:07:53-04:00">
+	<status><introduced date="1233205200" datetime="2009-01-29"/></status>
+
+	<introduced date="1233205200" datetime="2009-01-29"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States relative to the election of Senators.</title>
+	</titles>
+	<sponsor id="300042"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="2009-01-29"/>
+		<cosponsor id="300038" joined="2009-03-09"/>
+		<cosponsor id="412326" joined="2009-01-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1233205200" datetime="2009-01-29"><text>Sponsor introductory remarks on measure. (CR S1067-1069)</text></action>
+		<action date="1233205200" datetime="2009-01-29"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+		<action date="1236744000" datetime="2009-03-11"><text>Committee on the Judiciary. Hearings held.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="hj" number="21" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Constitution and constitutional amendments"/>
+		<term name="Elections, voting, political campaign regulation"/>
+		<term name="Members of Congress"/>
+		<term name="Senate"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/29/2009--Introduced.<br/>Constitutional Amendment - Provides that no person shall be a Senator from a state unless such person has been elected by the people thereof, and that when vacancies happen in the representation of any state in the Senate, the executive authority of such state shall issue writs of election to fill such vacancies. 
+	</summary>
+</bill>

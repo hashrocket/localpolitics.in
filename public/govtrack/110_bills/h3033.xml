@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="3033" updated="2009-01-08T23:10:09-05:00">
+	<status><vote date="1209006480" datetime="2008-04-23T12:08:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1184212800" datetime="2007-07-12"/>
+	<titles>
+		<title type="short" as="introduced">Contractors and Federal Spending Accountability Act of 2007</title>
+		<title type="short" as="reported to house">Contractors and Federal Spending Accountability Act of 2008</title>
+		<title type="short" as="passed house">Contractors and Federal Spending Accountability Act of 2008</title>
+		<title type="official" as="introduced">To improve Federal agency awards and oversight of contracts and assistance and to strengthen accountability of the Government-wide suspension and debarment system.</title>
+	</titles>
+	<sponsor id="400251"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2007-09-19"/>
+		<cosponsor id="400280" joined="2007-10-15"/>
+		<cosponsor id="400257" joined="2007-09-17"/>
+		<cosponsor id="400409" joined="2007-07-12"/>
+		<cosponsor id="400245" joined="2007-10-09"/>
+		<cosponsor id="400426" joined="2007-12-18"/>
+		<cosponsor id="400438" joined="2007-09-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1184212800" datetime="2007-07-12"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1184299200" datetime="2007-07-13"><text>Sponsor introductory remarks on measure. (CR E1519-1520)</text></action>
+		<action date="1184644800" datetime="2007-07-17"><text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text></action>
+		<action date="1205208000" datetime="2008-03-11"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1205208000" datetime="2008-03-11"><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action date="1205380800" datetime="2008-03-13"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1205380800" datetime="2008-03-13" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1208543400" datetime="2008-04-18T15:30:00-04:00"><text>Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-596.</text></action>
+		<calendar number="369" date="1208543400" datetime="2008-04-18T15:30:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 369.</text></calendar>
+		<action date="1208962140" datetime="2008-04-23T11:49:00-04:00"><text>Mr. Towns moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1208962140" datetime="2008-04-23T11:49:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2569-2572"/></action>
+		<action date="1208962140" datetime="2008-04-23T11:49:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3033.</text></action>
+		<vote date="1209006480" how="by voice vote" datetime="2008-04-23T12:08:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H2569-2570"/></vote>
+		<action date="1209009600" datetime="2008-04-24"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/23/2008--Passed House amended. Contractors and Federal Spending Accountability Act of 2008 - (Sec. 2) Requires the Administrator of General Services, subject to the authority of the Director of the Office of Management and Budget (OMB), to establish and maintain on a General Services Administration (GSA) website a database of information regarding the integrity and performance of persons awarded federal contracts and grants for use by federal officials. Authorizes appropriations. Requires the Administrator to make the database available to all federal agencies. Requires the database to include information, for the last five years, regarding: (1) any civil or criminal proceeding, or and administrative proceeding resulting in a finding of fault and payment of restitution to a government of $5,000 or more, concluded by the federal government and state governments against such persons; and (2) federal contacts and grants terminated due to defaults by such persons; (3) federal suspensions and debarments of such persons; (4) federal and state administrative agreements to resolve suspension or debarment proceedings; and (5) final findings by a federal official that such a person has been determined not to be a responsible source under the Office of Federal Procurement Policy Act. Requires federal regulations to be amended to require applicants for federal grants or contracts exceeding the simplified acquisition threshold to disclose such information in writing. Requires the Administrator to develop policies to require: (1) notification of any covered person when information relevant to the person is entered into the database; and (2) an opportunity for any covered person to append comments to information about such person in the database.<br/>(Sec. 3) Requires an official to: (1) review such database prior to awarding a contract or grant; and (2) document why a prospective contract or grant awardee against whom a judgment or conviction for the same offense, or similar offences, has been rendered more than once within any three-year period, if each judgment or conviction is a cause for debarment, is considered presently responsible. (Sec. 5) Requires the Interagency Committee on Debarment and Suspension to: (1) resolve issues regarding determination of the lead agency responsible for initiating suspension or debarment proceedings; (2) coordinate actions among interested agencies; (3) encourage and assist federal agencies in entering into cooperative efforts to pool resources and achieve operational efficiencies in the government-wide suspension and debarment system; (4) recommend to OMB changes to such system and its rules; (5) authorize OMB to issue guidelines that implement such recommendations; (6) authorize the Committee's chair to establish subcommittees; and (7) report to Congress annually on progress and efforts to improve such system, member agencies' active participation in the committee's work, and a summary of each agency's activities and accomplishments in such system. (Sec. 6) Allows federal agencies, commissions, or organizations not currently participating in the federal suspension and debarment system to participate and to recognize suspensions or debarments issued by participating agencies. (Sec. 8) Requires the Administrator to submit a report to Congress that includes: (1) a list of all databases that include information about federal contracting and grants; and (2) recommendations for legislation or administrative action to create a centralized, comprehensive federal contracting and grant database.<br/>
+	</summary>
+</bill>

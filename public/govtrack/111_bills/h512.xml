@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="512" updated="2009-03-07T10:47:51-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="short" as="introduced">Federal Election Integrity Act of 2009</title>
+		<title type="official" as="introduced">To amend the Federal Election Campaign Act of 1971 to prohibit certain State election administration officials from actively participating in electoral campaigns.</title>
+	</titles>
+	<sponsor id="400097"/>
+	<cosponsors>
+		<cosponsor id="400152" joined="2009-02-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Sponsor introductory remarks on measure. (CR E84)</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to the House Committee on House Administration.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Congressional elections"/>
+		<term name="Elections, voting, political campaign regulation"/>
+		<term name="Government ethics and transparency, public corruption"/>
+		<term name="State and local government operations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/14/2009--Introduced.<br/>Federal Election Integrity Act of 2009 - Amends the Federal Election Campaign Act of 1971 to make it unlawful for a chief state election administration official to take active part in political management or in a political campaign with respect to any election for federal office over which the official has supervisory authority. 
+	</summary>
+</bill>

@@ -1,0 +1,68 @@
+<bill session="111" type="h" number="1067" updated="2009-03-07T11:54:13-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="short" as="introduced">Notch Fairness Act of 2009</title>
+		<title type="official" as="introduced">To amend title II of the Social Security Act to allow workers who attain age 65 after 1981 and before 1992 to choose either lump sum payments over four years totalling $5,000 or an improved benefit computation formula under a new 10-year rule governing the transition to the changes in benefit computation rules enacted in the Social Security Amendments of 1977, and for other purposes.</title>
+	</titles>
+	<sponsor id="400165"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2009-02-25"/>
+		<cosponsor id="400627" joined="2009-02-25"/>
+		<cosponsor id="400061" joined="2009-02-23"/>
+		<cosponsor id="400133" joined="2009-02-23"/>
+		<cosponsor id="412229" joined="2009-03-03"/>
+		<cosponsor id="400147" joined="2009-02-25"/>
+		<cosponsor id="400311" joined="2009-02-23"/>
+		<cosponsor id="400051" joined="2009-02-25"/>
+		<cosponsor id="400027" joined="2009-03-03"/>
+		<cosponsor id="400160" joined="2009-02-23"/>
+		<cosponsor id="400155" joined="2009-02-23"/>
+		<cosponsor id="412211" joined="2009-02-23"/>
+		<cosponsor id="400039" joined="2009-02-23"/>
+		<cosponsor id="400259" joined="2009-02-23"/>
+		<cosponsor id="400436" joined="2009-02-25"/>
+		<cosponsor id="400346" joined="2009-02-23"/>
+		<cosponsor id="412204" joined="2009-03-03"/>
+		<cosponsor id="400195" joined="2009-02-23"/>
+		<cosponsor id="400251" joined="2009-02-23"/>
+		<cosponsor id="400380" joined="2009-02-23"/>
+		<cosponsor id="400430" joined="2009-02-13"/>
+		<cosponsor id="400211" joined="2009-02-23"/>
+		<cosponsor id="400643" joined="2009-02-23"/>
+		<cosponsor id="400207" joined="2009-02-23"/>
+		<cosponsor id="400266" joined="2009-02-23"/>
+		<cosponsor id="400063" joined="2009-03-03"/>
+		<cosponsor id="400116" joined="2009-02-23"/>
+		<cosponsor id="400003" joined="2009-02-23"/>
+		<cosponsor id="412214" joined="2009-02-25"/>
+		<cosponsor id="400215" joined="2009-02-25"/>
+		<cosponsor id="412250" joined="2009-02-25"/>
+		<cosponsor id="400288" joined="2009-03-03"/>
+		<cosponsor id="400216" joined="2009-02-23"/>
+		<cosponsor id="400321" joined="2009-02-23"/>
+		<cosponsor id="412188" joined="2009-02-23"/>
+		<cosponsor id="412202" joined="2009-02-23"/>
+		<cosponsor id="400235" joined="2009-02-23"/>
+		<cosponsor id="400656" joined="2009-03-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="81" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2009--Introduced.<br/>Notch Fairness Act of 2009 - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to revise the formula for the computation of minimum Old Age Insurance benefits for individuals who reached age 65 in or after 1979, and to whom applies the 15-year transition period for the changes in benefit computation rules enacted in the Social Security Amendments of 1977. Sets forth a schedule of additional benefit increases for such beneficiaries (and related beneficiaries), with percentages declining from 55% to 5% and keyed to the year an individual became eligible for such benefits between 1979 and 1988. Allows such beneficiaries, in the alternative, to receive lump sum payments over four years totaling $5,000.<br/>
+	</summary>
+</bill>

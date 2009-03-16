@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="6456" updated="2009-01-09T06:10:59-05:00">
+	<status><enacted date="1221796800" datetime="2008-09-19" /></status>
+
+	<introduced date="1215662400" datetime="2008-07-10"/>
+	<titles>
+		<title type="official" as="introduced">To provide for extensions of certain authorities of the Department of State, and for other purposes.</title>
+	</titles>
+	<sponsor id="400025"/>
+	<cosponsors>
+		<cosponsor id="400344" joined="2008-07-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1215662400" datetime="2008-07-10"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1217425080" datetime="2008-07-30T10:38:00-04:00"><text>Mr. Berman moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1217425080" datetime="2008-07-30T10:38:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7336"/></action>
+		<action date="1217425080" datetime="2008-07-30T10:38:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6456.</text></action>
+		<vote date="1217425320" how="by voice vote" datetime="2008-07-30T10:42:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H7336"/></vote>
+		<action date="1217476800" datetime="2008-07-31"><text>Received in the Senate.</text></action>
+		<action date="1217563200" datetime="2008-08-01"><text>Read twice and referred to the Committee on Foreign Relations.</text></action>
+		<action date="1220846400" datetime="2008-09-08"><text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S8141"/></action>
+		<vote date="1220846400" how="by Unanimous Consent" datetime="2008-09-08" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<topresident date="1220846400" datetime="2008-09-08" ><text>Cleared for White House.</text></topresident>
+		<action date="1220932800" datetime="2008-09-09"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1221105600" datetime="2008-09-11" ><text>Presented to President.</text></topresident>
+		<signed date="1221796800" datetime="2008-09-19" ><text>Signed by President.</text></signed>
+		<enacted number="110-321" date="1221796800" datetime="2008-09-19" type="public" ><text>Became Public Law No: 110-321.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/19/2008--Public Law. (This measure has not been amended since it was passed by the House on July 30, 2008. The summary of that version is repeated here.) (Sec. 1) Amends the Foreign Service Act of 1980 to extend for one year the Secretary of State's authority to waive Foreign Service annuitant salary and full-time employment pension restrictions respecting assignment to: (1) consular posts with a substantial visa application backlog; and (2) Iraq and Afghanistan. (Sec. 2) Amends the Foreign Service Act of 1980 to permit rest and recuperation travel for Foreign Service members and family members to U.S. territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands. Specifies that required leave based upon continuous service abroad may be taken in the United States or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands. (Current law refers to the United States, its territories and possessions, or the Commonwealth of Puerto Rico.) (Sec. 3) Amends the State Department Basic Authorities Act of 1956 to specify that the Secretary may pay the subsistence expenses of Department of State special agents on authorized protective missions at or away from their duty stations. (Sec. 4) Amends the United States International Broadcasting Act of 1994 to extend grant authority for Radio Free Asia for one year. (Sec. 5) Amends the Foreign Relations Authorization Act, Fiscal Year 2003 to extend for one year the International Broadcasting Bureau personal services contracting pilot program under which U.S. citizens or aliens are hired as personal services contractors, without regard to Civil Service and classification laws.<br/>
+	</summary>
+</bill>

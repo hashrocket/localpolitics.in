@@ -1,0 +1,40 @@
+<bill session="110" type="hr" number="1241" updated="2009-01-09T10:28:38-05:00">
+	<status><vote date="1216748220" datetime="2008-07-22T14:37:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1212552000" datetime="2008-06-04"/>
+	<titles>
+		<title type="official" as="introduced">Congratulating Ensign DeCarol Davis upon serving as the valedictorian of the Coast Guard Academy's class of 2008 and becoming the first African American female to earn this honor.</title>
+		<title type="official" as="amended by house">Resolution congratulating Ensign DeCarol Davis upon her serving as the valedictorian of the Coast Guard Academy's class of 2008 and becoming the first African American to earn this honor, and encouraging the Coast Guard Academy to seek and enroll diverse candidates in the cadet corps.</title>
+	</titles>
+	<sponsor id="400402"/>
+	<cosponsors>
+		<cosponsor id="400271" joined="2008-07-22"/>
+		<cosponsor id="400098" joined="2008-06-04"/>
+		<cosponsor id="400090" joined="2008-07-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1212552000" datetime="2008-06-04"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1212638400" datetime="2008-06-05"><text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text></action>
+		<action date="1216699200" datetime="2008-07-22"><text>Subcommittee on Coast Guard and Maritime Transportation Discharged.</text></action>
+		<action date="1216747440" datetime="2008-07-22T14:24:00-04:00"><text>Mr. Oberstar moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1216747440" datetime="2008-07-22T14:24:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6742-6744"/></action>
+		<action date="1216747440" datetime="2008-07-22T14:24:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1241.</text></action>
+		<vote date="1216748220" how="by voice vote" datetime="2008-07-22T14:37:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H6742"/></vote>
+		<action date="1216748220" datetime="2008-07-22T14:37:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/22/2008--Passed House amended. Congratulates Ensign DeCarol Davis for becoming the first African-American valedictorian of the Coast Guard Academy. Encourages the Coast Guard to seek diverse Academy cadet corps candidates and to continue to train and graduate cadets of a quality that the Coast Guard needs to fulfill its missions.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="111" type="hj" number="4" updated="2009-03-07T09:33:54-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Health Protection Amendment of 2009</title>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States regarding health care.</title>
+	</titles>
+	<sponsor id="400259"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Constitution, Civil Rights, and Civil Liberties" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Constitution and constitutional amendments"/>
+		<term name="Health care coverage and access"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Constitutional Amendment - Health Protection Amendment of 2009 - Declares that health care, including care to prevent and treat illness, is the right of all U.S. citizens and necessary to ensure the strength of the nation.<br/>
+	</summary>
+</bill>

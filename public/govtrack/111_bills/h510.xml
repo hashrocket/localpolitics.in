@@ -1,0 +1,58 @@
+<bill session="111" type="h" number="510" updated="2009-03-07T10:47:36-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to require that the payment of the manufacturers' excise tax on recreational equipment be paid quarterly.</title>
+	</titles>
+	<sponsor id="400218"/>
+	<cosponsors>
+		<cosponsor id="400279" joined="2009-01-14"/>
+		<cosponsor id="412229" joined="2009-01-26"/>
+		<cosponsor id="400395" joined="2009-01-14"/>
+		<cosponsor id="400092" joined="2009-01-14"/>
+		<cosponsor id="412216" joined="2009-01-14"/>
+		<cosponsor id="412262" joined="2009-01-22"/>
+		<cosponsor id="400209" joined="2009-03-03"/>
+		<cosponsor id="412240" joined="2009-01-21"/>
+		<cosponsor id="412225" joined="2009-03-03"/>
+		<cosponsor id="400403" joined="2009-01-28"/>
+		<cosponsor id="400255" joined="2009-01-14"/>
+		<cosponsor id="400645" joined="2009-01-14"/>
+		<cosponsor id="400281" joined="2009-02-13"/>
+		<cosponsor id="412217" joined="2009-01-26"/>
+		<cosponsor id="400176" joined="2009-01-26"/>
+		<cosponsor id="400318" joined="2009-01-21"/>
+		<cosponsor id="400032" joined="2009-01-22"/>
+		<cosponsor id="412231" joined="2009-01-14"/>
+		<cosponsor id="400351" joined="2009-01-14"/>
+		<cosponsor id="400264" joined="2009-01-14"/>
+		<cosponsor id="400636" joined="2009-01-27"/>
+		<cosponsor id="400433" joined="2009-01-14"/>
+		<cosponsor id="400055" joined="2009-01-14"/>
+		<cosponsor id="400345" joined="2009-01-14"/>
+		<cosponsor id="400316" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Firearms"/>
+		<term name="Outdoor recreation"/>
+		<term name="Sales and excise taxes"/>
+		<term name="Tax administration and collection, taxpayers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/14/2009--Introduced.<br/>Amends the Internal Revenue Code to require excise taxes on recreational equipment to be due and payable on the date for filing the return for such taxes.<br/>
+	</summary>
+</bill>

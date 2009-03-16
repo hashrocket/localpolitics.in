@@ -1,0 +1,54 @@
+<bill session="111" type="h" number="27" updated="2009-03-07T09:50:50-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Fraud Prevention and Enforcement Act of 2009</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to establish additional provisions to combat waste, fraud, and abuse within the Medicare Program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400027"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Ways and Means</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Judiciary</text></action>
+		<action date="1234155600" datetime="2009-02-09"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Bankruptcy"/>
+		<term name="Criminal justice information and records"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Fraud offenses"/>
+		<term name="Government information and archives"/>
+		<term name="Government investigations"/>
+		<term name="Health facilities and institutions"/>
+		<term name="Health information and medical records"/>
+		<term name="Health technology, devices, supplies"/>
+		<term name="Investigation, prosecution, interrogation methods"/>
+		<term name="Medicaid"/>
+		<term name="Medicare"/>
+		<term name="Mental health"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Right of privacy"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Medicare Fraud Prevention and Enforcement Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act to direct the Secretary of Health and Human Services (HHS) to conduct an additional site inspection for each applicable items or services provider that applies for a provider number. Sets forth rules for the Secretary to conduct a background check on any individual or entity that applies for a Medicare provider number. Directs the Secretary to establish procedures for the registration of all applicant billing agencies and individuals. Requires the Secretary to assign a unique identification number to each registered agency and individual, which must appear on every claim for Medicare reimbursement. Amends SSA title XI to allow the Secretary to exclude from participation in any federal health care program any billing agency or individual that knowingly submitted or caused to be submitted a claim for Medicare reimbursement that it knows or should know is false or fraudulent. Requires that the information in the health integrity protection database (HIPDB) to be available to certain health care providers, suppliers, or practitioners as well as utilization and quality control peer review organizations and accreditation entities. Amends SSA title XVIII to require Medicare administrative contracts to require contractor reimbursements to the Secretary for amounts paid to excluded providers. Revises criteria for community mental health centers. Amends SSA titles XI and XVIII to deny a discharge in bankruptcy to civil monetary penalties for fraudulent activities by a health care provider or supplier, overpayments to service providers under Medicare part A and of benefits under Medicare part B (Supplementary Medical Insurance), and past-due obligations arising from breach of a scholarship or loan contract. Amends SSA title XI to prescribe a criminal penalty for illegal distribution of a Medicare or Medicaid beneficiary identification or provider number with intent to defraud. Amends the federal criminal code to: (1) prescribe criminal penalties for knowing, unauthorized use of information in the HIPDB; and (2) provide for the treatment of certain acts involving federal health care programs federal health care offenses. Authorizes any criminal investigator of the Office of Inspector General of HHS to: (1) obtain and execute any warrant or other process issued under federal authority; and (2) make warrantless arrests in specified circumstances. Requires all claims forms developed or used by the Secretary for Medicare reimbursement to accommodate the use of universal product numbers (UPNs, or bar codes) for a UPN-covered item, and all claims for such an item to contain the UPN.<br/>
+	</summary>
+</bill>

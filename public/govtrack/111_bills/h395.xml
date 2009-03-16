@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="395" updated="2009-03-07T10:34:09-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Stop the Congressional COLA Act</title>
+		<title type="official" as="introduced">To prevent Members of Congress from receiving any automatic pay adjustment in 2010.</title>
+	</titles>
+	<sponsor id="400055"/>
+	<cosponsors>
+		<cosponsor id="400656" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to House House Administration</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to House Oversight and Government Reform</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="156" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Inflation and prices"/>
+		<term name="Members of Congress"/>
+		<term name="Wages and earnings"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

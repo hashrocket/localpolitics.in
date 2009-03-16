@@ -1,0 +1,33 @@
+<bill session="110" type="sr" number="502" updated="2009-01-09T21:00:56-05:00">
+	<status><vote date="1222056000" datetime="2008-09-22" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1207195200" datetime="2008-04-03"/>
+	<titles>
+		<title type="official" as="introduced">A resolution commemorating the 25th anniversary of the Space Foundation.</title>
+	</titles>
+	<sponsor id="300003"/>
+	<cosponsors>
+		<cosponsor id="400619" joined="2008-07-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1207195200" datetime="2008-04-03"><text>Sponsor introductory remarks on measure. (CR S2485)</text></action>
+		<action date="1207195200" datetime="2008-04-03"><text>Referred to the Committee on Commerce, Science, and Transportation.</text><reference label="text of measure as introduced" ref="CR S2485"/></action>
+		<action date="1222056000" datetime="2008-09-22"><text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S9179-9185"/></action>
+		<vote date="1222056000" how="by Unanimous Consent" datetime="2008-09-22" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S9182"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/22/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Recognizes the contributions made by the Space Foundation and commemorates it's 25 years of excellence and support to the nation. 
+	</summary>
+</bill>

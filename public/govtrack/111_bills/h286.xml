@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="286" updated="2009-03-07T10:21:14-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Dayton Aviation Heritage Preservation Act of 1992 to add sites to the Dayton Aviation Heritage National Historical Park, and for other purposes.</title>
+	</titles>
+	<sponsor id="400411"/>
+	<cosponsors>
+		<cosponsor id="400352" joined="2009-01-07"/>
+		<cosponsor id="412265" joined="2009-01-07"/>
+		<cosponsor id="412228" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Aviation and airports"/>
+		<term name="Historic sites and heritage areas"/>
+		<term name="Industrial facilities"/>
+		<term name="Land transfers"/>
+		<term name="Museums, exhibitions, cultural centers"/>
+		<term name="Ohio"/>
+		<term name="Parks, recreation areas, trails"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Amends the Dayton Aviation Heritage Preservation Act of 1992 to provide for the acquisition and inclusion of certain additional sites to the Dayton Aviation Heritage National Historical Park. Authorizes the Secretary of the Interior to make grants to partners of the Park, including the Aviation Trail, Inc., the Ohio Historical Society, and Dayton History, for projects not requiring federal involvement other than providing financial assistance, identifying the specific partner grantee and the specific project. Limits projects funded through these grants to construction and development on non-federal property within the boundaries of the Park. Instructs that any project funded by such grants support the purposes of the Park, be consistent with the Park's general management plan, and enhance public use and enjoyment of the park. Removes the Neil Armstrong Air &amp;amp; Space Museum, Wapakoneta, Ohio, from inclusion in the boundaries of the the National Aviation Heritage Area.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="581" updated="2009-03-07T10:55:52-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="official" as="introduced">To eliminate automatic pay adjustments for Members of Congress, and for other purposes.</title>
+	</titles>
+	<sponsor id="412256"/>
+	<cosponsors>
+		<cosponsor id="412317" joined="2009-02-12"/>
+		<cosponsor id="400076" joined="2009-01-15"/>
+		<cosponsor id="412302" joined="2009-01-15"/>
+		<cosponsor id="412294" joined="2009-01-15"/>
+		<cosponsor id="400154" joined="2009-01-15"/>
+		<cosponsor id="400244" joined="2009-01-22"/>
+		<cosponsor id="400260" joined="2009-01-15"/>
+		<cosponsor id="412226" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House House Administration</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House Oversight and Government Reform</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="346" />
+		<bill relation="unknown" session="111" type="h" number="566" />
+		<bill relation="unknown" session="111" type="s" number="102" />
+		<bill relation="unknown" session="111" type="s" number="317" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Members of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

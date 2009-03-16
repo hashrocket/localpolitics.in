@@ -1,0 +1,258 @@
+<bill session="110" type="h" number="3" updated="2009-01-08T16:41:00-05:00">
+	<status><vote date="1168542600" datetime="2007-01-11T15:10:00-05:00" where="h" result="pass" how="roll" roll="20"/></status>
+
+	<introduced date="1167973200" datetime="2007-01-05"/>
+	<titles>
+		<title type="short" as="introduced">Stem Cell Research Enhancement Act of 2007</title>
+		<title type="short" as="passed house">Stem Cell Research Enhancement Act of 2007</title>
+		<title type="official" as="introduced">To amend the Public Health Service Act to provide for human embryonic stem cell research.</title>
+	</titles>
+	<sponsor id="400101"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2007-01-05"/>
+		<cosponsor id="400661" joined="2007-01-05"/>
+		<cosponsor id="400253" joined="2007-01-05"/>
+		<cosponsor id="400041" joined="2007-01-05"/>
+		<cosponsor id="400133" joined="2007-01-05"/>
+		<cosponsor id="400222" joined="2007-01-05"/>
+		<cosponsor id="400128" joined="2007-01-05"/>
+		<cosponsor id="400620" joined="2007-01-05"/>
+		<cosponsor id="400031" joined="2007-01-05"/>
+		<cosponsor id="412229" joined="2007-01-05"/>
+		<cosponsor id="400073" joined="2007-01-05"/>
+		<cosponsor id="400280" joined="2007-01-09"/>
+		<cosponsor id="400199" joined="2007-01-05"/>
+		<cosponsor id="400337" joined="2007-01-05"/>
+		<cosponsor id="400227" joined="2007-01-05"/>
+		<cosponsor id="400414" joined="2007-01-05"/>
+		<cosponsor id="400364" joined="2007-01-09"/>
+		<cosponsor id="400257" joined="2007-01-05"/>
+		<cosponsor id="400289" joined="2007-01-05"/>
+		<cosponsor id="400413" joined="2007-01-05"/>
+		<cosponsor id="400616" joined="2007-01-05"/>
+		<cosponsor id="400027" joined="2007-01-05"/>
+		<cosponsor id="400160" joined="2007-01-05"/>
+		<cosponsor id="400155" joined="2007-01-05"/>
+		<cosponsor id="400263" joined="2007-01-05"/>
+		<cosponsor id="400618" joined="2007-01-05"/>
+		<cosponsor id="400407" joined="2007-01-05"/>
+		<cosponsor id="400149" joined="2007-01-05"/>
+		<cosponsor id="400092" joined="2007-01-05"/>
+		<cosponsor id="400080" joined="2007-01-05"/>
+		<cosponsor id="400657" joined="2007-01-05"/>
+		<cosponsor id="400162" joined="2007-01-05"/>
+		<cosponsor id="412221" joined="2007-01-09"/>
+		<cosponsor id="400102" joined="2007-01-05"/>
+		<cosponsor id="400660" joined="2007-01-05"/>
+		<cosponsor id="400282" joined="2007-01-05"/>
+		<cosponsor id="412224" joined="2007-01-05"/>
+		<cosponsor id="400302" joined="2007-01-05"/>
+		<cosponsor id="400122" joined="2007-01-05"/>
+		<cosponsor id="400403" joined="2007-01-05"/>
+		<cosponsor id="400246" joined="2007-01-05"/>
+		<cosponsor id="400333" joined="2007-01-05"/>
+		<cosponsor id="400295" joined="2007-01-05"/>
+		<cosponsor id="400623" joined="2007-01-05"/>
+		<cosponsor id="400430" joined="2007-01-05"/>
+		<cosponsor id="400129" joined="2007-01-05"/>
+		<cosponsor id="400170" joined="2007-01-05"/>
+		<cosponsor id="412195" joined="2007-01-05"/>
+		<cosponsor id="400065" joined="2007-01-05"/>
+		<cosponsor id="400332" joined="2007-01-05"/>
+		<cosponsor id="400647" joined="2007-01-05"/>
+		<cosponsor id="400443" joined="2007-01-05"/>
+		<cosponsor id="412215" joined="2007-01-05"/>
+		<cosponsor id="400198" joined="2007-01-05"/>
+		<cosponsor id="400268" joined="2007-01-05"/>
+		<cosponsor id="400063" joined="2007-01-05"/>
+		<cosponsor id="400379" joined="2007-01-05"/>
+		<cosponsor id="400361" joined="2007-01-05"/>
+		<cosponsor id="412192" joined="2007-01-05"/>
+		<cosponsor id="400124" joined="2007-01-05"/>
+		<cosponsor id="400323" joined="2007-01-05"/>
+		<cosponsor id="400239" joined="2007-01-05"/>
+		<cosponsor id="400003" joined="2007-01-05"/>
+		<cosponsor id="400423" joined="2007-01-05"/>
+		<cosponsor id="412231" joined="2007-01-05"/>
+		<cosponsor id="400274" joined="2007-01-05"/>
+		<cosponsor id="400300" joined="2007-01-05"/>
+		<cosponsor id="412189" joined="2007-01-05"/>
+		<cosponsor id="400084" joined="2007-01-09"/>
+		<cosponsor id="412214" joined="2007-01-05"/>
+		<cosponsor id="400409" joined="2007-01-05"/>
+		<cosponsor id="400370" joined="2007-01-05"/>
+		<cosponsor id="400396" joined="2007-01-05"/>
+		<cosponsor id="400384" joined="2007-01-05"/>
+		<cosponsor id="400184" joined="2007-01-05"/>
+		<cosponsor id="400152" joined="2007-01-09"/>
+		<cosponsor id="400412" joined="2007-01-05"/>
+		<cosponsor id="400377" joined="2007-01-05"/>
+		<cosponsor id="400355" joined="2007-01-05"/>
+		<cosponsor id="412208" joined="2007-01-05"/>
+		<cosponsor id="400262" joined="2007-01-05"/>
+		<cosponsor id="400130" joined="2007-01-05"/>
+		<cosponsor id="400249" joined="2007-01-05"/>
+		<cosponsor id="400437" joined="2007-01-05"/>
+		<cosponsor id="412197" joined="2007-01-05"/>
+		<cosponsor id="400030" joined="2007-01-10"/>
+		<cosponsor id="400312" joined="2007-01-05"/>
+		<cosponsor id="412198" joined="2007-01-05"/>
+		<cosponsor id="412188" joined="2007-01-05"/>
+		<cosponsor id="400007" joined="2007-01-05"/>
+		<cosponsor id="400245" joined="2007-01-05"/>
+		<cosponsor id="400231" joined="2007-01-05"/>
+		<cosponsor id="400402" joined="2007-01-05"/>
+		<cosponsor id="400417" joined="2007-01-05"/>
+		<cosponsor id="400663" joined="2007-01-05"/>
+		<cosponsor id="400352" joined="2007-01-05"/>
+		<cosponsor id="400339" joined="2007-01-05"/>
+		<cosponsor id="400387" joined="2007-01-05"/>
+		<cosponsor id="400324" joined="2007-01-05"/>
+		<cosponsor id="400648" joined="2007-01-05"/>
+		<cosponsor id="400098" joined="2007-01-05"/>
+		<cosponsor id="400386" joined="2007-01-05"/>
+		<cosponsor id="400275" joined="2007-01-05"/>
+		<cosponsor id="400347" joined="2007-01-05"/>
+		<cosponsor id="400230" joined="2007-01-05"/>
+		<cosponsor id="400416" joined="2007-01-05"/>
+		<cosponsor id="400008" joined="2007-01-05"/>
+		<cosponsor id="400356" joined="2007-01-05"/>
+		<cosponsor id="412187" joined="2007-01-05"/>
+		<cosponsor id="412223" joined="2007-01-05"/>
+		<cosponsor id="400048" joined="2007-01-05"/>
+		<cosponsor id="412209" joined="2007-01-05"/>
+		<cosponsor id="400442" joined="2007-01-05"/>
+		<cosponsor id="400044" joined="2007-01-05"/>
+		<cosponsor id="400051" joined="2007-01-09"/>
+		<cosponsor id="412193" joined="2007-01-05"/>
+		<cosponsor id="400308" joined="2007-01-05"/>
+		<cosponsor id="412199" joined="2007-01-05"/>
+		<cosponsor id="400631" joined="2007-01-05"/>
+		<cosponsor id="400001" joined="2007-01-05"/>
+		<cosponsor id="400103" joined="2007-01-05"/>
+		<cosponsor id="400110" joined="2007-01-05"/>
+		<cosponsor id="400087" joined="2007-01-05"/>
+		<cosponsor id="412211" joined="2007-01-05"/>
+		<cosponsor id="400270" joined="2007-01-05"/>
+		<cosponsor id="400039" joined="2007-01-05"/>
+		<cosponsor id="400259" joined="2007-01-05"/>
+		<cosponsor id="400166" joined="2007-01-05"/>
+		<cosponsor id="400436" joined="2007-01-05"/>
+		<cosponsor id="400346" joined="2007-01-05"/>
+		<cosponsor id="400237" joined="2007-01-05"/>
+		<cosponsor id="400140" joined="2007-01-05"/>
+		<cosponsor id="400070" joined="2007-01-05"/>
+		<cosponsor id="400570" joined="2007-01-05"/>
+		<cosponsor id="400013" joined="2007-01-05"/>
+		<cosponsor id="400383" joined="2007-01-05"/>
+		<cosponsor id="412240" joined="2007-01-05"/>
+		<cosponsor id="412222" joined="2007-01-05"/>
+		<cosponsor id="400422" joined="2007-01-05"/>
+		<cosponsor id="412204" joined="2007-01-05"/>
+		<cosponsor id="400426" joined="2007-01-05"/>
+		<cosponsor id="400653" joined="2007-01-05"/>
+		<cosponsor id="400195" joined="2007-01-05"/>
+		<cosponsor id="400251" joined="2007-01-05"/>
+		<cosponsor id="400178" joined="2007-01-05"/>
+		<cosponsor id="400026" joined="2007-01-05"/>
+		<cosponsor id="400378" joined="2007-01-05"/>
+		<cosponsor id="412232" joined="2007-01-05"/>
+		<cosponsor id="400350" joined="2007-01-05"/>
+		<cosponsor id="400111" joined="2007-01-05"/>
+		<cosponsor id="400360" joined="2007-01-05"/>
+		<cosponsor id="400366" joined="2007-01-05"/>
+		<cosponsor id="400255" joined="2007-01-05"/>
+		<cosponsor id="400021" joined="2007-01-05"/>
+		<cosponsor id="412239" joined="2007-01-05"/>
+		<cosponsor id="400269" joined="2007-01-05"/>
+		<cosponsor id="400074" joined="2007-01-05"/>
+		<cosponsor id="400118" joined="2007-01-09"/>
+		<cosponsor id="400638" joined="2007-01-05"/>
+		<cosponsor id="412200" joined="2007-01-05"/>
+		<cosponsor id="400081" joined="2007-01-05"/>
+		<cosponsor id="400232" joined="2007-01-05"/>
+		<cosponsor id="400189" joined="2007-01-05"/>
+		<cosponsor id="400125" joined="2007-01-05"/>
+		<cosponsor id="400193" joined="2007-01-05"/>
+		<cosponsor id="400415" joined="2007-01-05"/>
+		<cosponsor id="412236" joined="2007-01-05"/>
+		<cosponsor id="400009" joined="2007-01-05"/>
+		<cosponsor id="412186" joined="2007-01-05"/>
+		<cosponsor id="400093" joined="2007-01-05"/>
+		<cosponsor id="400326" joined="2007-01-05"/>
+		<cosponsor id="400371" joined="2007-01-05"/>
+		<cosponsor id="412228" joined="2007-01-05"/>
+		<cosponsor id="412212" joined="2007-01-05"/>
+		<cosponsor id="400201" joined="2007-01-05"/>
+		<cosponsor id="400043" joined="2007-01-05"/>
+		<cosponsor id="400109" joined="2007-01-05"/>
+		<cosponsor id="400185" joined="2007-01-05"/>
+		<cosponsor id="400641" joined="2007-01-05"/>
+		<cosponsor id="400047" joined="2007-01-05"/>
+		<cosponsor id="412220" joined="2007-01-05"/>
+		<cosponsor id="400283" joined="2007-01-05"/>
+		<cosponsor id="400204" joined="2007-01-05"/>
+		<cosponsor id="400097" joined="2007-01-05"/>
+		<cosponsor id="400310" joined="2007-01-05"/>
+		<cosponsor id="400090" joined="2007-01-05"/>
+		<cosponsor id="400033" joined="2007-01-05"/>
+		<cosponsor id="400042" joined="2007-01-05"/>
+		<cosponsor id="400208" joined="2007-01-05"/>
+		<cosponsor id="400218" joined="2007-01-05"/>
+		<cosponsor id="400240" joined="2007-01-05"/>
+		<cosponsor id="400438" joined="2007-01-05"/>
+		<cosponsor id="412219" joined="2007-01-05"/>
+		<cosponsor id="400215" joined="2007-01-05"/>
+		<cosponsor id="400334" joined="2007-01-05"/>
+		<cosponsor id="400024" joined="2007-01-05"/>
+		<cosponsor id="400238" joined="2007-01-05"/>
+		<cosponsor id="400363" joined="2007-01-05"/>
+		<cosponsor id="400025" joined="2007-01-05"/>
+		<cosponsor id="400301" joined="2007-01-05"/>
+		<cosponsor id="400345" joined="2007-01-05"/>
+		<cosponsor id="400163" joined="2007-01-05"/>
+		<cosponsor id="400062" joined="2007-01-05"/>
+		<cosponsor id="412194" joined="2007-01-05"/>
+		<cosponsor id="400011" joined="2007-01-05"/>
+		<cosponsor id="400425" joined="2007-01-05"/>
+		<cosponsor id="400233" joined="2007-01-05"/>
+		<cosponsor id="400179" joined="2007-01-05"/>
+		<cosponsor id="400100" joined="2007-01-05"/>
+		<cosponsor id="400639" joined="2007-01-05"/>
+		<cosponsor id="400349" joined="2007-01-05"/>
+		<cosponsor id="400309" joined="2007-01-05"/>
+		<cosponsor id="400186" joined="2007-01-05"/>
+		<cosponsor id="400278" joined="2007-01-05"/>
+		<cosponsor id="400067" joined="2007-01-05"/>
+		<cosponsor id="412233" joined="2007-01-05"/>
+		<cosponsor id="400075" joined="2007-01-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1167973200" datetime="2007-01-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1168526100" datetime="2007-01-11T10:35:00-05:00"><text>Considered pursuant to H. Res. 6.</text><reference label="consideration" ref="CR H349-392"/></action>
+		<action date="1168526100" datetime="2007-01-11T10:35:00-05:00"><text>DEBATE - Pursuant to the provisions of H. Res. 6, the House proceeded with three hours of debate on H.R. 3.</text></action>
+		<action date="1168540020" datetime="2007-01-11T14:27:00-05:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H389"/></action>
+		<action date="1168540020" datetime="2007-01-11T14:27:00-05:00"><text>Mr. Burgess moved to recommit with instructions to Energy and Commerce.</text><reference label="consideration" ref="CR H389-390"/><reference label="text" ref="CR H389-390"/></action>
+		<action date="1168540080" datetime="2007-01-11T14:28:00-05:00"><text>Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Burgess motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment inserting provisions preventing federal support for human cloning.</text></action>
+		<action date="1168540680" datetime="2007-01-11T14:38:00-05:00"><text>The previous question on the motion to recommit with instructions was ordered without objection.</text><reference label="consideration" ref="CR H391"/></action>
+		<action date="1168542120" datetime="2007-01-11T15:02:00-05:00"><text>On motion to recommit with instructions Failed by the Yeas and Nays: 189 - 238 (Roll no. 19).</text></action>
+		<vote date="1168542600" how="roll" roll="20" datetime="2007-01-11T15:10:00-05:00" where="h" type="vote" result="pass" ><text>On passage Passed by recorded vote: 253 - 174 (Roll no. 20).</text><reference label="text" ref="CR H349"/></vote>
+		<action date="1168491600" datetime="2007-01-11"><text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar under="General Orders" number="6" date="1168578000" datetime="2007-01-12" calendar="Senate Legislative" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 6.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/11/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Stem Cell Research Enhancement Act of 2007 - Amends the Public Health Service Act to require the Secretary of Health and Human Services to conduct and support research that utilizes human embryonic stem cells, regardless of the date on which the stem cells were derived from a human embryo, provided such embryos: (1) have been donated from in vitro fertilization clinics; (2) were created for the purposes of fertility treatment; (3) were in excess of the needs of the individuals seeking such treatment and would never be implanted in a woman and would otherwise be discarded (as determined in consultation with the individuals seeking fertility treatment); and (4) were donated by such individuals with written informed consent and without any financial or other inducements. Requires the Secretary to: (1) issue final guidelines to carry out this Act within 60 days; and (2) submit annual reports on activities and research conducted under this Act.<br/>
+	</summary>
+</bill>

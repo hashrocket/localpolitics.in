@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="248" updated="2009-03-07T10:16:53-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Law Enforcement Officers Flag Memorial Act</title>
+		<title type="official" as="introduced">To provide Capitol-flown flags to the families of deceased law enforcement officers.</title>
+	</titles>
+	<sponsor id="400160"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Congressional tributes"/>
+		<term name="Law enforcement officers"/>
+		<term name="Monuments and memorials"/>
+		<term name="National symbols"/>
+		<term name="U.S. Capitol"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Law Enforcement Officers Flag Memorial Act - Allows the family of a deceased law enforcement officer to request, and the Attorney General to provide, a U.S. flag flown over the Capitol in honor of the officer, to be supplied by the Architect of the Capitol. Directs that the family pay the cost of such flag, including shipping. 
+	</summary>
+</bill>

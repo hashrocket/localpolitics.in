@@ -1,0 +1,48 @@
+<bill session="110" type="h" number="2868" updated="2009-01-08T22:49:27-05:00">
+	<status><vote date="1193196360" datetime="2007-10-23T12:26:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1182830400" datetime="2007-06-26"/>
+	<titles>
+		<title type="official" as="introduced">To eliminate the exemption from State regulation for certain securities designated by national securities exchanges.</title>
+	</titles>
+	<sponsor id="400271"/>
+	<cosponsors>
+		<cosponsor id="400219" joined="2007-06-26"/>
+		<cosponsor id="400409" joined="2007-06-26"/>
+		<cosponsor id="400416" joined="2007-10-10"/>
+		<cosponsor id="400070" joined="2007-07-19"/>
+		<cosponsor id="400426" joined="2007-07-19"/>
+		<cosponsor id="400251" joined="2007-06-26"/>
+		<cosponsor id="400074" joined="2007-06-26"/>
+		<cosponsor id="400093" joined="2007-06-26"/>
+		<cosponsor id="400641" joined="2007-10-10"/>
+		<cosponsor id="400139" joined="2007-06-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1182830400" datetime="2007-06-26"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1190088000" datetime="2007-09-18"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1190088000" datetime="2007-09-18" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1192478520" datetime="2007-10-15T17:02:00-04:00"><text>Reported by the Committee on Financial Services. H. Rept. 110-380.</text></action>
+		<calendar number="237" date="1192478520" datetime="2007-10-15T17:02:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 237.</text></calendar>
+		<action date="1193195460" datetime="2007-10-23T12:11:00-04:00"><text>Mr. Meeks (NY) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1193195520" datetime="2007-10-23T12:12:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11866-11868"/></action>
+		<action date="1193195520" datetime="2007-10-23T12:12:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2868.</text></action>
+		<vote date="1193196360" how="by voice vote" datetime="2007-10-23T12:26:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H11866"/></vote>
+		<action date="1193198400" datetime="2007-10-24"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/23/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends the Securities Act of 1933, with respect to exclusive federal registration of nationally traded securities, to exclude from exclusive federal regulation, and thus permit state regulation of, certain securities any one of specified securities exchanges has listed (or authorized for listing) in a tier or segment for uncovered securities, according to standards for designating such a tier or segment the exchange has adopted.<br/>
+	</summary>
+</bill>

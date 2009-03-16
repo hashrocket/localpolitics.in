@@ -1,0 +1,48 @@
+<bill session="110" type="sr" number="434" updated="2009-01-09T20:52:31-05:00">
+	<status><vote date="1202187600" datetime="2008-02-05" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1201582800" datetime="2008-01-29"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating the week of February 10-16, 2008, as &quot;National Drug Prevention and Education Week&quot;.</title>
+	</titles>
+	<sponsor id="300008"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="2008-01-29"/>
+		<cosponsor id="300005" joined="2008-01-29"/>
+		<cosponsor id="300060" joined="2008-01-29"/>
+		<cosponsor id="400619" joined="2008-01-29"/>
+		<cosponsor id="300092" joined="2008-01-29"/>
+		<cosponsor id="300083" joined="2008-01-29"/>
+		<cosponsor id="300035" joined="2008-01-31"/>
+		<cosponsor id="300048" joined="2008-01-29"/>
+		<cosponsor id="300027" joined="2008-01-29"/>
+		<cosponsor id="412246" joined="2008-01-29"/>
+		<cosponsor id="300036" joined="2008-01-29"/>
+		<cosponsor id="300006" joined="2008-02-05"/>
+		<cosponsor id="300095" joined="2008-02-04"/>
+		<cosponsor id="400194" joined="2008-02-05"/>
+		<cosponsor id="300049" joined="2008-02-04"/>
+		<cosponsor id="300064" joined="2008-01-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1201582800" datetime="2008-01-29"><text>Sponsor introductory remarks on measure. (CR S450)</text></action>
+		<action date="1201582800" datetime="2008-01-29"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S449-450"/></action>
+		<action date="1202187600" datetime="2008-02-05"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S671"/></action>
+		<vote date="1202187600" how="by Unanimous Consent" datetime="2008-02-05" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S671"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/5/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the week of February 10-February 16, 2008, as National Drug Prevention and Education Week. Urges communities, schools, parents, and youth to carry out prevention and education activities to reduce and stop drug use.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="244" updated="2009-03-07T10:16:26-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="official" as="introduced">To provide for the security of critical energy infrastructure.</title>
+	</titles>
+	<sponsor id="400160"/>
+	<cosponsors>
+		<cosponsor id="400207" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Energy"/>
+		<term name="Disaster relief and insurance"/>
+		<term name="Emergency planning and evacuation"/>
+		<term name="Energy storage, supplies, demand"/>
+		<term name="Government investigations"/>
+		<term name="Government trust funds"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Instructs the Secretary of Energy to report to Congress on the Secretary's review of the fuel supply plan components of state evacuation plans and the National Capital region. Prescribes report contents.<br/>Authorizes the Secretary, during any federally declared emergency or disaster, to provide direct assistance to private sector entities that operate critical energy infrastructure, including refineries.<br/>Allows such assistance to include emergency preparation and recovery assistance, particularly power generation equipment, other protective or emergency recovery equipment, assistance to restore access to water, power, or other raw materials, and transportation and housing for critical employees.<br/>Establishes in the Treasury the Critical Energy Assurance Account.<br/>
+	</summary>
+</bill>

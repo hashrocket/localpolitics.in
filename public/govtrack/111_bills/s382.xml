@@ -1,0 +1,36 @@
+<bill session="111" type="s" number="382" updated="2009-03-07T14:18:59-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="short" as="introduced">MediFair Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to improve the provision of items and services provided to Medicare beneficiaries residing in States with more cost-effective health care delivery systems.</title>
+	</titles>
+	<sponsor id="300076"/>
+	<cosponsors>
+		<cosponsor id="300018" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="902" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care quality"/>
+		<term name="Medicare"/>
+		<term name="Medicare Payment Advisory Commission"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Introduced.<br/>MediFair Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act (SSA) to direct the Secretary of Health and Human Services to establish a system for making adjustments to the amount of payment made to entities and individuals for items and services provided under the original Medicare fee-for-service program under parts A (Hospital Insurance) and B (Supplementary Medical Insurance). Requires such adjustments in order to make the state average per beneficiary amount equal to the national average per beneficiary amount. Directs the Medicare Payment Advisory Commission (MEDPAC) to develop recommendations on policies and practices that would encourage: (1) healthy outcomes and quality care under the Medicare program in states with respect to which payments are reduced under such system; and (2) the efficient use of payments made under the Medicare program in such states. 
+	</summary>
+</bill>

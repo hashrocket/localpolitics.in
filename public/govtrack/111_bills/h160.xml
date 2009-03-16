@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="160" updated="2009-03-07T10:06:42-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Social Security for Americans Only Act of 2009</title>
+		<title type="official" as="introduced">To amend title II of the Social Security Act and the Internal Revenue Code of 1986 to provide prospectively that wages earned, and self-employment income derived, by individuals who are not citizens or nationals of the United States shall not be credited for coverage under the old-age, survivors, and disability insurance program under such title, and to provide the President with authority to enter into agreements with other nations taking into account such limitation on crediting of wages and self-employment income.</title>
+	</titles>
+	<sponsor id="400311"/>
+	<cosponsors>
+		<cosponsor id="400017" joined="2009-01-06"/>
+		<cosponsor id="400209" joined="2009-01-06"/>
+		<cosponsor id="400145" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR E10)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Foreign labor"/>
+		<term name="International law and treaties"/>
+		<term name="Social security and elderly assistance"/>
+		<term name="Wages and earnings"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Social Security for Americans Only Act of 2009 - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act (SSA) to: (1) prohibit the wages earned, and self-employment income derived, by individuals who are not U.S. citizens or nationals from being credited for coverage under the OASDI program; and (2) authorize the President to enter into (totalization) agreements with other nations to resolve entitlement and participation questions about their respective social security systems, taking into account such limitation on the crediting of wages and self-employment. 
+	</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="111" type="h" number="534" updated="2009-03-07T10:50:26-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="short" as="introduced">Responsible Government Empowerment Act of 2009</title>
+		<title type="official" as="introduced">To improve the ability of Congress to set spending priorities and enforce spending limits.</title>
+	</titles>
+	<sponsor id="400441"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to House Rules</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Referred to House Budget</text></action>
+		<action date="1235451600" datetime="2009-02-24"><committee name="House Oversight and Government Reform"/><text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="Government Management, Organization, and Procurement" activity="Referral" />
+		<committee name="House Rules" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Budget" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Advisory bodies"/>
+		<term name="Appropriations"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Government information and archives"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Legislative rules and procedure"/>
+		<term name="Performance measurement"/>
+		<term name="State and local government operations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,69 @@
+<bill session="111" type="s" number="391" updated="2009-03-07T14:20:02-05:00">
+	<status><introduced date="1233810000" datetime="2009-02-05"/></status>
+
+	<introduced date="1233810000" datetime="2009-02-05"/>
+	<titles>
+		<title type="short" as="introduced">Healthy Americans Act</title>
+		<title type="official" as="introduced">A bill to provide affordable, guaranteed private health coverage that will make Americans healthier and can never be taken away.</title>
+	</titles>
+	<sponsor id="300100"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2009-02-05"/>
+		<cosponsor id="300007" joined="2009-02-05"/>
+		<cosponsor id="412325" joined="2009-02-05"/>
+		<cosponsor id="300002" joined="2009-02-05"/>
+		<cosponsor id="300018" joined="2009-02-05"/>
+		<cosponsor id="300067" joined="2009-02-05"/>
+		<cosponsor id="300030" joined="2009-02-05"/>
+		<cosponsor id="300047" joined="2009-02-05"/>
+		<cosponsor id="300093" joined="2009-02-05"/>
+		<cosponsor id="300078" joined="2009-02-05"/>
+		<cosponsor id="300063" joined="2009-02-05"/>
+		<cosponsor id="300092" joined="2009-02-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1233810000" datetime="2009-02-05"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Advisory bodies"/>
+		<term name="Aging"/>
+		<term name="Child health"/>
+		<term name="Civil actions and liability"/>
+		<term name="Comprehensive health care"/>
+		<term name="Disability assistance"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Government trust funds"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Health care quality"/>
+		<term name="Health facilities and institutions"/>
+		<term name="Health information and medical records"/>
+		<term name="Health personnel"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Health promotion and preventive care"/>
+		<term name="Income tax credits"/>
+		<term name="Income tax deductions"/>
+		<term name="Income tax exclusion"/>
+		<term name="Long-term, rehabilitative, and terminal care"/>
+		<term name="Medicaid"/>
+		<term name="Medical education"/>
+		<term name="Medicare"/>
+		<term name="Prescription drugs"/>
+		<term name="State and local finance"/>
+		<term name="State and local government operations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="110" type="sr" number="87" updated="2009-01-09T20:09:16-05:00">
+	<status><vote date="1186027200" datetime="2007-08-02" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1172552400" datetime="2007-02-27"/>
+	<titles>
+		<title type="official" as="introduced">A resolution expressing the sense of the Senate that the President should declare lung cancer a public health priority and should implement a comprehensive interagency program to reduce the lung cancer mortality rate by at least 50 percent by 2015.</title>
+	</titles>
+	<sponsor id="300050"/>
+	<cosponsors>
+		<cosponsor id="300013" joined="2007-02-27"/>
+		<cosponsor id="400050" joined="2007-07-09"/>
+		<cosponsor id="300022" joined="2007-02-27"/>
+		<cosponsor id="300043" joined="2007-02-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1172552400" datetime="2007-02-27"><text>Referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S2283-2284"/></action>
+		<action date="1186027200" datetime="2007-08-02"><text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S10842"/></action>
+		<vote date="1186027200" how="by Unanimous Consent" datetime="2007-08-02" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text as passed Senate" ref="CR S10842"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/2/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Urges the President to: (1) declare lung cancer a public health priority and immediately lead a coordinated effort to reduce the mortality rate of lung cancer by 50% by 2015; (2) direct the Secretary of Health and Human Services to increase funding for lung cancer research; (3) direct the Secretary of Defense to develop a lung cancer screening and disease management program among members of the Armed Forces and veterans and diagnostic programs for the early detection of lung cancer; (4) appoint the Lung Cancer Scientific and Medical Advisory Committee; and (5) convene a National Lung Cancer Public Health Policy Board to oversee and coordinate all efforts to reduce the lung cancer mortality rate.<br/>
+	</summary>
+</bill>

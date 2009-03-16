@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="571" updated="2009-03-07T10:54:41-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to promote charitable donations of qualified vehicles.</title>
+	</titles>
+	<sponsor id="400102"/>
+	<cosponsors>
+		<cosponsor id="412224" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax deductions"/>
+		<term name="Motor vehicles"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Amends the Internal Revenue Code with respect to the charitable tax deduction for contributions of qualified vehicles (i.e., highway motor vehicles, boats, or airplanes) to: (1) set forth revised acknowledgment requirements for vehicles valued at $2,500 or less and vehicles valued at more than $2,500; and (2) revise the penalty for submitting a fraudulent acknowledgment.<br/>
+	</summary>
+</bill>

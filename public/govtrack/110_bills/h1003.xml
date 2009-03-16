@@ -1,0 +1,50 @@
+<bill session="110" type="h" number="1003" updated="2009-01-08T18:55:38-05:00">
+	<status><enacted date="1178078400" datetime="2007-05-02" /></status>
+
+	<introduced date="1171256400" datetime="2007-02-12"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Foreign Affairs Reform and Restructuring Act of 1998 to reauthorize the United States Advisory Commission on Public Diplomacy.</title>
+	</titles>
+	<sponsor id="400423"/>
+	<cosponsors>
+		<cosponsor id="400430" joined="2007-02-13"/>
+		<cosponsor id="400379" joined="2007-02-13"/>
+		<cosponsor id="400433" joined="2007-02-13"/>
+		<cosponsor id="400055" joined="2007-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1171256400" datetime="2007-02-12"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1171515600" datetime="2007-02-15"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1171515600" datetime="2007-02-15" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1173842520" datetime="2007-03-13T12:22:00-04:00"><text>Ms. Watson moved to suspend the rules and pass the bill.</text></action>
+		<action date="1173842580" datetime="2007-03-13T12:23:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2444-2445"/></action>
+		<action date="1173842580" datetime="2007-03-13T12:23:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1003.</text></action>
+		<vote date="1173842880" how="by voice vote" datetime="2007-03-13T12:28:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H2444"/></vote>
+		<action date="1173844800" datetime="2007-03-14"><text>Received in the Senate.</text></action>
+		<action date="1174276800" datetime="2007-03-19"><text>Read twice and referred to the Committee on Foreign Relations.</text></action>
+		<calendar date="1175054400" datetime="2007-03-28" ><text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1176350400" datetime="2007-04-12"><text>Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-55.</text></action>
+		<calendar under="General Orders" number="117" date="1176350400" datetime="2007-04-12" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 117.</text></calendar>
+		<vote date="1176868800" how="by Unanimous Consent" datetime="2007-04-18" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S4722"/></vote>
+		<topresident date="1176868800" datetime="2007-04-18" ><text>Cleared for White House.</text></topresident>
+		<action date="1176955200" datetime="2007-04-19"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1177387200" datetime="2007-04-24" ><text>Presented to President.</text></topresident>
+		<signed date="1178078400" datetime="2007-05-02" ><text>Signed by President.</text></signed>
+		<enacted number="110-21" date="1178078400" datetime="2007-05-02" type="public" ><text>Became Public Law No: 110-21.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/2/2007--Public Law. This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends the Foreign Affairs Reform and Restructuring Act of 1998 to reauthorize the United States Advisory Commission on Public Diplomacy through October 1, 2009.<br/>
+	</summary>
+</bill>

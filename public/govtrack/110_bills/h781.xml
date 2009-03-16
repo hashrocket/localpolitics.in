@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="781" updated="2009-01-08T18:26:54-05:00">
+	<status><enacted date="1216094400" datetime="2008-07-15" /></status>
+
+	<introduced date="1170219600" datetime="2007-01-31"/>
+	<titles>
+		<title type="official" as="introduced">To redesignate Lock and Dam No. 5 of the McClellan-Kerr Arkansas River Navigation System near Redfield, Arkansas, authorized by the Rivers and Harbors Act approved July 24, 1946, as the &quot;Colonel Charles D. Maynard Lock and Dam&quot;.</title>
+	</titles>
+	<sponsor id="400345"/>
+	<cosponsors>
+		<cosponsor id="400040" joined="2007-01-31"/>
+		<cosponsor id="400383" joined="2007-01-31"/>
+		<cosponsor id="400026" joined="2007-01-31"/>
+	</cosponsors>
+	<actions>
+		<action date="1170219600" datetime="2007-01-31"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1170306000" datetime="2007-02-01"><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action date="1183003200" datetime="2007-06-28"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1183003200" datetime="2007-06-28" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1183003200" datetime="2007-06-28"><text>Subcommittee on Water Resources and Environment Discharged.</text></action>
+		<action date="1184194200" datetime="2007-07-11T19:50:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 110-229.</text></action>
+		<calendar number="85" date="1184194200" datetime="2007-07-11T19:50:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 85.</text></calendar>
+		<action date="1184612880" datetime="2007-07-16T16:08:00-04:00"><text>Ms. Johnson, E. B. moved to suspend the rules and pass the bill.</text></action>
+		<action date="1184612940" datetime="2007-07-16T16:09:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7811-7812"/></action>
+		<action date="1184612940" datetime="2007-07-16T16:09:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 781.</text></action>
+		<vote date="1184613600" how="by voice vote" datetime="2007-07-16T16:20:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H7811"/></vote>
+		<action date="1184644800" datetime="2007-07-17"><text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar date="1211342400" datetime="2008-05-21" ><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1212552000" datetime="2008-06-04"><text>Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="763" date="1212552000" datetime="2008-06-04" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 763.</text></calendar>
+		<vote date="1214280000" how="by Unanimous Consent" datetime="2008-06-24" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6080-6081"/></vote>
+		<topresident date="1214280000" datetime="2008-06-24" ><text>Cleared for White House.</text></topresident>
+		<action date="1214366400" datetime="2008-06-25"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1215403200" datetime="2008-07-07" ><text>Presented to President.</text></topresident>
+		<signed date="1216094400" datetime="2008-07-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-263" date="1216094400" datetime="2008-07-15" type="public" ><text>Became Public Law No: 110-263.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/15/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Redesignates Lock and Dam No. 5 of the McClellan-Kerr Arkansas River Navigation System near Redfield, Arkansas, authorized by the Rivers and Harbors Act approved July 24, 1946, as the &quot;Colonel Charles D. Maynard Lock and Dam.&quot;<br/>
+	</summary>
+</bill>

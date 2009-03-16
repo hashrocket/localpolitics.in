@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="575" updated="2009-03-07T10:55:08-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="official" as="introduced">To increase the level of participation of the Small Business Administration in certain guaranteed loans for a period of one year, and for other purposes.</title>
+	</titles>
+	<sponsor id="400147"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Small Business.</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the Subcommittee on Finance and Tax.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Small Business" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Small Business" subcommittee="Finance and Tax" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Commerce"/>
+		<term name="Small business"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Increases, for one year after the enactment of this Act, the authorized level of participation (financing) by the Small Business Administration (SBA) in certain SBA-guaranteed loans made to small businesses.<br/>
+	</summary>
+</bill>

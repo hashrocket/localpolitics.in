@@ -1,0 +1,38 @@
+<bill session="110" type="hr" number="738" updated="2009-01-09T09:23:55-05:00">
+	<status><vote date="1192485240" datetime="2007-10-15T18:54:00-04:00" where="h" result="pass" how="roll" roll="961"/></status>
+
+	<introduced date="1192420800" datetime="2007-10-15"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives regarding the Government of Syria's continued interference in the internal affairs of Lebanon.</title>
+	</titles>
+	<sponsor id="400003"/>
+	<cosponsors>
+		<cosponsor id="400196" joined="2007-10-15"/>
+		<cosponsor id="400231" joined="2007-10-15"/>
+		<cosponsor id="400636" joined="2007-10-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1192420800" datetime="2007-10-15"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1192469340" datetime="2007-10-15T14:29:00-04:00"><text>Mr. Ackerman moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1192469400" datetime="2007-10-15T14:30:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11501-11504"/></action>
+		<action date="1192469400" datetime="2007-10-15T14:30:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 738.</text></action>
+		<action date="1192470600" datetime="2007-10-15T14:50:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1192483920" datetime="2007-10-15T18:32:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H11531"/></action>
+		<vote date="1192485240" how="roll" roll="961" datetime="2007-10-15T18:54:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 375 - 5, 1 Present (Roll no. 961).</text><reference label="text" ref="CR H11501"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/15/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Condemns the campaign of murder, terror, and intimidation aimed at overthrowing Lebanon's democratically-elected government and establishing a new Lebanese government subservient to Syria and Iran. Condemns Syria and Iran for their gross interference in Lebanon's internal political affairs and gross violations of U.N. Security Council resolutions protective of Lebanon's sovereignty and independence. Condemns Lebanese political parties and actors who have allied themselves with Syria and Iran to the detriment of their own country. Condemns efforts by some Lebanese political figures to impede the legal and established processes of their country for the selection of a new president. Affirms the House of Representatives' support for Lebanon's democratically-elected government, people and national sovereignty, and its readiness to provide material support. Calls on all nations to recognize and support Lebanon's sovereignty and independence. Urges the President to use all peaceful means at U.S. disposal to help safeguard Lebanon's sovereignty and independence.<br/>
+	</summary>
+</bill>

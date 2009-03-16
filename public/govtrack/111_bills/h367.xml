@@ -1,0 +1,63 @@
+<bill session="111" type="h" number="367" updated="2009-03-07T10:30:40-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Integrated Coastal and Ocean Observation System Act of 2009</title>
+		<title type="official" as="introduced">To establish a national integrated system of ocean, coastal, and Great Lakes observing systems, and for other purposes.</title>
+	</titles>
+	<sponsor id="400062"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2009-01-09"/>
+		<cosponsor id="400308" joined="2009-01-09"/>
+		<cosponsor id="400162" joined="2009-01-09"/>
+		<cosponsor id="412307" joined="2009-01-26"/>
+		<cosponsor id="400102" joined="2009-01-09"/>
+		<cosponsor id="400403" joined="2009-01-09"/>
+		<cosponsor id="400129" joined="2009-01-09"/>
+		<cosponsor id="400170" joined="2009-01-09"/>
+		<cosponsor id="412195" joined="2009-01-09"/>
+		<cosponsor id="400266" joined="2009-01-27"/>
+		<cosponsor id="400193" joined="2009-01-09"/>
+		<cosponsor id="400283" joined="2009-01-09"/>
+		<cosponsor id="400425" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the Committee on Natural Resources, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to House Natural Resources</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to House Science and Technology</text></action>
+		<action date="1231477200" datetime="2009-01-09"><committee name="House Science and Technology"/><text>Referred to the Subcommittee on Energy and Environment.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Insular Affairs, Oceans and Wildlife" activity="Referral" />
+		<committee name="House Science and Technology" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Science and Technology" subcommittee="Energy and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Advanced technology and technological innovations"/>
+		<term name="Advisory bodies"/>
+		<term name="Atmospheric science and weather"/>
+		<term name="Climate change"/>
+		<term name="Computers and information technology"/>
+		<term name="Earth sciences and observation"/>
+		<term name="Environmental assessment, monitoring, research"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Government information and archives"/>
+		<term name="Great Lakes"/>
+		<term name="Public-private cooperation"/>
+		<term name="Research administration and funding"/>
+		<term name="Research and development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Integrated Coastal and Ocean Observation System Act of 2009 - Directs the President to establish a National Integrated Coastal and Ocean Observation System to: (1) support national defense, marine commerce, navigation safety, weather, climate, and marine forecasting, energy siting and production, economic development, ecosystem-based marine, coastal, and Great Lakes resource management, public safety and public outreach training and education; (2) promote awareness of ocean, coastal, and Great Lakes resources; (3) promote basic and applied scientific research; and (4) improve the ability to measure, track, explain, and predict weather and climate change and natural climate variability. Requires the National Ocean Research Leadership Council to serve as the System's policy and coordination oversight body. Requires the Council to establish or designate an Interagency Ocean Observation Committee to prepare annual and long-term plans and to take other actions. Makes the National Oceanic and Atmospheric Administration (NOAA) the System's lead federal agency. Sets forth the requirements for a regional information coordination entity to be certified or established. Requires the Administrator to establish or designate a System Advisory Committee. Requires the Council to develop a policy that defines processes for making decisions about the roles of the federal government, states, regional information coordination entities, the academic community, and the private sector in providing to end-user communities environmental information, products, technologies, and services related to the System.<br/>
+	</summary>
+</bill>

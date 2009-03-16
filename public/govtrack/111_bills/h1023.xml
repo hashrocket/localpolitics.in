@@ -1,0 +1,49 @@
+<bill session="111" type="h" number="1023" updated="2009-03-07T11:48:58-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Federal Agency Program Realignment and Closure Act</title>
+		<title type="official" as="introduced">To establish a commission to recommend the elimination or realignment of Federal agencies that are duplicative or perform functions that would be more efficient on a non-Federal level, and for other purposes.</title>
+	</titles>
+	<sponsor id="400392"/>
+	<cosponsors>
+		<cosponsor id="400144" joined="2009-03-04"/>
+		<cosponsor id="412252" joined="2009-02-26"/>
+		<cosponsor id="412216" joined="2009-03-05"/>
+		<cosponsor id="400175" joined="2009-02-26"/>
+		<cosponsor id="412270" joined="2009-03-04"/>
+		<cosponsor id="400151" joined="2009-02-12"/>
+		<cosponsor id="412230" joined="2009-02-12"/>
+		<cosponsor id="400005" joined="2009-02-12"/>
+		<cosponsor id="400145" joined="2009-02-26"/>
+		<cosponsor id="400032" joined="2009-02-12"/>
+		<cosponsor id="400182" joined="2009-03-04"/>
+		<cosponsor id="400029" joined="2009-02-26"/>
+		<cosponsor id="400654" joined="2009-03-04"/>
+		<cosponsor id="400288" joined="2009-02-26"/>
+		<cosponsor id="400141" joined="2009-02-12"/>
+		<cosponsor id="412191" joined="2009-03-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to House Rules</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Rules" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="111" type="s" number="30" updated="2009-03-07T13:35:49-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Truth in Caller ID Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Communications Act of 1934 to prohibit manipulation of caller identification information.</title>
+	</titles>
+	<sponsor id="300078"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2009-01-07"/>
+		<cosponsor id="300091" joined="2009-01-07"/>
+		<cosponsor id="412243" joined="2009-01-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Sponsor introductory remarks on measure. (CR S173-174)</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text><reference label="text of measure as introduced" ref="CR S174"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="1258" />
+	</relatedbills>
+	<subjects>
+		<term name="Science, technology, communications"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Civil actions and liability"/>
+		<term name="Federal Communications Commission (FCC)"/>
+		<term name="Fraud offenses"/>
+		<term name="Internet and video services"/>
+		<term name="Telephone and wireless communication"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Truth in Caller ID Act of 2009 - Amends the Communications Act of 1934 to make it unlawful for any person in the United States, in connection with any telecommunications service or Internet protocol (IP)-enabled voice service, to cause any caller identification (ID) service to transmit misleading or inaccurate caller ID information, unless such transmission is exempted in connection with: (1) authorized activities of law enforcement agencies; or (2) a court order specifically authorizing the use of caller ID manipulation. Provides civil and criminal penalties for violations. Allows for enforcement by states (with authorized intervention by the Federal Communications Commission (FCC)). 
+	</summary>
+</bill>

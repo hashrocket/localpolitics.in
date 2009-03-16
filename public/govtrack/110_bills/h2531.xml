@@ -1,0 +1,37 @@
+<bill session="110" type="h" number="2531" updated="2009-01-08T22:07:07-05:00">
+	<status><introduced date="1179979200" datetime="2007-05-24"/></status>
+
+	<introduced date="1179979200" datetime="2007-05-24"/>
+	<titles>
+		<title type="short" as="introduced">Improved Hurricane Tracking and Forecasting Act of 2007</title>
+		<title type="official" as="introduced">To improve United States hurricane forecasting, monitoring, and warning capabilities, and for other purposes.</title>
+	</titles>
+	<sponsor id="400635"/>
+	<cosponsors>
+		<cosponsor id="400031" joined="2007-07-19"/>
+		<cosponsor id="400229" joined="2007-06-27"/>
+		<cosponsor id="412198" joined="2007-05-24"/>
+		<cosponsor id="400048" joined="2007-06-27"/>
+		<cosponsor id="400653" joined="2007-06-27"/>
+		<cosponsor id="400179" joined="2007-06-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1179979200" datetime="2007-05-24"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1180584000" datetime="2007-05-31"><text>Referred to the Subcommittee on Space and Aeronautics.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/24/2007--Introduced.<br/>Improved Hurricane Tracking and Forecasting Act of 2007 - Directs the Administrator of the National Oceanic and Atmospheric Administration (NOAA) to carry out a program for an improved ocean surface winds vector satellite for purposes including: (1) to address science and application questions related to air-sea interaction and coastal circulation; (2) to improve forecasting for hurricanes, coastal winds and storm surge, and other weather-related disasters; (3) to ensure continuity of quality for satellite ocean surface vector wind measurements so that existing weather forecasting and warning capabilities are not degraded; and (4) to advance satellite ocean surface vector wind data capabilities.<br/>
+	</summary>
+</bill>

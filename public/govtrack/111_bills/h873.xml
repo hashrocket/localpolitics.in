@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="873" updated="2009-03-07T11:30:53-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Stem Cell Research Enhancement Act of 2009</title>
+		<title type="official" as="introduced">To amend the Public Health Service Act to provide for human embryonic stem cell research.</title>
+	</titles>
+	<sponsor id="400101"/>
+	<cosponsors>
+		<cosponsor id="400648" joined="2009-03-05"/>
+		<cosponsor id="400222" joined="2009-03-05"/>
+		<cosponsor id="400230" joined="2009-03-05"/>
+		<cosponsor id="400414" joined="2009-03-05"/>
+		<cosponsor id="400160" joined="2009-03-05"/>
+		<cosponsor id="400039" joined="2009-03-05"/>
+		<cosponsor id="400070" joined="2009-02-04"/>
+		<cosponsor id="400013" joined="2009-03-05"/>
+		<cosponsor id="400638" joined="2009-03-05"/>
+		<cosponsor id="412192" joined="2009-03-05"/>
+		<cosponsor id="400062" joined="2009-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Introduced.<br/>Stem Cell Research Enhancement Act of 2009 - Amends the Public Health Service Act to require the Secretary of Health and Human Services to conduct and support research that utilizes human embryonic stem cells, regardless of the date on which the stem cells were derived from a human embryo. Limits such research to stem cells that meet the following requirements: (1) the stem cells were derived from human embryos donated from in vitro fertilization clinics, were created for the purposes of fertility treatment, and were in excess of the needs of the individuals seeking such treatment; (2) prior to donation, it was determined that the embryos would never be implanted in a woman and would otherwise be discarded; and (3) the individuals seeking fertility treatment donated the embryos with written informed consent and received no financial or other inducements.<br/>
+	</summary>
+</bill>

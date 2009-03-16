@@ -1,0 +1,37 @@
+<bill session="111" type="s" number="283" updated="2009-03-07T14:07:28-05:00">
+	<status><introduced date="1232514000" datetime="2009-01-21"/></status>
+
+	<introduced date="1232514000" datetime="2009-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Energy Policy and Conservation Act to modify the conditions for the release of products from the Northeast Home Heating Oil Reserve Account, and for other purposes.</title>
+	</titles>
+	<sponsor id="300091"/>
+	<cosponsors>
+		<cosponsor id="300060" joined="2009-01-21"/>
+		<cosponsor id="300034" joined="2009-01-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1232514000" datetime="2009-01-21"><text>Sponsor introductory remarks on measure. (CR S720)</text></action>
+		<action date="1232514000" datetime="2009-01-21"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Energy and Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Energy"/>
+		<term name="Energy assistance for the poor and aged"/>
+		<term name="Energy efficiency and conservation"/>
+		<term name="Energy prices"/>
+		<term name="Energy storage, supplies, demand"/>
+		<term name="Oil and gas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

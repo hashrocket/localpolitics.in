@@ -1,0 +1,50 @@
+<bill session="110" type="s" number="743" updated="2009-01-09T13:01:40-05:00">
+	<status><vote date="1172725200" datetime="2007-03-01" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1172725200" datetime="2007-03-01"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title 36, United States Code, to modify the individuals eligible for associate membership in the Military Order of the Purple Heart of the United States of America, Incorporated.</title>
+	</titles>
+	<sponsor id="400418"/>
+	<cosponsors>
+		<cosponsor id="300030" joined="2007-03-01"/>
+		<cosponsor id="300047" joined="2007-03-01"/>
+		<cosponsor id="300098" joined="2007-03-01"/>
+		<cosponsor id="300024" joined="2007-03-01"/>
+		<cosponsor id="300088" joined="2007-03-28"/>
+		<cosponsor id="300068" joined="2007-03-01"/>
+		<cosponsor id="300022" joined="2007-03-01"/>
+		<cosponsor id="300040" joined="2007-03-01"/>
+		<cosponsor id="300014" joined="2007-03-01"/>
+		<cosponsor id="300003" joined="2007-03-01"/>
+		<cosponsor id="300048" joined="2007-03-01"/>
+		<cosponsor id="300097" joined="2007-03-01"/>
+		<cosponsor id="300091" joined="2007-03-01"/>
+		<cosponsor id="300050" joined="2007-03-01"/>
+		<cosponsor id="300036" joined="2007-03-01"/>
+		<cosponsor id="400194" joined="2007-03-01"/>
+		<cosponsor id="300090" joined="2007-03-01"/>
+	</cosponsors>
+	<actions>
+		<vote date="1172725200" how="by Unanimous Consent" datetime="2007-03-01" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S2540"/><reference label="text as passed Senate" ref="CR S2540"/></vote>
+		<action date="1172811600" datetime="2007-03-02"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1173241560" datetime="2007-03-06T12:26:00-05:00"><text>Received in the House.</text></action>
+		<action date="1173157200" datetime="2007-03-06"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1174276800" datetime="2007-03-19"><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/1/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends the federal charter of the Military Order of the Purple Heart of the United States of America, Incorporated (the corporation), to authorize the corporation to extend eligibility for associate membership in the corporation to the parents, spouse, siblings, and lineal descendants (currently, to parents and lineal descendants) of a Purple Heart recipient.<br/>
+	</summary>
+</bill>

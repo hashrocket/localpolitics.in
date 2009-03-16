@@ -1,0 +1,35 @@
+<bill session="111" type="s" number="261" updated="2009-03-07T14:04:32-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to restore the deduction for the travel expenses of a taxpayer's spouse who accompanies the taxpayer on business travel.</title>
+	</titles>
+	<sponsor id="300047"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2009-02-04"/>
+		<cosponsor id="300040" joined="2009-01-15"/>
+		<cosponsor id="400621" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="562" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax deductions"/>
+		<term name="Transportation costs"/>
+		<term name="Travel and tourism"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Amends the Internal Revenue Code to repeal the restrictions on the tax deduction for the travel expenses of a taxpayer's spouse, dependent, or other individual accompanying the taxpayer on business travel.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="1040" updated="2009-03-07T11:51:04-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Freedom Flat Tax Act</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide taxpayers a flat tax alternative to the current income tax system.</title>
+	</titles>
+	<sponsor id="400052"/>
+	<cosponsors>
+		<cosponsor id="400165" joined="2009-02-23"/>
+		<cosponsor id="400032" joined="2009-03-04"/>
+		<cosponsor id="400029" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to House Ways and Means</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to House Rules</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Rules" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Freedom Flat Tax Act - Amends the Internal Revenue Code to authorize an individual or a person engaged in business activity to make an irrevocable election to be subject to a flat tax (in lieu of the existing tax provisions) of 19% for the first two years after an election is made, and 17% thereafter. Calculates taxable income for individual taxpayers by subtracting a basic standard deduction and an additional standard deduction for each dependent from the total of wages, retirement distributions, and unemployment compensation. Defines &quot;business taxable income&quot; to mean gross active income reduced by the cost of certain business inputs. Imposes an employer tax on the value of excludable compensation provided to employees not engaged in business activity of 19% for the first two years after an election is made under this Act and 17% thereafter. Repeals the estate, gift, and generation-skipping transfer taxes. Requires a two-thirds vote of the House of Representatives or the Senate to increase the flat tax rate proposed by this Act or to reduce the amount of the standard deduction or business-related deductions allowed by this Act.<br/>
+	</summary>
+</bill>

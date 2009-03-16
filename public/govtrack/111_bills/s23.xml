@@ -1,0 +1,38 @@
+<bill session="111" type="s" number="23" updated="2009-03-07T13:34:59-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to permanently extend the election to deduct State and local sales taxes.</title>
+	</titles>
+	<sponsor id="300018"/>
+	<cosponsors>
+		<cosponsor id="300002" joined="2009-01-07"/>
+		<cosponsor id="300040" joined="2009-01-07"/>
+		<cosponsor id="300082" joined="2009-01-07"/>
+		<cosponsor id="300076" joined="2009-01-07"/>
+		<cosponsor id="300078" joined="2009-01-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="16" />
+		<bill relation="unknown" session="111" type="s" number="35" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax deductions"/>
+		<term name="Sales and excise taxes"/>
+		<term name="State and local taxation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Amends the Internal Revenue Code to make permanent the election to deduct state and local sales taxes in lieu of state and local income taxes.<br/>
+	</summary>
+</bill>

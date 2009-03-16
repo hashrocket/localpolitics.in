@@ -1,0 +1,62 @@
+<bill session="110" type="h" number="6377" updated="2009-01-09T06:01:20-05:00">
+	<status><vote date="1214512620" datetime="2008-06-26T17:37:00-04:00" where="h" result="pass" how="roll" roll="468"/></status>
+
+	<introduced date="1214452800" datetime="2008-06-26"/>
+	<titles>
+		<title type="short" as="introduced">Energy Markets Emergency Act of 2008</title>
+		<title type="short" as="passed house">Energy Markets Emergency Act of 2008</title>
+		<title type="official" as="introduced">To direct the Commodity Futures Trading Commission to utilize all its authority, including its emergency powers, to curb immediately the role of excessive speculation in any contract market within the jurisdiction and control of the Commodity Futures Trading Commission, on or through which energy futures or swaps are traded, and to eliminate excessive speculation, price distortion, sudden or unreasonable fluctuations or unwarranted changes in prices, or other unlawful activity that is causing major market disturbances that prevent the market from accurately reflecting the forces of supply and demand for energy commodities.</title>
+	</titles>
+	<sponsor id="400316"/>
+	<cosponsors>
+		<cosponsor id="400280" joined="2008-06-26"/>
+		<cosponsor id="400616" joined="2008-06-26"/>
+		<cosponsor id="400183" joined="2008-06-26"/>
+		<cosponsor id="412225" joined="2008-06-26"/>
+		<cosponsor id="400129" joined="2008-06-26"/>
+		<cosponsor id="400065" joined="2008-06-26"/>
+		<cosponsor id="400323" joined="2008-06-26"/>
+		<cosponsor id="400229" joined="2008-06-26"/>
+		<cosponsor id="412197" joined="2008-06-26"/>
+		<cosponsor id="400103" joined="2008-06-26"/>
+		<cosponsor id="412240" joined="2008-06-26"/>
+		<cosponsor id="400255" joined="2008-06-26"/>
+		<cosponsor id="412239" joined="2008-06-26"/>
+		<cosponsor id="400628" joined="2008-06-26"/>
+		<cosponsor id="400266" joined="2008-06-26"/>
+		<cosponsor id="400125" joined="2008-06-26"/>
+		<cosponsor id="400415" joined="2008-06-26"/>
+		<cosponsor id="400391" joined="2008-06-26"/>
+		<cosponsor id="412220" joined="2008-06-26"/>
+		<cosponsor id="400097" joined="2008-06-26"/>
+		<cosponsor id="400042" joined="2008-06-26"/>
+		<cosponsor id="400233" joined="2008-06-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1214452800" datetime="2008-06-26"><text>Referred to the House Committee on Agriculture.</text></action>
+		<action date="1214536320" datetime="2008-06-26T12:12:00-04:00"><text>Mr. Peterson (MN) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1214536380" datetime="2008-06-26T12:13:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6103-6110"/></action>
+		<action date="1214536380" datetime="2008-06-26T12:13:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6377.</text></action>
+		<action date="1214496060" datetime="2008-06-26T13:01:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1214512200" datetime="2008-06-26T17:30:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6143-6144"/></action>
+		<vote date="1214512620" how="roll" roll="468" datetime="2008-06-26T17:37:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 19 (Roll no. 468).</text><reference label="text" ref="CR H6103-6104"/></vote>
+		<action date="1214452800" datetime="2008-06-26"><text>Received in the Senate.</text></action>
+		<action date="1215403200" datetime="2008-07-07"><text>Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar under="General Orders" number="864" date="1215489600" datetime="2008-07-08" calendar="Senate Legislative" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 864.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/26/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Energy Markets Emergency Act of 2008 - Directs the Commodity Futures Trading Commission (CFTC) to utilize all its authority, including its emergency powers, to: (1) curb immediately the role of excessive speculation in any contract market within its jurisdiction and control on or through which energy futures or swaps are traded; and (2) eliminate excessive speculation, price distortion, sudden or unreasonable fluctuations or unwarranted changes in prices, or other unlawful activity that is causing major market disturbances that prevent the market from accurately reflecting the forces of supply and demand for energy commodities.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="2429" updated="2009-01-08T21:54:54-05:00">
+	<status><enacted date="1186113600" datetime="2007-08-03" /></status>
+
+	<introduced date="1179806400" datetime="2007-05-22"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide an exception to the 60-day limit on Medicare reciprocal billing arrangements between two physicians during the period in which one of the physicians is ordered to active duty as a member of a reserve component of the Armed Forces.</title>
+	</titles>
+	<sponsor id="400403"/>
+	<cosponsors>
+		<cosponsor id="400206" joined="2007-05-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1179806400" datetime="2007-05-22"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1179806400" datetime="2007-05-22"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1179806400" datetime="2007-05-22"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1179806400" datetime="2007-05-22"><text>Referred to House Ways and Means</text></action>
+		<action date="1179930000" datetime="2007-05-23T11:20:00-04:00"><text>Mr. Pallone moved to suspend the rules and pass the bill.</text></action>
+		<action date="1179930060" datetime="2007-05-23T11:21:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5636-5638"/></action>
+		<action date="1179930060" datetime="2007-05-23T11:21:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2429.</text></action>
+		<action date="1179930900" datetime="2007-05-23T11:35:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1179937800" datetime="2007-05-23T13:30:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5647-5648"/></action>
+		<vote date="1179938340" how="roll" roll="405" datetime="2007-05-23T13:39:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0, 1 Present (Roll no. 405).</text><reference label="text" ref="CR H5636"/></vote>
+		<action date="1179979200" datetime="2007-05-24"><text>Received in the Senate and Read twice and referred to the Committee on Finance.</text></action>
+		<action date="1185249600" datetime="2007-07-24"><text>Senate Committee on Finance discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S9852"/></action>
+		<vote date="1185249600" how="by Unanimous Consent" datetime="2007-07-24" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<topresident date="1185249600" datetime="2007-07-24" ><text>Cleared for White House.</text></topresident>
+		<action date="1185336000" datetime="2007-07-25"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1185508800" datetime="2007-07-27" ><text>Presented to President.</text></topresident>
+		<signed date="1186113600" datetime="2007-08-03" ><text>Signed by President.</text></signed>
+		<enacted number="110-54" date="1186113600" datetime="2007-08-03" type="public" ><text>Became Public Law No: 110-54.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/3/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends title XVIII (Medicare) of the Social Security Act to create an exception to the 60-day limit on Medicare reciprocal billing arrangements in the case of arrangements between two physicians over a longer continuous period during all of which one of them is ordered to active duty as a member of a reserve component of the armed forces.<br/>Applies this exception to medical services provided before January 1, 2008.<br/>
+	</summary>
+</bill>

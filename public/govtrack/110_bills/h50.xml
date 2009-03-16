@@ -1,0 +1,61 @@
+<bill session="110" type="h" number="50" updated="2009-01-08T16:48:14-05:00">
+	<status><enacted date="1196917200" datetime="2007-12-06" /></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="short" as="introduced">Multinational Species Conservation Funds Reauthorization Act of 2007</title>
+		<title type="short" as="passed house">Multinational Species Conservation Funds Reauthorization Act of 2007</title>
+		<title type="short" as="reported to senate">Multinational Species Conservation Funds Reauthorization Act of 2007</title>
+		<title type="short" as="passed senate">Multinational Species Conservation Funds Reauthorization Act of 2007</title>
+		<title type="short" as="enacted">Multinational Species Conservation Funds Reauthorization Act of 2007</title>
+		<title type="official" as="introduced">To reauthorize the African Elephant Conservation Act and the Rhinoceros and Tiger Conservation Act of 1994.</title>
+	</titles>
+	<sponsor id="400440"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-04-23"/>
+		<cosponsor id="400049" joined="2007-02-12"/>
+		<cosponsor id="400254" joined="2007-05-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1167973200" datetime="2007-01-05"><text>Sponsor introductory remarks on measure. (CR E6-7)</text></action>
+		<action date="1170824400" datetime="2007-02-07"><text>Referred to the Subcommittee on Fisheries, Wildlife, and Oceans.</text></action>
+		<action date="1173758400" datetime="2007-03-13"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1174536000" datetime="2007-03-22"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1174536000" datetime="2007-03-22"><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action date="1183003200" datetime="2007-06-28"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1183003200" datetime="2007-06-28" ><text>Ordered to be Reported (Amended) by Unanimous Consent.</text></calendar>
+		<action date="1185246000" datetime="2007-07-23T12:00:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-244.</text></action>
+		<calendar number="153" date="1185246060" datetime="2007-07-23T12:01:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 153.</text></calendar>
+		<action date="1185248400" datetime="2007-07-23T12:40:00-04:00"><text>Mr. Grijalva moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1185248400" datetime="2007-07-23T12:40:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8201-8202"/></action>
+		<action date="1185248400" datetime="2007-07-23T12:40:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 50.</text></action>
+		<vote date="1185248580" how="by voice vote" datetime="2007-07-23T12:43:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text as passed in House" ref="CR H8201"/></vote>
+		<action date="1185249600" datetime="2007-07-24"><text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar date="1185854400" datetime="2007-07-31" ><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1186027200" datetime="2007-08-02"><text>Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="322" date="1186027200" datetime="2007-08-02" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 322.</text></calendar>
+		<action date="1193630400" datetime="2007-10-29"><text>By Senator Boxer from Committee on Environment and Public Works filed written report. Report No. 110-211.</text></action>
+		<vote date="1195189200" how="by Unanimous Consent" datetime="2007-11-16" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S14655-14656"/></vote>
+		<action date="1195189200" datetime="2007-11-16"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1195189200" datetime="2007-11-16" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1196053200" datetime="2007-11-26" ><text>Presented to President.</text></topresident>
+		<signed date="1196917200" datetime="2007-12-06" ><text>Signed by President.</text></signed>
+		<enacted number="110-132" date="1196917200" datetime="2007-12-06" type="public" ><text>Became Public Law No: 110-132.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/6/2007--Public Law. (This measure has not been amended since it was passed by the House on July 23, 2007. The summary of that version is repeated here.) Multinational Species Conservation Funds Reauthorization Act of 2007 - Amends the African Elephant Conservation Act and the Rhinoceros and Tiger Conservation Act of 1994 to: (1) authorize appropriations for FY2007-FY2012 for such Acts; (2) increase the amount that may be used for administrative expenses to carry out such Acts; and (3) repeal provisions requiring the Secretary of the Interior to notify countries regarding the approval of conservation projects for African elephants, rhinoceros, and tigers.<br/>
+	</summary>
+</bill>

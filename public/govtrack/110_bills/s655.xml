@@ -1,0 +1,51 @@
+<bill session="110" type="s" number="655" updated="2009-01-09T12:36:16-05:00">
+	<status><vote date="1173931200" datetime="2007-03-15" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1171602000" datetime="2007-02-16"/>
+	<titles>
+		<title type="short" as="introduced">American National Red Cross Governance Modernization Act of 2007</title>
+		<title type="short" as="passed senate">American National Red Cross Governance Modernization Act of 2007</title>
+		<title type="official" as="introduced">A bill to amend the Congressional Charter of The American National Red Cross to modernize its governance structure, to enhance the ability of the board of governors of The American National Red Cross to support the critical mission of The American Red Cross in the 21st century, and for other purposes.</title>
+	</titles>
+	<sponsor id="300048"/>
+	<cosponsors>
+		<cosponsor id="300025" joined="2007-03-07"/>
+		<cosponsor id="300059" joined="2007-02-16"/>
+		<cosponsor id="300042" joined="2007-02-27"/>
+		<cosponsor id="400621" joined="2007-02-16"/>
+		<cosponsor id="300041" joined="2007-02-16"/>
+		<cosponsor id="300035" joined="2007-02-16"/>
+		<cosponsor id="400050" joined="2007-02-16"/>
+		<cosponsor id="300027" joined="2007-03-07"/>
+		<cosponsor id="300001" joined="2007-02-16"/>
+		<cosponsor id="300067" joined="2007-02-16"/>
+		<cosponsor id="300078" joined="2007-02-16"/>
+		<cosponsor id="300063" joined="2007-02-16"/>
+		<cosponsor id="400194" joined="2007-02-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1171602000" datetime="2007-02-16"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S2166-2168"/></action>
+		<calendar date="1173330000" datetime="2007-03-08" ><text>Committee on the Judiciary. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action date="1173330000" datetime="2007-03-08"><text>Committee on the Judiciary. Reported by Senator Leahy with an amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="71" date="1173330000" datetime="2007-03-08" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 71.</text></calendar>
+		<vote date="1173931200" how="by Unanimous Consent" datetime="2007-03-15" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S3229-3234"/><reference label="text of measure as reported in Senate" ref="CR S3229-3231"/><reference label="text as passed Senate" ref="CR S3232-3234"/></vote>
+		<action date="1174017600" datetime="2007-03-16"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1174100700" datetime="2007-03-16T12:05:00-04:00"><text>Received in the House.</text></action>
+		<action date="1174017600" datetime="2007-03-16"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/15/2007--Passed Senate amended. American National Red Cross Governance Modernization Act of 2007 - (Sec. 2) Expresses the sense of Congress that: (1) charitable organizations are an indispensable part of American society; (2) such organizations must maintain the trust of the American public by fostering effective governance and transparency; (3) the American National Red Cross (ANRC) is and will remain a federally chartered instrumentality of the United States; and (4) the ANRC should maintain appropriate communications with state regulators of charitable organizations and cooperate with such regulators.<br/>(Sec. 3) Amends the charter of the ANRC to designate the ANRC as a federally chartered instrumentality of the United States and authorize it to conduct its business and affairs as the American Red Cross in any jurisdiction and to conduct other activities consistent with its traditional purposes.<br/>(Sec. 5) Authorizes the ANRC corporation (corporation), rather than its board of directors, to prescribe policies and regulations relating to ANRC chapters. Provides for the selection of delegates to the annual meeting of the ANRC, instead of its national convention.<br/>(Sec. 6) Modifies provisions relating to the ANRC board of governors to restate the role of the board as the governing body of the corporation and to revise provisions relating to its size, composition, and relationship with management. Establishes an Advisory Council to advise, report to, and meet with the board of governors.<br/>(Sec. 7) Authorizes the corporation to adopt policies in lieu of bylaws. (Sec. 8) Defines the annual meeting of the corporation as the annual meeting of the delegates of the chapters (instead of the national convention). Designates the time and place of the annual meeting and determines the voting guidelines and requirements for such meeting. (Sec. 9) Eliminates the requirement that the number of trustees overseeing the ANRC endowment fund be nine. Grants the corporation, rather than the board of governors, the authority to prescribe policies and regulations on terms and tenure of office, accountability, and expenses of the board of trustees. (Sec. 10) Requires the corporation to submit a report to the Secretary of Defense on the activities of the corporation during the preceding fiscal year, including a complete, itemized report of all receipts and expenditures. (Sec. 11) Authorizes the Comptroller General to review the corporation's involvement in any federal program or activity. Requires the corporation to establish an Office of the Ombudsman. Requires such Office to submit an annual report to specified congressional committees on trends and systemic matters that the Office has identified as confronting the corporation.<br/>
+	</summary>
+</bill>

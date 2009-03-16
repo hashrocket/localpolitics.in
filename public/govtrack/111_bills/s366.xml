@@ -1,0 +1,35 @@
+<bill session="111" type="s" number="366" updated="2009-03-07T14:17:07-05:00">
+	<status><introduced date="1233637200" datetime="2009-02-03"/></status>
+
+	<introduced date="1233637200" datetime="2009-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Social Security and Medicare Improved Burn Injury Treatment Access Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Social Security Act to eliminate the 5-month waiting period for Social Security disability and the 24-month waiting period for Medicare benefits in the cases of individuals with disabling burn injuries.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233637200" datetime="2009-02-03"><text>Sponsor introductory remarks on measure. (CR S1432-1433)</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="723" />
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Disability and paralysis"/>
+		<term name="Medicare"/>
+		<term name="Social security and elderly assistance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/2009--Introduced.<br/>Social Security and Medicare Improved Burn Injury Treatment Access Act of 2009 - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to direct the Commissioner of Social Security to waive the application of the five-month Social Security disability waiting period in cases of individuals with disabling burn injuries. Eliminates the 24-month Medicare disability waiting period in cases of individuals with disabling burn injuries.<br/>
+	</summary>
+</bill>

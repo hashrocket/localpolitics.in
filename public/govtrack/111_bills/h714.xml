@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="714" updated="2009-03-07T11:11:53-05:00">
+	<status><vote date="1235417880" datetime="2009-02-23T15:38:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1233032400" datetime="2009-01-27"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the Secretary of the Interior to lease certain lands in Virgin Islands National Park, and for other purposes.</title>
+	</titles>
+	<sponsor id="400073"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233032400" datetime="2009-01-27"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action date="1235417400" datetime="2009-02-23T15:30:00-05:00"><text>Ms. Bordallo moved to suspend the rules and pass the bill.</text></action>
+		<action date="1235417400" datetime="2009-02-23T15:30:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1622-1623"/></action>
+		<action date="1235417400" datetime="2009-02-23T15:30:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 714.</text></action>
+		<vote date="1235417880" how="by voice vote" datetime="2009-02-23T15:38:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H1622"/></vote>
+		<action date="1235451600" datetime="2009-02-24"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+		<committee name="Senate Energy and Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Caribbean area"/>
+		<term name="Congressional oversight"/>
+		<term name="Land transfers"/>
+		<term name="Parks, recreation areas, trails"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Travel and tourism"/>
+		<term name="Virgin Islands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/2009--Introduced.<br/>Authorizes the Secretary of the Interior, if the long-term benefit to the Virgin Islands National Park would be greater by entering into a lease than by authorizing a concession contract, to enter into a lease for the operation and management of the Caneel Bay resort on the island in the Park. Allows the Secretary to acquire associated property. Requires the Secretary to submit a proposed lease to specified congressional committees at least 60 days before the effective date of such lease. Sets forth the terms and conditions for the lease authorized by this Act. Makes rental amounts paid to the United States under the lease available for visitor services and resource protection within the Virgin Islands National Park.<br/>
+	</summary>
+</bill>

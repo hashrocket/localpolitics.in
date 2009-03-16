@@ -1,0 +1,30 @@
+<bill session="111" type="h" number="1243" updated="2009-03-07T12:18:31-05:00">
+	<status><introduced date="1235970000" datetime="2009-03-02"/></status>
+
+	<introduced date="1235970000" datetime="2009-03-02"/>
+	<titles>
+		<title type="official" as="introduced">To provide for the award of a gold medal on behalf of Congress to Arnold Palmer in recognition of his service to the Nation in promoting excellence and good sportsmanship in golf.</title>
+	</titles>
+	<sponsor id="400009"/>
+	<cosponsors>
+		<cosponsor id="400653" joined="2009-03-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1235970000" datetime="2009-03-02"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

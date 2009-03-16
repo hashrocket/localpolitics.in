@@ -1,0 +1,49 @@
+<bill session="110" type="s" number="3128" updated="2009-01-09T18:23:24-05:00">
+	<status><enacted date="1223611200" datetime="2008-10-10" /></status>
+
+	<introduced date="1213243200" datetime="2008-06-12"/>
+	<titles>
+		<title type="short" as="introduced">White Mountain Apache Tribe Rural Water System Loan Authorization Act</title>
+		<title type="short" as="enacted">White Mountain Apache Tribe Rural Water System Loan Authorization Act</title>
+		<title type="official" as="introduced">A bill to direct the Secretary of the Interior to provide a loan to the White Mountain Apache Tribe for use in planning, engineering, and designing a certain water system project.</title>
+	</titles>
+	<sponsor id="300062"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1213243200" datetime="2008-06-12"><text>Sponsor introductory remarks on measure. (CR S5626)</text></action>
+		<action date="1213243200" datetime="2008-06-12"><text>Read twice and referred to the Committee on Indian Affairs.</text><reference label="text of measure as introduced" ref="CR S5626-5627"/></action>
+		<action date="1221105600" datetime="2008-09-11"><text>Committee on Indian Affairs. Hearings held.</text></action>
+		<calendar date="1222142400" datetime="2008-09-23" ><text>Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1222228800" datetime="2008-09-24"><text>Committee on Indian Affairs. Reported by Senator Dorgan with an amendment in the nature of a substitute. With written report No. 110-502.</text></action>
+		<calendar under="General Orders" number="1080" date="1222228800" datetime="2008-09-24" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1080.</text></calendar>
+		<vote date="1222315200" how="by Unanimous Consent" datetime="2008-09-25" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S9552-9553"/><reference label="text as passed in Senate" ref="CR S9552"/></vote>
+		<action date="1222434780" datetime="2008-09-26T10:13:00-04:00"><text>Received in the House.</text></action>
+		<action date="1222401600" datetime="2008-09-26"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1222401600" datetime="2008-09-26"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1222709700" datetime="2008-09-29T14:35:00-04:00"><text>Mr. Rahall asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1222709700" datetime="2008-09-29T14:35:00-04:00"><text>Committee on Natural Resources discharged.</text></action>
+		<action date="1222709700" datetime="2008-09-29T14:35:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10609"/></action>
+		<vote date="1222709700" how="without objection" datetime="2008-09-29T14:35:00-04:00" where="h" type="vote2" result="pass" ><text>On passage Passed without objection.</text><reference label="text as passed House" ref="CR H10609"/></vote>
+		<topresident date="1222660800" datetime="2008-09-29" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1222920000" datetime="2008-10-02" ><text>Presented to President.</text></topresident>
+		<signed date="1223611200" datetime="2008-10-10" ><text>Signed by President.</text></signed>
+		<enacted number="110-390" date="1223611200" datetime="2008-10-10" type="public" ><text>Became Public Law No: 110-390.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/10/2008--Public Law. White Mountain Apache Tribe Rural Water System Loan Authorization Act - Directs the Secretary of the Interior, acting through the Commissioner of Reclamation, to provide a loan to the White Mountain Apache Tribe to carry out planning, engineering, and design of the Miner Flat Project (defined as the White Mountain Apache Rural Water System) in Arizona. Requires such loan to be interest free (0% rate) and to be repaid over a term of 25 years, beginning on January 1, 2013.<br/>Directs the Secretary to offer to enter into a cooperative agreement with the Tribe for the planning, engineering, and design of the Project, which shall be subject to the requirements of the Indian Self-Determination and Education Assistance Act.<br/>Authorizes appropriations. 
+	</summary>
+</bill>

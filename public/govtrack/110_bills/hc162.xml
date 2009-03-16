@@ -1,0 +1,102 @@
+<bill session="110" type="hc" number="162" updated="2009-01-08T15:47:40-05:00">
+	<status><vote date="1194387480" datetime="2007-11-06T18:18:00-05:00" where="h" result="pass" how="roll" roll="1041"/></status>
+
+	<introduced date="1179979200" datetime="2007-05-24"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of Congress that Congress and the President should increase basic pay for members of the Armed Forces.</title>
+	</titles>
+	<sponsor id="412233"/>
+	<cosponsors>
+		<cosponsor id="400663" joined="2007-06-28"/>
+		<cosponsor id="400443" joined="2007-06-06"/>
+		<cosponsor id="400041" joined="2007-11-05"/>
+		<cosponsor id="400266" joined="2007-06-21"/>
+		<cosponsor id="400620" joined="2007-06-06"/>
+		<cosponsor id="400386" joined="2007-06-06"/>
+		<cosponsor id="412229" joined="2007-11-05"/>
+		<cosponsor id="412236" joined="2007-06-18"/>
+		<cosponsor id="400199" joined="2007-06-06"/>
+		<cosponsor id="412192" joined="2007-06-06"/>
+		<cosponsor id="412210" joined="2007-06-06"/>
+		<cosponsor id="412227" joined="2007-06-06"/>
+		<cosponsor id="400121" joined="2007-06-15"/>
+		<cosponsor id="412187" joined="2007-11-06"/>
+		<cosponsor id="412223" joined="2007-06-06"/>
+		<cosponsor id="412209" joined="2007-06-19"/>
+		<cosponsor id="400177" joined="2007-06-06"/>
+		<cosponsor id="412193" joined="2007-06-11"/>
+		<cosponsor id="400257" joined="2007-06-06"/>
+		<cosponsor id="400323" joined="2007-06-06"/>
+		<cosponsor id="412205" joined="2007-06-19"/>
+		<cosponsor id="412199" joined="2007-06-20"/>
+		<cosponsor id="400229" joined="2007-11-05"/>
+		<cosponsor id="400395" joined="2007-06-06"/>
+		<cosponsor id="400047" joined="2007-06-28"/>
+		<cosponsor id="412231" joined="2007-06-07"/>
+		<cosponsor id="412220" joined="2007-11-06"/>
+		<cosponsor id="400210" joined="2007-07-10"/>
+		<cosponsor id="400263" joined="2007-06-06"/>
+		<cosponsor id="400097" joined="2007-06-18"/>
+		<cosponsor id="400090" joined="2007-06-06"/>
+		<cosponsor id="400042" joined="2007-06-06"/>
+		<cosponsor id="400436" joined="2007-06-06"/>
+		<cosponsor id="412214" joined="2007-06-27"/>
+		<cosponsor id="412219" joined="2007-06-13"/>
+		<cosponsor id="400655" joined="2007-06-06"/>
+		<cosponsor id="400209" joined="2007-05-24"/>
+		<cosponsor id="400024" joined="2007-08-01"/>
+		<cosponsor id="400383" joined="2007-06-07"/>
+		<cosponsor id="412240" joined="2007-06-19"/>
+		<cosponsor id="412222" joined="2007-11-05"/>
+		<cosponsor id="400152" joined="2007-06-20"/>
+		<cosponsor id="400102" joined="2007-06-19"/>
+		<cosponsor id="400055" joined="2007-06-06"/>
+		<cosponsor id="400653" joined="2007-06-06"/>
+		<cosponsor id="400377" joined="2007-06-06"/>
+		<cosponsor id="412206" joined="2007-06-06"/>
+		<cosponsor id="412224" joined="2007-06-06"/>
+		<cosponsor id="400251" joined="2007-06-18"/>
+		<cosponsor id="412234" joined="2007-07-18"/>
+		<cosponsor id="412208" joined="2007-07-10"/>
+		<cosponsor id="412225" joined="2007-06-06"/>
+		<cosponsor id="400262" joined="2007-06-26"/>
+		<cosponsor id="400302" joined="2007-06-25"/>
+		<cosponsor id="400163" joined="2007-06-06"/>
+		<cosponsor id="412232" joined="2007-06-15"/>
+		<cosponsor id="400114" joined="2007-06-28"/>
+		<cosponsor id="412197" joined="2007-06-06"/>
+		<cosponsor id="400151" joined="2007-10-29"/>
+		<cosponsor id="400635" joined="2007-06-06"/>
+		<cosponsor id="400360" joined="2007-07-30"/>
+		<cosponsor id="412188" joined="2007-06-19"/>
+		<cosponsor id="400096" joined="2007-06-06"/>
+		<cosponsor id="400349" joined="2007-06-28"/>
+		<cosponsor id="400065" joined="2007-06-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1179979200" datetime="2007-05-24"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1183003200" datetime="2007-06-28"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+		<action date="1194361680" datetime="2007-11-06T11:08:00-05:00"><text>Mr. Murphy, Patrick moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1194361740" datetime="2007-11-06T11:09:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H12750-12752"/></action>
+		<action date="1194361740" datetime="2007-11-06T11:09:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 162.</text></action>
+		<action date="1194362640" datetime="2007-11-06T11:24:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1194387120" datetime="2007-11-06T18:12:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H12798-12799"/></action>
+		<vote date="1194387480" how="roll" roll="1041" datetime="2007-11-06T18:18:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 1041).</text><reference label="text" ref="CR H12750-12751"/></vote>
+		<action date="1194498000" datetime="2007-11-08"><text>Received in the Senate and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

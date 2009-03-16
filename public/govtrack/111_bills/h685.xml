@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="685" updated="2009-03-07T11:08:13-05:00">
+	<status><introduced date="1232946000" datetime="2009-01-26"/></status>
+
+	<introduced date="1232946000" datetime="2009-01-26"/>
+	<titles>
+		<title type="short" as="introduced">United States Civil Rights Trail System Act of 2009</title>
+		<title type="official" as="introduced">To require a study of the feasibility of establishing the United States Civil Rights Trail System, and for other purposes.</title>
+	</titles>
+	<sponsor id="400074"/>
+	<cosponsors>
+		<cosponsor id="400421" joined="2009-01-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Government investigations"/>
+		<term name="Historic sites and heritage areas"/>
+		<term name="Parks, recreation areas, trails"/>
+		<term name="Racial and ethnic relations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/2009--Introduced.<br/>United States Civil Rights Trail System Act of 2009 - Directs the Archivist of the United States to conduct a study of the feasibility of establishing the United States Civil Rights Trail System to mark the geographic locations in the United States, including U.S. territories, of historically significant events related to struggles for civil rights based on racial equality. Requires the Secretary of the Interior to establish and maintain individual trails marking the geographic locations of such events. Authorizes the establishment of such a trail in each state where a significant civil rights event occurred. 
+	</summary>
+</bill>

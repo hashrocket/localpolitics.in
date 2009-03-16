@@ -1,0 +1,63 @@
+<bill session="110" type="sj" number="45" updated="2009-01-09T19:58:37-05:00">
+	<status><enacted date="1223006400" datetime="2008-10-03" /></status>
+
+	<introduced date="1216785600" datetime="2008-07-23"/>
+	<titles>
+		<title type="short" as="introduced">Great Lakes--St. Lawrence River Basin Water Resources Compact</title>
+		<title type="official" as="introduced">A joint resolution expressing the consent and approval of Congress to an interstate compact regarding water resources in the Great Lakes - St. Lawrence River Basin.</title>
+	</titles>
+	<sponsor id="300066"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2008-07-23"/>
+		<cosponsor id="300070" joined="2008-07-23"/>
+		<cosponsor id="300093" joined="2008-07-23"/>
+		<cosponsor id="300098" joined="2008-07-23"/>
+		<cosponsor id="300042" joined="2008-07-23"/>
+		<cosponsor id="300024" joined="2008-07-23"/>
+		<cosponsor id="300038" joined="2008-07-23"/>
+		<cosponsor id="300087" joined="2008-07-23"/>
+		<cosponsor id="300061" joined="2008-07-23"/>
+		<cosponsor id="300092" joined="2008-07-28"/>
+		<cosponsor id="400050" joined="2008-07-23"/>
+		<cosponsor id="300022" joined="2008-07-23"/>
+		<cosponsor id="412246" joined="2008-07-23"/>
+		<cosponsor id="300006" joined="2008-07-23"/>
+		<cosponsor id="400629" joined="2008-07-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1216785600" datetime="2008-07-23"><text>Sponsor introductory remarks on measure. (CR S7170)</text></action>
+		<action date="1216785600" datetime="2008-07-23"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S7170-7177"/></action>
+		<action date="1217390400" datetime="2008-07-30"><text>Committees on the Judiciary. Hearings held. Hearings printed: S.Hrg. 110-518.</text></action>
+		<action date="1217563200" datetime="2008-08-01"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text></action>
+		<action date="1217563200" datetime="2008-08-01"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S8006-8014"/></action>
+		<vote date="1217563200" how="by Unanimous Consent" datetime="2008-08-01" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S8007-8014"/></vote>
+		<action date="1217563200" datetime="2008-08-01"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1220893620" datetime="2008-09-08T14:07:00-04:00"><text>Received in the House.</text></action>
+		<action date="1220846400" datetime="2008-09-08"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1222103040" datetime="2008-09-22T14:04:00-04:00"><text>Ms. Sutton moved to suspend the rules and pass the resolution.</text></action>
+		<action date="1222103040" datetime="2008-09-22T14:04:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8506-8517"/></action>
+		<action date="1222103040" datetime="2008-09-22T14:04:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S.J. Res. 45.</text></action>
+		<action date="1222103880" datetime="2008-09-22T14:18:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Stupak objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1222225320" datetime="2008-09-23T12:02:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8597-8598"/></action>
+		<vote date="1222225740" how="roll" roll="621" datetime="2008-09-23T12:09:00-04:00" where="h" type="vote2" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the resolution Agreed to by the Yeas and Nays: (2/3 required): 390 - 25 (Roll no. 621).</text><reference label="text" ref="CR H8598"/></vote>
+		<topresident date="1222142400" datetime="2008-09-23" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1222315200" datetime="2008-09-25" ><text>Presented to President.</text></topresident>
+		<signed date="1223006400" datetime="2008-10-03" ><text>Signed by President.</text></signed>
+		<enacted number="110-342" date="1223006400" datetime="2008-10-03" type="public" ><text>Became Public Law No: 110-342.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/23/2008--Public Law. (This measure has not been amended since it was passed by the Senate on August 1, 2008. The summary of that version is repeated here.) Grants congressional consent to and approval of the Great Lakes - St. Lawrence River Basin Water Resources Compact as set forth in this resolution's preamble. Declares that current laws provide protection sufficient to prevent Great Lakes diversions until a Great Lakes water compact is ratified and enforceable.<br/>Reserves the right to alter, amend, or repeal this resolution.<br/>
+	</summary>
+</bill>

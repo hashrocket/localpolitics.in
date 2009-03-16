@@ -1,0 +1,56 @@
+<bill session="111" type="h" number="1126" updated="2009-03-07T12:02:47-05:00">
+	<status><introduced date="1235365200" datetime="2009-02-23"/></status>
+
+	<introduced date="1235365200" datetime="2009-02-23"/>
+	<titles>
+		<title type="short" as="introduced">Artist-Museum Partnership Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide that a deduction equal to fair market value shall be allowed for charitable contributions of literary, musical, artistic, or scholarly compositions created by the donor.</title>
+	</titles>
+	<sponsor id="400240"/>
+	<cosponsors>
+		<cosponsor id="400442" joined="2009-02-23"/>
+		<cosponsor id="400289" joined="2009-02-23"/>
+		<cosponsor id="412211" joined="2009-03-03"/>
+		<cosponsor id="400263" joined="2009-02-23"/>
+		<cosponsor id="400259" joined="2009-02-23"/>
+		<cosponsor id="400378" joined="2009-03-03"/>
+		<cosponsor id="400111" joined="2009-02-23"/>
+		<cosponsor id="400430" joined="2009-03-03"/>
+		<cosponsor id="400647" joined="2009-02-23"/>
+		<cosponsor id="412215" joined="2009-02-23"/>
+		<cosponsor id="412236" joined="2009-02-23"/>
+		<cosponsor id="400326" joined="2009-02-23"/>
+		<cosponsor id="412220" joined="2009-03-03"/>
+		<cosponsor id="400024" joined="2009-02-23"/>
+		<cosponsor id="400152" joined="2009-03-03"/>
+		<cosponsor id="400216" joined="2009-02-23"/>
+		<cosponsor id="400425" joined="2009-02-23"/>
+		<cosponsor id="400321" joined="2009-02-23"/>
+		<cosponsor id="400316" joined="2009-03-03"/>
+		<cosponsor id="400309" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1235365200" datetime="2009-02-23"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="394" />
+		<bill relation="unknown" session="111" type="s" number="405" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Art, artists, authorship"/>
+		<term name="Income tax deductions"/>
+		<term name="Literature"/>
+		<term name="Music"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

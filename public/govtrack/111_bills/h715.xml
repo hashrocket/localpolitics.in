@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="715" updated="2009-03-07T11:12:00-05:00">
+	<status><introduced date="1233032400" datetime="2009-01-27"/></status>
+
+	<introduced date="1233032400" datetime="2009-01-27"/>
+	<titles>
+		<title type="short" as="introduced">Saguaro National Park Boundary Expansion and Study Act of 2009</title>
+		<title type="official" as="introduced">To expand the boundary of Saguaro National Park, to study additional land for future adjustments to the boundary of the Park, and for other purposes.</title>
+	</titles>
+	<sponsor id="400162"/>
+	<cosponsors>
+		<cosponsor id="412188" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233032400" datetime="2009-01-27"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action date="1236056400" datetime="2009-03-03"><text>Subcommittee Hearings Held.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral, Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Arizona"/>
+		<term name="Government investigations"/>
+		<term name="Land transfers"/>
+		<term name="Parks, recreation areas, trails"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/2009--Introduced.<br/>Saguro National Park Boundary Expansion and Study Act of 2009 - Amends the Saguro National Park Establishment Act of 1994 to modify further the boundaries of Saguaro National Park to include specified land. Allows the Secretary of the Interior, with the consent of the State of Arizona, to acquire from the state land or interests in land within the boundary of the Park Directs the Secretary to conduct a study to identify lands that would be a part of any future boundary adjustments for the Park. Instructs that such study examine the natural, cultural, recreational, and scenic values and characters of the lands identified. 
+	</summary>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="111" type="h" number="573" updated="2009-03-07T10:54:54-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to prohibit the marketing of authorized generic drugs.</title>
+	</titles>
+	<sponsor id="400121"/>
+	<cosponsors>
+		<cosponsor id="400282" joined="2009-01-15"/>
+		<cosponsor id="400026" joined="2009-01-15"/>
+		<cosponsor id="400421" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Drug safety, medical device, and laboratory regulation"/>
+		<term name="Prescription drugs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Amends the Federal Food, Drug, and Cosmetic Act to prohibit a holder of a new, approved drug application from commencing to manufacture, market, sell, or distribute a generic version of such drug from the time of the receipt of notice from the generic manufacturer that an abbreviated new drug application has been submitted for approval until the expiration or forfeiture of the exclusivity period granted to the generic manufacturer. 
+	</summary>
+</bill>

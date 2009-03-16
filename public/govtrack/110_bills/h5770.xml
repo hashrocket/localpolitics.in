@@ -1,0 +1,51 @@
+<bill session="110" type="h" number="5770" updated="2009-01-09T04:49:05-05:00">
+	<status><calendar date="1210824000" datetime="2008-05-15" /></status>
+
+	<introduced date="1207800000" datetime="2008-04-10"/>
+	<titles>
+		<title type="official" as="introduced">To provide for a study by the National Academy of Sciences of potential impacts of climate change on water resources and water quality.</title>
+	</titles>
+	<sponsor id="412222"/>
+	<cosponsors>
+		<cosponsor id="400162" joined="2008-04-30"/>
+		<cosponsor id="400361" joined="2008-04-22"/>
+		<cosponsor id="412198" joined="2008-04-14"/>
+		<cosponsor id="400237" joined="2008-04-10"/>
+		<cosponsor id="400178" joined="2008-04-10"/>
+		<cosponsor id="400185" joined="2008-04-15"/>
+		<cosponsor id="400240" joined="2008-04-10"/>
+		<cosponsor id="400425" joined="2008-04-14"/>
+		<cosponsor id="400278" joined="2008-04-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1207800000" datetime="2008-04-10"><text>Referred to the Committee on Science and Technology, and in addition to the Committees on Natural Resources, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1207800000" datetime="2008-04-10"><text>Referred to House Science and Technology</text></action>
+		<action date="1207800000" datetime="2008-04-10"><text>Referred to House Natural Resources</text></action>
+		<action date="1207800000" datetime="2008-04-10"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1207886400" datetime="2008-04-11"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action date="1208318400" datetime="2008-04-16"><committee name="House Science and Technology"/><text>Referred to the Subcommittee on Energy and Environment.</text></action>
+		<action date="1208318400" datetime="2008-04-16"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1208318400" datetime="2008-04-16"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on Fisheries, Wildlife, and Oceans.</text></action>
+		<action date="1210132800" datetime="2008-05-07"><committee name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1210132800" datetime="2008-05-07"><committee name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1210824000" datetime="2008-05-15"><committee name="House Transportation and Infrastructure"/><text>Subcommittee on Water Resources and Environment Discharged.</text></action>
+		<action date="1210824000" datetime="2008-05-15"><committee name="House Transportation and Infrastructure"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1210824000" datetime="2008-05-15" ><committee name="House Transportation and Infrastructure"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1212600780" datetime="2008-06-04T14:33:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 110-685, Part I.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/4/2008--Reported to House without amendment, Part I. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Directs the Administrator of the Environmental Protection Agency (EPA) to arrange for the National Academy of Sciences to prepare a two-part study of potential impacts of climate change on water resources and water quality, addressing issues of: (1) hydrology and water quality (including the potential for impacts to wetlands, shoreline erosion, and saltwater intrusion as a result of sea level rise, as well as significant regional variation in precipitation events from historic patterns); and (2) policy considerations (including an identification of the scientific consensus, assumptions, and uncertainties related to predictions of climate change in the United States and of steps to assess emerging information and identify appropriate response actions, and an assessment of the extent to which federal and state efforts under the Federal Water Pollution Control Act and other ocean and coastal laws may be affected by climate change). Requires the Administrator to report the results of the study to specified congressional committees. Authorizes appropriations. 
+	</summary>
+</bill>

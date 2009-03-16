@@ -1,0 +1,40 @@
+<bill session="111" type="hc" number="27" updated="2009-03-07T09:28:09-05:00">
+	<status><vote2 date="1233637200" datetime="2009-02-03" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1233032400" datetime="2009-01-27"/>
+	<titles>
+		<title type="official" as="introduced">Authorizing the use of the rotunda of the Capitol for a ceremony in honor of the bicentennial of the birth of President Abraham Lincoln.</title>
+	</titles>
+	<sponsor id="400198"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233032400" datetime="2009-01-27"><text>Referred to the House Committee on House Administration.</text></action>
+		<action date="1233152100" datetime="2009-01-28T10:15:00-05:00"><text>Mr. Capuano asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1233152100" datetime="2009-01-28T10:15:00-05:00"><text>Committee on House Administration discharged.</text></action>
+		<action date="1233152160" datetime="2009-01-28T10:16:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H607"/></action>
+		<vote date="1233152160" how="without objection" datetime="2009-01-28T10:16:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text" ref="CR H607"/></vote>
+		<action date="1233291600" datetime="2009-01-30"><text>Received in the Senate.</text></action>
+		<vote date="1233637200" how="by Unanimous Consent" datetime="2009-02-03" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text></vote>
+		<action date="1233723600" datetime="2009-02-04"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Presidential administrations"/>
+		<term name="U.S. Capitol"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes the use of the Capitol rotunda on February 12, 2009, for a ceremony in honor of the bicentennial of the birth of President Abraham Lincoln.<br/>
+	</summary>
+</bill>

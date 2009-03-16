@@ -1,0 +1,32 @@
+<bill session="111" type="sr" number="16" updated="2009-03-07T14:40:21-05:00">
+	<status><vote date="1232082000" datetime="2009-01-16" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1232082000" datetime="2009-01-16"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating the week of February 2 through February 6, 2009, as &quot;National School Counseling Week&quot;.</title>
+	</titles>
+	<sponsor id="300076"/>
+	<cosponsors>
+		<cosponsor id="300025" joined="2009-01-16"/>
+	</cosponsors>
+	<actions>
+		<vote date="1232082000" how="by Unanimous Consent" datetime="2009-01-16" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S658"/><reference label="text as passed Senate" ref="CR S658"/><reference label="text of measure as introduced" ref="CR S656"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Teaching, teachers, curricula"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/16/2009--Introduced.<br/>Designates the week of February 2-6, 2009, as National School Counseling Week.<br/>
+	</summary>
+</bill>

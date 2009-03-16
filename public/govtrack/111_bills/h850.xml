@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="850" updated="2009-03-07T11:28:06-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Small Business CHOICE Act of 2009</title>
+		<title type="short" as="introduced">Small Business Cooperative for Healthcare Options to Improve Coverage for Employees (CHOICE) Act of 2009</title>
+		<title type="official" as="introduced">To encourage the development of small business cooperatives for healthcare options to improve coverage for employees (CHOICE) including through a small business CHOICE tax credit.</title>
+	</titles>
+	<sponsor id="400416"/>
+	<cosponsors>
+		<cosponsor id="400158" joined="2009-02-04"/>
+		<cosponsor id="400320" joined="2009-02-04"/>
+		<cosponsor id="412225" joined="2009-02-04"/>
+		<cosponsor id="400283" joined="2009-02-04"/>
+		<cosponsor id="400130" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to House Ways and Means</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="859" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

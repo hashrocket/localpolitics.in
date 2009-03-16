@@ -1,0 +1,50 @@
+<bill session="110" type="hr" number="1313" updated="2009-01-09T10:37:46-05:00">
+	<status><vote date="1215715980" datetime="2008-07-10T15:53:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1214452800" datetime="2008-06-26"/>
+	<titles>
+		<title type="official" as="introduced">Celebrating the 25th anniversary of the first American woman in space, Dr. Sally K. Ride, and honoring her contributions to the space program and to science education.</title>
+	</titles>
+	<sponsor id="400229"/>
+	<cosponsors>
+		<cosponsor id="400199" joined="2008-07-08"/>
+		<cosponsor id="400409" joined="2008-07-08"/>
+		<cosponsor id="400412" joined="2008-06-26"/>
+		<cosponsor id="400442" joined="2008-07-08"/>
+		<cosponsor id="400057" joined="2008-07-08"/>
+		<cosponsor id="400131" joined="2008-06-26"/>
+		<cosponsor id="412263" joined="2008-07-08"/>
+		<cosponsor id="400653" joined="2008-07-08"/>
+		<cosponsor id="412200" joined="2008-07-08"/>
+		<cosponsor id="412228" joined="2008-07-08"/>
+		<cosponsor id="400119" joined="2008-07-09"/>
+		<cosponsor id="400204" joined="2008-07-08"/>
+		<cosponsor id="400097" joined="2008-06-26"/>
+		<cosponsor id="400179" joined="2008-07-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1214452800" datetime="2008-06-26"><text>Sponsor introductory remarks on measure. (CR E1366)</text></action>
+		<action date="1214452800" datetime="2008-06-26"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1215659040" datetime="2008-07-09T12:04:00-04:00"><text>Mr. Lampson moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1215659040" datetime="2008-07-09T12:04:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6254-6256"/></action>
+		<action date="1215659040" datetime="2008-07-09T12:04:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1313.</text></action>
+		<action date="1215659700" datetime="2008-07-09T12:15:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1215715980" datetime="2008-07-10T15:53:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6373-6374"/></action>
+		<vote date="1215715980" how="by voice vote" datetime="2008-07-10T15:53:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 7/9/2008 H6254)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/10/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Celebrates the 25th anniversary of Dr. Sally K. Ride as the first American woman in space.<br/>Extends the appreciation and gratitude of the House of Representatives for Dr. Ride's excellence in service to the nation as an astronaut, educator, and advocate for the next generation of women scientists and engineers.<br/>
+	</summary>
+</bill>

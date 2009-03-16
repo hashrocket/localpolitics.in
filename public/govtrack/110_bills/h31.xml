@@ -1,0 +1,69 @@
+<bill session="110" type="h" number="31" retreived_date="1226018314" updated="2008-11-06T19:38:34-05:00">
+	<status><vote date="1185852060" datetime="2007-07-30T12:21:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="short" as="introduced">Elsinore Valley Municipal Water District Wastewater and Recycled Water Facilities Act of 2007</title>
+		<title type="short" as="reported to house">Elsinore Valley Municipal Water District Wastewater and Recycled Water Facilities Act of 2007</title>
+		<title type="short" as="passed house">Elsinore Valley Municipal Water District Wastewater and Recycled Water Facilities Act of 2007</title>
+		<title type="short" as="reported to senate">Elsinore Valley Municipal Water District Wastewater and Recycled Water Facilities Act of 2007</title>
+		<title type="official" as="introduced">To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior to participate in the Elsinore Valley Municipal Water District Wildomar Service Area Recycled Water Distribution Facilities and Alberhill Wastewater Treatment and Reclamation Facility Projects.</title>
+	</titles>
+	<sponsor id="400196"/>
+	<cosponsors>
+		<cosponsor id="400057" joined="2007-01-04"/>
+		<cosponsor id="400039" joined="2007-01-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1170824400" datetime="2007-02-07"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1179979200" datetime="2007-05-24"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1181620800" datetime="2007-06-12"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1181620800" datetime="2007-06-12"><text>Forwarded by Subcommittee to Full Committee by Unanimous Consent .</text></action>
+		<action date="1183003200" datetime="2007-06-28"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1183003200" datetime="2007-06-28" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1185208980" datetime="2007-07-23T13:43:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 110-243.</text></action>
+		<calendar number="152" date="1185209040" datetime="2007-07-23T13:44:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 152.</text></calendar>
+		<action date="1185852000" datetime="2007-07-30T12:20:00-04:00"><text>Mrs. Christensen asked unanimous consent to discharge the Committee of the Whole House on the State of the Union.</text></action>
+		<action date="1185852060" datetime="2007-07-30T12:21:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H8829-8830"/></action>
+		<vote date="1185852060" how="without objection" datetime="2007-07-30T12:21:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H8830"/></vote>
+		<action date="1185854400" datetime="2007-07-31"><text>Received in the Senate.</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1207627200" datetime="2008-04-08"><text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held.</text></action>
+		<calendar date="1221105600" datetime="2008-09-11" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1221537600" datetime="2008-09-16"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="1009" date="1221537600" datetime="2008-09-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1009.</text></calendar>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, Markup, Reporting" />
+		<committee name="House Natural Resources" subcommittee="Water and Power" activity="Referral, Hearings, Markup, Reporting" />
+		<committee name="Senate Energy and Natural Resources" subcommittee="" activity="Referral, Markup, Reporting" />
+		<committee name="Senate Energy and Natural Resources" subcommittee="Water and Power" activity="Hearings" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Water resources"/>
+		<term name="Agriculture"/>
+		<term name="Budgets"/>
+		<term name="California"/>
+		<term name="Environmental protection"/>
+		<term name="Federal aid to water pollution control"/>
+		<term name="Federal aid to water resources development"/>
+		<term name="Infrastructure"/>
+		<term name="Irrigation"/>
+		<term name="Waste water treatment"/>
+		<term name="Water conservation"/>
+		<term name="Water districts"/>
+		<term name="Water pollution"/>
+		<term name="Water supply"/>
+		<term name="Water treatment plants"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/3/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)<br/>Elsinore Valley Municipal Water District Wastewater and Recycled Water Facilities Act of 2007 - Amends the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior, in cooperation with the Elsinore Valley Municipal Water District, California, to participate in the design, planning, and construction of permanent facilities needed to establish recycled water distribution and wastewater treatment and reclamation facilities that will be used to treat wastewater and provide recycled water in the District. Limits the federal share of the total cost of each project to 25%. Prohibits the use of funds provided by the Secretary under this Act for project operation or maintenance. Authorizes appropriations.<br/>
+	</summary>
+</bill>

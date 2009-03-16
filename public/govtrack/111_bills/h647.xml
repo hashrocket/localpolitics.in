@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="647" updated="2009-03-07T11:03:41-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the International Boundary and Water Commission to reimburse State and local governments of the States of Arizona, California, New Mexico, and Texas for expenses incurred by such a government in designing, constructing, and rehabilitating water projects under the jurisdiction of such Commission.</title>
+	</titles>
+	<sponsor id="400179"/>
+	<cosponsors>
+		<cosponsor id="400657" joined="2009-01-22"/>
+		<cosponsor id="400302" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1232686800" datetime="2009-01-23"><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Arizona"/>
+		<term name="California"/>
+		<term name="New Mexico"/>
+		<term name="Texas"/>
+		<term name="Water resources funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2009--Introduced.<br/>Authorizes the International Boundary and Water Commission to reimburse state and local governments in Arizona, California, New Mexico, and Texas for expenses incurred in designing, constructing, and rehabilitating Commission water projects.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,37 @@
+<bill session="110" type="hr" number="35" updated="2009-01-09T07:58:20-05:00">
+	<status><vote date="1168381020" datetime="2007-01-09T18:17:00-05:00" where="h" result="pass" how="roll" roll="13"/></status>
+
+	<introduced date="1167973200" datetime="2007-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To enhance intelligence oversight authority.</title>
+	</titles>
+	<sponsor id="400300"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1167973200" datetime="2007-01-05"><text>Referred to the House Committee on Rules.</text></action>
+		<action date="1168374480" datetime="2007-01-09T16:28:00-05:00"><text>Considered pursuant to H. Res 6.</text><reference label="consideration" ref="CR H199-209"/></action>
+		<action date="1168374480" datetime="2007-01-09T16:28:00-05:00"><text>DEBATE - Pursuant to the provisions of H. Res 6, the House proceeded with one hour debate on H. Res. 35.</text></action>
+		<action date="1168378800" datetime="2007-01-09T17:40:00-05:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H208"/></action>
+		<action date="1168378860" datetime="2007-01-09T17:41:00-05:00"><text>Mr. Dreier moved to recommit to Rules.</text></action>
+		<action date="1168378860" datetime="2007-01-09T17:41:00-05:00"><text>The previous question on the motion to recommit was ordered without objection.</text><reference label="consideration" ref="CR H208"/></action>
+		<action date="1168380180" datetime="2007-01-09T18:03:00-05:00"><text>On motion to recommit Failed by the Yeas and Nays: 195 - 232 (Roll no. 12).</text></action>
+		<vote date="1168381020" how="roll" roll="13" datetime="2007-01-09T18:17:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by recorded vote: 239 - 188 (Roll no. 13).</text><reference label="text" ref="CR H199"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Amends Rule X (Organization of Committees) of the Rules of the House of Representatives to establish a Select Intelligence Oversight Panel of the Committee on Appropriations to: (1) review and study on a continuing basis budget requests for and execution of intelligence activities; (2) make recommendations to relevant subcommittees of the Committee; and (3) annually report to its Defense Subcommittee on budgetary and oversight observations and recommendations for use in preparation of the classified annex to the bill making Department of Defense (DOD) appropriations. Specifies the composition of the Select Panel, including three members of the Permanent Select Committee on Intelligence. Requires each Panel member to be treated, for Panel purposes, as though a member of the Committee on Appropriations. Applies Rule XI (Procedures of Committees and Unfinished Business) to the Select Panel in the same manner as a subcommittee, except that the Select Panel cannot require, by subpoena or otherwise, the attendance and testimony of witnesses or the production of books, records, correspondence, memoranda, papers, and documents. Authorizes a subpoena of the Committee on Appropriations or its Defense Subcommittee to specify terms of return to the Select Panel.<br/>
+	</summary>
+</bill>

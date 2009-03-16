@@ -1,0 +1,40 @@
+<bill session="110" type="h" number="235" updated="2009-01-08T17:13:20-05:00">
+	<status><vote date="1170781920" datetime="2007-02-06T13:12:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="official" as="introduced">To allow for the renegotiation of the payment schedule of contracts between the Secretary of the Interior and the Redwood Valley County Water District, and for other purposes.</title>
+	</titles>
+	<sponsor id="400403"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1170781740" datetime="2007-02-06T13:09:00-05:00"><text>Mrs. Napolitano moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1170781740" datetime="2007-02-06T13:09:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1225"/></action>
+		<action date="1170781740" datetime="2007-02-06T13:09:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 235.</text></action>
+		<vote date="1170781920" how="by voice vote" datetime="2007-02-06T13:12:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H1225"/></vote>
+		<action date="1170824400" datetime="2007-02-07"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1177473600" datetime="2007-04-25"><text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held.</text></action>
+		<calendar date="1179892800" datetime="2007-05-23" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1183003200" datetime="2007-06-28"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-117.</text></action>
+		<calendar under="General Orders" number="250" date="1183003200" datetime="2007-06-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 250.</text></calendar>
+		<action date="1213156800" datetime="2008-06-11"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S5530"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/28/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes the Redwood Valley County Water District, California, to enter into additional non-federal obligations necessary to finance procurement of dedicated water rights and improvements needed, if the Secretary of the Interior and the District, as of January 1, 2006, have not renegotiated the schedule of payments for loans made by the United States to the District. Requires: (1) the renegotiated schedule of payments to commence when such additional obligations have been financially satisfied by the District; and (2) the date of the initial payment by the District to the United States to be regarded as the start of the repayment period and the time upon which any interest shall first be computed and assessed under the Small Reclamation Projects Act of 1956.<br/>
+	</summary>
+</bill>

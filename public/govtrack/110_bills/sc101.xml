@@ -1,0 +1,33 @@
+<bill session="110" type="sc" number="101" updated="2009-01-09T19:52:31-05:00">
+	<status><vote date="1222142400" datetime="2008-09-23" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1222142400" datetime="2008-09-23"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution honoring the University of Nebraska at Omaha for its 100 years of commitment to higher education.</title>
+	</titles>
+	<sponsor id="300050"/>
+	<cosponsors>
+		<cosponsor id="300077" joined="2008-09-23"/>
+	</cosponsors>
+	<actions>
+		<vote date="1222142400" how="by Unanimous Consent" datetime="2008-09-23" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S9345-9346"/><reference label="text as passed Senate" ref="CR S9345-9346"/><reference label="text of measure as introduced" ref="CR S9285"/></vote>
+		<action date="1222261380" datetime="2008-09-24T10:03:00-04:00"><text>Received in the House.</text></action>
+		<action date="1222228800" datetime="2008-09-24"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1222228800" datetime="2008-09-24"><text>Referred to the House Committee on Education and Labor.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/23/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Congratulates the University of Nebraska at Omaha for 100 years of outstanding service in fulfilling its mission of providing sound learning and education.<br/>
+	</summary>
+</bill>

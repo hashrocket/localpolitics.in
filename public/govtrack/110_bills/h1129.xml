@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="1129" updated="2009-01-08T19:12:11-05:00">
+	<status><enacted date="1175054400" datetime="2007-03-28" /></status>
+
+	<introduced date="1171602000" datetime="2007-02-16"/>
+	<titles>
+		<title type="official" as="introduced">To provide for the construction, operation, and maintenance of an arterial road in St. Louis County, Missouri.</title>
+	</titles>
+	<sponsor id="400638"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1171602000" datetime="2007-02-16"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1171947600" datetime="2007-02-20"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1171947600" datetime="2007-02-20"><text>Referred to the Subcommittee on Highways and Transit.</text></action>
+		<action date="1172608380" datetime="2007-02-27T16:33:00-05:00"><text>Mr. Oberstar moved to suspend the rules and pass the bill.</text></action>
+		<action date="1172608440" datetime="2007-02-27T16:34:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1924-1926"/></action>
+		<action date="1172608440" datetime="2007-02-27T16:34:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1129.</text></action>
+		<vote date="1172609340" how="by voice vote" datetime="2007-02-27T16:49:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H1924-1925"/></vote>
+		<action date="1172638800" datetime="2007-02-28"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1173758400" how="by Unanimous Consent" datetime="2007-03-13" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S3076"/></vote>
+		<topresident date="1173758400" datetime="2007-03-13" ><text>Cleared for White House.</text></topresident>
+		<action date="1173844800" datetime="2007-03-14"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1174017600" datetime="2007-03-16" ><text>Presented to President.</text></topresident>
+		<signed date="1175054400" datetime="2007-03-28" ><text>Signed by President.</text></signed>
+		<enacted number="110-16" date="1175054400" datetime="2007-03-28" type="public" ><text>Became Public Law No: 110-16.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/28/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes the construction, operation, and maintenance of St. Louis County arterial road 1151, known as the &quot;Lemay Connector Road&quot; in St. Louis City and County, Missouri, over certain deed-restricted property, notwithstanding specified federal law and any easement or other similar restriction pursuant to those laws that requires the property to be maintained for open space, recreation, or wetland management. Requires St. Louis County to: (1) ensure that the project is constructed, operated, and maintained in a manner that would not cause any future additional flood damage that would not have occurred without the project; and (2) identify and agree to restrict a nearby parcel of land of equal or greater size to such deed restricted land so that such parcel is maintained for open space, recreation, or wetland management. Declares that the federal government shall not be liable for future flood damage caused by the project. Makes St. Louis County, Missouri, or its assignee liable for any such damage. Declares that the deed-restricted property specified by this Act is not eligible for any future disaster assistance from any other federal source. 
+	</summary>
+</bill>

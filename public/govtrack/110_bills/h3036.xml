@@ -1,0 +1,124 @@
+<bill session="110" type="h" number="3036" updated="2009-01-08T23:10:31-05:00">
+	<status><vote date="1221769500" datetime="2008-09-18T17:25:00-04:00" where="h" result="pass" how="roll" roll="614"/></status>
+
+	<introduced date="1184212800" datetime="2007-07-12"/>
+	<titles>
+		<title type="short" as="introduced">No Child Left Inside Act of 2007</title>
+		<title type="short" as="reported to house">No Child Left Inside Act of 2008</title>
+		<title type="short" as="passed house">No Child Left Inside Act of 2008</title>
+		<title type="official" as="introduced">To amend the Elementary and Secondary Education Act of 1965 regarding environmental education, and for other purposes.</title>
+		<title type="official" as="amended by house">To reauthorize and enhance the National Environmental Education Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="412212"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-12-13"/>
+		<cosponsor id="400133" joined="2007-10-03"/>
+		<cosponsor id="400031" joined="2008-06-11"/>
+		<cosponsor id="400337" joined="2007-12-13"/>
+		<cosponsor id="400364" joined="2007-10-30"/>
+		<cosponsor id="400263" joined="2007-09-18"/>
+		<cosponsor id="400407" joined="2008-06-11"/>
+		<cosponsor id="400080" joined="2008-07-08"/>
+		<cosponsor id="400162" joined="2007-09-18"/>
+		<cosponsor id="412221" joined="2007-09-18"/>
+		<cosponsor id="400102" joined="2008-03-13"/>
+		<cosponsor id="400271" joined="2008-07-09"/>
+		<cosponsor id="400129" joined="2007-09-24"/>
+		<cosponsor id="412192" joined="2007-09-18"/>
+		<cosponsor id="400124" joined="2007-11-07"/>
+		<cosponsor id="412231" joined="2008-04-23"/>
+		<cosponsor id="412189" joined="2007-11-01"/>
+		<cosponsor id="400254" joined="2008-04-23"/>
+		<cosponsor id="400101" joined="2008-01-15"/>
+		<cosponsor id="400184" joined="2008-06-11"/>
+		<cosponsor id="400355" joined="2008-06-11"/>
+		<cosponsor id="412208" joined="2007-10-03"/>
+		<cosponsor id="400216" joined="2008-06-11"/>
+		<cosponsor id="400437" joined="2007-09-18"/>
+		<cosponsor id="400312" joined="2007-09-18"/>
+		<cosponsor id="400359" joined="2007-09-18"/>
+		<cosponsor id="400007" joined="2007-10-22"/>
+		<cosponsor id="400245" joined="2007-12-04"/>
+		<cosponsor id="400663" joined="2008-06-11"/>
+		<cosponsor id="400387" joined="2007-11-07"/>
+		<cosponsor id="400008" joined="2008-06-11"/>
+		<cosponsor id="412209" joined="2008-06-17"/>
+		<cosponsor id="412193" joined="2008-06-11"/>
+		<cosponsor id="412211" joined="2008-06-11"/>
+		<cosponsor id="400436" joined="2007-09-18"/>
+		<cosponsor id="400346" joined="2007-10-22"/>
+		<cosponsor id="400237" joined="2008-03-12"/>
+		<cosponsor id="400013" joined="2007-10-22"/>
+		<cosponsor id="412204" joined="2007-09-18"/>
+		<cosponsor id="400178" joined="2007-12-19"/>
+		<cosponsor id="412232" joined="2007-11-07"/>
+		<cosponsor id="400074" joined="2007-10-22"/>
+		<cosponsor id="400638" joined="2008-06-17"/>
+		<cosponsor id="412200" joined="2007-11-07"/>
+		<cosponsor id="400125" joined="2008-02-25"/>
+		<cosponsor id="400415" joined="2007-09-18"/>
+		<cosponsor id="400244" joined="2007-09-18"/>
+		<cosponsor id="412186" joined="2007-09-18"/>
+		<cosponsor id="400185" joined="2007-10-03"/>
+		<cosponsor id="400047" joined="2008-06-17"/>
+		<cosponsor id="412220" joined="2008-05-06"/>
+		<cosponsor id="400283" joined="2007-10-30"/>
+		<cosponsor id="400097" joined="2007-09-18"/>
+		<cosponsor id="400090" joined="2007-09-18"/>
+		<cosponsor id="400033" joined="2008-04-30"/>
+		<cosponsor id="400218" joined="2007-09-18"/>
+		<cosponsor id="400240" joined="2007-10-22"/>
+		<cosponsor id="400438" joined="2007-11-13"/>
+		<cosponsor id="412219" joined="2007-09-18"/>
+		<cosponsor id="400025" joined="2007-11-07"/>
+		<cosponsor id="400301" joined="2008-04-10"/>
+		<cosponsor id="400062" joined="2008-04-16"/>
+		<cosponsor id="400179" joined="2008-06-11"/>
+		<cosponsor id="400349" joined="2008-04-17"/>
+	</cosponsors>
+	<actions>
+		<action date="1184212800" datetime="2007-07-12"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1213761600" datetime="2008-06-18"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1213761600" datetime="2008-06-18" ><text>Ordered to be Reported (Amended) by the Yeas and Nays: 37 - 8.</text></calendar>
+		<action date="1215724980" datetime="2008-07-10T18:23:00-04:00"><text>Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-754.</text></action>
+		<calendar number="480" date="1215725040" datetime="2008-07-10T18:24:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 480.</text></calendar>
+		<action date="1221596280" datetime="2008-09-16T17:18:00-04:00"><text>Rules Committee Resolution H. Res. 1441 Reported to House. Rule provides for consideration of H.R. 3036 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The rule waives all points of order against consideration of the bill except clauses 9 and 10 of rule XXI. The rule provides that the amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill shall be considered as an original bill for the purpose of amendment.</text></action>
+		<action date="1221760440" datetime="2008-09-18T14:54:00-04:00"><text>Rule H. Res. 1441 passed House.</text></action>
+		<action date="1221760560" datetime="2008-09-18T14:56:00-04:00"><text>Considered under the provisions of rule H. Res. 1441.</text><reference label="consideration" ref="CR H8432-8435, H8435-8451"/></action>
+		<action date="1221760560" datetime="2008-09-18T14:56:00-04:00"><text>Rule provides for consideration of H.R. 3036 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The rule waives all points of order against consideration of the bill except clauses 9 and 10 of rule XXI. The rule provides that the amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill shall be considered as an original bill for the purpose of amendment.</text></action>
+		<action date="1221760620" datetime="2008-09-18T14:57:00-04:00"><text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1441 and Rule XVIII.</text></action>
+		<action date="1221760620" datetime="2008-09-18T14:57:00-04:00"><text>The Speaker designated the Honorable Mike Ross to act as Chairman of the Committee.</text></action>
+		<action date="1221760620" datetime="2008-09-18T14:57:00-04:00"><text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 3036.</text></action>
+		<action date="1221764100" datetime="2008-09-18T15:55:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 1441, the Committee of the Whole proceeded with 10 minutes of debate on the Sarbanes amendment.</text></action>
+		<action date="1221764520" datetime="2008-09-18T16:02:00-04:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Sarbanes amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Sarbanes demanded a recorded vote and the Chair postponed further proceedings until later in the legislative day.</text></action>
+		<action date="1221764580" datetime="2008-09-18T16:03:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 1441, the Committee of the Whole proceeded with 10 minutes of debate on the Welch (VT) amendment.</text></action>
+		<action date="1221765120" datetime="2008-09-18T16:12:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 1441, the Committee of the Whole proceeded with 10 minutes of debate on the Courtney amendment.</text></action>
+		<action date="1221765480" datetime="2008-09-18T16:18:00-04:00"><text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.</text></action>
+		<action date="1221767220" datetime="2008-09-18T16:47:00-04:00"><text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3036.</text></action>
+		<action date="1221767280" datetime="2008-09-18T16:48:00-04:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H8448"/></action>
+		<action date="1221767280" datetime="2008-09-18T16:48:00-04:00"><text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text><reference label="text" ref="CR H8443-8444"/></action>
+		<action date="1221767280" datetime="2008-09-18T16:48:00-04:00"><text>Mr. Price (GA) moved to recommit with instructions to Education and Labor.</text><reference label="consideration" ref="CR H8448-8450"/><reference label="text" ref="CR H8448-8449"/></action>
+		<action date="1221767340" datetime="2008-09-18T16:49:00-04:00"><text>DEBATE - The House proceeded with 10 minutes of debate on the Price (GA) motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House with amendments to set priorities for and prohibitions on the use of Federal funds.</text></action>
+		<action date="1221768060" datetime="2008-09-18T17:01:00-04:00"><text>The previous question on the motion to recommit with instructions was ordered without objection.</text><reference label="consideration" ref="CR H8450"/></action>
+		<action date="1221769080" datetime="2008-09-18T17:18:00-04:00"><text>On motion to recommit with instructions Failed by recorded vote: 172 - 230 (Roll no. 613).</text></action>
+		<vote date="1221769500" how="roll" roll="614" datetime="2008-09-18T17:25:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed by the Yeas and Nays: 293 - 109 (Roll no. 614).</text></vote>
+		<action date="1221769500" datetime="2008-09-18T17:25:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1222056000" datetime="2008-09-22"><text>Received in the Senate.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/18/2008--Passed House amended. No Child Left Inside Act of 2008 - Amends the National Environmental Education Act (the Act) to add to the minimum functions and activities required of grantees under the Environmental Education and Training program, which trains educational professionals in the development and delivery of environmental education and training. Requires such grantees to: (1) create opportunities for enhanced and ongoing professional development, in addition to classroom training; (2) ensure that their environmental education programs and curricula are aligned with challenging state and local academic content standards and advance the teaching of interdisciplinary courses that include strong field components; (3) bring teachers into contact with working environmental professionals; (4) provide environmental education distance learning programs for teachers using curricula that are innovative, content-based, and based on current, scientifically valid research; (5) encourage individuals traditionally underrepresented in environmental careers to pursue postsecondary degrees toward such careers; (6) establish programs to prepare teachers to provide environmental education professional development to their colleagues and programs to promote outdoor environmental education activities as part of the regular school curriculum; (7) include summer workshops or institutes for elementary and secondary school environmental education teachers; and (8) encourage mid-career environmental professionals to pursue environmental education careers. Authorizes FY2009 appropriations for the National Environmental Education program. Authorizes the Secretary of Education to award competitive, matching, one-to-three-year grants to nonprofit organizations, states, local educational agencies, municipalities, or institutions of higher education for activities to improve and support environmental education that include: (1) advancing content and achievement standards; (2) developing or disseminating innovations or model programs; (3) research, particularly on integrating environmental education in the study of other subjects; and (4) capacity-building measures to increase the number of elementary and secondary environmental education teachers. Requires state grantees to have peer-reviewed state environmental literacy plans or develop state environmental literacy plans that describe: (1) how the state will measure student environmental literacy; (2) programs of professional development to improve teachers' environmental knowledge and teaching skills; and (3) how the plan will be implemented. Allows non-state grantees to use their grants to develop state environmental literacy plans, provided they consult with the state. Conditions a grantee's continued receipt of funds, after the first year of a multi-year grant, on its reporting annually to the Secretary on its grant-assisted activities and the success of such activities measured in accordance with the evaluation and accountability plan which each grantee is required to formulate prior to receiving such grant. Sets the federal share of grant program costs at 90% for the first year, 75% for the second year, and 50% for each subsequent year. Directs the Secretary to report to Congress, within one year of this Act's enactment, on activities assisted by such grants. Authorizes FY2009 appropriations for the grant program. Directs the Administrator of the Environmental Protection Agency (EPA), the Secretary, and the National Environmental Education and Training Foundation to each establish program quality indicators for those programs funded under the Act (other than certain fellowship awards) that they administer. Requires such quality measures, at a minimum, to indicate whether a program or activity: (1) enhances understanding of the natural and built environment; (2) fosters greater appreciation of the interdisciplinary nature of environmental issues; (3) increases achievement in related areas of national interest, such as mathematics and science; (4) increases understanding of the benefits of being exposed to nature; (5) improves understanding of the interaction of human and natural systems; and (6) broadens environmental awareness. Directs recipients of funds under the Act to report annually on their progress in meeting such minimum quality measures. Prohibits the Act from being construed or used to assert federal control over state and local educational decisions.<br/>
+	</summary>
+</bill>

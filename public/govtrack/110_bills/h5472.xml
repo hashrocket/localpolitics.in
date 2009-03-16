@@ -1,0 +1,90 @@
+<bill session="110" type="h" number="5472" updated="2009-01-09T04:14:13-05:00">
+	<status><enacted date="1210132800" datetime="2008-05-07" /></status>
+
+	<introduced date="1202965200" datetime="2008-02-14"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 2650 Dr. Martin Luther King Jr. Street, Indianapolis, Indiana, as the &quot;Julia M. Carson Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400417"/>
+	<cosponsors>
+		<cosponsor id="400177" joined="2008-02-14"/>
+		<cosponsor id="400364" joined="2008-03-14"/>
+		<cosponsor id="400263" joined="2008-03-06"/>
+		<cosponsor id="400102" joined="2008-03-03"/>
+		<cosponsor id="400122" joined="2008-03-03"/>
+		<cosponsor id="400333" joined="2008-03-14"/>
+		<cosponsor id="400385" joined="2008-02-14"/>
+		<cosponsor id="400623" joined="2008-03-03"/>
+		<cosponsor id="400170" joined="2008-03-03"/>
+		<cosponsor id="400065" joined="2008-03-03"/>
+		<cosponsor id="400423" joined="2008-03-03"/>
+		<cosponsor id="400152" joined="2008-03-14"/>
+		<cosponsor id="400055" joined="2008-02-14"/>
+		<cosponsor id="400377" joined="2008-03-03"/>
+		<cosponsor id="400373" joined="2008-03-14"/>
+		<cosponsor id="400437" joined="2008-03-03"/>
+		<cosponsor id="412253" joined="2008-03-14"/>
+		<cosponsor id="412258" joined="2008-03-31"/>
+		<cosponsor id="412227" joined="2008-03-03"/>
+		<cosponsor id="400048" joined="2008-03-06"/>
+		<cosponsor id="412205" joined="2008-02-14"/>
+		<cosponsor id="412199" joined="2008-03-06"/>
+		<cosponsor id="400259" joined="2008-03-14"/>
+		<cosponsor id="400237" joined="2008-03-14"/>
+		<cosponsor id="400383" joined="2008-03-03"/>
+		<cosponsor id="412204" joined="2008-03-14"/>
+		<cosponsor id="400653" joined="2008-03-06"/>
+		<cosponsor id="400251" joined="2008-03-14"/>
+		<cosponsor id="400350" joined="2008-03-06"/>
+		<cosponsor id="400360" joined="2008-03-03"/>
+		<cosponsor id="400366" joined="2008-03-03"/>
+		<cosponsor id="400153" joined="2008-03-06"/>
+		<cosponsor id="400074" joined="2008-03-14"/>
+		<cosponsor id="400056" joined="2008-02-14"/>
+		<cosponsor id="400009" joined="2008-03-03"/>
+		<cosponsor id="412228" joined="2008-03-03"/>
+		<cosponsor id="400201" joined="2008-03-06"/>
+		<cosponsor id="400204" joined="2008-03-06"/>
+		<cosponsor id="400315" joined="2008-02-14"/>
+		<cosponsor id="400208" joined="2008-03-06"/>
+		<cosponsor id="400240" joined="2008-03-03"/>
+		<cosponsor id="412206" joined="2008-02-14"/>
+		<cosponsor id="400025" joined="2008-03-03"/>
+		<cosponsor id="400062" joined="2008-03-14"/>
+		<cosponsor id="400179" joined="2008-03-06"/>
+		<cosponsor id="400639" joined="2008-03-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1202965200" datetime="2008-02-14"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1205380800" datetime="2008-03-13"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1205380800" datetime="2008-03-13" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1207750320" datetime="2008-04-09T11:12:00-04:00"><text>Mr. Clay moved to suspend the rules and pass the bill.</text></action>
+		<action date="1207750320" datetime="2008-04-09T11:12:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2083-2086"/></action>
+		<action date="1207750320" datetime="2008-04-09T11:12:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5472.</text></action>
+		<action date="1207751340" datetime="2008-04-09T11:29:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1207778100" datetime="2008-04-09T18:55:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2121-2122"/></action>
+		<vote date="1207778400" how="roll" roll="177" datetime="2008-04-09T19:00:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 177).</text><reference label="text" ref="CR H2083"/></vote>
+		<action date="1207800000" datetime="2008-04-10"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1208836800" how="by Unanimous Consent" datetime="2008-04-22" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S3269-3270"/></vote>
+		<topresident date="1208836800" datetime="2008-04-22" ><text>Cleared for White House.</text></topresident>
+		<action date="1208923200" datetime="2008-04-23"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1209614400" datetime="2008-05-01" ><text>Presented to President.</text></topresident>
+		<signed date="1210132800" datetime="2008-05-07" ><text>Signed by President.</text></signed>
+		<enacted number="110-225" date="1210132800" datetime="2008-05-07" type="public" ><text>Became Public Law No: 110-225.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/7/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 2650 Dr. Martin Luther King Jr. Street, Indianapolis, Indiana, as the &quot;Julia M. Carson Post Office Building.&quot; 
+	</summary>
+</bill>

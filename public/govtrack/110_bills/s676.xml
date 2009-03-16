@@ -1,0 +1,50 @@
+<bill session="110" type="s" number="676" updated="2009-01-09T12:40:36-05:00">
+	<status><enacted date="1182398400" datetime="2007-06-21" /></status>
+
+	<introduced date="1171688400" datetime="2007-02-17"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide that the Executive Director of the Inter-American Development Bank or the Alternate Executive Director of the Inter-American Development Bank may serve on the Board of Directors of the Inter-American Foundation.</title>
+	</titles>
+	<sponsor id="300008"/>
+	<cosponsors>
+		<cosponsor id="300070" joined="2007-02-17"/>
+		<cosponsor id="300050" joined="2007-03-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1171688400" datetime="2007-02-17"><text>Read twice and referred to the Committee on Foreign Relations.</text></action>
+		<calendar date="1173157200" datetime="2007-03-06" ><text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1173416400" datetime="2007-03-09"><text>Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-35.</text></action>
+		<calendar under="General Orders" number="75" date="1173416400" datetime="2007-03-09" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 75.</text></calendar>
+		<vote date="1173931200" how="by Unanimous Consent" datetime="2007-03-15" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S3236"/><reference label="text as passed Senate" ref="CR S3236"/></vote>
+		<action date="1174017600" datetime="2007-03-16"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1174100700" datetime="2007-03-16T12:05:00-04:00"><text>Received in the House.</text></action>
+		<action date="1174017600" datetime="2007-03-16"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1179892800" datetime="2007-05-23"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1179892800" datetime="2007-05-23" ><text>Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.</text></calendar>
+		<action date="1181585040" datetime="2007-06-11T15:04:00-04:00"><text>Mr. Faleomavaega moved to suspend the rules and pass the bill.</text></action>
+		<action date="1181585040" datetime="2007-06-11T15:04:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6194"/></action>
+		<action date="1181585040" datetime="2007-06-11T15:04:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 676.</text></action>
+		<action date="1181585400" datetime="2007-06-11T15:10:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1181598960" datetime="2007-06-11T18:56:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6205"/></action>
+		<vote date="1181599500" how="roll" roll="449" datetime="2007-06-11T19:05:00-04:00" where="h" type="vote2" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 1 (Roll no. 449).</text><reference label="text" ref="CR H6194"/></vote>
+		<topresident date="1181534400" datetime="2007-06-11" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1181793600" datetime="2007-06-14" ><text>Presented to President.</text></topresident>
+		<signed date="1182398400" datetime="2007-06-21" ><text>Signed by President.</text></signed>
+		<enacted number="110-38" date="1182398400" datetime="2007-06-21" type="public" ><text>Became Public Law No: 110-38.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/21/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends the Foreign Assistance Act of 1969 to permit the appointment of the United States Executive Director of the Inter-American Development Bank or the Alternate Executive Director of the Inter-American Development Bank to the Board of Directors of the Inter-American Foundation.<br/>
+	</summary>
+</bill>

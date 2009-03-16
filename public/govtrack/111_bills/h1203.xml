@@ -1,0 +1,54 @@
+<bill session="111" type="h" number="1203" updated="2009-03-07T12:13:39-05:00">
+	<status><introduced date="1235538000" datetime="2009-02-25"/></status>
+
+	<introduced date="1235538000" datetime="2009-02-25"/>
+	<titles>
+		<title type="short" as="introduced">Federal and Military Retiree Health Care Equity Act</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow Federal civilian and military retirees to pay health insurance premiums on a pretax basis and to allow a deduction for TRICARE supplemental premiums.</title>
+	</titles>
+	<sponsor id="400415"/>
+	<cosponsors>
+		<cosponsor id="412272" joined="2009-02-25"/>
+		<cosponsor id="412211" joined="2009-02-25"/>
+		<cosponsor id="400162" joined="2009-02-25"/>
+		<cosponsor id="400380" joined="2009-03-03"/>
+		<cosponsor id="400217" joined="2009-02-25"/>
+		<cosponsor id="400295" joined="2009-02-25"/>
+		<cosponsor id="400170" joined="2009-02-25"/>
+		<cosponsor id="400189" joined="2009-02-25"/>
+		<cosponsor id="400063" joined="2009-03-03"/>
+		<cosponsor id="400093" joined="2009-02-25"/>
+		<cosponsor id="412212" joined="2009-02-25"/>
+		<cosponsor id="400283" joined="2009-02-25"/>
+		<cosponsor id="400409" joined="2009-03-03"/>
+		<cosponsor id="400184" joined="2009-02-25"/>
+		<cosponsor id="400216" joined="2009-02-25"/>
+		<cosponsor id="400249" joined="2009-02-25"/>
+		<cosponsor id="400321" joined="2009-02-25"/>
+		<cosponsor id="400435" joined="2009-02-25"/>
+		<cosponsor id="400349" joined="2009-02-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to the Committee on Ways and Means, and in addition to the Committees on Oversight and Government Reform, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to House Ways and Means</text></action>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to House Armed Services</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="491" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

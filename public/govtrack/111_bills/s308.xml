@@ -1,0 +1,41 @@
+<bill session="111" type="s" number="308" updated="2009-03-07T14:10:24-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">ROAD Act</title>
+		<title type="short" as="introduced">Rural Opportunity and Development Act</title>
+		<title type="official" as="introduced">A bill to amend title 23, United States Code, to improve economic opportunity and development in rural States through highway investment, and for other purposes.</title>
+	</titles>
+	<sponsor id="300005"/>
+	<cosponsors>
+		<cosponsor id="400050" joined="2009-01-22"/>
+		<cosponsor id="300030" joined="2009-01-22"/>
+		<cosponsor id="300026" joined="2009-01-22"/>
+		<cosponsor id="412244" joined="2009-01-22"/>
+		<cosponsor id="300058" joined="2009-02-23"/>
+		<cosponsor id="400546" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Environment and Public Works" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Economic development"/>
+		<term name="Roads and highways"/>
+		<term name="Rural conditions and development"/>
+		<term name="Transportation programs funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2009--Introduced.<br/>Rural Opportunity and Development Act or the ROAD Act - Directs the Secretary of Transportation to establish a rural opportunity and development (ROAD) program to promote opportunity and economic development in rural states through projects for the preservation and improvement of highways.<br/>
+	</summary>
+</bill>

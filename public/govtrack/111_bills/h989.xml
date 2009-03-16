@@ -1,0 +1,31 @@
+<bill session="111" type="h" number="989" updated="2009-03-07T11:44:39-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="short" as="introduced">Eagle Employers Act</title>
+		<title type="official" as="introduced">To provide a Federal income tax credit for Eagle employers, and for other purposes.</title>
+	</titles>
+	<sponsor id="400147"/>
+	<cosponsors>
+		<cosponsor id="400006" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Introduced.<br/>Eagle Employers Act - Amends the Internal Revenue Code to allow a taxpayer certified as an Eagle employer by the Secretary of the Treasury a tax credit for one percent of such employer's taxable income. Defines an &quot; Eagle employer&quot; as any taxpayer who: (1) maintains its headquarters in the United States; (2) pays at least 60% of the health care premiums of its employees; (3) maintains or increases the number of its full-time workers in the United States relative to its full-time workers outside of the United States; (4) provides full differential salary and insurance benefits for all National Guard and Reserve employees called to active duty; and (5) provides its employees with a certain level of compensation and retirement benefits.<br/>
+	</summary>
+</bill>

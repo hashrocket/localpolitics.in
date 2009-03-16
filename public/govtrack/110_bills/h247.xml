@@ -1,0 +1,45 @@
+<bill session="110" type="h" number="247" updated="2009-01-08T17:14:49-05:00">
+	<status><vote date="1173120180" datetime="2007-03-05T14:43:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1167973200" datetime="2007-01-05"/>
+	<titles>
+		<title type="official" as="introduced">To designate a Forest Service trail at Waldo Lake in the Willamette National Forest in the State of Oregon as a national recreation trail in honor of Jim Weaver, a former Member of the House of Representatives.</title>
+	</titles>
+	<sponsor id="400100"/>
+	<cosponsors>
+		<cosponsor id="400419" joined="2007-01-05"/>
+		<cosponsor id="400437" joined="2007-01-05"/>
+		<cosponsor id="400033" joined="2007-01-05"/>
+		<cosponsor id="400186" joined="2007-01-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1167973200" datetime="2007-01-05"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1169182800" datetime="2007-01-19"><text>Sponsor introductory remarks on measure. (CR H774)</text></action>
+		<action date="1170824400" datetime="2007-02-07"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1173120000" datetime="2007-03-05T14:40:00-05:00"><text>Mr. Grijalva moved to suspend the rules and pass the bill.</text></action>
+		<action date="1173120060" datetime="2007-03-05T14:41:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2131-2132"/></action>
+		<action date="1173120060" datetime="2007-03-05T14:41:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 247.</text></action>
+		<vote date="1173120180" how="by voice vote" datetime="2007-03-05T14:43:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H2132"/></vote>
+		<action date="1173157200" datetime="2007-03-06"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1179201600" datetime="2007-05-15"><text>Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held.</text></action>
+		<calendar date="1185336000" datetime="2007-07-25" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1190001600" datetime="2007-09-17"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-163.</text></action>
+		<calendar under="General Orders" number="361" date="1190001600" datetime="2007-09-17" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 361.</text></calendar>
+		<action date="1213156800" datetime="2008-06-11"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S5530"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/17/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)<br/>Designates Forest Service trail number 3590 in the Willamette National Forest in Lane County, Oregon, that begins and ends at North Waldo Campground and circumnavigates Waldo Lake, as a national recreation trail that shall be known as the &quot;Jim Weaver Loop Trail&quot; in honor of Jim Weaver, a former Member of the House of Representatives. Directs the Secretary of Agriculture to install an appropriate sign at the trailhead of the Trail to indicate the name of such trail and to provide information regarding the life and career of Congressman Weaver. 
+	</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="110" type="hc" number="13" updated="2009-01-08T15:28:03-05:00">
+	<status><introduced date="1167973200" datetime="2007-01-05"/></status>
+
+	<introduced date="1167973200" datetime="2007-01-05"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of Congress regarding the need to prevent the closure or consolidation of post offices.</title>
+	</titles>
+	<sponsor id="400121"/>
+	<cosponsors>
+		<cosponsor id="412229" joined="2008-04-09"/>
+		<cosponsor id="400244" joined="2007-06-06"/>
+		<cosponsor id="400361" joined="2007-01-30"/>
+		<cosponsor id="400044" joined="2008-03-31"/>
+		<cosponsor id="400210" joined="2007-01-30"/>
+		<cosponsor id="400155" joined="2008-03-31"/>
+		<cosponsor id="400237" joined="2007-01-30"/>
+		<cosponsor id="400150" joined="2007-03-20"/>
+		<cosponsor id="412234" joined="2007-01-22"/>
+		<cosponsor id="400316" joined="2008-03-31"/>
+	</cosponsors>
+	<actions>
+		<action date="1167973200" datetime="2007-01-05"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Communications"/>
+		<term name="Postal facilities"/>
+		<term name="Postal service"/>
+		<term name="Rural affairs"/>
+		<term name="Small towns"/>
+		<term name="Urban affairs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/5/2007--Introduced.<br/>Expresses the sense of the Congress that the United States Postal Service: (1) should provide a maximum degree of effective and regular postal services to all communities, including rural areas and small towns where post offices may not be self-sustaining; and (2) should take all necessary steps to ensure that post offices are not closed or consolidated.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="927" updated="2009-03-07T11:37:22-05:00">
+	<status><introduced date="1234155600" datetime="2009-02-09"/></status>
+
+	<introduced date="1234155600" datetime="2009-02-09"/>
+	<titles>
+		<title type="short" as="introduced">Satellite Consumers' Right to Local Channels Act</title>
+		<title type="official" as="introduced">To amend the Communications Act of 1934 to expand satellite carriage of local television signals, and for other purposes.</title>
+	</titles>
+	<sponsor id="400391"/>
+	<cosponsors>
+		<cosponsor id="400655" joined="2009-02-10"/>
+		<cosponsor id="400178" joined="2009-02-10"/>
+		<cosponsor id="400026" joined="2009-02-09"/>
+		<cosponsor id="400403" joined="2009-03-05"/>
+		<cosponsor id="400266" joined="2009-02-25"/>
+		<cosponsor id="400636" joined="2009-02-25"/>
+		<cosponsor id="400341" joined="2009-02-23"/>
+		<cosponsor id="400402" joined="2009-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/9/2009--Introduced.<br/>Satellite Consumers' Right to Local Channels Act - Amends the Communications Act of 1934 to require each satellite carrier providing secondary transmissions in the local market of a television broadcast station to carry, on request, the signals of all television broadcast stations located within any local market (under current law, located within that local market), subject to existing broadcast signal retransmission consent provisions.<br/>
+	</summary>
+</bill>

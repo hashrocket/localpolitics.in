@@ -1,0 +1,57 @@
+<bill session="110" type="h" number="1662" updated="2009-01-08T20:19:20-05:00">
+	<status><vote date="1196794140" datetime="2007-12-04T14:49:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1174622400" datetime="2007-03-23"/>
+	<titles>
+		<title type="short" as="passed house">Bureau of Reclamation Site Security Costs Act of 2007</title>
+		<title type="official" as="introduced">To amend the Reclamation Safety of Dams Act of 1978 to authorize improvements for the security of dams and other facilities.</title>
+		<title type="official" as="amended by house">A bill to authorize the Secretary of the Interior to seek limited reimbursement for site security activities, and for other purposes.</title>
+	</titles>
+	<sponsor id="400290"/>
+	<cosponsors>
+		<cosponsor id="400659" joined="2007-03-23"/>
+		<cosponsor id="400618" joined="2007-04-25"/>
+		<cosponsor id="400162" joined="2007-03-28"/>
+		<cosponsor id="400336" joined="2007-03-23"/>
+		<cosponsor id="400330" joined="2007-04-25"/>
+		<cosponsor id="400176" joined="2007-03-28"/>
+		<cosponsor id="400171" joined="2007-05-16"/>
+		<cosponsor id="400141" joined="2007-03-23"/>
+		<cosponsor id="400088" joined="2007-03-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1174622400" datetime="2007-03-23"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1175572800" datetime="2007-04-03"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1176955200" datetime="2007-04-19"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1176955200" datetime="2007-04-19"><text>Forwarded by Subcommittee to Full Committee by Unanimous Consent .</text></action>
+		<action date="1194411600" datetime="2007-11-07"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1194411600" datetime="2007-11-07" ><text>Ordered to be Reported (Amended) by Unanimous Consent.</text></calendar>
+		<action date="1196793120" datetime="2007-12-04T14:32:00-05:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-459.</text></action>
+		<calendar number="283" date="1196793120" datetime="2007-12-04T14:32:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 283.</text></calendar>
+		<action date="1196793900" datetime="2007-12-04T14:45:00-05:00"><text>Mrs. Napolitano moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1196793960" datetime="2007-12-04T14:46:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H14096-14097"/></action>
+		<action date="1196793960" datetime="2007-12-04T14:46:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1662.</text></action>
+		<vote date="1196794140" how="by voice vote" datetime="2007-12-04T14:49:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H14096-14097"/></vote>
+		<action date="1196794140" datetime="2007-12-04T14:49:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1196830800" datetime="2007-12-05"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<calendar date="1201669200" datetime="2008-01-30" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1207800000" datetime="2008-04-10"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-323.</text></action>
+		<calendar under="General Orders" number="675" date="1207800000" datetime="2008-04-10" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 675.</text></calendar>
+		<action date="1213156800" datetime="2008-06-11"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S5530"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/4/2007--Passed House amended. Bureau of Reclamation Site Security Costs Act of 2007 - Makes costs incurred by the Secretary of the Interior for the physical fortification of Bureau of Reclamation facilities to satisfy increased post-September 11, 2001, security needs non-reimbursable.<br/>Directs the Secretary of the Interior to include up to a specified amount of costs incurred for increased levels of guards and patrols, training, patrols by local and tribal law enforcement entities, operation, maintenance, and replacement of guard and response force equipment, and operation and maintenance of facility fortifications at Bureau facilities after September 11, 2001, as reimbursable operation and maintenance costs under reclamation law. Requires site security costs allocated to irrigation and municipal and industrial water service under this Act for the Central Valley Project, California, to be collected by the Secretary exclusively by including such costs in operation and maintenance water rates.<br/>Authorizes the Secretary to develop policies and procedures with project beneficiaries to provide for the payment of reimbursable costs described in this Act. Directs the Secretary: (1) upon identifying a Bureau facility for a site security measure, to provide to the project beneficiaries written notice describing the need for and the process for identifying and implementing the measure and summarizing related administrative and legal requirements; (2) to provide project beneficiaries an opportunity to consult with the Bureau on the planning, design, and construction of the measure; (3) before incurring security-related costs, to consider cost containment measures recommended by a project beneficiary; (4) to provide to the project beneficiary a timely written response describing any proposed actions to address the recommendations and notice regarding the costs and status of such activities; and (5) to report annually to specified congressional committees on site security actions and activities undertaken pursuant to this Act, including a summary of expenditures and information relating to a five-year planning horizon showing pre- and post-September 11, 2001, costs for site security activities.<br/>Provides that reclamation project security costs at the levels of activity that existed prior to September 11, 2001, shall remain reimbursable.<br/>
+	</summary>
+</bill>

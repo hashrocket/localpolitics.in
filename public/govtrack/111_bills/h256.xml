@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="256" updated="2009-03-07T10:17:48-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">David Ray Hate Crimes Prevention Act of 2009</title>
+		<title type="short" as="introduced">David's Law</title>
+		<title type="official" as="introduced">To enhance Federal enforcement of hate crimes, and for other purposes.</title>
+	</titles>
+	<sponsor id="400199"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Criminal procedure and sentencing"/>
+		<term name="Department of Justice"/>
+		<term name="Department of the Treasury"/>
+		<term name="Firearms"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Hate crimes"/>
+		<term name="Juvenile crime and gang violence"/>
+		<term name="Law enforcement administration and funding"/>
+		<term name="Law enforcement officers"/>
+		<term name="Violent crime"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>David Ray Hate Crimes Prevention Act of 2009 or David's Law - Amends the federal criminal code to impose penalties for willfully causing bodily injury to any person or, through the use of fire, a firearm, or an explosive device, attempting to cause such injury, whether or not acting under color of law, because of the actual or perceived race, color, religion, national origin, gender, sexual orientation, or disability of any person, where the offense is in or affects interstate or foreign commerce. Directs the U.S. Sentencing Commission to study the issue of adult recruitment of juveniles to commit hate crimes and, if appropriate, to amend the federal sentencing guidelines to provide sentencing enhancements for such an offense.<br/>Requires the Administrator of the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice (DOJ) to make grants to state and local programs designed to combat hate crimes committed by juveniles.<br/>Authorizes appropriations to the Department of the Treasury and to DOJ for FY2009-FY2011 to increase the number of personnel to protect against criminal interference with federally-protected activities.<br/>
+	</summary>
+</bill>

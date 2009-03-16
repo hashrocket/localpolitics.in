@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="1080" updated="2009-01-08T19:05:29-05:00">
+	<status><vote date="1178562240" datetime="2007-05-07T15:24:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1171515600" datetime="2007-02-15"/>
+	<titles>
+		<title type="short" as="introduced">Grand Teton National Park Extension Act of 2007</title>
+		<title type="short" as="reported to house">Grand Teton National Park Extension Act of 2007</title>
+		<title type="short" as="passed house">Grand Teton National Park Extension Act of 2007</title>
+		<title type="official" as="introduced">To modify the boundaries of Grand Teton National Park to include certain land within the GT Park Subdivision, and for other purposes.</title>
+	</titles>
+	<sponsor id="400088"/>
+	<cosponsors>
+		<cosponsor id="400443" joined="2007-02-27"/>
+		<cosponsor id="400412" joined="2007-02-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1171515600" datetime="2007-02-15"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1172206800" datetime="2007-02-23"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1175140800" datetime="2007-03-29"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1176955200" datetime="2007-04-19"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1176955200" datetime="2007-04-19"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1178078400" datetime="2007-05-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1178078400" datetime="2007-05-02" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1178560680" datetime="2007-05-07T14:58:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 110-127.</text></action>
+		<calendar number="76" date="1178560740" datetime="2007-05-07T14:59:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 76.</text></calendar>
+		<action date="1178561940" datetime="2007-05-07T15:19:00-04:00"><text>Mr. Grijalva moved to suspend the rules and pass the bill.</text></action>
+		<action date="1178562000" datetime="2007-05-07T15:20:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4502"/></action>
+		<action date="1178562000" datetime="2007-05-07T15:20:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1080.</text></action>
+		<vote date="1178562240" how="by voice vote" datetime="2007-05-07T15:24:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H4502"/></vote>
+		<calendar under="General Orders" number="142" date="1178596800" datetime="2007-05-08" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 142.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/7/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Grand Teton National Park Extension Act of 2007 - Authorizes the Secretary of the Interior to: (1 ) accept from any willing seller the donation of any land or interest in land of the GT Park Subdivision; and (2) upon acquisition of land or an interest, include the land or interest in the boundaries of Grand Teton National Park and administer the land or interest as part of the Park. States that it is the intent of Congress that the acquisition of land or an interest be completed not later than one year after enactment of this Act. Prohibits the Secretary from donating, selling, exchanging, or otherwise transferring any land acquired under this Act without express authorization from Congress. Authorizes appropriations. 
+	</summary>
+</bill>

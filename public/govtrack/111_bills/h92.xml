@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="92" updated="2009-03-07T09:58:31-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To amend titles XI and XIX of the Social Security Act to remove the cap on Medicaid payments for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa and to adjust the Medicaid statutory matching rate for those territories.</title>
+	</titles>
+	<sponsor id="400073"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2009-01-06"/>
+		<cosponsor id="400128" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="American Samoa"/>
+		<term name="Caribbean area"/>
+		<term name="Guam"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Medicaid"/>
+		<term name="Northern Mariana Islands"/>
+		<term name="Poverty and welfare assistance"/>
+		<term name="U.S. territories and protectorates"/>
+		<term name="Virgin Islands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Amends titles XI and XIX (Medicaid) of the Social Security Act (SSA) to: (1) remove the cap on Medicaid payments for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa; and (2) adjust the federal medical assistance percentage (FMAP) for those territories. 
+	</summary>
+</bill>

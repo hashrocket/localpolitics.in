@@ -1,0 +1,38 @@
+<bill session="110" type="s" number="2052" updated="2009-01-09T16:06:01-05:00">
+	<status><calendar date="1221105600" datetime="2008-09-11" /></status>
+
+	<introduced date="1190001600" datetime="2007-09-17"/>
+	<titles>
+		<title type="short" as="introduced">Equal Justice for United States Military Personnel Act of 2007</title>
+		<title type="short" as="reported to senate">Equal Justice for United States Military Personnel Act of 2007</title>
+		<title type="official" as="introduced">A bill to allow for certiorari review of certain cases denied relief or review by the United States Court of Appeals for the Armed Forces.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300042" joined="2007-09-17"/>
+		<cosponsor id="300092" joined="2007-09-17"/>
+		<cosponsor id="300022" joined="2008-09-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1190001600" datetime="2007-09-17"><text>Sponsor introductory remarks on measure. (CR S11588-11589)</text></action>
+		<action date="1190001600" datetime="2007-09-17"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S11589"/></action>
+		<calendar date="1221105600" datetime="2008-09-11" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1221192000" datetime="2008-09-12"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="959" date="1221192000" datetime="2008-09-12" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 959.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/12/2008--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Equal Justice for United States Military Personnel Act of 2007 - Amends the federal judicial code to allow for review by writ of certiorari of certain cases denied relief or review by the U.S. Court of Appeals for the Armed Forces. 
+	</summary>
+</bill>

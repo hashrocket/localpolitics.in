@@ -1,0 +1,36 @@
+<bill session="111" type="s" number="406" updated="2009-03-07T14:21:44-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="short" as="introduced">Nino's Act</title>
+		<title type="official" as="introduced">A bill to amend title XIX of the Social Security Act to provide Medicaid coverage of drugs prescribed for certain research study child participants.</title>
+	</titles>
+	<sponsor id="300092"/>
+	<cosponsors>
+		<cosponsor id="412246" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Sponsor introductory remarks on measure. (CR S2082-2083)</text></action>
+		<action date="1234242000" datetime="2009-02-10"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Child health"/>
+		<term name="Medicaid"/>
+		<term name="Medical research"/>
+		<term name="Prescription drugs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Introduced.<br/>Nino's Act - Amends title XIX (Medicaid) of the Social Security Act to provide for mandatory Medicaid coverage of drugs prescribed for certain research study child participants, regardless of Medicaid eligibility otherwise, if the state provides drug coverage. 
+	</summary>
+</bill>

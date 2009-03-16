@@ -1,0 +1,60 @@
+<bill session="110" type="hr" number="352" updated="2009-01-09T08:36:47-05:00">
+	<status><vote date="1179248160" datetime="2007-05-15T13:56:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1177992000" datetime="2007-05-01"/>
+	<titles>
+		<title type="official" as="introduced">Supporting the goals and ideals of National Public Works Week.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2007-05-07"/>
+		<cosponsor id="400061" joined="2007-05-01"/>
+		<cosponsor id="400273" joined="2007-05-01"/>
+		<cosponsor id="400133" joined="2007-05-08"/>
+		<cosponsor id="400162" joined="2007-05-07"/>
+		<cosponsor id="400276" joined="2007-05-01"/>
+		<cosponsor id="400630" joined="2007-05-01"/>
+		<cosponsor id="400116" joined="2007-05-01"/>
+		<cosponsor id="400049" joined="2007-05-01"/>
+		<cosponsor id="412231" joined="2007-05-01"/>
+		<cosponsor id="400396" joined="2007-05-01"/>
+		<cosponsor id="400663" joined="2007-05-01"/>
+		<cosponsor id="400331" joined="2007-05-01"/>
+		<cosponsor id="400082" joined="2007-05-01"/>
+		<cosponsor id="400076" joined="2007-05-01"/>
+		<cosponsor id="400638" joined="2007-05-01"/>
+		<cosponsor id="412196" joined="2007-05-01"/>
+		<cosponsor id="400012" joined="2007-05-01"/>
+		<cosponsor id="400318" joined="2007-05-01"/>
+		<cosponsor id="400641" joined="2007-05-01"/>
+		<cosponsor id="400204" joined="2007-05-01"/>
+		<cosponsor id="400090" joined="2007-05-01"/>
+		<cosponsor id="400042" joined="2007-05-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1177992000" datetime="2007-05-01"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1178078400" datetime="2007-05-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1178078400" datetime="2007-05-02" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1178654400" datetime="2007-05-08T17:00:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 110-135.</text></action>
+		<calendar number="56" date="1178654400" datetime="2007-05-08T17:00:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 56.</text></calendar>
+		<action date="1179247680" datetime="2007-05-15T13:48:00-04:00"><text>Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1179247680" datetime="2007-05-15T13:48:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5005-5007"/></action>
+		<action date="1179247680" datetime="2007-05-15T13:48:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 352.</text></action>
+		<vote date="1179248160" how="by voice vote" datetime="2007-05-15T13:56:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H5005-5006"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/15/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)<br/>Expresses support for the goals and ideals of National Public Works Week.<br/>Recognizes the important contributions that public works professionals make to improve the public infrastructure of the United States and the communities they serve.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="110" type="hr" number="505" updated="2009-01-09T08:55:09-05:00">
+	<status><vote date="1182792300" datetime="2007-06-25T14:25:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1182312000" datetime="2007-06-20"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the innumerable contributions of the recreational boating community and the boating industry to the continuing prosperity and affluence of the United States.</title>
+	</titles>
+	<sponsor id="412198"/>
+	<cosponsors>
+		<cosponsor id="400330" joined="2007-06-20"/>
+		<cosponsor id="400623" joined="2007-06-20"/>
+		<cosponsor id="400276" joined="2007-06-20"/>
+		<cosponsor id="400395" joined="2007-06-20"/>
+		<cosponsor id="400399" joined="2007-06-20"/>
+		<cosponsor id="400076" joined="2007-06-20"/>
+		<cosponsor id="400244" joined="2007-06-20"/>
+	</cosponsors>
+	<actions>
+		<action date="1182312000" datetime="2007-06-20"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1182398400" datetime="2007-06-21"><text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text></action>
+		<action date="1182791820" datetime="2007-06-25T14:17:00-04:00"><text>Ms. Norton moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1182791880" datetime="2007-06-25T14:18:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7014-7015"/></action>
+		<action date="1182791880" datetime="2007-06-25T14:18:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 505.</text></action>
+		<vote date="1182792300" how="by voice vote" datetime="2007-06-25T14:25:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H7014-7015"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/25/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Commends the recreational boating community and the U.S. boating industry for their contributions to the economy, the well-being of U.S. citizens, and responsible environmental stewardship of marine resources.<br/>Urges the President to issue a proclamation calling for the observation of National Boating Day.<br/>
+	</summary>
+</bill>

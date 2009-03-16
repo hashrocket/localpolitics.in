@@ -1,0 +1,63 @@
+<bill session="111" type="h" number="983" updated="2009-03-07T11:43:56-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="short" as="introduced">Government Neutrality in Contracting Act</title>
+		<title type="official" as="introduced">To preserve open competition and Federal Government neutrality towards the labor relations of Federal Government contractors on Federal and federally funded construction projects.</title>
+	</titles>
+	<sponsor id="400392"/>
+	<cosponsors>
+		<cosponsor id="400224" joined="2009-02-11"/>
+		<cosponsor id="400627" joined="2009-02-11"/>
+		<cosponsor id="400006" joined="2009-02-11"/>
+		<cosponsor id="400367" joined="2009-02-11"/>
+		<cosponsor id="400311" joined="2009-02-11"/>
+		<cosponsor id="400343" joined="2009-02-12"/>
+		<cosponsor id="412280" joined="2009-02-11"/>
+		<cosponsor id="412216" joined="2009-02-11"/>
+		<cosponsor id="400089" joined="2009-02-11"/>
+		<cosponsor id="400076" joined="2009-02-12"/>
+		<cosponsor id="412270" joined="2009-02-12"/>
+		<cosponsor id="400151" joined="2009-02-11"/>
+		<cosponsor id="400441" joined="2009-03-04"/>
+		<cosponsor id="400056" joined="2009-02-11"/>
+		<cosponsor id="400644" joined="2009-02-11"/>
+		<cosponsor id="412230" joined="2009-02-11"/>
+		<cosponsor id="412275" joined="2009-02-11"/>
+		<cosponsor id="400221" joined="2009-03-03"/>
+		<cosponsor id="400176" joined="2009-02-12"/>
+		<cosponsor id="412310" joined="2009-03-03"/>
+		<cosponsor id="412269" joined="2009-02-11"/>
+		<cosponsor id="400016" joined="2009-02-11"/>
+		<cosponsor id="400040" joined="2009-03-03"/>
+		<cosponsor id="400032" joined="2009-02-11"/>
+		<cosponsor id="412311" joined="2009-02-11"/>
+		<cosponsor id="400636" joined="2009-02-11"/>
+		<cosponsor id="400433" joined="2009-02-11"/>
+		<cosponsor id="400288" joined="2009-02-11"/>
+		<cosponsor id="412261" joined="2009-02-11"/>
+		<cosponsor id="412191" joined="2009-02-12"/>
+		<cosponsor id="400656" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1235451600" datetime="2009-02-24"><text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="Government Management, Organization, and Procurement" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="90" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

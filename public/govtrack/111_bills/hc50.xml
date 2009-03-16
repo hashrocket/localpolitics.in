@@ -1,0 +1,47 @@
+<bill session="111" type="hc" number="50" updated="2009-03-07T09:30:55-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="official" as="introduced">Honoring and saluting Motown Records of Detroit, Michigan, on its 50th anniversary.</title>
+	</titles>
+	<sponsor id="400080"/>
+	<cosponsors>
+		<cosponsor id="412287" joined="2009-02-12"/>
+		<cosponsor id="400087" joined="2009-02-12"/>
+		<cosponsor id="400263" joined="2009-02-12"/>
+		<cosponsor id="400436" joined="2009-02-13"/>
+		<cosponsor id="400162" joined="2009-02-12"/>
+		<cosponsor id="400251" joined="2009-02-12"/>
+		<cosponsor id="400333" joined="2009-02-12"/>
+		<cosponsor id="400366" joined="2009-02-12"/>
+		<cosponsor id="400211" joined="2009-02-23"/>
+		<cosponsor id="400009" joined="2009-02-12"/>
+		<cosponsor id="412310" joined="2009-02-12"/>
+		<cosponsor id="400238" joined="2009-02-12"/>
+		<cosponsor id="400312" joined="2009-02-12"/>
+		<cosponsor id="400316" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="hc" number="33" />
+	</relatedbills>
+	<subjects>
+		<term name="Arts, culture, religion"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Michigan"/>
+		<term name="Sound recording"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Congratulates and salutes Motown Records of Detroit, Michigan, on its 50th anniversary. 
+	</summary>
+</bill>

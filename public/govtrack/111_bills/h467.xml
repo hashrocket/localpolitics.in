@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="467" updated="2009-03-07T10:42:31-05:00">
+	<status><introduced date="1231822800" datetime="2009-01-13"/></status>
+
+	<introduced date="1231822800" datetime="2009-01-13"/>
+	<titles>
+		<title type="short" as="introduced">Equitable Treatment of State and Local Governments Act of 2009</title>
+		<title type="official" as="introduced">To put State and local governments and other public entity or instrumentality established under State law in the same position they would have been in had the Secretary of the Treasury and the Board of Governors of the Federal Reserve System provided emergency financial assistance to Lehman Brothers Holdings Inc. by requiring the Secretary of the Treasury to purchase bonds issued by such financial institution, and for other purposes.</title>
+	</titles>
+	<sponsor id="412259"/>
+	<cosponsors>
+		<cosponsor id="412272" joined="2009-02-13"/>
+		<cosponsor id="400124" joined="2009-01-13"/>
+		<cosponsor id="400355" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1231822800" datetime="2009-01-13"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Bank accounts, deposits, capital"/>
+		<term name="Bankruptcy"/>
+		<term name="Financial crises and failures"/>
+		<term name="Financial services and investments"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Securities"/>
+		<term name="State and local finance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="111" type="h" number="233" updated="2009-03-07T10:15:12-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Railroad Antitrust Enforcement Act of 2009</title>
+		<title type="official" as="introduced">To amend the Federal antitrust laws to provide expanded coverage and to eliminate exemptions from such laws that are contrary to the public interest with respect to railroads.</title>
+	</titles>
+	<sponsor id="400013"/>
+	<cosponsors>
+		<cosponsor id="400006" joined="2009-01-07"/>
+		<cosponsor id="400026" joined="2009-02-10"/>
+		<cosponsor id="400443" joined="2009-01-15"/>
+		<cosponsor id="400323" joined="2009-01-07"/>
+		<cosponsor id="400218" joined="2009-02-03"/>
+		<cosponsor id="412214" joined="2009-01-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to House Judiciary</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1231304400" datetime="2009-01-07"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Courts, the Internet, and Intellectual Property" activity="Referral" />
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Railroads, Pipelines, and Hazardous Materials" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Commerce"/>
+		<term name="Administrative remedies"/>
+		<term name="Civil actions and liability"/>
+		<term name="Competition and antitrust"/>
+		<term name="Contracts and agency"/>
+		<term name="Federal Trade Commission (FTC)"/>
+		<term name="Jurisdiction and venue"/>
+		<term name="Railroads"/>
+		<term name="Surface Transportation Board"/>
+		<term name="Transportation costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Railroad Antitrust Enforcement Act of 2009 - Amends the Clayton Act (the Act) to make federal antitrust laws applicable to all common carriers subject to the Surface Transportation Board (STB), regardless of whether the carrier filed a rail carrier rate or whether a complaint challenging a rate is filed. Subjects to antitrust review agreements among rail carriers to pool or divide traffic, services, or earnings. Authorizes the the Federal Trade Commission (FTC) to enforce certain provisions of the Act against STB-approved agreements or combinations, including those related to rates. Removes the prohibition against a private party seeking injunctive relief against a rail carrier for a violation of the antitrust laws. Provides that, in any civil action against a rail common carrier, the U.S. district court shall not be required to defer to the primary jurisdiction of the STB. Amends the Federal Trade Commission Act to authorize FTC enforcement against rail carriers for unfair methods of competition. Amends federal transportation law to terminate the exemptions from antitrust laws for rail carriers, including mergers and acquisitions and ratemaking agreements. Requires the STB when reviewing a proposed rate agreement, to take into account its impact upon shippers, consumers, and affected communities, and to make findings regarding such impact, which shall be made part of the administrative record. Revises STB authority to provide that a rail carrier, corporation, or a person participating in an approved transaction is not exempt from specified antitrust laws.<br/>
+	</summary>
+</bill>

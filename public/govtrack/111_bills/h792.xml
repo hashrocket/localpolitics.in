@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="792" updated="2009-03-07T11:20:57-05:00">
+	<status><introduced date="1233550800" datetime="2009-02-02"/></status>
+
+	<introduced date="1233550800" datetime="2009-02-02"/>
+	<titles>
+		<title type="short" as="introduced">Prohibit Aid to Saudi Arabia Act of 2009</title>
+		<title type="official" as="introduced">To prohibit assistance to Saudi Arabia.</title>
+	</titles>
+	<sponsor id="400426"/>
+	<cosponsors>
+		<cosponsor id="400087" joined="2009-02-02"/>
+		<cosponsor id="400251" joined="2009-02-02"/>
+		<cosponsor id="412236" joined="2009-02-02"/>
+		<cosponsor id="400184" joined="2009-02-02"/>
+		<cosponsor id="400024" joined="2009-02-02"/>
+		<cosponsor id="400288" joined="2009-02-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1233550800" datetime="2009-02-02"><text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1233550800" datetime="2009-02-02"><text>Referred to House Foreign Affairs</text></action>
+		<action date="1233550800" datetime="2009-02-02"><text>Referred to House Financial Services</text></action>
+	</actions>
+	<committees>
+		<committee name="House Foreign Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/2/2009--Introduced.<br/>Prohibit Aid to Saudi Arabia Act of 2009 - Prohibits obligating or spending funds appropriated for Department of State, foreign operations, and related programs to finance directly any assistance for Saudi Arabia. Includes in such prohibition direct loans, credits, insurance, and guarantees of the U.S. Export-Import Bank.<br/>
+	</summary>
+</bill>

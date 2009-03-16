@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="141" updated="2009-03-07T10:04:20-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To require those applying for, and renewing, SCHIP, TAA, and ATAA benefits to present documentation proving both citizenship and identity in order to receive those benefits.</title>
+	</titles>
+	<sponsor id="400144"/>
+	<cosponsors>
+		<cosponsor id="400264" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Ways and Means</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Energy and Commerce</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Child health"/>
+		<term name="Citizenship and naturalization"/>
+		<term name="Employment and training programs"/>
+		<term name="Government information and archives"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Trade adjustment assistance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Requires any applicant for benefits under title XXI (State Children's Health Insurance Program) (SCHIP) of the Social Security Act, the trade adjustment assistance (TAA) program under the Trade Act of 1974 (TA74), or the alternative trade adjustment assistance program (ATAA) under TA74 to present satisfactory documentation providing both citizenship and identity as a condition of receiving benefits under such programs. 
+	</summary>
+</bill>

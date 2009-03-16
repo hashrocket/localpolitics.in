@@ -1,0 +1,34 @@
+<bill session="111" type="s" number="75" updated="2009-03-07T13:41:06-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Generics First Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to require the use of generic drugs under the Medicare part D prescription drug program when available unless the brand name drug is determined to be medically necessary.</title>
+	</titles>
+	<sponsor id="300061"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR S74)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S74"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Medicare"/>
+		<term name="Prescription drugs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Generics First Act of 2009 - Amends part D (Voluntary Prescription Drug Benefit Program) of title XVIII (Medicare) of the Social Security Act to exclude from coverage under the Medicare part D prescription drug program all nongeneric (brand name) drugs unless no generic drug has been approved, and the brand name drug is determined to be medically necessary. 
+	</summary>
+</bill>

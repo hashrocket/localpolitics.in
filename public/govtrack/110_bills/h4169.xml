@@ -1,0 +1,56 @@
+<bill session="110" type="h" number="4169" updated="2009-01-09T01:33:00-05:00">
+	<status><vote date="1203018180" datetime="2008-02-14T15:43:00-05:00" where="h" result="pass" how="roll" roll="65"/></status>
+
+	<introduced date="1194930000" datetime="2007-11-13"/>
+	<titles>
+		<title type="short" as="introduced">American Braille Flag Memorial Act</title>
+		<title type="official" as="introduced">To authorize the placement in Arlington National Cemetery of an American Braille tactile flag in Arlington National Cemetery honoring blind members of the Armed Forces, veterans, and other Americans.</title>
+	</titles>
+	<sponsor id="400405"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-11-13"/>
+		<cosponsor id="400133" joined="2007-11-13"/>
+		<cosponsor id="400367" joined="2007-11-13"/>
+		<cosponsor id="400380" joined="2007-11-13"/>
+		<cosponsor id="412210" joined="2007-11-13"/>
+		<cosponsor id="412250" joined="2007-11-13"/>
+		<cosponsor id="400288" joined="2007-11-13"/>
+		<cosponsor id="400055" joined="2007-11-13"/>
+		<cosponsor id="400068" joined="2007-11-13"/>
+		<cosponsor id="400051" joined="2008-02-12"/>
+		<cosponsor id="400057" joined="2007-11-13"/>
+		<cosponsor id="400284" joined="2007-11-13"/>
+		<cosponsor id="412236" joined="2007-11-13"/>
+		<cosponsor id="400047" joined="2007-11-13"/>
+		<cosponsor id="400651" joined="2007-11-13"/>
+		<cosponsor id="400435" joined="2007-12-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1194930000" datetime="2007-11-13"><text>Sponsor introductory remarks on measure. (CR E2396)</text></action>
+		<action date="1194930000" datetime="2007-11-13"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1195189200" datetime="2007-11-16"><text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text></action>
+		<action date="1202937300" datetime="2008-02-13T17:15:00-05:00"><text>Mr. Rodriguez moved to suspend the rules and pass the bill.</text></action>
+		<action date="1202937300" datetime="2008-02-13T17:15:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H912-914"/></action>
+		<action date="1202937300" datetime="2008-02-13T17:15:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4169.</text></action>
+		<action date="1202938020" datetime="2008-02-13T17:27:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1203017160" datetime="2008-02-14T15:26:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H968-969"/></action>
+		<vote date="1203018180" how="roll" roll="65" datetime="2008-02-14T15:43:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 65). (text: CR 2/13/2008 H912)</text></vote>
+		<action date="1203915600" datetime="2008-02-25"><text>Received in the Senate.</text></action>
+		<action date="1209441600" datetime="2008-04-29"><text>Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/14/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes the Secretary of the Army to place in Arlington National Cemetery an American Braille tactile flag honoring blind members of the Armed Forces, veterans, and other Americans. Grants the Secretary exclusive authority to approve an appropriate design and site within Arlington National Cemetery for the memorial.<br/>
+	</summary>
+</bill>

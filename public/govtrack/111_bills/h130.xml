@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="130" updated="2009-03-07T10:03:01-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Los Padres National Forest Land Exchange Act</title>
+		<title type="official" as="introduced">To provide for an exchange of lands between the Secretary of Agriculture and the United Water Conservation District of California to eliminate certain private inholdings in the Los Padres National Forest, and for other purposes.</title>
+	</titles>
+	<sponsor id="400144"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="California"/>
+		<term name="Forests"/>
+		<term name="Land transfers"/>
+		<term name="Parks, recreation areas, trails"/>
+		<term name="Roads and highways"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Los Padres National Forest Land Exchange Act - Authorizes the Secretary of Agriculture to convey specified National Forest System (NFS) lands to the United Water Conservation District of California in exchange for the conveyance of specified non-federal lands to the Secretary by the District.<br/>Makes the completion of such land exchange a priority for the Forest Service. Instructs the Forest Service to endeavor to complete the exchange within one year after the enactment of this Act. Requires the Secretary to reserve easements for all trails and roads that are considered necessary to provide for administrative purposes and to ensure public access to the NFS lands. 
+	</summary>
+</bill>

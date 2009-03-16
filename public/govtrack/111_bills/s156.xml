@@ -1,0 +1,35 @@
+<bill session="111" type="s" number="156" updated="2009-03-07T13:51:23-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Small Business Stimulus Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to extend enhanced small business expensing and to provide for a 5-year net operating loss carryback for losses incurred in 2008 or 2009.</title>
+	</titles>
+	<sponsor id="300091"/>
+	<cosponsors>
+		<cosponsor id="300060" joined="2009-01-06"/>
+		<cosponsor id="300063" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR S138-139)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S139"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax deductions"/>
+		<term name="Small business"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Small Business Stimulus Act of 2009 - Amends the Internal Revenue Code to: (1) extend through 2010 the increased expensing allowance for depreciable business assets; and (2) extend from two to five years the carryback period for net operating losses in 2008 or 2009.<br/>
+	</summary>
+</bill>

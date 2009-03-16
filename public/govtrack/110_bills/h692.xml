@@ -1,0 +1,80 @@
+<bill session="110" type="h" number="692" updated="2009-01-08T18:15:48-05:00">
+	<status><enacted date="1183089600" datetime="2007-06-29" /></status>
+
+	<introduced date="1169614800" datetime="2007-01-24"/>
+	<titles>
+		<title type="short" as="introduced">Army Specialist Joseph P. Micks Federal Flag Code Amendment Act of 2007</title>
+		<title type="short" as="reported to house">Army Specialist Joseph P. Micks Federal Flag Code Amendment Act of 2007</title>
+		<title type="short" as="passed house">Army Specialist Joseph P. Micks Federal Flag Code Amendment Act of 2007</title>
+		<title type="short" as="reported to senate">Army Specialist Joseph P. Micks Federal Flag Code Amendment Act of 2007</title>
+		<title type="short" as="passed senate">Army Specialist Joseph P. Micks Federal Flag Code Amendment Act of 2007</title>
+		<title type="short" as="enacted">Army Specialist Joseph P. Micks Federal Flag Code Amendment Act of 2007</title>
+		<title type="official" as="introduced">To amend title 4, United States Code, to authorize the Governor of a State, territory, or possession of the United States to order that the National flag be flown at half-staff in that State, territory, or possession in the event of the death of a member of the Armed Forces from that State, territory, or possession who dies while serving on active duty.</title>
+	</titles>
+	<sponsor id="400391"/>
+	<cosponsors>
+		<cosponsor id="400199" joined="2007-02-16"/>
+		<cosponsor id="400289" joined="2007-04-25"/>
+		<cosponsor id="400263" joined="2007-02-16"/>
+		<cosponsor id="400162" joined="2007-03-23"/>
+		<cosponsor id="400342" joined="2007-01-29"/>
+		<cosponsor id="400430" joined="2007-01-24"/>
+		<cosponsor id="412214" joined="2007-02-15"/>
+		<cosponsor id="400409" joined="2007-02-06"/>
+		<cosponsor id="400652" joined="2007-01-29"/>
+		<cosponsor id="400216" joined="2007-01-24"/>
+		<cosponsor id="400130" joined="2007-02-06"/>
+		<cosponsor id="400007" joined="2007-03-08"/>
+		<cosponsor id="400245" joined="2007-05-02"/>
+		<cosponsor id="400287" joined="2007-04-20"/>
+		<cosponsor id="412204" joined="2007-02-16"/>
+		<cosponsor id="400251" joined="2007-01-24"/>
+		<cosponsor id="400217" joined="2007-01-24"/>
+		<cosponsor id="400360" joined="2007-01-29"/>
+		<cosponsor id="400211" joined="2007-05-03"/>
+		<cosponsor id="400047" joined="2007-01-24"/>
+		<cosponsor id="400024" joined="2007-02-15"/>
+		<cosponsor id="400141" joined="2007-02-16"/>
+		<cosponsor id="400186" joined="2007-04-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1169614800" datetime="2007-01-24"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1172725200" datetime="2007-03-01"><text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text></action>
+		<action date="1177041600" datetime="2007-04-20"><text>Subcommittee on the Constitution, Civil Rights, and Civil Liberties Discharged.</text></action>
+		<action date="1177473600" datetime="2007-04-25"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1177473600" datetime="2007-04-25" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1178739300" datetime="2007-05-09T16:35:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 110-139.</text></action>
+		<calendar number="81" date="1178739360" datetime="2007-05-09T16:36:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 81.</text></calendar>
+		<action date="1179236880" datetime="2007-05-15T10:48:00-04:00"><text>Mr. Stupak moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1179236880" datetime="2007-05-15T10:48:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4976-4978"/></action>
+		<action date="1179236880" datetime="2007-05-15T10:48:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 692.</text></action>
+		<action date="1179237480" datetime="2007-05-15T10:58:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1179252600" datetime="2007-05-15T15:10:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5014-5015"/></action>
+		<vote date="1179252960" how="roll" roll="346" datetime="2007-05-15T15:16:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 408 - 4 (Roll No. 346).</text><reference label="text" ref="CR H4976"/></vote>
+		<action date="1179288000" datetime="2007-05-16"><text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text></action>
+		<calendar date="1181188800" datetime="2007-06-07" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1181188800" datetime="2007-06-07"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="191" date="1181188800" datetime="2007-06-07" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 191.</text></calendar>
+		<vote date="1181793600" how="by Unanimous Consent" datetime="2007-06-14" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S7777"/></vote>
+		<topresident date="1181793600" datetime="2007-06-14" ><text>Cleared for White House.</text></topresident>
+		<action date="1181880000" datetime="2007-06-15"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1182312000" datetime="2007-06-20" ><text>Presented to President.</text></topresident>
+		<signed date="1183089600" datetime="2007-06-29" ><text>Signed by President.</text></signed>
+		<enacted number="110-41" date="1183089600" datetime="2007-06-29" type="public" ><text>Became Public Law No: 110-41.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/29/2007--Public Law. (This measure has not been amended since it was reported to the House on May 9, 2007. The summary of that version is repeated here.) Army Specialist Joseph P. Micks Federal Flag Code Amendment Act of 2007 - Amends federal law with regard to the flying of the national flag at half-staff to: (1) allow a governor of a state, territory, or possession of the United States (governor) to proclaim that the national flag be flown at half-staff upon the death of a member of the Armed Forces from the governor's state, territory, or possession who dies while serving on active duty; (2) provide the same authority to the Mayor of the District of Columbia (District) with respect to present or former District officials and members of the Armed Forces from the District; and (3) require, when a governor or Mayor of the District issues such a proclamation, the national flag flown at any federal installation or facility in that state, territory, possession, or District to be flown at half-staff consistent with that proclamation.<br/>
+	</summary>
+</bill>

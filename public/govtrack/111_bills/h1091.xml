@@ -1,0 +1,71 @@
+<bill session="111" type="h" number="1091" updated="2009-03-07T11:57:00-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="short" as="introduced">Student Privacy Protection Act of 2009</title>
+		<title type="official" as="introduced">To amend the Elementary and Secondary Education Act of 1965 to direct local educational agencies to release secondary school student information to military recruiters if the student's parent provides written consent for the release, and for other purposes.</title>
+	</titles>
+	<sponsor id="400185"/>
+	<cosponsors>
+		<cosponsor id="400661" joined="2009-02-13"/>
+		<cosponsor id="400387" joined="2009-02-13"/>
+		<cosponsor id="412258" joined="2009-03-03"/>
+		<cosponsor id="400227" joined="2009-03-03"/>
+		<cosponsor id="400311" joined="2009-02-13"/>
+		<cosponsor id="400289" joined="2009-02-13"/>
+		<cosponsor id="400263" joined="2009-02-13"/>
+		<cosponsor id="400259" joined="2009-02-13"/>
+		<cosponsor id="400080" joined="2009-02-13"/>
+		<cosponsor id="400436" joined="2009-02-13"/>
+		<cosponsor id="400162" joined="2009-02-13"/>
+		<cosponsor id="400346" joined="2009-02-13"/>
+		<cosponsor id="400013" joined="2009-02-13"/>
+		<cosponsor id="412240" joined="2009-02-13"/>
+		<cosponsor id="400102" joined="2009-02-13"/>
+		<cosponsor id="400653" joined="2009-02-13"/>
+		<cosponsor id="400251" joined="2009-02-13"/>
+		<cosponsor id="400178" joined="2009-03-03"/>
+		<cosponsor id="400360" joined="2009-03-03"/>
+		<cosponsor id="400366" joined="2009-02-13"/>
+		<cosponsor id="400271" joined="2009-02-13"/>
+		<cosponsor id="412239" joined="2009-02-13"/>
+		<cosponsor id="400129" joined="2009-03-03"/>
+		<cosponsor id="412200" joined="2009-02-13"/>
+		<cosponsor id="400415" joined="2009-02-13"/>
+		<cosponsor id="412186" joined="2009-02-13"/>
+		<cosponsor id="400283" joined="2009-03-03"/>
+		<cosponsor id="400090" joined="2009-03-03"/>
+		<cosponsor id="400024" joined="2009-02-13"/>
+		<cosponsor id="400301" joined="2009-02-13"/>
+		<cosponsor id="400262" joined="2009-02-13"/>
+		<cosponsor id="400062" joined="2009-02-13"/>
+		<cosponsor id="400425" joined="2009-02-13"/>
+		<cosponsor id="400100" joined="2009-02-13"/>
+		<cosponsor id="400639" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the House Committee on Education and Labor.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="1026" />
+		<bill relation="unknown" session="111" type="s" number="87" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Government information and archives"/>
+		<term name="Military personnel and dependents"/>
+		<term name="Right of privacy"/>
+		<term name="School administration"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2009--Introduced.<br/>Student Privacy Protection Act of 2009 - Amends the Elementary and Secondary Education Act of 1965 (ESEA) to revise provisions for military recruiter access to secondary school student information. Requires ESEA-assisted local educational agencies (LEAs) to notify each secondary school student's parent of the option to consent to a release of the student's name, address, and telephone listing to military recruiters, and to give the parent the opportunity to provide such consent in writing. Requires such LEAs to provide military recruiters, upon their request, with access to such information on a student only if the student's parent has given such written consent. 
+	</summary>
+</bill>

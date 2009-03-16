@@ -1,0 +1,84 @@
+<bill session="111" type="hr" number="146" updated="2009-03-07T13:23:31-05:00">
+	<status><vote date="1236312300" datetime="2009-03-05T12:05:00-05:00" where="h" result="pass" how="roll" roll="98"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="official" as="introduced">Designating March 2, 2009, as &quot;Read Across America Day&quot;.</title>
+	</titles>
+	<sponsor id="412298"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2009-02-23"/>
+		<cosponsor id="400133" joined="2009-02-25"/>
+		<cosponsor id="400147" joined="2009-03-02"/>
+		<cosponsor id="400280" joined="2009-03-02"/>
+		<cosponsor id="400414" joined="2009-03-02"/>
+		<cosponsor id="400364" joined="2009-02-25"/>
+		<cosponsor id="412272" joined="2009-03-02"/>
+		<cosponsor id="400087" joined="2009-02-23"/>
+		<cosponsor id="400155" joined="2009-03-02"/>
+		<cosponsor id="400263" joined="2009-02-25"/>
+		<cosponsor id="412308" joined="2009-02-25"/>
+		<cosponsor id="400162" joined="2009-02-23"/>
+		<cosponsor id="400070" joined="2009-02-23"/>
+		<cosponsor id="400660" joined="2009-03-02"/>
+		<cosponsor id="412204" joined="2009-02-25"/>
+		<cosponsor id="400302" joined="2009-03-03"/>
+		<cosponsor id="412232" joined="2009-03-05"/>
+		<cosponsor id="400623" joined="2009-02-25"/>
+		<cosponsor id="400271" joined="2009-02-25"/>
+		<cosponsor id="400430" joined="2009-03-02"/>
+		<cosponsor id="412305" joined="2009-02-25"/>
+		<cosponsor id="400628" joined="2009-03-02"/>
+		<cosponsor id="400065" joined="2009-02-25"/>
+		<cosponsor id="412215" joined="2009-02-25"/>
+		<cosponsor id="400244" joined="2009-02-25"/>
+		<cosponsor id="400009" joined="2009-03-02"/>
+		<cosponsor id="400093" joined="2009-03-03"/>
+		<cosponsor id="412266" joined="2009-02-23"/>
+		<cosponsor id="412192" joined="2009-03-02"/>
+		<cosponsor id="412228" joined="2009-02-23"/>
+		<cosponsor id="400318" joined="2009-03-02"/>
+		<cosponsor id="400185" joined="2009-03-02"/>
+		<cosponsor id="400119" joined="2009-02-10"/>
+		<cosponsor id="400033" joined="2009-02-23"/>
+		<cosponsor id="412293" joined="2009-02-25"/>
+		<cosponsor id="412290" joined="2009-03-02"/>
+		<cosponsor id="412214" joined="2009-02-25"/>
+		<cosponsor id="400240" joined="2009-02-25"/>
+		<cosponsor id="400101" joined="2009-02-25"/>
+		<cosponsor id="400215" joined="2009-02-23"/>
+		<cosponsor id="400184" joined="2009-02-25"/>
+		<cosponsor id="400321" joined="2009-02-25"/>
+		<cosponsor id="400179" joined="2009-02-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1236141540" datetime="2009-03-03T12:39:00-05:00"><text>Mr. Polis (CO) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1236141540" datetime="2009-03-03T12:39:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2895-2897"/></action>
+		<action date="1236141540" datetime="2009-03-03T12:39:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 146.</text></action>
+		<action date="1236142380" datetime="2009-03-03T12:53:00-05:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Polis (CO) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1236268560" datetime="2009-03-05T11:56:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2995-2996"/></action>
+		<vote date="1236312300" how="roll" roll="98" datetime="2009-03-05T12:05:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 98). (text: CR 3/03/2009 H2896)</text></vote>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="sr" number="52" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Art, artists, authorship"/>
+		<term name="Books and print media"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Literacy and language arts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Introduced.<br/>Honors Theodor Geisel (Dr. Seuss) for his success in encouraging children to discover the joy of reading. Honors the 12th anniversary of Read Across America Day, which occurs on March 2, 2009. Encourages parents to read with their children for at least 30 minutes on Read Across America Day.<br/>
+	</summary>
+</bill>

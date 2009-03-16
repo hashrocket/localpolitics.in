@@ -1,0 +1,42 @@
+<bill session="110" type="sr" number="533" updated="2009-01-09T21:04:53-05:00">
+	<status><vote date="1209441600" datetime="2008-04-29" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1209009600" datetime="2008-04-24"/>
+	<titles>
+		<title type="official" as="introduced">A resolution expressing the sense of the Senate regarding the political situation in Zimbabwe.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2008-04-28"/>
+		<cosponsor id="400064" joined="2008-04-28"/>
+		<cosponsor id="300008" joined="2008-04-28"/>
+		<cosponsor id="300042" joined="2008-04-24"/>
+		<cosponsor id="300024" joined="2008-04-24"/>
+		<cosponsor id="300038" joined="2008-04-24"/>
+		<cosponsor id="300034" joined="2008-04-24"/>
+		<cosponsor id="300022" joined="2008-04-28"/>
+		<cosponsor id="300067" joined="2008-04-28"/>
+		<cosponsor id="400629" joined="2008-04-24"/>
+		<cosponsor id="400194" joined="2008-04-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1209009600" datetime="2008-04-24"><text>Referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S3409"/></action>
+		<action date="1209441600" datetime="2008-04-29"><text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text></action>
+		<vote date="1209441600" how="by Unanimous Consent" datetime="2008-04-29" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S3550"/><reference label="text as passed Senate" ref="CR S3550"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/29/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Expresses the sense of the Senate: (1) supporting the people of Zimbabwe; (2) that the Zimbabwe Electoral Commission should immediately release the legitimate results of the presidential election and ratify the previously announced results of the parliamentary elections; (3) that President Robert Mugabe should accept the will of the people of Zimbabwe in order to effect a timely and peaceful transition to democratic rule; (4) that the U.S. government and the international community should impose targeted sanctions against individuals in the government of Zimbabwe and state security services and militias who are responsible for human rights abuses and election interference; (5) that the U.S. government and the international community should work together to prepare an economic and political recovery package for Zimbabwe; (6) that regional organizations should play an active role in resolving the crisis; and (7) that the U.N. Security Council should support efforts to bring about a peaceful resolution of the crisis and impose an international arms embargo on Zimbabwe until a legitimate democratic government has taken power.<br/>
+	</summary>
+</bill>

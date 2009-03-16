@@ -1,0 +1,36 @@
+<bill session="111" type="s" number="95" updated="2009-03-07T13:43:25-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">A bill to prohibit appropriated funds from being used in contravention of section 642(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996.</title>
+	</titles>
+	<sponsor id="400418"/>
+	<cosponsors>
+		<cosponsor id="400576" joined="2009-01-16"/>
+		<cosponsor id="300055" joined="2009-01-15"/>
+		<cosponsor id="400105" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Appropriations"/>
+		<term name="Border security and unlawful immigration"/>
+		<term name="Citizenship and naturalization"/>
+		<term name="Law enforcement administration and funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Prohibits appropriated funds for the community oriented policing services program from being used in contravention of section 642(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, which provides that a federal, state, or local government entity or official may not prohibit or restrict any government entity or official from sending to, or receiving from, the Immigration and Naturalization Service information regarding an individual's citizenship or immigration status. 
+	</summary>
+</bill>

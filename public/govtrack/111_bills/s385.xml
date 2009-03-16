@@ -1,0 +1,41 @@
+<bill session="111" type="s" number="385" updated="2009-03-07T14:19:20-05:00">
+	<status><introduced date="1233810000" datetime="2009-02-05"/></status>
+
+	<introduced date="1233810000" datetime="2009-02-05"/>
+	<titles>
+		<title type="short" as="introduced">Intelligence Community Audit Act of 2009</title>
+		<title type="official" as="introduced">A bill to reaffirm and clarify the authority of the Comptroller General to audit and evaluate the programs, activities, and financial transactions of the intelligence community, and for other purposes.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+		<cosponsor id="412243" joined="2009-02-05"/>
+		<cosponsor id="300042" joined="2009-02-09"/>
+		<cosponsor id="300038" joined="2009-02-05"/>
+		<cosponsor id="400357" joined="2009-02-05"/>
+		<cosponsor id="300019" joined="2009-02-05"/>
+		<cosponsor id="300100" joined="2009-02-05"/>
+		<cosponsor id="300064" joined="2009-02-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1233810000" datetime="2009-02-05"><text>Sponsor introductory remarks on measure. (CR S1680-1681)</text></action>
+		<action date="1233810000" datetime="2009-02-05"><text>Read twice and referred to the Select Committee on Intelligence.</text><reference label="text of measure as introduced" ref="CR S1681"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Intelligence (Select)" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="1008" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Congressional oversight"/>
+		<term name="Government information and archives"/>
+		<term name="Intelligence activities, surveillance, classified information"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/5/2009--Introduced.<br/>Intelligence Community Audit Act of 2009 - Reaffirms the authority of the Comptroller General to audit and evaluate financial transactions, programs, and activities of elements of the intelligence community (those elements identified in the National Security Act of 1947) and obtain access to records for such purposes. Allows the Comptroller General to conduct an audit or evaluation of intelligence sources and methods or covert actions only upon a request of a congressional intelligence committee or the majority or minority leader of the Senate or the House of Representatives. Requires the Comptroller General to disclose the results of any such audit or evaluation only to the original requestor, the Director of National Intelligence, and the head of the relevant element of the intelligence community. Requires the Comptroller General to establish safeguards to protect the unauthorized disclosure of all classified and other sensitive information furnished to the Comptroller General in conducting an audit or evaluation.<br/>Requires elements of the intelligence community to cooperate with the Comptroller General in providing documentation and information necessary for audits and evaluations.<br/>
+	</summary>
+</bill>

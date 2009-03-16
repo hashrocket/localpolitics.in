@@ -1,0 +1,64 @@
+<bill session="111" type="hc" number="48" updated="2009-03-07T09:30:38-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of Congress that national health care reform should ensure that the health care needs of women and of all individuals in the United States are met.</title>
+	</titles>
+	<sponsor id="400360"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2009-02-11"/>
+		<cosponsor id="400387" joined="2009-02-11"/>
+		<cosponsor id="412285" joined="2009-02-25"/>
+		<cosponsor id="400041" joined="2009-02-11"/>
+		<cosponsor id="412236" joined="2009-02-25"/>
+		<cosponsor id="412228" joined="2009-02-11"/>
+		<cosponsor id="400364" joined="2009-02-11"/>
+		<cosponsor id="400289" joined="2009-02-11"/>
+		<cosponsor id="400103" joined="2009-02-11"/>
+		<cosponsor id="412220" joined="2009-02-11"/>
+		<cosponsor id="400263" joined="2009-02-11"/>
+		<cosponsor id="400259" joined="2009-02-11"/>
+		<cosponsor id="400436" joined="2009-02-25"/>
+		<cosponsor id="400237" joined="2009-02-11"/>
+		<cosponsor id="412219" joined="2009-02-11"/>
+		<cosponsor id="400101" joined="2009-02-26"/>
+		<cosponsor id="400013" joined="2009-02-11"/>
+		<cosponsor id="400178" joined="2009-02-11"/>
+		<cosponsor id="400378" joined="2009-02-11"/>
+		<cosponsor id="400062" joined="2009-02-11"/>
+		<cosponsor id="400030" joined="2009-02-11"/>
+		<cosponsor id="400366" joined="2009-02-25"/>
+		<cosponsor id="400245" joined="2009-02-11"/>
+		<cosponsor id="412195" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="sc" number="6" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Disability and health-based discrimination"/>
+		<term name="Family planning and birth control"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Health care quality"/>
+		<term name="Health personnel"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Health promotion and preventive care"/>
+		<term name="Medical education"/>
+		<term name="Sex and reproductive health"/>
+		<term name="Women's health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

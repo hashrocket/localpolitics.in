@@ -1,0 +1,46 @@
+<bill session="111" type="h" number="648" updated="2009-03-07T11:03:48-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">Women's Business Ownership Act of 2009</title>
+		<title type="official" as="introduced">To establish the Commission on Women's Business Ownership.</title>
+	</titles>
+	<sponsor id="400204"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2009-01-22"/>
+		<cosponsor id="400185" joined="2009-01-22"/>
+		<cosponsor id="400047" joined="2009-01-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to the Committee on Financial Services, and in addition to the Committees on Oversight and Government Reform, and Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to House Financial Services</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to House Small Business</text></action>
+		<action date="1232600400" datetime="2009-01-22"><committee name="House Small Business"/><text>Referred to the Subcommittee on Rural and Urban Entrepreneurship.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Small Business" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Small Business" subcommittee="Rural and Urban Entrepreneurship" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Commerce"/>
+		<term name="Advisory bodies"/>
+		<term name="Government information and archives"/>
+		<term name="Government investigations"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Small business"/>
+		<term name="Women in business"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2009--Introduced.<br/>Women's Business Ownership Act of 2009 - Establishes the Commission on Women's Business Ownership to review and make recommendations concerning: (1) the status of women business owners nationwide, and the progress made since the 1980 White House Conference on Small Business; (2) the role of the federal government in aid to and promotion of women business owners; and (3) data collection procedures with regard to women-owned businesses and federal initiatives and procurement.<br/>
+	</summary>
+</bill>

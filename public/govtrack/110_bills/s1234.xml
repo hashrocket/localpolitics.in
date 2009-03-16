@@ -1,0 +1,32 @@
+<bill session="110" type="s" number="1234" updated="2009-01-09T14:21:44-05:00">
+	<status><introduced date="1177560000" datetime="2007-04-26"/></status>
+
+	<introduced date="1177560000" datetime="2007-04-26"/>
+	<titles>
+		<title type="short" as="introduced">Stop Business with Terrorists Act of 2007</title>
+		<title type="official" as="introduced">A bill to strengthen the liability of parent companies for violations of sanctions by foreign entities, and for other purposes.</title>
+	</titles>
+	<sponsor id="300064"/>
+	<cosponsors>
+		<cosponsor id="300022" joined="2007-04-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1177560000" datetime="2007-04-26"><text>Sponsor introductory remarks on measure. (CR S5214)</text></action>
+		<action date="1177560000" datetime="2007-04-26"><text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text><reference label="text of measure as introduced" ref="CR S5214"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/26/2007--Introduced.<br/>Stop Business with Terrorists Act of 2007 - Subjects the parent company of a foreign entity that violates certain executive orders prohibiting certain business transactions with Iran (or other such prohibitions imposed on Iran under the authority of the International Emergency Economic Powers Act) to penalties to the same extent as if the parent company had engaged in such violations. Provides that such prohibitions and penalties shall not apply if the parent company divests or terminates its business with such entity.<br/>
+	</summary>
+</bill>

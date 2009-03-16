@@ -1,0 +1,32 @@
+<bill session="110" type="sr" number="649" updated="2009-01-09T21:19:29-05:00">
+	<status><vote date="1220846400" datetime="2008-09-08" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1217563200" datetime="2008-08-01"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating September 18, 2008, as &quot;National Attention Deficit Disorder Awareness Day&quot;.</title>
+	</titles>
+	<sponsor id="300018"/>
+	<cosponsors>
+		<cosponsor id="300090" joined="2008-08-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1217563200" datetime="2008-08-01"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S8050"/></action>
+		<action date="1220846400" datetime="2008-09-08"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S8141-8142"/></action>
+		<vote date="1220846400" how="by Unanimous Consent" datetime="2008-09-08" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S8141-8142"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/8/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates September 18, 2008, as National Attention Deficit Disorder Awareness Day.<br/>Recognizes Attention Deficit/Hyperactivity Disorder (ADHD) as a major public health concern. Encourages Americans to find out more about ADHD, support ADHD mental health services, and seek treatment and support. Expresses the sense of the Senate that the government has a responsibility to: (1) raise awareness about ADHD; and (2) consider ways to improve mental health services for children and adults with ADHD.<br/>
+	</summary>
+</bill>

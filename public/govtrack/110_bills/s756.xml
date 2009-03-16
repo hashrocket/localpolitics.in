@@ -1,0 +1,51 @@
+<bill session="110" type="s" number="756" retreived_date="1226087488" updated="2008-11-07T14:51:28-05:00">
+	<status><introduced date="1173070800" datetime="2007-03-05"/></status>
+
+	<introduced date="1173070800" datetime="2007-03-05"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize appropriations for the Department of Defense to address the equipment reset and other equipment needs of the National Guard, and for other purposes.</title>
+	</titles>
+	<sponsor id="300034"/>
+	<cosponsors>
+		<cosponsor id="400050" joined="2007-03-14"/>
+		<cosponsor id="412246" joined="2007-03-06"/>
+		<cosponsor id="300063" joined="2007-03-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1173070800" datetime="2007-03-05"><text>Sponsor introductory remarks on measure. (CR S2600-2601)</text></action>
+		<action date="1173070800" datetime="2007-03-05"><text>Read twice and referred to the Committee on Armed Services.</text></action>
+		<action date="1175054400" datetime="2007-03-28"><text>Sponsor introductory remarks on measure. (CR S4037-4038)</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Defense policy"/>
+		<term name="Armed forces"/>
+		<term name="Authorization"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Congress"/>
+		<term name="Congress and military policy"/>
+		<term name="Congressional reporting requirements"/>
+		<term name="Defense budgets"/>
+		<term name="Defense economics"/>
+		<term name="Defense industries"/>
+		<term name="Defense procurement"/>
+		<term name="Department of Defense"/>
+		<term name="Executive departments"/>
+		<term name="Military and naval supplies"/>
+		<term name="Military readiness"/>
+		<term name="National Guard"/>
+		<term name="Public contracts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/5/2007--Introduced.<br/>Authorizes appropriations for FY2008-FY2013 for the Department of Defense (DOD) for the Army and Air National Guards for equipment reset (resupply) requirements, and to otherwise remedy other equipment shortfalls in order to bring the Army and Air National Guards to full equipment readiness. Requires a report from the Secretary to Congress on the capability of the U.S. defense industrial base to produce the necessary equipment.<br/>
+	</summary>
+</bill>

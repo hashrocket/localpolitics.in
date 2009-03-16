@@ -1,0 +1,31 @@
+<bill session="111" type="h" number="998" updated="2009-03-07T11:45:46-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="short" as="introduced">Policyholder Disaster Protection Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for the creation of disaster protection funds by property and casualty insurance companies for the payment of policyholders' claims arising from future catastrophic events.</title>
+	</titles>
+	<sponsor id="412311"/>
+	<cosponsors>
+		<cosponsor id="400311" joined="2009-03-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Introduced.<br/>Policyholder Disaster Protection Act of 2009 - Amends the Internal Revenue Code to allow insurance companies (other than life insurance companies) to make tax deductible contributions to a tax-exempt policyholder disaster protection fund established by this Act for the payment of policyholders' claims arising from certain catastrophic events, such as windstorms, earthquakes, fires, or floods.<br/>
+	</summary>
+</bill>

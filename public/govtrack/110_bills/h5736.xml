@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="5736" updated="2009-01-09T04:45:00-05:00">
+	<status><vote date="1221688920" datetime="2008-09-17T19:02:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1207713600" datetime="2008-04-09"/>
+	<titles>
+		<title type="official" as="introduced">To designate the Department of Veterans Affairs outpatient clinic in Gadsden, Alabama, as the Colonel Ola Lee Mize Veterans Clinic.</title>
+	</titles>
+	<sponsor id="400004"/>
+	<cosponsors>
+		<cosponsor id="400092" joined="2008-06-18"/>
+		<cosponsor id="400127" joined="2008-06-18"/>
+		<cosponsor id="400084" joined="2008-06-18"/>
+		<cosponsor id="400010" joined="2008-06-18"/>
+		<cosponsor id="400038" joined="2008-06-18"/>
+		<cosponsor id="400341" joined="2008-06-18"/>
+	</cosponsors>
+	<actions>
+		<action date="1207713600" datetime="2008-04-09"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1221505560" datetime="2008-09-15T16:06:00-04:00"><text>Mr. Filner moved to suspend the rules and pass the bill.</text></action>
+		<action date="1221505560" datetime="2008-09-15T16:06:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8072-8073"/></action>
+		<action date="1221505560" datetime="2008-09-15T16:06:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5736.</text></action>
+		<action date="1221506220" datetime="2008-09-15T16:17:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Stearns objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1221688920" datetime="2008-09-17T19:02:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8368-8369"/></action>
+		<vote date="1221688920" how="by voice vote" datetime="2008-09-17T19:02:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 9/15/2008 H8072)</text></vote>
+		<action date="1222056000" datetime="2008-09-22"><text>Received in the Senate.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/17/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the Department of Veterans Affairs (VA) outpatient clinic in Gadsden, Alabama, as the &quot;Colonel Ola Lee Mize Veterans Clinic.&quot;<br/>
+	</summary>
+</bill>

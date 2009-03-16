@@ -1,0 +1,31 @@
+<bill session="111" type="s" number="440" updated="2009-03-07T14:25:46-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow an above-the-line deduction for attorney fees and costs in connection with civil claim awards.</title>
+	</titles>
+	<sponsor id="300092"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Sponsor introductory remarks on measure. (CR S2329)</text></action>
+		<action date="1234501200" datetime="2009-02-13"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S2330"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2009--Introduced.<br/>Amends the Internal Revenue Code to expand the tax deduction for attorney's fees and courts costs to allow an above-the-line deduction for such fees and costs paid in connection with any legal action involving a civil claim (currently, limited to actions involving unlawful discrimination, the False Claims Act, and Medicare payments). 
+	</summary>
+</bill>

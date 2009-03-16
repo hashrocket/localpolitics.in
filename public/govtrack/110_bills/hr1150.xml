@@ -1,0 +1,42 @@
+<bill session="110" type="hr" number="1150" updated="2009-01-09T10:17:21-05:00">
+	<status><vote date="1213845420" datetime="2008-06-18T12:17:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1209009600" datetime="2008-04-24"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives that the Transportation Security Administration should, in accordance with the congressional mandate provided for in the Implementing Recommendations of the 9/11 Commission Act of 2007, enhance security against terrorist attack and other security threats to our Nation's rail and mass transit lines.</title>
+	</titles>
+	<sponsor id="400199"/>
+	<cosponsors>
+		<cosponsor id="400402" joined="2008-04-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1209009600" datetime="2008-04-24"><text>Sponsor introductory remarks on measure. (CR E728)</text></action>
+		<action date="1209009600" datetime="2008-04-24"><text>Referred to the House Committee on Homeland Security.</text></action>
+		<action date="1209355200" datetime="2008-04-28"><text>Referred to the Subcommittee on Transportation Security and Infrastructure Protection.</text></action>
+		<action date="1209614400" datetime="2008-05-01"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1211256000" datetime="2008-05-20"><text>Subcommittee on Transportation Security and Infrastructure Protection Discharged.</text></action>
+		<action date="1211256000" datetime="2008-05-20"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1211256000" datetime="2008-05-20" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1213723980" datetime="2008-06-17T14:33:00-04:00"><text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-716.</text></action>
+		<calendar number="235" date="1213724040" datetime="2008-06-17T14:34:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 235.</text></calendar>
+		<action date="1213800600" datetime="2008-06-18T11:50:00-04:00"><text>Mr. Thompson (MS) moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1213800660" datetime="2008-06-18T11:51:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5502-5506"/></action>
+		<action date="1213800660" datetime="2008-06-18T11:51:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1150.</text></action>
+		<vote date="1213845420" how="by voice vote" datetime="2008-06-18T12:17:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H5502"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/18/2008--Passed House amended. (This measure has not been amended since it was reported to the House on June 17, 2008. The summary of that version is repeated here.) Urges the Transportation Security Administration (TSA) to: (1) continue to enhance security against terrorist attack and other security threats to our nation's rail and mass transit lines, as well as school transportation systems, including as provided for in the Implementing Recommendations of the 9/11 Commission Act of 2007; (2) continue development of the National Explosives Detection Canine Team program, with particular attention to the application of its training standards and the establishment of a reliable source of domestically-bred canines; and (3) improve upon the success of the Online Learning Center by providing increased person-to-person professional development programs for persons responsible for securing against such attacks on our transportation systems. Urges TSA to give special attention to school transportation systems by working with school administrators, state and local law enforcement, and other representatives in the school transportation industry to keep children safe from terrorist attack.<br/>
+	</summary>
+</bill>

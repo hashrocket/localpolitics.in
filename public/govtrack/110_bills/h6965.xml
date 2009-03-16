@@ -1,0 +1,35 @@
+<bill session="110" type="h" number="6965" updated="2009-01-09T07:10:25-05:00">
+	<status><vote date="1222220160" datetime="2008-09-23T22:36:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1221710400" datetime="2008-09-18"/>
+	<titles>
+		<title type="official" as="introduced">To extend the authorization of the national flood insurance program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400140"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1221710400" datetime="2008-09-18"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1222219860" datetime="2008-09-23T22:31:00-04:00"><text>Mr. Watt moved to suspend the rules and pass the bill.</text></action>
+		<action date="1222219860" datetime="2008-09-23T22:31:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8705-8706"/></action>
+		<action date="1222219860" datetime="2008-09-23T22:31:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6965.</text></action>
+		<vote date="1222220160" how="by voice vote" datetime="2008-09-23T22:36:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H8705"/></vote>
+		<action date="1222228800" datetime="2008-09-24"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/23/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Amends the National Flood Insurance Act of 1968 to extend the authorization of the national flood insurance program from September 30, 2008, through April 30, 2009.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="110" type="s" number="3474" updated="2009-01-09T19:08:06-05:00">
+	<status><calendar date="1222142400" datetime="2008-09-23" /></status>
+
+	<introduced date="1221105600" datetime="2008-09-11"/>
+	<titles>
+		<title type="short" as="introduced">Federal Information Security Management Act of 2008</title>
+		<title type="short" as="introduced">FISMA Act of 2008</title>
+		<title type="short" as="reported to senate">Federal Information Security Management Act of 2008</title>
+		<title type="short" as="reported to senate">FISMA Act of 2008</title>
+		<title type="official" as="introduced">A bill to amend title 44, United States Code, to enhance information security of the Federal Government, and for other purposes.</title>
+	</titles>
+	<sponsor id="300019"/>
+	<cosponsors>
+		<cosponsor id="300025" joined="2008-09-16"/>
+		<cosponsor id="300024" joined="2008-09-16"/>
+		<cosponsor id="300067" joined="2008-09-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1221105600" datetime="2008-09-11"><text>Sponsor introductory remarks on measure. (CR S8388-8389)</text></action>
+		<action date="1221105600" datetime="2008-09-11"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text><reference label="text of measure as introduced" ref="CR S8389-8391"/></action>
+		<calendar date="1222142400" datetime="2008-09-23" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1222833600" datetime="2008-10-01"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="1105" date="1222833600" datetime="2008-10-01" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1105.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/1/2008--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Federal Information Security Management Act of 2008 or the FISMA Act of 2008 - Amends federal law relating to information security to require federal agencies to perform an independent audit of their information security programs to determine their effectiveness (current law requires an independent evaluation).<br/>Requires each federal agency to designate a Chief Information Security Officer to protect the agency's information security network. Establishes a Chief Information Security Officers Council to assist such Officers in developing best practices and performance measures for agency information security.<br/>Requires the Director of the Office of Management and Budget (OMB) to promulgate information security regulations governing contracts between the federal government and private entities.<br/>Requires the Department of Homeland Security (DHS) to report annually to specified congressional committees on operational evaluations and testing protocols relating to information security networks.<br/>
+	</summary>
+</bill>

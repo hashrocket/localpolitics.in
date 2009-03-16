@@ -1,0 +1,90 @@
+<bill session="110" type="h" number="547" updated="2009-01-08T17:55:52-05:00">
+	<status><vote date="1170970680" datetime="2007-02-08T17:38:00-05:00" where="h" result="pass" how="roll" roll="92"/></status>
+
+	<introduced date="1169096400" datetime="2007-01-18"/>
+	<titles>
+		<title type="short" as="introduced">Advanced Fuels Infrastructure Research and Development Act</title>
+		<title type="short" as="reported to house">Advanced Fuels Infrastructure Research and Development Act</title>
+		<title type="short" as="passed house">Advanced Fuels Infrastructure Research and Development Act</title>
+		<title type="official" as="introduced">To facilitate the development of markets for alternative fuels and Ultra Low Sulfur Diesel fuel through research, development, and demonstration and data collection.</title>
+		<title type="official" as="amended by house">To facilitate the development of markets for biofuels and Ultra Low Sulfur Diesel fuel through research and development and data collection.</title>
+	</titles>
+	<sponsor id="400155"/>
+	<cosponsors>
+		<cosponsor id="400199" joined="2007-01-29"/>
+		<cosponsor id="400635" joined="2007-02-05"/>
+		<cosponsor id="400165" joined="2007-01-29"/>
+		<cosponsor id="400630" joined="2007-02-05"/>
+		<cosponsor id="400229" joined="2007-01-29"/>
+		<cosponsor id="400264" joined="2007-02-05"/>
+		<cosponsor id="400412" joined="2007-02-05"/>
+		<cosponsor id="412188" joined="2007-01-29"/>
+		<cosponsor id="400663" joined="2007-01-29"/>
+		<cosponsor id="400442" joined="2007-01-29"/>
+		<cosponsor id="400638" joined="2007-02-05"/>
+		<cosponsor id="412236" joined="2007-01-29"/>
+		<cosponsor id="400649" joined="2007-01-29"/>
+		<cosponsor id="400654" joined="2007-02-05"/>
+		<cosponsor id="400186" joined="2007-01-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1169096400" datetime="2007-01-18"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1170133200" datetime="2007-01-30"><text>Committee Hearings Held.</text></action>
+		<action date="1170133200" datetime="2007-01-30"><text>Referred to the Subcommittee on Energy and Environment.</text></action>
+		<action date="1170133200" datetime="2007-01-30"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1170717360" datetime="2007-02-05T19:16:00-05:00"><text>Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-7.</text></action>
+		<calendar date="1170717420" datetime="2007-02-05T19:17:00-05:00" ><text>Placed on the Union Calendar, Calendar No. 2.</text></calendar>
+		<action date="1170879000" datetime="2007-02-07T16:10:00-05:00"><text>Rules Committee Resolution H. Res. 133 Reported to House. Rule provides for consideration of H.R. 547 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be read by section. Bill is open to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 or rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Science and Technology now printed in the bill.</text></action>
+		<action date="1170948120" datetime="2007-02-08T11:22:00-05:00"><text>Rule H. Res. 133 passed House.</text></action>
+		<action date="1170948180" datetime="2007-02-08T11:23:00-05:00"><text>Considered under the provisions of rule H. Res. 133.</text><reference label="consideration" ref="CR H1356-1393"/><reference label="text as reported in House" ref="CR H1359, H1365"/></action>
+		<action date="1170948180" datetime="2007-02-08T11:23:00-05:00"><text>Rule provides for consideration of H.R. 547 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be read by section. Bill is open to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 or rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Science and Technology now printed in the bill.</text></action>
+		<action date="1170948240" datetime="2007-02-08T11:24:00-05:00"><text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 133 and Rule XVIII.</text></action>
+		<action date="1170948240" datetime="2007-02-08T11:24:00-05:00"><text>The Speaker designated the Honorable Michael R. McNulty to act as Chairman of the Committee.</text></action>
+		<action date="1170948240" datetime="2007-02-08T11:24:00-05:00"><text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 547.</text></action>
+		<action date="1170949440" datetime="2007-02-08T11:44:00-05:00"><text>DEBATE - The Committee of the Whole proceeded with debate on the Burgess amendment.</text></action>
+		<action date="1170949620" datetime="2007-02-08T11:47:00-05:00"><text>DEBATE - The Committee of the Whole proceeded with debate on the Eshoo amendment.</text></action>
+		<action date="1170993900" datetime="2007-02-08T12:05:00-05:00"><text>DEBATE - The Committee of the Whole proceeded with debate on the Hastings (FL) amendment.</text></action>
+		<action date="1170994260" datetime="2007-02-08T12:11:00-05:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Hastings (FL) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Price (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.</text></action>
+		<action date="1170994320" datetime="2007-02-08T12:12:00-05:00"><text>DEBATE - The Committee of the Whole proceeded with debate on the Weller amendment.</text></action>
+		<action date="1170994680" datetime="2007-02-08T12:18:00-05:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Weller amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Weller demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.</text></action>
+		<action date="1170994800" datetime="2007-02-08T12:20:00-05:00"><text>DEBATE - The Committee of the Whole proceeded with debate on the Dent amendment.</text></action>
+		<action date="1170995520" datetime="2007-02-08T12:32:00-05:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Dent amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Dent demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.</text></action>
+		<action date="1170995760" datetime="2007-02-08T12:36:00-05:00"><text>DEBATE - The Committee of the Whole proceeded with debate on the Rogers (MI) amendment pending reservation of a point of order. Subsequently, the reservation was removed.</text></action>
+		<action date="1170995940" datetime="2007-02-08T12:39:00-05:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Rogers(MI) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Rogers (MI) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.</text></action>
+		<action date="1170996000" datetime="2007-02-08T12:40:00-05:00"><text>DEBATE - The Committee of the Whole proceeded with debate on the Roskam amendment pending reservation of a point of order. Subsequently, the reservation was removed.</text></action>
+		<action date="1170954180" datetime="2007-02-08T13:03:00-05:00"><text>DEBATE - The Committee of the Whole proceeded with debate on the Rogers (MI) amendment pending reservation of a point of order.</text></action>
+		<action date="1170954600" datetime="2007-02-08T13:10:00-05:00"><text>DEBATE - The Committee of the Whole proceeded with debate on the Burguss amendment pending reservation of a point of order.</text></action>
+		<action date="1170955020" datetime="2007-02-08T13:17:00-05:00"><text>DEBATE - The Committee of the Whole proceeded with debate on the Cantor amendment pending reservation of a point of order. Subsequently, the reservation was removed.</text></action>
+		<action date="1170961260" datetime="2007-02-08T15:01:00-05:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Cantor amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Cantor demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.</text></action>
+		<action date="1170961260" datetime="2007-02-08T15:01:00-05:00"><text>DEBATE - The Committee of the Whole proceeded with debate on the Brown-Waite amendment.</text></action>
+		<action date="1170961380" datetime="2007-02-08T15:03:00-05:00"><text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.</text></action>
+		<action date="1170965460" datetime="2007-02-08T16:11:00-05:00"><text>DEBATE - The Committee of the Whole proceeded with debate on the Burgess amendment.</text></action>
+		<action date="1170965640" datetime="2007-02-08T16:14:00-05:00"><text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 547.</text></action>
+		<action date="1170965820" datetime="2007-02-08T16:17:00-05:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H1387"/></action>
+		<action date="1170965880" datetime="2007-02-08T16:18:00-05:00"><text>ORDER OF PROCEDURE - Mr. Hoyer asked unanimous consent that, during further proceedings in the House on H.R. 547, the Chair be authorized to reduce to two minutes the minimum time for electronic voting on any question that otherwise could be subjected to five-minute voting under clause 8 or 9 of rule XX. Agreed to without objection.</text></action>
+		<action date="1170968820" datetime="2007-02-08T17:07:00-05:00"><text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text></action>
+		<action date="1170968820" datetime="2007-02-08T17:07:00-05:00"><text>Mr. Shimkus moved to recommit with instructions to Science and Technology.</text><reference label="consideration" ref="CR H1391"/><reference label="text" ref="CR H1391"/></action>
+		<action date="1170968880" datetime="2007-02-08T17:08:00-05:00"><text>DEBATE - The House proceeded with 10 minutes of debate on the Shimkus motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with amendments which insert provisions allowing the inclusion of alternative fuels, specifically clean coal.</text></action>
+		<action date="1170969180" datetime="2007-02-08T17:13:00-05:00"><text>The previous question on the motion to recommit with instructions was ordered without objection.</text><reference label="consideration" ref="CR H1391-1392"/></action>
+		<action date="1170970320" datetime="2007-02-08T17:32:00-05:00"><text>On motion to recommit with instructions Failed by recorded vote: 200 - 207 (Roll no. 91).</text></action>
+		<vote date="1170970680" how="roll" roll="92" datetime="2007-02-08T17:38:00-05:00" where="h" type="vote" result="pass" ><text>On passage Passed by recorded vote: 400 - 3 (Roll no. 92).</text></vote>
+		<action date="1170970680" datetime="2007-02-08T17:38:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1171256400" datetime="2007-02-12"><text>Received in the Senate.</text></action>
+		<action date="1171688400" datetime="2007-02-17"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/8/2007--Passed House amended. Advanced Fuels Infrastructure Research and Development Act - Instructs the Assistant Administrator of the Office of Research and Development of the Environmental Protection Agency (EPA) to implement a program of research and development of materials to be added to biofuels to make them more compatible with existing infrastructure used to store and deliver petroleum-based fuels to the point of final sale. Cites problem areas to be addressed, including microbial contamination. Directs the Assistant Administrator to: (1) implement a research, development, demonstration program on portable, low-cost, and accurate methods and technologies for testing sulfur content in fuel, including Ultra Low Sulfur Diesel and Low Sulfur Diesel; and (2) begin demonstrations of such technologies within a year after enactment of this Act. Directs the National Institute of Standards and Technology to develop a physical properties database and standard reference materials for biofuels. Authorizes appropriations to EPA to implement this Act.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="110" type="s" number="2420" updated="2009-01-09T16:53:55-05:00">
+	<status><enacted date="1213934400" datetime="2008-06-20" /></status>
+
+	<introduced date="1196917200" datetime="2007-12-06"/>
+	<titles>
+		<title type="short" as="introduced">Federal Food Donation Act of 2007</title>
+		<title type="short" as="passed house">Federal Food Donation Act of 2008</title>
+		<title type="short" as="reported to senate">Federal Food Donation Act of 2008</title>
+		<title type="short" as="passed senate">Federal Food Donation Act of 2008</title>
+		<title type="short" as="enacted">Federal Food Donation Act of 2008</title>
+		<title type="official" as="introduced">A bill to encourage the donation of excess food to nonprofit organizations that provide assistance to food-insecure people in the United States in contracts entered into by executive agencies for the provision, service, or sale of food.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="2008-01-22"/>
+		<cosponsor id="300025" joined="2008-03-10"/>
+		<cosponsor id="300070" joined="2007-12-13"/>
+		<cosponsor id="300030" joined="2008-04-09"/>
+		<cosponsor id="300098" joined="2008-04-01"/>
+		<cosponsor id="300038" joined="2008-04-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1196917200" datetime="2007-12-06"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<calendar date="1207800000" datetime="2008-04-10" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1211428800" datetime="2008-05-22"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 110-338.</text></action>
+		<calendar under="General Orders" number="748" date="1211428800" datetime="2008-05-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 748.</text></calendar>
+		<vote date="1211428800" how="by Unanimous Consent" datetime="2008-05-22" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S4844-4845"/><reference label="text as passed Senate" ref="CR S4844-4845"/></vote>
+		<action date="1211515200" datetime="2008-05-23"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1212513180" datetime="2008-06-03T14:13:00-04:00"><text>Received in the House.</text></action>
+		<action date="1212518760" datetime="2008-06-03T15:46:00-04:00"><text>Held at the desk.</text></action>
+		<action date="1212519000" datetime="2008-06-03T15:50:00-04:00"><text>Mr. Clay moved to suspend the rules and pass the bill.</text></action>
+		<action date="1212519060" datetime="2008-06-03T15:51:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4852-4853"/></action>
+		<action date="1212519060" datetime="2008-06-03T15:51:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 2420.</text></action>
+		<vote date="1212519300" how="by voice vote" datetime="2008-06-03T15:55:00-04:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H4852"/></vote>
+		<topresident date="1212465600" datetime="2008-06-03" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1213070400" datetime="2008-06-10" ><text>Presented to President.</text></topresident>
+		<signed date="1213934400" datetime="2008-06-20" ><text>Signed by President.</text></signed>
+		<enacted number="110-247" date="1213934400" datetime="2008-06-20" type="public" ><text>Became Public Law No: 110-247.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/20/2008--Public Law. (This measure has not been amended since it was passed by the Senate on May 22, 2008. The summary of that version is repeated here.) Federal Food Donation Act of 2008 - Requires the Federal Acquisition Regulation to be revised to require all government contracts above $25,000 for the provision, service, or sale of food in the United States, or for the lease or rental of federal property to a private entity for events at which food is provided in the United States, to include clauses that: (1) encourage the donation of excess, apparently wholesome food to nonprofit organizations that provide assistance to people with inconsistent access to sufficient, safe, and nutritious food; (2) provide that the head of an executive agency involved shall not assume responsibility for the costs and logistics of collecting, transporting, maintaining the safety of, or distributing such food; and (3) exempt any executive agency and any contractor making donations pursuant to such a contract from liability to the extent provided under the Bill Emerson Good Samaritan Food Donation Act.<br/>
+	</summary>
+</bill>

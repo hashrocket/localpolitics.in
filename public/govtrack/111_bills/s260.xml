@@ -1,0 +1,46 @@
+<bill session="111" type="s" number="260" updated="2009-03-07T14:04:21-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide for the taxation of income of controlled foreign corporations attributable to imported property.</title>
+	</titles>
+	<sponsor id="300037"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2009-01-15"/>
+		<cosponsor id="400050" joined="2009-01-15"/>
+		<cosponsor id="300059" joined="2009-01-15"/>
+		<cosponsor id="300093" joined="2009-01-15"/>
+		<cosponsor id="300042" joined="2009-01-15"/>
+		<cosponsor id="300038" joined="2009-01-15"/>
+		<cosponsor id="300066" joined="2009-01-29"/>
+		<cosponsor id="300073" joined="2009-01-15"/>
+		<cosponsor id="300061" joined="2009-01-15"/>
+		<cosponsor id="300043" joined="2009-01-15"/>
+		<cosponsor id="412247" joined="2009-01-15"/>
+		<cosponsor id="300051" joined="2009-01-15"/>
+		<cosponsor id="300058" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Sponsor introductory remarks on measure. (CR S616)</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Foreign and international corporations"/>
+		<term name="Income tax credits"/>
+		<term name="Taxation of foreign income"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Amends the Internal Revenue Code to include in foreign base company income, for purposes of determining the foreign trade income of controlled foreign corporations, imported property income. Defines &quot;imported property income&quot; as, with certain exceptions, income attributable to property manufactured outside of the United States and imported for sale into the United States. Provides for a separate application of limitations on the foreign tax credit for imported property income.<br/>
+	</summary>
+</bill>

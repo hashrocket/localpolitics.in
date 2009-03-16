@@ -1,0 +1,66 @@
+<bill session="110" type="h" number="835" updated="2009-01-08T18:33:42-05:00">
+	<status><vote date="1175099280" datetime="2007-03-28T13:28:00-04:00" where="h" result="pass" how="roll" roll="205"/></status>
+
+	<introduced date="1170738000" datetime="2007-02-06"/>
+	<titles>
+		<title type="short" as="introduced">Hawaiian Homeownership Opportunity Act of 2007</title>
+		<title type="short" as="passed house">Hawaiian Homeownership Opportunity Act of 2007</title>
+		<title type="short" as="reported to senate">Hawaiian Homeownership Opportunity Act of 2007</title>
+		<title type="official" as="introduced">To reauthorize the programs of the Department of Housing and Urban Development for housing assistance for Native Hawaiians.</title>
+	</titles>
+	<sponsor id="400001"/>
+	<cosponsors>
+		<cosponsor id="400140" joined="2007-02-06"/>
+		<cosponsor id="400422" joined="2007-02-06"/>
+		<cosponsor id="412200" joined="2007-02-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1170738000" datetime="2007-02-06"><text>Sponsor introductory remarks on measure. (CR E275)</text></action>
+		<action date="1170738000" datetime="2007-02-06"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1171429200" datetime="2007-02-14"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1171429200" datetime="2007-02-14" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1173981900" datetime="2007-03-15T15:05:00-04:00"><text>Reported by the Committee on Financial Services. H. Rept. 110-50.</text></action>
+		<calendar number="23" date="1173981960" datetime="2007-03-15T15:06:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 23.</text></calendar>
+		<action date="1174499520" datetime="2007-03-21T14:52:00-04:00"><text>Ms. Waters moved to suspend the rules and pass the bill.</text></action>
+		<action date="1174499580" datetime="2007-03-21T14:53:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2769-2772"/></action>
+		<action date="1174499580" datetime="2007-03-21T14:53:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 835.</text></action>
+		<action date="1174500960" datetime="2007-03-21T15:16:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1174506360" datetime="2007-03-21T16:46:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2785"/></action>
+		<vote date="1174507920" how="roll" roll="173" datetime="2007-03-21T17:12:00-04:00" where="h" type="vote" suspension="1" result="fail" ><text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 262 - 162 (Roll no. 173).</text><reference label="text" ref="CR H2769-2770"/></vote>
+		<action date="1174948200" datetime="2007-03-26T19:30:00-04:00"><text>Rules Committee Resolution H. Res. 269 Reported to House. Rule provides for consideration of H.R. 835 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text></action>
+		<action date="1175015820" datetime="2007-03-27T14:17:00-04:00"><text>Rule H. Res. 269 passed House.</text></action>
+		<action date="1175039640" datetime="2007-03-27T20:54:00-04:00"><text>Considered under the provisions of rule H. Res. 269.</text><reference label="consideration" ref="CR H3164-3167"/></action>
+		<action date="1175039640" datetime="2007-03-27T20:54:00-04:00"><text>Rule provides for consideration of H.R. 835 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text></action>
+		<action date="1175039640" datetime="2007-03-27T20:54:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H.R. 835.</text></action>
+		<action date="1175040900" datetime="2007-03-27T21:15:00-04:00"><text>Pursuant to section 2 of H. Res. 269, the Chair announced that further proceedings on H.R. 835 would be postponed.</text></action>
+		<action date="1175088480" datetime="2007-03-28T10:28:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3190-3191"/></action>
+		<action date="1175088540" datetime="2007-03-28T10:29:00-04:00"><text>DEBATE - Pursuant to section 2 of H. Res. 269, the House proceeded further with debate H.R. 835.</text></action>
+		<action date="1175088840" datetime="2007-03-28T10:34:00-04:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H3191"/></action>
+		<action date="1175088900" datetime="2007-03-28T10:35:00-04:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 835, the Chair put the question on adoption of the bill and by voice vote, announced that the ayes had prevailed. Mr. Campbell demanded the yeas and nays and the Chair postponed further proceedings on adoption of the bill until later in the legislative day.</text></action>
+		<action date="1175098800" datetime="2007-03-28T13:20:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3205-3206"/></action>
+		<vote date="1175099280" how="roll" roll="205" datetime="2007-03-28T13:28:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed by the Yeas and Nays: 272 - 150, 1 Present (Roll no. 205). (text: CR 3/27/2007 H3164-3165)</text></vote>
+		<action date="1175054400" datetime="2007-03-28"><text>Received in the Senate and Read twice and referred to the Committee on Indian Affairs.</text></action>
+		<calendar date="1178769600" datetime="2007-05-10" ><text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1183953600" datetime="2007-07-09"><text>Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-126.</text></action>
+		<calendar under="General Orders" number="262" date="1183953600" datetime="2007-07-09" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 262.</text></calendar>
+		<action date="1185336000" datetime="2007-07-25"><text>Referred to the Committee on Banking, Housing, and Urban Affairs pursuant to the order of May 27, 1988, for a period not to exceed 60 days.</text></action>
+		<calendar date="1190174400" datetime="2007-09-19" ><text>Committee on Banking, Housing, and Urban Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1190779200" datetime="2007-09-26"><text>Committee on Banking, Housing, and Urban Affairs. Reported by Senator Dodd without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="388" date="1190779200" datetime="2007-09-26" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 388.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/26/2007--Reported to Senate without amendment, 2nd committee reporting. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Hawaiian Homeownership Opportunity Act of 2007 - Amends the Native American Housing Assistance and Self-Determination Act of 1996 and the Housing and Community Development Act of 1992 to extend through FY2012 the authorization of appropriations for housing assistance for Native Americans and loan guarantees for Native Hawaiian housing.<br/>Amends the Native American Housing Assistance and Self-Determination Act of 1996 to: (1) make the Department of Hawaiian Home Lands of the state of Hawaii eligible for loan guarantees; and (2) extend through FY2012 the authorization of appropriations for the credit subsidy to cover the costs of federal guarantees for financing for tribal housing activities.<br/>
+	</summary>
+</bill>

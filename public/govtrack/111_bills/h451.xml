@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="451" updated="2009-03-07T10:40:41-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide a 2-year extension of the credit for electricity produced from certain renewable resources.</title>
+	</titles>
+	<sponsor id="412316"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="435" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Alternative and renewable resources"/>
+		<term name="Electric power generation and transmission"/>
+		<term name="Income tax credits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Amends the Internal Revenue Code to extend for two years the tax credit for producing electricity from certain renewable resources (e.g., wind, biomass, solar, trash, and hydropower generating facilities).<br/>
+	</summary>
+</bill>

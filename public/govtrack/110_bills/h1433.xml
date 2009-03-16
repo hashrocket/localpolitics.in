@@ -1,0 +1,71 @@
+<bill session="110" type="h" number="1433" updated="2009-01-08T19:50:43-05:00">
+	<status><calendar date="1173931200" datetime="2007-03-15" /></status>
+
+	<introduced date="1173416400" datetime="2007-03-09"/>
+	<titles>
+		<title type="short" as="introduced">District of Columbia House Voting Rights Act of 2007</title>
+		<title type="short" as="reported to house">District of Columbia House Voting Rights Act of 2007</title>
+		<title type="official" as="introduced">To provide for the treatment of the District of Columbia as a Congressional district for purposes of representation in the House of Representatives, and for other purposes.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-03-20"/>
+		<cosponsor id="400289" joined="2007-03-09"/>
+		<cosponsor id="400080" joined="2007-03-09"/>
+		<cosponsor id="400102" joined="2007-03-19"/>
+		<cosponsor id="400623" joined="2007-03-14"/>
+		<cosponsor id="412215" joined="2007-03-14"/>
+		<cosponsor id="400196" joined="2007-03-09"/>
+		<cosponsor id="400370" joined="2007-03-09"/>
+		<cosponsor id="400324" joined="2007-03-09"/>
+		<cosponsor id="400098" joined="2007-03-09"/>
+		<cosponsor id="400008" joined="2007-03-19"/>
+		<cosponsor id="400346" joined="2007-03-19"/>
+		<cosponsor id="400422" joined="2007-03-19"/>
+		<cosponsor id="400255" joined="2007-03-09"/>
+		<cosponsor id="400189" joined="2007-03-09"/>
+		<cosponsor id="400093" joined="2007-03-14"/>
+		<cosponsor id="400425" joined="2007-03-09"/>
+		<cosponsor id="400321" joined="2007-03-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1173416400" datetime="2007-03-09"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1173416400" datetime="2007-03-09"><text>Referred to House Judiciary</text></action>
+		<action date="1173416400" datetime="2007-03-09"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1173672000" datetime="2007-03-12"><text>Sponsor introductory remarks on measure. (CR E517)</text></action>
+		<action date="1173758400" datetime="2007-03-13"><committee name="House Oversight and Government Reform"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1173758400" datetime="2007-03-13" ><committee name="House Oversight and Government Reform"/><text>Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 5.</text></calendar>
+		<action date="1173844800" datetime="2007-03-14"><committee name="House Judiciary"/><text>Committee Hearings Held.</text></action>
+		<action date="1173931200" datetime="2007-03-15"><committee name="House Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1173931200" datetime="2007-03-15" ><committee name="House Judiciary"/><text>Ordered to be Reported by the Yeas and Nays: 21 - 13.</text></calendar>
+		<action date="1174340340" datetime="2007-03-19T18:39:00-04:00"><text>Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-52, Part I.</text></action>
+		<action date="1174428000" datetime="2007-03-20T19:00:00-04:00"><text>Reported by the Committee on Judiciary. H. Rept. 110-52, Part II.</text></action>
+		<calendar number="32" date="1174428000" datetime="2007-03-20T19:00:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 32.</text></calendar>
+		<action date="1174504740" datetime="2007-03-21T16:19:00-04:00"><text>Supplemental report filed by the Committee on Oversight and Government, H. Rept. 110-52, Part III.</text></action>
+		<action date="1174536120" datetime="2007-03-22T01:02:00-04:00"><text>Rules Committee Resolution H. Res. 260 Reported to House. Rule provides for consideration of H.R. 1433 with 1 hour and 20 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 or rule XXI. All points of order against the bill, as amended, are waived. The amendment printed in the report of the Committee on Rules accompanying this resolution shall</text></action>
+		<action date="1174619100" datetime="2007-03-22T12:05:00-04:00"><text>Rule H. Res. 260 passed House.</text></action>
+		<action date="1174619640" datetime="2007-03-22T12:14:00-04:00"><text>Considered under the provisions of rule H. Res. 260.</text><reference label="consideration" ref="CR H2838-2863"/><reference label="text of measure as introduced" ref="CR H2838-2839"/></action>
+		<action date="1174619640" datetime="2007-03-22T12:14:00-04:00"><text>Rule provides for consideration of H.R. 1433 with 1 hour and 20 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 or rule XXI. All points of order against the bill, as amended, are waived. The amendment printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted.</text></action>
+		<action date="1174619760" datetime="2007-03-22T12:16:00-04:00"><text>DEBATE - The House proceeded with one hour and twenty minutes of debate on H.R. 1433.</text></action>
+		<action date="1174582980" datetime="2007-03-22T14:03:00-04:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H2860"/></action>
+		<action date="1174583100" datetime="2007-03-22T14:05:00-04:00"><text>Mr. Smith (TX) moved to recommit with instructions to Oversight and Government.</text><reference label="consideration" ref="CR H2860-2863"/><reference label="text" ref="CR H2860-2861"/></action>
+		<action date="1174583160" datetime="2007-03-22T14:06:00-04:00"><text>DEBATE - The House proceeded with ten minutes of debate on the Smith of Texas motion to recommit with instructions on H.R. 1433. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment inserting a new section to reform D.C. Council's authority to restrict firearms.</text></action>
+		<action date="1174583760" datetime="2007-03-22T14:16:00-04:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith of Texas motion to recommit, the Chair annouced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1177009740" datetime="2007-04-19T16:09:00-04:00"><text>Pursuant to the provisions of H. Res. 317, H.R. 1433 is laid on the table.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/20/2007--Reported to House without amendment, Part II. (This measure has not been amended since it was reported to the House on March 19, 2007. The summary of that version is repeated here.) District of Columbia House Voting Rights Act of 2007 - (Sec. 3) Considers the District of Columbia a congressional district for purposes of representation in the House of Representatives. Declares that the District shall not be considered a state for purposes of representation in the Senate. Applies to the District in the same manner as it applies to a state the federal law providing for the fifteenth and subsequent decennial censuses and for apportionment of Representatives in Congress. Limits the District to one Member under any reapportionment of Members. Modifies the formula regarding the number of presidential electors to subject it to the Twenty-Third amendment to the Constitution in the case of the District. Makes conforming amendments to federal law regarding the Armed Forces (appointments to service academies). (Sec. 4) Increases membership of the House from 435 to 437 Members beginning with the 110th Congress and each succeeding Congress. Provides for a reapportionment of Members resulting from such increase. Prescribes a procedure for identifying the additional Representative to which a state other than the District of Columbia shall be entitled under this Act. Requires election at large of such additional Representative. Requires the first Representative from the District and the first additional Representative from another state to each be sworn in and seated as Members of the House on the same date. Makes conforming amendments to the District of Columbia Elections Code of 1955. (Sec. 5) Repeals provisions of: (1) the District of Columbia Delegate Act establishing the office of District of Columbia Delegate to the House; and (2) the District of Columbia Statehood Constitution Convention Initiative of 1979 providing for election of a Representative for the District.<br/>
+	</summary>
+</bill>

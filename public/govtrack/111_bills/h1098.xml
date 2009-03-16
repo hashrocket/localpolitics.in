@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="1098" updated="2009-03-07T11:57:48-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="short" as="introduced">Veterans' Worker Retraining Act of 2009</title>
+		<title type="official" as="introduced">To amend title 38, United States Code, to increase the amount of educational assistance payable by the Secretary of Veterans Affairs to certain individuals pursuing internships or on-job training.</title>
+	</titles>
+	<sponsor id="412304"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to House Veterans' Affairs</text></action>
+		<action date="1234501200" datetime="2009-02-13"><committee name="House Veterans' Affairs"/><text>Referred to the Subcommittee on Economic Opportunity.</text></action>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to House Armed Services</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Referral" />
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

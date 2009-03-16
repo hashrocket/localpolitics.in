@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="306" updated="2009-03-07T10:23:31-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">Kidney Disease Educational Benefits Act of 2009</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide coverage for kidney disease education services under the Medicare Program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400222"/>
+	<cosponsors>
+		<cosponsor id="400262" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Sponsor introductory remarks on measure. (CR E50)</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to House Ways and Means</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Digestive and metabolic diseases"/>
+		<term name="Health promotion and preventive care"/>
+		<term name="Medicare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Kidney Disease Educational Benefits Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act to provide for Medicare coverage of kidney disease education services. 
+	</summary>
+</bill>

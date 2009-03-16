@@ -1,0 +1,31 @@
+<bill session="111" type="h" number="1250" updated="2009-03-07T12:19:48-05:00">
+	<status><introduced date="1235970000" datetime="2009-03-02"/></status>
+
+	<introduced date="1235970000" datetime="2009-03-02"/>
+	<titles>
+		<title type="short" as="introduced">Public Good IRA Rollover Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to expand tax-free distributions from individual retirement accounts for charitable purposes.</title>
+	</titles>
+	<sponsor id="400323"/>
+	<cosponsors>
+		<cosponsor id="400176" joined="2009-03-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1235970000" datetime="2009-03-02"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

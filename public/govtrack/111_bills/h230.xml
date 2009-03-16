@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="230" updated="2009-03-07T10:14:51-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Housing Opportunity and Mortgage Equity Act of 2009</title>
+		<title type="official" as="introduced">To prevent foreclosure of home mortgages and increase the availability of affordable new mortgages.</title>
+	</titles>
+	<sponsor id="400065"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2009-01-09"/>
+		<cosponsor id="400110" joined="2009-01-14"/>
+		<cosponsor id="400618" joined="2009-01-09"/>
+		<cosponsor id="400178" joined="2009-01-09"/>
+		<cosponsor id="400024" joined="2009-02-11"/>
+		<cosponsor id="412188" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Housing and community development"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Federal Reserve System"/>
+		<term name="Government lending"/>
+		<term name="Housing finance and home ownership"/>
+		<term name="Interest and interest rates"/>
+		<term name="Securities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Housing Opportunity and Mortgage Equity Act of 2009 - Directs the Federal National Mortgage Association (Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac) (the enterprises) to implement a program to purchase and securitize qualified refinancing mortgages and qualified new mortgages on single-family housing in accordance with policies and procedures established by the Director of the Federal Housing Finance Agency (FHFA).<br/>Sets forth requirements for the purchase and securitization of qualified mortgages.<br/>Directs the Board of Governors of the Federal Reserve System to establish a credit facility of the Federal Reserve System to make credit available to the enterprises at interest rates comparable to certain rates on securities issued by the Secretary of the Treasury.<br/>Terminates the requirement under this Act for the enterprises to purchase mortgages after December 31, 2010.<br/>
+	</summary>
+</bill>

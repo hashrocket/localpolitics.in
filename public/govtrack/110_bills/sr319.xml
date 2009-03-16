@@ -1,0 +1,33 @@
+<bill session="110" type="sr" number="319" updated="2009-01-09T20:37:50-05:00">
+	<status><vote date="1191297600" datetime="2007-10-02" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1190088000" datetime="2007-09-18"/>
+	<titles>
+		<title type="official" as="introduced">A resolution expressing the sense of the Senate regarding the United States Transportation Command on its 20th anniversary.</title>
+	</titles>
+	<sponsor id="300038"/>
+	<cosponsors>
+		<cosponsor id="400629" joined="2007-10-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1190088000" datetime="2007-09-18"><text>Referred to the Committee on Armed Services.</text><reference label="text of measure as introduced" ref="CR S11667"/></action>
+		<action date="1191297600" datetime="2007-10-02"><text>Senate Committee on Armed Services discharged by Unanimous Consent.</text></action>
+		<action date="1191297600" datetime="2007-10-02"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S12448-12449"/></action>
+		<vote date="1191297600" how="by Unanimous Consent" datetime="2007-10-02" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR 10/15/2007 S12884)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/2/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Honors the sacrifice and commitment of the members of the Armed Forces (including the National Guard and Reserve), their families, and civilian employees and contractors of the United States Transportation Command. Recognizes the success of the United States Transportation Command in its war against terrorism.<br/>
+	</summary>
+</bill>

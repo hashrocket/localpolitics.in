@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="102" updated="2009-03-07T09:59:41-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To authorize appropriations for the San Gabriel Basin Restoration Fund.</title>
+	</titles>
+	<sponsor id="400115"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2009-01-06"/>
+		<cosponsor id="400347" joined="2009-01-06"/>
+		<cosponsor id="400277" joined="2009-01-15"/>
+		<cosponsor id="400361" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR E14)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on Water and Power.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Water and Power" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Aquatic ecology"/>
+		<term name="California"/>
+		<term name="Government trust funds"/>
+		<term name="Intergovernmental relations"/>
+		<term name="State and local finance"/>
+		<term name="Water quality"/>
+		<term name="Water resources funding"/>
+		<term name="Water use and supply"/>
+		<term name="Watersheds"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Amends the Miscellaneous Appropriations Act, 2001 to establish a 35% non-federal matching requirement for specified federal funds made available to: (1) the San Gabriel Water Quality Authority; and (2) the Central Basin Municipal Water District. Increases the authorization of appropriations for the San Gabriel Restoration Fund. Sets aside a specified sum to carry out the Central Basin Water Quality Project.<br/>
+	</summary>
+</bill>

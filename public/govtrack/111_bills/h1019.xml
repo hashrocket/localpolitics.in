@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="1019" updated="2009-03-07T11:48:27-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">State Video Tax Fairness Act of 2009</title>
+		<title type="official" as="introduced">To prohibit discrimination in State taxation of multichannel video programming distribution services.</title>
+	</titles>
+	<sponsor id="400080"/>
+	<cosponsors>
+		<cosponsor id="400043" joined="2009-02-12"/>
+		<cosponsor id="400365" joined="2009-02-12"/>
+		<cosponsor id="412226" joined="2009-02-12"/>
+		<cosponsor id="400316" joined="2009-02-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Sponsor introductory remarks on measure. (CR E256)</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the House Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>State Video Tax Fairness Act of 2009 - Prohibits any state from imposing a discriminatory tax on any means of providing multichannel video programming distribution services, including Internet protocol technology (or any successor protocol), direct broadcast satellite delivery, and cable television services. Defines a tax as discriminatory if the net tax imposed on one means of providing multichannel video service is higher than the net tax rate imposed on another. Applies this prohibition only to any tax imposed on or after January 1, 2008. 
+	</summary>
+</bill>

@@ -1,0 +1,31 @@
+<bill session="111" type="hj" number="25" updated="2009-03-07T09:36:18-05:00">
+	<status><introduced date="1235624400" datetime="2009-02-26"/></status>
+
+	<introduced date="1235624400" datetime="2009-02-26"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the appointment of France A. Cordova as a citizen regent of the Board of Regents of the Smithsonian Institution.</title>
+	</titles>
+	<sponsor id="400021"/>
+	<cosponsors>
+		<cosponsor id="400663" joined="2009-02-26"/>
+		<cosponsor id="400206" joined="2009-02-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1235624400" datetime="2009-02-26"><text>Referred to the House Committee on House Administration.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="sj" number="9" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/26/2009--Introduced.<br/>Appoints France A. Cordova as a citizen regent of the Board of Regents of the Smithsonian Institution. 
+	</summary>
+</bill>

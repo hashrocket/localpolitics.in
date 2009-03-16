@@ -1,0 +1,47 @@
+<bill session="111" type="h" number="765" updated="2009-03-07T11:17:52-05:00">
+	<status><introduced date="1233118800" datetime="2009-01-28"/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="short" as="introduced">Nellis Dunes National Off-Highway Vehicle Recreation Area Act of 2009</title>
+		<title type="official" as="introduced">To establish the Nellis Dunes National Off-Highway Vehicle Recreation Area, and for other purposes.</title>
+	</titles>
+	<sponsor id="412218"/>
+	<cosponsors>
+		<cosponsor id="412318" joined="2009-01-28"/>
+		<cosponsor id="400024" joined="2009-01-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to House Natural Resources</text></action>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to House Armed Services</text></action>
+		<action date="1233723600" datetime="2009-02-04"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action date="1234846800" datetime="2009-02-17"><committee name="House Armed Services"/><text>Referred to the Subcommittee on Readiness.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Armed Services" subcommittee="Readiness" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Aviation and airports"/>
+		<term name="Land transfers"/>
+		<term name="Military facilities and property"/>
+		<term name="Motor vehicles"/>
+		<term name="Nevada"/>
+		<term name="Outdoor recreation"/>
+		<term name="Parks, recreation areas, trails"/>
+		<term name="Sports and recreation facilities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/2009--Introduced.<br/>Nellis Dunes National Off-Highway Vehicle Recreation Area Act of 2009 - Directs the Secretary of the Interior to convey specified land to Clark County, Nevada, for use for: (1) a centralized off road vehicle recreation park; and (2) a designated area and facilities to discourage unauthorized use of off-highway vehicles in environmentally sensitive areas. Provides for the reservation of specified airspace easements above the surface of the land conveyed to the county. Designates the Nellis Dunes as the Nellis Dunes National Off-Highway Vehicle Recreation Area. Transfers administrative jurisdiction over certain land from the Bureau of Land Management to the Department of the Air Force for the enlargement and protection of Nellis Air Force Base.<br/>
+	</summary>
+</bill>

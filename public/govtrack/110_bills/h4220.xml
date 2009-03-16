@@ -1,0 +1,53 @@
+<bill session="110" type="h" number="4220" updated="2009-01-09T01:38:55-05:00">
+	<status><vote date="1197913200" datetime="2007-12-17T13:40:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1195102800" datetime="2007-11-15"/>
+	<titles>
+		<title type="short" as="introduced">Federal Food Donation Act of 2007</title>
+		<title type="short" as="passed house">Federal Food Donation Act of 2007</title>
+		<title type="official" as="introduced">To encourage the donation of excess food to nonprofit organizations that provide assistance to food-insecure people in the United States in contracts entered into by executive agencies for the provision, service, or sale of food.</title>
+	</titles>
+	<sponsor id="400121"/>
+	<cosponsors>
+		<cosponsor id="412229" joined="2007-12-17"/>
+		<cosponsor id="400257" joined="2007-12-17"/>
+		<cosponsor id="400263" joined="2007-11-15"/>
+		<cosponsor id="400385" joined="2007-12-11"/>
+		<cosponsor id="400231" joined="2007-12-12"/>
+		<cosponsor id="400287" joined="2007-12-06"/>
+		<cosponsor id="400400" joined="2007-12-12"/>
+		<cosponsor id="400653" joined="2007-12-17"/>
+		<cosponsor id="400195" joined="2007-12-12"/>
+		<cosponsor id="400284" joined="2007-11-15"/>
+		<cosponsor id="400291" joined="2007-12-04"/>
+		<cosponsor id="400119" joined="2007-12-11"/>
+		<cosponsor id="400033" joined="2007-12-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1195102800" datetime="2007-11-15"><text>Sponsor introductory remarks on measure. (CR E2451-2452)</text></action>
+		<action date="1195102800" datetime="2007-11-15"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1197435600" datetime="2007-12-12"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1197435600" datetime="2007-12-12" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1197912240" datetime="2007-12-17T13:24:00-05:00"><text>Ms. Norton moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1197912240" datetime="2007-12-17T13:24:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H15484-15488"/></action>
+		<action date="1197912240" datetime="2007-12-17T13:24:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4220.</text></action>
+		<vote date="1197913200" how="by voice vote" datetime="2007-12-17T13:40:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H15484"/></vote>
+		<action date="1197954000" datetime="2007-12-18"><text>Received in the Senate.</text></action>
+		<action date="1200978000" datetime="2008-01-22"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/17/2007--Passed House amended. Federal Food Donation Act of 2007 - Revises the Federal Acquisition Regulation to provide that each contract in an amount greater than $25,000 for the provision, service, or sale of food, or for the lease or rental of federal property to a private entity for events at which food is provided shall include a clause that: (1) encourages the donation of excess, apparently wholesome food to nonprofit organizations that provide assistance to food-insecure people; (2) provides that the head of an executive agency shall not assume responsibility for the costs and logistics of collecting, transporting, maintaining the safety of, or distributing such food; and (3) states that executive agencies and contractors making donations are protected from civil or criminal liability under the Bill Emerson Good Samaritan Food Donation Act.<br/>
+	</summary>
+</bill>

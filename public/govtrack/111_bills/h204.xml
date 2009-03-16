@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="204" updated="2009-03-07T10:11:45-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Northern California Ocean and Coastal Protection Act</title>
+		<title type="official" as="introduced">To permanently prohibit oil and gas leasing off the coast of Mendocino, Humboldt, and Del Norte Counties in the State of California, and for other purposes.</title>
+	</titles>
+	<sponsor id="400403"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on Energy and Mineral Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Energy"/>
+		<term name="California"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Oil and gas"/>
+		<term name="Pacific Ocean"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Northern California Ocean and Coastal Protection Act - Prohibits oil and gas preleasing, leasing, and related activities in areas of the Outer Continental Shelf located off the coast of Mendocino, Humboldt, and Del Norte Counties in the state of California.<br/>Amends the Energy Policy Act of 2005 to exclude such areas from a mandatory inventory of reserves in the Outer Continental Shelf.<br/>
+	</summary>
+</bill>

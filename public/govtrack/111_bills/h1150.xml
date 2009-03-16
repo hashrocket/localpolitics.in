@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="1150" updated="2009-03-07T12:05:34-05:00">
+	<status><introduced date="1235451600" datetime="2009-02-24"/></status>
+
+	<introduced date="1235451600" datetime="2009-02-24"/>
+	<titles>
+		<title type="short" as="introduced">Laboratory Surge Capacity Preparedness Act</title>
+		<title type="official" as="introduced">To authorize the Secretary of Homeland Security to award grants on a competitive basis to regional biocontainment laboratories for maintaining surge capacity that can be used to respond to acts of bioterrorism or outbreaks of infectious diseases, and for other purposes.</title>
+	</titles>
+	<sponsor id="412234"/>
+	<cosponsors>
+		<cosponsor id="412298" joined="2009-02-24"/>
+		<cosponsor id="400183" joined="2009-02-24"/>
+		<cosponsor id="400647" joined="2009-02-24"/>
+		<cosponsor id="400047" joined="2009-02-24"/>
+		<cosponsor id="412231" joined="2009-02-24"/>
+		<cosponsor id="412299" joined="2009-03-03"/>
+		<cosponsor id="400130" joined="2009-02-26"/>
+		<cosponsor id="400114" joined="2009-02-24"/>
+		<cosponsor id="400312" joined="2009-02-24"/>
+		<cosponsor id="400010" joined="2009-02-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1235451600" datetime="2009-02-24"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1235451600" datetime="2009-02-24"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1235451600" datetime="2009-02-24"><text>Referred to House Homeland Security</text></action>
+		<action date="1235970000" datetime="2009-03-02"><committee name="House Homeland Security"/><text>Referred to the Subcommittee on Emergency Communications, Preparedness, and Response.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Homeland Security" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Homeland Security" subcommittee="Emergency Communications, Preparedness, and Response" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="111" type="s" number="345" updated="2009-03-07T14:14:44-05:00">
+	<status><introduced date="1233205200" datetime="2009-01-29"/></status>
+
+	<introduced date="1233205200" datetime="2009-01-29"/>
+	<titles>
+		<title type="short" as="introduced">Tropical Forest and Coral Conservation Reauthorization Act of 2009</title>
+		<title type="official" as="introduced">A bill to reauthorize the Tropical Forest Conservation Act of 1998 through fiscal year 2012, to rename the Tropical Forest Conservation Act of 1998 as the &quot;Tropical Forest and Coral Conservation Act of 2009&quot;, and for other purposes.</title>
+	</titles>
+	<sponsor id="300070"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2009-01-29"/>
+		<cosponsor id="412329" joined="2009-01-29"/>
+		<cosponsor id="300067" joined="2009-02-25"/>
+		<cosponsor id="412323" joined="2009-03-03"/>
+		<cosponsor id="300076" joined="2009-02-26"/>
+		<cosponsor id="300060" joined="2009-01-29"/>
+		<cosponsor id="300078" joined="2009-02-26"/>
+		<cosponsor id="300013" joined="2009-01-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1233205200" datetime="2009-01-29"><text>Sponsor introductory remarks on measure. (CR S1061-1062)</text></action>
+		<action date="1233205200" datetime="2009-01-29"><text>Read twice and referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S1062-1063"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Foreign Relations" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="52" />
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Aquatic ecology"/>
+		<term name="Foreign loans and debt"/>
+		<term name="Forests"/>
+		<term name="International law and treaties"/>
+		<term name="International organizations and cooperation"/>
+		<term name="Land transfers"/>
+		<term name="Land use and conservation"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/29/2009--Introduced.<br/>Tropical Forest and Coral Conservation Reauthorization Act of 2009 - Renames the Tropical Forest Conservation Act of 1998 as The Tropical Forest and Coral Conservation Act of 2009.<br/>Includes tropical forests and coral reefs and associated coastal marine ecosystems within the scope of such Act.<br/>Renames the Tropical Forest Facility as the Conservation Facility.<br/>Authorizes U.S. government representation on the administering body that oversees the implementation of grants from a debt-for-nature swap or debt buy-back regardless of whether the United States is a party to any agreement between the eligible purchaser and the government of the beneficiary country.<br/>Requires U.S. government and beneficiary country government review of Conservation Fund grants in excess of $250,000.<br/>Repeals Enterprise of the Americas Board authority to carry out activities under the Act.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="111" type="s" number="304" updated="2009-03-07T14:09:57-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">Main Street Recovery Act</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to stimulate business investment, and for other purposes.</title>
+	</titles>
+	<sponsor id="300037"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Sponsor introductory remarks on measure. (CR S790-791)</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="294" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax credits"/>
+		<term name="Income tax deductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

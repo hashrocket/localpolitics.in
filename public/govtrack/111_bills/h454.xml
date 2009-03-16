@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="454" updated="2009-03-07T10:41:01-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Trail of Tears Documentation Act</title>
+		<title type="official" as="introduced">To amend the National Trails System Act to provide for the inclusion of new trail segments, land components, and campgrounds associated with the Trail of Tears National Historic Trail, and for other purposes.</title>
+	</titles>
+	<sponsor id="400421"/>
+	<cosponsors>
+		<cosponsor id="412225" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Alabama"/>
+		<term name="Arkansas"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Georgia"/>
+		<term name="Government investigations"/>
+		<term name="Historic sites and heritage areas"/>
+		<term name="Land transfers"/>
+		<term name="North Carolina"/>
+		<term name="Oklahoma"/>
+		<term name="Parks, recreation areas, trails"/>
+		<term name="Property rights"/>
+		<term name="Tennessee"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Trail of Tears Documentation Act - Amends the National Trails System Act to add as components of the Trail of Tears National Historic Trail, as generally described in the environmentally preferred alternative of the November 2007 Feasibility Study Amendment and Environmental Assessment for Trail of Tears National Historic Trail, the following routes and land components by which the Cherokee Nation was removed to Oklahoma: (1) the Benge and Bell routes; (2) the land components of the designated water routes in Alabama, Arkansas, Oklahoma, and Tennessee; (3) the routes from the collection forts in Alabama, Georgia, North Carolina, and Tennessee to the emigration depots; and (4) the related campgrounds located along such routes and land components. Prohibits acquisition of lands or interests in lands outside the exterior boundaries of any federally administered area by the federal government for the Trail of Tears National Historic Trail except with the consent of the owner. 
+	</summary>
+</bill>

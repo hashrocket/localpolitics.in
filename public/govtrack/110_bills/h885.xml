@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="885" updated="2009-01-08T18:39:54-05:00">
+	<status><vote date="1182193080" datetime="2007-06-18T15:58:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1170824400" datetime="2007-02-07"/>
+	<titles>
+		<title type="short" as="introduced">International Nuclear Fuel for Peace and Nonproliferation Act of 2007</title>
+		<title type="short" as="passed house">International Nuclear Fuel for Peace and Nonproliferation Act of 2007</title>
+		<title type="official" as="introduced">To support the establishment of an international regime for the assured supply of nuclear fuel for peaceful means and to authorize voluntary contributions to the International Atomic Energy Agency to support the establishment of an international nuclear fuel bank.</title>
+	</titles>
+	<sponsor id="400231"/>
+	<cosponsors>
+		<cosponsor id="400242" joined="2007-04-18"/>
+		<cosponsor id="400122" joined="2007-05-23"/>
+		<cosponsor id="400180" joined="2007-03-29"/>
+		<cosponsor id="400430" joined="2007-05-23"/>
+		<cosponsor id="400344" joined="2007-05-24"/>
+		<cosponsor id="400361" joined="2007-05-23"/>
+		<cosponsor id="400003" joined="2007-02-07"/>
+		<cosponsor id="400260" joined="2007-06-05"/>
+		<cosponsor id="400396" joined="2007-04-18"/>
+		<cosponsor id="400371" joined="2007-02-07"/>
+		<cosponsor id="400238" joined="2007-05-23"/>
+		<cosponsor id="400025" joined="2007-04-18"/>
+	</cosponsors>
+	<actions>
+		<action date="1170824400" datetime="2007-02-07"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1179892800" datetime="2007-05-23"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1179892800" datetime="2007-05-23" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1182188040" datetime="2007-06-18T14:34:00-04:00"><text>Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-196.</text></action>
+		<calendar number="117" date="1182188040" datetime="2007-06-18T14:34:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 117.</text></calendar>
+		<action date="1182192360" datetime="2007-06-18T15:46:00-04:00"><text>Mr. Lantos moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1182192360" datetime="2007-06-18T15:46:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6597-6600"/></action>
+		<action date="1182192360" datetime="2007-06-18T15:46:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 885.</text></action>
+		<vote date="1182193080" how="by voice vote" datetime="2007-06-18T15:58:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H6597-6598"/></vote>
+		<action date="1182225600" datetime="2007-06-19"><text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/18/2007--Passed House amended. International Nuclear Fuel for Peace and Nonproliferation Act of 2007 - Title I: International Regime for the Assured Supply of Nuclear Fuel for Peaceful Means - (Sec. 103) States that it is U.S. policy to: (1) support the establishment of an international regime for the assured supply of nuclear fuel for peaceful means under multilateral authority, such as the International Atomic Energy Agency (IAEA); (2) oppose the development of a capability to produce nuclear weapons by any non-nuclear weapon state; (3) encourage Nuclear Non-Proliferation Treaty (NPT) states to interpret the right to &quot;develop research, production and use of nuclear energy for peaceful purposes&quot; as a qualified right conditioned by the overall purpose of the NPT to prevent the spread of nuclear weapons and nuclear weapons capability; and (4) strengthen the Nuclear Suppliers Group guidelines concerning consultation by members regarding violations of supplier and recipient understandings by instituting the practice of a timely and coordinated response to such violations, including termination of nuclear transfers to an involved recipient. (Sec. 104) Directs the President to report to the House Committee on Foreign Affairs and the Senate Committee on Foreign Relations on U.S. activities to support the establishment of an international regime for the assured supply of nuclear fuel for peaceful means at current market prices under multilateral authority, including an assessment of the feasibility of establishing an international fuel services center within the United States. Title II: International Fuel Bank - (Sec. 201) Authorizes the President to make voluntary grant basis contributions to the IAEA for an international nuclear fuel bank to maintain a low-enriched uranium reserve of reactor fuel for eligible countries. Requires the President, prior to making such contributions, to certify to the House Committee on Foreign Affairs and the Senate Committee on Foreign Relations that: (1) the IAEA has received specified monetary pledges for the international nuclear fuel bank; (2) the bank will be established in a nonnuclear weapon state under IAEA oversight; (3) the bank will provide nuclear reactor fuel only to a country that is in full compliance with IAEA and other safeguards, agrees to use the nuclear reactor fuel in accordance with IAEA safeguards, does not operate uranium enrichment or spent-fuel reprocessing facilities, and is not a state sponsor of terrorism (which may be waived by the President for national security reasons); (4) the bank will not contain uranium enrichment or spent-fuel reprocessing facilities; and (5) the nuclear reactor fuel will be provided at current market prices. Authorizes FY2008 appropriations, which shall remain available until September 30, 2010.<br/>
+	</summary>
+</bill>

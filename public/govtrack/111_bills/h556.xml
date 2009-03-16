@@ -1,0 +1,51 @@
+<bill session="111" type="h" number="556" updated="2009-03-07T10:52:57-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Southern Sea Otter Recovery and Research Act</title>
+		<title type="official" as="introduced">To establish a program of research, recovery, and other activities to provide for the recovery of the southern sea otter.</title>
+	</titles>
+	<sponsor id="400129"/>
+	<cosponsors>
+		<cosponsor id="400237" joined="2009-01-15"/>
+		<cosponsor id="400178" joined="2009-01-15"/>
+		<cosponsor id="400124" joined="2009-01-15"/>
+		<cosponsor id="400185" joined="2009-01-15"/>
+		<cosponsor id="400215" joined="2009-01-15"/>
+		<cosponsor id="400062" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Insular Affairs, Oceans and Wildlife" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Animals"/>
+		<term name="Advisory bodies"/>
+		<term name="Animal protection and human-animal relationships"/>
+		<term name="Aquatic ecology"/>
+		<term name="California"/>
+		<term name="Endangered and threatened species"/>
+		<term name="Environmental assessment, monitoring, research"/>
+		<term name="Infectious and parasitic diseases"/>
+		<term name="Mammals"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Marine pollution"/>
+		<term name="Research administration and funding"/>
+		<term name="Veterinary medicine and animal diseases"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Southern Sea Otter Recovery and Research Act - Requires the Secretary of the Interior, acting through the United States Fish and Wildlife Service, to carry out a Recovery and Research Program for southern sea otter populations along the coast of California that includes: (1) monitoring, analysis, and assessment of population demographics, health, mortality, and life history parameters; and (2) implementation of measures to reduce or eliminate potential factors limiting populations that are related to marine ecosystem health or human activities.<br/>Requires the Secretary to: (1) establish a peer-reviewed, merit-based process to award competitive grants for research regarding such otters and for projects assisting the recovery of otter populations; and (2) establish the Southern Sea Otter Scientific Advisory Committee to advise the Secretary on Program goals and priorities, recovery actions necessary to implement the Program, and grant proposals.<br/>Requires the Secretary to report on: (1) the status of southern sea otter populations; (2) Program implementation; (3) endangered species consultations regarding southern sea otters; and (4) recommended actions to improve otter health, reduce mortality, and improve the health of coastal marine systems.<br/>
+	</summary>
+</bill>

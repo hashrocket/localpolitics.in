@@ -1,0 +1,41 @@
+<bill session="111" type="sc" number="7" updated="2009-03-07T14:36:46-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution honoring and remembering the life of Lawrence &quot;Larry&quot; King.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300011" joined="2009-02-13"/>
+		<cosponsor id="300038" joined="2009-02-13"/>
+		<cosponsor id="412247" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Sponsor introductory remarks on measure. (CR S2346)</text></action>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S2346"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hc" number="52" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Assault and harassment offenses"/>
+		<term name="Congressional tributes"/>
+		<term name="Crime prevention"/>
+		<term name="Crime victims"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Hate crimes"/>
+		<term name="Sex, gender, sexual orientation discrimination"/>
+		<term name="Violent crime"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

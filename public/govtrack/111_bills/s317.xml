@@ -1,0 +1,37 @@
+<bill session="111" type="s" number="317" updated="2009-03-07T14:11:26-05:00">
+	<status><introduced date="1232946000" datetime="2009-01-26"/></status>
+
+	<introduced date="1232946000" datetime="2009-01-26"/>
+	<titles>
+		<title type="official" as="introduced">A bill to repeal the provision of law that provides automatic pay adjustments for Members of Congress.</title>
+	</titles>
+	<sponsor id="300042"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1232946000" datetime="2009-01-26"><text>Sponsor introductory remarks on measure. (CR S834-835)</text></action>
+		<action date="1232946000" datetime="2009-01-26"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text><reference label="text of measure as introduced" ref="CR S835"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="346" />
+		<bill relation="unknown" session="111" type="h" number="566" />
+		<bill relation="unknown" session="111" type="h" number="581" />
+		<bill relation="unknown" session="111" type="h" number="751" />
+		<bill relation="unknown" session="111" type="s" number="102" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Members of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

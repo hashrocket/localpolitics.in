@@ -1,0 +1,46 @@
+<bill session="110" type="hc" number="79" updated="2009-01-08T15:36:48-05:00">
+	<status><vote2 date="1179288000" datetime="2007-05-16" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1173070800" datetime="2007-03-05"/>
+	<titles>
+		<title type="official" as="introduced">Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby.</title>
+	</titles>
+	<sponsor id="400189"/>
+	<cosponsors>
+		<cosponsor id="400415" joined="2007-03-05"/>
+		<cosponsor id="400283" joined="2007-03-05"/>
+		<cosponsor id="400438" joined="2007-03-05"/>
+		<cosponsor id="400295" joined="2007-03-05"/>
+		<cosponsor id="400435" joined="2007-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1173070800" datetime="2007-03-05"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1173157200" datetime="2007-03-06"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1178078400" datetime="2007-05-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1178078400" datetime="2007-05-02" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1178078400" datetime="2007-05-02"><text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text></action>
+		<action date="1178654040" datetime="2007-05-08T16:54:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 110-133.</text></action>
+		<calendar number="54" date="1178654100" datetime="2007-05-08T16:55:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 54.</text></calendar>
+		<action date="1179249000" datetime="2007-05-15T14:10:00-04:00"><text>Mr. Cummings moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1179249060" datetime="2007-05-15T14:11:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5009-5010"/></action>
+		<action date="1179249060" datetime="2007-05-15T14:11:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 79.</text></action>
+		<vote date="1179249480" how="by voice vote" datetime="2007-05-15T14:18:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H5009"/></vote>
+		<vote date="1179288000" how="by Unanimous Consent" datetime="2007-05-16" where="s" type="vote2" result="pass" ><text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6212"/></vote>
+		<action date="1179374400" datetime="2007-05-17"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/16/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Permits the Greater Washington Soap Box Derby Association to sponsor soap box derby races as a free public event on the Capitol grounds on June 16, 2007.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="110" type="s" number="2842" updated="2009-01-09T17:47:11-05:00">
+	<status><calendar date="1221105600" datetime="2008-09-11" /></status>
+
+	<introduced date="1207800000" datetime="2008-04-10"/>
+	<titles>
+		<title type="short" as="introduced">Aging Water Infrastructure and Maintenance Act</title>
+		<title type="short" as="reported to senate">Aging Water Infrastructure and Maintenance Act</title>
+		<title type="official" as="introduced">A bill to require the Secretary of the Interior to carry out annual inspections of canals, levees, tunnels, dikes, pumping plants, dams, and reservoirs under the jurisdiction of the Secretary, and for other purposes.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="2008-04-10"/>
+		<cosponsor id="400619" joined="2008-04-10"/>
+		<cosponsor id="412244" joined="2008-04-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1207800000" datetime="2008-04-10"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text><reference label="text of measure as introduced" ref="CR S2948-2949"/></action>
+		<action date="1215489600" datetime="2008-07-08"><text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 110-571.</text></action>
+		<calendar date="1221105600" datetime="2008-09-11" ><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1221537600" datetime="2008-09-16"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="988" date="1221537600" datetime="2008-09-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 988.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/10/2008--Introduced.<br/>Aging Water Infrastructure and Maintenance Act - Directs the Secretary of the Interior, acting through the Commissioner of Reclamation, to inspect at least 75% of all project facilities within one year to assess each facility's condition and to estimate the property value and population size that would be at risk if a facility fails, is breached, or otherwise allows flooding to occur. Defines a &quot;project facility&quot; as any part or incidental feature of a reclamation or irrigation project under the Secretary's jurisdiction that is not covered by the Reclamation Safety of Dams Act of 1978.<br/>Requires the Secretary: (1) in selecting facilities to inspect, to take into account the risk posed to public health or safety or to property; and (2) to use the data collected to develop detailed schedules for regular facility maintenance and to create a national priorities list of facilities requiring the most urgent maintenance.<br/>Requires the Secretary to: (1) carry out periodic reviews of facilities to update the list; (2) publish the list in the Department of the Interior's budget justification; (3) promulgate final regulations to establish standards for the condition and maintenance of facilities and guidelines to implement this Act and ensure compliance with regulations; and (4) carry out or provide financial support to a non-federal entity to carry out any modification determined to be reasonably required to preserve a facility's structural safety. Provides for reimbursement of costs arising from the repair of structurally deficient transferred project facilities.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="111" type="hr" number="27" updated="2009-03-07T13:06:53-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="official" as="introduced">Honoring the accomplishments and legacy of Juan Nepomuceno Seguin.</title>
+	</titles>
+	<sponsor id="400160"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="26" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional tributes"/>
+		<term name="Latin America"/>
+		<term name="Mexico"/>
+		<term name="Military history"/>
+		<term name="Texas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Recognizes the accomplishments and bravery of Juan Nepomuceno Seguin (who fought for Texan independence from Mexico).<br/>
+	</summary>
+</bill>

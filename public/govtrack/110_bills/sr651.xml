@@ -1,0 +1,44 @@
+<bill session="110" type="sr" number="651" updated="2009-01-09T21:19:43-05:00">
+	<status><vote date="1222056000" datetime="2008-09-22" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1217563200" datetime="2008-08-01"/>
+	<titles>
+		<title type="official" as="introduced">A resolution honoring the National Aeronautics and Space Administration on the 50th anniversary of its establishment.</title>
+	</titles>
+	<sponsor id="300078"/>
+	<cosponsors>
+		<cosponsor id="400064" joined="2008-08-01"/>
+		<cosponsor id="300011" joined="2008-08-01"/>
+		<cosponsor id="300098" joined="2008-08-01"/>
+		<cosponsor id="300088" joined="2008-08-01"/>
+		<cosponsor id="400621" joined="2008-08-01"/>
+		<cosponsor id="300073" joined="2008-08-01"/>
+		<cosponsor id="400050" joined="2008-08-01"/>
+		<cosponsor id="300054" joined="2008-08-01"/>
+		<cosponsor id="400418" joined="2008-08-01"/>
+		<cosponsor id="300089" joined="2008-08-01"/>
+		<cosponsor id="300027" joined="2008-08-01"/>
+		<cosponsor id="300063" joined="2008-08-01"/>
+		<cosponsor id="400629" joined="2008-08-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1217563200" datetime="2008-08-01"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text><reference label="text of measure as introduced" ref="CR S8051"/></action>
+		<action date="1222056000" datetime="2008-09-22"><text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S9179-9185"/></action>
+		<vote date="1222056000" how="by Unanimous Consent" datetime="2008-09-22" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S9181"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/22/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Honors the men and women of the National Aeronautics and Space Administration (NASA) on the occasion of its 50th Anniversary.<br/>Acknowledges the value of NASA's discoveries and accomplishments. Pledges to maintain America's position as the world leader in earth and space science, aeronautics, and space exploration and technology.<br/>
+	</summary>
+</bill>

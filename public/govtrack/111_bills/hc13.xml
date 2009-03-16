@@ -1,0 +1,35 @@
+<bill session="111" type="hc" number="13" updated="2009-03-07T09:26:28-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of Congress that the Supreme Court misinterpreted the First Amendment to the Constitution in the case of Buckley v. Valeo.</title>
+	</titles>
+	<sponsor id="400211"/>
+	<cosponsors>
+		<cosponsor id="400641" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Constitution, Civil Rights, and Civil Liberties" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Law"/>
+		<term name="Constitution and constitutional amendments"/>
+		<term name="Elections, voting, political campaign regulation"/>
+		<term name="Supreme Court"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Expresses the sense of Congress that the Supreme Court misinterpreted the First Amendment to the Constitution in the case of Buckley v. Valeo because the decision failed to recognize: (1) that the unlimited spending of large amounts of money on elections has a corrosive effect on the electoral process not simply because of direct transactions between those who give large amounts of money and candidates and elected officials but because the presence of unlimited amounts of money corrupts the process on a more fundamental level; and (2) other legitimate state interests which justify limiting money in campaigns, including the need to preserve the integrity of our republican form of government, restore public confidence in government, and ensure all citizens a more equal opportunity to participate in the political process.<br/>
+	</summary>
+</bill>

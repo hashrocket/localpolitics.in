@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="752" updated="2009-03-07T11:16:19-05:00">
+	<status><introduced date="1233118800" datetime="2009-01-28"/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="official" as="introduced">To require the Secretary of Homeland Security to conduct a program in the maritime environment for the mobile biometric identification of suspected individuals, including terrorists, to enhance border security.</title>
+	</titles>
+	<sponsor id="412250"/>
+	<cosponsors>
+		<cosponsor id="400570" joined="2009-02-10"/>
+		<cosponsor id="400047" joined="2009-02-09"/>
+		<cosponsor id="412311" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1233118800" datetime="2009-01-28"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text></action>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to House Homeland Security</text></action>
+		<action date="1233810000" datetime="2009-02-05"><committee name="House Homeland Security"/><text>Referred to the Subcommittee on Border, Maritime, and Global Counterterrorism.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Coast Guard and Maritime Transportation" activity="Referral" />
+		<committee name="House Homeland Security" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Homeland Security" subcommittee="Border, Maritime, and Global Counterterrorism" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Emergency management"/>
+		<term name="Border security and unlawful immigration"/>
+		<term name="Criminal justice information and records"/>
+		<term name="Marine and inland water transportation"/>
+		<term name="Terrorism"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/2009--Introduced.<br/>Directs the Secretary of Homeland Security to: (1) conduct, through the Coast Guard in the maritime environment, a program for the mobile biometric identification of suspected individuals, including terrorists, to enhance border security and for other purposes; (2) ensure such program's coordination with other Department of Homeland Security (DHS) biometric identification programs; and (3) report to the appropriate congressional committees respecting the cost of expanding the Coast Guard's biometric identification capabilities for use by other Coast Guard and DHS vessels and units. Defines &quot;biometric identification&quot; as the use of fingerprint and digital photography images.<br/>
+	</summary>
+</bill>

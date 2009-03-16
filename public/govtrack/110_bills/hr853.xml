@@ -1,0 +1,47 @@
+<bill session="110" type="hr" number="853" updated="2009-01-09T09:38:24-05:00">
+	<status><vote date="1197402240" datetime="2007-12-11T15:44:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1197262800" datetime="2007-12-10"/>
+	<titles>
+		<title type="official" as="introduced">Honoring those who have volunteered to assist in the cleanup of the November 7, 2007, oil spill in San Francisco Bay.</title>
+	</titles>
+	<sponsor id="400314"/>
+	<cosponsors>
+		<cosponsor id="400403" joined="2007-12-10"/>
+		<cosponsor id="400129" joined="2007-12-10"/>
+		<cosponsor id="400124" joined="2007-12-10"/>
+		<cosponsor id="412189" joined="2007-12-10"/>
+		<cosponsor id="400396" joined="2007-12-10"/>
+		<cosponsor id="400245" joined="2007-12-10"/>
+		<cosponsor id="400231" joined="2007-12-10"/>
+		<cosponsor id="400663" joined="2007-12-10"/>
+		<cosponsor id="400436" joined="2007-12-10"/>
+		<cosponsor id="400237" joined="2007-12-10"/>
+		<cosponsor id="400185" joined="2007-12-11"/>
+		<cosponsor id="400090" joined="2007-12-10"/>
+		<cosponsor id="400278" joined="2007-12-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1197262800" datetime="2007-12-10"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1197349200" datetime="2007-12-11"><text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text></action>
+		<action date="1197401820" datetime="2007-12-11T15:37:00-05:00"><text>Mrs. Tauscher moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1197401820" datetime="2007-12-11T15:37:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H15259-15261"/></action>
+		<action date="1197401820" datetime="2007-12-11T15:37:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 853.</text></action>
+		<vote date="1197402240" how="by voice vote" datetime="2007-12-11T15:44:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H15259"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/11/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Honors those individuals and organizations who have volunteered to assist in the cleanup of the November 7, 2007, oil spill in San Francisco Bay.<br/>
+	</summary>
+</bill>

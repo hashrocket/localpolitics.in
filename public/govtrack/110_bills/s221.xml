@@ -1,0 +1,42 @@
+<bill session="110" type="s" number="221" updated="2009-01-09T11:35:55-05:00">
+	<status><calendar date="1179374400" datetime="2007-05-17" /></status>
+
+	<introduced date="1168318800" datetime="2007-01-09"/>
+	<titles>
+		<title type="short" as="reported to senate">Fair Contracts for Growers Act of 2007</title>
+		<title type="official" as="introduced">A bill to amend title 9, United States Code, to provide for greater fairness in the arbitration process relating to livestock and poultry contracts.</title>
+	</titles>
+	<sponsor id="300048"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2007-01-09"/>
+		<cosponsor id="300042" joined="2007-01-09"/>
+		<cosponsor id="300038" joined="2007-04-17"/>
+		<cosponsor id="300061" joined="2007-01-09"/>
+		<cosponsor id="300051" joined="2007-01-09"/>
+		<cosponsor id="300050" joined="2007-01-09"/>
+		<cosponsor id="300058" joined="2007-03-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1168318800" datetime="2007-01-09"><text>Sponsor introductory remarks on measure. (CR S291-292)</text></action>
+		<action date="1168318800" datetime="2007-01-09"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S293"/></action>
+		<calendar date="1179374400" datetime="2007-05-17" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1191470400" datetime="2007-10-04"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment. With written report No. 110-190. Additional and Minority views filed.</text></action>
+		<calendar under="General Orders" number="410" date="1191470400" datetime="2007-10-04" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 410.</text></calendar>
+		<action date="1192420800" datetime="2007-10-15"><text>Star Print ordered on the reported bill.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/4/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Fair Contracts for Growers Act of 2007 - Amends federal law provisions concerning arbitration to define &quot;livestock,&quot; &quot;livestock or poultry contract,&quot; &quot;livestock or poultry grower,&quot; and &quot;poultry.&quot; Allows the use of arbitration to resolve a controversy as provided for under a livestock or poultry contract only if, after the controversy arises, both parties consent in writing to use arbitration. Directs the arbitrator to provide to the parties to the contract a written explanation of the factual and legal basis for an award. 
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="37" updated="2009-03-07T09:52:09-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Systematic Foreclosure Prevention and Mortgage Modification Act</title>
+		<title type="official" as="introduced">To establish a systematic mortgage modification program at the Federal Deposit Insurance Corporation, and for other purposes.</title>
+	</titles>
+	<sponsor id="400422"/>
+	<cosponsors>
+		<cosponsor id="400416" joined="2009-01-06"/>
+		<cosponsor id="400237" joined="2009-01-06"/>
+		<cosponsor id="412221" joined="2009-01-06"/>
+		<cosponsor id="400653" joined="2009-01-06"/>
+		<cosponsor id="400251" joined="2009-01-06"/>
+		<cosponsor id="400178" joined="2009-01-06"/>
+		<cosponsor id="400424" joined="2009-01-06"/>
+		<cosponsor id="400063" joined="2009-01-06"/>
+		<cosponsor id="400009" joined="2009-01-06"/>
+		<cosponsor id="412220" joined="2009-01-06"/>
+		<cosponsor id="400639" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="73" />
+	</relatedbills>
+	<subjects>
+		<term name="Housing and community development"/>
+		<term name="Housing and community development funding"/>
+		<term name="Housing finance and home ownership"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Systematic Foreclosure Prevention and Mortgage Modification Act - Directs the Chairperson of the Federal Deposit Insurance Corporation (FDIC) to establish a systematic foreclosure prevention and mortgage modification program by: (1) paying mortgage servicers $1,000 to cover expenses for each loan modified according to specified standards; and (2) sharing up to 50% of any losses incurred if a modified loan should subsequently re-default.<br/>
+	</summary>
+</bill>

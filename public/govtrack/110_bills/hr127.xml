@@ -1,0 +1,89 @@
+<bill session="110" type="hr" number="127" updated="2009-01-09T08:09:34-05:00">
+	<status><vote date="1213049520" datetime="2008-06-09T19:12:00-04:00" where="h" result="pass" how="roll" roll="390"/></status>
+
+	<introduced date="1170651600" datetime="2007-02-05"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing and celebrating the 50th anniversary of the entry of Alaska in the Union as the 49th State.</title>
+	</titles>
+	<sponsor id="400440"/>
+	<cosponsors>
+		<cosponsor id="400627" joined="2008-02-12"/>
+		<cosponsor id="400041" joined="2008-04-22"/>
+		<cosponsor id="400420" joined="2008-02-12"/>
+		<cosponsor id="400620" joined="2008-02-12"/>
+		<cosponsor id="412218" joined="2008-02-12"/>
+		<cosponsor id="400228" joined="2008-02-12"/>
+		<cosponsor id="400149" joined="2008-02-12"/>
+		<cosponsor id="400376" joined="2008-02-12"/>
+		<cosponsor id="400209" joined="2008-02-12"/>
+		<cosponsor id="400336" joined="2008-02-12"/>
+		<cosponsor id="400183" joined="2008-02-12"/>
+		<cosponsor id="400419" joined="2008-02-12"/>
+		<cosponsor id="400635" joined="2008-02-12"/>
+		<cosponsor id="400342" joined="2008-02-12"/>
+		<cosponsor id="400096" joined="2008-02-12"/>
+		<cosponsor id="400313" joined="2007-05-24"/>
+		<cosponsor id="400154" joined="2008-02-12"/>
+		<cosponsor id="400268" joined="2008-02-12"/>
+		<cosponsor id="400116" joined="2008-02-12"/>
+		<cosponsor id="400049" joined="2007-05-24"/>
+		<cosponsor id="400260" joined="2008-02-12"/>
+		<cosponsor id="400132" joined="2008-02-12"/>
+		<cosponsor id="400274" joined="2008-02-12"/>
+		<cosponsor id="409888" joined="2008-02-12"/>
+		<cosponsor id="400241" joined="2008-02-12"/>
+		<cosponsor id="400365" joined="2008-02-12"/>
+		<cosponsor id="400285" joined="2008-02-12"/>
+		<cosponsor id="400377" joined="2008-02-12"/>
+		<cosponsor id="400355" joined="2008-02-12"/>
+		<cosponsor id="400312" joined="2008-02-12"/>
+		<cosponsor id="400235" joined="2008-02-12"/>
+		<cosponsor id="400224" joined="2008-02-12"/>
+		<cosponsor id="400206" joined="2008-02-12"/>
+		<cosponsor id="412235" joined="2008-02-12"/>
+		<cosponsor id="400044" joined="2008-02-12"/>
+		<cosponsor id="400335" joined="2008-02-12"/>
+		<cosponsor id="400131" joined="2008-02-12"/>
+		<cosponsor id="400340" joined="2008-02-12"/>
+		<cosponsor id="400404" joined="2008-02-12"/>
+		<cosponsor id="400350" joined="2008-02-12"/>
+		<cosponsor id="400211" joined="2008-02-12"/>
+		<cosponsor id="400338" joined="2008-02-12"/>
+		<cosponsor id="412200" joined="2008-02-12"/>
+		<cosponsor id="400421" joined="2008-02-12"/>
+		<cosponsor id="400005" joined="2008-02-12"/>
+		<cosponsor id="400090" joined="2008-02-12"/>
+		<cosponsor id="400334" joined="2008-02-12"/>
+		<cosponsor id="400636" joined="2008-02-12"/>
+		<cosponsor id="400025" joined="2008-02-12"/>
+		<cosponsor id="400435" joined="2008-02-12"/>
+		<cosponsor id="400434" joined="2008-02-12"/>
+		<cosponsor id="412255" joined="2008-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1170651600" datetime="2007-02-05"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1208318400" datetime="2008-04-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1208318400" datetime="2008-04-16" ><text>Ordered to be Reported Without Recommendation by Voice Vote.</text></calendar>
+		<action date="1213042200" datetime="2008-06-09T17:10:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1213042200" datetime="2008-06-09T17:10:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5077-5080"/></action>
+		<action date="1213042200" datetime="2008-06-09T17:10:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 127.</text></action>
+		<action date="1213043340" datetime="2008-06-09T17:29:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1213049040" datetime="2008-06-09T19:04:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5088"/></action>
+		<vote date="1213049520" how="roll" roll="390" datetime="2008-06-09T19:12:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 375 - 0 (Roll no. 390).</text><reference label="text" ref="CR H5077"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/9/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes and celebrates the 50th anniversary of the entry of Alaska into the Union as the 49th state. 
+	</summary>
+</bill>

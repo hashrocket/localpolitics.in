@@ -1,0 +1,162 @@
+<bill session="110" type="h" number="976" updated="2009-01-08T18:52:09-05:00">
+	<status><override date="1192724160" datetime="2007-10-18T13:16:00-04:00" where="h" result="fail" how="roll" roll="982"/></status>
+
+	<introduced date="1170997200" datetime="2007-02-09"/>
+	<titles>
+		<title type="popular" as="">SCHIP Extension bill</title>
+		<title type="short" as="introduced">Small Business Tax Relief Act of 2007</title>
+		<title type="short" as="reported to house">Small Business Tax Relief Act of 2007</title>
+		<title type="short" as="passed house">Small Business Tax Relief Act of 2007</title>
+		<title type="short" as="passed house">Military Family Job Protection Act</title>
+		<title type="short" as="passed house">Support for Injured Servicemembers Act</title>
+		<title type="short" as="passed senate">Children's Health Insurance Program Reauthorization Act of 2007</title>
+		<title type="short" as="passed senate">Military Family Job Protection Act</title>
+		<title type="short" as="passed senate">Support for Injured Servicemembers Act</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide tax relief for small businesses, and for other purposes.</title>
+		<title type="official" as="amended by senate">An act to amend title XXI of the Social Security Act to extend and improve the Children's Health Insurance Program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400333"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-02-13"/>
+		<cosponsor id="400620" joined="2007-02-12"/>
+		<cosponsor id="400177" joined="2007-02-12"/>
+		<cosponsor id="400618" joined="2007-02-12"/>
+		<cosponsor id="400092" joined="2007-02-12"/>
+		<cosponsor id="400242" joined="2007-02-13"/>
+		<cosponsor id="400282" joined="2007-02-12"/>
+		<cosponsor id="412224" joined="2007-02-12"/>
+		<cosponsor id="412225" joined="2007-02-12"/>
+		<cosponsor id="400403" joined="2007-02-12"/>
+		<cosponsor id="400635" joined="2007-02-12"/>
+		<cosponsor id="400096" joined="2007-02-12"/>
+		<cosponsor id="400267" joined="2007-02-14"/>
+		<cosponsor id="400065" joined="2007-02-12"/>
+		<cosponsor id="400332" joined="2007-02-13"/>
+		<cosponsor id="400647" joined="2007-02-12"/>
+		<cosponsor id="400443" joined="2007-02-12"/>
+		<cosponsor id="400268" joined="2007-02-12"/>
+		<cosponsor id="400361" joined="2007-02-13"/>
+		<cosponsor id="412210" joined="2007-02-14"/>
+		<cosponsor id="400176" joined="2007-02-14"/>
+		<cosponsor id="400323" joined="2007-02-12"/>
+		<cosponsor id="400261" joined="2007-02-09"/>
+		<cosponsor id="400406" joined="2007-02-13"/>
+		<cosponsor id="400274" joined="2007-02-12"/>
+		<cosponsor id="400241" joined="2007-02-13"/>
+		<cosponsor id="400254" joined="2007-02-12"/>
+		<cosponsor id="400084" joined="2007-02-12"/>
+		<cosponsor id="400377" joined="2007-02-14"/>
+		<cosponsor id="400262" joined="2007-02-12"/>
+		<cosponsor id="412197" joined="2007-02-12"/>
+		<cosponsor id="400030" joined="2007-02-12"/>
+		<cosponsor id="412188" joined="2007-02-12"/>
+		<cosponsor id="400387" joined="2007-02-12"/>
+		<cosponsor id="400324" joined="2007-02-13"/>
+		<cosponsor id="400206" joined="2007-02-13"/>
+		<cosponsor id="400386" joined="2007-02-12"/>
+		<cosponsor id="400416" joined="2007-02-12"/>
+		<cosponsor id="412223" joined="2007-02-12"/>
+		<cosponsor id="400044" joined="2007-02-12"/>
+		<cosponsor id="412205" joined="2007-02-12"/>
+		<cosponsor id="400631" joined="2007-02-12"/>
+		<cosponsor id="400395" joined="2007-02-12"/>
+		<cosponsor id="400087" joined="2007-02-12"/>
+		<cosponsor id="400270" joined="2007-02-12"/>
+		<cosponsor id="412222" joined="2007-02-15"/>
+		<cosponsor id="400195" joined="2007-02-14"/>
+		<cosponsor id="400111" joined="2007-02-12"/>
+		<cosponsor id="400255" joined="2007-02-12"/>
+		<cosponsor id="400021" joined="2007-02-12"/>
+		<cosponsor id="412239" joined="2007-02-13"/>
+		<cosponsor id="400338" joined="2007-02-13"/>
+		<cosponsor id="400120" joined="2007-02-12"/>
+		<cosponsor id="400628" joined="2007-02-12"/>
+		<cosponsor id="400415" joined="2007-02-12"/>
+		<cosponsor id="400009" joined="2007-02-12"/>
+		<cosponsor id="400291" joined="2007-02-12"/>
+		<cosponsor id="400033" joined="2007-02-12"/>
+		<cosponsor id="400042" joined="2007-02-12"/>
+		<cosponsor id="400208" joined="2007-02-12"/>
+		<cosponsor id="400218" joined="2007-02-12"/>
+		<cosponsor id="400240" joined="2007-02-12"/>
+		<cosponsor id="400046" joined="2007-02-13"/>
+		<cosponsor id="400024" joined="2007-02-12"/>
+		<cosponsor id="400238" joined="2007-02-12"/>
+		<cosponsor id="412206" joined="2007-02-12"/>
+		<cosponsor id="400345" joined="2007-02-12"/>
+		<cosponsor id="400233" joined="2007-02-12"/>
+		<cosponsor id="400190" joined="2007-02-13"/>
+		<cosponsor id="400309" joined="2007-02-12"/>
+		<cosponsor id="400429" joined="2007-02-13"/>
+		<cosponsor id="412233" joined="2007-02-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1170997200" datetime="2007-02-09"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action date="1171256400" datetime="2007-02-12"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1171256400" datetime="2007-02-12" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1171566000" datetime="2007-02-15T15:00:00-05:00"><text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-14.</text></action>
+		<calendar number="5" date="1171566060" datetime="2007-02-15T15:01:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 5.</text></calendar>
+		<action date="1171658220" datetime="2007-02-16T16:37:00-05:00"><text>Mr. Rangel moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1171658280" datetime="2007-02-16T16:38:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1854-1860"/></action>
+		<action date="1171658280" datetime="2007-02-16T16:38:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 976.</text></action>
+		<vote date="1171660200" how="roll" roll="102" datetime="2007-02-16T17:10:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 360 - 45 (Roll no. 102).</text><reference label="text" ref="CR H1854-1855"/></vote>
+		<action date="1171602000" datetime="2007-02-16"><text>Received in the Senate.</text></action>
+		<action date="1171688400" datetime="2007-02-17"><text>Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar under="General Orders" number="58" date="1172466000" datetime="2007-02-26" calendar="Senate Legislative" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 58.</text></calendar>
+		<action date="1185422400" datetime="2007-07-26"><text>Motion to proceed to consideration of measure made in Senate.</text></action>
+		<action date="1185422400" datetime="2007-07-26"><text>Cloture motion on the motion to proceed to the measure presented in Senate.</text></action>
+		<action date="1185422400" datetime="2007-07-26"><text>Motion to proceed to consideration of measure withdrawn in Senate.</text></action>
+		<action date="1185768000" datetime="2007-07-30"><text>Motion to proceed to measure considered in Senate.</text><reference label="consideration" ref="CR S10212-10230, S10303-10304"/></action>
+		<action date="1185768000" datetime="2007-07-30"><text>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 80 - 0. Record Vote Number: 285.</text><reference label="consideration" ref="CR S10226-10227"/><reference label="text" ref="CR S10226"/></action>
+		<action date="1185854400" datetime="2007-07-31"><text>Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S10346-10353, S10353-10389, S10401-10408"/></action>
+		<action date="1185854400" datetime="2007-07-31"><text>Measure laid before Senate by motion.</text><reference label="consideration" ref="CR S10346"/></action>
+		<action date="1185940800" datetime="2007-08-01"><text>Considered by Senate.</text><reference label="consideration" ref="CR S10537-10546, S10547-10581, S10581-10584, S10586-10587, S10587-10592"/></action>
+		<action date="1185940800" datetime="2007-08-01"><text>Cloture motion on the bill presented in Senate.</text><reference label="consideration" ref="CR S10589"/><reference label="text" ref="CR S10589"/></action>
+		<action date="1186027200" datetime="2007-08-02"><text>Considered by Senate.</text><reference label="consideration" ref="CR S10719-10723, S10724-10761"/></action>
+		<vote date="1186027200" how="roll" roll="307" datetime="2007-08-02" where="s" type="vote2" result="pass" ><text>Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 68 - 31. Record Vote Number: 307. (text: CR 8/3/2007 S10953-10977)</text></vote>
+		<action date="1186113600" datetime="2007-08-03"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1190682300" datetime="2007-09-24T22:05:00-04:00"><text>Rules Committee Resolution H. Res. 675 Reported to House. Rule provides for consideration of H.R. 976 with 1 hour of general debate. Measure will be considered read. Bill is closed to amendments. Providing for the consideration of the Senate amendments to H.R. 976.</text></action>
+		<action date="1190752800" datetime="2007-09-25T17:40:00-04:00"><text>Rule H. Res. 675 passed House.</text></action>
+		<action date="1190756340" datetime="2007-09-25T18:39:00-04:00"><text>Mr. Dingell moved that the House agree with amendments to the Senate amendments.</text><reference label="consideration" ref="CR H10816-10885"/></action>
+		<action date="1190756400" datetime="2007-09-25T18:40:00-04:00"><text>DEBATE - Pursuant to the provisions of H.Res. 675, the House proceeded with one hour of debate on the Dingell motion to agree to the Senate amendments to H.R. 976 with amendments.</text></action>
+		<action date="1190763000" datetime="2007-09-25T20:30:00-04:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H10885"/></action>
+		<action date="1190764380" datetime="2007-09-25T20:53:00-04:00"><text>On motion that the House agree with amendments to the Senate Agreed to by the Yeas and Nays: 265 - 159, 1 Present (Roll no. 906).</text><reference label="text as House agreed to Senate amendments" ref="CR H10840-10870"/></action>
+		<action date="1190779200" datetime="2007-09-26"><text>Message on House action received in Senate and at desk: House amendments to Senate amendments.</text></action>
+		<action date="1190779200" datetime="2007-09-26"><text>Motion to concur in House amendments to Senate amendments to the bill H.R. 976 made in Senate.</text><reference label="consideration" ref="CR S12122-12123"/></action>
+		<action date="1190779200" datetime="2007-09-26"><text>Cloture motion on the motion to concur in House amendments to Senate amendments to the bill H.R. 976 presented in Senate.</text><reference label="consideration" ref="CR S12122"/><reference label="text" ref="CR S12122"/></action>
+		<action date="1190779200" datetime="2007-09-26"><text>Motion to concur in the House amendment to the Senate amendment to the bill H.R. 976 with an amendment (SA 3071) made in Senate.</text><reference label="consideration" ref="CR S12123"/></action>
+		<action date="1190865600" datetime="2007-09-27"><text>Motion to concur in House amendments to Senate amendments to the bill H.R. 976 considered in Senate.</text><reference label="consideration" ref="CR S12206-12207, S12207-12228, S12229-12235, S12236-12247, S12247-12248, S12254-12255"/></action>
+		<action date="1190865600" datetime="2007-09-27"><text>Cloture on the motion to concur in House amendments to Senate amendments to the bill H.R. 976 invoked in Senate by Yea-Nay Vote. 69 - 30. Record Vote Number: 352.</text><reference label="consideration" ref="CR S12206-12207"/><reference label="text" ref="CR S12206"/></action>
+		<action date="1190865600" datetime="2007-09-27"><text>Motion to concur in the House amendment to the Senate amendment to the bill H.R. 976 with an amendment (SA 3071) withdrawn in Senate.</text><reference label="consideration" ref="CR S12255"/></action>
+		<action date="1190865600" datetime="2007-09-27"><text>Senate agreed to House amendments to Senate amendments (text and title) by Yea-Nay Vote. 67 - 29. Record Vote Number: 353.</text></action>
+		<action date="1190865600" datetime="2007-09-27"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1190865600" datetime="2007-09-27" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1191297600" datetime="2007-10-02" ><text>Presented to President.</text></topresident>
+		<vetoed date="1191384000" datetime="2007-10-03" ><text>Vetoed by President.</text><reference label="text of veto message" ref="CR H11203"/></vetoed>
+		<action date="1191432780" datetime="2007-10-03T14:33:00-04:00"><text>The Chair laid before the House the veto message from the President.</text></action>
+		<action date="1191432960" datetime="2007-10-03T14:36:00-04:00"><text>Mr. Hoyer moved to postpone consideration of the veto message until Oct. 18.</text><reference label="consideration" ref="CR H11203-11214"/></action>
+		<action date="1191432960" datetime="2007-10-03T14:36:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on the Hoyer motion to postpone consideration of the veto message to accompany H.R. 976.</text></action>
+		<action date="1191437940" datetime="2007-10-03T15:59:00-04:00"><text>The previous question on the motion to postpone consideration of the veto message was ordered without objection.</text><reference label="consideration" ref="CR H11213"/></action>
+		<action date="1191439440" datetime="2007-10-03T16:24:00-04:00"><text>On motion to postpone consideration of the veto message Agreed to by recorded vote: 222 - 197 (Roll no. 938).</text><reference label="consideration" ref="CR H11213-11214"/></action>
+		<action date="1192715820" datetime="2007-10-18T10:57:00-04:00"><text>The Chair laid before the House the veto message from the President.</text></action>
+		<action date="1192715880" datetime="2007-10-18T10:58:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on the question of passage of H.R. 976, the objections of the President to the contrary, notwithstanding.</text></action>
+		<action date="1192764600" datetime="2007-10-18T12:30:00-04:00"><text>WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used in debate. The Chair ruled that the words did not breach the rules of decorum and were in order. The House resumed debate on H.R. 976.</text></action>
+		<vote date="1192724160" how="roll" roll="982" datetime="2007-10-18T13:16:00-04:00" where="h" type="override" result="fail" ><text>On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 273 - 156 (Roll no. 982).</text><reference label="consideration" ref="CR H11735-11754"/></vote>
+		<action date="1192724160" datetime="2007-10-18T13:16:00-04:00"><text>The Chair announced that the message and the accompanying bill would be referred to the Committees on Energy and Commerce and Ways and Means and that the Clerk would be directed to notify the Senate of the actions of the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

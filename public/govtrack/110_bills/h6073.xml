@@ -1,0 +1,70 @@
+<bill session="110" type="h" number="6073" updated="2009-01-09T05:25:35-05:00">
+	<status><enacted date="1224043200" datetime="2008-10-15" /></status>
+
+	<introduced date="1210824000" datetime="2008-05-15"/>
+	<titles>
+		<title type="official" as="introduced">To provide that Federal employees receiving their pay by electronic funds transfer shall be given the option of receiving their pay stubs electronically.</title>
+	</titles>
+	<sponsor id="400643"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2008-06-17"/>
+		<cosponsor id="400616" joined="2008-06-03"/>
+		<cosponsor id="412225" joined="2008-06-17"/>
+		<cosponsor id="400333" joined="2008-06-17"/>
+		<cosponsor id="400040" joined="2008-05-20"/>
+		<cosponsor id="400365" joined="2008-05-22"/>
+		<cosponsor id="400433" joined="2008-05-19"/>
+		<cosponsor id="400055" joined="2008-05-20"/>
+		<cosponsor id="400658" joined="2008-06-09"/>
+		<cosponsor id="400068" joined="2008-05-19"/>
+		<cosponsor id="400570" joined="2008-06-05"/>
+		<cosponsor id="400655" joined="2008-05-22"/>
+		<cosponsor id="400076" joined="2008-05-19"/>
+		<cosponsor id="412239" joined="2008-06-09"/>
+		<cosponsor id="412201" joined="2008-05-22"/>
+		<cosponsor id="400644" joined="2008-05-20"/>
+		<cosponsor id="412254" joined="2008-06-03"/>
+		<cosponsor id="412236" joined="2008-05-19"/>
+		<cosponsor id="400321" joined="2008-06-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1210824000" datetime="2008-05-15"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1212552000" datetime="2008-06-04"><text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Subcommittee on Government Management, Organization, and Procurement Discharged.</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1216180800" datetime="2008-07-16" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1217255640" datetime="2008-07-28T11:34:00-04:00"><text>Reported by the Committee on Oversight and Government. H. Rept. 110-780.</text></action>
+		<calendar number="499" date="1217255700" datetime="2008-07-28T11:35:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 499.</text></calendar>
+		<action date="1217351400" datetime="2008-07-29T14:10:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1217351400" datetime="2008-07-29T14:10:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7218"/></action>
+		<action date="1217351400" datetime="2008-07-29T14:10:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6073.</text></action>
+		<action date="1217351760" datetime="2008-07-29T14:16:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Foxx objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1217457960" datetime="2008-07-30T19:46:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7596"/></action>
+		<vote date="1217457960" how="by voice vote" datetime="2008-07-30T19:46:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/29/2008 H7218)</text></vote>
+		<action date="1217476800" datetime="2008-07-31"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<calendar date="1222142400" datetime="2008-09-23" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1222228800" datetime="2008-09-24"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="1073" date="1222228800" datetime="2008-09-24" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1073.</text></calendar>
+		<vote date="1222747200" how="by Unanimous Consent" datetime="2008-09-30" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10184"/></vote>
+		<topresident date="1222747200" datetime="2008-09-30" ><text>Cleared for White House.</text></topresident>
+		<action date="1222833600" datetime="2008-10-01"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1223352000" datetime="2008-10-07" ><text>Presented to President.</text></topresident>
+		<signed date="1224043200" datetime="2008-10-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-423" date="1224043200" datetime="2008-10-15" type="public" ><text>Became Public Law No: 110-423.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/15/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Requires the Office of Personnel Management (OPM) to ensure that executive agency employees who receive their pay by electronic funds transfer are given the option of receiving their pay stubs electronically.<br/>
+	</summary>
+</bill>

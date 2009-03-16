@@ -1,0 +1,65 @@
+<bill session="111" type="h" number="995" updated="2009-03-07T11:45:21-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="short" as="introduced">Mammogram and MRI Availability Act of 2009</title>
+		<title type="official" as="introduced">To amend the Public Health Service Act and Employee Retirement Income Security Act of 1974 to require that group and individual health insurance coverage and group health plans provide coverage for annual screening mammography for women 40 years of age or older and for such screening and annual magnetic resonance imaging for women at high risk for breast cancer if the coverage or plans include coverage for diagnostic mammography for women 40 years of age or older.</title>
+	</titles>
+	<sponsor id="400289"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2009-02-11"/>
+		<cosponsor id="400041" joined="2009-02-11"/>
+		<cosponsor id="400031" joined="2009-02-11"/>
+		<cosponsor id="400073" joined="2009-02-11"/>
+		<cosponsor id="400227" joined="2009-02-11"/>
+		<cosponsor id="400364" joined="2009-02-11"/>
+		<cosponsor id="412263" joined="2009-02-11"/>
+		<cosponsor id="400436" joined="2009-02-26"/>
+		<cosponsor id="400162" joined="2009-02-11"/>
+		<cosponsor id="400237" joined="2009-02-11"/>
+		<cosponsor id="400140" joined="2009-02-11"/>
+		<cosponsor id="400426" joined="2009-02-25"/>
+		<cosponsor id="400251" joined="2009-02-11"/>
+		<cosponsor id="400378" joined="2009-02-26"/>
+		<cosponsor id="412232" joined="2009-02-25"/>
+		<cosponsor id="400360" joined="2009-02-11"/>
+		<cosponsor id="400366" joined="2009-02-11"/>
+		<cosponsor id="400295" joined="2009-02-11"/>
+		<cosponsor id="400623" joined="2009-02-11"/>
+		<cosponsor id="400211" joined="2009-02-11"/>
+		<cosponsor id="400344" joined="2009-02-11"/>
+		<cosponsor id="412236" joined="2009-02-11"/>
+		<cosponsor id="412186" joined="2009-02-11"/>
+		<cosponsor id="412228" joined="2009-02-11"/>
+		<cosponsor id="400185" joined="2009-02-11"/>
+		<cosponsor id="400003" joined="2009-02-11"/>
+		<cosponsor id="400274" joined="2009-02-11"/>
+		<cosponsor id="400101" joined="2009-02-25"/>
+		<cosponsor id="400215" joined="2009-02-25"/>
+		<cosponsor id="400062" joined="2009-02-11"/>
+		<cosponsor id="400030" joined="2009-02-11"/>
+		<cosponsor id="400639" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to House Education and Labor</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Introduced.<br/>Mammogram and MRI Availability Act of 2009 - Amends the Public Health Service Act and the Employee Retirement Income Security Act of 1974 (ERISA) to require a group health plan that provides coverage for diagnostic mammography for any woman 40 years old or older to provide no less favorable coverage for annual screening mammography for such a woman, and diagnostic mammography, annual screening mammography, and annual magnetic resonance imaging for any high risk woman. Prohibits a group health plan from denying enrollment or renewal solely to avoid the requirements of this Act, providing monetary incentives to encourage women to accept less than such minimum protections, penalizing providers for providing care in accordance with this Act, or providing incentives to induce providers to provide care in a manner inconsistent with this Act. Applies such requirements and prohibitions to coverage offered in the individual market. 
+	</summary>
+</bill>

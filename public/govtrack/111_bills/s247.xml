@@ -1,0 +1,45 @@
+<bill session="111" type="s" number="247" updated="2009-03-07T14:02:41-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="short" as="introduced">Accelerated Retirement of Inefficient Vehicles Act of 2009</title>
+		<title type="official" as="introduced">A bill to accelerate motor fuel savings nationwide and provide incentives to registered owners of high fuel consumption automobiles to replace such automobiles with fuel efficient automobiles or public transportation.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300025" joined="2009-01-14"/>
+		<cosponsor id="300073" joined="2009-01-15"/>
+		<cosponsor id="300087" joined="2009-01-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Sponsor introductory remarks on measure. (CR S394-395)</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text><reference label="text of measure as introduced" ref="CR S396-397"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Energy and Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="520" />
+	</relatedbills>
+	<subjects>
+		<term name="Energy"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Consumer affairs"/>
+		<term name="Department of Energy"/>
+		<term name="Energy efficiency and conservation"/>
+		<term name="Government information and archives"/>
+		<term name="Hazardous wastes and toxic substances"/>
+		<term name="Motor vehicles"/>
+		<term name="Public transit"/>
+		<term name="Retail and wholesale trades"/>
+		<term name="Solid waste and recycling"/>
+		<term name="Transportation costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

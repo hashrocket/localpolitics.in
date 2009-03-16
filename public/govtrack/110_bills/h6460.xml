@@ -1,0 +1,108 @@
+<bill session="110" type="h" number="6460" updated="2009-01-09T06:11:31-05:00">
+	<status><enacted date="1223438400" datetime="2008-10-08" /></status>
+
+	<introduced date="1215662400" datetime="2008-07-10"/>
+	<titles>
+		<title type="short" as="introduced">Great Lakes Legacy Reauthorization Act of 2008</title>
+		<title type="short" as="reported to house">Great Lakes Legacy Reauthorization Act of 2008</title>
+		<title type="short" as="passed house">Great Lakes Legacy Reauthorization Act of 2008</title>
+		<title type="short" as="passed senate">Great Lakes Legacy Reauthorization Act of 2008</title>
+		<title type="short" as="enacted">Great Lakes Legacy Reauthorization Act of 2008</title>
+		<title type="official" as="introduced">To amend the Federal Water Pollution Control Act to provide for the remediation of sediment contamination in areas of concern, and for other purposes.</title>
+	</titles>
+	<sponsor id="400119"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2008-07-15"/>
+		<cosponsor id="400661" joined="2008-07-16"/>
+		<cosponsor id="400061" joined="2008-07-15"/>
+		<cosponsor id="400420" joined="2008-07-15"/>
+		<cosponsor id="400222" joined="2008-07-15"/>
+		<cosponsor id="400227" joined="2008-08-01"/>
+		<cosponsor id="400414" joined="2008-07-15"/>
+		<cosponsor id="400027" joined="2008-07-15"/>
+		<cosponsor id="400149" joined="2008-07-15"/>
+		<cosponsor id="400080" joined="2008-07-22"/>
+		<cosponsor id="400342" joined="2008-07-15"/>
+		<cosponsor id="400058" joined="2008-07-15"/>
+		<cosponsor id="400268" joined="2008-07-15"/>
+		<cosponsor id="400276" joined="2008-07-16"/>
+		<cosponsor id="400260" joined="2008-07-15"/>
+		<cosponsor id="400406" joined="2008-07-15"/>
+		<cosponsor id="400264" joined="2008-09-08"/>
+		<cosponsor id="400216" joined="2008-07-15"/>
+		<cosponsor id="400225" joined="2008-07-15"/>
+		<cosponsor id="400642" joined="2008-07-15"/>
+		<cosponsor id="400417" joined="2008-07-23"/>
+		<cosponsor id="400235" joined="2008-07-15"/>
+		<cosponsor id="400352" joined="2008-09-08"/>
+		<cosponsor id="400648" joined="2008-07-15"/>
+		<cosponsor id="400017" joined="2008-07-15"/>
+		<cosponsor id="412227" joined="2008-07-31"/>
+		<cosponsor id="400110" joined="2008-07-16"/>
+		<cosponsor id="400259" joined="2008-07-17"/>
+		<cosponsor id="412240" joined="2008-07-17"/>
+		<cosponsor id="400178" joined="2008-07-22"/>
+		<cosponsor id="400378" joined="2008-07-15"/>
+		<cosponsor id="400217" joined="2008-07-17"/>
+		<cosponsor id="400360" joined="2008-07-22"/>
+		<cosponsor id="400338" joined="2008-07-29"/>
+		<cosponsor id="400120" joined="2008-07-29"/>
+		<cosponsor id="400299" joined="2008-07-10"/>
+		<cosponsor id="412200" joined="2008-07-17"/>
+		<cosponsor id="412186" joined="2008-07-16"/>
+		<cosponsor id="412213" joined="2008-07-16"/>
+		<cosponsor id="412228" joined="2008-07-16"/>
+		<cosponsor id="400318" joined="2008-07-29"/>
+		<cosponsor id="400391" joined="2008-07-29"/>
+		<cosponsor id="400641" joined="2008-07-29"/>
+		<cosponsor id="400182" joined="2008-07-15"/>
+		<cosponsor id="400334" joined="2008-07-15"/>
+		<cosponsor id="400238" joined="2008-07-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1215662400" datetime="2008-07-10"><text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1215662400" datetime="2008-07-10"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1215662400" datetime="2008-07-10"><text>Referred to House Science and Technology</text></action>
+		<action date="1215748800" datetime="2008-07-11"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action date="1216008000" datetime="2008-07-14"><committee name="House Science and Technology"/><text>Referred to the Subcommittee on Energy and Environment.</text></action>
+		<action date="1217476800" datetime="2008-07-31"><committee name="House Transportation and Infrastructure"/><text>Subcommittee on Water Resources and Environment Discharged.</text></action>
+		<action date="1217476800" datetime="2008-07-31"><committee name="House Transportation and Infrastructure"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1217476800" datetime="2008-07-31" ><committee name="House Transportation and Infrastructure"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1221520020" datetime="2008-09-15T20:07:00-04:00"><text>Reported (Amended) by the Committee on Transportation. H. Rept. 110-849, Part I.</text></action>
+		<action date="1221520140" datetime="2008-09-15T20:09:00-04:00"><text>Committee on Science and Technology discharged.</text></action>
+		<calendar number="549" date="1221520140" datetime="2008-09-15T20:09:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 549.</text></calendar>
+		<action date="1221679860" datetime="2008-09-17T16:31:00-04:00"><text>Ms. Johnson, E. B. moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1221679920" datetime="2008-09-17T16:32:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8343-8349"/></action>
+		<action date="1221679920" datetime="2008-09-17T16:32:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6460.</text></action>
+		<action date="1221682260" datetime="2008-09-17T17:11:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Boozman objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1221769500" datetime="2008-09-18T17:25:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8451-8452"/></action>
+		<vote date="1221769980" how="roll" roll="615" datetime="2008-09-18T17:33:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 371 - 20 (Roll no. 615). (text: CR 9/17/2008 H8343-8344)</text></vote>
+		<action date="1222056000" datetime="2008-09-22"><text>Received in the Senate, read twice.</text></action>
+		<action date="1222315200" datetime="2008-09-25"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S9473-9474"/></action>
+		<vote date="1222315200" how="by Unanimous Consent" datetime="2008-09-25" where="s" type="vote2" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action date="1222315200" datetime="2008-09-25"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1222527060" datetime="2008-09-27T11:51:00-04:00"><text>Mr. Oberstar moved that the House suspend the rules and agree to the Senate amendment.</text><reference label="consideration" ref="CR H10155-10158"/></action>
+		<action date="1222527060" datetime="2008-09-27T11:51:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 6460.</text></action>
+		<action date="1222572120" datetime="2008-09-27T12:22:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1222632720" datetime="2008-09-28T17:12:00-04:00"><text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 411 - 9 (Roll no. 665). (consideration: CR H10305; text as House agreed to Senate amendment: CR 9/27/2008 H10155)</text></action>
+		<topresident date="1222574400" datetime="2008-09-28" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1222747200" datetime="2008-09-30" ><text>Presented to President.</text></topresident>
+		<signed date="1223438400" datetime="2008-10-08" ><text>Signed by President.</text></signed>
+		<enacted number="110-365" date="1223438400" datetime="2008-10-08" type="public" ><text>Became Public Law No: 110-365.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/10/2008--Introduced.<br/>Great Lakes Legacy Reauthorization Act of 2008 - Amends the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to include aquatic habitat restoration activities among activities the Great Lakes National Program Office is authorized to implement for the remediation of sediment contamination in areas of concern.<br/>Prohibits the Administrator of the Environmental Protection Agency (EPA) from implementing such a remediation project if any nonfederal sponsor has not entered into a written agreement with the Administrator under which each party agrees to carry out its responsibilities and requirements for the project.<br/>Revises provisions concerning the nonfederal share of the project costs.<br/>Requires the Administrator to implement at federal expense the initial site characterization of a project for the remediation of contaminated sediment. Repeals a prohibition against implementing a project unless the nonfederal sponsor agrees to maintain aggregate expenditures from all other sources for remediation programs in the area of concern in which the project is located at or above the average level of such expenditures in the two fiscal years preceding the date on which the project is initiated.<br/>Authorizes appropriations through FY2013 for: (1) such remediation projects; and (2) the development and use of innovative approaches, technologies, and techniques for such remediation. Limits to 20% the amount of funds appropriated for remediation projects that may be used for site characterization. 
+	</summary>
+</bill>

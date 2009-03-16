@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="169" updated="2009-03-07T10:07:44-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Great Sand Dunes National Park and Preserve Act of 2000 to explain the purpose and provide for the administration of the Baca National Wildlife Refuge.</title>
+	</titles>
+	<sponsor id="400620"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Insular Affairs, Oceans and Wildlife" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="191" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Aquatic ecology"/>
+		<term name="Birds"/>
+		<term name="Colorado"/>
+		<term name="Land use and conservation"/>
+		<term name="Water use and supply"/>
+		<term name="Wetlands"/>
+		<term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Amends the Great Sand Dunes National Park and Preserve Act of 2000 to provide that the purpose of the Baca National Wildlife Refuge shall be to restore, enhance, and maintain wetland, upland, riparian, and other habitats for native wildlife, plant, and fish species in the San Luis Valley. Instructs the Secretary of the Interior, in administering the Refuge, to: (1) emphasize migratory bird conservation; and (2) take into consideration the role of the Refuge in broader landscape conservation efforts. Provides for the Secretary, in administering water resources for the Refuge, to use decreed water rights on the Refuge in approximately the same manner that the water rights have been used historically. 
+	</summary>
+</bill>

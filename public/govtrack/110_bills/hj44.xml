@@ -1,0 +1,72 @@
+<bill session="110" type="hj" number="44" updated="2009-01-08T16:29:26-05:00">
+	<status><enacted date="1185940800" datetime="2007-08-01" /></status>
+
+	<introduced date="1179979200" datetime="2007-05-24"/>
+	<titles>
+		<title type="official" as="introduced">Approving the renewal of import restrictions contained in the Burmese Freedom and Democracy Act of 2003.</title>
+		<title type="official" as="amended by house">Joint resolution approving the renewal of import restrictions contained in the Burmese Freedom and Democracy Act of 2003, and for other purposes.</title>
+	</titles>
+	<sponsor id="400231"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-06-18"/>
+		<cosponsor id="400219" joined="2007-05-24"/>
+		<cosponsor id="400263" joined="2007-06-18"/>
+		<cosponsor id="400063" joined="2007-07-17"/>
+		<cosponsor id="400361" joined="2007-06-22"/>
+		<cosponsor id="400152" joined="2007-06-18"/>
+		<cosponsor id="400055" joined="2007-07-10"/>
+		<cosponsor id="400312" joined="2007-07-10"/>
+		<cosponsor id="400245" joined="2007-06-18"/>
+		<cosponsor id="400343" joined="2007-06-18"/>
+		<cosponsor id="400103" joined="2007-06-22"/>
+		<cosponsor id="400087" joined="2007-07-10"/>
+		<cosponsor id="400259" joined="2007-06-22"/>
+		<cosponsor id="400140" joined="2007-06-22"/>
+		<cosponsor id="400383" joined="2007-07-10"/>
+		<cosponsor id="400251" joined="2007-07-10"/>
+		<cosponsor id="400320" joined="2007-06-18"/>
+		<cosponsor id="400360" joined="2007-07-23"/>
+		<cosponsor id="412239" joined="2007-07-17"/>
+		<cosponsor id="412236" joined="2007-07-10"/>
+		<cosponsor id="400283" joined="2007-06-22"/>
+		<cosponsor id="400033" joined="2007-06-18"/>
+		<cosponsor id="400438" joined="2007-06-22"/>
+		<cosponsor id="400025" joined="2007-06-18"/>
+		<cosponsor id="400301" joined="2007-06-27"/>
+		<cosponsor id="400394" joined="2007-06-22"/>
+		<cosponsor id="400163" joined="2007-07-10"/>
+		<cosponsor id="400100" joined="2007-07-10"/>
+		<cosponsor id="400435" joined="2007-06-18"/>
+	</cosponsors>
+	<actions>
+		<action date="1179979200" datetime="2007-05-24"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action date="1180497600" datetime="2007-05-30"><text>Referred to the Subcommittee on Trade.</text></action>
+		<action date="1185208320" datetime="2007-07-23T13:32:00-04:00"><text>Mr. Levin moved to suspend the rules and pass the resolution, as amended.</text></action>
+		<action date="1185208440" datetime="2007-07-23T13:34:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8214-8216"/></action>
+		<action date="1185208440" datetime="2007-07-23T13:34:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 44.</text></action>
+		<vote date="1185209340" how="by voice vote" datetime="2007-07-23T13:49:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote.</text><reference label="text as passed in House" ref="CR H8215"/></vote>
+		<action date="1185249600" datetime="2007-07-24"><text>Received in the Senate, read twice.</text></action>
+		<action date="1185249600" datetime="2007-07-24"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S9819-9822"/></action>
+		<vote date="1185249600" how="roll" roll="276" datetime="2007-07-24" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Yea-Nay Vote. 93 - 1. Record Vote Number: 276.</text></vote>
+		<action date="1185249600" datetime="2007-07-24"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1185249600" datetime="2007-07-24" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1185508800" datetime="2007-07-27" ><text>Presented to President.</text></topresident>
+		<signed date="1185940800" datetime="2007-08-01" ><text>Signed by President.</text></signed>
+		<enacted number="110-52" date="1185940800" datetime="2007-08-01" type="public" ><text>Became Public Law No: 110-52.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/1/2007--Public Law. (This measure has not been amended since it was passed by the House on July 23, 2007. The summary of that version is repeated here.) Approves the renewal of certain import restrictions contained in the Burmese Freedom and Democracy Act of 2003. Amends the Consolidated Omnibus Budget Reconciliation Act of 1985 to extend certain customs fees for the processing of merchandise entered into the United States through October 21, 2014. Amends the Tax Increase Prevention and Reconciliation Act of 2005 to increase the amount of any corporate estimated tax installment otherwise due by a corporation with assets of not less than $1 billion for the third quarter of 2012 to 114.75% of such amount. Deems this resolution a renewal resolution which shall take effect upon its enactment or July 26, 2007, whichever occurs first. 
+	</summary>
+</bill>

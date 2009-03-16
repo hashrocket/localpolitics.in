@@ -1,0 +1,37 @@
+<bill session="110" type="sr" number="278" updated="2009-01-09T20:32:46-05:00">
+	<status><vote date="1185854400" datetime="2007-07-31" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1185249600" datetime="2007-07-24"/>
+	<titles>
+		<title type="official" as="introduced">A resolution expressing the sense of the Senate regarding the announcement of the Russian Federation of its suspension of implementation of the Conventional Armed Forces in Europe Treaty.</title>
+	</titles>
+	<sponsor id="412246"/>
+	<cosponsors>
+		<cosponsor id="400064" joined="2007-07-24"/>
+		<cosponsor id="400105" joined="2007-07-24"/>
+		<cosponsor id="300098" joined="2007-07-30"/>
+		<cosponsor id="300034" joined="2007-07-24"/>
+		<cosponsor id="300021" joined="2007-07-31"/>
+		<cosponsor id="300090" joined="2007-07-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1185249600" datetime="2007-07-24"><text>Referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S9837"/></action>
+		<action date="1185854400" datetime="2007-07-31"><text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S10528-10529"/></action>
+		<vote date="1185854400" how="by Unanimous Consent" datetime="2007-07-31" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text as passed Senate" ref="CR S10528-10529"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/31/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Expresses the sense of the Senate that the government of the Russian Federation's decision to suspend implementation of the 1990 Treaty on Conventional Armed Forces in Europe (CFE Treaty) will unnecessarily heighten tensions in Europe, and urges such suspension's reconsideration. Recognizes the CFE Treaty as a cornerstone of European security. Calls on the Russian Federation to fulfill its Istanbul Commitments of 1999 and withdraw all remaining forces and military equipment from Georgia and Moldova. Calls on all States Parties to ensure that the resolution of the current disputes surrounding the CFE Treaty be considered a priority at the highest political levels. Encourages officials of the government of the Russian Federation to refrain from belligerent statements that polarize relations and jeopardize security in Europe.<br/>
+	</summary>
+</bill>

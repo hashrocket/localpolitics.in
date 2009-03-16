@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="937" updated="2009-03-07T11:38:30-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="short" as="introduced">Visitors Interested in Strengthening America (VISA) Act of 2009</title>
+		<title type="official" as="introduced">To amend the Immigration and Nationality Act to permit certain Mexican children, and accompanying adults, to obtain a waiver of the documentation requirements otherwise required to enter the United States as a temporary visitor.</title>
+	</titles>
+	<sponsor id="400133"/>
+	<cosponsors>
+		<cosponsor id="400387" joined="2009-03-06"/>
+		<cosponsor id="400162" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Sponsor introductory remarks on measure. (CR E254)</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Introduced.<br/>Visitors Interested in Strengthening America (VISA) Act of 2009 - Amends the Immigration and Nationality Act to authorize a Department of Homeland Security (DHS) official to waive certain entry documentary requirements for a nonimmigrant child (unmarried and under the age of 16) who is a citizen or national of Mexico and accompanying parent or adult chaperone in instances of medical visits, student groups, or special community events. Sets forth additional requirements for such entries.<br/>
+	</summary>
+</bill>

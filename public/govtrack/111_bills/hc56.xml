@@ -1,0 +1,36 @@
+<bill session="111" type="hc" number="56" updated="2009-03-07T09:31:37-05:00">
+	<status><introduced date="1235365200" datetime="2009-02-23"/></status>
+
+	<introduced date="1235365200" datetime="2009-02-23"/>
+	<titles>
+		<title type="official" as="introduced">Expressing support for Children's Dental Health Month and honoring the memory of Deamonte Driver.</title>
+	</titles>
+	<sponsor id="400090"/>
+	<cosponsors>
+		<cosponsor id="400376" joined="2009-02-23"/>
+		<cosponsor id="412195" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1235365200" datetime="2009-02-23"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="sc" number="8" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Child health"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Dental care"/>
+		<term name="Health promotion and preventive care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/2009--Introduced.<br/>Expresses support for Children's Dental Health Month. Honors the life of Deamonte Driver.<br/>
+	</summary>
+</bill>

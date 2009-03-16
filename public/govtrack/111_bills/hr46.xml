@@ -1,0 +1,45 @@
+<bill session="111" type="hr" number="46" updated="2009-03-07T13:11:17-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="official" as="introduced">Raising awareness and encouraging prevention of stalking by establishing January 2009 as &quot;National Stalking Awareness Month&quot;.</title>
+	</titles>
+	<sponsor id="400652"/>
+	<cosponsors>
+		<cosponsor id="400663" joined="2009-01-09"/>
+		<cosponsor id="400347" joined="2009-01-09"/>
+		<cosponsor id="400356" joined="2009-01-13"/>
+		<cosponsor id="412263" joined="2009-01-09"/>
+		<cosponsor id="400618" joined="2009-01-09"/>
+		<cosponsor id="400282" joined="2009-01-09"/>
+		<cosponsor id="400251" joined="2009-01-09"/>
+		<cosponsor id="400283" joined="2009-01-13"/>
+		<cosponsor id="400656" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="82" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Assault and harassment offenses"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Crime victims"/>
+		<term name="Law enforcement officers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Urges national and community organizations, private businesses, and the media to promote, through National Stalking Awareness Month, awareness of the crime of stalking.<br/>
+	</summary>
+</bill>

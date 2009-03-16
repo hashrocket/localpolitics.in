@@ -1,0 +1,43 @@
+<bill session="111" type="sr" number="57" updated="2009-03-07T14:45:02-05:00">
+	<status><vote date="1236229200" datetime="2009-03-05" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1235624400" datetime="2009-02-26"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating the first week of April 2009 as &quot;National Asbestos Awareness Week&quot;.</title>
+	</titles>
+	<sponsor id="300005"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2009-02-26"/>
+		<cosponsor id="300059" joined="2009-02-26"/>
+		<cosponsor id="300082" joined="2009-02-26"/>
+		<cosponsor id="300011" joined="2009-03-03"/>
+		<cosponsor id="300076" joined="2009-02-26"/>
+		<cosponsor id="300038" joined="2009-02-26"/>
+		<cosponsor id="300043" joined="2009-02-26"/>
+		<cosponsor id="412244" joined="2009-02-26"/>
+		<cosponsor id="400194" joined="2009-02-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1235624400" datetime="2009-02-26"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S2573"/></action>
+		<action date="1236229200" datetime="2009-03-05"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S2852"/></action>
+		<vote date="1236229200" how="by Unanimous Consent" datetime="2009-03-05" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S2852"/></vote>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Hazardous wastes and toxic substances"/>
+		<term name="Health promotion and preventive care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

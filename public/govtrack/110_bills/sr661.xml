@@ -1,0 +1,37 @@
+<bill session="110" type="sr" number="661" updated="2009-01-09T21:20:58-05:00">
+	<status><vote date="1222142400" datetime="2008-09-23" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1221451200" datetime="2008-09-15"/>
+	<titles>
+		<title type="official" as="introduced">A resolution supporting the goals and ideals of National Spina Bifida Awareness Month.</title>
+	</titles>
+	<sponsor id="300034"/>
+	<cosponsors>
+		<cosponsor id="400432" joined="2008-09-15"/>
+		<cosponsor id="400050" joined="2008-09-17"/>
+		<cosponsor id="300067" joined="2008-09-18"/>
+		<cosponsor id="412246" joined="2008-09-22"/>
+		<cosponsor id="300076" joined="2008-09-18"/>
+		<cosponsor id="300006" joined="2008-09-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1221451200" datetime="2008-09-15"><text>Referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S8533"/></action>
+		<action date="1222142400" datetime="2008-09-23"><text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S9346-9347"/></action>
+		<vote date="1222142400" how="by Unanimous Consent" datetime="2008-09-23" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S9346-9347"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/23/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Expresses support for: (1) the goals and ideals of National Spina Bifida Awareness Month and of national organizations working for people with spina bifida; and (2) the development of the National Spina Bifida Patient Registry.<br/>Commends the work of national organizations that educate, support, and provide hope for individuals and their families who are affected by Spina Bifida.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="6296" updated="2009-01-09T05:51:33-05:00">
+	<status><enacted date="1224129600" datetime="2008-10-16" /></status>
+
+	<introduced date="1213761600" datetime="2008-06-18"/>
+	<titles>
+		<title type="official" as="introduced">To extend through 2013 the authority of the Federal Election Commission to impose civil money penalties on the basis of a schedule of penalties established and published by the Commission.</title>
+	</titles>
+	<sponsor id="400047"/>
+	<cosponsors>
+		<cosponsor id="400245" joined="2008-06-18"/>
+		<cosponsor id="400119" joined="2008-06-18"/>
+	</cosponsors>
+	<actions>
+		<action date="1213761600" datetime="2008-06-18"><text>Referred to the House Committee on House Administration.</text></action>
+		<action date="1216152000" datetime="2008-07-15T17:00:00-04:00"><text>Ms. Lofgren, Zoe moved to suspend the rules and pass the bill.</text></action>
+		<action date="1216152000" datetime="2008-07-15T17:00:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6535-6536"/></action>
+		<action date="1216152000" datetime="2008-07-15T17:00:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6296.</text></action>
+		<vote date="1216152300" how="by voice vote" datetime="2008-07-15T17:05:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H6535"/></vote>
+		<action date="1216180800" datetime="2008-07-16"><text>Received in the Senate and Read twice and referred to the Committee on Rules and Administration.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S10405"/></action>
+		<vote date="1222920000" how="by Unanimous Consent" datetime="2008-10-02" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<action date="1222920000" datetime="2008-10-02"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1222920000" datetime="2008-10-02" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1223265600" datetime="2008-10-06" ><text>Presented to President.</text></topresident>
+		<signed date="1224129600" datetime="2008-10-16" ><text>Signed by President.</text></signed>
+		<enacted number="110-433" date="1224129600" datetime="2008-10-16" type="public" ><text>Became Public Law No: 110-433.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/2/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends the Federal Election Campaign Act of 1971 to extend through calendar 2013 the authority of the Federal Election Commission (FEC) to impose civil monetary penalties.<br/>
+	</summary>
+</bill>

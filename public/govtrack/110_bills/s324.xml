@@ -1,0 +1,37 @@
+<bill session="110" type="s" number="324" updated="2009-01-09T11:49:27-05:00">
+	<status><calendar date="1179892800" datetime="2007-05-23" /></status>
+
+	<introduced date="1169010000" datetime="2007-01-17"/>
+	<titles>
+		<title type="short" as="introduced">New Mexico Aquifer Assessment Act of 2007</title>
+		<title type="short" as="reported to senate">New Mexico Aquifer Assessment Act of 2007</title>
+		<title type="official" as="introduced">A bill to direct the Secretary of the Interior to conduct a study of water resources in the State of New Mexico.</title>
+	</titles>
+	<sponsor id="300036"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="2007-01-17"/>
+	</cosponsors>
+	<actions>
+		<action date="1169010000" datetime="2007-01-17"><text>Sponsor introductory remarks on measure. (CR S695-696)</text></action>
+		<action date="1169010000" datetime="2007-01-17"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text><reference label="text of measure as introduced" ref="CR S696"/></action>
+		<action date="1177473600" datetime="2007-04-25"><text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 110-86.</text></action>
+		<calendar date="1179892800" datetime="2007-05-23" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1183003200" datetime="2007-06-28"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-112.</text></action>
+		<calendar under="General Orders" number="253" date="1183003200" datetime="2007-06-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 253.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/28/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)<br/>New Mexico Aquifer Assessment Act of 2007 - Directs the Secretary of the Interior, acting through the Director of the United States Geological Survey (USGS), to study and report to specified congressional committees on water resources in New Mexico, to include: (1) a survey of groundwater resources and a characterization of surface and bedrock geology; and (2) the Estancia Basin, Salt Basin, Tularosa Basin, Hueco Basin, and middle Rio Grande Basin. Authorizes appropriations.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="110" type="h" number="2560" updated="2009-01-08T22:10:38-05:00">
+	<status><introduced date="1181016000" datetime="2007-06-05"/></status>
+
+	<introduced date="1181016000" datetime="2007-06-05"/>
+	<titles>
+		<title type="short" as="introduced">Human Cloning Prohibition Act of 2007</title>
+		<title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to prohibit human cloning, and for other purposes.</title>
+	</titles>
+	<sponsor id="400101"/>
+	<cosponsors>
+		<cosponsor id="412229" joined="2007-06-05"/>
+		<cosponsor id="412210" joined="2007-06-05"/>
+		<cosponsor id="400230" joined="2007-06-05"/>
+		<cosponsor id="400638" joined="2007-06-05"/>
+		<cosponsor id="412194" joined="2007-06-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1181016000" datetime="2007-06-05"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1181016000" datetime="2007-06-05"><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1181187120" datetime="2007-06-06T12:32:00-04:00"><text>Ms. DeGette moved to suspend the rules and pass the bill.</text></action>
+		<action date="1181187180" datetime="2007-06-06T12:33:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6037-6042"/><reference label="text of measure as introduced" ref="CR H6037-6038"/></action>
+		<action date="1181187180" datetime="2007-06-06T12:33:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2560.</text></action>
+		<action date="1181146320" datetime="2007-06-06T13:12:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1181165580" datetime="2007-06-06T18:33:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6077-6078"/></action>
+		<vote date="1181166060" how="roll" roll="439" datetime="2007-06-06T18:41:00-04:00" where="h" type="vote" suspension="1" result="fail" ><text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 204 - 213 (Roll no. 439).</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/5/2007--Introduced.<br/>Human Cloning Prohibition Act of 2007 - Amends the Federal Food, Drug, and Cosmetic Act to make it unlawful for any person, including a governmental entity, to: (1) perform or attempt to perform human cloning; or (2) ship, mail, transport, or receive the product of human somatic cell nuclear transfer technology knowing that such product is for the purpose of human cloning. Sets forth criminal and civil penalties for violations of this Act. 
+	</summary>
+</bill>

@@ -1,0 +1,64 @@
+<bill session="110" type="sj" number="14" updated="2009-01-09T19:54:53-05:00">
+	<status><calendar date="1180065600" datetime="2007-05-25" /></status>
+
+	<introduced date="1179979200" datetime="2007-05-24"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution expressing the sense of the Senate that Attorney General Alberto Gonzales no longer holds the confidence of the Senate and of the American people.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2007-05-24"/>
+		<cosponsor id="412242" joined="2007-05-24"/>
+		<cosponsor id="400272" joined="2007-05-24"/>
+		<cosponsor id="300009" joined="2007-05-24"/>
+		<cosponsor id="300059" joined="2007-05-24"/>
+		<cosponsor id="300082" joined="2007-05-24"/>
+		<cosponsor id="300011" joined="2007-05-24"/>
+		<cosponsor id="300008" joined="2007-05-24"/>
+		<cosponsor id="300093" joined="2007-05-24"/>
+		<cosponsor id="300060" joined="2007-05-24"/>
+		<cosponsor id="300038" joined="2007-05-24"/>
+		<cosponsor id="300066" joined="2007-05-24"/>
+		<cosponsor id="300034" joined="2007-05-24"/>
+		<cosponsor id="300016" joined="2007-05-24"/>
+		<cosponsor id="412247" joined="2007-05-24"/>
+		<cosponsor id="412249" joined="2007-05-24"/>
+		<cosponsor id="300037" joined="2007-05-24"/>
+		<cosponsor id="300051" joined="2007-05-24"/>
+		<cosponsor id="400050" joined="2007-05-24"/>
+		<cosponsor id="300022" joined="2007-05-24"/>
+		<cosponsor id="300001" joined="2007-05-24"/>
+		<cosponsor id="412246" joined="2007-05-24"/>
+		<cosponsor id="300076" joined="2007-05-24"/>
+		<cosponsor id="300078" joined="2007-05-24"/>
+		<cosponsor id="400629" joined="2007-05-24"/>
+		<cosponsor id="400357" joined="2007-05-24"/>
+		<cosponsor id="300043" joined="2007-05-24"/>
+		<cosponsor id="300026" joined="2007-05-24"/>
+		<cosponsor id="300064" joined="2007-06-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1179979200" datetime="2007-05-24"><text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar date="1180065600" datetime="2007-05-25" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 179.</text></calendar>
+		<action date="1181102400" datetime="2007-06-06"><text>Motion to proceed to consideration of measure made in Senate.</text><reference label="consideration" ref="CR S7152"/></action>
+		<action date="1181102400" datetime="2007-06-06"><text>Cloture motion on the motion to proceed presented in Senate.</text><reference label="consideration" ref="CR S7152"/><reference label="text" ref="CR S7152"/></action>
+		<action date="1181102400" datetime="2007-06-06"><text>Motion to proceed to consideration of measure withdrawn in Senate.</text></action>
+		<action date="1181534400" datetime="2007-06-11"><text>Motion to proceed to measure considered in Senate.</text><reference label="consideration" ref="CR S7432-7441"/></action>
+		<vote-aux date="1181534400" how="roll" roll="207" datetime="2007-06-11" where="s" type="cloture" result="fail" ><text>Cloture on the motion to proceed not invoked in Senate by Yea-Nay Vote. 53 - 38. Record Vote Number: 207.</text><reference label="consideration" ref="CR S7441"/><reference label="text" ref="CR S7441"/></vote-aux>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/24/2007--Introduced.<br/>Expresses the sense of the Senate that Attorney General Alberto Gonzales no longer holds the confidence of the Senate and of the American people. 
+	</summary>
+</bill>

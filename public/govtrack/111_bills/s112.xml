@@ -1,0 +1,36 @@
+<bill session="111" type="s" number="112" updated="2009-03-07T13:45:24-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">A bill to treat certain hospital support organizations as qualified organizations for purposes of determining acquisition indebtedness.</title>
+	</titles>
+	<sponsor id="300056"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR S85-86)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S86"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Financial services and investments"/>
+		<term name="Health facilities and institutions"/>
+		<term name="Real estate business"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+		<term name="Tax-exempt organizations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Amends the Internal Revenue Code to allow certain support organizations for tax-exempt teaching hospitals to acquire debt secured by income-producing real property used to provide financial support for such hospitals.<br/>
+	</summary>
+</bill>

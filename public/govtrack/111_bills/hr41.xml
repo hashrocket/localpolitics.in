@@ -1,0 +1,57 @@
+<bill session="111" type="hr" number="41" updated="2009-03-07T13:09:04-05:00">
+	<status><vote date="1231887540" datetime="2009-01-13T18:59:00-05:00" where="h" result="pass" how="roll" roll="11"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="official" as="introduced">Supporting the goals and ideals of National Mentoring Month 2009.</title>
+	</titles>
+	<sponsor id="400097"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2009-01-09"/>
+		<cosponsor id="400257" joined="2009-01-09"/>
+		<cosponsor id="412263" joined="2009-01-09"/>
+		<cosponsor id="400259" joined="2009-01-09"/>
+		<cosponsor id="400162" joined="2009-01-09"/>
+		<cosponsor id="412204" joined="2009-01-09"/>
+		<cosponsor id="400282" joined="2009-01-09"/>
+		<cosponsor id="400178" joined="2009-01-09"/>
+		<cosponsor id="400342" joined="2009-01-09"/>
+		<cosponsor id="400415" joined="2009-01-09"/>
+		<cosponsor id="400326" joined="2009-01-13"/>
+		<cosponsor id="400371" joined="2009-01-09"/>
+		<cosponsor id="400185" joined="2009-01-09"/>
+		<cosponsor id="400119" joined="2009-01-09"/>
+		<cosponsor id="400215" joined="2009-01-09"/>
+		<cosponsor id="400425" joined="2009-01-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Sponsor introductory remarks on measure. (CR E61)</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1231870560" datetime="2009-01-13T14:16:00-05:00"><text>Mr. Hinojosa moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1231870560" datetime="2009-01-13T14:16:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H171-173"/></action>
+		<action date="1231870560" datetime="2009-01-13T14:16:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 41.</text></action>
+		<action date="1231871040" datetime="2009-01-13T14:24:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1231885860" datetime="2009-01-13T18:31:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H182"/></action>
+		<vote date="1231887540" how="roll" roll="11" datetime="2009-01-13T18:59:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 11).</text><reference label="text" ref="CR H171"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+		<term name="Teaching, teachers, curricula"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/13/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Expresses support for the goals and ideals of National Mentoring Month (January 2009).<br/>
+	</summary>
+</bill>

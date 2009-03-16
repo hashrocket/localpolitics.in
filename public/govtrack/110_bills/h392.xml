@@ -1,0 +1,44 @@
+<bill session="110" type="h" number="392" updated="2009-01-08T17:33:17-05:00">
+	<status><vote date="1169573280" datetime="2007-01-23T13:28:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1168405200" datetime="2007-01-10"/>
+	<titles>
+		<title type="short" as="introduced">District of Columbia and United States Territories Circulating Quarter Dollar Program Act</title>
+		<title type="short" as="passed house">District of Columbia and United States Territories Circulating Quarter Dollar Program Act</title>
+		<title type="official" as="introduced">To provide for a circulating quarter dollar coin program to honor the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, and for other purposes.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-01-10"/>
+		<cosponsor id="400128" joined="2007-01-10"/>
+		<cosponsor id="400073" joined="2007-01-10"/>
+		<cosponsor id="400662" joined="2007-01-10"/>
+		<cosponsor id="400140" joined="2007-01-10"/>
+		<cosponsor id="400070" joined="2007-01-10"/>
+		<cosponsor id="400163" joined="2007-01-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1168405200" datetime="2007-01-10"><text>Sponsor introductory remarks on measure. (CR E68)</text></action>
+		<action date="1168405200" datetime="2007-01-10"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1169614740" datetime="2007-01-23T12:59:00-05:00"><text>Mr. Gutierrez moved to suspend the rules and pass the bill.</text></action>
+		<action date="1169571600" datetime="2007-01-23T13:00:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H851-855"/></action>
+		<action date="1169571600" datetime="2007-01-23T13:00:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 392.</text></action>
+		<vote date="1169573280" how="by voice vote" datetime="2007-01-23T13:28:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H851-852"/></vote>
+		<action date="1169614800" datetime="2007-01-24"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/23/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) District of Columbia and United States Territories Circulating Quarter Dollar Program Act - (Sec. 2) Requires quarter dollar coins issued during 2009 to have designs on the reverse side which are emblematic of the District of Columbia and the territories. Authorizes the Secretary of the Treasury to issue during 2009 redesigned quarter dollars commemorating the District of Columbia and the U.S. Territories, including the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands. Requires the design on the reverse side of each quarter dollar issued during 2009 to be emblematic of one of the following: The District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands. Prohibits inclusion in the design of any quarter dollar any head and shoulders portrait or bust of any person, living or dead, including any portrait of a living person. Sets forth a timing and order of issuance in equal sequential intervals. 
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="110" type="h" number="3400" updated="2009-01-08T23:59:18-05:00">
+	<status><introduced date="1186113600" datetime="2007-08-03"/></status>
+
+	<introduced date="1186113600" datetime="2007-08-03"/>
+	<titles>
+		<title type="short" as="introduced">Rebuilding America's Infrastructure</title>
+		<title type="official" as="introduced">To fund capital projects of State and local governments, and for other purposes.</title>
+	</titles>
+	<sponsor id="400227"/>
+	<cosponsors>
+		<cosponsor id="400235" joined="2007-08-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1186113600" datetime="2007-08-03"><text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Financial Services, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Referred to House Financial Services</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Referred to House Budget</text></action>
+		<action date="1186200000" datetime="2007-08-04"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Aviation.</text></action>
+		<action date="1186200000" datetime="2007-08-04"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text></action>
+		<action date="1186200000" datetime="2007-08-04"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Highways and Transit.</text></action>
+		<action date="1186200000" datetime="2007-08-04"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text></action>
+		<action date="1186200000" datetime="2007-08-04"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/3/2007--Introduced.<br/>Rebuilding America's Infrastructure - Establishes the Federal Bank for Infrastructure Modernization. Authorizes the Bank to make loans to any state, local government, Indian tribe, and regional or multistate organization for the development of certain transportation- and educational- and water and hazardous treatment-related capital infrastructure facility projects. Sets forth specified requirements with respect to: (1) loan and borrower eligibility; and (2) compliance with the Americans with Disabilities Act of 1990, the Buy American Act, and the Davis-Bacon Act (wages) as they relate to the development of such projects. 
+	</summary>
+</bill>

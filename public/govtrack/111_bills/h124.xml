@@ -1,0 +1,53 @@
+<bill session="111" type="h" number="124" updated="2009-03-07T10:02:20-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Secure the Capitol Act</title>
+		<title type="official" as="introduced">To prohibit offices of the legislative branch from entering into a contract for the provision of goods or services within the Capitol Complex with any contractor who does not participate in the basic pilot program for employment eligibility verification, and for other purposes.</title>
+	</titles>
+	<sponsor id="400144"/>
+	<cosponsors>
+		<cosponsor id="400006" joined="2009-02-23"/>
+		<cosponsor id="400034" joined="2009-01-07"/>
+		<cosponsor id="400277" joined="2009-01-28"/>
+		<cosponsor id="400051" joined="2009-01-15"/>
+		<cosponsor id="400057" joined="2009-01-28"/>
+		<cosponsor id="400343" joined="2009-01-07"/>
+		<cosponsor id="400570" joined="2009-01-07"/>
+		<cosponsor id="400348" joined="2009-01-07"/>
+		<cosponsor id="400154" joined="2009-01-28"/>
+		<cosponsor id="400221" joined="2009-01-13"/>
+		<cosponsor id="400260" joined="2009-01-07"/>
+		<cosponsor id="400032" joined="2009-01-09"/>
+		<cosponsor id="400652" joined="2009-01-07"/>
+		<cosponsor id="400654" joined="2009-01-07"/>
+		<cosponsor id="400288" joined="2009-01-09"/>
+		<cosponsor id="412226" joined="2009-01-15"/>
+		<cosponsor id="412011" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on House Administration.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Border security and unlawful immigration"/>
+		<term name="Congressional operations and organization"/>
+		<term name="Foreign labor"/>
+		<term name="Government information and archives"/>
+		<term name="Public contracts and procurement"/>
+		<term name="U.S. Capitol"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Secure the Capitol Act - Prohibits an office of the legislative branch from entering into a contract for goods or services within the Capitol Complex with any contractor employing individuals unless the contractor: (1) elects to participate in the basic pilot program for employment eligibility confirmation under the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 with respect to all of its employees and those providing goods or services under the contract; (2) is in compliance with the terms and conditions of such election; and (3) certifies that each of its subcontractors providing goods or services has elected to participate in such program, and is also in such compliance, with respect to all of its employees as well as those providing goods or services under the subcontract. 
+	</summary>
+</bill>

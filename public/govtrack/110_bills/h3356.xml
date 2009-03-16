@@ -1,0 +1,39 @@
+<bill session="110" type="h" number="3356" updated="2009-01-08T23:53:36-05:00">
+	<status><vote date="1186185420" datetime="2007-08-03T20:57:00-04:00" where="h" result="fail" how="roll" roll="821"/></status>
+
+	<introduced date="1186113600" datetime="2007-08-03"/>
+	<titles>
+		<title type="short" as="introduced">Improving Foreign Intelligence Surveillance to Defend the Nation and the Constitution Act of 2007</title>
+		<title type="official" as="introduced">To amend the Foreign Intelligence Surveillance Act of 1978 to establish a procedure for authorizing certain electronic surveillance.</title>
+	</titles>
+	<sponsor id="400337"/>
+	<cosponsors>
+		<cosponsor id="400134" joined="2007-08-03"/>
+		<cosponsor id="400080" joined="2007-08-03"/>
+		<cosponsor id="400361" joined="2007-08-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1186113600" datetime="2007-08-03"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Referred to House Judiciary</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Referred to House Intelligence (Permanent Select)</text></action>
+		<action date="1186179600" datetime="2007-08-03T19:20:00-04:00"><text>Mr. Conyers moved to suspend the rules and pass the bill.</text></action>
+		<action date="1186179600" datetime="2007-08-03T19:20:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9685-9695"/></action>
+		<action date="1186179600" datetime="2007-08-03T19:20:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3356.</text></action>
+		<vote date="1186185420" how="roll" roll="821" datetime="2007-08-03T20:57:00-04:00" where="h" type="vote" suspension="1" result="fail" ><text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 218 - 207 (Roll no. 821).</text><reference label="text" ref="CR H9685-9686"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/3/2007--Introduced.<br/>Improving Foreign Intelligence Surveillance to Defend the Nation and the Constitution Act of 2007 - Amends the Foreign Intelligence Surveillance Act of 1978 (FISA) to provide that a court order is not required for the acquisition of communication between non-U.S. persons who are not located within the United States for collecting foreign intelligence information, whether or not the communication passes through the United States or the surveillance device is located within the United States. Allows the Attorney General (AG), upon authorization of the President, to apply to the Foreign Intelligence Surveillance Court (Court) for an order, or the extension of an order, authorizing for up to one year the acquisition of communications of persons outside the United States who are non-U.S. persons. Allows the AG to authorize such surveillance without a court order for up to 15 days if the AG determines that an emergency situation exists with respect to obtaining such information before an order authorizing the surveillance can be obtained. Authorizes the AG, in either case, to direct a communications service provider, custodian, or other person who has access to such information to furnish the AG with the required information and to maintain appropriate records concerning acquisition of the information.<br/>
+	</summary>
+</bill>

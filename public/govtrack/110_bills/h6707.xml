@@ -1,0 +1,65 @@
+<bill session="110" type="h" number="6707" updated="2009-01-09T06:40:36-05:00">
+	<status><vote date="1222545360" datetime="2008-09-27T16:56:00-04:00" where="h" result="fail" how="roll" roll="663"/></status>
+
+	<introduced date="1217476800" datetime="2008-07-31"/>
+	<titles>
+		<title type="short" as="introduced">Taking Responsible Action for Community Safety Act</title>
+		<title type="short" as="reported to house">Taking Responsible Action for Community Safety Act</title>
+		<title type="official" as="introduced">To require Surface Transportation Board consideration of the impacts of certain railroad transactions on local communities, and for other purposes.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="400327" joined="2008-07-31"/>
+		<cosponsor id="400228" joined="2008-07-31"/>
+		<cosponsor id="400027" joined="2008-07-31"/>
+		<cosponsor id="400149" joined="2008-07-31"/>
+		<cosponsor id="400183" joined="2008-09-16"/>
+		<cosponsor id="400403" joined="2008-07-31"/>
+		<cosponsor id="400180" joined="2008-07-31"/>
+		<cosponsor id="400295" joined="2008-09-16"/>
+		<cosponsor id="400623" joined="2008-07-31"/>
+		<cosponsor id="412195" joined="2008-07-31"/>
+		<cosponsor id="400084" joined="2008-07-31"/>
+		<cosponsor id="412208" joined="2008-07-31"/>
+		<cosponsor id="400417" joined="2008-07-31"/>
+		<cosponsor id="400631" joined="2008-07-31"/>
+		<cosponsor id="412240" joined="2008-07-31"/>
+		<cosponsor id="400291" joined="2008-07-31"/>
+		<cosponsor id="412257" joined="2008-07-31"/>
+		<cosponsor id="400218" joined="2008-07-31"/>
+		<cosponsor id="400024" joined="2008-07-31"/>
+		<cosponsor id="412202" joined="2008-07-31"/>
+		<cosponsor id="400252" joined="2008-07-31"/>
+		<cosponsor id="400186" joined="2008-07-31"/>
+	</cosponsors>
+	<actions>
+		<action date="1217476800" datetime="2008-07-31"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1217563200" datetime="2008-08-01"><text>Sponsor introductory remarks on measure. (CR E1671)</text></action>
+		<action date="1220932800" datetime="2008-09-09"><text>Committee Hearings Held.</text></action>
+		<action date="1222228800" datetime="2008-09-24"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1222228800" datetime="2008-09-24" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1222456320" datetime="2008-09-26T16:12:00-04:00"><text>Reported (Amended) by the Committee on Transportation. H. Rept. 110-893.</text></action>
+		<calendar number="576" date="1222456320" datetime="2008-09-26T16:12:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 576.</text></calendar>
+		<action date="1222572240" datetime="2008-09-27T12:24:00-04:00"><text>Mr. Oberstar moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1222572240" datetime="2008-09-27T12:24:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10158-10164"/><reference label="text of measure as reported in House" ref="CR H10158"/></action>
+		<action date="1222572240" datetime="2008-09-27T12:24:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6707.</text></action>
+		<action date="1222531800" datetime="2008-09-27T13:10:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1222544700" datetime="2008-09-27T16:45:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10223-10224"/></action>
+		<vote date="1222545360" how="roll" roll="663" datetime="2008-09-27T16:56:00-04:00" where="h" type="vote" suspension="1" result="fail" ><text>On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 243 - 175 (Roll no. 663).</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/26/2008--Reported to House amended. Taking Responsible Action for Community Safety Act - Amends federal transportation law with respect to the consolidation, merger, or acquisition of control (transaction) involving rail carriers to require public hearings in the affected communities if public hearings on a proposed transaction are held. Requires the Surface Transportation Board, in a proceeding involving the merger or control of at least one Class I railroad (under current law, merger or control of at least two Class I railroads), to consider the effect on the public interest, including the safety and environmental effect of the proposed merger on local communities, intercity rail passenger transportation, and commuter rail passenger transportation. Prohibits the Board from approving mergers if their impacts on safety and on all affected communities outweigh their transportation benefits. Authorizes the Board to impose conditions to mitigate the effect of mergers on local communities. Declares that the amendments made by this Act are to be applied to all transactions that have not been approved by the Board as of August 1, 2008.<br/>
+	</summary>
+</bill>

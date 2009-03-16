@@ -1,0 +1,77 @@
+<bill session="110" type="hc" number="297" updated="2009-01-08T16:04:21-05:00">
+	<status><vote date="1216073640" datetime="2008-07-14T19:14:00-04:00" where="h" result="pass" how="roll" roll="488"/></status>
+
+	<introduced date="1202965200" datetime="2008-02-14"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the 60th anniversary of the integration of the United States Armed Forces.</title>
+		<title type="official" as="amended by house">Recognizing the 60th anniversary of the beginning of the integration of the Armed Forces.</title>
+	</titles>
+	<sponsor id="400341"/>
+	<cosponsors>
+		<cosponsor id="400279" joined="2008-05-20"/>
+		<cosponsor id="400144" joined="2008-02-14"/>
+		<cosponsor id="400041" joined="2008-02-14"/>
+		<cosponsor id="400133" joined="2008-02-14"/>
+		<cosponsor id="400068" joined="2008-02-14"/>
+		<cosponsor id="400004" joined="2008-02-14"/>
+		<cosponsor id="400038" joined="2008-02-14"/>
+		<cosponsor id="400172" joined="2008-05-13"/>
+		<cosponsor id="412199" joined="2008-05-13"/>
+		<cosponsor id="400270" joined="2008-02-14"/>
+		<cosponsor id="400263" joined="2008-02-14"/>
+		<cosponsor id="400092" joined="2008-02-14"/>
+		<cosponsor id="400209" joined="2008-05-20"/>
+		<cosponsor id="400383" joined="2008-02-14"/>
+		<cosponsor id="400302" joined="2008-05-20"/>
+		<cosponsor id="400404" joined="2008-05-20"/>
+		<cosponsor id="400151" joined="2008-05-20"/>
+		<cosponsor id="400333" joined="2008-02-14"/>
+		<cosponsor id="400623" joined="2008-02-14"/>
+		<cosponsor id="400129" joined="2008-02-14"/>
+		<cosponsor id="400170" joined="2008-02-14"/>
+		<cosponsor id="412200" joined="2008-05-20"/>
+		<cosponsor id="400191" joined="2008-05-20"/>
+		<cosponsor id="400415" joined="2008-02-14"/>
+		<cosponsor id="400127" joined="2008-02-14"/>
+		<cosponsor id="400093" joined="2008-05-20"/>
+		<cosponsor id="412228" joined="2008-02-14"/>
+		<cosponsor id="400139" joined="2008-02-14"/>
+		<cosponsor id="400047" joined="2008-05-13"/>
+		<cosponsor id="400084" joined="2008-02-14"/>
+		<cosponsor id="400409" joined="2008-02-14"/>
+		<cosponsor id="400264" joined="2008-05-20"/>
+		<cosponsor id="400288" joined="2008-02-14"/>
+		<cosponsor id="400412" joined="2008-02-14"/>
+		<cosponsor id="400108" joined="2008-02-14"/>
+		<cosponsor id="400030" joined="2008-02-14"/>
+		<cosponsor id="400359" joined="2008-05-20"/>
+		<cosponsor id="400010" joined="2008-02-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1202965200" datetime="2008-02-14"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1204261200" datetime="2008-02-29"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+		<action date="1216059060" datetime="2008-07-14T15:11:00-04:00"><text>Mr. Courtney moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1216059060" datetime="2008-07-14T15:11:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6424-6426"/></action>
+		<action date="1216059060" datetime="2008-07-14T15:11:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 297.</text></action>
+		<action date="1216059780" datetime="2008-07-14T15:23:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1216073220" datetime="2008-07-14T19:07:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6448"/></action>
+		<vote date="1216073640" how="roll" roll="488" datetime="2008-07-14T19:14:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 0 (Roll no. 488).</text><reference label="text" ref="CR H6424"/></vote>
+		<action date="1216073640" datetime="2008-07-14T19:14:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1216094400" datetime="2008-07-15"><text>Received in the Senate and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/14/2008--Passed House amended. Recognizes the 60th anniversary of President Truman's executive order declaring a policy of equality of treatment and opportunity for all persons in the armed services without regard to race, color, religion, or national origin, thereby beginning the process of ending segregation in the U.S. Armed Forces. 
+	</summary>
+</bill>

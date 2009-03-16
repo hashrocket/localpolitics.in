@@ -1,0 +1,43 @@
+<bill session="111" type="s" number="154" updated="2009-03-07T13:51:09-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">A bill to require the Congressional Budget Office and the Joint Committee on Taxation to use dynamic economic modeling in addition to static economic modeling in the preparation of budgetary estimates of proposed changes in Federal revenue law.</title>
+	</titles>
+	<sponsor id="300040"/>
+	<cosponsors>
+		<cosponsor id="300007" joined="2009-01-26"/>
+		<cosponsor id="400432" joined="2009-01-15"/>
+		<cosponsor id="300055" joined="2009-01-06"/>
+		<cosponsor id="400105" joined="2009-01-08"/>
+		<cosponsor id="300030" joined="2009-01-06"/>
+		<cosponsor id="400621" joined="2009-01-06"/>
+		<cosponsor id="400194" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on the Budget.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Budget" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Economics and public finance"/>
+		<term name="Budget process"/>
+		<term name="Congressional Budget Office (CBO)"/>
+		<term name="Congressional agencies"/>
+		<term name="Economic performance and conditions"/>
+		<term name="Joint Committee on Taxation"/>
+		<term name="Monetary policy"/>
+		<term name="Public contracts and procurement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

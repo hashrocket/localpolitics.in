@@ -1,0 +1,103 @@
+<bill session="110" type="hr" number="1200" updated="2009-01-09T10:23:33-05:00">
+	<status><vote date="1221515880" datetime="2008-09-15T18:58:00-04:00" where="h" result="pass" how="roll" roll="589"/></status>
+
+	<introduced date="1210737600" datetime="2008-05-14"/>
+	<titles>
+		<title type="official" as="introduced">Honoring the dedication and outstanding work of military support groups across the country for their steadfast support of the members of our Armed Forces and their families.</title>
+	</titles>
+	<sponsor id="412228"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2008-07-08"/>
+		<cosponsor id="400133" joined="2008-07-14"/>
+		<cosponsor id="400031" joined="2008-09-10"/>
+		<cosponsor id="412229" joined="2008-09-15"/>
+		<cosponsor id="400659" joined="2008-07-22"/>
+		<cosponsor id="400177" joined="2008-09-08"/>
+		<cosponsor id="400263" joined="2008-05-21"/>
+		<cosponsor id="400162" joined="2008-05-21"/>
+		<cosponsor id="400209" joined="2008-07-23"/>
+		<cosponsor id="400102" joined="2008-07-14"/>
+		<cosponsor id="412224" joined="2008-07-14"/>
+		<cosponsor id="400302" joined="2008-09-08"/>
+		<cosponsor id="400246" joined="2008-09-08"/>
+		<cosponsor id="400385" joined="2008-07-14"/>
+		<cosponsor id="400430" joined="2008-07-22"/>
+		<cosponsor id="400170" joined="2008-07-14"/>
+		<cosponsor id="412195" joined="2008-07-14"/>
+		<cosponsor id="400379" joined="2008-07-24"/>
+		<cosponsor id="412192" joined="2008-09-08"/>
+		<cosponsor id="412210" joined="2008-07-08"/>
+		<cosponsor id="412231" joined="2008-09-15"/>
+		<cosponsor id="412214" joined="2008-07-14"/>
+		<cosponsor id="400396" joined="2008-07-14"/>
+		<cosponsor id="400152" joined="2008-07-22"/>
+		<cosponsor id="400412" joined="2008-07-24"/>
+		<cosponsor id="400262" joined="2008-07-09"/>
+		<cosponsor id="400130" joined="2008-07-22"/>
+		<cosponsor id="400249" joined="2008-09-10"/>
+		<cosponsor id="400030" joined="2008-07-22"/>
+		<cosponsor id="400312" joined="2008-07-22"/>
+		<cosponsor id="412188" joined="2008-07-23"/>
+		<cosponsor id="400017" joined="2008-09-15"/>
+		<cosponsor id="400386" joined="2008-07-14"/>
+		<cosponsor id="400356" joined="2008-07-22"/>
+		<cosponsor id="412209" joined="2008-07-14"/>
+		<cosponsor id="400051" joined="2008-09-10"/>
+		<cosponsor id="412193" joined="2008-07-14"/>
+		<cosponsor id="400172" joined="2008-09-08"/>
+		<cosponsor id="412205" joined="2008-07-31"/>
+		<cosponsor id="412199" joined="2008-07-14"/>
+		<cosponsor id="400270" joined="2008-07-23"/>
+		<cosponsor id="400259" joined="2008-07-14"/>
+		<cosponsor id="400346" joined="2008-07-23"/>
+		<cosponsor id="400655" joined="2008-09-10"/>
+		<cosponsor id="400383" joined="2008-07-14"/>
+		<cosponsor id="412204" joined="2008-07-22"/>
+		<cosponsor id="400400" joined="2008-07-22"/>
+		<cosponsor id="400178" joined="2008-07-22"/>
+		<cosponsor id="400026" joined="2008-09-10"/>
+		<cosponsor id="412232" joined="2008-07-08"/>
+		<cosponsor id="400411" joined="2008-09-08"/>
+		<cosponsor id="400360" joined="2008-07-14"/>
+		<cosponsor id="400645" joined="2008-07-22"/>
+		<cosponsor id="400211" joined="2008-07-14"/>
+		<cosponsor id="412200" joined="2008-07-14"/>
+		<cosponsor id="400232" joined="2008-07-22"/>
+		<cosponsor id="400125" joined="2008-09-08"/>
+		<cosponsor id="412236" joined="2008-05-21"/>
+		<cosponsor id="400093" joined="2008-09-08"/>
+		<cosponsor id="400201" joined="2008-07-14"/>
+		<cosponsor id="400047" joined="2008-07-08"/>
+		<cosponsor id="400283" joined="2008-07-08"/>
+		<cosponsor id="400240" joined="2008-06-18"/>
+		<cosponsor id="412219" joined="2008-07-22"/>
+		<cosponsor id="400215" joined="2008-07-14"/>
+		<cosponsor id="400238" joined="2008-07-23"/>
+		<cosponsor id="400345" joined="2008-09-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1210737600" datetime="2008-05-14"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1211515200" datetime="2008-05-23"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+		<action date="1221501780" datetime="2008-09-15T15:03:00-04:00"><text>Ms. Bordallo moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1221501780" datetime="2008-09-15T15:03:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8062-8065"/></action>
+		<action date="1221501780" datetime="2008-09-15T15:03:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1200.</text></action>
+		<action date="1221503100" datetime="2008-09-15T15:25:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Cole (OK) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1221514320" datetime="2008-09-15T18:32:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8094-8095"/></action>
+		<vote date="1221515880" how="roll" roll="589" datetime="2008-09-15T18:58:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 0 (Roll no. 589).</text><reference label="text" ref="CR H8062"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/15/2008--Passed House amended. Honors military support groups for their support of members of the Armed Forces and their families.<br/>
+	</summary>
+</bill>

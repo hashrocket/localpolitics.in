@@ -1,0 +1,38 @@
+<bill session="110" type="sc" number="61" updated="2009-01-09T19:47:41-05:00">
+	<status><vote2 date="1198096740" datetime="2007-12-19T16:39:00-05:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1198040400" datetime="2007-12-19"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution providing for a conditional adjournment or recess of the Senate, and a conditional adjournment of the House of Representatives.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="300072" joined="2007-12-18"/>
+	</cosponsors>
+	<actions>
+		<vote date="1198040400" how="by Unanimous Consent" datetime="2007-12-19" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR 12/18/2007 S15935; text as passed Senate: CR 12/18/2007 CR S15935; text of measure as introduced: CR 12/18/2007 S15926)</text></vote>
+		<action date="1198073040" datetime="2007-12-19T10:04:00-05:00"><text>Received in the House.</text></action>
+		<action date="1198075320" datetime="2007-12-19T10:42:00-05:00"><text>Held at the desk.</text></action>
+		<action date="1198040400" datetime="2007-12-19"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1198096560" datetime="2007-12-19T16:36:00-05:00"><text>Considered as privileged matter.</text></action>
+		<vote date="1198096740" how="without objection" datetime="2007-12-19T16:39:00-05:00" where="h" type="vote2" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text></vote>
+		<action date="1198040400" datetime="2007-12-19"><text>Message on House action received in Senate and at desk: House amendments to Senate bill.</text></action>
+		<action date="1198040400" datetime="2007-12-19"><text>Senate agreed to House amendments by Unanimous Consent.</text><reference label="consideration" ref="CR S15980"/><reference label="text as Senate agreed to House amendments" ref="CR S15980"/></action>
+		<action date="1198040400" datetime="2007-12-19"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/19/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Provides for an adjournment sine die of: (1) the Senate on any day from December 18-December 31, 2007 (or until another time of reassembly under this concurrent resolution); and (2) the House of Representatives on any legislative day from December 18-December 22, 2007 (or until another time of reassembly). Provides that when: (1) the Senate recesses or adjourns on January 3, 2008, it stand recessed or adjourned until January 22, 2008 (or until another time of reassembly under this concurrent resolution, whichever occurs first); and (2) the House adjourns on the legislative day of January 3, 2008, it stand recessed or adjourned until January 15, 2008 (or until another time of reassembly, whichever occurs first). Authorizes the Majority Leader of the Senate and the Speaker of the House, or their respective designees, acting jointly after consultation with the Minority Leaders of the Senate and of the House, to notify the Members of the Senate and the House, respectively, to reassemble at such place and time as they may designate whenever, in their opinion, the public interest shall warrant it. .<br/>
+	</summary>
+</bill>

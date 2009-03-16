@@ -1,0 +1,32 @@
+<bill session="110" type="sr" number="644" updated="2009-01-09T21:18:53-05:00">
+	<status><vote date="1222056000" datetime="2008-09-22" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1217563200" datetime="2008-08-01"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating September 2008 as &quot;National Child Awareness Month&quot; to promote awareness of charities benefitting children and youth-serving organizations throughout the United States and recognizing efforts made by these charities and organizations on behalf of children and youth as a positive investment in the future of the United States.</title>
+	</titles>
+	<sponsor id="400054"/>
+	<cosponsors>
+		<cosponsor id="300043" joined="2008-08-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1217563200" datetime="2008-08-01"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S8048-8049"/></action>
+		<action date="1222056000" datetime="2008-09-22"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S9179-9185"/></action>
+		<vote date="1222056000" how="by Unanimous Consent" datetime="2008-09-22" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S9180"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/22/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates September 2008 as National Child Awareness Month.<br/>
+	</summary>
+</bill>

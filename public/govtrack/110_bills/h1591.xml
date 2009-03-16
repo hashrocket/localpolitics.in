@@ -1,0 +1,96 @@
+<bill session="110" type="h" number="1591" updated="2009-01-08T20:10:26-05:00">
+	<status><override date="1178127360" datetime="2007-05-02T14:36:00-04:00" where="h" result="fail" how="roll" roll="276"/></status>
+
+	<introduced date="1174363200" datetime="2007-03-20"/>
+	<titles>
+		<title type="short" as="introduced">U.S. Troop Readiness, Veterans' Health, and Iraq Accountability Act, 2007</title>
+		<title type="short" as="introduced">Fair Minimum Wage Act of 2007</title>
+		<title type="short" as="introduced">Small Business Tax Relief Act of 2007</title>
+		<title type="short" as="reported to house">U.S. Troop Readiness, Veterans' Health, and Iraq Accountability Act, 2007</title>
+		<title type="short" as="reported to house">Fair Minimum Wage Act of 2007</title>
+		<title type="short" as="reported to house">Small Business Tax Relief Act of 2007</title>
+		<title type="short" as="passed house">U.S. Troop Readiness, Veterans' Health, and Iraq Accountability Act, 2007</title>
+		<title type="short" as="passed house">Fair Minimum Wage Act of 2007</title>
+		<title type="short" as="passed house">Small Business Tax Relief Act of 2007</title>
+		<title type="short" as="passed senate">U.S. Troop Readiness, Veterans' Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007</title>
+		<title type="short" as="passed senate">Emergency Farm Relief Act of 2007</title>
+		<title type="short" as="passed senate">Fair Minimum Wage Act of 2007</title>
+		<title type="short" as="passed senate">Small Business and Work Opportunity Act of 2007</title>
+		<title type="official" as="introduced">Making emergency supp</title>
+	</titles>
+	<sponsor id="400300"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1174427580" datetime="2007-03-20T18:53:00-04:00"><text>The House Committee on Appropriations reported an original measure, H. Rept. 110-60, by Mr. Obey.</text></action>
+		<calendar date="1174427580" datetime="2007-03-20T18:53:00-04:00" ><text>Placed on the Union Calendar, Calendar No. 31.</text></calendar>
+		<action date="1174536240" datetime="2007-03-22T01:04:00-04:00"><text>Rules Committee Resolution H. Res. 261 Reported to House. Rule provides for consideration of H.R. 1591 with 4 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted.</text></action>
+		<action date="1174590600" datetime="2007-03-22T16:10:00-04:00"><text>Rule H. Res. 261 passed House.</text></action>
+		<action date="1174591620" datetime="2007-03-22T16:27:00-04:00"><text>Considered under the provisions of rule H. Res. 261.</text><reference label="consideration" ref="CR H2875-2931"/><reference label="text of measure as reported in House" ref="CR H2875-2894"/></action>
+		<action date="1174591620" datetime="2007-03-22T16:27:00-04:00"><text>Rule provides for consideration of H.R. 1591 with 4 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted.</text></action>
+		<action date="1174591680" datetime="2007-03-22T16:28:00-04:00"><text>DEBATE - Pursuant to the provisions of H. Res. 261, the House proceeded with four hours of debate on H.R. 1591.</text></action>
+		<action date="1174599480" datetime="2007-03-22T18:38:00-04:00"><text>WORDS TAKEN DOWN - During the course of debate, exception was taken to certian words used and a demand was made to have words taken down. Mr. Hensarling asked unanimous consent to withdraw the words. Without objection the words were withdrawn. The House resumed debate on H.R. 1591.</text></action>
+		<action date="1174653780" datetime="2007-03-23T09:43:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2961-2999"/></action>
+		<action date="1174653900" datetime="2007-03-23T09:45:00-04:00"><text>DEBATE - Pursuant to the provisions of H.Res. 261, the House resumed debate on H.R. 1591.</text></action>
+		<action date="1174706640" datetime="2007-03-23T12:24:00-04:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H2999"/></action>
+		<vote date="1174707780" how="roll" roll="186" datetime="2007-03-23T12:43:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed by the Yeas and Nays: 218 - 212, 1 Present (Roll no. 186).</text></vote>
+		<calendar under="General Orders" number="84" date="1174622400" datetime="2007-03-23" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 84.</text></calendar>
+		<action date="1174881600" datetime="2007-03-26"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S3735-3742, S3747-3748"/></action>
+		<action date="1174881600" datetime="2007-03-26"><text>Cloture motion on the measure presented in Senate.</text><reference label="consideration" ref="CR S3747"/><reference label="text" ref="CR S3747"/></action>
+		<action date="1174968000" datetime="2007-03-27"><text>Considered by Senate.</text><reference label="consideration" ref="CR S3785-3789, S3793-3822"/></action>
+		<action date="1175054400" datetime="2007-03-28"><text>Considered by Senate.</text><reference label="consideration" ref="CR S3986-4039"/></action>
+		<action date="1175054400" datetime="2007-03-28"><text>Cloture on the measure invoked in Senate by Yea-Nay Vote. 97 - 0. Record Vote Number: 117.</text><reference label="consideration" ref="CR S4003-4004"/><reference label="text" ref="CR S4003"/></action>
+		<action date="1175140800" datetime="2007-03-29"><text>Considered by Senate.</text><reference label="consideration" ref="CR S4082-4131"/></action>
+		<vote date="1175140800" how="roll" roll="126" datetime="2007-03-29" where="s" type="vote2" result="pass" ><text>Passed Senate with an amendment by Yea-Nay Vote. 51 - 47. Record Vote Number: 126.</text><reference label="text" ref="CR S4093-4131"/></vote>
+		<action date="1175140800" datetime="2007-03-29"><text>Senate insisted on its amendment, requested a conference.</text><reference label="consideration" ref="CR S4146"/></action>
+		<action date="1175140800" datetime="2007-03-29"><text>Senate appointed conferee(s) Byrd; Inouye; Leahy; Harkin; Mikulski; Kohl; Murray; Dorgan; Feinstein; Durbin; Johnson; Landrieu; Reed; Lautenberg; Nelson NE; Cochran; Stevens; Specter; Domenici; Bond; Shelby; Gregg; Bennett; Craig; Hutchison; Brownback; Allard; Alexander; Grassley.</text></action>
+		<action date="1175227200" datetime="2007-03-30"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1177020540" datetime="2007-04-19T19:09:00-04:00"><text>Mr. Obey moved that the House disagree to the Senate amendment, and agree to a conference.</text><reference label="consideration" ref="CR H3665-3672"/></action>
+		<action date="1177020540" datetime="2007-04-19T19:09:00-04:00"><text>On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to by voice vote.</text></action>
+		<action date="1177020600" datetime="2007-04-19T19:10:00-04:00"><text>Mr. Lewis (CA) moved that the House instruct conferees.</text><reference label="consideration" ref="CR H3665-3672"/><reference label="text" ref="CR H3655"/></action>
+		<action date="1177020600" datetime="2007-04-19T19:10:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on the Lewis (CA) motion to instruct conferees. The instructions contained in the motion seek to require the managers on the part of the House to insist on subsections (c),(d),(e) and (f) of section 1904 of the House bill, relating to the redeployment of the Armed Forces from Iraq and restrictions on the Secretary of Defense's use of the Armed Forces in Iraq after such redeployment.</text></action>
+		<action date="1177024620" datetime="2007-04-19T20:17:00-04:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H3671-3672"/></action>
+		<action date="1177026000" datetime="2007-04-19T20:40:00-04:00"><text>On motion that the House instruct conferees Agreed to by the Yeas and Nays: 215 - 199, 1 Present (Roll no. 235).</text></action>
+		<action date="1177026000" datetime="2007-04-19T20:40:00-04:00"><text>The Speaker appointed conferees: Obey, DeLauro, Murtha, Visclosky, Lowey, Kilpatrick, Dicks, Edwards, Mollohan, Olver, Serrano, Wasserman Schultz, Clyburn, Lewis (CA), Young (FL), Rogers (KY), Wolf, Walsh (NY), Hobson, Knollenberg, Kingston, Frelinghuysen, and Wicker.</text></action>
+		<action date="1177124760" datetime="2007-04-20T12:06:00-04:00"><text>APPOINTMENT OF CONFEREE - Pursuant to clause 11 of rule 1, the Chair announced the appointment of Ms. Kilpatrick of Michigan as a conferee on H.R. 1591 in lieu of Mr. Price of North Carolina.</text></action>
+		<action date="1177444680" datetime="2007-04-24T16:58:00-04:00"><text>Conference report H. Rept. 110-107 filed.</text><reference label="text of conference report" ref="CR H3823-4012"/></action>
+		<action date="1177387200" datetime="2007-04-24"><text>Committee on the Judiciary. Hearings held.</text></action>
+		<action date="1177453740" datetime="2007-04-24T19:29:00-04:00"><text>Rules Committee Resolution H. Res. 332 Reported to House. Rule provides for consideration of the conference report to H.R. 1591. All points of order against the conference report and against its consideration are waived. The conference report shall be considered as read.</text></action>
+		<action date="1177540620" datetime="2007-04-25T19:37:00-04:00"><text>Rule H. Res. 332 passed House.</text></action>
+		<action date="1177540680" datetime="2007-04-25T19:38:00-04:00"><text>Mr. Obey brought up conference report H. Rept. 110-107 for consideration under the provisions of H. Res. 332.</text><reference label="consideration" ref="CR H4131-4158"/></action>
+		<action date="1177540800" datetime="2007-04-25T19:40:00-04:00"><text>Debate - The House proceeded with one hour debate on the conference report to accompany H.R. 1591.</text></action>
+		<action date="1177541280" datetime="2007-04-25T19:48:00-04:00"><text>Motions to reconsider laid on the table Agreed to without objection.</text></action>
+		<action date="1177545900" datetime="2007-04-25T21:05:00-04:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H4157"/></action>
+		<action date="1177547220" datetime="2007-04-25T21:27:00-04:00"><text>Motions to reconsider laid on the table Agreed to without objection.</text></action>
+		<vote-aux date="1177547220" how="roll" roll="265" datetime="2007-04-25T21:27:00-04:00" where="h" type="conference" result="pass" ><text>On agreeing to the conference report Agreed to by the Yeas and Nays: 218 - 208, 2 Present (Roll no. 265).</text><reference label="consideration" ref="CR H4157-4158"/></vote-aux>
+		<action date="1177560000" datetime="2007-04-26"><text>Conference papers: Senate report and manager's statement and message on House action held at the desk in Senate.</text></action>
+		<action date="1177560000" datetime="2007-04-26"><text>Conference report considered in Senate.</text><reference label="consideration" ref="CR S5128-5153"/></action>
+		<vote-aux date="1177560000" how="roll" roll="147" datetime="2007-04-26" where="s" type="conference" result="pass" ><text>Senate agreed to conference report by Yea-Nay Vote. 51 - 46. Record Vote Number: 147.</text></vote-aux>
+		<action date="1177560000" datetime="2007-04-26"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1177560000" datetime="2007-04-26"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1177560000" datetime="2007-04-26" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1177992000" datetime="2007-05-01" ><text>Presented to President.</text></topresident>
+		<vetoed date="1177992000" datetime="2007-05-01" ><text>Vetoed by President.</text></vetoed>
+		<action date="1178164320" datetime="2007-05-02T12:52:00-04:00"><text>The Chair laid before the House the veto message from the President.</text></action>
+		<action date="1178164320" datetime="2007-05-02T12:52:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on the question of passage of H.R. 1591, the objections of the President to the contrary, notwithstanding.</text></action>
+		<vote date="1178127360" how="roll" roll="276" datetime="2007-05-02T14:36:00-04:00" where="h" type="override" result="fail" ><text>On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 222 - 203, 1 Present (Roll no. 276).</text><reference label="consideration" ref="CR H4315-4326"/><reference label="text of Veto message" ref="CR H4315"/></vote>
+		<action date="1178127360" datetime="2007-05-02T14:36:00-04:00"><text>Motion to refer the bill and accompanying veto message to the Committee on Appropriations.</text></action>
+		<action date="1178127420" datetime="2007-05-02T14:37:00-04:00"><text>On motion to refer the bill and the accompanying veto message to the Committee on Appropriations. Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

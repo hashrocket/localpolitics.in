@@ -1,0 +1,60 @@
+<bill session="110" type="h" number="2728" updated="2009-01-08T22:31:29-05:00">
+	<status><enacted date="1216094400" datetime="2008-07-15" /></status>
+
+	<introduced date="1181793600" datetime="2007-06-14"/>
+	<titles>
+		<title type="official" as="introduced">To designate the station of the United States Border Patrol located at 25762 Madison Avenue in Murrieta, California, as the &quot;Theodore L. Newton, Jr. and George F. Azrak Border Patrol Station&quot;.</title>
+	</titles>
+	<sponsor id="400196"/>
+	<cosponsors>
+		<cosponsor id="400209" joined="2007-06-14"/>
+		<cosponsor id="400113" joined="2007-09-06"/>
+		<cosponsor id="400151" joined="2007-06-14"/>
+		<cosponsor id="400176" joined="2007-09-06"/>
+		<cosponsor id="400288" joined="2007-06-14"/>
+		<cosponsor id="400277" joined="2007-06-14"/>
+		<cosponsor id="400057" joined="2007-06-14"/>
+		<cosponsor id="400343" joined="2007-06-14"/>
+		<cosponsor id="400039" joined="2007-06-14"/>
+		<cosponsor id="400570" joined="2007-06-14"/>
+		<cosponsor id="412239" joined="2007-06-14"/>
+		<cosponsor id="412011" joined="2007-06-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1181793600" datetime="2007-06-14"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1181880000" datetime="2007-06-15"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1185940800" datetime="2007-08-01"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1185940800" datetime="2007-08-01"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1186027200" datetime="2007-08-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1186027200" datetime="2007-08-02" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1189777620" datetime="2007-09-14T10:47:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 110-327.</text></action>
+		<calendar number="114" date="1189777620" datetime="2007-09-14T10:47:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 114.</text></calendar>
+		<action date="1193686320" datetime="2007-10-29T16:32:00-04:00"><text>Ms. Norton moved to suspend the rules and pass the bill.</text></action>
+		<action date="1193686320" datetime="2007-10-29T16:32:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H12129-12130"/></action>
+		<action date="1193686320" datetime="2007-10-29T16:32:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2728.</text></action>
+		<vote date="1193686620" how="by voice vote" datetime="2007-10-29T16:37:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H12129"/></vote>
+		<action date="1193716800" datetime="2007-10-30"><text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<action date="1214280000" datetime="2008-06-24"><text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S6080"/></action>
+		<vote date="1214280000" how="by Unanimous Consent" datetime="2008-06-24" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<topresident date="1214280000" datetime="2008-06-24" ><text>Cleared for White House.</text></topresident>
+		<action date="1214366400" datetime="2008-06-25"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1215403200" datetime="2008-07-07" ><text>Presented to President.</text></topresident>
+		<signed date="1216094400" datetime="2008-07-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-264" date="1216094400" datetime="2008-07-15" type="public" ><text>Became Public Law No: 110-264.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/15/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the U.S. Border Patrol station located at 25762 Madison Avenue, Murrieta, California, as the &quot;Theodore L. Newton, Jr. and George F. Azrak Border Patrol Station.&quot;<br/>
+	</summary>
+</bill>

@@ -1,0 +1,103 @@
+<bill session="111" type="hr" number="139" updated="2009-03-07T13:22:41-05:00">
+	<status><vote date="1234550460" datetime="2009-02-13T14:41:00-05:00" where="h" result="pass" how="roll" roll="71"/></status>
+
+	<introduced date="1234155600" datetime="2009-02-09"/>
+	<titles>
+		<title type="official" as="introduced">Commemorating the life and legacy of President Abraham Lincoln on the bicentennial of his birth.</title>
+	</titles>
+	<sponsor id="412204"/>
+	<cosponsors>
+		<cosponsor id="400640" joined="2009-02-12"/>
+		<cosponsor id="400041" joined="2009-02-09"/>
+		<cosponsor id="400222" joined="2009-02-09"/>
+		<cosponsor id="412229" joined="2009-02-10"/>
+		<cosponsor id="400082" joined="2009-02-09"/>
+		<cosponsor id="400048" joined="2009-02-09"/>
+		<cosponsor id="412209" joined="2009-02-09"/>
+		<cosponsor id="400442" joined="2009-02-09"/>
+		<cosponsor id="400177" joined="2009-02-09"/>
+		<cosponsor id="412199" joined="2009-02-10"/>
+		<cosponsor id="400631" joined="2009-02-09"/>
+		<cosponsor id="412263" joined="2009-02-10"/>
+		<cosponsor id="400027" joined="2009-02-09"/>
+		<cosponsor id="412211" joined="2009-02-09"/>
+		<cosponsor id="400263" joined="2009-02-10"/>
+		<cosponsor id="400436" joined="2009-02-09"/>
+		<cosponsor id="400162" joined="2009-02-09"/>
+		<cosponsor id="400346" joined="2009-02-09"/>
+		<cosponsor id="412221" joined="2009-02-09"/>
+		<cosponsor id="400340" joined="2009-02-09"/>
+		<cosponsor id="400183" joined="2009-02-10"/>
+		<cosponsor id="400282" joined="2009-02-10"/>
+		<cosponsor id="400178" joined="2009-02-10"/>
+		<cosponsor id="400302" joined="2009-02-09"/>
+		<cosponsor id="412278" joined="2009-02-09"/>
+		<cosponsor id="400350" joined="2009-02-09"/>
+		<cosponsor id="400246" joined="2009-02-10"/>
+		<cosponsor id="412314" joined="2009-02-09"/>
+		<cosponsor id="400360" joined="2009-02-09"/>
+		<cosponsor id="400366" joined="2009-02-10"/>
+		<cosponsor id="400255" joined="2009-02-10"/>
+		<cosponsor id="400211" joined="2009-02-10"/>
+		<cosponsor id="412305" joined="2009-02-09"/>
+		<cosponsor id="400638" joined="2009-02-10"/>
+		<cosponsor id="400633" joined="2009-02-09"/>
+		<cosponsor id="400207" joined="2009-02-09"/>
+		<cosponsor id="400198" joined="2009-02-09"/>
+		<cosponsor id="412312" joined="2009-02-10"/>
+		<cosponsor id="412186" joined="2009-02-09"/>
+		<cosponsor id="400093" joined="2009-02-09"/>
+		<cosponsor id="412228" joined="2009-02-10"/>
+		<cosponsor id="412212" joined="2009-02-10"/>
+		<cosponsor id="400630" joined="2009-02-09"/>
+		<cosponsor id="412257" joined="2009-02-09"/>
+		<cosponsor id="400641" joined="2009-02-09"/>
+		<cosponsor id="400047" joined="2009-02-12"/>
+		<cosponsor id="412231" joined="2009-02-09"/>
+		<cosponsor id="400274" joined="2009-02-09"/>
+		<cosponsor id="400283" joined="2009-02-09"/>
+		<cosponsor id="400097" joined="2009-02-09"/>
+		<cosponsor id="400042" joined="2009-02-09"/>
+		<cosponsor id="412299" joined="2009-02-09"/>
+		<cosponsor id="400431" joined="2009-02-09"/>
+		<cosponsor id="400240" joined="2009-02-10"/>
+		<cosponsor id="412219" joined="2009-02-09"/>
+		<cosponsor id="400184" joined="2009-02-10"/>
+		<cosponsor id="400055" joined="2009-02-09"/>
+		<cosponsor id="412208" joined="2009-02-09"/>
+		<cosponsor id="400216" joined="2009-02-09"/>
+		<cosponsor id="400373" joined="2009-02-09"/>
+		<cosponsor id="400163" joined="2009-02-09"/>
+		<cosponsor id="400312" joined="2009-02-10"/>
+		<cosponsor id="400309" joined="2009-02-10"/>
+		<cosponsor id="412202" joined="2009-02-09"/>
+		<cosponsor id="412279" joined="2009-02-12"/>
+		<cosponsor id="400252" joined="2009-02-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1234328400" datetime="2009-02-11"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1234328400" datetime="2009-02-11" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1234463040" datetime="2009-02-12T14:24:00-05:00"><text>Mr. Lynch moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1234463100" datetime="2009-02-12T14:25:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1269-1272"/></action>
+		<action date="1234463100" datetime="2009-02-12T14:25:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 139.</text></action>
+		<action date="1234463640" datetime="2009-02-12T14:34:00-05:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lynch objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1234549860" datetime="2009-02-13T14:31:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1588-1589"/></action>
+		<vote date="1234550460" how="roll" roll="71" datetime="2009-02-13T14:41:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 71). (text: CR 2/12/2009 H1269)</text></vote>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, Markup" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="sr" number="38" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/9/2009--Introduced.<br/>Commemorates the bicentennial of the birth of President Abraham Lincoln. Recognizes and echoes the commitment of Abraham Lincoln to what he called the &quot;unfinished work&quot; of unity and harmony in the United States. Encourages the people of the United States to recommit to fulfilling the vision of Abraham Lincoln of equal rights for all.<br/>
+	</summary>
+</bill>

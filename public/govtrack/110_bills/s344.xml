@@ -1,0 +1,41 @@
+<bill session="110" type="s" number="344" updated="2009-01-09T11:52:06-05:00">
+	<status><calendar date="1196917200" datetime="2007-12-06" /></status>
+
+	<introduced date="1169442000" datetime="2007-01-22"/>
+	<titles>
+		<title type="official" as="introduced">A bill to permit the televising of Supreme Court proceedings.</title>
+	</titles>
+	<sponsor id="300092"/>
+	<cosponsors>
+		<cosponsor id="300042" joined="2007-01-22"/>
+		<cosponsor id="300038" joined="2007-01-22"/>
+		<cosponsor id="300087" joined="2007-01-22"/>
+		<cosponsor id="300048" joined="2007-01-22"/>
+		<cosponsor id="300027" joined="2007-01-30"/>
+	</cosponsors>
+	<actions>
+		<action date="1169442000" datetime="2007-01-22"><text>Sponsor introductory remarks on measure. (CR S831-834)</text></action>
+		<action date="1169442000" datetime="2007-01-22"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S834"/></action>
+		<action date="1170046800" datetime="2007-01-29"><text>Sponsor introductory remarks on measure. (CR S1257-1262)</text></action>
+		<action date="1171429200" datetime="2007-02-14"><text>Committee on the Judiciary. Hearings held.</text></action>
+		<calendar date="1196917200" datetime="2007-12-06" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1217304000" datetime="2008-07-29"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="907" date="1217304000" datetime="2008-07-29" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 907.</text></calendar>
+		<action date="1220846400" datetime="2008-09-08"><text>By Senator Leahy from Committee on the Judiciary filed written report. Report No. 110-448.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/29/2008--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Requires the Supreme Court to permit television coverage of all open sessions of the Court unless it decides by majority vote that allowing such coverage in a particular case would violate the due process rights of any of the parties involved.<br/>
+	</summary>
+</bill>

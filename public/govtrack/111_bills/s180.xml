@@ -1,0 +1,36 @@
+<bill session="111" type="s" number="180" updated="2009-03-07T13:54:35-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">Cache La Poudre River National Heritage Area Act of 2009</title>
+		<title type="official" as="introduced">A bill to establish the Cache La Poudre River National Heritage Area, and for other purposes.</title>
+	</titles>
+	<sponsor id="400619"/>
+	<cosponsors>
+		<cosponsor id="400412" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Energy and Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="926" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Colorado"/>
+		<term name="Historic sites and heritage areas"/>
+		<term name="Historical and cultural resources"/>
+		<term name="Lakes and rivers"/>
+		<term name="Parks, recreation areas, trails"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Cache La Poudre River National Heritage Area Act of 2009 - Establishes the Cache La Poudre River National Heritage Area in Colorado. Designates the Poudre Heritage Alliance, a nonprofit, as the local coordinating entity for the Heritage Area. Requires the Alliance to prepare and submit a management plan for the Heritage Area. 
+	</summary>
+</bill>

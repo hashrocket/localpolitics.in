@@ -1,0 +1,48 @@
+<bill session="110" type="hr" number="744" updated="2009-01-09T09:24:39-05:00">
+	<status><vote date="1194304260" datetime="2007-11-05T19:11:00-05:00" where="h" result="pass" how="roll" roll="1036"/></status>
+
+	<introduced date="1192420800" datetime="2007-10-15"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the contributions of Native American veterans and calling upon the President to issue a proclamation urging the people of the United States to observe a day in honor of Native American veterans.</title>
+	</titles>
+	<sponsor id="400434"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-10-22"/>
+		<cosponsor id="400133" joined="2007-10-31"/>
+		<cosponsor id="400413" joined="2007-10-22"/>
+		<cosponsor id="400336" joined="2007-10-17"/>
+		<cosponsor id="412225" joined="2007-10-17"/>
+		<cosponsor id="400443" joined="2007-10-15"/>
+		<cosponsor id="400361" joined="2007-10-17"/>
+		<cosponsor id="400437" joined="2007-10-22"/>
+		<cosponsor id="400316" joined="2007-10-17"/>
+		<cosponsor id="412240" joined="2007-10-30"/>
+		<cosponsor id="400178" joined="2007-10-22"/>
+		<cosponsor id="400440" joined="2007-10-17"/>
+		<cosponsor id="400047" joined="2007-10-17"/>
+	</cosponsors>
+	<actions>
+		<action date="1192420800" datetime="2007-10-15"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1194291660" datetime="2007-11-05T15:41:00-05:00"><text>Mr. Filner moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1194291720" datetime="2007-11-05T15:42:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H12476-12477"/></action>
+		<action date="1194291720" datetime="2007-11-05T15:42:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 744.</text></action>
+		<action date="1194292200" datetime="2007-11-05T15:50:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1194303840" datetime="2007-11-05T19:04:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H12482"/></action>
+		<vote date="1194304260" how="roll" roll="1036" datetime="2007-11-05T19:11:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 351 - 0 (Roll no. 1036).</text><reference label="text" ref="CR H12476"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/5/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes all Native American veterans who have served the Nation with honor, pride, devotion, wisdom, and strength for serving their country and protecting their homeland. Calls upon the President to issue a proclamation urging the people of the United States to observe a day honoring Native American veterans with appropriate ceremonies and activities.<br/>
+	</summary>
+</bill>

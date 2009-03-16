@@ -1,0 +1,59 @@
+<bill session="110" type="h" number="4841" updated="2009-01-09T03:00:30-05:00">
+	<status><enacted date="1217476800" datetime="2008-07-31" /></status>
+
+	<introduced date="1198040400" datetime="2007-12-19"/>
+	<titles>
+		<title type="short" as="introduced">Soboba Band of Luiseno Indians Settlement Act</title>
+		<title type="short" as="reported to house">Soboba Band of Luiseno Indians Settlement Act</title>
+		<title type="short" as="passed house">Soboba Band of Luiseno Indians Settlement Act</title>
+		<title type="short" as="passed senate">Soboba Band of Luiseno Indians Settlement Act</title>
+		<title type="short" as="enacted">Soboba Band of Luiseno Indians Settlement Act</title>
+		<title type="official" as="introduced">To approve, ratify, and confirm the settlement agreement entered into to resolve claims by the Soboba Band of Luiseno Indians relating to alleged interferences with the water resources of the Tribe, to authorize and direct the Secretary of the Interior to execute and perform the Settlement Agreement and related waivers, and for other purposes.</title>
+	</titles>
+	<sponsor id="400039"/>
+	<cosponsors>
+		<cosponsor id="400077" joined="2008-01-22"/>
+		<cosponsor id="400239" joined="2007-12-19"/>
+		<cosponsor id="400216" joined="2008-01-28"/>
+		<cosponsor id="400057" joined="2008-01-29"/>
+		<cosponsor id="400009" joined="2008-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1198040400" datetime="2007-12-19"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1199422800" datetime="2008-01-04"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1205380800" datetime="2008-03-13"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1208923200" datetime="2008-04-23"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1208923200" datetime="2008-04-23"><text>Forwarded by Subcommittee to Full Committee (Amended) by Unanimous Consent .</text></action>
+		<action date="1209528000" datetime="2008-04-30"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1209528000" datetime="2008-04-30" ><text>Ordered to be Reported (Amended) by Unanimous Consent.</text></calendar>
+		<action date="1210882260" datetime="2008-05-15T17:11:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-649.</text></action>
+		<calendar number="410" date="1210882260" datetime="2008-05-15T17:11:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 410.</text></calendar>
+		<action date="1211255160" datetime="2008-05-19T12:46:00-04:00"><text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1211255160" datetime="2008-05-19T12:46:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4075-4078"/></action>
+		<action date="1211255160" datetime="2008-05-19T12:46:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4841.</text></action>
+		<action date="1211255460" datetime="2008-05-19T12:51:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Issa objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<vote date="1211397420" how="by voice vote" datetime="2008-05-21T16:17:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text></vote>
+		<action date="1211428800" datetime="2008-05-22"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1216785600" how="by Unanimous Consent" datetime="2008-07-23" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S7197-7198"/></vote>
+		<topresident date="1216785600" datetime="2008-07-23" ><text>Cleared for White House.</text></topresident>
+		<action date="1216872000" datetime="2008-07-24"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1216958400" datetime="2008-07-25" ><text>Presented to President.</text></topresident>
+		<signed date="1217476800" datetime="2008-07-31" ><text>Signed by President.</text></signed>
+		<enacted number="110-297" date="1217476800" datetime="2008-07-31" type="public" ><text>Became Public Law No: 110-297.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/31/2008--Public Law. Soboba Band of Luiseno Indians Settlement Act - Approves, ratifies, and confirms the Settlement Agreement dated June 7, 2006, between the Soboba Band of Luiseno Indians (Tribe) and certain water districts in California relating to the water rights of such Tribe.<br/>Establishes in the Treasury: (1) the San Jacinto Basin Restoration Fund to pay costs associated with the construction, operation, and maintenance of the basin recharge project for accommodating supplemental imported water deliveries; and (2) the Soboba Band of Luiseno Indians Water Development Fund for costs associated with constructing and maintaining water-related development projects.<br/>Provides for waivers and releases of specified claims made by the Tribe.<br/>Declares that the United States consents to jurisdiction in the case of Soboba Band of Luiseno Indians v. Metropolitan Water District of Southern California, No. 001-04208, for the purpose of entering the judgment and decree rendered in such case.<br/>Allows the Tribe to use water made available to it under the Settlement Agreement for any use it deems advisable on the Reservation and to enter into contracts and other agreements to exchange water made available to it under the Settlement Agreement, subject to certain limitations.<br/>Requires the Secretary of the Interior to comply with all federal environmental requirements in implementing the Agreement. 
+	</summary>
+</bill>

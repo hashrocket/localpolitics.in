@@ -1,0 +1,45 @@
+<bill session="110" type="s" number="428" updated="2009-01-09T12:03:47-05:00">
+	<status><vote date="1204002000" datetime="2008-02-26" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1170133200" datetime="2007-01-30"/>
+	<titles>
+		<title type="short" as="introduced">IP-Enabled Voice Communications and Public Safety Act of 2007</title>
+		<title type="short" as="reported to senate">IP-Enabled Voice Communications and Public Safety Act of 2007</title>
+		<title type="short" as="passed senate">IP-Enabled Voice Communications and Public Safety Act of 2007</title>
+		<title type="official" as="introduced">A bill to amend the Wireless Communications and Public Safety Act of 1999, and for other purposes.</title>
+	</titles>
+	<sponsor id="300078"/>
+	<cosponsors>
+		<cosponsor id="300022" joined="2007-01-30"/>
+		<cosponsor id="300091" joined="2007-01-30"/>
+		<cosponsor id="300064" joined="2007-04-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1170133200" datetime="2007-01-30"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+		<action date="1176177600" datetime="2007-04-10"><text>Committee on Commerce, Science, and Transportation. Hearings held.</text></action>
+		<calendar date="1177473600" datetime="2007-04-25" ><text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1186113600" datetime="2007-08-03"><text>Committee on Commerce, Science, and Transportation. Reported by Senator Inouye with an amendment in the nature of a substitute. With written report No. 110-142.</text></action>
+		<calendar under="General Orders" number="327" date="1186113600" datetime="2007-08-03" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 327.</text></calendar>
+		<action date="1204002000" datetime="2008-02-26"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S1205-1208"/><reference label="text of measure as reported in Senate" ref="CR S1205-1206"/></action>
+		<action date="1204002000" datetime="2008-02-26"><text>The committee substitute as amended agreed to by Unanimous Consent.</text></action>
+		<vote date="1204002000" how="by Unanimous Consent" datetime="2008-02-26" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text><reference label="text" ref="CR S1206-1208"/></vote>
+		<action date="1204121100" datetime="2008-02-27T10:05:00-05:00"><text>Received in the House.</text></action>
+		<action date="1204088400" datetime="2008-02-27"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1204144560" datetime="2008-02-27T16:36:00-05:00"><text>Held at the desk.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/26/2008--Passed Senate amended. IP-Enabled Voice Communications and Public Safety Act of 2007 - (Sec. 2) Amends the Wireless Communications and Public Safety Act of 1999 to impose on IP-enabled voice service providers engaged in interstate or foreign communication a requirement to provide 9-1-1 service, including enhanced 9-1-1 service, to its subscribers. Requires the Federal Communications Commission (FCC) to issue regulations granting IP-enabled voice service providers right of access to 9-1-1 components that are necessary to provide 9-1-1 service, on the same rates, terms, and conditions that are provided to commercial mobile service providers. Requires the providers to establish a point of contact for public safety and government officials relative to 9-1-1 service and access. Authorizes the FCC to delegate enforcement authority to state agencies or programs with emergency communications jurisdiction. Authorizes the FCC to require any provider of a voice service that is a substitute for telephone exchange service to provide 9-1-1 service, including enhanced 9-1-1 service. (Sec. 3) Requires that, when IP-enabled voice service or alternative emergency communications service is involved, there be parity in liability (as compared to local exchange companies and others) for service carriers, users, and public safety answering points (facilities designated to receive 9-1-1 calls and route them to emergency personnel) (PSAPs). Defines &quot;alternative emergency communications service&quot; as the provision of emergency information to a PSAP via wire or radio communications, possibly including 9-1-1 and enhanced 9-1-1 services. (Sec. 4) Declares that nothing in this Act, the Communications Act of 1934, the Wireless Communications and Public Safety Act of 1999, or any FCC regulation or order prevents states, their subdivisions, or Indian tribes from imposing a fee on or collecting a fee from IP-enabled voice services to support 9-1-1 or E-9-1-1 services. (Sec. 5) Requires the FCC to report annually to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce on the status in each state of the collection and distribution of 9-1-1 fees. (Sec. 6) Amends the National Telecommunications and Information Administration Organization Act to require the E-9-1-1 Implementation Coordination Office to develop a national plan for migrating to a national IP-enabled emergency network. Requires, after plan completion, grants for migration to such a network. Authorizes the FCC to compile a list of PSAP contact information, as well as contact information for 9-1-1 component providers, to assist providers in complying with this Act and specified provisions of the National Telecommunications and Information Administration Organization Act. Allows the FCC to make any part of that information available to the public to improve public safety. Requires the FCC to work cooperatively with public safety organizations, industry participants, and the E-9-1-1 Implementation Coordination Office to develop best practices that promote consistency. (Sec. 7) Requires the FCC to enforce the Wireless Communications and Public Safety Act of 1999 as if that Act was part of the Communications Act of 1934 and deems any violation to be a violation of the Communications Act of 1934. (Sec. 8) Sets deadlines for: (1) the FCC to remit all amounts promised for the completion of an update to the Report on Technical and Operational Issues Impacting the Provision of Wireless Enhanced 9-1-1 Services; and (2) the filing of related written findings.<br/>
+	</summary>
+</bill>

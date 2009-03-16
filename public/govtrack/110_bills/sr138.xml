@@ -1,0 +1,44 @@
+<bill session="110" type="sr" number="138" updated="2009-01-09T20:15:40-05:00">
+	<status><calendar date="1179374400" datetime="2007-05-17" /></status>
+
+	<introduced date="1175140800" datetime="2007-03-29"/>
+	<titles>
+		<title type="official" as="introduced">A resolution honoring the accomplishments and legacy of Cesar Estrada Chavez.</title>
+	</titles>
+	<sponsor id="400619"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2008-03-11"/>
+		<cosponsor id="400272" joined="2007-03-29"/>
+		<cosponsor id="300009" joined="2007-03-29"/>
+		<cosponsor id="300082" joined="2007-03-29"/>
+		<cosponsor id="300011" joined="2007-03-29"/>
+		<cosponsor id="300093" joined="2007-03-29"/>
+		<cosponsor id="300060" joined="2007-03-29"/>
+		<cosponsor id="300038" joined="2007-03-29"/>
+		<cosponsor id="412249" joined="2007-03-29"/>
+		<cosponsor id="300022" joined="2007-03-29"/>
+		<cosponsor id="300067" joined="2007-03-29"/>
+		<cosponsor id="300043" joined="2008-04-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1175140800" datetime="2007-03-29"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S4217"/></action>
+		<calendar date="1179374400" datetime="2007-05-17" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1179374400" datetime="2007-05-17"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="155" date="1179374400" datetime="2007-05-17" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 155.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/17/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Recognizes the accomplishments and example of Cesar Estrada Chavez, pledges to promote his legacy, and encourages the people of the United States to commemorate his legacy and to always remember his rallying cry, &quot;Si, se puede!&quot;<br/>
+	</summary>
+</bill>

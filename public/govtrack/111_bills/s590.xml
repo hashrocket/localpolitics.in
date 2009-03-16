@@ -1,0 +1,31 @@
+<bill session="111" type="s" number="590" updated="2009-03-13T12:01:58-04:00">
+	<status><introduced date="1236830400" datetime="2009-03-12"/></status>
+
+	<introduced date="1236830400" datetime="2009-03-12"/>
+	<titles>
+		<title type="official" as="introduced">A bill to assist local communities with closed and active military bases, and for other purposes.</title>
+	</titles>
+	<sponsor id="300091"/>
+	<cosponsors>
+		<cosponsor id="300080" joined="2009-03-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1236830400" datetime="2009-03-12"><text>Sponsor introductory remarks on measure. (CR S3082-3083)</text></action>
+		<action date="1236830400" datetime="2009-03-12"><text>Read twice and referred to the Committee on Armed Services.</text><reference label="text of measure as introduced" ref="CR S3083-3084"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

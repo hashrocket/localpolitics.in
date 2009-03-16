@@ -1,0 +1,32 @@
+<bill session="111" type="h" number="617" updated="2009-03-07T11:00:08-05:00">
+	<status><introduced date="1232514000" datetime="2009-01-21"/></status>
+
+	<introduced date="1232514000" datetime="2009-01-21"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to eliminate the taxable income limit on percentage depletion for oil and natural gas produced from marginal properties.</title>
+	</titles>
+	<sponsor id="400645"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1232514000" datetime="2009-01-21"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="289" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax deductions"/>
+		<term name="Oil and gas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/2009--Introduced.<br/>Amends the Internal Revenue Code to make permanent the suspension of the taxable income limitation on percentage depletion for oil and natural gas produced from marginal properties. 
+	</summary>
+</bill>

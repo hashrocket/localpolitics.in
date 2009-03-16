@@ -1,0 +1,35 @@
+<bill session="111" type="hc" number="43" updated="2009-03-07T09:30:03-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of Congress that Arthur Schomburg should be recognized for his leadership and contributions in documenting, recording, and researching the historical contributions to society of peoples of African descent and for his efforts to combat racial and ethnic discrimination in the United States.</title>
+	</titles>
+	<sponsor id="400333"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the House Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Art, artists, authorship"/>
+		<term name="Congressional tributes"/>
+		<term name="Ethnic studies"/>
+		<term name="Historical and cultural resources"/>
+		<term name="Racial and ethnic relations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

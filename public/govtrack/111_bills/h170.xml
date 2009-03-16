@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="170" updated="2009-03-07T10:07:50-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Dominguez-Escalante National Conservation Area and Dominguez Canyon Wilderness Area Act</title>
+		<title type="official" as="introduced">To establish the Dominguez-Escalante National Conservation Area and the Dominguez Canyon Wilderness Area.</title>
+	</titles>
+	<sponsor id="400620"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="183" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Advisory bodies"/>
+		<term name="Colorado"/>
+		<term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Dominguez-Escalante National Conservation Area and Dominguez Canyon Wilderness Area Act - Establishes the Dominguez-Escalante National Conservation Area in Colorado to conserve and protect the unique and nationally important values of certain public land in Mesa, Montrose, and Delta Counties and the water resources of area streams that are necessary to support aquatic, riparian, and terrestrial species and communities. Directs the Secretary of the Interior to: (1) develop a comprehensive management plan for the long-range protection and management of the Conservation Area; and (2) establish the Dominguez-Escalante National Conservation Area Advisory Council to advise the Secretary on the preparation and implementation of the management plan.<br/>Designates certain lands in Mesa, Montrose, and Delta Counties as wilderness and as a component of the National Wilderness Preservation System, to be known as the Dominguez Canyon Wilderness Area. 
+	</summary>
+</bill>

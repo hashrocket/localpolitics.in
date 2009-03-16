@@ -1,0 +1,68 @@
+<bill session="110" type="h" number="3403" updated="2009-01-08T23:59:50-05:00">
+	<status><enacted date="1216785600" datetime="2008-07-23" /></status>
+
+	<introduced date="1186113600" datetime="2007-08-03"/>
+	<titles>
+		<title type="short" as="introduced">911 Modernization and Public Safety Act of 2007</title>
+		<title type="short" as="reported to house">911 Modernization and Public Safety Act of 2007</title>
+		<title type="short" as="passed house">911 Modernization and Public Safety Act of 2007</title>
+		<title type="short" as="passed senate">NET 911 Improvement Act of 2008</title>
+		<title type="short" as="passed senate">New and Emerging Technologies 911 Improvement Act of 2008</title>
+		<title type="short" as="enacted">NET 911 Improvement Act of 2008</title>
+		<title type="short" as="enacted">New and Emerging Technologies 911 Improvement Act of 2008</title>
+		<title type="official" as="introduced">To promote and enhance public safety by facilitating the rapid deployment of IP-enabled 911 and E-911 services, encouraging the nation's transition to a national IP-enabled emergency network and improve 911 and E-911 access to those with disabilities.</title>
+		<title type="official" as="amended by house">A bill to promote and enhance public safety by facilitating the rapid deployment of IP-enabled 911 and E-911 services, encourage the Nation's transition to a national IP-enabled emergency network, and improve 911 and E-911 access to those with disabilities.</title>
+	</titles>
+	<sponsor id="400155"/>
+	<cosponsors>
+		<cosponsor id="400124" joined="2007-09-04"/>
+		<cosponsor id="400373" joined="2007-09-04"/>
+		<cosponsor id="400319" joined="2007-09-04"/>
+		<cosponsor id="400062" joined="2007-10-10"/>
+		<cosponsor id="400067" joined="2007-10-10"/>
+		<cosponsor id="400429" joined="2007-10-30"/>
+	</cosponsors>
+	<actions>
+		<action date="1186113600" datetime="2007-08-03"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1186200000" datetime="2007-08-04"><text>Referred to the Subcommittee on Telecommunications and the Internet.</text></action>
+		<action date="1190174400" datetime="2007-09-19"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1191988800" datetime="2007-10-10"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1191988800" datetime="2007-10-10"><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action date="1193716800" datetime="2007-10-30"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1193716800" datetime="2007-10-30" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1194977220" datetime="2007-11-13T14:07:00-05:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-442.</text></action>
+		<calendar number="273" date="1194977220" datetime="2007-11-13T14:07:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 273.</text></calendar>
+		<action date="1194979320" datetime="2007-11-13T14:42:00-05:00"><text>Mr. Markey moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1194979320" datetime="2007-11-13T14:42:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H13554-13557"/></action>
+		<action date="1194979320" datetime="2007-11-13T14:42:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3403.</text></action>
+		<action date="1194979320" datetime="2007-11-13T14:42:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1194996360" datetime="2007-11-13T19:26:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H13824"/></action>
+		<vote date="1194996360" how="roll" roll="1084" datetime="2007-11-13T19:26:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 1 (Roll no. 1084).</text><reference label="text" ref="CR H13554-13555"/></vote>
+		<action date="1195016400" datetime="2007-11-14"><text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+		<action date="1213588800" datetime="2008-06-16"><text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text></action>
+		<action date="1213588800" datetime="2008-06-16"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S5665"/></action>
+		<vote date="1213588800" how="by Unanimous Consent" datetime="2008-06-16" where="s" type="vote2" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action date="1213675200" datetime="2008-06-17"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1214250840" datetime="2008-06-23T16:54:00-04:00"><text>Mr. Gordon moved that the House agree to the Senate amendment.</text><reference label="consideration" ref="CR H5826-5828"/></action>
+		<action date="1214250840" datetime="2008-06-23T16:54:00-04:00"><text>On motion that the House agree to the Senate amendment Agreed to without objection.</text><reference label="text as House agreed to Senate amendment" ref="CR H5826-5828"/></action>
+		<topresident date="1214193600" datetime="2008-06-23" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1216094400" datetime="2008-07-15" ><text>Presented to President.</text></topresident>
+		<signed date="1216785600" datetime="2008-07-23" ><text>Signed by President.</text></signed>
+		<enacted number="110-283" date="1216785600" datetime="2008-07-23" type="public" ><text>Became Public Law No: 110-283.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/23/2008--Public Law. (This measure has not been amended since it was passed by the Senate on June 16, 2008. The summary of that version is repeated here.) New and Emerging Technologies 911 Improvement Act of 2008 or the NET 911 Improvement Act of 2008 - Title I: Services and IP-Enabled Voice Service Providers - (Sec. 101) Amends the IP-Enabled Voice Communications and Public Safety Act of 1999 to require IP-enabled voice service providers to provide 9-1-1 service, including enhanced 9-1-1 service, to their subscribers. Grants such providers, in meeting that requirement, the same rights, including rights of interconnection, on the same rates, terms, and conditions, as are provided to a provider of commercial mobile service. Allows a state or tribal fee for 9-1-1 or enhanced 9-1-1 services, provided it is used only for such services or related enhancements and provided that, for each class of IP-enabled voice services subscribers, the fee does not exceed the fee for the same class of subscribers to telecommunications services. Requires an annual report to the Committee on Commerce, Science and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives detailing the status in each state of the collection and distribution of such fees. Authorizes the Federal Communications Commission (FCC) to compile a list of public safety answering point (PSAP) contact information and other information concerning 911 elements to assist IP-enabled voice service providers in complying with requirements imposed by this Act, and to make any portion of the information available to telecommunications carriers, wireless carriers, IP-enabled voice service providers, or other emergency service providers to improve public safety. Requires the FCC to work cooperatively with public safety organizations, industry participants, and the E-911 Implementation Coordination Office to develop best practices that promote consistency, where appropriate, including procedures for defining PSAP geographic coverage areas, defining network diversity requirements for delivery of IP-enabled 9-1-1 and enhanced 9-1-1 calls, call-handling in the event of call overflow or network outages, PSAP certification and testing requirements, database validation, and the format for delivering address information to PSAPs. (Sec. 102) Amends the National Telecommunications and Information Administration Organization Act to require grants for migration to an IP-enabled emergency network. Requires the E-911 Implementation Coordination Office to develop a national plan for migrating to a national IP-enabled emergency network. Title II: Parity of Protection - (Sec. 201) Amends the Wireless Communications and Public Safety Act of 1999 to require, for IP-enabled voice service carriers, IP-enabled voice users of 911 communications, and public safety answering points (facilities designated to receive 911 calls and route them to emergency personnel) (PSAPs), parity in liability protection with local exchange companies, non-wireless 911 service users, and non-wireless PSAPs, respectively. Title III: Authority to Provide Customer Information for 911 Purposes - (Sec. 301) Amends the Communications Act of 1934 to authorize a telecommunications carrier to use, disclose, or permit access to call location information in emergencies. Requires IP-enabled voice service providers to provide subscriber list information to emergency service providers. 
+	</summary>
+</bill>

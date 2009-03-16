@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="90" updated="2009-03-07T09:58:17-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Public Official Accountability Act</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, to provide increased imprisonment for certain offenses by public officials.</title>
+	</titles>
+	<sponsor id="400065"/>
+	<cosponsors>
+		<cosponsor id="412298" joined="2009-03-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Crimes against property"/>
+		<term name="Criminal procedure and sentencing"/>
+		<term name="Fraud offenses"/>
+		<term name="Government ethics and transparency, public corruption"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Public Official Accountability Act - Amends the federal criminal code to provide for a two-year increase in the prison sentence of public officials convicted of any crime: (1) committed during the course of official duty and intended to enrich such officials; and (2) involving bribery, fraud, extortion, or theft of public funds greater than $10,000.<br/>
+	</summary>
+</bill>

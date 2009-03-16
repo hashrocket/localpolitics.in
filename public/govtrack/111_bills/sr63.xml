@@ -1,0 +1,36 @@
+<bill session="111" type="sr" number="63" updated="2009-03-07T14:45:43-05:00">
+	<status><introduced date="1236142800" datetime="2009-03-04"/></status>
+
+	<introduced date="1236142800" datetime="2009-03-04"/>
+	<titles>
+		<title type="official" as="introduced">A resolution to amend the Standing Rules of the Senate to ensure that all congressionally directed spending items in appropriations and authorization legislation fall under the oversight and transparency provisions of S. 1, the Honest Leadership and Open Government Act of 2007.</title>
+	</titles>
+	<sponsor id="412243"/>
+	<cosponsors>
+		<cosponsor id="400412" joined="2009-03-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1236142800" datetime="2009-03-04"><text>Sponsor introductory remarks on measure. (CR S2773-2774)</text></action>
+		<action date="1236142800" datetime="2009-03-04"><text>Referred to the Committee on Rules and Administration.</text><reference label="text of measure as introduced" ref="CR S2773"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Rules and Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Appropriations"/>
+		<term name="Congressional committees"/>
+		<term name="Government information and archives"/>
+		<term name="Legislative rules and procedure"/>
+		<term name="Senate"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

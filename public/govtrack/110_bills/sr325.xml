@@ -1,0 +1,36 @@
+<bill session="110" type="sr" number="325" updated="2009-01-09T20:38:34-05:00">
+	<status><vote date="1190692800" datetime="2007-09-25" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1190347200" datetime="2007-09-21"/>
+	<titles>
+		<title type="official" as="introduced">A resolution supporting efforts to increase childhood cancer awareness, treatment, and research.</title>
+	</titles>
+	<sponsor id="400194"/>
+	<cosponsors>
+		<cosponsor id="300098" joined="2007-09-21"/>
+		<cosponsor id="400619" joined="2007-09-21"/>
+		<cosponsor id="300023" joined="2007-09-21"/>
+		<cosponsor id="300054" joined="2007-09-24"/>
+		<cosponsor id="300021" joined="2007-09-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1190347200" datetime="2007-09-21"><text>Referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S11954"/></action>
+		<action date="1190692800" datetime="2007-09-25"><text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S12075-12076"/></action>
+		<vote date="1190692800" how="by Unanimous Consent" datetime="2007-09-25" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text as passed Senate" ref="CR S12076"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/25/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Calls for Congress to support: (1) efforts to promote awareness about the incidence, symptoms, and treatment options of cancer among children; (2) increased investment in childhood cancer research; (3) incentives to encourage medical trainees and investigators to enter the field of pediatric oncology; (4) incentives to encourage the development of drugs and biologics designed to treat pediatric cancers; (5) policies that encourage participation in clinical trials; (6) medical education curricula designed to improve pain management for cancer patients; (7) enhanced education, services, and other resources related to late effects from treatment; and (8) grassroots efforts to promote awareness and support research for cures for childhood cancer.<br/>
+	</summary>
+</bill>

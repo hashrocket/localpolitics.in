@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="42" updated="2009-03-07T09:52:43-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Commission on Wartime Relocation and Internment of Latin Americans of Japanese Descent Act</title>
+		<title type="official" as="introduced">To establish a fact-finding Commission to extend the study of a prior Commission to investigate and determine facts and circumstances surrounding the relocation, internment, and deportation to Axis countries of Latin Americans of Japanese descent from December 1941 through February 1948, and the impact of those actions by the United States, and to recommend appropriate remedies, and for other purposes.</title>
+	</titles>
+	<sponsor id="400021"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR E17)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="69" />
+	</relatedbills>
+	<subjects>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Advisory bodies"/>
+		<term name="Conflicts and wars"/>
+		<term name="Government investigations"/>
+		<term name="Government liability"/>
+		<term name="Human rights"/>
+		<term name="Immigration status and procedures"/>
+		<term name="Latin America"/>
+		<term name="Racial and ethnic relations"/>
+		<term name="U.S. history"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Commission on Wartime Relocation and Internment of Latin Americans of Japanese Descent Act - Establishes the Commission on Wartime Relocation and Internment of Latin Americans of Japanese descent. Directs the Commission to: (1) extend the study of the Commission on Wartime Relocation and Internment of Civilians to investigate U.S. relocation, internment, and (in some cases) deportation to Axis countries of Latin Americans of Japanese descent held in U.S. custody from December 1941 through February 1948; and (2) recommend appropriate remedies to Congress based on preliminary findings by the original Commission and new discoveries. Terminates the Commission 90 days after submission of its report to Congress (as required by this Act).<br/>
+	</summary>
+</bill>

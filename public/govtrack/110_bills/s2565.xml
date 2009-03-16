@@ -1,0 +1,60 @@
+<bill session="110" type="s" number="2565" updated="2009-01-09T17:12:20-05:00">
+	<status><enacted date="1217476800" datetime="2008-07-31" /></status>
+
+	<introduced date="1201582800" datetime="2008-01-29"/>
+	<titles>
+		<title type="short" as="introduced">Federal Law Enforcement Congressional Badge of Bravery Act of 2007</title>
+		<title type="short" as="reported to senate">Law Enforcement Congressional Badge of Bravery Act of 2008</title>
+		<title type="short" as="passed senate">Law Enforcement Congressional Badge of Bravery Act of 2008</title>
+		<title type="short" as="enacted">Law Enforcement Congressional Badge of Bravery Act of 2008</title>
+		<title type="official" as="introduced">A bill to establish an awards mechanism to honor exceptional acts of bravery in the line of duty by Federal law enforcement officers.</title>
+		<title type="official" as="amended by senate">A bill to establish an awards mechanism to honor exceptional acts of bravery in the line of duty by Federal, State, and Local law enforcement officers.</title>
+	</titles>
+	<sponsor id="300008"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="2008-05-08"/>
+		<cosponsor id="300065" joined="2008-02-04"/>
+		<cosponsor id="300011" joined="2008-06-25"/>
+		<cosponsor id="300060" joined="2008-02-04"/>
+		<cosponsor id="300087" joined="2008-05-21"/>
+		<cosponsor id="300092" joined="2008-01-29"/>
+		<cosponsor id="300035" joined="2008-03-06"/>
+		<cosponsor id="300075" joined="2008-03-03"/>
+		<cosponsor id="300095" joined="2008-01-29"/>
+		<cosponsor id="300043" joined="2008-05-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1201582800" datetime="2008-01-29"><text>Sponsor introductory remarks on measure. (CR S447-448)</text></action>
+		<action date="1201582800" datetime="2008-01-29"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+		<calendar date="1210824000" datetime="2008-05-15" ><text>Committee on the Judiciary. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action date="1214280000" datetime="2008-06-24"><text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute and an amendment to the title. Without written report.</text></action>
+		<calendar under="General Orders" number="833" date="1214280000" datetime="2008-06-24" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 833.</text></calendar>
+		<vote date="1214452800" how="by Unanimous Consent" datetime="2008-06-26" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.</text><reference label="consideration" ref="CR S6300-6302"/><reference label="text as passed Senate" ref="CR S6300-6302"/></vote>
+		<action date="1214539200" datetime="2008-06-27"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1215536640" datetime="2008-07-08T14:04:00-04:00"><text>Received in the House.</text></action>
+		<action date="1215543720" datetime="2008-07-08T16:02:00-04:00"><text>Held at the desk.</text></action>
+		<action date="1216746360" datetime="2008-07-22T14:06:00-04:00"><text>Mr. Scott (VA) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1216746360" datetime="2008-07-22T14:06:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6736-6740"/></action>
+		<action date="1216746360" datetime="2008-07-22T14:06:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 2565.</text></action>
+		<vote date="1216746600" how="by voice vote" datetime="2008-07-22T14:10:00-04:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H6736-6739"/></vote>
+		<topresident date="1216699200" datetime="2008-07-22" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1216958400" datetime="2008-07-25" ><text>Presented to President.</text></topresident>
+		<signed date="1217476800" datetime="2008-07-31" ><text>Signed by President.</text></signed>
+		<enacted number="110-298" date="1217476800" datetime="2008-07-31" type="public" ><text>Became Public Law No: 110-298.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/31/2008--Public Law. (This measure has not been amended since it was reported to the Senate on June 24, 2008. The summary of that version is repeated here.)<br/>Law Enforcement Congressional Badge of Bravery Act of 2008 - Title I: Federal Law Enforcement Congressional Badge of Bravery - Authorizes the Attorney General to award a Federal Law Enforcement Congressional Badge of Bravery to a federal law enforcement officer who is cited by the Attorney General for performing an act of bravery while in the line of duty. Sets forth criteria for nominating a law enforcement officer for such Badge. Requires nominated officers to have: (1) sustained a physical injury while engaged in lawful duties and performing an act of bravery that put such officer at personal risk; or (2) performed an act of bravery that placed such officer at risk of serious physical injury or death.<br/>Establishes within the Department of Justice (DOJ) a Federal Law Enforcement Congressional Badge of Bravery Board to: (1) design such Badge; (2) select an engraver to produce such Badges; and (3) recommend recipients. Sets forth administrative provisions relating to the Board, including its membership, operations, and powers.<br/>Authorizes a Member of Congress to make a presentation of such a Badge to a federal law enforcement officer residing in such Member's congressional district. Directs the Attorney General to make such presentation otherwise.<br/>Title II: State And Local Law Enforcement Congressional Badge of Bravery - Authorizes the Attorney General to award a State and Local Law Enforcement Congressional Badge of Bravery to a state or local law enforcement officer who is cited by the Attorney General for performing an act of bravery while in the line of duty. Establishes a State and Local Law Enforcement Congressional Badge of Bravery Board within DOJ to design such Badge, select an engraver, and recommend recipients, who may be presented their Badge by their Member of Congress.<br/>Title III: Congressional Badge of Bravery Office - Establishes in DOJ a Congressional Badge of Bravery Office to receive nominations for such Badges and to provide staff support to the Boards.<br/>
+	</summary>
+</bill>

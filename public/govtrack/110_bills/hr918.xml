@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="918" updated="2009-01-09T09:46:32-05:00">
+	<status><vote date="1200543120" datetime="2008-01-16T12:12:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1200373200" datetime="2008-01-15"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 2768) to establish improved mandatory standards to protect miners during emergencies, and for other purposes.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1200443040" datetime="2008-01-15T20:24:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-508, by Ms. Slaughter.</text></action>
+		<action date="1200443040" datetime="2008-01-15T20:24:00-05:00"><text>All points of order against consideration of the bill are waived except those arising under clause 9 or 10 or rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Education and Labor.</text></action>
+		<calendar date="1200443040" datetime="2008-01-15T20:24:00-05:00" ><text>Placed on the House Calendar, Calendar No. 177.</text></calendar>
+		<action date="1200496800" datetime="2008-01-16T11:20:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H39-44"/></action>
+		<action date="1200497160" datetime="2008-01-16T11:26:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 918.</text></action>
+		<action date="1200543120" datetime="2008-01-16T12:12:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 222 - 191 (Roll no. 2).</text><reference label="consideration" ref="CR H43-44"/></action>
+		<vote date="1200543120" how="by voice vote" datetime="2008-01-16T12:12:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H39-40"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/16/2008--Passed House without amendment. Sets forth the rule for consideration of H.R. 2768 (Supplemental Mine Improvement and New Emergency Response Act of 2007, or the S-MINER Act).<br/>
+	</summary>
+</bill>

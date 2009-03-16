@@ -1,0 +1,61 @@
+<bill session="110" type="hr" number="1323" updated="2009-01-09T10:39:03-05:00">
+	<status><vote date="1216150860" datetime="2008-07-15T16:41:00-04:00" where="h" result="pass" how="roll" roll="490"/></status>
+
+	<introduced date="1215489600" datetime="2008-07-08"/>
+	<titles>
+		<title type="official" as="introduced">Commending the Arizona State University softball team for their victory in the 2008 Women's College World Series.</title>
+	</titles>
+	<sponsor id="412187"/>
+	<cosponsors>
+		<cosponsor id="412229" joined="2008-07-10"/>
+		<cosponsor id="400177" joined="2008-07-10"/>
+		<cosponsor id="400134" joined="2008-07-10"/>
+		<cosponsor id="400080" joined="2008-07-09"/>
+		<cosponsor id="400162" joined="2008-07-09"/>
+		<cosponsor id="400336" joined="2008-07-10"/>
+		<cosponsor id="412225" joined="2008-07-09"/>
+		<cosponsor id="412210" joined="2008-07-10"/>
+		<cosponsor id="400124" joined="2008-07-10"/>
+		<cosponsor id="400409" joined="2008-07-09"/>
+		<cosponsor id="400101" joined="2008-07-10"/>
+		<cosponsor id="400384" joined="2008-07-10"/>
+		<cosponsor id="412208" joined="2008-07-10"/>
+		<cosponsor id="400437" joined="2008-07-10"/>
+		<cosponsor id="400347" joined="2008-07-10"/>
+		<cosponsor id="412205" joined="2008-07-10"/>
+		<cosponsor id="400631" joined="2008-07-10"/>
+		<cosponsor id="400013" joined="2008-07-10"/>
+		<cosponsor id="400368" joined="2008-07-10"/>
+		<cosponsor id="400255" joined="2008-07-09"/>
+		<cosponsor id="412200" joined="2008-07-10"/>
+		<cosponsor id="412186" joined="2008-07-10"/>
+		<cosponsor id="400185" joined="2008-07-09"/>
+		<cosponsor id="400310" joined="2008-07-09"/>
+		<cosponsor id="400062" joined="2008-07-10"/>
+		<cosponsor id="400278" joined="2008-07-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1215489600" datetime="2008-07-08"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1216133880" datetime="2008-07-15T11:58:00-04:00"><text>Mr. Bishop (NY) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1216133880" datetime="2008-07-15T11:58:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6496-6498"/></action>
+		<action date="1216133880" datetime="2008-07-15T11:58:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1323.</text></action>
+		<action date="1216177980" datetime="2008-07-15T12:13:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1216150260" datetime="2008-07-15T16:31:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6532-6533"/></action>
+		<vote date="1216150860" how="roll" roll="490" datetime="2008-07-15T16:41:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 490).</text><reference label="text" ref="CR H6496"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/15/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Commends the Arizona State University softball team for winning the 2008 Women's College World Series.<br/>
+	</summary>
+</bill>

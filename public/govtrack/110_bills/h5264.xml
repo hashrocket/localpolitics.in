@@ -1,0 +1,53 @@
+<bill session="110" type="h" number="5264" updated="2009-01-09T03:50:00-05:00">
+	<status><enacted date="1204261200" datetime="2008-02-29" /></status>
+
+	<introduced date="1202360400" datetime="2008-02-07"/>
+	<titles>
+		<title type="short" as="introduced">Trade Preference Extension Act of 2008</title>
+		<title type="short" as="reported to house">Andean Trade Preference Extension Act of 2008</title>
+		<title type="short" as="passed house">Andean Trade Preference Extension Act of 2008</title>
+		<title type="short" as="passed senate">Andean Trade Preference Extension Act of 2008</title>
+		<title type="short" as="enacted">Andean Trade Preference Extension Act of 2008</title>
+		<title type="official" as="introduced">To extend certain trade preference programs, and for other purposes.</title>
+		<title type="official" as="amended by house">To extend the Andean Trade Preference Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="400333"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1202360400" datetime="2008-02-07"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action date="1202792400" datetime="2008-02-12"><text>Sponsor introductory remarks on measure. (CR E165)</text></action>
+		<action date="1202965200" datetime="2008-02-14"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1202965200" datetime="2008-02-14" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1203979320" datetime="2008-02-25T18:42:00-05:00"><text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-529.</text></action>
+		<calendar number="321" date="1203979320" datetime="2008-02-25T18:42:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 321.</text></calendar>
+		<action date="1204144260" datetime="2008-02-27T16:31:00-05:00"><text>Mr. Levin moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1204144320" datetime="2008-02-27T16:32:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1131-1137"/></action>
+		<action date="1204144320" datetime="2008-02-27T16:32:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5264.</text></action>
+		<vote date="1204146600" how="by voice vote" datetime="2008-02-27T17:10:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H1131"/></vote>
+		<action date="1204146600" datetime="2008-02-27T17:10:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1204088400" datetime="2008-02-27"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1204174800" how="by Unanimous Consent" datetime="2008-02-28" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S1388-1390"/></vote>
+		<action date="1204174800" datetime="2008-02-28"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1204174800" datetime="2008-02-28" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1204174800" datetime="2008-02-28" ><text>Presented to President.</text></topresident>
+		<signed date="1204261200" datetime="2008-02-29" ><text>Signed by President.</text></signed>
+		<enacted number="110-191" date="1204261200" datetime="2008-02-29" type="public" ><text>Became Public Law No: 110-191.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/29/2008--Public Law. (This measure has not been amended since it was passed by the House on February 27, 2008. The summary of that version is repeated here.)<br/>Andean Trade Preference Extension Act of 2008 - Amends the Andean Trade Preference Act (ATPA), as amended and expanded by Andean Trade Promotion and Drug Eradication Act (ATPDEA), to extend, through December 31, 2008, the ATPA program providing for the duty-free treatment of certain imported apparel articles assembled in one or more ATPDEA beneficiary countries (Bolivia, Colombia, Ecuador, and Peru).<br/>Amends the Consolidated Omnibus Budget Reconciliation Act of 1985 to extend certain customs fees for the processing of merchandise entered into the United States through December 27, 2014.<br/>Amends the Tax Increase Prevention and Reconciliation Act of 2005 to increase the amount in effect on the date of enactment of this Act of any corporate estimated tax installment otherwise due by a corporation with assets of not less than $1 billion in July, August, or September 2013 by 0.25% of such amount.<br/>
+	</summary>
+</bill>

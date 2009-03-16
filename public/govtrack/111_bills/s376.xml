@@ -1,0 +1,41 @@
+<bill session="111" type="s" number="376" updated="2009-03-07T14:18:16-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Real Estate Mortgage Investment Conduit Improvement Act of 2009</title>
+		<title type="official" as="introduced">A bill to provide rules for the modification or disposition of certain assets by real estate mortgage investment conduits pursuant to division A of the Emergency Economic Stabilization Act of 2008, and for other purposes.</title>
+	</titles>
+	<sponsor id="300081"/>
+	<cosponsors>
+		<cosponsor id="300059" joined="2009-02-04"/>
+		<cosponsor id="300093" joined="2009-02-04"/>
+		<cosponsor id="300060" joined="2009-02-04"/>
+		<cosponsor id="300087" joined="2009-02-04"/>
+		<cosponsor id="300034" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Sponsor introductory remarks on measure. (CR S1543-1544)</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text><reference label="text of measure as introduced" ref="CR S1544"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Housing and community development"/>
+		<term name="Financial crises and failures"/>
+		<term name="Financial services and investments"/>
+		<term name="Housing finance and home ownership"/>
+		<term name="Income tax rates"/>
+		<term name="Real estate business"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

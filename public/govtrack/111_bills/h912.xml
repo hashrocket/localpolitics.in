@@ -1,0 +1,89 @@
+<bill session="111" type="h" number="912" updated="2009-03-07T11:35:38-05:00">
+	<status><vote date="1234211580" datetime="2009-02-09T16:33:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1234155600" datetime="2009-02-09"/>
+	<titles>
+		<title type="short" as="introduced">Airline Flight Crew Technical Corrections Act</title>
+		<title type="official" as="introduced">To amend the Family and Medical Leave Act of 1993 to clarify the eligibility requirements with respect to airline flight crews.</title>
+	</titles>
+	<sponsor id="400031"/>
+	<cosponsors>
+		<cosponsor id="400331" joined="2009-02-09"/>
+		<cosponsor id="412319" joined="2009-02-09"/>
+		<cosponsor id="400219" joined="2009-02-09"/>
+		<cosponsor id="412209" joined="2009-02-09"/>
+		<cosponsor id="400051" joined="2009-02-09"/>
+		<cosponsor id="412276" joined="2009-02-09"/>
+		<cosponsor id="400257" joined="2009-02-09"/>
+		<cosponsor id="412272" joined="2009-02-09"/>
+		<cosponsor id="400001" joined="2009-02-09"/>
+		<cosponsor id="400103" joined="2009-02-09"/>
+		<cosponsor id="412211" joined="2009-02-09"/>
+		<cosponsor id="400263" joined="2009-02-09"/>
+		<cosponsor id="400618" joined="2009-02-09"/>
+		<cosponsor id="400407" joined="2009-02-09"/>
+		<cosponsor id="400436" joined="2009-02-09"/>
+		<cosponsor id="400162" joined="2009-02-09"/>
+		<cosponsor id="400346" joined="2009-02-09"/>
+		<cosponsor id="412240" joined="2009-02-09"/>
+		<cosponsor id="412204" joined="2009-02-09"/>
+		<cosponsor id="400282" joined="2009-02-09"/>
+		<cosponsor id="400251" joined="2009-02-09"/>
+		<cosponsor id="412232" joined="2009-02-09"/>
+		<cosponsor id="400403" joined="2009-02-09"/>
+		<cosponsor id="400360" joined="2009-02-09"/>
+		<cosponsor id="400623" joined="2009-02-09"/>
+		<cosponsor id="400430" joined="2009-02-09"/>
+		<cosponsor id="400638" joined="2009-02-09"/>
+		<cosponsor id="412200" joined="2009-02-09"/>
+		<cosponsor id="400647" joined="2009-02-09"/>
+		<cosponsor id="412215" joined="2009-02-09"/>
+		<cosponsor id="400415" joined="2009-02-09"/>
+		<cosponsor id="400244" joined="2009-02-09"/>
+		<cosponsor id="412186" joined="2009-02-09"/>
+		<cosponsor id="400276" joined="2009-02-09"/>
+		<cosponsor id="412228" joined="2009-02-09"/>
+		<cosponsor id="412212" joined="2009-02-09"/>
+		<cosponsor id="400630" joined="2009-02-09"/>
+		<cosponsor id="400003" joined="2009-02-09"/>
+		<cosponsor id="400260" joined="2009-02-09"/>
+		<cosponsor id="400090" joined="2009-02-09"/>
+		<cosponsor id="400240" joined="2009-02-09"/>
+		<cosponsor id="412219" joined="2009-02-09"/>
+		<cosponsor id="400184" joined="2009-02-09"/>
+		<cosponsor id="400285" joined="2009-02-09"/>
+		<cosponsor id="400152" joined="2009-02-09"/>
+		<cosponsor id="400301" joined="2009-02-09"/>
+		<cosponsor id="400114" joined="2009-02-09"/>
+		<cosponsor id="400437" joined="2009-02-09"/>
+		<cosponsor id="400312" joined="2009-02-09"/>
+		<cosponsor id="412202" joined="2009-02-09"/>
+		<cosponsor id="412279" joined="2009-02-09"/>
+		<cosponsor id="400278" joined="2009-02-09"/>
+		<cosponsor id="400235" joined="2009-02-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1234210740" datetime="2009-02-09T16:19:00-05:00"><text>Mr. Bishop (NY) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1234210800" datetime="2009-02-09T16:20:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1053-1055"/></action>
+		<action date="1234210800" datetime="2009-02-09T16:20:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 912.</text></action>
+		<vote date="1234211580" how="by voice vote" datetime="2009-02-09T16:33:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H1053"/></vote>
+		<action date="1234242000" datetime="2009-02-10"><text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral" />
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

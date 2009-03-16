@@ -1,0 +1,57 @@
+<bill session="110" type="h" number="7311" updated="2009-01-09T07:50:55-05:00">
+	<status><enacted date="1230008400" datetime="2008-12-23" /></status>
+
+	<introduced date="1228798800" datetime="2008-12-09"/>
+	<titles>
+		<title type="short" as="introduced">William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008</title>
+		<title type="short" as="introduced">Child Soldiers Prevention Act of 2008</title>
+		<title type="short" as="passed house">William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008</title>
+		<title type="short" as="passed house">Child Soldiers Prevention Act of 2008</title>
+		<title type="short" as="passed senate">William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008</title>
+		<title type="short" as="passed senate">Child Soldiers Prevention Act of 2008</title>
+		<title type="official" as="introduced">To authorize appropriations for fiscal years 2008 through 2011 for the Trafficking Victims Protection Act of 2000, to enhance measures to combat trafficking in persons, and for other purposes.</title>
+	</titles>
+	<sponsor id="400025"/>
+	<cosponsors>
+		<cosponsor id="400364" joined="2008-12-09"/>
+		<cosponsor id="400080" joined="2008-12-09"/>
+		<cosponsor id="400380" joined="2008-12-09"/>
+		<cosponsor id="400344" joined="2008-12-09"/>
+		<cosponsor id="400245" joined="2008-12-09"/>
+		<cosponsor id="400640" joined="2008-12-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1228798800" datetime="2008-12-09"><text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Energy and Commerce, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1228798800" datetime="2008-12-09"><text>Referred to House Foreign Affairs</text></action>
+		<action date="1228798800" datetime="2008-12-09"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1228798800" datetime="2008-12-09"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1228798800" datetime="2008-12-09"><text>Referred to House Judiciary</text></action>
+		<action date="1228944600" datetime="2008-12-10T17:30:00-05:00"><text>Mr. Berman asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1228944600" datetime="2008-12-10T17:30:00-05:00"><text>Committee on Foreign Affairs discharged.</text></action>
+		<action date="1228944600" datetime="2008-12-10T17:30:00-05:00"><text>Committee on Energy and Commerce discharged.</text></action>
+		<action date="1228944600" datetime="2008-12-10T17:30:00-05:00"><text>Committee on Judiciary discharged.</text></action>
+		<action date="1228944600" datetime="2008-12-10T17:30:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10888-10905"/></action>
+		<vote date="1228944600" how="without objection" datetime="2008-12-10T17:30:00-05:00" where="h" type="vote" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H10889-10902"/></vote>
+		<vote date="1228885200" how="by Unanimous Consent" datetime="2008-12-10" where="s" type="vote2" result="pass" ><text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10886-10887"/></vote>
+		<action date="1228885200" datetime="2008-12-10"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1228885200" datetime="2008-12-10" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1229058000" datetime="2008-12-12" ><text>Presented to President.</text></topresident>
+		<signed date="1230008400" datetime="2008-12-23" ><text>Signed by President.</text></signed>
+		<enacted number="110-457" date="1230008400" datetime="2008-12-23" type="public" ><text>Became Public Law No: 110-457.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="111" type="h" number="597" updated="2009-03-07T10:57:46-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Access to Complete Education Act</title>
+		<title type="official" as="introduced">To amend the Elementary and Secondary Education Act of 1965 to provide grants for core curriculum development.</title>
+	</titles>
+	<sponsor id="400436"/>
+	<cosponsors>
+		<cosponsor id="412209" joined="2009-01-15"/>
+		<cosponsor id="412212" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Education and Labor.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Art, artists, authorship"/>
+		<term name="Child health"/>
+		<term name="Community life and organization"/>
+		<term name="Earth sciences and observation"/>
+		<term name="Economic theory"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Health promotion and preventive care"/>
+		<term name="Historical and cultural resources"/>
+		<term name="Language and bilingual programs"/>
+		<term name="Libraries and archives"/>
+		<term name="Museums, exhibitions, cultural centers"/>
+		<term name="Music"/>
+		<term name="Performing arts"/>
+		<term name="Physical fitness and lifestyle"/>
+		<term name="Teaching, teachers, curricula"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Access to Complete Education Act - Amends the Elementary and Secondary Education Act of 1965 to authorize the Secretary of Education to award grants to local educational agencies (LEAs) to promote and strengthen as an integral part of the curriculum one or more of the subjects of music and arts, foreign languages, civics and government, economics, history, geography, and physical education and health. Gives priority to LEAs that have the greatest numbers or percentages of children from families below the poverty line. Requires grantees to coordinate, to the extent practicable, their programs to promote or strengthen education in such subjects with opportunities provided by public or private cultural entities, including museums, education associations, libraries, and theaters.<br/>
+	</summary>
+</bill>

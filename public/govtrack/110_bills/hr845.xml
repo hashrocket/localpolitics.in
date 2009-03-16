@@ -1,0 +1,59 @@
+<bill session="110" type="hr" number="845" updated="2009-01-09T09:37:23-05:00">
+	<status><vote date="1204655280" datetime="2008-03-04T14:28:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1196830800" datetime="2007-12-05"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the 60th anniversary of Everglades National Park.</title>
+	</titles>
+	<sponsor id="400170"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2008-03-04"/>
+		<cosponsor id="400273" joined="2007-12-05"/>
+		<cosponsor id="400623" joined="2007-12-05"/>
+		<cosponsor id="400430" joined="2007-12-05"/>
+		<cosponsor id="412195" joined="2007-12-05"/>
+		<cosponsor id="400344" joined="2007-12-05"/>
+		<cosponsor id="412197" joined="2007-12-05"/>
+		<cosponsor id="412198" joined="2007-12-05"/>
+		<cosponsor id="400212" joined="2007-12-05"/>
+		<cosponsor id="400048" joined="2007-12-05"/>
+		<cosponsor id="400044" joined="2007-12-05"/>
+		<cosponsor id="400270" joined="2007-12-05"/>
+		<cosponsor id="400107" joined="2007-12-05"/>
+		<cosponsor id="400328" joined="2007-12-05"/>
+		<cosponsor id="412196" joined="2007-12-05"/>
+		<cosponsor id="400108" joined="2007-12-05"/>
+		<cosponsor id="400622" joined="2007-12-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1196830800" datetime="2007-12-05"><text>Sponsor introductory remarks on measure. (CR E2503-2504)</text></action>
+		<action date="1196830800" datetime="2007-12-05"><text>Referred to the Committee on Natural Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1196830800" datetime="2007-12-05"><text>Referred to House Natural Resources</text></action>
+		<action date="1196830800" datetime="2007-12-05"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1196917200" datetime="2007-12-06"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1196917200" datetime="2007-12-06"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action date="1200459600" datetime="2008-01-16"><committee name="House Transportation and Infrastructure"/><text>Subcommittee on Water Resources and Environment Discharged.</text></action>
+		<action date="1200459600" datetime="2008-01-16"><committee name="House Transportation and Infrastructure"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1200459600" datetime="2008-01-16" ><committee name="House Transportation and Infrastructure"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1201545720" datetime="2008-01-28T14:42:00-05:00"><text>Reported (Amended) by the Committee on Transportation. H. Rept. 110-516, Part I.</text></action>
+		<action date="1204655160" datetime="2008-03-04T14:26:00-05:00"><text>Mr. Rahall moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1204655160" datetime="2008-03-04T14:26:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1195-1197"/></action>
+		<action date="1204655160" datetime="2008-03-04T14:26:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 845.</text></action>
+		<vote date="1204655280" how="by voice vote" datetime="2008-03-04T14:28:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H1195-1196"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/4/2008--Passed House amended. Recognizes the 60th anniversary of Everglades National Park.<br/>Dedicates the House of Representatives to the success of the Comprehensive Everglades Restoration Plan.<br/>
+	</summary>
+</bill>

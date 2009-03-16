@@ -1,0 +1,126 @@
+<bill session="111" type="h" number="676" updated="2009-03-07T11:07:10-05:00">
+	<status><introduced date="1232946000" datetime="2009-01-26"/></status>
+
+	<introduced date="1232946000" datetime="2009-01-26"/>
+	<titles>
+		<title type="short" as="introduced">United States National Health Care Act or the Expanded and Improved Medicare for All Act</title>
+		<title type="official" as="introduced">To provide for comprehensive health insurance coverage for all United States residents, improved health care delivery, and for other purposes.</title>
+	</titles>
+	<sponsor id="400080"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2009-01-26"/>
+		<cosponsor id="400352" joined="2009-03-05"/>
+		<cosponsor id="400661" joined="2009-02-11"/>
+		<cosponsor id="400133" joined="2009-02-11"/>
+		<cosponsor id="400082" joined="2009-02-03"/>
+		<cosponsor id="412319" joined="2009-01-26"/>
+		<cosponsor id="400416" joined="2009-02-23"/>
+		<cosponsor id="400199" joined="2009-01-26"/>
+		<cosponsor id="400048" joined="2009-03-03"/>
+		<cosponsor id="400227" joined="2009-01-26"/>
+		<cosponsor id="400364" joined="2009-02-23"/>
+		<cosponsor id="400289" joined="2009-01-26"/>
+		<cosponsor id="412199" joined="2009-02-03"/>
+		<cosponsor id="400001" joined="2009-02-11"/>
+		<cosponsor id="412263" joined="2009-01-26"/>
+		<cosponsor id="412211" joined="2009-02-23"/>
+		<cosponsor id="400263" joined="2009-03-03"/>
+		<cosponsor id="400407" joined="2009-01-28"/>
+		<cosponsor id="412308" joined="2009-01-28"/>
+		<cosponsor id="400436" joined="2009-01-26"/>
+		<cosponsor id="400162" joined="2009-01-26"/>
+		<cosponsor id="400237" joined="2009-01-26"/>
+		<cosponsor id="412307" joined="2009-01-26"/>
+		<cosponsor id="400140" joined="2009-01-28"/>
+		<cosponsor id="412221" joined="2009-01-26"/>
+		<cosponsor id="400013" joined="2009-01-26"/>
+		<cosponsor id="400102" joined="2009-01-26"/>
+		<cosponsor id="400653" joined="2009-02-23"/>
+		<cosponsor id="400251" joined="2009-02-23"/>
+		<cosponsor id="400178" joined="2009-01-26"/>
+		<cosponsor id="400122" joined="2009-01-26"/>
+		<cosponsor id="400350" joined="2009-02-23"/>
+		<cosponsor id="400217" joined="2009-01-26"/>
+		<cosponsor id="400360" joined="2009-02-23"/>
+		<cosponsor id="400271" joined="2009-01-26"/>
+		<cosponsor id="400430" joined="2009-02-11"/>
+		<cosponsor id="412239" joined="2009-02-23"/>
+		<cosponsor id="400129" joined="2009-01-26"/>
+		<cosponsor id="400170" joined="2009-02-23"/>
+		<cosponsor id="400211" joined="2009-01-26"/>
+		<cosponsor id="400074" joined="2009-01-26"/>
+		<cosponsor id="412200" joined="2009-02-23"/>
+		<cosponsor id="412215" joined="2009-01-26"/>
+		<cosponsor id="400198" joined="2009-03-05"/>
+		<cosponsor id="400063" joined="2009-02-23"/>
+		<cosponsor id="412236" joined="2009-01-26"/>
+		<cosponsor id="400093" joined="2009-01-26"/>
+		<cosponsor id="400185" joined="2009-02-11"/>
+		<cosponsor id="400423" joined="2009-01-26"/>
+		<cosponsor id="400047" joined="2009-02-11"/>
+		<cosponsor id="400090" joined="2009-02-23"/>
+		<cosponsor id="412299" joined="2009-01-26"/>
+		<cosponsor id="400215" joined="2009-02-23"/>
+		<cosponsor id="400025" joined="2009-01-26"/>
+		<cosponsor id="400301" joined="2009-01-26"/>
+		<cosponsor id="400216" joined="2009-02-23"/>
+		<cosponsor id="400262" joined="2009-01-26"/>
+		<cosponsor id="400130" joined="2009-02-11"/>
+		<cosponsor id="400163" joined="2009-01-26"/>
+		<cosponsor id="400114" joined="2009-01-26"/>
+		<cosponsor id="400030" joined="2009-02-23"/>
+		<cosponsor id="400312" joined="2009-03-03"/>
+		<cosponsor id="400639" joined="2009-02-23"/>
+		<cosponsor id="400402" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to House Ways and Means</text></action>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to House Natural Resources</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Advisory bodies"/>
+		<term name="Appropriations"/>
+		<term name="Comprehensive health care"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Employment and training programs"/>
+		<term name="Employment taxes"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Government investigations"/>
+		<term name="Government trust funds"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Health care quality"/>
+		<term name="Health information and medical records"/>
+		<term name="Health personnel"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Health promotion and preventive care"/>
+		<term name="Income tax rates"/>
+		<term name="Indian social and development programs"/>
+		<term name="Long-term, rehabilitative, and terminal care"/>
+		<term name="Medical ethics"/>
+		<term name="Mental health"/>
+		<term name="Minority health"/>
+		<term name="Prescription drugs"/>
+		<term name="Right of privacy"/>
+		<term name="Sales and excise taxes"/>
+		<term name="Securities"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/2009--Introduced.<br/>United States National Health Care Act or the Expanded and Improved Medicare for All Act - Establishes the United States National Health Care (USNHC) Program to provide all individuals residing in the United States and U.S. territories with free health care that includes all medically necessary care, such as primary care and prevention, prescription drugs, emergency care, long-term care, mental health services, dental services, and vision care.<br/>Prohibits an institution from participating unless it is a public or nonprofit institution. Allows nonprofit health maintenance organizations (HMOs) that deliver care in their own facilities to participate. Gives patients the freedom to choose from participating physicians and institutions. Prohibits a private health insurer from selling health insurance coverage that duplicates the benefits provided under this Act. Allows such insurers to sell benefits that are not medically necessary, such as cosmetic surgery benefits. Sets forth methods to pay institutional providers of care and health professionals for services. Prohibits financial incentives between HMOs and physicians based on utilization. Establishes the USNHC Trust Fund to finance the Program with amounts deposited: (1) from existing sources of government revenues for health care; (2) by increasing personal income taxes on the top 5% income earners; (3) by instituting a progressive excise tax on payroll and self-employment income; and (4) by instituting a small tax on stock and bond transactions. Transfers and appropriates to carry out this Act amounts that would have been appropriated for federal public health care programs, including Medicare, Medicaid, and the State Children's Health Insurance Program. Requires the USNHC Program to give first priority in retraining and job placement and USNHC employment transition benefits to individuals whose jobs are eliminated due to reduced administration. Requires creation of a confidential electronic patient record system.<br/>Establishes a National Board of Universal Quality and Access to provide advice on quality, access, and affordability. Provides for: (1) the eventual integration of the Indian Health Service into the Program; and (2) evaluation of the continued independence of Department of Veterans Affairs (VA) health programs.<br/>
+	</summary>
+</bill>

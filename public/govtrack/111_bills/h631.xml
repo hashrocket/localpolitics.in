@@ -1,0 +1,50 @@
+<bill session="111" type="h" number="631" updated="2009-03-07T11:01:48-05:00">
+	<status><vote date="1234373340" datetime="2009-02-11T13:29:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">Water Use Efficiency and Conservation Research Act</title>
+		<title type="short" as="passed house">Water Use Efficiency and Conservation Research Act</title>
+		<title type="official" as="introduced">To increase research, development, education, and technology transfer activities related to water use efficiency and conservation technologies and practices at the Environmental Protection Agency.</title>
+	</titles>
+	<sponsor id="400255"/>
+	<cosponsors>
+		<cosponsor id="400204" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1234372320" datetime="2009-02-11T13:12:00-05:00"><text>Mr. Gordon (TN) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1234372320" datetime="2009-02-11T13:12:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1188-1191"/></action>
+		<action date="1234372320" datetime="2009-02-11T13:12:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 631.</text></action>
+		<vote date="1234373340" how="by voice vote" datetime="2009-02-11T13:29:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H1188-1189"/></vote>
+		<action date="1234414800" datetime="2009-02-12"><text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Science and Technology" subcommittee="" activity="Referral" />
+		<committee name="Senate Environment and Public Works" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Advanced technology and technological innovations"/>
+		<term name="Environmental technology"/>
+		<term name="Government information and archives"/>
+		<term name="Hydrology and hydrography"/>
+		<term name="Research administration and funding"/>
+		<term name="Research and development"/>
+		<term name="Technology transfer and commercialization"/>
+		<term name="Water quality"/>
+		<term name="Water resources funding"/>
+		<term name="Water storage"/>
+		<term name="Water use and supply"/>
+		<term name="Watersheds"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Water Use Efficiency and Conservation Research Act - Requires the Environmental Protection Agency's (EPA) Assistant Administrator for Research and Development to establish a research and development program to promote water use efficiency and conservation, including: (1) technologies and processes that enable the collection, storage, treatment, and reuse of rainwater, stormwater, and greywater; (2) water storage and distribution systems; and (3) behavioral, social, and economic barriers to achieving greater water use efficiency.<br/>Requires the Assistant Administrator to coordinate the development of a strategic research plan for the water use efficiency and conservation research and development program established by this Act with all other EPA research and development strategic plans.<br/>Requires the Assistant Administrator to: (1) facilitate the adoption of technology and processes to promote water use efficiency and conservation; and (2) collect and disseminate information on technologies and processes to promote water use efficiency and conservation, including information on incentives and impediments to development and commercialization, best practices, and anticipated increases in water use efficiency and conservation resulting from the implementation of specific technologies and processes.<br/>Requires at least four projects under which funding is provided for the incorporation into a building (at least one residential and one commercial building) of the latest water use efficiency and conservation technologies and designs.<br/>Requires biennial reports to Congress on research and development projects initiated under this Act, outreach and communication activities concerning water use efficiency and conservation, and development and implementation of the strategic research plan.<br/>Directs the EPA Administrator to enter into an arrangement with the National Academy of Sciences for completion of a study of &quot;low impact&quot; (mimicking predevelopment hydrology) and &quot;soft path&quot; (using natural capacities of ecosystems) strategies for management of water supply, wastewater, and stormwater.<br/>Authorizes appropriations.<br/>
+	</summary>
+</bill>

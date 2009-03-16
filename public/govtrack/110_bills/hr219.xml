@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="219" updated="2009-01-09T08:20:41-05:00">
+	<status><vote date="1173369360" datetime="2007-03-08T11:56:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1173243600" datetime="2007-03-07"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the resolution (H. Res. 202) providing for the expenses of certain committees of the House of Representatives in the One Hundred Tenth Congress.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1173303300" datetime="2007-03-07T17:35:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-34, by Ms. Slaughter.</text></action>
+		<action date="1173303300" datetime="2007-03-07T17:35:00-05:00"><text>The amendment in the nature of a substitute recommended by the Committee on House Administration now printed in the resolution, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution, shall be considered as adopted.</text></action>
+		<calendar date="1173303300" datetime="2007-03-07T17:35:00-05:00" ><text>Placed on the House Calendar, Calendar No. 22.</text></calendar>
+		<action date="1173364380" datetime="2007-03-08T10:33:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H2309-2316"/></action>
+		<action date="1173364500" datetime="2007-03-08T10:35:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 219.</text></action>
+		<action date="1173369360" datetime="2007-03-08T11:56:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 228 - 195 (Roll no. 127).</text><reference label="consideration" ref="CR H2315-2316"/></action>
+		<vote date="1173369360" how="by voice vote" datetime="2007-03-08T11:56:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H2309"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/8/2007--Passed House without amendment. Sets forth the rule for consideration of H.Res. 202 (House committee funding).<br/>
+	</summary>
+</bill>

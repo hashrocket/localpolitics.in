@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="1139" updated="2009-01-08T19:13:26-05:00">
+	<status><vote date="1181066040" datetime="2007-06-05T14:54:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1171602000" datetime="2007-02-16"/>
+	<titles>
+		<title type="short" as="introduced">Riverside-Corona Feeder Water Supply Act</title>
+		<title type="short" as="passed house">Riverside-Corona Feeder Water Supply Act</title>
+		<title type="short" as="reported to senate">Riverside-Corona Feeder Water Supply Act</title>
+		<title type="official" as="introduced">To authorize the Secretary of the Interior to plan, design and construct facilities to provide water for irrigation, municipal, domestic, and other uses from the Bunker Hill Groundwater Basin, Santa Ana River, California, and for other purposes.</title>
+	</titles>
+	<sponsor id="400057"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2007-03-26"/>
+		<cosponsor id="400196" joined="2007-05-10"/>
+		<cosponsor id="400039" joined="2007-05-03"/>
+		<cosponsor id="400115" joined="2007-03-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1171602000" datetime="2007-02-16"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1172552400" datetime="2007-02-27"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1181065680" datetime="2007-06-05T14:48:00-04:00"><text>Mrs. Christensen moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1181065680" datetime="2007-06-05T14:48:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5940-5941"/></action>
+		<action date="1181065680" datetime="2007-06-05T14:48:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1139.</text></action>
+		<vote date="1181066040" how="by voice vote" datetime="2007-06-05T14:54:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H5940"/></vote>
+		<action date="1181188800" datetime="2007-06-07"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1184644800" datetime="2007-07-17"><text>Star Print ordered on the bill.</text></action>
+		<action date="1204174800" datetime="2008-02-28"><text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held.</text></action>
+		<calendar date="1221105600" datetime="2008-09-11" ><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1221537600" datetime="2008-09-16"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="1015" date="1221537600" datetime="2008-09-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1015.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/16/2008--Reported to Senate amended. Riverside-Corona Feeder Water Supply Act - Authorizes the Secretary of the Interior, in cooperation with the Western Municipal Water District, Riverside County, California, to participate in the planning, design, and construction of the Riverside-Corona Feeder Project.<br/>Limits the federal share of: (1) planning, design, and construction costs to the lesser of 25% of the total cost of the Project or $26 million; and (2) planning studies costs to 50% of the total cost of the studies. Allows the non-federal share of the Project's cost to be provided in cash or in kind. Authorizes appropriations. Prohibits the use of funds provided under this Act for Project operation or maintenance. 
+	</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="290" updated="2009-03-07T10:21:40-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">Unemployment Insurance Modernization Act</title>
+		<title type="official" as="introduced">To provide for special transfers of funds to States to promote certain improvements in State unemployment compensation laws.</title>
+	</titles>
+	<sponsor id="400262"/>
+	<cosponsors>
+		<cosponsor id="400387" joined="2009-01-21"/>
+		<cosponsor id="412239" joined="2009-01-21"/>
+		<cosponsor id="412215" joined="2009-01-21"/>
+		<cosponsor id="400238" joined="2009-01-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="1" />
+		<bill relation="unknown" session="111" type="s" number="350" />
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Employment taxes"/>
+		<term name="Government trust funds"/>
+		<term name="Intergovernmental relations"/>
+		<term name="State and local government operations"/>
+		<term name="Unemployment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Unemployment Insurance Modernization Act - Amends the Social Security Act to require the Secretary of Labor to make unemployment compensation modernization incentive payments in FY2008-FY2011 by certain transfers from the federal unemployment account to the accounts of the states in the Unemployment Trust Fund. Prescribes a formula for determining the maximum allowable incentive payments. Specifies requirements state law must meet for the state to qualify for such a payment. Limits the use of transferred amounts to the payment of cash unemployment benefits to individuals (including for dependents' allowances and for unemployment compensation, exclusive of administrative expenses). Requires the Secretary of the Treasury to reserve specified funds out of the federal unemployment account for such incentive payments.<br/>
+	</summary>
+</bill>

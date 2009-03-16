@@ -1,0 +1,99 @@
+<bill session="110" type="h" number="6384" updated="2009-01-09T06:02:12-05:00">
+	<status><introduced date="1214452800" datetime="2008-06-26"/></status>
+
+	<introduced date="1214452800" datetime="2008-06-26"/>
+	<titles>
+		<title type="short" as="introduced">Americans for American Energy Act of 2008</title>
+		<title type="short" as="introduced">American Energy Independence and Price Reduction Act</title>
+		<title type="short" as="introduced">Coal Liquid Fuel Act</title>
+		<title type="short" as="introduced">Deep Ocean Energy Resources Act of 2008</title>
+		<title type="short" as="introduced">Oil Shale Opportunity Act of 2008</title>
+		<title type="short" as="introduced">Rigs to Reefs Act of 2008</title>
+		<title type="short" as="introduced">Strengthening Americas Science and Technology Education Act</title>
+		<title type="official" as="introduced">To provide a comprehensive plan for greater American energy independence.</title>
+	</titles>
+	<sponsor id="400029"/>
+	<cosponsors>
+		<cosponsor id="400627" joined="2008-07-15"/>
+		<cosponsor id="400059" joined="2008-06-26"/>
+		<cosponsor id="400034" joined="2008-07-15"/>
+		<cosponsor id="412218" joined="2008-06-26" withdrawn="2008-09-15"/>
+		<cosponsor id="400659" joined="2008-06-26"/>
+		<cosponsor id="400414" joined="2008-06-26"/>
+		<cosponsor id="400376" joined="2008-06-26"/>
+		<cosponsor id="400336" joined="2008-06-26"/>
+		<cosponsor id="400317" joined="2008-06-26"/>
+		<cosponsor id="400419" joined="2008-06-26"/>
+		<cosponsor id="400113" joined="2008-06-26"/>
+		<cosponsor id="400151" joined="2008-07-17"/>
+		<cosponsor id="400036" joined="2008-06-26"/>
+		<cosponsor id="400313" joined="2008-06-26"/>
+		<cosponsor id="400297" joined="2008-07-15"/>
+		<cosponsor id="412230" joined="2008-07-17"/>
+		<cosponsor id="412256" joined="2008-07-17"/>
+		<cosponsor id="400176" joined="2008-06-26"/>
+		<cosponsor id="400260" joined="2008-07-17"/>
+		<cosponsor id="400652" joined="2008-07-17"/>
+		<cosponsor id="400433" joined="2008-07-17"/>
+		<cosponsor id="400405" joined="2008-07-15"/>
+		<cosponsor id="400288" joined="2008-06-26"/>
+		<cosponsor id="400427" joined="2008-07-17"/>
+		<cosponsor id="400373" joined="2008-07-30"/>
+		<cosponsor id="400224" joined="2008-07-17"/>
+		<cosponsor id="400206" joined="2008-07-17"/>
+		<cosponsor id="400006" joined="2008-06-26"/>
+		<cosponsor id="400038" joined="2008-07-17"/>
+		<cosponsor id="412235" joined="2008-07-15"/>
+		<cosponsor id="400335" joined="2008-06-26"/>
+		<cosponsor id="400287" joined="2008-06-26"/>
+		<cosponsor id="400320" joined="2008-07-17"/>
+		<cosponsor id="400368" joined="2008-06-26"/>
+		<cosponsor id="412201" joined="2008-06-26"/>
+		<cosponsor id="412010" joined="2008-07-17"/>
+		<cosponsor id="400005" joined="2008-07-17"/>
+		<cosponsor id="400440" joined="2008-06-26"/>
+		<cosponsor id="412213" joined="2008-06-26"/>
+		<cosponsor id="400016" joined="2008-07-17"/>
+		<cosponsor id="400032" joined="2008-06-26"/>
+		<cosponsor id="400141" joined="2008-06-26"/>
+		<cosponsor id="400088" joined="2008-06-26"/>
+		<cosponsor id="400394" joined="2008-06-26"/>
+		<cosponsor id="412191" joined="2008-06-26"/>
+		<cosponsor id="412255" joined="2008-06-26"/>
+		<cosponsor id="400656" joined="2008-07-17"/>
+	</cosponsors>
+	<actions>
+		<action date="1214452800" datetime="2008-06-26"><text>Referred to the Committee on Natural Resources, and in addition to the Committees on the Judiciary, Energy and Commerce, Science and Technology, Ways and Means, Agriculture, Education and Labor, Armed Services, Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1214452800" datetime="2008-06-26"><text>Referred to House Natural Resources</text></action>
+		<action date="1214452800" datetime="2008-06-26"><text>Referred to House Judiciary</text></action>
+		<action date="1214452800" datetime="2008-06-26"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1214452800" datetime="2008-06-26"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Energy and Air Quality.</text></action>
+		<action date="1214452800" datetime="2008-06-26"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Environment and Hazardous Materials.</text></action>
+		<action date="1214452800" datetime="2008-06-26"><text>Referred to House Science and Technology</text></action>
+		<action date="1214452800" datetime="2008-06-26"><text>Referred to House Ways and Means</text></action>
+		<action date="1214452800" datetime="2008-06-26"><text>Referred to House Agriculture</text></action>
+		<action date="1214452800" datetime="2008-06-26"><text>Referred to House Education and Labor</text></action>
+		<action date="1214452800" datetime="2008-06-26"><text>Referred to House Armed Services</text></action>
+		<action date="1214452800" datetime="2008-06-26"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1214452800" datetime="2008-06-26"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1214539200" datetime="2008-06-27"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+		<action date="1215403200" datetime="2008-07-07"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on Energy and Mineral Resources.</text></action>
+		<action date="1216008000" datetime="2008-07-14"><committee name="House Science and Technology"/><text>Referred to the Subcommittee on Energy and Environment.</text></action>
+		<action date="1227070800" datetime="2008-11-19"><committee name="House Agriculture"/><text>Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/26/2008--Introduced.<br/>Americans for American Energy Act of 2008 - Deep Ocean Energy Resources Act of 2008 - Amends the Submerged Lands Act (SLA) regarding delineation of offshore state boundaries with respect to the Outer Continental Shelf Lands Act (OCSLA), as well as related oil and gas mineral rights.<br/>Amends the Outer Continental Shelf Lands Act to allow the Secretary of the Interior (Secretary) to grant outer Continental Shelf (OCS) natural gas leases. Revises provisions concerning oil and gas leases and withdrawals of unleased land.<br/>Provides for federal agency coordination with adjacent states on the construction of pipelines for OCS crude oil, petroleum, or natural gas.<br/>Establishes the Federal Energy Natural Resources Enhancement Program. Declares existing federal prohibitions against spending appropriated funds for leasing and preleasing OCS oil and natural gas to be without force or effect. Prohibits a federal agency from permitting on the federal OCS or in state waters certain activities that are incompatible with: (1) oil or natural gas leasing; and (2) full exploration and production of tracts geologically prospective for oil or natural gas. Renames the Minerals Management Service as the National Ocean Resources and Royalty Service.<br/>Rigs to Reefs Act of 2008 - Requires the Secretary to issue regulations regarding the authorization to use decommissioned offshore oil and gas facilities for artificial reef and scientific research. Amends the Energy Policy Act of 2005 to repeal a requirement regarding conducting comprehensive inventories of OCS oil and natural gas resources. Directs the Secretary to establish OCS regional headquarters in designated locations. Repeals the Gulf of Mexico Energy Security Act of 2006. Removes application fees for the Bureau of Land Management's (BLM) drill permits.<br/>Amends the Internal Revenue Code to set forth provisions concerning: (1) credits and deductions for alternative and nonconventional fuel, the capture of carbon dioxide, energy efficiency and conservation, and renewable energy; (2) extensions of elections to expense certain refineries; and (3) exemptions for electric transmission facilities.<br/>American Energy Independence and Price Reduction Act - Requires the Secretary to establish a competitive oil and gas leasing program that will result in an environmentally sound program for the exploration, development, and production of Alaska's Coastal Plain's oil and gas resources. Amends the Alaska National Interest Lands Conservation Act of 1980 to terminate the prohibition against leasing or other development leading to production of oil and gas from the Arctic National Wildlife Refuge.<br/>Oil Shale Opportunity Act of 2008 - Amends the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2008 to repeal the limitation on the use of funds for implementing a commercial leasing program for oil shale resources on public lands. Amends the Mineral Leasing Act to provide for the treatment of revenues received through an oil shale or tar sands lease.<br/>Amends the Energy Independence and Security Act of 2007 to repeal restrictions on federal agencies procuring alternative or synthetic fuel for mobility-related uses.<br/>Coal Liquid Fuel Act - Sets forth provisions concerning: (1) agreements between the Secretary of Energy and qualifying coal-to-liquid projects; and (2) public auctions of coal-to-liquid fuel put option contracts.<br/>Amends the Nuclear Waste Policy Act of 1982 to revise provisions concerning the recycling and disposal of spent nuclear fuel or high-level radioactive waste.<br/>Establishes the American Energy Trust Fund. Requires the Secretary to implement a program to lease federal lands for the development and operation of commercial photovoltaic and concentration solar power energy systems.<br/>Provides for: (1) the coordination of the authorization of federal crude oil refineries; and (2) the designation of closed military bases for the construction of refineries and the designation of brownfield sites for refinery sites. Amends the Energy Policy Act of 2005 to repeal certain requirements regarding refinery revitalization.<br/>Amends the Clean Air Act to require new source review regulations to provide that routine maintenance and repair do not constitute a modification of an existing source.<br/>Strengthening Americas Science and Technology Education Act - Requires the Secretary to appoint a Stakeholder Committee for Science and Technology Education. Establishes the National Science and Technology Education Center. Sets forth provisions concerning educational programs for technology and nuclear science.<br/>
+	</summary>
+</bill>

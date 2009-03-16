@@ -1,0 +1,36 @@
+<bill session="111" type="hr" number="1" updated="2009-03-07T12:53:15-05:00">
+	<status><vote date="1231266600" datetime="2009-01-06T14:30:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">Electing officers of the House of Representatives.</title>
+	</titles>
+	<sponsor id="400021"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231266360" datetime="2009-01-06T14:26:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H6"/></action>
+		<action date="1231266360" datetime="2009-01-06T14:26:00-05:00"><text>DIVISION OF THE QUESTION - Mr. Pence demanded that the question be divided. Agreed to by unanimous consent.</text></action>
+		<action date="1231266420" datetime="2009-01-06T14:27:00-05:00"><text>On agreeing to the portion of the of the resolution electing the Chaplain. Agreed to by voice vote.</text></action>
+		<action date="1231266540" datetime="2009-01-06T14:29:00-05:00"><text>On agreeing to the remainder of the of the resolution Agreed to by voice vote.</text></action>
+		<vote date="1231266600" how="by voice vote" datetime="2009-01-06T14:30:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H6"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional officers and employees"/>
+		<term name="House of Representatives"/>
+	</subjects>
+	<amendments>
+		<amendment number="h1"/>
+	</amendments>
+	<summary>
+	1/6/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Elects the following officers of the House of Representatives: (1) Lorraine C. Miller as Clerk; (2) Wilson S. Livingood as Sergeant at Arms; (3) Daniel P. Beard as Chief Administrative Officer; and (4) Father Daniel P. Coughlin as Chaplain.<br/>
+	</summary>
+</bill>

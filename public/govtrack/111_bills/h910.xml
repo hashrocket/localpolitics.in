@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="910" updated="2009-03-07T11:35:24-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Judge John S. Unpingco.</title>
+	</titles>
+	<sponsor id="400041"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Sponsor introductory remarks on measure. (CR E215-216)</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1235106000" datetime="2009-02-20"><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Introduced.<br/>Provides for the relief of Judge John S. Unpingco.<br/>
+	</summary>
+</bill>

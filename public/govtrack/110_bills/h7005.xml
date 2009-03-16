@@ -1,0 +1,58 @@
+<bill session="110" type="h" number="7005" updated="2009-01-09T07:14:57-05:00">
+	<status><vote date="1222293480" datetime="2008-09-24T18:58:00-04:00" where="h" result="pass" how="roll" roll="634"/></status>
+
+	<introduced date="1222142400" datetime="2008-09-23"/>
+	<titles>
+		<title type="short" as="introduced">Alternative Minimum Tax Relief Act of 2008</title>
+		<title type="short" as="passed house">Alternative Minimum Tax Relief Act of 2008</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide alternative minimum tax relief for individuals for 2008.</title>
+	</titles>
+	<sponsor id="400333"/>
+	<cosponsors>
+		<cosponsor id="400176" joined="2008-09-23"/>
+		<cosponsor id="400261" joined="2008-09-23"/>
+		<cosponsor id="400262" joined="2008-09-23"/>
+		<cosponsor id="400324" joined="2008-09-23"/>
+		<cosponsor id="400087" joined="2008-09-23"/>
+		<cosponsor id="400270" joined="2008-09-23"/>
+		<cosponsor id="400338" joined="2008-09-23"/>
+		<cosponsor id="400415" joined="2008-09-23"/>
+		<cosponsor id="400291" joined="2008-09-23"/>
+		<cosponsor id="400033" joined="2008-09-23"/>
+		<cosponsor id="400240" joined="2008-09-23"/>
+		<cosponsor id="400046" joined="2008-09-23"/>
+		<cosponsor id="400024" joined="2008-09-23"/>
+		<cosponsor id="400309" joined="2008-09-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1222142400" datetime="2008-09-23"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action date="1222282800" datetime="2008-09-24T16:00:00-04:00"><text>Mr. Neal (MA) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1222282800" datetime="2008-09-24T16:00:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9306-9311"/></action>
+		<action date="1222282800" datetime="2008-09-24T16:00:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 7005.</text></action>
+		<action date="1222284840" datetime="2008-09-24T16:34:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1222291980" datetime="2008-09-24T18:33:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H9364-9365"/></action>
+		<vote date="1222293480" how="roll" roll="634" datetime="2008-09-24T18:58:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 30 (Roll no. 634).</text><reference label="text" ref="CR H9306-9307"/></vote>
+		<action date="1222228800" datetime="2008-09-24"><text>Received in the Senate.</text></action>
+		<action date="1228712400" datetime="2008-12-08"><text>Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar under="General Orders" number="1128" date="1228798800" datetime="2008-12-09" calendar="Senate Legislative" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1128.</text></calendar>
+		<action date="1228885200" datetime="2008-12-10"><text>Motion to proceed to consideration of measure made in Senate.</text><reference label="consideration" ref="CR S10859"/></action>
+		<action date="1228885200" datetime="2008-12-10"><text>Cloture motion on the motion to proceed to the measure presented in Senate.</text><reference label="consideration" ref="CR S10859"/><reference label="text" ref="CR S10859"/></action>
+		<vote-aux date="1228971600" how="roll" roll="215" datetime="2008-12-11" where="s" type="cloture" result="fail" ><text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 52 - 35. Record Vote Number: 215.</text><reference label="consideration" ref="CR S10931"/><reference label="text" ref="CR S10931"/></vote-aux>
+		<action date="1228971600" datetime="2008-12-11"><text>Motion by Senator Reid to reconsider the vote by which cloture on the motion to proceed to the measure (Record Vote No. 215] was not invoked entered in Senate.</text><reference label="consideration" ref="CR S10931"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/24/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Alternative Minimum Tax Relief Act of 2008 - Amends the Internal Revenue Code to extend through 2008 for individual taxpayers: (1) the offset of nonrefundable personal tax credits against regular and alternative minimum tax (AMT) liability; and (2) the increased alternative minimum tax (AMT) exemption amounts.<br/>Increases the alternative minimum tax (AMT) refundable credit amount for individuals who have long-term unused minimum tax credits from prior taxable years. Abates any underpayment of tax attributable to the application of special AMT rules for the treatment of incentive stock options.<br/>
+	</summary>
+</bill>

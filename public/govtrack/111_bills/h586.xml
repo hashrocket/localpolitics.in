@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="586" updated="2009-03-07T10:56:25-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Civil Rights History Project Act of 2009</title>
+		<title type="official" as="introduced">To direct the Librarian of Congress and the Secretary of the Smithsonian Institution to carry out a joint project at the Library of Congress and the National Museum of African American History and Culture to collect video and audio recordings of personal histories and testimonials of individuals who participated in the Civil Rights movement, and for other purposes.</title>
+	</titles>
+	<sponsor id="400257"/>
+	<cosponsors>
+		<cosponsor id="400240" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on House Administration.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="395" />
+	</relatedbills>
+	<subjects>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Congressional agencies"/>
+		<term name="Government information and archives"/>
+		<term name="Historical and cultural resources"/>
+		<term name="Internet and video services"/>
+		<term name="Libraries and archives"/>
+		<term name="Library of Congress"/>
+		<term name="Museums, exhibitions, cultural centers"/>
+		<term name="Racial and ethnic relations"/>
+		<term name="Smithsonian Institution"/>
+		<term name="Sound recording"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Civil Rights History Project Act of 2009 - Requires the Librarian of Congress and the Secretary of the Smithsonian Institution (acting through the Director of the National Museum of African American History and Culture) to establish an oral history project to: (1) collect video and audio recordings of, and visual and written materials relevant to the personal histories of, participants in the Civil Rights movement; and (2) make the collection available for public use through the Library of Congress and the Museum.<br/>
+	</summary>
+</bill>

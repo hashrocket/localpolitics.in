@@ -1,0 +1,34 @@
+<bill session="110" type="hc" number="355" updated="2009-01-08T16:11:56-05:00">
+	<status><vote2 date="1211428800" datetime="2008-05-22" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1211256000" datetime="2008-05-20"/>
+	<titles>
+		<title type="official" as="introduced">Providing for a conditional adjournment of the House of Representatives and a conditional recess or adjournment of the Senate.</title>
+	</titles>
+	<sponsor id="400031"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1211312580" datetime="2008-05-20T16:43:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H4279-4280"/></action>
+		<vote date="1211314140" how="roll" roll="334" datetime="2008-05-20T17:09:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 239 - 175 (Roll no. 334).</text><reference label="text" ref="CR H4279"/></vote>
+		<action date="1211256000" datetime="2008-05-20"><text>Received in the Senate.</text></action>
+		<vote date="1211428800" how="by Unanimous Consent" datetime="2008-05-22" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S4848"/><reference label="text as passed Senate" ref="CR S4848"/></vote>
+		<action date="1211428800" datetime="2008-05-22"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Declares that, when: (1) the House adjourns on the legislative day of Thursday, May 22 or 23, 2008, it stand adjourned until 2 p.m. on Tuesday, June 3, 2008; and (2) the Senate recesses or adjourns on any day from Thursday, May 22, 2008, through Friday, May 30, 2008, it stand recessed or adjourned until noon on Monday, June 2, 2008.<br/>
+	</summary>
+</bill>

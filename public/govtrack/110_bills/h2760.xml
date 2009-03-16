@@ -1,0 +1,41 @@
+<bill session="110" type="h" number="2760" updated="2009-01-08T22:35:27-05:00">
+	<status><vote date="1221570300" datetime="2008-09-16T10:05:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1181880000" datetime="2007-06-15"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Shigeru Yamada.</title>
+	</titles>
+	<sponsor id="400133"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1181880000" datetime="2007-06-15"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1184299200" datetime="2007-07-13"><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+		<action date="1204002000" datetime="2008-02-26"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1204002000" datetime="2008-02-26"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1207108800" datetime="2008-04-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1207108800" datetime="2008-04-02" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1215543120" datetime="2008-07-08T15:52:00-04:00"><text>Reported by the Committee on Judiciary. H. Rept. 110-742.</text></action>
+		<calendar number="2" date="1215543120" datetime="2008-07-08T15:52:00-04:00" calendar="Private" ><text>Placed on the Private Calendar, Calendar No. 2.</text></calendar>
+		<action date="1221570300" datetime="2008-09-16T10:05:00-04:00"><text>Called up from the Private Calendar for consideration.</text></action>
+		<action date="1221570300" datetime="2008-09-16T10:05:00-04:00"><text>Considered from the Private Calendar.</text><reference label="consideration" ref="CR H8137"/></action>
+		<vote date="1221570300" how="by voice vote" datetime="2008-09-16T10:05:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed by voice vote.</text><reference label="text" ref="CR H8137"/></vote>
+		<action date="1221624000" datetime="2008-09-17"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/15/2007--Introduced.<br/>Provides for the relief of Shigeru Yamada.<br/>
+	</summary>
+</bill>

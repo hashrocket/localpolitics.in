@@ -1,0 +1,34 @@
+<bill session="111" type="s" number="545" updated="2009-03-10T12:00:19-04:00">
+	<status><introduced date="1236571200" datetime="2009-03-09"/></status>
+
+	<introduced date="1236571200" datetime="2009-03-09"/>
+	<titles>
+		<title type="official" as="introduced">A bill to develop capacity and infrastructure for mentoring programs.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+		<cosponsor id="300019" joined="2009-03-09"/>
+		<cosponsor id="300092" joined="2009-03-09"/>
+		<cosponsor id="412247" joined="2009-03-09"/>
+		<cosponsor id="300001" joined="2009-03-09"/>
+		<cosponsor id="300091" joined="2009-03-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1236571200" datetime="2009-03-09"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="111" type="s" number="285" updated="2009-03-07T14:07:42-05:00">
+	<status><introduced date="1232514000" datetime="2009-01-21"/></status>
+
+	<introduced date="1232514000" datetime="2009-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide that reimbursements for costs of using passenger automobiles for charitable and other organizations are excluded from gross income, and for other purposes.</title>
+	</titles>
+	<sponsor id="300042"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1232514000" datetime="2009-01-21"><text>Sponsor introductory remarks on measure. (CR S720-721)</text></action>
+		<action date="1232514000" datetime="2009-01-21"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S721"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="590" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Fraud offenses"/>
+		<term name="Income tax exclusion"/>
+		<term name="Motor vehicles"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+		<term name="Tax administration and collection, taxpayers"/>
+		<term name="Tax-exempt organizations"/>
+		<term name="Transportation costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/2009--Introduced.<br/>Amends the Internal Revenue Code to provide that volunteers who use their automobiles for the benefit of a charitable organization may exclude from their gross income reimbursements for their automobile operating expenses at the same level as business employees (i.e., 55 cents per mile in 2009). Increases criminal sanctions and monetary penalties for: (1) underpayments or overpayments of tax due to fraud; (2) attempts to evade or defeat tax; (3) willful failure to file tax returns, supply information, or pay tax; and (4) fraud and false statements.<br/>
+	</summary>
+</bill>

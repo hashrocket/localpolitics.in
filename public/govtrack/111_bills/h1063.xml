@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="1063" updated="2009-03-07T11:53:43-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="official" as="introduced">To repeal a requirement with respect to the procurement and acquisition of alternative fuels.</title>
+	</titles>
+	<sponsor id="400175"/>
+	<cosponsors>
+		<cosponsor id="400060" joined="2009-02-13"/>
+		<cosponsor id="400655" joined="2009-02-13"/>
+		<cosponsor id="400151" joined="2009-02-13"/>
+		<cosponsor id="400036" joined="2009-02-13"/>
+		<cosponsor id="400032" joined="2009-02-13"/>
+		<cosponsor id="400315" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="290" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/13/2009--Introduced.<br/>Amends the Energy Independence and Security Act of 2007 to repeal provisions prohibiting any federal agency from entering into a contract for procurement of an alternative or synthetic fuel for any mobility-related use, other than for research or testing, unless the contract specifies that the lifecycle greenhouse gas emissions associated with the production and combustion of the fuel must be less than or equal to such emissions from the equivalent conventional fuel.<br/>
+	</summary>
+</bill>

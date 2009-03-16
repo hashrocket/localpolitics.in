@@ -1,0 +1,41 @@
+<bill session="110" type="s" number="2041" updated="2009-01-09T16:04:40-05:00">
+	<status><calendar date="1207195200" datetime="2008-04-03" /></status>
+
+	<introduced date="1189569600" datetime="2007-09-12"/>
+	<titles>
+		<title type="short" as="introduced">False Claims Act Correction Act of 2007</title>
+		<title type="short" as="reported to senate">False Claims Act Correction Act of 2008</title>
+		<title type="official" as="introduced">A bill to amend the False Claims Act.</title>
+	</titles>
+	<sponsor id="300048"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2007-09-12"/>
+		<cosponsor id="300038" joined="2007-09-12"/>
+		<cosponsor id="300092" joined="2007-09-12"/>
+		<cosponsor id="412247" joined="2007-09-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1189569600" datetime="2007-09-12"><text>Sponsor introductory remarks on measure. (CR S11506-11507)</text></action>
+		<action date="1189569600" datetime="2007-09-12"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S11508-11509"/></action>
+		<action date="1204088400" datetime="2008-02-27"><text>Committee on the Judiciary. Hearings held. Hearings printed: S.Hrg. 110-412.</text></action>
+		<calendar date="1207195200" datetime="2008-04-03" ><text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1217304000" datetime="2008-07-29"><text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="910" date="1217304000" datetime="2008-07-29" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 910.</text></calendar>
+		<action date="1222315200" datetime="2008-09-25"><text>By Senator Leahy from Committee on the Judiciary filed written report. Report No. 110-507.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/29/2008--Reported to Senate amended. False Claims Act Correction Act of 2008 - (Sec. 2) Amends False Claims Act liability provisions to eliminate the requirement that a false or fraudulent claim for government money or property must be presented to an officer or employee of the U.S. Government (thus creating liability where a false or fraudulent claim is presented to a contractor or grantee of a federal program).<br/>(Sec. 3) Allows the government, under specified circumstances, to move to dismiss from a civil action for false claims a qui tam relator (i.e., whistleblower) that is an employee of the federal government or a family member of a federal employee.<br/>(Sec. 4) Declares that: (1) no claim for a violation of the False Claims Act may be waived or released by any action of any person, except as part of a court approved settlement of a false claim civil action; and (2) nothing in this Act shall be construed to limit the ability of the United States to decline to pursue any claim or to require court approval of a settlement.<br/>Requires the dismissal of a civil action for false claims if substantially the same matters in the action were contained in a criminal proceeding or were disclosed in a news media report or public congressional hearing, report, or investigation.<br/>Expands the authority of a court to reduce an award under the False Claims Act if the court finds that knowledge of the claims in the civil action came primarily from specific information relating to allegations or transactions (other than information provided by the person bringing the action) that the government publicly disclosed or that the government disclosed privately to the person bringing the action in the course of its investigation into potential violations.<br/>(Sec. 5) Includes government contractors or agents under provisions granting relief from retaliatory actions taken against government employees for lawful acts taken to stop false claim violations.<br/>(Sec. 6) Establishes a 10-year limitation period for bringing a civil action under the False Claims Act. Allows the government to intervene in a civil action by filing its own complaint or amending the complaint of an individual who has brought a claim under the Act. Provides that the filing date of any such complaint or amended complaint shall relate back to the filing date of the complaint brought by the person filing the original complaint, for statute of limitation purposes. (Sec. 7) Allows: (1) a designee of the Attorney General to issue a civil investigative demand in an action under the False Claims Act; and (2) the sharing of information obtained by a civil investigative demand with any qui tam relator if the Attorney General or designee determines such sharing to be a necessary part of a False Claim Act investigation. Expands the definition of &quot;official use&quot; to facilitate Department of Justice (DOJ) use and sharing of false claim information.<br/>
+	</summary>
+</bill>

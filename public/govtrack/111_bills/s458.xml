@@ -1,0 +1,35 @@
+<bill session="111" type="s" number="458" updated="2009-03-07T14:27:45-05:00">
+	<status><introduced date="1235451600" datetime="2009-02-24"/></status>
+
+	<introduced date="1235451600" datetime="2009-02-24"/>
+	<titles>
+		<title type="short" as="introduced">False Claims Act Clarification Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the False Claims Act.</title>
+	</titles>
+	<sponsor id="300048"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2009-02-24"/>
+		<cosponsor id="300038" joined="2009-02-24"/>
+		<cosponsor id="300092" joined="2009-02-24"/>
+		<cosponsor id="412247" joined="2009-02-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1235451600" datetime="2009-02-24"><text>Sponsor introductory remarks on measure. (CR S2424-2426)</text></action>
+		<action date="1235451600" datetime="2009-02-24"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S2426-2428"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

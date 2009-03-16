@@ -1,0 +1,33 @@
+<bill session="111" type="hr" number="10" updated="2009-03-07T12:59:11-05:00">
+	<status><vote date="1231274100" datetime="2009-01-06T16:35:00-05:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">Fixing the daily hour of meeting of the First Session of the One Hundred Eleventh Congress.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231274040" datetime="2009-01-06T16:34:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H21"/></action>
+		<vote date="1231274100" how="without objection" datetime="2009-01-06T16:35:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text" ref="CR H21"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="157" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional operations and organization"/>
+		<term name="Legislative rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Sets the daily hour of meeting of the First Session of the 111th Congress, until Monday, May 18, 2009, at: (1) 2 p.m. on Mondays; (2) 12 noon on Tuesdays; and (3) 10 a.m. on all other days of the week. Sets the daily hour of meeting from Monday, May 18, 2009, until the end of the first session at: (1) 12 noon on Mondays; (2) 10 a.m. on Tuesdays, Wednesdays, and Thursdays; and (3) 9 a.m. on all other days of the week.<br/>
+	</summary>
+</bill>

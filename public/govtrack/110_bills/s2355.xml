@@ -1,0 +1,38 @@
+<bill session="110" type="s" number="2355" updated="2009-01-09T16:45:50-05:00">
+	<status><calendar date="1196744400" datetime="2007-12-04" /></status>
+
+	<introduced date="1195016400" datetime="2007-11-14"/>
+	<titles>
+		<title type="short" as="introduced">Climate Change Adaptation Act</title>
+		<title type="short" as="reported to senate">Climate Change Adaptation Act</title>
+		<title type="official" as="introduced">A bill to amend the National Climate Program Act to enhance the ability of the United States to develop and implement climate change adaptation programs and policies, and for other purposes.</title>
+	</titles>
+	<sponsor id="300018"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2007-12-03"/>
+		<cosponsor id="300060" joined="2007-12-03"/>
+		<cosponsor id="300064" joined="2007-12-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1195016400" datetime="2007-11-14"><text>Sponsor introductory remarks on measure. (CR S14401-14402)</text></action>
+		<action date="1195016400" datetime="2007-11-14"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text><reference label="text of measure as introduced" ref="CR S14402-14403"/></action>
+		<calendar date="1196744400" datetime="2007-12-04" ><text>Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.</text></calendar>
+		<action date="1212638400" datetime="2008-06-05"><text>Committee on Commerce, Science, and Transportation. Reported by Senator Inouye with amendments and an amendment to the title. With written report No. 110-347.</text></action>
+		<calendar under="General Orders" number="769" date="1212638400" datetime="2008-06-05" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 769.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/5/2008--Reported to Senate amended. Climate Change Adaptation Act - Amends the National Climate Program Act to revise congressional findings and add a definition of &quot;coastal state.&quot;<br/>Revises the elements of the National Climate Program to require a strategic planning process to address the impacts of climate change in the United States and establish a National Climate Service within the National Oceanic and Atmospheric Administration (NOAA).<br/>Requires the President to provide to Congress a five-year national strategic plan to address the impacts of climate change in the United States, define the Program roles of federal officers and agencies, and provide for coordination. Sets forth the minimum contents of the strategic plan, including requirements concerning: (1) climate change impacts on federally managed resources; (2) cooperation and partnership with state and local governments, nongovernmental entities, and international entities; (3) development of agency-specific plans; and (4) identification of necessary authorities and data.<br/>Requires the Secretary of Commerce to: (1) coordinate and support regional assessments of coastal and ocean vulnerability, including living marine resources, to climate change; (2) submit to Congress a national coastal and ocean adaptation plan composed of regional plans that recommend targets and strategies to address coastal and ocean impacts associated with climate change, ocean acidification, and sea level rise; (3) provide technical planning assistance and products to assist coastal states and local governments in developing and implementing coastal and ocean adaptation or mitigation strategies and plans.<br/>Amends the Coastal Zone Management Act of 1972 to require the Secretary to provide grants to coastal states with federally approved coastal zone management programs for developing and implementing coastal and ocean adaptation plans. Requires such plans to be approved by the Secretary and consistent with the coastal and ocean adaptation plan to be developed pursuant to this Act and with the state's coastal management program and hazard mitigation plans.<br/>Authorizes appropriations.<br/>
+	</summary>
+</bill>

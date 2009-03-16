@@ -1,0 +1,39 @@
+<bill session="110" type="h" number="6585" updated="2009-01-09T06:26:27-05:00">
+	<status><vote date="1222540920" datetime="2008-09-27T15:42:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1216785600" datetime="2008-07-23"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 311 Southwest 2nd Street in Corvallis, Oregon, as the &quot;Helen Berg Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400186"/>
+	<cosponsors>
+		<cosponsor id="400419" joined="2008-09-17"/>
+		<cosponsor id="400437" joined="2008-09-17"/>
+		<cosponsor id="400033" joined="2008-09-17"/>
+		<cosponsor id="400100" joined="2008-09-17"/>
+	</cosponsors>
+	<actions>
+		<action date="1216785600" datetime="2008-07-23"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1222540860" datetime="2008-09-27T15:41:00-04:00"><text>Mr. Clay asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1222540860" datetime="2008-09-27T15:41:00-04:00"><text>Committee on Oversight and Government discharged.</text></action>
+		<action date="1222540920" datetime="2008-09-27T15:42:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10212-10213"/></action>
+		<vote date="1222540920" how="without objection" datetime="2008-09-27T15:42:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H10212-10213"/></vote>
+		<action date="1222660800" datetime="2008-09-29"><text>Received in the Senate.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/23/2008--Introduced.<br/>Designates the facility of the United States Postal Service located at 311 Southwest 2nd Street in Corvallis, Oregon, as the &quot;Helen Berg Post Office Building.&quot;<br/>
+	</summary>
+</bill>

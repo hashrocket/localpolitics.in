@@ -1,0 +1,37 @@
+<bill session="110" type="h" number="1066" updated="2009-01-08T19:03:42-05:00">
+	<status><vote date="1172602260" datetime="2007-02-27T14:51:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1171515600" datetime="2007-02-15"/>
+	<titles>
+		<title type="short" as="introduced">Depository Institution Community Development Investments Enhancement Act</title>
+		<title type="short" as="passed house">Depository Institution Community Development Investments Enhancement Act</title>
+		<title type="official" as="introduced">To increase community development investments by depository institutions, and for other purposes.</title>
+	</titles>
+	<sponsor id="400140"/>
+	<cosponsors>
+		<cosponsor id="400010" joined="2007-02-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1171515600" datetime="2007-02-15"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1172601840" datetime="2007-02-27T14:44:00-05:00"><text>Mr. Frank (MA) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1172601900" datetime="2007-02-27T14:45:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1905-1906"/></action>
+		<action date="1172601900" datetime="2007-02-27T14:45:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1066.</text></action>
+		<vote date="1172602260" how="by voice vote" datetime="2007-02-27T14:51:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H1905"/></vote>
+		<action date="1172638800" datetime="2007-02-28"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/27/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Depository Institution Community Development Investments Enhancement Act - Amends the Home Owners' Loan Act to revise requirements for community development investments by federal savings associations. Authorizes a federal savings association to make investments, directly or indirectly, each of which is designed primarily to promote the public welfare, including the welfare of low- and moderate-income communities or families through the provision of housing, services, and jobs (community development investments). Permits such investments to be made directly or by purchase of interests in an entity primarily engaged in making such investments. Prohibits a federal savings association from making an investment which would subject it to unlimited liability to any person. Requires the Director of the Office of Thrift Supervision to establish: (1) the amount any savings association may invest in any one project; and (2) the aggregate amount of investment of any savings association. Restricts the aggregate amount of investment of any savings association, subject to specified determinations made by the Director. Prohibits the maximum aggregate amount of investments of any savings association from exceeding the same 15% of its capital stock actually paid in and unimpaired and 15% of its unimpaired surplus as imposed by this Act on national banking associations and state member banks.<br/>
+	</summary>
+</bill>

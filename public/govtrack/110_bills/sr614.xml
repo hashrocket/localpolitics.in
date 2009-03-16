@@ -1,0 +1,33 @@
+<bill session="110" type="sr" number="614" updated="2009-01-09T21:15:09-05:00">
+	<status><vote date="1222056000" datetime="2008-09-22" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1216180800" datetime="2008-07-16"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating the month of August 2008 as &quot;National Medicine Abuse Awareness Month&quot;.</title>
+	</titles>
+	<sponsor id="300008"/>
+	<cosponsors>
+		<cosponsor id="300048" joined="2008-07-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1216180800" datetime="2008-07-16"><text>Sponsor introductory remarks on measure. (CR S6875-6876)</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S6875"/></action>
+		<action date="1222056000" datetime="2008-09-22"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S9179-9185"/></action>
+		<vote date="1222056000" how="by Unanimous Consent" datetime="2008-09-22" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S9180"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/22/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates August 2008 as National Medicine Abuse Awareness Month.<br/>Urges communities to carry out appropriate programs and activities to educate parents and youth about the potential dangers associated with medicine abuse.<br/>
+	</summary>
+</bill>

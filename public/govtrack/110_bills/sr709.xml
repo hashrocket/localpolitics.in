@@ -1,0 +1,37 @@
+<bill session="110" type="sr" number="709" updated="2009-01-09T21:26:47-05:00">
+	<status><vote date="1227157200" datetime="2008-11-20" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1227070800" datetime="2008-11-19"/>
+	<titles>
+		<title type="official" as="introduced">A resolution expressing the sense of the Senate that the United States should pursue the adoption of bluefin tuna conservation and management measures at the 16th Special Meeting of the International Commission on the Conservation of Atlantic Tunas.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2008-11-20"/>
+		<cosponsor id="300018" joined="2008-11-19"/>
+		<cosponsor id="300011" joined="2008-11-19"/>
+		<cosponsor id="412247" joined="2008-11-20"/>
+		<cosponsor id="300081" joined="2008-11-19"/>
+		<cosponsor id="300091" joined="2008-11-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1227070800" datetime="2008-11-19"><text>Referred to the Committee on Commerce, Science, and Transportation.</text><reference label="text of measure as introduced" ref="CR S10675-10676"/></action>
+		<action date="1227157200" datetime="2008-11-20"><text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S10771-10772"/></action>
+		<vote date="1227157200" how="by Unanimous Consent" datetime="2008-11-20" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S10771-10772"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

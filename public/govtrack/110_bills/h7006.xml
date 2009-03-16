@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="7006" updated="2009-01-09T07:15:04-05:00">
+	<status><vote date="1222294020" datetime="2008-09-24T19:07:00-04:00" where="h" result="pass" how="roll" roll="635"/></status>
+
+	<introduced date="1222142400" datetime="2008-09-23"/>
+	<titles>
+		<title type="short" as="introduced">Disaster Tax Relief Act of 2008</title>
+		<title type="short" as="passed house">Disaster Tax Relief Act of 2008</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide disaster assistance relief.</title>
+	</titles>
+	<sponsor id="400333"/>
+	<cosponsors>
+		<cosponsor id="412260" joined="2008-09-23"/>
+		<cosponsor id="400403" joined="2008-09-23"/>
+		<cosponsor id="400229" joined="2008-09-23"/>
+		<cosponsor id="400262" joined="2008-09-23"/>
+		<cosponsor id="412197" joined="2008-09-23"/>
+		<cosponsor id="400087" joined="2008-09-23"/>
+		<cosponsor id="400270" joined="2008-09-23"/>
+		<cosponsor id="400415" joined="2008-09-23"/>
+		<cosponsor id="400291" joined="2008-09-23"/>
+		<cosponsor id="400218" joined="2008-09-23"/>
+		<cosponsor id="400240" joined="2008-09-23"/>
+		<cosponsor id="400309" joined="2008-09-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1222142400" datetime="2008-09-23"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action date="1222284960" datetime="2008-09-24T16:36:00-04:00"><text>Mr. Rangel moved to suspend the rules and pass the bill.</text></action>
+		<action date="1222284960" datetime="2008-09-24T16:36:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H9312-9319"/></action>
+		<action date="1222284960" datetime="2008-09-24T16:36:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 7006.</text></action>
+		<action date="1222286940" datetime="2008-09-24T17:09:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1222293540" datetime="2008-09-24T18:59:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H9365"/></action>
+		<vote date="1222294020" how="roll" roll="635" datetime="2008-09-24T19:07:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 4 (Roll no. 635).</text><reference label="text" ref="CR H9312-9314"/></vote>
+		<action date="1222228800" datetime="2008-09-24"><text>Received in the Senate.</text></action>
+		<action date="1228712400" datetime="2008-12-08"><text>Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar under="General Orders" number="1129" date="1228798800" datetime="2008-12-09" calendar="Senate Legislative" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1129.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/24/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)<br/>Disaster Tax Relief Act of 2008 - Amends the Internal Revenue Code to provide tax relief in federally declared disaster areas.<br/>(Sec. 2) Waives the 10% adjusted gross income limitation on personal casualty losses for losses sustained from a federally declared disaster occurring after December 31, 2007, and before January 1, 2012. Defines &quot;federally declared disaster&quot; as any disaster determined by the President to warrant federal assistance under the Robert T. Stafford Relief and Emergency Assistance Act. Increases the standard tax deduction by a taxpayer's net disaster loss (i.e., personal casualty losses in a disaster area over personal casualty gains). Increases the threshold for deductible casualty losses from $100 to $500 for taxable years beginning after December 31, 2008, and before January 1, 2012. (Sec. 3) Allows the expensing of business-related costs incurred due to a federally declared disaster for: (1) the abatement or control of hazardous substances; (2) removal of debris or demolition of damaged structures; or (3) repair of damaged property.<br/>(Sec. 4) Provides for a five-year carryback period for net operating losses attributable to a federally declared disaster. Allows such losses as a deduction in computing alternative minimum taxable income.<br/>(Sec. 5) Waives certain restrictions on mortgage revenue bond financing for principal residences destroyed due to a federally declared disaster occurring between January 1, 2008, and December 31, 2011.<br/>(Sec. 6) Increases, until December 31, 2011, the standard mileage rate used to compute the tax deduction for the use of a passenger automobile for charitable purposes to the same rate used for deducting travel expenses related to medical care (currently, 27 cents per mile). (Sec. 7) Authorizes additional allocations to states (up to $190 million) of the low-income housing tax credit for federally declared disasters occurring between January 1, 2008, and December 31, 2011. Prohibits allocations after December 31, 2012.<br/>(Sec. 8) Expands tax-exempt private activity bonds to include qualified disaster bonds used to finance the replacement, repair, reconstruction or renovation of depreciable property damaged or destroyed as a result of a federally declared disaster occurring between January 1, 2008, and December 31, 2011. Grants priority in allocating bond amounts to business loss disaster areas (i.e., areas sustaining damages from a disaster of at least the lesser of $50 million or 5% of all business property in the disaster area). Requires all allocations to be made prior to December 31, 2012.<br/>(Sec. 9) Waives limitations on individual and corporate charitable contributions for qualified disaster contributions. Defines &quot;qualified disaster contribution&quot; as any charitable contribution paid prior to January 1, 2010, to a public charity for relief efforts related to a federally declared disaster.<br/>
+	</summary>
+</bill>

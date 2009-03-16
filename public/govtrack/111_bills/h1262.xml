@@ -1,0 +1,83 @@
+<bill session="111" type="h" number="1262" updated="2009-03-13T12:11:29-04:00">
+	<status><vote date="1236878400" datetime="2009-03-12T14:20:00-04:00" where="h" result="pass" how="roll" roll="123"/></status>
+
+	<introduced date="1236056400" datetime="2009-03-03"/>
+	<titles>
+		<title type="short" as="introduced">Water Quality Investment Act of 2009</title>
+		<title type="short" as="reported to house">Water Quality Investment Act of 2009</title>
+		<title type="short" as="passed house">Water Quality Investment Act of 2009</title>
+		<title type="official" as="introduced">To amend the Federal Water Pollution Control Act to authorize appropriations for State water pollution control revolving funds, and for other purposes.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2009-03-03"/>
+		<cosponsor id="400295" joined="2009-03-06"/>
+		<cosponsor id="400396" joined="2009-03-03"/>
+		<cosponsor id="400133" joined="2009-03-06"/>
+		<cosponsor id="412240" joined="2009-03-06"/>
+		<cosponsor id="400031" joined="2009-03-03"/>
+		<cosponsor id="400063" joined="2009-03-06"/>
+		<cosponsor id="400309" joined="2009-03-03"/>
+		<cosponsor id="400244" joined="2009-03-03"/>
+		<cosponsor id="412263" joined="2009-03-09"/>
+		<cosponsor id="412224" joined="2009-03-03"/>
+		<cosponsor id="400204" joined="2009-03-03"/>
+		<cosponsor id="400440" joined="2009-03-03"/>
+		<cosponsor id="412189" joined="2009-03-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1236056400" datetime="2009-03-03"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1236638340" datetime="2009-03-09T19:39:00-04:00"><text>Reported (Amended) by the Committee on Transportation. H. Rept. 111-26.</text></action>
+		<calendar date="1236638400" datetime="2009-03-09T19:40:00-04:00" ><text>Placed on the Union Calendar, Calendar No. 9.</text></calendar>
+		<action date="1236801780" datetime="2009-03-11T17:03:00-04:00"><text>Rules Committee Resolution H. Res. 235 Reported to House. Rule provides for consideration of H.R. 1262 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Transportation now printed in the bill.</text></action>
+		<action date="1236866160" datetime="2009-03-12T10:56:00-04:00"><text>Rule H. Res. 235 passed House.</text></action>
+		<action date="1236866220" datetime="2009-03-12T10:57:00-04:00"><text>Considered under the provisions of rule H. Res. 235.</text><reference label="consideration" ref="CR H3345-3376"/></action>
+		<action date="1236866220" datetime="2009-03-12T10:57:00-04:00"><text>Rule provides for consideration of H.R. 1262 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Transportation now printed in the bill.</text></action>
+		<action date="1236866280" datetime="2009-03-12T10:58:00-04:00"><text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 235 and Rule XVIII.</text></action>
+		<action date="1236866280" datetime="2009-03-12T10:58:00-04:00"><text>The Speaker designated the Honorable Ed Pastor to act as Chairman of the Committee.</text></action>
+		<action date="1236866340" datetime="2009-03-12T10:59:00-04:00"><text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1262.</text></action>
+		<action date="1236869040" datetime="2009-03-12T11:44:00-04:00"><text>The Committee of the Whole rose informally to recieve a message from the Senate.</text></action>
+		<action date="1236869040" datetime="2009-03-12T11:44:00-04:00"><text>Subsequently, the Committee resumed it's sitting.</text></action>
+		<action date="1236869040" datetime="2009-03-12T11:44:00-04:00"><text>GENERAL DEBATE - The Committee of the Whole continued with further general debate on H.R. 1262.</text></action>
+		<action date="1236869940" datetime="2009-03-12T11:59:00-04:00"><text>DEBATE - Pursuant to the provisions of H.Res. 235, the Committee of the Whole proceeded with 10 minutes of debate on the Oberstar amendment.</text></action>
+		<action date="1236913440" datetime="2009-03-12T12:04:00-04:00"><text>DEBATE - Pursuant to the provisions of H.Res. 235, the Committee of the Whole proceeded with 20 minutes of debate on the Mack amendment.</text></action>
+		<action date="1236914820" datetime="2009-03-12T12:27:00-04:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Mack amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr Mack demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.</text></action>
+		<action date="1236914880" datetime="2009-03-12T12:28:00-04:00"><text>DEBATE - Pursuant to the provisions of H.Res. 235, the Committee of the Whole proceeded with 10 minutes of debate on the Markey(CO) amendment.</text></action>
+		<action date="1236915300" datetime="2009-03-12T12:35:00-04:00"><text>DEBATE - Pursuant to the provisions of H.Res. 235, the Committee of the Whole proceeded with 10 minutes of debate on the Miller(MI) amendment.</text></action>
+		<action date="1236915660" datetime="2009-03-12T12:41:00-04:00"><text>DEBATE - Pursuant to the provisions of H.Res. 235, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment.</text></action>
+		<action date="1236916200" datetime="2009-03-12T12:50:00-04:00"><text>DEBATE - Pursuant to the provisions of H.Res. 235, the Committee of the Whole proceeded with 10 minutes of debate on the Oberstar amendment.</text></action>
+		<action date="1236916320" datetime="2009-03-12T12:52:00-04:00"><text>DEBATE - Pursuant to the provisions of H.Res. 235, the Committee of the Whole proceeded with 10 minutes of debate on the Roskam amendment.</text></action>
+		<action date="1236916560" datetime="2009-03-12T12:56:00-04:00"><text>DEBATE - Pursuant to the provisions of H.Res. 235, the Committee of the Whole proceeded with 10 minutes of debate on the Dahlkemper amendment.</text></action>
+		<action date="1236873600" datetime="2009-03-12T13:00:00-04:00"><text>DEBATE - Pursuant to the provisions of H.Res. 235, the Committee of the Whole proceeded with 10 minutes of debate on the Wittman amendment.</text></action>
+		<action date="1236874260" datetime="2009-03-12T13:11:00-04:00"><text>DEBATE - Pursuant to the provisions of H.Res. 235, the Committee of the Whole proceeded with 10 minutes of debate on the Driehaus amendment.</text></action>
+		<action date="1236875280" datetime="2009-03-12T13:28:00-04:00"><text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debate earlier and on which further proceedings had been postponed.</text></action>
+		<action date="1236877320" datetime="2009-03-12T14:02:00-04:00"><text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1262.</text></action>
+		<action date="1236877320" datetime="2009-03-12T14:02:00-04:00"><text>The previous question was ordered pursuant to the rule.</text></action>
+		<action date="1236877380" datetime="2009-03-12T14:03:00-04:00"><text>The House adopted the amendment as agreed to by the Committee of the Whole House on the state of the Union.</text></action>
+		<vote date="1236878400" how="roll" roll="123" datetime="2009-03-12T14:20:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed by recorded vote: 317 - 101 (Roll no. 123).</text><reference label="text" ref="CR H3375"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="111" type="hr" number="235" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+		<amendment number="h28"/>
+		<amendment number="h29"/>
+		<amendment number="h30"/>
+		<amendment number="h31"/>
+		<amendment number="h32"/>
+		<amendment number="h33"/>
+		<amendment number="h34"/>
+		<amendment number="h35"/>
+		<amendment number="h36"/>
+		<amendment number="h37"/>
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="802" updated="2009-01-09T09:31:48-05:00">
+	<status><vote date="1194548280" datetime="2007-11-08T14:58:00-05:00" where="h" result="pass" how="roll" roll="1066"/></status>
+
+	<introduced date="1194325200" datetime="2007-11-06"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 3355) to ensure the availability and affordability of homeowners' insurance coverage for catastrophic events.</title>
+	</titles>
+	<sponsor id="412195"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1194399300" datetime="2007-11-06T21:35:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-433, by Ms. Castor.</text></action>
+		<action date="1194399300" datetime="2007-11-06T21:35:00-05:00"><text>All points of order against consideration of the bill are waive except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Financial Services now printed in the bill.</text></action>
+		<calendar date="1194399300" datetime="2007-11-06T21:35:00-05:00" ><text>Placed on the House Calendar, Calendar No. 148.</text></calendar>
+		<action date="1194544860" datetime="2007-11-08T14:01:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H13330-13336"/></action>
+		<action date="1194544980" datetime="2007-11-08T14:03:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 802.</text></action>
+		<action date="1194547680" datetime="2007-11-08T14:48:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 222 - 191 (Roll no. 1065).</text><reference label="consideration" ref="CR H13335-13336"/></action>
+		<vote date="1194548280" how="roll" roll="1066" datetime="2007-11-08T14:58:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by recorded vote: 225 - 190 (Roll no. 1066).</text><reference label="text" ref="CR H13330"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/8/2007--Passed House without amendment. Sets forth the rule for consideration of H.R. 3355 (Homeowners' Defense Act of 2007).<br/>
+	</summary>
+</bill>

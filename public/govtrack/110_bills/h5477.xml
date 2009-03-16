@@ -1,0 +1,97 @@
+<bill session="110" type="h" number="5477" updated="2009-01-09T04:14:48-05:00">
+	<status><enacted date="1218513600" datetime="2008-08-12" /></status>
+
+	<introduced date="1203570000" datetime="2008-02-21"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 120 South Del Mar Avenue in San Gabriel, California, as the &quot;Chi Mui Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400361"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2008-03-14"/>
+		<cosponsor id="400133" joined="2008-04-10"/>
+		<cosponsor id="400618" joined="2008-03-14"/>
+		<cosponsor id="400330" joined="2008-03-14"/>
+		<cosponsor id="400403" joined="2008-03-14"/>
+		<cosponsor id="400113" joined="2008-03-14"/>
+		<cosponsor id="400129" joined="2008-03-14"/>
+		<cosponsor id="412190" joined="2008-03-14"/>
+		<cosponsor id="400348" joined="2008-03-14"/>
+		<cosponsor id="400267" joined="2008-03-14"/>
+		<cosponsor id="400065" joined="2008-03-14"/>
+		<cosponsor id="400297" joined="2008-04-10"/>
+		<cosponsor id="400191" joined="2008-04-10"/>
+		<cosponsor id="400196" joined="2008-03-14"/>
+		<cosponsor id="400176" joined="2008-03-14"/>
+		<cosponsor id="400124" joined="2008-03-14"/>
+		<cosponsor id="400239" joined="2008-03-14"/>
+		<cosponsor id="400423" joined="2008-03-14"/>
+		<cosponsor id="412189" joined="2008-03-14"/>
+		<cosponsor id="400396" joined="2008-03-14"/>
+		<cosponsor id="400384" joined="2008-03-14"/>
+		<cosponsor id="400355" joined="2008-03-14"/>
+		<cosponsor id="400245" joined="2008-03-14"/>
+		<cosponsor id="412253" joined="2008-03-14"/>
+		<cosponsor id="400663" joined="2008-03-14"/>
+		<cosponsor id="400387" joined="2008-04-10"/>
+		<cosponsor id="400144" joined="2008-04-01"/>
+		<cosponsor id="400347" joined="2008-03-14"/>
+		<cosponsor id="400356" joined="2008-03-14"/>
+		<cosponsor id="400277" joined="2008-04-10"/>
+		<cosponsor id="400057" joined="2008-03-14"/>
+		<cosponsor id="400343" joined="2008-03-14"/>
+		<cosponsor id="400039" joined="2008-03-14"/>
+		<cosponsor id="400166" joined="2008-03-14"/>
+		<cosponsor id="400115" joined="2008-04-10"/>
+		<cosponsor id="400436" joined="2008-04-01"/>
+		<cosponsor id="400237" joined="2008-03-14"/>
+		<cosponsor id="400570" joined="2008-04-10"/>
+		<cosponsor id="400422" joined="2008-03-14"/>
+		<cosponsor id="400021" joined="2008-03-14"/>
+		<cosponsor id="400009" joined="2008-03-14"/>
+		<cosponsor id="400617" joined="2008-03-14"/>
+		<cosponsor id="400371" joined="2008-03-14"/>
+		<cosponsor id="400185" joined="2008-03-14"/>
+		<cosponsor id="400097" joined="2008-03-14"/>
+		<cosponsor id="400025" joined="2008-03-14"/>
+		<cosponsor id="400062" joined="2008-03-14"/>
+		<cosponsor id="400425" joined="2008-03-14"/>
+		<cosponsor id="412011" joined="2008-03-14"/>
+		<cosponsor id="400278" joined="2008-03-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1203570000" datetime="2008-02-21"><text>Sponsor introductory remarks on measure. (CR E216-217)</text></action>
+		<action date="1203570000" datetime="2008-02-21"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1208318400" datetime="2008-04-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1208318400" datetime="2008-04-16" ><text>Ordered to be Reported Without Recommendation by Voice Vote.</text></calendar>
+		<action date="1212516480" datetime="2008-06-03T15:08:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1212516480" datetime="2008-06-03T15:08:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4844-4846"/></action>
+		<action date="1212516480" datetime="2008-06-03T15:08:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5477.</text></action>
+		<vote date="1212517440" how="by voice vote" datetime="2008-06-03T15:24:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H4844"/></vote>
+		<action date="1212552000" datetime="2008-06-04"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1213848000" datetime="2008-06-19"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+		<calendar date="1217390400" datetime="2008-07-30" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1217390400" datetime="2008-07-30"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="915" date="1217390400" datetime="2008-07-30" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 915.</text></calendar>
+		<vote date="1217563200" how="by Unanimous Consent" datetime="2008-08-01" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S7984"/></vote>
+		<action date="1217563200" datetime="2008-08-01"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1217563200" datetime="2008-08-01" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1217995200" datetime="2008-08-06" ><text>Presented to President.</text></topresident>
+		<signed date="1218513600" datetime="2008-08-12" ><text>Signed by President.</text></signed>
+		<enacted number="110-305" date="1218513600" datetime="2008-08-12" type="public" ><text>Became Public Law No: 110-305.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/12/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 120 South Del Mar Avenue in San Gabriel, California, as the &quot;Chi Mui Post Office Building.&quot; 
+	</summary>
+</bill>

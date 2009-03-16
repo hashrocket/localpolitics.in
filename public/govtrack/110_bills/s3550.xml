@@ -1,0 +1,44 @@
+<bill session="110" type="s" number="3550" updated="2009-01-09T19:17:24-05:00">
+	<status><enacted date="1223956800" datetime="2008-10-14" /></status>
+
+	<introduced date="1222228800" datetime="2008-09-24"/>
+	<titles>
+		<title type="official" as="introduced">An original bill to designate a portion of the Rappahannock River in the Commonwealth of Virginia as the &quot;John W. Warner Rapids&quot;.</title>
+	</titles>
+	<sponsor id="300011"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<calendar date="1221624000" datetime="2008-09-17" ><text>Committee on Environment and Public Works ordered to be reported an original measure.</text></calendar>
+		<action date="1222228800" datetime="2008-09-24"><text>Committee on Environment and Public Works. Original measure reported to Senate by Senator Boxer. Without written report.</text></action>
+		<calendar under="General Orders" number="1053" date="1222228800" datetime="2008-09-24" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1053.</text></calendar>
+		<vote date="1222228800" how="by Unanimous Consent" datetime="2008-09-24" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S9434"/><reference label="text as passed Senate" ref="CR S9434"/></vote>
+		<action date="1222347780" datetime="2008-09-25T10:03:00-04:00"><text>Received in the House.</text></action>
+		<action date="1222315200" datetime="2008-09-25"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1222315200" datetime="2008-09-25"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1222709640" datetime="2008-09-29T14:34:00-04:00"><text>Mr. Rahall asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1222709640" datetime="2008-09-29T14:34:00-04:00"><text>Committee on Natural Resources discharged.</text></action>
+		<action date="1222709640" datetime="2008-09-29T14:34:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10609"/></action>
+		<vote date="1222709700" how="without objection" datetime="2008-09-29T14:35:00-04:00" where="h" type="vote2" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H10609"/></vote>
+		<topresident date="1222660800" datetime="2008-09-29" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1223006400" datetime="2008-10-03" ><text>Presented to President.</text></topresident>
+		<signed date="1223956800" datetime="2008-10-14" ><text>Signed by President.</text></signed>
+		<enacted number="110-418" date="1223956800" datetime="2008-10-14" type="public" ><text>Became Public Law No: 110-418.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/29/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates a portion of the Rappahannock River comprised of the manmade rapids located at the site of the former Embrey Dam in Fredericksburg, Virginia, as the John W. Warner Rapids.<br/>
+	</summary>
+</bill>

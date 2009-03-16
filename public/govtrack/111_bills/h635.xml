@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="635" updated="2009-03-07T11:02:18-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">National Commission on State Workers' Compensation Laws Act of 2009</title>
+		<title type="official" as="introduced">To establish the National Commission on State Workers' Compensation Laws.</title>
+	</titles>
+	<sponsor id="400009"/>
+	<cosponsors>
+		<cosponsor id="400211" joined="2009-03-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to the House Committee on Education and Labor.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Advisory bodies"/>
+		<term name="Disability and paralysis"/>
+		<term name="Employee benefits and pensions"/>
+		<term name="Government investigations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

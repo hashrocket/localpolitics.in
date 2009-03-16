@@ -1,0 +1,338 @@
+<bill session="110" type="h" number="2750" updated="2009-01-08T22:34:09-05:00">
+	<status><vote date="1185841440" datetime="2007-07-30T21:24:00-04:00" where="h" result="pass" how="roll" roll="758"/></status>
+
+	<introduced date="1181880000" datetime="2007-06-15"/>
+	<titles>
+		<title type="short" as="introduced">NASA and JPL 50th Anniversary Commemorative Coin Act</title>
+		<title type="short" as="passed house">NASA 50th Anniversary Commemorative Coin Act</title>
+		<title type="official" as="introduced">To require the Secretary of the Treasury to mint coins in commemoration of the 50th anniversary of the establishment of the National Aeronautics and Space Administration and the Jet Propulsion Laboratory.</title>
+		<title type="official" as="amended by house">To require the Secretary of the Treasury to mint coins in commemoration of the 50th anniversary of the establishment of the National Aeronautics and Space Administration.</title>
+	</titles>
+	<sponsor id="400199"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-06-18"/>
+		<cosponsor id="400290" joined="2007-06-18"/>
+		<cosponsor id="400661" joined="2007-06-22"/>
+		<cosponsor id="400279" joined="2007-06-18"/>
+		<cosponsor id="400627" joined="2007-06-18"/>
+		<cosponsor id="400061" joined="2007-06-18"/>
+		<cosponsor id="400041" joined="2007-06-28"/>
+		<cosponsor id="400273" joined="2007-06-18"/>
+		<cosponsor id="400420" joined="2007-06-18"/>
+		<cosponsor id="400222" joined="2007-06-18"/>
+		<cosponsor id="400034" joined="2007-06-18"/>
+		<cosponsor id="400004" joined="2007-06-18"/>
+		<cosponsor id="400031" joined="2007-06-22"/>
+		<cosponsor id="400219" joined="2007-06-18"/>
+		<cosponsor id="400280" joined="2007-06-18"/>
+		<cosponsor id="400367" joined="2007-06-18"/>
+		<cosponsor id="400337" joined="2007-06-18"/>
+		<cosponsor id="400659" joined="2007-06-18"/>
+		<cosponsor id="400227" joined="2007-06-18"/>
+		<cosponsor id="400060" joined="2007-06-18"/>
+		<cosponsor id="400414" joined="2007-06-18"/>
+		<cosponsor id="400257" joined="2007-06-28"/>
+		<cosponsor id="400289" joined="2007-06-22"/>
+		<cosponsor id="400099" joined="2007-06-18"/>
+		<cosponsor id="400381" joined="2007-06-28"/>
+		<cosponsor id="400616" joined="2007-06-18"/>
+		<cosponsor id="400142" joined="2007-06-18"/>
+		<cosponsor id="400228" joined="2007-06-18"/>
+		<cosponsor id="400027" joined="2007-06-18"/>
+		<cosponsor id="400160" joined="2007-06-18"/>
+		<cosponsor id="400155" joined="2007-06-18"/>
+		<cosponsor id="400263" joined="2007-06-21"/>
+		<cosponsor id="400618" joined="2007-06-18"/>
+		<cosponsor id="400149" joined="2007-06-18"/>
+		<cosponsor id="400134" joined="2007-06-18"/>
+		<cosponsor id="400080" joined="2007-06-18"/>
+		<cosponsor id="400376" joined="2007-06-18"/>
+		<cosponsor id="400657" joined="2007-06-18"/>
+		<cosponsor id="400626" joined="2007-06-18"/>
+		<cosponsor id="400162" joined="2007-06-18"/>
+		<cosponsor id="412221" joined="2007-06-22"/>
+		<cosponsor id="400209" joined="2007-06-18"/>
+		<cosponsor id="400089" joined="2007-06-15"/>
+		<cosponsor id="400336" joined="2007-06-18"/>
+		<cosponsor id="400330" joined="2007-06-18"/>
+		<cosponsor id="400660" joined="2007-06-18"/>
+		<cosponsor id="400242" joined="2007-06-18"/>
+		<cosponsor id="400317" joined="2007-06-18"/>
+		<cosponsor id="412234" joined="2007-06-18"/>
+		<cosponsor id="412225" joined="2007-06-18"/>
+		<cosponsor id="400302" joined="2007-06-18"/>
+		<cosponsor id="400380" joined="2007-06-18"/>
+		<cosponsor id="400403" joined="2007-06-18"/>
+		<cosponsor id="400246" joined="2007-06-18"/>
+		<cosponsor id="400180" joined="2007-06-18"/>
+		<cosponsor id="400635" joined="2007-06-21"/>
+		<cosponsor id="400333" joined="2007-06-22"/>
+		<cosponsor id="400385" joined="2007-06-18"/>
+		<cosponsor id="400342" joined="2007-06-18"/>
+		<cosponsor id="400623" joined="2007-06-18"/>
+		<cosponsor id="400271" joined="2007-06-22"/>
+		<cosponsor id="400096" joined="2007-06-18"/>
+		<cosponsor id="400430" joined="2007-06-28"/>
+		<cosponsor id="400170" joined="2007-06-21"/>
+		<cosponsor id="412190" joined="2007-06-18"/>
+		<cosponsor id="400441" joined="2007-06-18"/>
+		<cosponsor id="412195" joined="2007-06-28"/>
+		<cosponsor id="400313" joined="2007-06-18"/>
+		<cosponsor id="400267" joined="2007-06-18"/>
+		<cosponsor id="400065" joined="2007-06-22"/>
+		<cosponsor id="400633" joined="2007-06-18"/>
+		<cosponsor id="400647" joined="2007-06-18"/>
+		<cosponsor id="400297" joined="2007-06-18"/>
+		<cosponsor id="400191" joined="2007-06-18"/>
+		<cosponsor id="400344" joined="2007-06-18"/>
+		<cosponsor id="400268" joined="2007-06-18"/>
+		<cosponsor id="400063" joined="2007-06-18"/>
+		<cosponsor id="400361" joined="2007-06-18"/>
+		<cosponsor id="412192" joined="2007-06-22"/>
+		<cosponsor id="400165" joined="2007-06-18"/>
+		<cosponsor id="400196" joined="2007-06-18"/>
+		<cosponsor id="412210" joined="2007-06-22"/>
+		<cosponsor id="400077" joined="2007-06-18"/>
+		<cosponsor id="400176" joined="2007-06-18"/>
+		<cosponsor id="400124" joined="2007-06-28"/>
+		<cosponsor id="400018" joined="2007-06-18"/>
+		<cosponsor id="400239" joined="2007-06-28"/>
+		<cosponsor id="400003" joined="2007-06-22"/>
+		<cosponsor id="400049" joined="2007-06-18"/>
+		<cosponsor id="400423" joined="2007-06-21"/>
+		<cosponsor id="400260" joined="2007-06-18"/>
+		<cosponsor id="400229" joined="2007-06-18"/>
+		<cosponsor id="400261" joined="2007-06-18"/>
+		<cosponsor id="400040" joined="2007-06-18"/>
+		<cosponsor id="412231" joined="2007-06-22"/>
+		<cosponsor id="400406" joined="2007-06-18"/>
+		<cosponsor id="400274" joined="2007-06-28"/>
+		<cosponsor id="409888" joined="2007-06-18"/>
+		<cosponsor id="400241" joined="2007-06-18"/>
+		<cosponsor id="412189" joined="2007-06-22"/>
+		<cosponsor id="400084" joined="2007-06-18"/>
+		<cosponsor id="400052" joined="2007-06-18"/>
+		<cosponsor id="400409" joined="2007-06-28"/>
+		<cosponsor id="400264" joined="2007-06-18"/>
+		<cosponsor id="400370" joined="2007-06-18"/>
+		<cosponsor id="400652" joined="2007-06-18"/>
+		<cosponsor id="400396" joined="2007-06-28"/>
+		<cosponsor id="400384" joined="2007-06-28"/>
+		<cosponsor id="412250" joined="2007-06-18"/>
+		<cosponsor id="400405" joined="2007-06-18"/>
+		<cosponsor id="400285" joined="2007-06-18"/>
+		<cosponsor id="400152" joined="2007-06-18"/>
+		<cosponsor id="400412" joined="2007-06-18"/>
+		<cosponsor id="400055" joined="2007-06-18"/>
+		<cosponsor id="400377" joined="2007-06-18"/>
+		<cosponsor id="400355" joined="2007-06-18"/>
+		<cosponsor id="400427" joined="2007-06-18"/>
+		<cosponsor id="400216" joined="2007-06-22"/>
+		<cosponsor id="400373" joined="2007-06-18"/>
+		<cosponsor id="400249" joined="2007-06-22"/>
+		<cosponsor id="400437" joined="2007-06-18"/>
+		<cosponsor id="400030" joined="2007-06-21"/>
+		<cosponsor id="400312" joined="2007-06-18"/>
+		<cosponsor id="412198" joined="2007-06-22"/>
+		<cosponsor id="400359" joined="2007-06-18"/>
+		<cosponsor id="412188" joined="2007-06-28"/>
+		<cosponsor id="400010" joined="2007-06-18"/>
+		<cosponsor id="400007" joined="2007-06-21"/>
+		<cosponsor id="400245" joined="2007-06-18"/>
+		<cosponsor id="400225" joined="2007-06-18"/>
+		<cosponsor id="400392" joined="2007-06-18"/>
+		<cosponsor id="400231" joined="2007-06-18"/>
+		<cosponsor id="400402" joined="2007-06-22"/>
+		<cosponsor id="400642" joined="2007-06-18"/>
+		<cosponsor id="400417" joined="2007-06-18" withdrawn="2007-07-23"/>
+		<cosponsor id="400235" joined="2007-06-18"/>
+		<cosponsor id="400663" joined="2007-06-28"/>
+		<cosponsor id="400339" joined="2007-06-18"/>
+		<cosponsor id="400224" joined="2007-06-18"/>
+		<cosponsor id="400086" joined="2007-06-18"/>
+		<cosponsor id="400387" joined="2007-06-28"/>
+		<cosponsor id="400144" joined="2007-06-18"/>
+		<cosponsor id="400206" joined="2007-06-18"/>
+		<cosponsor id="400648" joined="2007-06-18"/>
+		<cosponsor id="400006" joined="2007-06-18"/>
+		<cosponsor id="400068" joined="2007-06-18"/>
+		<cosponsor id="400017" joined="2007-06-18"/>
+		<cosponsor id="400098" joined="2007-06-18"/>
+		<cosponsor id="400147" joined="2007-06-18"/>
+		<cosponsor id="400347" joined="2007-06-18"/>
+		<cosponsor id="400230" joined="2007-06-18"/>
+		<cosponsor id="400416" joined="2007-06-18"/>
+		<cosponsor id="400038" joined="2007-06-18"/>
+		<cosponsor id="400008" joined="2007-06-22"/>
+		<cosponsor id="400121" joined="2007-06-18"/>
+		<cosponsor id="412187" joined="2007-06-28"/>
+		<cosponsor id="400277" joined="2007-06-18"/>
+		<cosponsor id="400048" joined="2007-06-21"/>
+		<cosponsor id="400432" joined="2007-06-18"/>
+		<cosponsor id="412209" joined="2007-06-18"/>
+		<cosponsor id="400311" joined="2007-06-28"/>
+		<cosponsor id="400051" joined="2007-06-18"/>
+		<cosponsor id="400220" joined="2007-06-18"/>
+		<cosponsor id="400172" joined="2007-06-18"/>
+		<cosponsor id="400057" joined="2007-06-18"/>
+		<cosponsor id="400343" joined="2007-06-18"/>
+		<cosponsor id="400001" joined="2007-06-18"/>
+		<cosponsor id="400103" joined="2007-06-22"/>
+		<cosponsor id="400087" joined="2007-06-21"/>
+		<cosponsor id="400131" joined="2007-06-18"/>
+		<cosponsor id="400270" joined="2007-06-18"/>
+		<cosponsor id="400039" joined="2007-06-18"/>
+		<cosponsor id="400158" joined="2007-06-18"/>
+		<cosponsor id="400259" joined="2007-06-18"/>
+		<cosponsor id="400166" joined="2007-06-18"/>
+		<cosponsor id="400115" joined="2007-06-18"/>
+		<cosponsor id="400436" joined="2007-06-22"/>
+		<cosponsor id="400237" joined="2007-06-22"/>
+		<cosponsor id="400570" joined="2007-06-18"/>
+		<cosponsor id="400169" joined="2007-06-18"/>
+		<cosponsor id="400655" joined="2007-06-18"/>
+		<cosponsor id="400013" joined="2007-06-22"/>
+		<cosponsor id="400340" joined="2007-06-18"/>
+		<cosponsor id="400400" joined="2007-06-18"/>
+		<cosponsor id="400426" joined="2007-06-22"/>
+		<cosponsor id="400653" joined="2007-06-18"/>
+		<cosponsor id="400251" joined="2007-06-18"/>
+		<cosponsor id="400320" joined="2007-06-18"/>
+		<cosponsor id="400178" joined="2007-06-22"/>
+		<cosponsor id="400026" joined="2007-06-18"/>
+		<cosponsor id="400175" joined="2007-06-18"/>
+		<cosponsor id="400378" joined="2007-06-18"/>
+		<cosponsor id="400368" joined="2007-06-18"/>
+		<cosponsor id="400404" joined="2007-06-18"/>
+		<cosponsor id="412232" joined="2007-06-28"/>
+		<cosponsor id="400350" joined="2007-06-22"/>
+		<cosponsor id="400111" joined="2007-06-18"/>
+		<cosponsor id="400360" joined="2007-06-18"/>
+		<cosponsor id="400366" joined="2007-06-22"/>
+		<cosponsor id="400645" joined="2007-06-28"/>
+		<cosponsor id="412239" joined="2007-06-18"/>
+		<cosponsor id="400153" joined="2007-06-18"/>
+		<cosponsor id="400281" joined="2007-06-22"/>
+		<cosponsor id="400211" joined="2007-06-21"/>
+		<cosponsor id="400338" joined="2007-06-18"/>
+		<cosponsor id="400269" joined="2007-06-18"/>
+		<cosponsor id="400643" joined="2007-06-18"/>
+		<cosponsor id="400107" joined="2007-06-18"/>
+		<cosponsor id="400074" joined="2007-06-18"/>
+		<cosponsor id="412201" joined="2007-06-18"/>
+		<cosponsor id="400118" joined="2007-06-18"/>
+		<cosponsor id="400056" joined="2007-06-18"/>
+		<cosponsor id="400628" joined="2007-06-22"/>
+		<cosponsor id="412200" joined="2007-06-21"/>
+		<cosponsor id="400328" joined="2007-06-18"/>
+		<cosponsor id="400644" joined="2007-06-18"/>
+		<cosponsor id="400189" joined="2007-06-21"/>
+		<cosponsor id="400247" joined="2007-06-18"/>
+		<cosponsor id="400319" joined="2007-06-18"/>
+		<cosponsor id="400421" joined="2007-06-18"/>
+		<cosponsor id="400193" joined="2007-06-18"/>
+		<cosponsor id="412196" joined="2007-06-18"/>
+		<cosponsor id="400415" joined="2007-06-22"/>
+		<cosponsor id="400244" joined="2007-06-18"/>
+		<cosponsor id="412236" joined="2007-06-22"/>
+		<cosponsor id="400009" joined="2007-06-18"/>
+		<cosponsor id="400005" joined="2007-06-18"/>
+		<cosponsor id="412186" joined="2007-06-18"/>
+		<cosponsor id="400617" joined="2007-06-18"/>
+		<cosponsor id="400093" joined="2007-06-21"/>
+		<cosponsor id="400221" joined="2007-06-18"/>
+		<cosponsor id="400440" joined="2007-06-18"/>
+		<cosponsor id="400326" joined="2007-06-18"/>
+		<cosponsor id="400649" joined="2007-06-18"/>
+		<cosponsor id="400371" joined="2007-06-18"/>
+		<cosponsor id="400145" joined="2007-06-18"/>
+		<cosponsor id="412212" joined="2007-06-21"/>
+		<cosponsor id="400318" joined="2007-06-18"/>
+		<cosponsor id="400109" joined="2007-06-18"/>
+		<cosponsor id="400185" joined="2007-06-18"/>
+		<cosponsor id="400119" joined="2007-06-18"/>
+		<cosponsor id="400641" joined="2007-06-22"/>
+		<cosponsor id="400139" joined="2007-06-18"/>
+		<cosponsor id="400047" joined="2007-06-22"/>
+		<cosponsor id="400032" joined="2007-06-18"/>
+		<cosponsor id="412220" joined="2007-06-18"/>
+		<cosponsor id="400283" joined="2007-06-18"/>
+		<cosponsor id="400204" joined="2007-06-28"/>
+		<cosponsor id="400310" joined="2007-06-18"/>
+		<cosponsor id="400090" joined="2007-06-28"/>
+		<cosponsor id="400315" joined="2007-06-18"/>
+		<cosponsor id="400651" joined="2007-06-18"/>
+		<cosponsor id="400033" joined="2007-06-18"/>
+		<cosponsor id="400042" joined="2007-06-28"/>
+		<cosponsor id="400208" joined="2007-06-21"/>
+		<cosponsor id="400218" joined="2007-06-21"/>
+		<cosponsor id="400182" joined="2007-06-18"/>
+		<cosponsor id="400046" joined="2007-06-18"/>
+		<cosponsor id="400438" joined="2007-06-22"/>
+		<cosponsor id="412219" joined="2007-06-28"/>
+		<cosponsor id="400150" joined="2007-06-18"/>
+		<cosponsor id="400334" joined="2007-06-18"/>
+		<cosponsor id="400636" joined="2007-06-18"/>
+		<cosponsor id="400024" joined="2007-06-22"/>
+		<cosponsor id="400654" joined="2007-06-18"/>
+		<cosponsor id="400238" joined="2007-06-22"/>
+		<cosponsor id="400363" joined="2007-06-22"/>
+		<cosponsor id="412206" joined="2007-06-28"/>
+		<cosponsor id="400025" joined="2007-06-22"/>
+		<cosponsor id="400301" joined="2007-06-18"/>
+		<cosponsor id="400141" joined="2007-06-18"/>
+		<cosponsor id="400394" joined="2007-06-18"/>
+		<cosponsor id="400163" joined="2007-06-21"/>
+		<cosponsor id="400114" joined="2007-06-22"/>
+		<cosponsor id="400062" joined="2007-06-22"/>
+		<cosponsor id="400011" joined="2007-06-28"/>
+		<cosponsor id="400425" joined="2007-06-18"/>
+		<cosponsor id="400233" joined="2007-06-21"/>
+		<cosponsor id="400108" joined="2007-06-18"/>
+		<cosponsor id="400321" joined="2007-06-18"/>
+		<cosponsor id="400157" joined="2007-06-18"/>
+		<cosponsor id="400341" joined="2007-06-18"/>
+		<cosponsor id="400179" joined="2007-06-18"/>
+		<cosponsor id="412011" joined="2007-06-18"/>
+		<cosponsor id="400100" joined="2007-06-18"/>
+		<cosponsor id="400435" joined="2007-07-16"/>
+		<cosponsor id="400349" joined="2007-06-28"/>
+		<cosponsor id="400622" joined="2007-06-18"/>
+		<cosponsor id="400434" joined="2007-06-18"/>
+		<cosponsor id="400309" joined="2007-06-28"/>
+		<cosponsor id="400252" joined="2007-06-18"/>
+		<cosponsor id="400186" joined="2007-06-18"/>
+		<cosponsor id="400278" joined="2007-06-18"/>
+		<cosponsor id="400067" joined="2007-06-22"/>
+		<cosponsor id="400429" joined="2007-06-18"/>
+		<cosponsor id="400656" joined="2007-06-28"/>
+		<cosponsor id="400075" joined="2007-06-18"/>
+	</cosponsors>
+	<actions>
+		<action date="1181880000" datetime="2007-06-15"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1185836220" datetime="2007-07-30T19:57:00-04:00"><text>Ms. Jackson-Lee moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1185836220" datetime="2007-07-30T19:57:00-04:00"><text>Considered under suspension of the rules. (consideration: CR 7/31/2007 H8920-8925)</text></action>
+		<action date="1185836220" datetime="2007-07-30T19:57:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2750.</text></action>
+		<action date="1185837000" datetime="2007-07-30T20:10:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1185840120" datetime="2007-07-30T21:02:00-04:00"><text>Considered as unfinished business. (consideration: CR 7/31/2007 H8937-8938)</text></action>
+		<vote date="1185841440" how="roll" roll="758" datetime="2007-07-30T21:24:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 758). (text: CR 7/31/2007 H8920-8922)</text></vote>
+		<action date="1185841440" datetime="2007-07-30T21:24:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1185854400" datetime="2007-07-31"><text>Received in the Senate.</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/30/2007--Passed House amended. NASA 50th Anniversary Commemorative Coin Act - Directs the Secretary of the Treasury, in commemoration of the 50th anniversary of the establishment of the National Aeronautics and Space Administration (NASA), to mint and issue $50 gold and $1 silver coins emblematic of the 50 years of exemplary and unparalleled achievements of NASA. Requires all such coin sales to include a surcharge of $50 per $50 coin, and of $10 per $1 coin.<br/>Requires distribution of the first $4 million to the NASA Family Assistance Fund for financial assistance to the families of NASA personnel who die as a result of injuries suffered in the performance of their official duties.<br/>Requires distribution of: (1) one-half of the next $1 million of the remaining amounts to the Dr. Ronald E. McNair Educational (D.R.E.M.E.) Science Literacy Foundation and the Dorothy Jemison Foundation for Excellence; and (2) the remainder to the Secretary of the Smithsonian Institution for the preservation, maintenance, and display of space artifacts at the National Air and Space Museum (including the Steven F. Udvar-Hazy Center).<br/>Authorizes the Secretary to strike and sell bronze duplicates of the $50 gold coins. 
+	</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="110" type="h" number="5593" updated="2009-01-09T04:28:10-05:00">
+	<status><vote date="1213037880" datetime="2008-06-09T15:58:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1205208000" datetime="2008-03-11"/>
+	<titles>
+		<title type="short" as="introduced">Congressional Review Act Improvement Act</title>
+		<title type="short" as="reported to house">Congressional Review Act Improvement Act</title>
+		<title type="short" as="passed house">Congressional Review Act Improvement Act</title>
+		<title type="official" as="introduced">To amend title 5, United States Code, to make technical amendments to certain provisions of title 5, United States Code, enacted by the Congressional Review Act.</title>
+	</titles>
+	<sponsor id="400355"/>
+	<cosponsors>
+		<cosponsor id="400059" joined="2008-03-11"/>
+		<cosponsor id="400381" joined="2008-03-11"/>
+		<cosponsor id="400080" joined="2008-03-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1205208000" datetime="2008-03-11"><text>Sponsor introductory remarks on measure. (CR E348)</text></action>
+		<action date="1205208000" datetime="2008-03-11"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1205726400" datetime="2008-03-17"><text>Referred to the Subcommittee on Commercial and Administrative Law.</text></action>
+		<action date="1209009600" datetime="2008-04-24"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1209009600" datetime="2008-04-24"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1209528000" datetime="2008-04-30"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1209528000" datetime="2008-04-30" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1212702540" datetime="2008-06-05T18:49:00-04:00"><text>Reported by the Committee on Judiciary. H. Rept. 110-700.</text></action>
+		<calendar number="443" date="1212702540" datetime="2008-06-05T18:49:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 443.</text></calendar>
+		<action date="1213037580" datetime="2008-06-09T15:53:00-04:00"><text>Ms. Lofgren, Zoe moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1213037580" datetime="2008-06-09T15:53:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5064-5065"/></action>
+		<action date="1213037580" datetime="2008-06-09T15:53:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5593.</text></action>
+		<vote date="1213037880" how="by voice vote" datetime="2008-06-09T15:58:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H5064"/></vote>
+		<action date="1213070400" datetime="2008-06-10"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/9/2008--Passed House amended. Congressional Review Act Improvement Act - Repeals the requirement that federal agencies must submit rules (and related reports) that are published in the Federal Register to both Houses of Congress before such rules can take effect (thus making the Comptroller General the sole recipient of such rules).<br/>Requires the Comptroller General to submit to each House of Congress a weekly report containing a list of the rules received by the Comptroller General, including a notation indicating whether or not a rule is a major rule. Requires the Speaker of the House of Representatives and the Senate to publish in the Congressional Record each report received from the Comptroller General and a statement of referral to the committee or committees responsible for the review of the rules in each such report. 
+	</summary>
+</bill>

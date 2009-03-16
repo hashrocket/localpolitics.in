@@ -1,0 +1,51 @@
+<bill session="111" type="h" number="987" updated="2009-03-11T12:11:52-04:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 601 8th Street in Freedom, Pennsylvania, as the &quot;John Scott Challis, Jr. Post Office&quot;.</title>
+	</titles>
+	<sponsor id="412231"/>
+	<cosponsors>
+		<cosponsor id="400648" joined="2009-02-11"/>
+		<cosponsor id="400147" joined="2009-02-11"/>
+		<cosponsor id="400210" joined="2009-02-11"/>
+		<cosponsor id="412317" joined="2009-02-11"/>
+		<cosponsor id="400183" joined="2009-02-11"/>
+		<cosponsor id="412234" joined="2009-02-11"/>
+		<cosponsor id="400320" joined="2009-02-11"/>
+		<cosponsor id="412232" joined="2009-02-11"/>
+		<cosponsor id="400647" joined="2009-02-11"/>
+		<cosponsor id="400047" joined="2009-02-11"/>
+		<cosponsor id="409888" joined="2009-02-11"/>
+		<cosponsor id="400286" joined="2009-02-11"/>
+		<cosponsor id="412273" joined="2009-02-11"/>
+		<cosponsor id="400285" joined="2009-02-11"/>
+		<cosponsor id="400130" joined="2009-02-11"/>
+		<cosponsor id="400114" joined="2009-02-11"/>
+		<cosponsor id="400321" joined="2009-02-11"/>
+		<cosponsor id="412233" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Congressional tributes"/>
+		<term name="Government buildings, facilities, and property"/>
+		<term name="Pennsylvania"/>
+		<term name="Postal service"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Introduced.<br/>Designates the facility of the United States Postal Service located at 601 8th Street in Freedom, Pennsylvania, as the &quot;John Scott Challis, Jr. Post Office.&quot;<br/>
+	</summary>
+</bill>

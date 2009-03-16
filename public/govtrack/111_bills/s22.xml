@@ -1,0 +1,190 @@
+<bill session="111" type="s" number="22" updated="2009-03-12T12:06:49-04:00">
+	<status><vote2 date="1236829140" datetime="2009-03-11T12:39:00-04:00" where="h" result="fail" how="roll" roll="117"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Omnibus Public Land Management Act of 2009</title>
+		<title type="short" as="introduced">Christopher and Dana Reeve Paralysis Act</title>
+		<title type="short" as="introduced">Coastal and Estuarine Land Conservation Program Act</title>
+		<title type="short" as="introduced">Craig Thomas Snake Headwaters Legacy Act of 2008</title>
+		<title type="short" as="introduced">Federal Ocean Acidification Research And Monitoring Act of 2009</title>
+		<title type="short" as="introduced">FOARAM Act</title>
+		<title type="short" as="introduced">Integrated Coastal and Ocean Observation System Act of 2009</title>
+		<title type="short" as="introduced">NOAA Undersea Research Program Act of 2009</title>
+		<title type="short" as="introduced">Northwestern New Mexico Rural Water Projects Act</title>
+		<title type="short" as="introduced">Ocean and Coastal Mapping Integration Act</title>
+		<title type="short" as="introduced">San Joaquin River Restoration Settlement Act</title>
+		<title type="short" as="passed senate">Omnibus Public Land Management Act of 2009</title>
+		<title type="short" as="passed senate">Christopher and Dana Reeve Paralysis Act</title>
+		<title type="short" as="passed senate">Coastal and Estuarine Land Conservation Program Act</title>
+		<title type="short" as="passed senate">Craig Thomas Snake Headwaters Legacy Act of 2008</title>
+		<title type="short" as="passed senate">Federal Ocean Acidification Research And Monitoring Act of 2009</title>
+		<title type="short" as="passed senate">FOARAM Act</title>
+		<title type="short" as="passed senate">Integrated Coastal and Ocean Observation System Act of 2009</title>
+		<title type="short" as="passed senate">NOAA Undersea Research Program Act of 2009</title>
+		<title type="short" as="passed senate">Northwestern New Mexico Rural Water Projects Act</title>
+		<title type="short" as="passed senate">Ocean and Coastal Mapping Integration Act</title>
+		<title type="short" as="passed senate">San Joaquin River Restoration Settlement Act</title>
+		<title type="official" as="introduced">A bill to designate certain land as components of the National Wilderness Preservation System, to authorize certain programs and activities in the Department of the Interior and the Department of Agriculture, and for other purposes.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Sponsor introductory remarks on measure. (CR S162-163)</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar date="1231390800" datetime="2009-01-08" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 13.</text></calendar>
+		<action date="1231477200" datetime="2009-01-09"><text>Motion to proceed to consideration of measure made in Senate.</text><reference label="consideration" ref="CR S239"/></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Motion to proceed to measure considered in Senate.</text><reference label="consideration" ref="CR S239-255"/></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Cloture motion on the motion to proceed to the measure presented in Senate.</text><reference label="consideration" ref="CR S255"/><reference label="text" ref="CR S255"/></action>
+		<action date="1231650000" datetime="2009-01-11"><text>Motion to proceed to measure considered in Senate.</text><reference label="consideration" ref="CR S263-271"/></action>
+		<action date="1231650000" datetime="2009-01-11"><text>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 66 - 12. Record Vote Number: 1.</text><reference label="consideration" ref="CR S271"/><reference label="text" ref="CR S271"/></action>
+		<action date="1231736400" datetime="2009-01-12"><text>Motion to proceed to measure considered in Senate.</text><reference label="consideration" ref="CR S287-299"/></action>
+		<action date="1231736400" datetime="2009-01-12"><text>Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.</text></action>
+		<action date="1231736400" datetime="2009-01-12"><text>Measure laid before Senate by unanimous consent.</text></action>
+		<action date="1231736400" datetime="2009-01-12"><text>Motion by Senator Reid to commit to Senate Committee on Energy and Natural Resources with instructions to report back forthwith, with the following amendment (SA 17) made in Senate.</text><reference label="consideration" ref="CR S299"/></action>
+		<action date="1231736400" datetime="2009-01-12"><text>Cloture motion on the measure presented in Senate.</text><reference label="consideration" ref="CR S299"/><reference label="text" ref="CR S299"/></action>
+		<action date="1231822800" datetime="2009-01-13"><text>Considered by Senate.</text><reference label="consideration" ref="CR S324-333"/></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Considered by Senate.</text><reference label="consideration" ref="CR S353-380"/></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Cloture on the measure invoked in Senate by Yea-Nay Vote. 68 - 24. Record Vote Number: 2.</text><reference label="consideration" ref="CR S356-357"/><reference label="text" ref="CR S356"/></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Motion by Senator Reid to commit to Senate Committee on Energy and Natural Resources with instructions to report back forthwith, with the following amendment (SA 17) withdrawn in Senate by Unanimous Consent.</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Considered by Senate.</text><reference label="consideration" ref="CR S419-557"/></action>
+		<vote date="1231995600" how="roll" roll="3" datetime="2009-01-15" where="s" type="vote" result="pass" ><text>Passed Senate with amendments by Yea-Nay Vote. 73 - 21. Record Vote Number: 3.</text><reference label="text" ref="CR S430-557"/></vote>
+		<action date="1232082000" datetime="2009-01-16"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1232136360" datetime="2009-01-16T16:06:00-05:00"><text>Received in the House.</text></action>
+		<action date="1232136420" datetime="2009-01-16T16:07:00-05:00"><text>Held at the desk.</text></action>
+		<action date="1236778140" datetime="2009-03-11T10:29:00-04:00"><text>Mr. Rahall moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1236778200" datetime="2009-03-11T10:30:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H33151-3290"/><reference label="text" ref="CR H3151-3277"/></action>
+		<action date="1236778200" datetime="2009-03-11T10:30:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 22.</text></action>
+		<action date="1236779460" datetime="2009-03-11T10:51:00-04:00"><text>WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used and a demand was made to have words taken down. Mr. Culberson asked unanimous consent to withdraw the words. Without objection the words were withdrawn. The House resumed debate on S. 22.</text></action>
+		<action date="1236781440" datetime="2009-03-11T11:24:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1236828720" datetime="2009-03-11T12:32:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3296"/></action>
+		<vote date="1236829140" how="roll" roll="117" datetime="2009-03-11T12:39:00-04:00" where="h" type="vote2" suspension="1" result="fail" ><text>On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 282 - 144 (Roll no. 117).</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="222" />
+		<bill relation="unknown" session="111" type="h" number="316" />
+		<bill relation="unknown" session="111" type="h" number="608" />
+		<bill relation="unknown" session="111" type="h" number="867" />
+		<bill relation="unknown" session="111" type="h" number="926" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Advisory bodies"/>
+		<term name="Alabama"/>
+		<term name="Alaska"/>
+		<term name="Arizona"/>
+		<term name="Arkansas"/>
+		<term name="Aviation and airports"/>
+		<term name="California"/>
+		<term name="Caribbean area"/>
+		<term name="Climate change"/>
+		<term name="Colorado"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Connecticut"/>
+		<term name="Department of the Interior"/>
+		<term name="Disability and paralysis"/>
+		<term name="Everglades"/>
+		<term name="Farmland"/>
+		<term name="Fires"/>
+		<term name="Fishes"/>
+		<term name="Florida"/>
+		<term name="Forests"/>
+		<term name="General public lands matters"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Government investigations"/>
+		<term name="Great Lakes"/>
+		<term name="Hawaii"/>
+		<term name="Historic sites and heritage areas"/>
+		<term name="Idaho"/>
+		<term name="Indian lands and resources rights"/>
+		<term name="Kansas"/>
+		<term name="Kentucky"/>
+		<term name="Land transfers"/>
+		<term name="Latin America"/>
+		<term name="Livestock"/>
+		<term name="Louisiana"/>
+		<term name="Maine"/>
+		<term name="Mammals"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Maryland"/>
+		<term name="Massachusetts"/>
+		<term name="Medical research"/>
+		<term name="Michigan"/>
+		<term name="Military history"/>
+		<term name="Mining"/>
+		<term name="Mississippi"/>
+		<term name="Missouri"/>
+		<term name="Montana"/>
+		<term name="Navigation, waterways, harbors"/>
+		<term name="Nevada"/>
+		<term name="New Hampshire"/>
+		<term name="New Jersey"/>
+		<term name="New Mexico"/>
+		<term name="New York State"/>
+		<term name="North Dakota"/>
+		<term name="Ohio"/>
+		<term name="Oil and gas"/>
+		<term name="Oklahoma"/>
+		<term name="Oregon"/>
+		<term name="Panama"/>
+		<term name="Parks, recreation areas, trails"/>
+		<term name="Pennsylvania"/>
+		<term name="Presidential administrations"/>
+		<term name="Puerto Rico"/>
+		<term name="Research administration and funding"/>
+		<term name="Rhode Island"/>
+		<term name="Roads and highways"/>
+		<term name="Seashores and lakeshores"/>
+		<term name="Smithsonian Institution"/>
+		<term name="South Carolina"/>
+		<term name="Tennessee"/>
+		<term name="Texas"/>
+		<term name="U.S. history"/>
+		<term name="Utah"/>
+		<term name="Virginia"/>
+		<term name="Washington State"/>
+		<term name="Water quality"/>
+		<term name="Water resources funding"/>
+		<term name="Water use and supply"/>
+		<term name="Watersheds"/>
+		<term name="West Virginia"/>
+		<term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+		<term name="Wildlife conservation and habitat protection"/>
+		<term name="Wisconsin"/>
+		<term name="Women's rights"/>
+		<term name="Wyoming"/>
+	</subjects>
+	<amendments>
+		<amendment number="s1"/>
+		<amendment number="s2"/>
+		<amendment number="s3"/>
+		<amendment number="s4"/>
+		<amendment number="s5"/>
+		<amendment number="s6"/>
+		<amendment number="s7"/>
+		<amendment number="s8"/>
+		<amendment number="s9"/>
+		<amendment number="s10"/>
+		<amendment number="s11"/>
+		<amendment number="s12"/>
+		<amendment number="s13"/>
+		<amendment number="s14"/>
+		<amendment number="s15"/>
+		<amendment number="s16"/>
+		<amendment number="s17"/>
+		<amendment number="s18"/>
+		<amendment number="s19"/>
+		<amendment number="s20"/>
+		<amendment number="s21"/>
+		<amendment number="s23"/>
+		<amendment number="s24"/>
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Omnibus Public Land Management Act of 2009 - Authorizes specified programs and activities in the Department of the Interior and the Department of Agriculture concerning, among other things, national wilderness preservation, boundary adjustments, national rivers, the national landscape conservation system, national conservation areas, land conveyances and exchanges, watershed management, watershed restoration and enhancement, wildland firefighter safety, forest landscape restoration, national trails, paleontological resources preservation, wolf livestock loss, national parks, studies, infrastructure, advisory commissions, national heritage areas, national heritage corridors, water projects, tribal water rights, ocean exploration, NOAA (National Oceanic and Atmospheric Administration) undersea research, ocean and coastal mapping integration, the integrated coastal and ocean observation system, federal ocean acidification research and monitoring, and coastal and estuarine land conservation.<br/>Makes amendments to various public laws, including the Oregon Wilderness Act of 1984, the Wild and Scenic Rivers Act, the Omnibus Parks and Public Lands Management Act of 1996, the National Trails System Act, the Alaska National Interest Lands Conservation Act, the National Parks and Recreation Act of 1978, the National Park Service Concessions Management Improvement Act of 1998, the Quinebaug and Shetucket Rivers Valley National Heritage Corridor Act of 1994, the Delaware and Lehigh National Heritage Corridor Act of 1988, the Erie Canalway National Heritage Corridor Act, the Reclamation Wastewater and Groundwater Study and Facilities Act, the Colorado River Storage Project Act, the National Geologic Mapping Act of 1992, the Coastal Zone Management Act of 1972, the Fisheries Restoration and Irrigation Mitigation Act of 2000, and the Alaska Natural Gas Pipeline Act.<br/>Provides for: (1) paralysis research and rehabilitation activities through the Christopher and Dana Reeve Paralysis Act; and (2) specified activities of the Smithsonian Institution.<br/>
+	</summary>
+</bill>

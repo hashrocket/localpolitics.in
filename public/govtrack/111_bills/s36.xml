@@ -1,0 +1,35 @@
+<bill session="111" type="s" number="36" updated="2009-03-07T13:36:31-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Abolishing Aviation Barriers Act of 2009</title>
+		<title type="official" as="introduced">A bill to repeal the perimeter rule for Ronald Reagan Washington National Airport, and for other purposes.</title>
+	</titles>
+	<sponsor id="300071"/>
+	<cosponsors>
+		<cosponsor id="300040" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR S53-54)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Aviation and airports"/>
+		<term name="New York City"/>
+		<term name="Virginia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Abolishing Aviation Barriers Act of 2009 - Repeals the prohibition against an air carrier's operation of an aircraft nonstop in air transportation between Ronald Reagan Washington National Airport and another airport that is more than 1,250 statute miles away (perimeter rule). Prohibits the obligation of federal funds to enforce the Port Authority of New York and New Jersey perimeter rule banning flights beyond 1,500 miles (or any other flight distance related restriction) from arrival or departure at New York LaGuardia Airport. 
+	</summary>
+</bill>

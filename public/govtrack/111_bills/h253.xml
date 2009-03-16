@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="253" updated="2009-03-07T10:17:27-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Critical Election Infrastructure Act of 2009</title>
+		<title type="official" as="introduced">To direct the Election Assistance Commission to make grants to States to carry out election administration improvement plans.</title>
+	</titles>
+	<sponsor id="400170"/>
+	<cosponsors>
+		<cosponsor id="400663" joined="2009-01-07"/>
+		<cosponsor id="400133" joined="2009-01-08"/>
+		<cosponsor id="400048" joined="2009-01-07"/>
+		<cosponsor id="412272" joined="2009-01-08"/>
+		<cosponsor id="412327" joined="2009-01-08"/>
+		<cosponsor id="400360" joined="2009-01-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Sponsor introductory remarks on measure. (CR E34)</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on House Administration.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Congressional elections"/>
+		<term name="Elections, voting, political campaign regulation"/>
+		<term name="Presidents and presidential powers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Critical Election Infrastructure Act of 2009 - Directs the Election Assistance Commission (EAC) to make grants to eligible states to carry out election administration improvement plans to promote efficiency and fairness in the operation of polling places in federal elections (including early voting sites), which may include: (1) acquisition of additional voting systems and equipment; (2) improved training of election administration officials; and (3) allocation of additional election administration officials to polling places serving greater numbers of voters.<br/>
+	</summary>
+</bill>

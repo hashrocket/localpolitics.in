@@ -1,0 +1,61 @@
+<bill session="111" type="h" number="137" updated="2009-03-07T10:03:53-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Employment Eligibility Verification and Anti-Identity Theft Act</title>
+		<title type="official" as="introduced">To require an employer to take action after receiving official notice that an individual's Social Security account number does not match the individual's name, and for other purposes.</title>
+	</titles>
+	<sponsor id="400144"/>
+	<cosponsors>
+		<cosponsor id="400627" joined="2009-01-13"/>
+		<cosponsor id="400277" joined="2009-01-26"/>
+		<cosponsor id="400343" joined="2009-01-13"/>
+		<cosponsor id="400115" joined="2009-02-03"/>
+		<cosponsor id="400570" joined="2009-01-06"/>
+		<cosponsor id="400242" joined="2009-01-13"/>
+		<cosponsor id="400644" joined="2009-01-13"/>
+		<cosponsor id="400260" joined="2009-01-26"/>
+		<cosponsor id="400032" joined="2009-01-13"/>
+		<cosponsor id="400433" joined="2009-01-06"/>
+		<cosponsor id="400654" joined="2009-01-06"/>
+		<cosponsor id="400055" joined="2009-01-13"/>
+		<cosponsor id="400141" joined="2009-01-13"/>
+		<cosponsor id="412011" joined="2009-01-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Judiciary</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Ways and Means</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Education and Labor</text></action>
+		<action date="1234155600" datetime="2009-02-09"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" activity="Referral" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Border security and unlawful immigration"/>
+		<term name="Business records"/>
+		<term name="Civil actions and liability"/>
+		<term name="Computer crimes and identity theft"/>
+		<term name="Foreign labor"/>
+		<term name="Fraud offenses"/>
+		<term name="Government information and archives"/>
+		<term name="Government liability"/>
+		<term name="Right of privacy"/>
+		<term name="Social security and elderly assistance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Employment Eligibility Verification and Anti-Identity Theft Act - Directs the Commissioner of the Social Security Administration to notify a person or entity each time that the combination of name and Social Security account number it has submitted for an individual does not match Social Security Administration records. Directs the Secretary of Homeland Security (HS) to notify a person or entity each time that: (1) an immigration status or employment authorization document presented or referenced by an individual during the employment eligibility verification process was assigned to another person; or (2) there is no agency record that the document was assigned to any person. Directs the HS Secretary to establish a system, meeting specified requirements, for verifying an individual's identity and employment eligibility. Requires any person or entity that has received a discrepancy notice under this Act to verify the individual's employment authorization and identity through such system. Places the burden of resolving errors in the verification mechanism on the individual whose employment eligibility and identity have not been verified. Requires the individual to terminate any employment in the United States if a final nonverification is received. Requires the Commissioner of Social Security to provide the last known name, address, and location of a nonverified individual to the Secretary of Homeland Security. Provides for sanctions against employers who continue to employ an individual after receiving a final nonverification. Amends the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 to require any person or entity that receives written notice about more than 20 individuals in one calendar year to: (1) participate in a basic pilot project for employment eligibility confirmation; and (2) comply with specified terms and conditions. Provides for: (1) a remedy under the Federal Tort Claims Act for job dismissals occasioned by verification mechanism errors; and (2) protection from civil and criminal liability for persons or entities that take action in good faith on the basis of verification mechanism information. 
+	</summary>
+</bill>

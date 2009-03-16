@@ -1,0 +1,49 @@
+<bill session="110" type="h" number="1660" updated="2009-01-08T20:19:05-05:00">
+	<status><vote date="1179944760" datetime="2007-05-23T15:26:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1174536000" datetime="2007-03-22"/>
+	<titles>
+		<title type="official" as="introduced">To direct the Secretary of Veterans Affairs to establish a national cemetery for veterans in the southern Colorado region.</title>
+	</titles>
+	<sponsor id="400620"/>
+	<cosponsors>
+		<cosponsor id="400199" joined="2007-04-24"/>
+		<cosponsor id="412192" joined="2007-03-26"/>
+		<cosponsor id="400101" joined="2007-03-29"/>
+		<cosponsor id="400412" joined="2007-03-26"/>
+		<cosponsor id="400287" joined="2007-04-23"/>
+		<cosponsor id="412204" joined="2007-05-03"/>
+		<cosponsor id="400204" joined="2007-05-23"/>
+		<cosponsor id="412191" joined="2007-05-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1174536000" datetime="2007-03-22"><text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1174536000" datetime="2007-03-22"><text>Referred to House Veterans' Affairs</text></action>
+		<action date="1174536000" datetime="2007-03-22"><text>Referred to House Ways and Means</text></action>
+		<action date="1174622400" datetime="2007-03-23"><committee name="House Veterans' Affairs"/><text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text></action>
+		<action date="1177387200" datetime="2007-04-24"><committee name="House Veterans' Affairs" subcommittee="Disability Assistance and Memorial Affairs"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1177387200" datetime="2007-04-24"><committee name="House Veterans' Affairs" subcommittee="Disability Assistance and Memorial Affairs"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action date="1179201600" datetime="2007-05-15"><committee name="House Veterans' Affairs"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1179201600" datetime="2007-05-15" ><committee name="House Veterans' Affairs"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1179943860" datetime="2007-05-23T15:11:00-04:00"><text>Mr. Filner moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1179943860" datetime="2007-05-23T15:11:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5660-5662"/></action>
+		<action date="1179943860" datetime="2007-05-23T15:11:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1660.</text></action>
+		<vote date="1179944760" how="by voice vote" datetime="2007-05-23T15:26:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H5660"/></vote>
+		<action date="1179979200" datetime="2007-05-24"><text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/23/2007--Passed House amended. Directs the Secretary of Veterans Affairs to establish a national cemetery in El Paso County, Colorado. Requires a report from the Secretary to Congress on the establishment of the cemetery.<br/>
+	</summary>
+</bill>

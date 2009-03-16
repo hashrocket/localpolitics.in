@@ -1,0 +1,32 @@
+<bill session="110" type="sr" number="645" updated="2009-01-09T21:19:00-05:00">
+	<status><vote date="1221019200" datetime="2008-09-10" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1217563200" datetime="2008-08-01"/>
+	<titles>
+		<title type="official" as="introduced">A resolution honoring the life of Anne Legendre Armstrong.</title>
+	</titles>
+	<sponsor id="300027"/>
+	<cosponsors>
+		<cosponsor id="300054" joined="2008-08-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1217563200" datetime="2008-08-01"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S8049"/></action>
+		<action date="1221019200" datetime="2008-09-10"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S8326"/></action>
+		<vote date="1221019200" how="by Unanimous Consent" datetime="2008-09-10" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S8326"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/10/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Honors the life of Anne Legendre Armstrong (first female co-chair of the Republican National Committee and former U.S. Ambassador to the United Kingdom).<br/>
+	</summary>
+</bill>

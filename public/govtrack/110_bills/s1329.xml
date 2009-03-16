@@ -1,0 +1,37 @@
+<bill session="110" type="s" number="1329" updated="2009-01-09T14:34:04-05:00">
+	<status><calendar date="1201669200" datetime="2008-01-30" /></status>
+
+	<introduced date="1178596800" datetime="2007-05-08"/>
+	<titles>
+		<title type="short" as="introduced">Acadia National Park Improvement Act of 2007</title>
+		<title type="official" as="introduced">A bill to extend the Acadia National Park Advisory Commission, to provide improved visitor services at the park, and for other purposes.</title>
+	</titles>
+	<sponsor id="300025"/>
+	<cosponsors>
+		<cosponsor id="300091" joined="2007-05-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1178596800" datetime="2007-05-08"><text>Sponsor introductory remarks on measure. (CR S5729)</text></action>
+		<action date="1178596800" datetime="2007-05-08"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1189483200" datetime="2007-09-11"><text>Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-213.</text></action>
+		<calendar date="1201669200" datetime="2008-01-30" ><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1207800000" datetime="2008-04-10"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 110-291.</text></action>
+		<calendar under="General Orders" number="643" date="1207800000" datetime="2008-04-10" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 643.</text></calendar>
+		<action date="1213156800" datetime="2008-06-11"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S5530"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/8/2007--Introduced.<br/>Acadia National Park Improvement Act of 2007 - Amends Public Law 99-420 (relating to the establishment of a permanent boundary for the Acadia National Park in Maine) to prohibit any town in which there is federally owned property under the jurisdiction of the Secretary of the Interior which lies outside the boundary of the Park from being eligible to receive such lands unless lands within the Park boundary and owned by such town have been conveyed to the Secretary. Extends the Acadia National Park Advisory Commission. Makes such extension take effect on September 25, 2006. Increases the ceiling on the amount of appropriations for the acquisition of lands and interests with respect to the Acadia National Park. Directs the Secretary of the Interior to provide assistance in the planning, construction, and operation of an intermodal transportation center located outside the Park's boundary, in the town of Trenton, Maine, to improve the management, interpretation, and visitor enjoyment of the Park.<br/>
+	</summary>
+</bill>

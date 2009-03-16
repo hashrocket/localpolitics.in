@@ -1,0 +1,59 @@
+<bill session="111" type="h" number="300" updated="2009-03-07T10:22:48-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">National Oceanic and Atmospheric Administration Act</title>
+		<title type="official" as="introduced">To provide for the National Oceanic and Atmospheric Administration, and for other purposes.</title>
+	</titles>
+	<sponsor id="400119"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the Committee on Science and Technology, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to House Science and Technology</text></action>
+		<action date="1231390800" datetime="2009-01-08"><committee name="House Science and Technology"/><text>Referred to the Subcommittee on Energy and Environment.</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to House Natural Resources</text></action>
+		<action date="1233723600" datetime="2009-02-04"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Science and Technology" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Science and Technology" subcommittee="Energy and Environment" activity="Referral" />
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Insular Affairs, Oceans and Wildlife" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Science, technology, communications"/>
+		<term name="Advanced technology and technological innovations"/>
+		<term name="Advisory bodies"/>
+		<term name="Aquatic ecology"/>
+		<term name="Atmospheric science and weather"/>
+		<term name="Climate change"/>
+		<term name="Congressional oversight"/>
+		<term name="Department of Commerce"/>
+		<term name="Earth sciences and observation"/>
+		<term name="Environmental assessment, monitoring, research"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Government buildings, facilities, and property"/>
+		<term name="Government information and archives"/>
+		<term name="Great Lakes"/>
+		<term name="Higher education"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Navigation, waterways, harbors"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Public-private cooperation"/>
+		<term name="Research and development"/>
+		<term name="Science and engineering education"/>
+		<term name="Spacecraft and satellites"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>National Oceanic and Atmospheric Administration Act - Reestablishes in the Department of Commerce the National Oceanic and Atmospheric Administration (NOAA), headed by an Under Secretary of Commerce for Oceans and Atmosphere, who shall serve as the Administrator of NOAA. Maintains within NOAA: (1) the National Weather Service; (2) programs to support efforts, on a continuing basis, to collect data and provide information and products regarding satellites, observations, and coastal, ocean, and Great Lakes information; and (3) programs to conduct and support research and education and the development of technologies relating to weather, climate, and the coasts, oceans, and Great Lakes. Establishes a Science Advisory Board within NOAA. Terminates the Reorganization Plan No. 4 of 1970 (the executive order that established NOAA). Requires the Administrator to develop and submit to Congress a NOAA reorganization plan. Prohibits the Administrator from closing, consolidating, relocating, subdividing, or establishing a facility of NOAA unless there has been specified prior public and congressional notification, and an assessment, of any proposed changes. Prohibits, except as provided, a NOAA activity or function that is converted to contractor performance under Office of Management and Budget Circular A-76 from being performed by the contractor or any subcontractor at a location outside of the United States.<br/>
+	</summary>
+</bill>

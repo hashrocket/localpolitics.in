@@ -1,0 +1,44 @@
+<bill session="111" type="s" number="301" updated="2009-03-07T14:09:35-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">Physician Payments Sunshine Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend title XI of the Social Security Act to provide for transparency in the relationship between physicians and manufacturers of drugs, devices, biologicals, or medical supplies for which payment is made under Medicare, Medicaid, or SCHIP.</title>
+	</titles>
+	<sponsor id="300048"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2009-01-22"/>
+		<cosponsor id="300061" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Sponsor introductory remarks on measure. (CR S787-788)</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Child health"/>
+		<term name="Congressional oversight"/>
+		<term name="Government information and archives"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health personnel"/>
+		<term name="Health technology, devices, supplies"/>
+		<term name="Manufacturing"/>
+		<term name="Medicaid"/>
+		<term name="Medical ethics"/>
+		<term name="Medicare"/>
+		<term name="Product development and innovation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,30 @@
+<bill session="111" type="hr" number="198" updated="2009-03-07T13:30:09-05:00">
+	<status><introduced date="1235624400" datetime="2009-02-26"/></status>
+
+	<introduced date="1235624400" datetime="2009-02-26"/>
+	<titles>
+		<title type="official" as="introduced">Expressing support for the designation of May 7 as National Information and Referral Services Day.</title>
+	</titles>
+	<sponsor id="400400"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1235624400" datetime="2009-02-26"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="hr" number="187" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/26/2009--Introduced.<br/>Supports designation of National Information and Referral Services Day (May 7). 
+	</summary>
+</bill>

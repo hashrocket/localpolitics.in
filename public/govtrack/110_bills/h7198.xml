@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="7198" updated="2009-01-09T07:37:44-05:00">
+	<status><enacted date="1223956800" datetime="2008-10-14" /></status>
+
+	<introduced date="1222574400" datetime="2008-09-28"/>
+	<titles>
+		<title type="short" as="introduced">Stephanie Tubbs Jones Gift of Life Medal Act of 2008</title>
+		<title type="official" as="introduced">To establish the Stephanie Tubbs Jones Gift of Life Medal for organ donors and the family of organ donors.</title>
+	</titles>
+	<sponsor id="400387"/>
+	<cosponsors>
+		<cosponsor id="400333" joined="2008-09-28"/>
+		<cosponsor id="400058" joined="2008-09-28"/>
+		<cosponsor id="400261" joined="2008-09-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1222574400" datetime="2008-09-28"><text>Referred to the Committee on Financial Services, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1222574400" datetime="2008-09-28"><text>Referred to House Financial Services</text></action>
+		<action date="1222574400" datetime="2008-09-28"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1222710540" datetime="2008-09-29T14:49:00-04:00"><text>Ms. Moore (WI) asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1222710540" datetime="2008-09-29T14:49:00-04:00"><text>Committee on Financial Services discharged.</text></action>
+		<action date="1222710540" datetime="2008-09-29T14:49:00-04:00"><text>Committee on Energy and Commerce discharged.</text></action>
+		<action date="1222710540" datetime="2008-09-29T14:49:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10629"/></action>
+		<vote date="1222710720" how="without objection" datetime="2008-09-29T14:52:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H10629"/></vote>
+		<action date="1222747200" datetime="2008-09-30"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1222833600" how="by Unanimous Consent" datetime="2008-10-01" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10396"/></vote>
+		<topresident date="1222833600" datetime="2008-10-01" ><text>Cleared for White House.</text></topresident>
+		<action date="1222920000" datetime="2008-10-02"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1223265600" datetime="2008-10-06" ><text>Presented to President.</text></topresident>
+		<signed date="1223956800" datetime="2008-10-14" ><text>Signed by President.</text></signed>
+		<enacted number="110-413" date="1223956800" datetime="2008-10-14" type="public" ><text>Became Public Law No: 110-413.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/14/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Stephanie Tubbs Jones Gift of Life Medal Act of 2008 - Makes any organ donor, or the family of any organ donor, eligible for a Stephanie Tubbs Jones Gift of Life Medal. Requires the Secretary of Health and Human Services to direct the Organ Procurement and Transplantation Network to establish an application procedure, determine eligibility, and arrange for the presentation of medals.<br/>Allows only one medal per family. Requires that such medal be presented to the donor or, in the case of a deceased donor, the family member who signed the consent form authorizing the organ donation. Authorizes the Network to collect funds to offset expenditures relating to the issuance of medals. Prohibits federal funds from being used to carry out this Act. Requires the Secretary of the Treasury to design and strike the Stephanie Tubbs Jones Gift of Life Medals using certain specifications.<br/>Provides that a medal under this Act shall not be treated as valuable consideration for purposes of prohibiting transferring human organs for valuable consideration.<br/>
+	</summary>
+</bill>

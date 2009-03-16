@@ -1,0 +1,33 @@
+<bill session="111" type="s" number="282" updated="2009-03-07T14:07:22-05:00">
+	<status><introduced date="1232514000" datetime="2009-01-21"/></status>
+
+	<introduced date="1232514000" datetime="2009-01-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of Kazakhstan.</title>
+	</titles>
+	<sponsor id="300070"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1232514000" datetime="2009-01-21"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="876" />
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Asia"/>
+		<term name="Kazakhstan"/>
+		<term name="Normal trade relations, most-favored-nation treatment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/2009--Introduced.<br/>Authorizes the President to extend nondiscriminatory treatment (normal trade relations treatment) to the products of Kazakhstan.<br/>
+	</summary>
+</bill>

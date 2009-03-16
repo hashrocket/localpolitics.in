@@ -1,0 +1,39 @@
+<bill session="111" type="s" number="291" updated="2009-03-07T14:08:22-05:00">
+	<status><introduced date="1232514000" datetime="2009-01-21"/></status>
+
+	<introduced date="1232514000" datetime="2009-01-21"/>
+	<titles>
+		<title type="short" as="introduced">Guantanamo Bay Detention Facility Safe Closure Act of 2009</title>
+		<title type="official" as="introduced">A bill to provide for certain requirements related to the closing of the Guantanamo Bay detention facility.</title>
+	</titles>
+	<sponsor id="300013"/>
+	<cosponsors>
+		<cosponsor id="300083" joined="2009-01-21"/>
+		<cosponsor id="300010" joined="2009-01-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1232514000" datetime="2009-01-21"><text>Read twice and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="1069" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Caribbean area"/>
+		<term name="Congressional oversight"/>
+		<term name="Correctional facilities and imprisonment"/>
+		<term name="Cuba"/>
+		<term name="Government investigations"/>
+		<term name="Latin America"/>
+		<term name="Military facilities and property"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/2009--Introduced.<br/>Guantanamo Bay Detention Facility Safe Closure Act of 2009 - Directs the President to notify the congressional defense and appropriations committees at least 90 days before taking any action associated with the closure of the Department of Defense (DOD) detention facility at Guantanamo Bay, Cuba, and the transfer of any persons detained there to a new detention facility in the United States.<br/>Requires the notification to include a: (1) study addressing the legal ramifications and the security, infrastructure, and other support requirements associated with such closure and transfer of persons detained; and (2) plan for the relocation of the persons detained.<br/>
+	</summary>
+</bill>

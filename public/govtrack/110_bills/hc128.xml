@@ -1,0 +1,36 @@
+<bill session="110" type="hc" number="128" updated="2009-01-08T15:43:04-05:00">
+	<status><vote2 date="1179892800" datetime="2007-05-23" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1177473600" datetime="2007-04-25"/>
+	<titles>
+		<title type="official" as="introduced">Authorizing the printing of a commemorative document in memory of the late President of the United States, Gerald Rudolph Ford.</title>
+	</titles>
+	<sponsor id="400119"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1177473600" datetime="2007-04-25"><text>Referred to the House Committee on House Administration.</text></action>
+		<action date="1179843840" datetime="2007-05-22T11:24:00-04:00"><text>Mr. Brady (PA) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1179843900" datetime="2007-05-22T11:25:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5547-5548"/></action>
+		<action date="1179843900" datetime="2007-05-22T11:25:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 128.</text></action>
+		<vote date="1179844200" how="by voice vote" datetime="2007-05-22T11:30:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H5547"/></vote>
+		<vote date="1179892800" how="by Unanimous Consent" datetime="2007-05-23" where="s" type="vote2" result="pass" ><text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6572"/></vote>
+		<action date="1179979200" datetime="2007-05-24"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/23/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes the printing of a commemorative document in memory of Gerald Rudolph Ford, former President of the United States, as a House document. Authorizes the printing of additional copies of such documents for use by the House and the Senate.<br/>
+	</summary>
+</bill>

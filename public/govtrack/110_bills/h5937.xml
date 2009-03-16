@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="5937" updated="2009-01-09T05:09:20-05:00">
+	<status><vote date="1210182960" datetime="2008-05-07T14:56:00-04:00" where="h" result="pass" how="roll" roll="277"/></status>
+
+	<introduced date="1209614400" datetime="2008-05-01"/>
+	<titles>
+		<title type="official" as="introduced">To facilitate the preservation of certain affordable housing dwelling units.</title>
+	</titles>
+	<sponsor id="400409"/>
+	<cosponsors>
+		<cosponsor id="400219" joined="2008-05-01"/>
+		<cosponsor id="400416" joined="2008-05-01"/>
+		<cosponsor id="400140" joined="2008-05-01"/>
+		<cosponsor id="400422" joined="2008-05-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1209614400" datetime="2008-05-01"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1210106040" datetime="2008-05-06T17:34:00-04:00"><text>Mr. Meeks (NY) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1210106100" datetime="2008-05-06T17:35:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3093-3096"/></action>
+		<action date="1210106100" datetime="2008-05-06T17:35:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5937.</text></action>
+		<action date="1210107120" datetime="2008-05-06T17:52:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Culberson objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1210182420" datetime="2008-05-07T14:47:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3132-3133"/></action>
+		<vote date="1210182960" how="roll" roll="277" datetime="2008-05-07T14:56:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 345 - 73 (Roll no. 277). (text: CR 5/6/2008 H3093-3094)</text></vote>
+		<action date="1210183020" datetime="2008-05-07T14:57:00-04:00"><text>Mr. Simpson moved to reconsider the vote.</text></action>
+		<action date="1210183020" datetime="2008-05-07T14:57:00-04:00"><text>Mr. Welch (VT) moved to table the motion to reconsider the vote</text><reference label="consideration" ref="CR H3133"/></action>
+		<action date="1210183440" datetime="2008-05-07T15:04:00-04:00"><text>On motion to table the motion to reconsider the vote Agreed to by recorded vote: 225 - 190 (Roll no. 278).</text></action>
+		<action date="1210219200" datetime="2008-05-08"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/7/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Authorizes the Secretary of Housing and Urban Development (HUD), upon request of the owner of a multifamily housing project to which specified contracts are subject, to: (1) convert such contracts to a contract for project-based rental assistance under section 8 of the United States Housing Act of 1937; and (2) treat the contemplated resulting contract as eligible for initial renewal under the Multifamily Assisted Housing Reform and Affordability Act of 1997, if certain conditions are met.<br/>Deems the owner to be in compliance with income-targeting requirements of the United States Housing Act of 1937 by serving low-income families.<br/>Considers each family residing in an assisted dwelling unit on the date of such conversion to meet the applicable requirements for income eligibility and occupancy.<br/>
+	</summary>
+</bill>

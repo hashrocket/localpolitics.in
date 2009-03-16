@@ -1,0 +1,36 @@
+<bill session="111" type="s" number="32" updated="2009-03-07T13:36:03-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">A bill to require the Federal Energy Regulatory Commission to hold at least 1 public hearing before issuance of a permit affecting public or private land use in a locality.</title>
+	</titles>
+	<sponsor id="300092"/>
+	<cosponsors>
+		<cosponsor id="412246" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Sponsor introductory remarks on measure. (CR S170)</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Energy and Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Energy"/>
+		<term name="Electric power generation and transmission"/>
+		<term name="Land use and conservation"/>
+		<term name="Licensing and registrations"/>
+		<term name="Oil and gas"/>
+		<term name="Public participation and lobbying"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Amends the Federal Power Act and the Natural Gas Act to direct the Federal Energy Regulatory Commission (FERC) to hold at least one public hearing in each affected county and locality before issuing any authorization for action that may affect public or private land use (other than federal land). Requires FERC to hold one additional public hearing after the initial one if the government of such county or locality requests it in order to address an issue not addressed at the initial hearing.<br/>
+	</summary>
+</bill>

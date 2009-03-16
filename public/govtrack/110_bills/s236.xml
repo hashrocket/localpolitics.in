@@ -1,0 +1,43 @@
+<bill session="110" type="s" number="236" updated="2009-01-09T11:38:05-05:00">
+	<status><calendar date="1176350400" datetime="2007-04-12" /></status>
+
+	<introduced date="1168405200" datetime="2007-01-10"/>
+	<titles>
+		<title type="short" as="introduced">Federal Agency Data Mining Reporting Act of 2007</title>
+		<title type="short" as="reported to senate">Federal Agency Data Mining Reporting Act of 2007</title>
+		<title type="official" as="introduced">A bill to require reports to Congress on Federal agency use of data mining.</title>
+	</titles>
+	<sponsor id="300042"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2007-01-10"/>
+		<cosponsor id="400064" joined="2007-02-14"/>
+		<cosponsor id="300059" joined="2007-01-24"/>
+		<cosponsor id="412247" joined="2007-04-12"/>
+		<cosponsor id="300001" joined="2007-01-10"/>
+		<cosponsor id="300095" joined="2007-01-10"/>
+		<cosponsor id="300043" joined="2007-04-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1168405200" datetime="2007-01-10"><text>Sponsor introductory remarks on measure. (CR S359-360)</text></action>
+		<action date="1168405200" datetime="2007-01-10"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S361"/></action>
+		<action date="1173931200" datetime="2007-03-15"><text>Committee on the Judiciary. Committee consideration and Mark Up Session held.</text></action>
+		<calendar date="1176350400" datetime="2007-04-12" ><text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1180929600" datetime="2007-06-04"><text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="184" date="1180929600" datetime="2007-06-04" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 184.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/4/2007--Reported to Senate amended. Federal Agency Data-Mining Reporting Act of 2007 - Requires federal agencies to report to Congress on any activity to use or develop data mining to identify terrorist or criminal activity. Requires that such report be produced in coordination with the agency's privacy officer, be made available to the public (except for an annex containing classified, sensitive, or proprietary information), and include: (1) a through description of data mining activity goals and deployment dates, technology, and data sources; (2) an assessment of the efficacy of the activity in providing accurate information and the impact on individual privacy and civil liberties; (3) an analysis of laws and regulations governing the information being collected; and (4) a through discussion of the policies and procedures to protect individual privacy and due process and to guard against harmful consequences of potential inaccuracies. Requires annual updates, including regarding any new uses or development of data mining activity.<br/>
+	</summary>
+</bill>

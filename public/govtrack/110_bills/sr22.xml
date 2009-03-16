@@ -1,0 +1,39 @@
+<bill session="110" type="sr" number="22" updated="2009-01-09T20:01:22-05:00">
+	<status><calendar date="1181707200" datetime="2007-06-13" /></status>
+
+	<introduced date="1168405200" datetime="2007-01-10"/>
+	<titles>
+		<title type="official" as="introduced">A resolution reaffirming the constitutional and statutory protections accorded sealed domestic mail, and for other purposes.</title>
+	</titles>
+	<sponsor id="300025"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2007-01-17"/>
+		<cosponsor id="300042" joined="2007-01-16"/>
+		<cosponsor id="300024" joined="2007-01-10"/>
+		<cosponsor id="300019" joined="2007-01-10"/>
+		<cosponsor id="300001" joined="2007-01-10"/>
+		<cosponsor id="300067" joined="2007-01-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1168405200" datetime="2007-01-10"><text>Sponsor introductory remarks on measure. (CR S394-395)</text></action>
+		<action date="1168405200" datetime="2007-01-10"><text>Referred to the Committee on Homeland Security and Governmental Affairs.</text><reference label="text of measure as introduced" ref="CR S394"/></action>
+		<calendar date="1181707200" datetime="2007-06-13" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1188878400" datetime="2007-09-04"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="337" date="1188878400" datetime="2007-09-04" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 337.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/4/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Reaffirms the constitutional and statutory protections accorded sealed domestic mail.<br/>
+	</summary>
+</bill>

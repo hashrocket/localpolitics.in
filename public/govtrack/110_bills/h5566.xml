@@ -1,0 +1,33 @@
+<bill session="110" type="h" number="5566" updated="2009-01-09T04:25:04-05:00">
+	<status><introduced date="1205121600" datetime="2008-03-10"/></status>
+
+	<introduced date="1205121600" datetime="2008-03-10"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Economic Stimulus Act of 2008 to provide for a temporary increase in the maximum loan guaranty amount for housing loans guaranteed by the Secretary of Veterans Affairs.</title>
+	</titles>
+	<sponsor id="400061"/>
+	<cosponsors>
+		<cosponsor id="400027" joined="2008-03-10"/>
+		<cosponsor id="400010" joined="2008-03-10"/>
+		<cosponsor id="400144" joined="2008-04-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1205121600" datetime="2008-03-10"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1205467200" datetime="2008-03-14"><text>Referred to the Subcommittee on Economic Opportunity.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/10/2008--Introduced.<br/>Amends the Economic Stimulus Act of 2008 to provide a temporary increase, during the period beginning February 13, 2008, and ending on December 31, 2008, in the maximum veterans' loan guaranty amount for housing loans guaranteed by the Department of Veterans Affairs (VA).<br/>
+	</summary>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="110" type="s" number="1887" updated="2009-01-09T15:44:53-05:00">
+	<status><introduced date="1185422400" datetime="2007-07-26"/></status>
+
+	<introduced date="1185422400" datetime="2007-07-26"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Access to Critical Medications Act of 2007</title>
+		<title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act in order to ensure access to critical medications under the Medicare part D prescription drug program.</title>
+	</titles>
+	<sponsor id="300090"/>
+	<cosponsors>
+		<cosponsor id="300060" joined="2007-07-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1185422400" datetime="2007-07-26"><text>Sponsor introductory remarks on measure. (CR S10156-10157)</text></action>
+		<action date="1185422400" datetime="2007-07-26"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S10157-10158"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/26/2007--Introduced.<br/>Medicare Access to Critical Medications Act of 2007 - Amends part D (Voluntary Prescription Drug Benefit Program) of title XVIII (Medicare) of the Social Security Act to require prescription drug plan (PDP) formularies to include all or substantially all covered part D drugs in the therapeutic classes: (1) anticonvulsants; (2) antineoplastics; (3) antiretrovirals; (4) antidepressants; (5) antipsychotics; and (6) immunosuppressants.<br/>Prohibits the application of a utilization management tool, such as prior authorization or step therapy, to such drugs in certain cases.<br/>Prescribes requirements for treatment of such drugs when a determination or reconsideration is requested, as well as the treatment of appeals for such drugs.<br/>Establishes data reporting requirements for such drug categories and classes.<br/>
+	</summary>
+</bill>

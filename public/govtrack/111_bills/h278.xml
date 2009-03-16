@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="278" updated="2009-03-07T10:20:19-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">OLC Reporting Act of 2009</title>
+		<title type="official" as="introduced">To ensure that Congress is notified when the Department of Justice determines that the Executive Branch is not bound by a statute.</title>
+	</titles>
+	<sponsor id="400280"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Law"/>
+		<term name="Congressional-executive branch relations"/>
+		<term name="Constitution and constitutional amendments"/>
+		<term name="Department of Justice"/>
+		<term name="Government information and archives"/>
+		<term name="Intelligence activities, surveillance, classified information"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>OLC Reporting Act of 2009 - Amends the federal judicial code to require the Attorney General to report to Congress on any instance in which the Attorney General or any officer of the Department of Justice (DOJ) issues an authoritative legal interpretation of any provision of a federal statute that: (1) concludes that the provision is unconstitutional or would be unconstitutional in a particular application; (2) relies for its conclusion on a determination that any other interpretation would raise constitutional concerns under article II of the Constitution or separation of powers principles; (3) relies for its conclusion on a legal presumption against applying the provision to the executive branch or any member thereof; or (4) concludes the provision has been superseded or deprived of effect by a subsequently enacted statute where there is no express statutory language stating an intent to do so. Provides for the protection of privileged and classified information contained in a report by the Attorney General on the enforcement of laws.<br/>
+	</summary>
+</bill>

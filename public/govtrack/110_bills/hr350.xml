@@ -1,0 +1,37 @@
+<bill session="110" type="hr" number="350" updated="2009-01-09T08:36:31-05:00">
+	<status><vote date="1178163960" datetime="2007-05-02T12:46:00-04:00" where="h" result="pass" how="roll" roll="275"/></status>
+
+	<introduced date="1177992000" datetime="2007-05-01"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 1868) to authorize appropriations for the National Institute of Standards and Technology for fiscal years 2008, 2009, and 2010, and for other purposes.</title>
+	</titles>
+	<sponsor id="412228"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1178054160" datetime="2007-05-01T18:16:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-118, by Ms. Sutton.</text></action>
+		<action date="1178054160" datetime="2007-05-01T18:16:00-04:00"><text>All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bil for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Science and Technology now printed in the bill.</text></action>
+		<calendar date="1178054220" datetime="2007-05-01T18:17:00-04:00" ><text>Placed on the House Calendar, Calendar No. 48.</text></calendar>
+		<action date="1178113620" datetime="2007-05-02T10:47:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H4302-4306"/></action>
+		<action date="1178113800" datetime="2007-05-02T10:50:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 350.</text></action>
+		<action date="1178115600" datetime="2007-05-02T11:20:00-04:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H4306"/></action>
+		<action date="1178163600" datetime="2007-05-02T12:40:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4314-4315"/></action>
+		<vote date="1178163960" how="roll" roll="275" datetime="2007-05-02T12:46:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 226 - 189 (Roll no. 275).</text><reference label="text" ref="CR H4302"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/2/2007--Passed House without amendment. Sets forth the rule for consideration of H.R. 1868 (Technology Innovation and Manufacturing Stimulation Act of 2007).<br/>
+	</summary>
+</bill>

@@ -1,0 +1,56 @@
+<bill session="111" type="s" number="383" updated="2009-03-13T12:12:23-04:00">
+	<status><vote date="1233723600" datetime="2009-02-04" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Special Inspector General for the Troubled Asset Relief Program Act of 2009</title>
+		<title type="short" as="passed senate">Special Inspector General for the Troubled Asset Relief Program Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Emergency Economic Stabilization Act of 2008 (division A of Public Law 110-343) to provide the Special Inspector General with additional authorities and responsibilities, and for other purposes.</title>
+	</titles>
+	<sponsor id="412243"/>
+	<cosponsors>
+		<cosponsor id="300067" joined="2009-02-04"/>
+		<cosponsor id="300091" joined="2009-02-04"/>
+		<cosponsor id="412323" joined="2009-02-04"/>
+		<cosponsor id="300087" joined="2009-02-04"/>
+		<cosponsor id="300077" joined="2009-02-04"/>
+		<cosponsor id="300014" joined="2009-02-04"/>
+		<cosponsor id="300025" joined="2009-02-04"/>
+		<cosponsor id="300034" joined="2009-02-04"/>
+		<cosponsor id="300048" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<vote date="1233723600" how="by Unanimous Consent" datetime="2009-02-04" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S1613-1614"/><reference label="text as passed Senate" ref="CR S1613-1614"/></vote>
+		<action date="1233810000" datetime="2009-02-05"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1234202580" datetime="2009-02-09T14:03:00-05:00"><text>Received in the House.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Committee on Financial Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to House Financial Services</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to House Oversight and Government Reform</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Afghanistan"/>
+		<term name="Asia"/>
+		<term name="Congressional oversight"/>
+		<term name="Financial crises and failures"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Government information and archives"/>
+		<term name="Government investigations"/>
+		<term name="Iraq"/>
+		<term name="Middle East"/>
+		<term name="Public contracts and procurement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)<br/>Special Inspector General for the Troubled Asset Relief Program Act of 2009 - (Sec. 2) Amends the Emergency Economic Stabilization Act of 2008 to grant the Special Inspector General (SIG) authority to conduct, supervise, and coordinate an audit or investigation of any action taken with regard to the Troubled Asset Relief Program (TARP) that the SIG deems appropriate.<br/>Prohibits any audit or investigation, however, of any action related to: (1) graduated authorization to purchase troubled assets; (2) oversight and audits by the Comptroller General; (3) the Comptroller General's study and report on margin authority; and (4) the Congressional Oversight Panel. Treats the Office of the SIG for TARP as one of those federal Inspector General offices whose agents may carry a firearm, make arrests with or without a warrant, and seek and execute arrest, search, and seizure warrants under the Inspector General Act of 1978 without first receiving an determination of eligibility by the Attorney General. (Sec. 3) Authorizes the SIG to exercise specified employment authorities for additional personnel, but not after six months following enactment of this Act.<br/>Prohibits any period of appointment from exceeding the date on which the Office of the SIG terminates. States that if an annuitant receiving an annuity from the Civil Service Retirement and Disability Fund becomes employed within the Office of the SIG for the Troubled Asset Relief Program, such annuity shall continue. Limits such allowance to: (1) not more than 25 employees at any time as designated by the SIG; and (2) only pay periods beginning after the enactment of this Act. (Sec. 4) Requires the Secretary of the Treasury to either: (1) take action to address deficiencies identified by a report or investigation of the SIG or other auditor engaged by the TARP; or (2) certify to congressional committees that no action is necessary or appropriate.<br/>Instructs the SIG to work with Inspectors General of designated federal agencies to: (1) avoid duplication of effort; and (2) ensure comprehensive oversight of TARP. Makes the SIG a member of the Council of the Inspectors General on Integrity and Efficiency until termination of the Office. (Sec. 5) Requires the SIG to: (1) report quarterly to certain congressional committees on SIG activities; (2) report to Congress by September 1, 2009, on the use of any funds received by a financial institution under TARP; and (3) make the latter report available to the public, including on the home page of the SIG's website within 24 hours after its submission to Congress. (Sec. 6) Requires funding for the office of the SIG to be made available not later than seven days after the date of enactment of this Act. (Sec. 7) Makes the Special Inspector General for Iraq Reconstruction and the Special Inspector General for Afghanistan Reconstruction members of the Council of the Inspectors General on Integrity and Efficiency until the termination of their respective Offices.<br/>
+	</summary>
+</bill>

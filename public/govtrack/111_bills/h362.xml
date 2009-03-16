@@ -1,0 +1,53 @@
+<bill session="111" type="h" number="362" updated="2009-03-07T10:30:05-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Rural Hospital Assistance Act of 2009</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for temporary improvements to the Medicare inpatient hospital payment adjustment for low-volume hospitals and to provide for the use of the non-wage adjusted PPS rate under the Medicare-dependent hospital (MDH) program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400042"/>
+	<cosponsors>
+		<cosponsor id="400620" joined="2009-02-11"/>
+		<cosponsor id="400199" joined="2009-01-22"/>
+		<cosponsor id="412227" joined="2009-01-22"/>
+		<cosponsor id="400121" joined="2009-01-09"/>
+		<cosponsor id="412209" joined="2009-01-09"/>
+		<cosponsor id="412234" joined="2009-01-15"/>
+		<cosponsor id="400026" joined="2009-01-09"/>
+		<cosponsor id="400645" joined="2009-01-14"/>
+		<cosponsor id="400299" joined="2009-02-11"/>
+		<cosponsor id="400377" joined="2009-01-14"/>
+		<cosponsor id="412208" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to House Ways and Means</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to House Energy and Commerce</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Consumer affairs"/>
+		<term name="Government information and archives"/>
+		<term name="Health facilities and institutions"/>
+		<term name="Health personnel"/>
+		<term name="Hospital care"/>
+		<term name="Marketing and advertising"/>
+		<term name="Medical ethics"/>
+		<term name="Medicare"/>
+		<term name="Rural conditions and development"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Rural Hospital Assistance Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act with respect to the additional inpatient hospital service payment (payment adjustment) for low-volume hospitals (usually meaning a &quot;subsection (d) hospital&quot; located more than 25 road miles from another subsection (d) hospital and having less than 800 discharges during the fiscal year.) Redefines low-volume hospital, for discharges occurring during FY2009 only, as a &quot;subsection (d) hospital&quot; located more than 15 (instead of 25) road miles from another &quot;subsection (d) hospital&quot; and having less than 1,500 (instead of 800) discharges of individuals entitled to, or enrolled for, Medicare part A (Hospital Insurance) benefits (&quot;tweeners,&quot; or hospitals too large to be critical access hospitals, but too small to be financially viable under the Medicare hospital prospective payment system (PPS)). Revises, for FY2010 only, the temporary applicable percentage in the formula for determining the payment adjustment for such hospitals. Requires the use of the non-wage adjusted prospective payment rate (PPS) rate during FY2010 under the Medicare-dependent hospital (MDH) program. Prescribes requirements for hospitals to qualify for a Medicare hospital exception to the prohibition on certain physician referrals to hospitals in which such physicians have an ownership or investment interest in the entity. (Eliminates the Medicare hospital exception for physician-owned hospitals, but provides a limited exception for existing facilities.)<br/>
+	</summary>
+</bill>

@@ -1,0 +1,56 @@
+<bill session="110" type="h" number="3911" updated="2009-01-09T01:02:28-05:00">
+	<status><vote date="1197911220" datetime="2007-12-17T13:07:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1193025600" datetime="2007-10-22"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 95 Church Street in Jessup, Pennsylvania, as the &quot;Lance Corporal Dennis James Veater Post Office&quot;.</title>
+	</titles>
+	<sponsor id="412234"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-10-29"/>
+		<cosponsor id="400210" joined="2007-11-07"/>
+		<cosponsor id="400183" joined="2007-10-29"/>
+		<cosponsor id="400317" joined="2007-11-08"/>
+		<cosponsor id="400647" joined="2007-10-29"/>
+		<cosponsor id="412231" joined="2007-10-29"/>
+		<cosponsor id="409888" joined="2007-11-08"/>
+		<cosponsor id="400285" joined="2007-10-29"/>
+		<cosponsor id="400130" joined="2007-11-08"/>
+		<cosponsor id="400648" joined="2007-10-29"/>
+		<cosponsor id="400147" joined="2007-10-29"/>
+		<cosponsor id="400320" joined="2007-11-07"/>
+		<cosponsor id="412232" joined="2007-10-29"/>
+		<cosponsor id="400047" joined="2007-10-29"/>
+		<cosponsor id="400286" joined="2007-11-08"/>
+		<cosponsor id="400114" joined="2007-10-29"/>
+		<cosponsor id="400321" joined="2007-11-07"/>
+		<cosponsor id="412233" joined="2007-10-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1193025600" datetime="2007-10-22"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1197435600" datetime="2007-12-12"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1197435600" datetime="2007-12-12" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1197910800" datetime="2007-12-17T13:00:00-05:00"><text>Ms. Norton moved to suspend the rules and pass the bill.</text></action>
+		<action date="1197910860" datetime="2007-12-17T13:01:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H15480-15481"/></action>
+		<action date="1197910860" datetime="2007-12-17T13:01:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3911.</text></action>
+		<vote date="1197911220" how="by voice vote" datetime="2007-12-17T13:07:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H15480"/></vote>
+		<action date="1197954000" datetime="2007-12-18"><text>Received in the Senate.</text></action>
+		<action date="1200978000" datetime="2008-01-22"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1204088400" datetime="2008-02-27"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/22/2007--Introduced.<br/>Designates the facility of the United States Postal Service located at 95 Church Street in Jessup, Pennsylvania, as the &quot;Lance Corporal Dennis James Veater Post Office.&quot;<br/>
+	</summary>
+</bill>

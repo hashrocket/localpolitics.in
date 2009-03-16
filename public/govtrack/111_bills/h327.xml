@@ -1,0 +1,66 @@
+<bill session="111" type="h" number="327" updated="2009-03-07T10:25:54-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">National Hurricane Research Initiative Act of 2009</title>
+		<title type="official" as="introduced">To establish the National Hurricane Research Initiative to improve hurricane preparedness, and for other purposes.</title>
+	</titles>
+	<sponsor id="400170"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2009-01-08"/>
+		<cosponsor id="400270" joined="2009-01-08"/>
+		<cosponsor id="400282" joined="2009-01-08"/>
+		<cosponsor id="400426" joined="2009-01-08"/>
+		<cosponsor id="400439" joined="2009-02-10"/>
+		<cosponsor id="400635" joined="2009-01-08"/>
+		<cosponsor id="400623" joined="2009-01-08"/>
+		<cosponsor id="400430" joined="2009-01-08"/>
+		<cosponsor id="400107" joined="2009-01-08"/>
+		<cosponsor id="412195" joined="2009-01-08"/>
+		<cosponsor id="400344" joined="2009-01-08"/>
+		<cosponsor id="400266" joined="2009-01-08"/>
+		<cosponsor id="412196" joined="2009-01-08"/>
+		<cosponsor id="400049" joined="2009-01-08"/>
+		<cosponsor id="400433" joined="2009-03-05"/>
+		<cosponsor id="412250" joined="2009-01-08"/>
+		<cosponsor id="400108" joined="2009-01-08"/>
+		<cosponsor id="400030" joined="2009-01-08"/>
+		<cosponsor id="400622" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the Subcommittee on Energy and Environment.</text></action>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the Subcommittee on Research and Science Education.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Science and Technology" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Science and Technology" subcommittee="Energy and Environment" activity="Referral" />
+		<committee name="House Science and Technology" subcommittee="Research and Science Education" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Science, technology, communications"/>
+		<term name="Atmospheric science and weather"/>
+		<term name="Computers and information technology"/>
+		<term name="Earth sciences and observation"/>
+		<term name="Emergency communications systems"/>
+		<term name="Emergency planning and evacuation"/>
+		<term name="Floods and storm protection"/>
+		<term name="Government information and archives"/>
+		<term name="Housing industry, construction, standards"/>
+		<term name="Infrastructure development"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Natural disasters"/>
+		<term name="Research administration and funding"/>
+		<term name="Wetlands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>National Hurricane Research Initiative Act of 2009 - Requires the Under Secretary for Oceans and Atmosphere of the Department of Commerce and the Director of the National Science Foundation (NSF) to establish a National Hurricane Research Initiative and to cooperate with other specified federal agencies to carry it out. Requires such Initiative to set research objectives (based on a National Science Board report on the need for such Initiative) to: (1) make recommendations to the Board and to the National Oceanic and Atmospheric Administration (NOAA) Science Advisory Board; (2) assemble the science and engineering expertise of state or local government agencies and nongovernmental entities through a multi-agency effort focused on improving severe tropical storm forecasting capabilities, on durable and resilient infrastructure, and on mitigating impacts on coastal populations, the coastal built environment, and the natural coastal environment; and (3) make grants for hurricane research, including regarding storm internal dynamics, predicting high winds, tornadoes, and storm surge, and improving measurements of hurricanes and tropical storms through specified technologies.<br/>Directs the White House Office of Science and Technology Policy, through the National Science and Technology Council, to coordinate U.S. activities related to the Initiative as a formal program with a well-defined organizational structure and execution plan. Directs the Under Secretary and the Director to: (1) issue a request for proposals to undertake the basic and applied research with a sufficient annual budget to accomplish the desired research results during a 10-year term; (2) establish a National Infrastructure Database; and (3) develop a National Hurricane Research Model.<br/>
+	</summary>
+</bill>

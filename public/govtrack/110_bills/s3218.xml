@@ -1,0 +1,46 @@
+<bill session="110" type="s" number="3218" updated="2009-01-09T18:35:04-05:00">
+	<status><enacted date="1217390400" datetime="2008-07-30" /></status>
+
+	<introduced date="1214452800" datetime="2008-06-26"/>
+	<titles>
+		<title type="short" as="introduced">Criminal History Background Checks Pilot Extension Act of 2008</title>
+		<title type="short" as="passed house">Criminal History Background Checks Pilot Extension Act of 2008</title>
+		<title type="short" as="passed senate">Criminal History Background Checks Pilot Extension Act of 2008</title>
+		<title type="short" as="enacted">Criminal History Background Checks Pilot Extension Act of 2008</title>
+		<title type="official" as="introduced">A bill to extend the pilot program for volunteer groups to obtain criminal history background checks.</title>
+	</titles>
+	<sponsor id="300008"/>
+	<cosponsors>
+		<cosponsor id="300052" joined="2008-06-26"/>
+	</cosponsors>
+	<actions>
+		<vote date="1214452800" how="by Unanimous Consent" datetime="2008-06-26" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6306"/><reference label="text as passed Senate" ref="CR S6306"/></vote>
+		<action date="1214539200" datetime="2008-06-27"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1215536640" datetime="2008-07-08T14:04:00-04:00"><text>Received in the House.</text></action>
+		<action date="1215489600" datetime="2008-07-08"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1216064880" datetime="2008-07-14T16:48:00-04:00"><text>Mr. Schiff moved to suspend the rules and pass the bill.</text></action>
+		<action date="1216064940" datetime="2008-07-14T16:49:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6441-6443"/></action>
+		<action date="1216064940" datetime="2008-07-14T16:49:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 3218.</text></action>
+		<vote date="1216065360" how="by voice vote" datetime="2008-07-14T16:56:00-04:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H6442"/></vote>
+		<topresident date="1216008000" datetime="2008-07-14" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1216699200" datetime="2008-07-22" ><text>Presented to President.</text></topresident>
+		<action date="1217217600" datetime="2008-07-28"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+		<signed date="1217390400" datetime="2008-07-30" ><text>Signed by President.</text></signed>
+		<enacted number="110-296" date="1217390400" datetime="2008-07-30" type="public" ><text>Became Public Law No: 110-296.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/30/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Criminal History Background Checks Pilot Extension Act of 2008 - Amends the PROTECT Act to extend by six months the Child Safety Pilot Program (allowing certain volunteer organizations to obtain national and state criminal history background checks on their volunteers).<br/>
+	</summary>
+</bill>

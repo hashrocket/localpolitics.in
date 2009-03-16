@@ -1,0 +1,38 @@
+<bill session="110" type="hc" number="440" updated="2009-01-08T16:23:03-05:00">
+	<status><vote2 date="1222920000" datetime="2008-10-02" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1222660800" datetime="2008-09-29"/>
+	<titles>
+		<title type="official" as="introduced">Providing for an adjournment or recess of the two Houses.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1222688760" datetime="2008-09-29T08:46:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H10335-10336"/></action>
+		<action date="1222688820" datetime="2008-09-29T08:47:00-04:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H10335"/></action>
+		<vote date="1222689960" how="roll" roll="672" datetime="2008-09-29T09:06:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 213 - 211 (Roll no. 672).</text><reference label="text" ref="CR H10335"/></vote>
+		<action date="1222660800" datetime="2008-09-29"><text>Received in the Senate.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S10504"/></action>
+		<vote date="1222920000" how="by Unanimous Consent" datetime="2008-10-02" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate with an amendment by Unanimous Consent.</text><reference label="text" ref="CR S10504"/></vote>
+		<action date="1222985640" datetime="2008-10-02T19:14:00-04:00"><text>The Chair laid before the House a privileged message from the Senate and moved to agree to the Senate amendments.</text></action>
+		<action date="1222985640" datetime="2008-10-02T19:14:00-04:00"><text>On motion that the House agree to the Senate amendments Agreed to without objection.</text><reference label="consideration" ref="CR H10686"/><reference label="text as House agreed to Senate amendment" ref="CR H10686"/></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/2/2008--Passed Senate amended. Declares that, when the House adjourns on any legislative day from Monday, September 29, 2008, through Friday, October 3, 2008, it stand adjourned until 11 a.m. on Saturday, January 3, 2009. Declares that the Senate may recess or adjourn on any day from Thursday, October 2, 2008, through January 3, 2009, but not beyond 12 p.m. on Saturday, January 3, 2009.<br/>
+	</summary>
+</bill>

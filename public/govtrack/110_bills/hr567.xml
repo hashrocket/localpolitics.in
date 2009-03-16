@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="567" updated="2009-01-09T09:02:41-05:00">
+	<status><vote date="1185560040" datetime="2007-07-27T15:14:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1185336000" datetime="2007-07-25"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the conference report to accompany the bill (H.R. 1) to provide for the implementation of the recommendations of the National Commission on Terrorist Attacks Upon the United States.</title>
+	</titles>
+	<sponsor id="400170"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1185418500" datetime="2007-07-25T23:55:00-04:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-260, by Mr. Hastings (FL).</text></action>
+		<action date="1185418500" datetime="2007-07-25T23:55:00-04:00"><text>All points of order against the conference report and against its consideration are waived.</text></action>
+		<calendar date="1185418500" datetime="2007-07-25T23:55:00-04:00" ><text>Placed on the House Calendar, Calendar No. 91.</text></calendar>
+		<action date="1185555900" datetime="2007-07-27T14:05:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H8789-8797"/></action>
+		<action date="1185555960" datetime="2007-07-27T14:06:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 567.</text></action>
+		<action date="1185560040" datetime="2007-07-27T15:14:00-04:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H8797"/></action>
+		<vote date="1185560040" how="by voice vote" datetime="2007-07-27T15:14:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H8789"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/27/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Waives points of order against consideration of the conference report on H.R. 1 (Implementing Recommendations of the 9/11 Commission Act of 2007).<br/>
+	</summary>
+</bill>

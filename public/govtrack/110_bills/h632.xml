@@ -1,0 +1,82 @@
+<bill session="110" type="h" number="632" updated="2009-01-08T18:08:19-05:00">
+	<status><vote date="1181150580" datetime="2007-06-06T14:23:00-04:00" where="h" result="pass" how="roll" roll="433"/></status>
+
+	<introduced date="1169528400" datetime="2007-01-23"/>
+	<titles>
+		<title type="short" as="introduced">H-Prize Act of 2007</title>
+		<title type="short" as="reported to house">H-Prize Act of 2007</title>
+		<title type="short" as="passed house">H-Prize Act of 2007</title>
+		<title type="official" as="introduced">To authorize the Secretary of Energy to establish monetary prizes for achievements in overcoming scientific and technical barriers associated with hydrogen energy.</title>
+	</titles>
+	<sponsor id="400630"/>
+	<cosponsors>
+		<cosponsor id="400199" joined="2007-01-29"/>
+		<cosponsor id="400660" joined="2007-01-23"/>
+		<cosponsor id="412224" joined="2007-01-23"/>
+		<cosponsor id="400385" joined="2007-01-23"/>
+		<cosponsor id="400096" joined="2007-01-23"/>
+		<cosponsor id="400058" joined="2007-01-23"/>
+		<cosponsor id="400154" joined="2007-03-29"/>
+		<cosponsor id="400049" joined="2007-01-23"/>
+		<cosponsor id="400260" joined="2007-02-08"/>
+		<cosponsor id="400040" joined="2007-02-08"/>
+		<cosponsor id="400433" joined="2007-01-23"/>
+		<cosponsor id="400405" joined="2007-05-24"/>
+		<cosponsor id="400642" joined="2007-01-23"/>
+		<cosponsor id="400648" joined="2007-01-23"/>
+		<cosponsor id="400147" joined="2007-01-23"/>
+		<cosponsor id="400356" joined="2007-01-23"/>
+		<cosponsor id="400432" joined="2007-01-23"/>
+		<cosponsor id="412199" joined="2007-01-29"/>
+		<cosponsor id="400057" joined="2007-01-29"/>
+		<cosponsor id="412204" joined="2007-02-08"/>
+		<cosponsor id="400400" joined="2007-01-23"/>
+		<cosponsor id="400107" joined="2007-01-29"/>
+		<cosponsor id="400644" joined="2007-06-05"/>
+		<cosponsor id="400207" joined="2007-01-23"/>
+		<cosponsor id="400421" joined="2007-01-23"/>
+		<cosponsor id="400221" joined="2007-01-23"/>
+		<cosponsor id="400649" joined="2007-01-23"/>
+		<cosponsor id="400201" joined="2007-01-29"/>
+		<cosponsor id="400119" joined="2007-01-23"/>
+		<cosponsor id="400016" joined="2007-01-23"/>
+		<cosponsor id="400204" joined="2007-01-23"/>
+		<cosponsor id="400438" joined="2007-01-23"/>
+		<cosponsor id="400654" joined="2007-01-23"/>
+		<cosponsor id="400114" joined="2007-01-23"/>
+		<cosponsor id="400233" joined="2007-01-23"/>
+		<cosponsor id="400108" joined="2007-05-14"/>
+		<cosponsor id="400435" joined="2007-01-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1169528400" datetime="2007-01-23"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1178769600" datetime="2007-05-10"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1178769600" datetime="2007-05-10" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1179892800" datetime="2007-05-23"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<action date="1181069040" datetime="2007-06-05T15:44:00-04:00"><text>Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-171.</text></action>
+		<calendar number="103" date="1181069100" datetime="2007-06-05T15:45:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 103.</text></calendar>
+		<action date="1181141340" datetime="2007-06-06T11:49:00-04:00"><text>Mr. Lipinski moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1181141400" datetime="2007-06-06T11:50:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6027-6031"/></action>
+		<action date="1181141400" datetime="2007-06-06T11:50:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 632.</text></action>
+		<action date="1181185980" datetime="2007-06-06T12:13:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1181150220" datetime="2007-06-06T14:17:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6047"/></action>
+		<vote date="1181150580" how="roll" roll="433" datetime="2007-06-06T14:23:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 8 (Roll no. 433).</text><reference label="text" ref="CR H6027-6029"/></vote>
+		<action date="1181188800" datetime="2007-06-07"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1184644800" datetime="2007-07-17"><text>Star Print ordered on the bill.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/6/2007--Passed House amended. H-Prize Act of 2007 - (Sec. 3) Directs the Secretary of Energy to: (1) award competitive cash prizes biennially to advance the research, development, demonstration, and commercial application of hydrogen energy technologies; and (2) enter into an agreement with a private, nonprofit entity to administer the prize competitions.<br/>Authorizes the Secretary to use appropriated funds for the cash prize program, including certain funds from other federal agencies.<br/>(Sec. 4) Designates prize-eligible categories, including: (1) advancements in certain hydrogen technologies, components, or systems related to hydrogen production, storage, distribution, and utilization; (2) prototypes of hydrogen-powered vehicles or other hydrogen-based products that meet or exceed certain performance criteria; and (3) transformational changes in technologies for hydrogen distribution or production that meet or exceed far-reaching criteria, including minimal carbon emissions, and which may include cost criteria designed to facilitate the eventual market success of a winning technology.<br/>Requires the Secretary to consult with designated agencies when establishing criteria for such awards.<br/>(Sec. 6) Declares that the federal government shall not, by virtue of offering or awarding a prize under this Act, be entitled to any intellectual property rights derived as a consequence of, or direct relation to, the participation by a registered participant in a competition authorized by this Act. States that this Act shall not be construed to prevent the federal government from negotiating a license for the use of intellectual property developed for a prize competition under this Act.<br/>(Sec. 7) Authorizes the Secretary to require registered participants in the awards program to waive claims against the federal government and the administering entity (except claims for willful misconduct) for any injury, death, damage, or loss of property, revenue, or profits arising from the participants' participation in a competition under this Act. Prohibits the Secretary, however, from requiring a registered participant to waive claims against the administering entity arising out of any unauthorized use or disclosure by the entity of the registered participant's trade secrets or confidential business information.<br/>Sets forth liability insurance or alternative financial responsibility requirements for registered participants with regard to third party or federal government claims against them.<br/>(Sec. 8) Instructs the Secretary to report to Congress regarding: (1) identification of the award recipient; (2) description of the technologies developed by each award recipient; and (3) specific actions being taken toward commercial application of all technologies with respect to which a prize has been awarded under this Act.<br/>(Sec. 9) Authorizes appropriations for FY2008-FY2017.<br/>
+	</summary>
+</bill>

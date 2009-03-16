@@ -1,0 +1,37 @@
+<bill session="110" type="sr" number="299" updated="2009-01-09T20:35:19-05:00">
+	<status><vote date="1195016400" datetime="2007-11-14" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1186113600" datetime="2007-08-03"/>
+	<titles>
+		<title type="official" as="introduced">A resolution recognizing the religious and historical significance of the festival of Diwali.</title>
+	</titles>
+	<sponsor id="400272"/>
+	<cosponsors>
+		<cosponsor id="300066" joined="2007-11-06"/>
+		<cosponsor id="400050" joined="2007-09-26"/>
+		<cosponsor id="300027" joined="2007-08-03"/>
+		<cosponsor id="412246" joined="2007-11-06"/>
+		<cosponsor id="300064" joined="2007-09-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1186113600" datetime="2007-08-03"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S10937"/></action>
+		<action date="1195016400" datetime="2007-11-14"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S14416-14417"/></action>
+		<action date="1195016400" datetime="2007-11-14"><text>Measure laid before Senate by unanimous consent.</text></action>
+		<vote date="1195016400" how="by Unanimous Consent" datetime="2007-11-14" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.</text><reference label="text as passed Senate" ref="CR S14417"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/14/2007--Passed Senate amended. Recognizes the religious and historical significance of Diwali, an annual festival celebrated by many South Asians that is particularly significant to Hindus, Sikhs, and Jains. Expresses the deepest respect of the Senate, in observance of Diwali, the festival of lights, for Indian Americans and the Indian diaspora throughout the world on this significant occasion. 
+	</summary>
+</bill>

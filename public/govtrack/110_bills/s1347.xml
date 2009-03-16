@@ -1,0 +1,39 @@
+<bill session="110" type="s" number="1347" updated="2009-01-09T14:36:15-05:00">
+	<status><vote date="1194238800" datetime="2007-11-05" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1178683200" datetime="2007-05-09"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Omnibus Indian Advancement Act to modify the date as of which certain tribal land of the Lytton Rancheria of California is deemed to be held in trust and to provide for the conduct of certain activities on the land.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1178683200" datetime="2007-05-09"><text>Sponsor introductory remarks on measure. (CR S5873-5874)</text></action>
+		<action date="1178683200" datetime="2007-05-09"><text>Read twice and referred to the Committee on Indian Affairs.</text><reference label="text of measure as introduced" ref="CR S5874"/></action>
+		<calendar date="1190865600" datetime="2007-09-27" ><text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1193371200" datetime="2007-10-26"><text>Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-208.</text></action>
+		<calendar under="General Orders" number="452" date="1193371200" datetime="2007-10-26" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 452.</text></calendar>
+		<action date="1193716800" datetime="2007-10-30"><text>Star Print ordered on the report.</text></action>
+		<vote date="1194238800" how="by Unanimous Consent" datetime="2007-11-05" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S13937"/><reference label="text as passed Senate" ref="CR S13937"/></vote>
+		<action date="1194357720" datetime="2007-11-06T10:02:00-05:00"><text>Received in the House.</text></action>
+		<action date="1194325200" datetime="2007-11-06"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1194325200" datetime="2007-11-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/5/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Amends the Omnibus Indian Advancement Act to repeal the declaration that specified land accepted by the Secretary of the Interior for the benefit of the Lytton Rancheria in California shall be deemed to have been held in trust and part of the reservation of the Rancheria prior to October 17, 1988. (The date on the recorded deed is October 16, 2000.) Allows the Lytton Rancheria to conduct activities for class II gaming on the land taken into trust.<br/>Prohibits the Lytton Rancheria from expanding the exterior physical measurements of any facility on the Rancheria in use for class II gaming activities.<br/>States that, for class III gaming purposes, the land taken into trust shall be treated, for purposes of provisions relating to gaming on lands acquired in trust after October 17, 1988, as if the land was acquired on October 9, 2003, the date on which the Secretary took it into trust. 
+	</summary>
+</bill>

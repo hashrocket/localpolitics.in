@@ -1,0 +1,49 @@
+<bill session="110" type="h" number="6091" updated="2009-01-09T05:27:44-05:00">
+	<status><introduced date="1211256000" datetime="2008-05-20"/></status>
+
+	<introduced date="1211256000" datetime="2008-05-20"/>
+	<titles>
+		<title type="short" as="introduced">Save Medicare Act of 2008</title>
+		<title type="official" as="introduced">To amend title XVIII of the Security Act to preserve access to physicians' services under the Medicare Program.</title>
+	</titles>
+	<sponsor id="400123"/>
+	<cosponsors>
+		<cosponsor id="400089" joined="2008-07-08"/>
+		<cosponsor id="400385" joined="2008-06-26"/>
+		<cosponsor id="400271" joined="2008-06-26"/>
+		<cosponsor id="400430" joined="2008-06-05"/>
+		<cosponsor id="400198" joined="2008-06-12"/>
+		<cosponsor id="400007" joined="2008-06-20"/>
+		<cosponsor id="400324" joined="2008-07-08"/>
+		<cosponsor id="400144" joined="2008-06-26"/>
+		<cosponsor id="412258" joined="2008-05-22"/>
+		<cosponsor id="400411" joined="2008-05-22"/>
+		<cosponsor id="400056" joined="2008-05-22"/>
+		<cosponsor id="400266" joined="2008-06-12"/>
+		<cosponsor id="412212" joined="2008-06-12"/>
+		<cosponsor id="400024" joined="2008-05-20"/>
+		<cosponsor id="400321" joined="2008-06-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1211256000" datetime="2008-05-20"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1211256000" datetime="2008-05-20"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1211256000" datetime="2008-05-20"><text>Referred to House Ways and Means</text></action>
+		<action date="1211342400" datetime="2008-05-21"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1211515200" datetime="2008-05-23"><committee name="House Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/2008--Introduced.<br/>Save Medicare Act of 2008 - Amends title XVIII (Medicare) of the Social Security Act, as amended by the Medicare, Medicaid, and SCHIP Extension Act of 2007, to: (1) increase the Medicare physician payment update for 2009; and (2) extend the physician quality reporting system, the incentive payment program for physician scarcity areas, the floor on the work geographic adjustment to the physician fee schedule, and the accommodation for physicians ordered to active duty in the armed services.<br/>Expresses the sense of Congress that: (1) the provisions of, and amendments made by, this Act should be deficit neutral over the five year period beginning on October 1, 2008; and (2) Congress should address the challenges facing the Medicare program in a fiscally responsible manner.<br/>Expresses the sense of Congress that: (1) the Medicare program should provide payments to physicians and other health professionals that serve as positive incentives for participation in voluntary initiatives to improve health care quality; and (2) financing for such initiatives should be non-punitive and exempt from the Medicare physician fee schedule budget neutrality requirements.<br/>
+	</summary>
+</bill>

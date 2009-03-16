@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="1168" updated="2009-03-07T12:07:35-05:00">
+	<status><introduced date="1235538000" datetime="2009-02-25"/></status>
+
+	<introduced date="1235538000" datetime="2009-02-25"/>
+	<titles>
+		<title type="short" as="introduced">Veterans Retraining Act of 2009</title>
+		<title type="official" as="introduced">To amend chapter 42 of title 38, United States Code, to provide certain veterans with employment training assistance.</title>
+	</titles>
+	<sponsor id="400040"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to the Subcommittee on Economic Opportunity.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/25/2009--Introduced.<br/>Veterans Retraining Act of 2009 - Directs the Secretary of Labor to pay to each covered veteran an assistance allowance for each month such veteran is enrolled in an employment and training program that teaches a skill in demand, as determined the Secretary. Includes as a covered veteran one who is: (1) unemployed for at least four consecutive months before applying for such assistance; (2) able to successfully complete the program; and (3) ineligible for other veterans' education or training assistance. Authorizes payment of a stipend to a covered veteran for moving expenses related to the receipt of such training.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,76 @@
+<bill session="111" type="h" number="404" updated="2009-03-07T10:35:11-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">National Landscape Conservation System Act</title>
+		<title type="official" as="introduced">To establish the National Landscape Conservation System, and for other purposes.</title>
+	</titles>
+	<sponsor id="400162"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2009-02-04"/>
+		<cosponsor id="400253" joined="2009-02-04"/>
+		<cosponsor id="400041" joined="2009-01-09"/>
+		<cosponsor id="400308" joined="2009-01-09"/>
+		<cosponsor id="412272" joined="2009-02-04"/>
+		<cosponsor id="400155" joined="2009-01-09"/>
+		<cosponsor id="400039" joined="2009-01-09"/>
+		<cosponsor id="400259" joined="2009-02-12"/>
+		<cosponsor id="400237" joined="2009-01-09"/>
+		<cosponsor id="400013" joined="2009-01-09"/>
+		<cosponsor id="400660" joined="2009-01-09"/>
+		<cosponsor id="412204" joined="2009-02-12"/>
+		<cosponsor id="400251" joined="2009-01-09"/>
+		<cosponsor id="400178" joined="2009-01-09"/>
+		<cosponsor id="400360" joined="2009-02-04"/>
+		<cosponsor id="400366" joined="2009-02-04"/>
+		<cosponsor id="400129" joined="2009-01-09"/>
+		<cosponsor id="400193" joined="2009-01-09"/>
+		<cosponsor id="400361" joined="2009-01-09"/>
+		<cosponsor id="400326" joined="2009-01-09"/>
+		<cosponsor id="412228" joined="2009-01-09"/>
+		<cosponsor id="412212" joined="2009-01-09"/>
+		<cosponsor id="400185" joined="2009-02-04"/>
+		<cosponsor id="400283" joined="2009-01-09"/>
+		<cosponsor id="400310" joined="2009-01-09"/>
+		<cosponsor id="400090" joined="2009-02-12"/>
+		<cosponsor id="400033" joined="2009-01-09"/>
+		<cosponsor id="412189" joined="2009-02-04"/>
+		<cosponsor id="400184" joined="2009-01-09"/>
+		<cosponsor id="400024" joined="2009-02-04"/>
+		<cosponsor id="400152" joined="2009-02-04"/>
+		<cosponsor id="400025" joined="2009-01-09"/>
+		<cosponsor id="400062" joined="2009-01-09"/>
+		<cosponsor id="400425" joined="2009-01-09"/>
+		<cosponsor id="412188" joined="2009-02-04"/>
+		<cosponsor id="400278" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="California"/>
+		<term name="Forests"/>
+		<term name="Historic sites and heritage areas"/>
+		<term name="Land use and conservation"/>
+		<term name="Monuments and memorials"/>
+		<term name="Oregon"/>
+		<term name="Parks, recreation areas, trails"/>
+		<term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>National Landscape Conservation System Act - Establishes in the Bureau of Land Management (BLM) the National Landscape Conservation System (thus, enacting into law the National Landscape Conservation System [NLCS] created by BLM in 2000) in order to conserve, protect, and restore nationally significant landscapes that have outstanding cultural, ecological, and scientific values for the benefit of current and future generations. 
+	</summary>
+</bill>

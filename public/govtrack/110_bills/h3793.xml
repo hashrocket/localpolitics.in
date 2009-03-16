@@ -1,0 +1,318 @@
+<bill session="110" type="h" number="3793" updated="2009-01-09T00:48:23-05:00">
+	<status><vote date="1197993240" datetime="2007-12-18T11:54:00-05:00" where="h" result="pass" how="roll" roll="1176"/></status>
+
+	<introduced date="1191988800" datetime="2007-10-10"/>
+	<titles>
+		<title type="short" as="introduced">Veterans Guaranteed Bonus Act of 2007</title>
+		<title type="short" as="passed house">Veterans Guaranteed Bonus Act of 2007</title>
+		<title type="official" as="introduced">To amend title 37, United States Code, to require the Secretary of Defense to continue to pay to a member of the Armed Forces who is retired or separated from the Armed Forces due to a combat-related injury certain bonuses that the member was entitled to before the retirement or separation and would continue to be entitled to if the member was not retired or separated.</title>
+		<title type="official" as="amended by house">To amend title 37, United States Code, to require the continued payment to a member of the uniformed services who dies or is retired or separated under chapter 61 of title 10, United States Code, bonuses and similar benefits that the member was entitled to before the death, retirement, or separation of the member and would be paid if the member had not died, retired, or separated, to prohibit requiring the member to repay any portion of the bonuses or similar benefits previously paid, and for other purposes.</title>
+	</titles>
+	<sponsor id="412231"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2007-11-09"/>
+		<cosponsor id="400661" joined="2007-11-09"/>
+		<cosponsor id="400253" joined="2007-12-17"/>
+		<cosponsor id="400279" joined="2007-12-06"/>
+		<cosponsor id="400061" joined="2007-11-15"/>
+		<cosponsor id="400041" joined="2007-10-17"/>
+		<cosponsor id="400273" joined="2007-12-12"/>
+		<cosponsor id="400133" joined="2007-10-31"/>
+		<cosponsor id="400420" joined="2007-12-06"/>
+		<cosponsor id="400620" joined="2007-10-23"/>
+		<cosponsor id="400031" joined="2007-11-15"/>
+		<cosponsor id="412229" joined="2007-10-31"/>
+		<cosponsor id="400073" joined="2007-12-04"/>
+		<cosponsor id="412218" joined="2007-10-31"/>
+		<cosponsor id="400219" joined="2007-12-11"/>
+		<cosponsor id="400280" joined="2007-11-15"/>
+		<cosponsor id="400199" joined="2007-10-29"/>
+		<cosponsor id="400337" joined="2007-11-15"/>
+		<cosponsor id="400659" joined="2007-12-12"/>
+		<cosponsor id="400177" joined="2007-10-23"/>
+		<cosponsor id="400364" joined="2007-11-15"/>
+		<cosponsor id="400257" joined="2007-11-15"/>
+		<cosponsor id="412252" joined="2007-12-12"/>
+		<cosponsor id="400289" joined="2007-11-15"/>
+		<cosponsor id="400616" joined="2007-11-15"/>
+		<cosponsor id="400210" joined="2007-11-13"/>
+		<cosponsor id="400160" joined="2007-11-15"/>
+		<cosponsor id="400155" joined="2007-10-18"/>
+		<cosponsor id="400263" joined="2007-11-05"/>
+		<cosponsor id="400618" joined="2007-11-15"/>
+		<cosponsor id="400407" joined="2007-10-24"/>
+		<cosponsor id="400092" joined="2007-10-31"/>
+		<cosponsor id="400080" joined="2007-11-13"/>
+		<cosponsor id="400657" joined="2007-11-15"/>
+		<cosponsor id="400162" joined="2007-11-15"/>
+		<cosponsor id="412221" joined="2007-11-09"/>
+		<cosponsor id="400209" joined="2007-10-10"/>
+		<cosponsor id="400183" joined="2007-10-15"/>
+		<cosponsor id="400102" joined="2007-11-15"/>
+		<cosponsor id="400282" joined="2007-12-18"/>
+		<cosponsor id="400137" joined="2007-10-24"/>
+		<cosponsor id="412224" joined="2007-11-15"/>
+		<cosponsor id="412234" joined="2007-10-17"/>
+		<cosponsor id="412225" joined="2007-10-17"/>
+		<cosponsor id="400302" joined="2007-11-15"/>
+		<cosponsor id="400122" joined="2007-11-15"/>
+		<cosponsor id="400403" joined="2007-11-13"/>
+		<cosponsor id="400113" joined="2007-12-06"/>
+		<cosponsor id="400246" joined="2007-11-15"/>
+		<cosponsor id="400635" joined="2007-11-09"/>
+		<cosponsor id="400333" joined="2007-12-04"/>
+		<cosponsor id="400385" joined="2007-12-04"/>
+		<cosponsor id="400623" joined="2007-10-25"/>
+		<cosponsor id="400271" joined="2007-11-15"/>
+		<cosponsor id="400096" joined="2007-12-04"/>
+		<cosponsor id="400430" joined="2007-11-15"/>
+		<cosponsor id="400129" joined="2007-11-13"/>
+		<cosponsor id="400170" joined="2007-11-15"/>
+		<cosponsor id="412190" joined="2007-12-04"/>
+		<cosponsor id="400424" joined="2007-11-15"/>
+		<cosponsor id="412195" joined="2007-11-15"/>
+		<cosponsor id="400313" joined="2007-12-11"/>
+		<cosponsor id="400065" joined="2007-11-15"/>
+		<cosponsor id="400633" joined="2007-11-15"/>
+		<cosponsor id="400647" joined="2007-11-06"/>
+		<cosponsor id="400443" joined="2007-11-09"/>
+		<cosponsor id="412230" joined="2007-11-13"/>
+		<cosponsor id="412215" joined="2007-11-09"/>
+		<cosponsor id="400198" joined="2007-11-15"/>
+		<cosponsor id="400268" joined="2007-11-15"/>
+		<cosponsor id="400063" joined="2007-11-15"/>
+		<cosponsor id="400379" joined="2007-10-25"/>
+		<cosponsor id="400388" joined="2007-10-10"/>
+		<cosponsor id="400361" joined="2007-10-31"/>
+		<cosponsor id="412192" joined="2007-11-15"/>
+		<cosponsor id="400165" joined="2007-12-04"/>
+		<cosponsor id="412210" joined="2007-10-17"/>
+		<cosponsor id="400630" joined="2007-11-15"/>
+		<cosponsor id="400018" joined="2007-11-15"/>
+		<cosponsor id="400323" joined="2007-11-15"/>
+		<cosponsor id="400003" joined="2007-11-15"/>
+		<cosponsor id="400049" joined="2007-12-04"/>
+		<cosponsor id="400423" joined="2007-11-13"/>
+		<cosponsor id="400071" joined="2007-12-17"/>
+		<cosponsor id="400229" joined="2007-11-13"/>
+		<cosponsor id="400274" joined="2007-11-06"/>
+		<cosponsor id="409888" joined="2007-11-09"/>
+		<cosponsor id="412189" joined="2007-11-15"/>
+		<cosponsor id="400254" joined="2007-11-15"/>
+		<cosponsor id="400084" joined="2007-11-09"/>
+		<cosponsor id="412214" joined="2007-10-17"/>
+		<cosponsor id="400409" joined="2007-10-15"/>
+		<cosponsor id="400101" joined="2007-11-13"/>
+		<cosponsor id="400652" joined="2007-12-18"/>
+		<cosponsor id="400396" joined="2007-10-18"/>
+		<cosponsor id="400384" joined="2007-11-09"/>
+		<cosponsor id="400184" joined="2007-11-15"/>
+		<cosponsor id="400405" joined="2007-12-17"/>
+		<cosponsor id="400288" joined="2007-12-11"/>
+		<cosponsor id="400285" joined="2007-11-07"/>
+		<cosponsor id="400152" joined="2007-10-29"/>
+		<cosponsor id="400412" joined="2007-11-09"/>
+		<cosponsor id="400055" joined="2007-12-04"/>
+		<cosponsor id="400355" joined="2007-11-09"/>
+		<cosponsor id="400427" joined="2007-11-15"/>
+		<cosponsor id="412208" joined="2007-10-15"/>
+		<cosponsor id="400216" joined="2007-11-13"/>
+		<cosponsor id="400262" joined="2007-11-06"/>
+		<cosponsor id="400130" joined="2007-12-04"/>
+		<cosponsor id="400249" joined="2007-11-06"/>
+		<cosponsor id="400437" joined="2007-10-17"/>
+		<cosponsor id="412197" joined="2007-11-15"/>
+		<cosponsor id="400030" joined="2007-11-15"/>
+		<cosponsor id="400312" joined="2007-10-15"/>
+		<cosponsor id="412198" joined="2007-11-15"/>
+		<cosponsor id="400658" joined="2007-12-06"/>
+		<cosponsor id="412188" joined="2007-10-31"/>
+		<cosponsor id="400316" joined="2007-10-24"/>
+		<cosponsor id="400010" joined="2007-12-06"/>
+		<cosponsor id="400007" joined="2007-12-06"/>
+		<cosponsor id="400245" joined="2007-11-15"/>
+		<cosponsor id="400231" joined="2007-11-15"/>
+		<cosponsor id="400417" joined="2007-11-15"/>
+		<cosponsor id="400663" joined="2007-11-13"/>
+		<cosponsor id="400352" joined="2007-11-15"/>
+		<cosponsor id="400339" joined="2007-11-15"/>
+		<cosponsor id="400324" joined="2007-10-18"/>
+		<cosponsor id="400640" joined="2007-12-04"/>
+		<cosponsor id="400648" joined="2007-10-17"/>
+		<cosponsor id="400017" joined="2007-12-04"/>
+		<cosponsor id="400331" joined="2007-11-15"/>
+		<cosponsor id="400098" joined="2007-11-15"/>
+		<cosponsor id="400386" joined="2007-11-09"/>
+		<cosponsor id="400147" joined="2007-11-07"/>
+		<cosponsor id="400082" joined="2007-10-29"/>
+		<cosponsor id="400347" joined="2007-11-15"/>
+		<cosponsor id="400230" joined="2007-11-15"/>
+		<cosponsor id="400416" joined="2007-12-17"/>
+		<cosponsor id="400038" joined="2007-12-06"/>
+		<cosponsor id="400008" joined="2007-12-04"/>
+		<cosponsor id="412227" joined="2007-11-15"/>
+		<cosponsor id="400356" joined="2007-11-15"/>
+		<cosponsor id="400121" joined="2007-10-24"/>
+		<cosponsor id="412187" joined="2007-10-18"/>
+		<cosponsor id="412223" joined="2007-10-24"/>
+		<cosponsor id="400048" joined="2007-10-15"/>
+		<cosponsor id="412209" joined="2007-11-09"/>
+		<cosponsor id="400442" joined="2007-12-04"/>
+		<cosponsor id="412235" joined="2007-10-31"/>
+		<cosponsor id="400044" joined="2007-10-23"/>
+		<cosponsor id="412193" joined="2007-11-09"/>
+		<cosponsor id="400287" joined="2007-12-04"/>
+		<cosponsor id="400308" joined="2007-11-13"/>
+		<cosponsor id="400172" joined="2007-11-15"/>
+		<cosponsor id="412205" joined="2007-10-17"/>
+		<cosponsor id="412199" joined="2007-10-17"/>
+		<cosponsor id="400057" joined="2007-12-04"/>
+		<cosponsor id="400631" joined="2007-11-15"/>
+		<cosponsor id="400001" joined="2007-11-15"/>
+		<cosponsor id="400395" joined="2007-11-15"/>
+		<cosponsor id="400103" joined="2007-11-13"/>
+		<cosponsor id="400110" joined="2007-11-15"/>
+		<cosponsor id="400087" joined="2007-10-29"/>
+		<cosponsor id="412211" joined="2007-10-17"/>
+		<cosponsor id="400270" joined="2007-11-09"/>
+		<cosponsor id="400259" joined="2007-11-09"/>
+		<cosponsor id="400166" joined="2007-11-15"/>
+		<cosponsor id="400399" joined="2007-11-09"/>
+		<cosponsor id="400436" joined="2007-12-06"/>
+		<cosponsor id="400346" joined="2007-11-15"/>
+		<cosponsor id="400140" joined="2007-11-15"/>
+		<cosponsor id="400570" joined="2007-12-12"/>
+		<cosponsor id="400013" joined="2007-11-15"/>
+		<cosponsor id="400383" joined="2007-11-13"/>
+		<cosponsor id="400340" joined="2007-12-13"/>
+		<cosponsor id="412240" joined="2007-10-31"/>
+		<cosponsor id="412222" joined="2007-11-05"/>
+		<cosponsor id="412204" joined="2007-10-15"/>
+		<cosponsor id="400400" joined="2007-10-24"/>
+		<cosponsor id="400426" joined="2007-11-15"/>
+		<cosponsor id="400653" joined="2007-11-15"/>
+		<cosponsor id="400195" joined="2007-11-15"/>
+		<cosponsor id="400251" joined="2007-11-15"/>
+		<cosponsor id="400178" joined="2007-10-23"/>
+		<cosponsor id="400026" joined="2007-10-15"/>
+		<cosponsor id="400378" joined="2007-10-31"/>
+		<cosponsor id="412232" joined="2007-11-05"/>
+		<cosponsor id="400350" joined="2007-11-15"/>
+		<cosponsor id="400217" joined="2007-12-04"/>
+		<cosponsor id="400111" joined="2007-11-15"/>
+		<cosponsor id="400360" joined="2007-10-31"/>
+		<cosponsor id="400366" joined="2007-11-09"/>
+		<cosponsor id="400255" joined="2007-10-23"/>
+		<cosponsor id="400645" joined="2007-10-31"/>
+		<cosponsor id="412239" joined="2007-11-15"/>
+		<cosponsor id="400153" joined="2007-12-04"/>
+		<cosponsor id="400281" joined="2007-11-07"/>
+		<cosponsor id="400211" joined="2007-11-13"/>
+		<cosponsor id="400338" joined="2007-12-04"/>
+		<cosponsor id="400120" joined="2007-11-15"/>
+		<cosponsor id="400299" joined="2007-12-04"/>
+		<cosponsor id="400074" joined="2007-11-05"/>
+		<cosponsor id="400118" joined="2007-11-15"/>
+		<cosponsor id="400628" joined="2007-11-07"/>
+		<cosponsor id="400638" joined="2007-11-13"/>
+		<cosponsor id="412200" joined="2007-11-09"/>
+		<cosponsor id="400284" joined="2007-12-06"/>
+		<cosponsor id="400081" joined="2007-11-09"/>
+		<cosponsor id="400232" joined="2007-11-09"/>
+		<cosponsor id="400266" joined="2007-11-15"/>
+		<cosponsor id="400125" joined="2007-11-13"/>
+		<cosponsor id="400319" joined="2007-11-15"/>
+		<cosponsor id="400421" joined="2007-10-17"/>
+		<cosponsor id="400193" joined="2007-11-15"/>
+		<cosponsor id="412196" joined="2007-12-12"/>
+		<cosponsor id="400415" joined="2007-11-15"/>
+		<cosponsor id="412254" joined="2007-12-17"/>
+		<cosponsor id="400244" joined="2007-10-23"/>
+		<cosponsor id="412236" joined="2007-11-15"/>
+		<cosponsor id="400009" joined="2007-11-15"/>
+		<cosponsor id="412186" joined="2007-11-15"/>
+		<cosponsor id="400093" joined="2007-11-15"/>
+		<cosponsor id="400221" joined="2007-11-15"/>
+		<cosponsor id="400440" joined="2007-12-12"/>
+		<cosponsor id="400326" joined="2007-11-15"/>
+		<cosponsor id="412213" joined="2007-12-12"/>
+		<cosponsor id="400371" joined="2007-12-04"/>
+		<cosponsor id="400012" joined="2007-12-04"/>
+		<cosponsor id="412228" joined="2007-10-17"/>
+		<cosponsor id="412212" joined="2007-10-17"/>
+		<cosponsor id="400291" joined="2007-11-15"/>
+		<cosponsor id="400201" joined="2007-10-31"/>
+		<cosponsor id="400043" joined="2007-10-24"/>
+		<cosponsor id="400109" joined="2007-11-15"/>
+		<cosponsor id="400391" joined="2007-10-17"/>
+		<cosponsor id="400185" joined="2007-11-15"/>
+		<cosponsor id="400641" joined="2007-10-23"/>
+		<cosponsor id="400139" joined="2007-12-04"/>
+		<cosponsor id="400047" joined="2007-10-17"/>
+		<cosponsor id="412220" joined="2007-11-15"/>
+		<cosponsor id="400283" joined="2007-11-13"/>
+		<cosponsor id="400310" joined="2007-11-15"/>
+		<cosponsor id="400286" joined="2007-11-13"/>
+		<cosponsor id="400090" joined="2007-11-15"/>
+		<cosponsor id="400651" joined="2007-12-04"/>
+		<cosponsor id="400033" joined="2007-12-12"/>
+		<cosponsor id="400042" joined="2007-11-15"/>
+		<cosponsor id="400208" joined="2007-11-09"/>
+		<cosponsor id="400218" joined="2007-10-23"/>
+		<cosponsor id="400431" joined="2007-12-12"/>
+		<cosponsor id="400240" joined="2007-11-06"/>
+		<cosponsor id="400438" joined="2007-11-15"/>
+		<cosponsor id="412219" joined="2007-10-17"/>
+		<cosponsor id="400215" joined="2007-10-17"/>
+		<cosponsor id="400024" joined="2007-10-15"/>
+		<cosponsor id="400654" joined="2007-12-12"/>
+		<cosponsor id="400238" joined="2007-12-04"/>
+		<cosponsor id="400363" joined="2007-12-04"/>
+		<cosponsor id="412206" joined="2007-10-17"/>
+		<cosponsor id="400025" joined="2007-11-15"/>
+		<cosponsor id="400345" joined="2007-10-31"/>
+		<cosponsor id="400163" joined="2007-11-15"/>
+		<cosponsor id="400114" joined="2007-10-15"/>
+		<cosponsor id="400062" joined="2007-11-15"/>
+		<cosponsor id="412194" joined="2007-10-25"/>
+		<cosponsor id="400011" joined="2007-12-04"/>
+		<cosponsor id="400425" joined="2007-11-15"/>
+		<cosponsor id="400233" joined="2007-11-15"/>
+		<cosponsor id="400321" joined="2007-11-05"/>
+		<cosponsor id="400157" joined="2007-12-06"/>
+		<cosponsor id="400179" joined="2007-10-31"/>
+		<cosponsor id="400100" joined="2007-11-15"/>
+		<cosponsor id="400435" joined="2007-12-04"/>
+		<cosponsor id="400639" joined="2007-11-15"/>
+		<cosponsor id="400309" joined="2007-11-13"/>
+		<cosponsor id="400186" joined="2007-10-18"/>
+		<cosponsor id="412233" joined="2007-10-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1191988800" datetime="2007-10-10"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1192766400" datetime="2007-10-19"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+		<action date="1197915420" datetime="2007-12-17T14:17:00-05:00"><text>Ms. Shea-Porter moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1197915420" datetime="2007-12-17T14:17:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H15494-15497"/></action>
+		<action date="1197915420" datetime="2007-12-17T14:17:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3793.</text></action>
+		<action date="1197916860" datetime="2007-12-17T14:41:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1197992880" datetime="2007-12-18T11:48:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H16658-16659"/></action>
+		<vote date="1197993240" how="roll" roll="1176" datetime="2007-12-18T11:54:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 1176). (text: CR 12/17/2007 H15494)</text></vote>
+		<action date="1197993300" datetime="2007-12-18T11:55:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<calendar under="General Orders" number="554" date="1198040400" datetime="2007-12-19" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 554.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/18/2007--Passed House amended. Veterans Guaranteed Bonus Act of 2007 - Veterans Guaranteed Bonus Act of 2007 - Requires a member of the Armed Forces who receives a bonus or similar benefit subject to the condition that the member continue to satisfy certain eligibility requirements to repay the unearned portion of the bonus or similar benefit if the member fails to satisfy the eligibility requirements and prohibits receiving any unpaid amounts, unless the Secretary concerned determines that the imposition of the repayment requirement and termination of the payment of unpaid amounts of the bonus or similar benefit would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States. Provides that if a member dies (other than as a result of their own misconduct) or is separated or retired due to a combat-related injury, then the Secretary concerned shall: (1) not require repayment by the member or member's estate of the unearned portion of any bonus or special pay previously paid to the member; and (2) require the payment to the member or member's estate of the remainder of any bonus or special pay not yet paid, but to which the member was entitled to immediately before their death, retirement, or separation. Requires the latter payment to made in a lump sum within 90 days after such death, retirement, or separation. Provides the same discretionary authority and requirements as above for the Secretary concerned with respect to repayment by a member of the unearned portion of any military bonus, special pay, or similar benefit when the member fails to satisfy any service or eligibility requirement.<br/>
+	</summary>
+</bill>

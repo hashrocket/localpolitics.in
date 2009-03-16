@@ -1,0 +1,45 @@
+<bill session="110" type="sj" number="25" updated="2009-01-09T19:56:15-05:00">
+	<status><enacted date="1205467200" datetime="2008-03-14" /></status>
+
+	<introduced date="1195189200" datetime="2007-11-16"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution providing for the appointment of John W. McCarter as a citizen regent of the Board of Regents of the Smithsonian Institution.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="300038" joined="2008-02-04"/>
+		<cosponsor id="300034" joined="2007-11-16"/>
+		<cosponsor id="300023" joined="2007-11-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1195189200" datetime="2007-11-16"><text>Read twice and referred to the Committee on Rules and Administration.</text><reference label="text of measure as introduced" ref="CR S14643"/></action>
+		<action date="1202101200" datetime="2008-02-04"><text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S609"/></action>
+		<vote date="1202101200" how="by Unanimous Consent" datetime="2008-02-04" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="text" ref="CR S609"/></vote>
+		<action date="1202187600" datetime="2008-02-05"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1202321400" datetime="2008-02-06T14:10:00-05:00"><text>Received in the House.</text></action>
+		<action date="1202274000" datetime="2008-02-06"><text>Referred to the House Committee on House Administration.</text></action>
+		<action date="1204737120" datetime="2008-03-05T13:12:00-05:00"><text>Mr. Brady (PA) moved to suspend the rules and pass the resolution.</text></action>
+		<action date="1204737120" datetime="2008-03-05T13:12:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1248-1249"/></action>
+		<action date="1204737120" datetime="2008-03-05T13:12:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on S.J. Res. 25.</text></action>
+		<vote date="1204737360" how="by voice vote" datetime="2008-03-05T13:16:00-05:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H1248"/></vote>
+		<topresident date="1204693200" datetime="2008-03-05" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1205294400" datetime="2008-03-12" ><text>Presented to President.</text></topresident>
+		<signed date="1205467200" datetime="2008-03-14" ><text>Signed by President.</text></signed>
+		<enacted number="110-197" date="1205467200" datetime="2008-03-14" type="public" ><text>Became Public Law No: 110-197.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/14/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Provides for the appointment of John W. McCarter as a citizen regent of the Board of Regents of the Smithsonian Institution. 
+	</summary>
+</bill>

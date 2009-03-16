@@ -1,0 +1,45 @@
+<bill session="110" type="s" number="2339" updated="2009-01-09T16:43:51-05:00">
+	<status><enacted date="1222747200" datetime="2008-09-30" /></status>
+
+	<introduced date="1194930000" datetime="2007-11-13"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the Department of Veterans Affairs clinic in Alpena, Michigan, as the &quot;Lieutenant Colonel Clement C. Van Wagoner Department of Veterans Affairs Clinic&quot;.</title>
+	</titles>
+	<sponsor id="300093"/>
+	<cosponsors>
+		<cosponsor id="300066" joined="2007-11-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1194930000" datetime="2007-11-13"><text>Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+		<action date="1197522000" datetime="2007-12-13"><text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S15572"/></action>
+		<vote date="1197522000" how="by Unanimous Consent" datetime="2007-12-13" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="text" ref="CR S15572"/></vote>
+		<action date="1197608400" datetime="2007-12-14"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1197916200" datetime="2007-12-17T14:30:00-05:00"><text>Received in the House.</text></action>
+		<action date="1197867600" datetime="2007-12-17"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1221505080" datetime="2008-09-15T15:58:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 2339.</text></action>
+		<action date="1221505080" datetime="2008-09-15T15:58:00-04:00"><text>Mr. Filner moved to suspend the rules and pass the bill.</text></action>
+		<action date="1221505080" datetime="2008-09-15T15:58:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8071-8072"/></action>
+		<action date="1221505500" datetime="2008-09-15T16:05:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Stearns objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1221684900" datetime="2008-09-17T17:55:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8352-8353"/></action>
+		<vote date="1221685320" how="roll" roll="603" datetime="2008-09-17T18:02:00-04:00" where="h" type="vote2" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 603). (text: CR 9/15/2008 H8071)</text></vote>
+		<topresident date="1221624000" datetime="2008-09-17" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1222142400" datetime="2008-09-23" ><text>Presented to President.</text></topresident>
+		<signed date="1222747200" datetime="2008-09-30" ><text>Signed by President.</text></signed>
+		<enacted number="110-332" date="1222747200" datetime="2008-09-30" type="public" ><text>Became Public Law No: 110-332.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

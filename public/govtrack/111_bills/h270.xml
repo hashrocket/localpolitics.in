@@ -1,0 +1,57 @@
+<bill session="111" type="h" number="270" updated="2009-03-07T10:19:24-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">TRICARE Continuity of Coverage for National Guard and Reserve Families Act of 2009</title>
+		<title type="official" as="introduced">To amend title 10, United States Code, to provide for continuity of TRICARE Standard coverage for certain members of the Retired Reserve.</title>
+	</titles>
+	<sponsor id="412256"/>
+	<cosponsors>
+		<cosponsor id="412272" joined="2009-02-13"/>
+		<cosponsor id="400140" joined="2009-02-12"/>
+		<cosponsor id="412274" joined="2009-02-23"/>
+		<cosponsor id="412234" joined="2009-03-03"/>
+		<cosponsor id="400302" joined="2009-03-04"/>
+		<cosponsor id="412232" joined="2009-03-03"/>
+		<cosponsor id="400234" joined="2009-02-03"/>
+		<cosponsor id="412239" joined="2009-02-23"/>
+		<cosponsor id="400643" joined="2009-02-26"/>
+		<cosponsor id="412010" joined="2009-03-03"/>
+		<cosponsor id="412196" joined="2009-02-23"/>
+		<cosponsor id="400276" joined="2009-02-23"/>
+		<cosponsor id="400361" joined="2009-02-13"/>
+		<cosponsor id="400047" joined="2009-02-23"/>
+		<cosponsor id="400204" joined="2009-02-26"/>
+		<cosponsor id="412219" joined="2009-03-04"/>
+		<cosponsor id="400345" joined="2009-03-03"/>
+		<cosponsor id="400316" joined="2009-02-12"/>
+		<cosponsor id="400252" joined="2009-02-23"/>
+		<cosponsor id="400235" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1233291600" datetime="2009-01-30"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Armed Services" subcommittee="Military Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Military personnel and dependents"/>
+		<term name="National Guard and reserves"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>TRICARE Continuity of Coverage for National Guard and Reserve Families Act of 2009 - Makes a member of the Retired Reserve who is qualified for a non-regular (reserve) retirement at age 60, but is not yet 60, eligible for health benefits under TRICARE Standard (a Department of Defense (DOD) managed health care program for members of the reserves). Terminates such eligibility when the member becomes eligible for TRICARE Standard at age 60. Includes immediate family members under such coverage. Requires members to pay a premium for such coverage.<br/>
+	</summary>
+</bill>

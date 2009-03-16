@@ -1,0 +1,48 @@
+<bill session="110" type="h" number="3739" updated="2009-01-09T00:42:07-05:00">
+	<status><enacted date="1198213200" datetime="2007-12-21" /></status>
+
+	<introduced date="1191384000" datetime="2007-10-03"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Arizona Water Settlements Act to modify the requirements for the statement of findings.</title>
+	</titles>
+	<sponsor id="400162"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1191384000" datetime="2007-10-03"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1191556800" datetime="2007-10-05"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1193198400" datetime="2007-10-24"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1195102800" datetime="2007-11-15"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1195102800" datetime="2007-11-15" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1197433260" datetime="2007-12-11T12:21:00-05:00"><text>Reported by the Committee on Natural Resources. H. Rept. 110-484.</text></action>
+		<calendar number="299" date="1197433260" datetime="2007-12-11T12:21:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 299.</text></calendar>
+		<action date="1197434520" datetime="2007-12-11T12:42:00-05:00"><text>Mrs. Napolitano moved to suspend the rules and pass the bill.</text></action>
+		<action date="1197434520" datetime="2007-12-11T12:42:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H15229-15230"/></action>
+		<action date="1197434520" datetime="2007-12-11T12:42:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3739.</text></action>
+		<vote date="1197434640" how="by voice vote" datetime="2007-12-11T12:44:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H15229"/></vote>
+		<action date="1197435600" datetime="2007-12-12"><text>Received in the Senate and Read twice and referred to the Committee on Indian Affairs.</text></action>
+		<action date="1197608400" datetime="2007-12-14"><text>Senate Committee on Indian Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S15706"/></action>
+		<vote date="1197608400" how="by Unanimous Consent" datetime="2007-12-14" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<action date="1197608400" datetime="2007-12-14"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1197608400" datetime="2007-12-14" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1198040400" datetime="2007-12-19" ><text>Presented to President.</text></topresident>
+		<signed date="1198213200" datetime="2007-12-21" ><text>Signed by President.</text></signed>
+		<enacted number="110-148" date="1198213200" datetime="2007-12-21" type="public" ><text>Became Public Law No: 110-148.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/21/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends the Arizona Water Settlements Act to make the Southern Arizona Water Rights Settlement effective as of the date the Secretary of the Interior publishes in the Federal Register a statement of findings that specified conditions apply, including that the judgment and decree attached to the Tohono O'odham settlement agreement has been approved by the state court having jurisdiction over the Gila River adjudication proceedings. (Current law requires the judgment and decree to have become final and nonappealable.)<br/>
+	</summary>
+</bill>

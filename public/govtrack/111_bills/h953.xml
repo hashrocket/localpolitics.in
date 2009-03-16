@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="953" updated="2009-03-07T11:40:24-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="short" as="introduced">Veterans Travel Tax Relief Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for a deduction for travel expenses to medical centers of the Department of Veterans Affairs in connection with examinations or treatments relating to service-connected disabilities.</title>
+	</titles>
+	<sponsor id="412218"/>
+	<cosponsors>
+		<cosponsor id="400006" joined="2009-03-04"/>
+		<cosponsor id="400199" joined="2009-03-04"/>
+		<cosponsor id="400340" joined="2009-03-06"/>
+		<cosponsor id="400400" joined="2009-03-04"/>
+		<cosponsor id="400385" joined="2009-03-04"/>
+		<cosponsor id="412010" joined="2009-03-04"/>
+		<cosponsor id="400207" joined="2009-03-04"/>
+		<cosponsor id="400171" joined="2009-02-10"/>
+		<cosponsor id="400244" joined="2009-03-04"/>
+		<cosponsor id="400018" joined="2009-03-04"/>
+		<cosponsor id="400029" joined="2009-03-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

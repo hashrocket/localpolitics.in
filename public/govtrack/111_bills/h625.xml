@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="625" updated="2009-03-07T11:01:03-05:00">
+	<status><introduced date="1232514000" datetime="2009-01-21"/></status>
+
+	<introduced date="1232514000" datetime="2009-01-21"/>
+	<titles>
+		<title type="short" as="introduced">Homeland Security Transparency Act of 2009</title>
+		<title type="official" as="introduced">To amend the Homeland Security Act of 2002 to direct the Secretary of Homeland Security to require, as a condition of receiving a homeland security grant, that a grant recipient submit reports on each expenditure made using grant funds.</title>
+	</titles>
+	<sponsor id="400426"/>
+	<cosponsors>
+		<cosponsor id="400134" joined="2009-01-21"/>
+		<cosponsor id="400400" joined="2009-01-26"/>
+		<cosponsor id="400288" joined="2009-01-26"/>
+		<cosponsor id="400152" joined="2009-01-21"/>
+		<cosponsor id="400055" joined="2009-01-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1232514000" datetime="2009-01-21"><text>Referred to the House Committee on Homeland Security.</text></action>
+		<action date="1233810000" datetime="2009-02-05"><text>Referred to the Subcommittee on Emergency Communications, Preparedness, and Response.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Homeland Security" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Homeland Security" subcommittee="Emergency Communications, Preparedness, and Response" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Emergency management"/>
+		<term name="Government information and archives"/>
+		<term name="Homeland security"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/2009--Introduced.<br/>Homeland Security Transparency Act of 2009 - Amends the Homeland Security Act of 2002 to direct the Secretary of Homeland Security to: (1) require homeland security grant recipients to submit quarterly reports describing the nature and amount of each expenditure made using grant funds; and (2) publish such information and make it publicly available on the Department of Homeland Security's (DHS's) website.<br/>
+	</summary>
+</bill>

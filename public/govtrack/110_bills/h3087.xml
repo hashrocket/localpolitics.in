@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="3087" updated="2009-01-08T23:16:34-05:00">
+	<status><vote date="1191355260" datetime="2007-10-02T17:01:00-04:00" where="h" result="pass" how="roll" roll="927"/></status>
+
+	<introduced date="1184731200" datetime="2007-07-18"/>
+	<titles>
+		<title type="official" as="introduced">To require the President, in coordination with the Secretary of State, the Secretary of Defense, the Joint Chiefs of Staff, and other senior military leaders, to develop and transmit to Congress a comprehensive strategy for the redeployment of United States Armed Forces in Iraq.</title>
+		<title type="official" as="amended by house">A bill to require the Secretary of Defense to submit to Congress reports on the status of planning for the redeployment of the Armed Forces from Iraq and to require the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, and appropriate senior officials of the Department of Defense to meet with Congress to brief Congress on the matters contained in the reports.</title>
+	</titles>
+	<sponsor id="400395"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-07-24"/>
+		<cosponsor id="400618" joined="2007-07-18"/>
+		<cosponsor id="400102" joined="2007-07-18"/>
+		<cosponsor id="412195" joined="2007-07-27"/>
+		<cosponsor id="400647" joined="2007-07-18"/>
+		<cosponsor id="400370" joined="2007-07-30"/>
+		<cosponsor id="400396" joined="2007-07-18"/>
+		<cosponsor id="400001" joined="2007-07-18"/>
+		<cosponsor id="400270" joined="2007-07-18"/>
+		<cosponsor id="400070" joined="2007-07-27"/>
+		<cosponsor id="412200" joined="2007-07-30"/>
+		<cosponsor id="400047" joined="2007-07-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1184731200" datetime="2007-07-18"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1185508800" datetime="2007-07-27"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1185508800" datetime="2007-07-27" ><text>Ordered to be Reported by the Yeas and Nays: 55 - 2.</text></calendar>
+		<action date="1185926040" datetime="2007-07-31T20:54:00-04:00"><text>Reported (Amended) by the Committee on Armed Services. H. Rept. 110-283.</text></action>
+		<calendar number="184" date="1185926040" datetime="2007-07-31T20:54:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 184.</text></calendar>
+		<action date="1191350640" datetime="2007-10-02T15:44:00-04:00"><text>Mr. Skelton moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1191350700" datetime="2007-10-02T15:45:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11116-11118, H11118-11125"/></action>
+		<action date="1191350700" datetime="2007-10-02T15:45:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3087.</text></action>
+		<vote date="1191355260" how="roll" roll="927" datetime="2007-10-02T17:01:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 377 - 46 (Roll no. 927).</text><reference label="text" ref="CR H11116"/></vote>
+		<action date="1191355260" datetime="2007-10-02T17:01:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1191384000" datetime="2007-10-03"><text>Received in the Senate and Read twice and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/2/2007--Passed House amended. Expresses the sense of Congress that: (1) nothing in this Act shall be construed as a recommendation by Congress that any particular contingency plan be exercised; (2) it is necessary and prudent for the Department of Defense (DOD) to undertake robust and comprehensive contingency planning; (3) contingency planning for a redeployment of Armed Forces from Iraq should address appropriate protection for U.S. Armed Forces, civilians, contractors, and third party and Iraqi nationals who have aided the U.S. mission in Iraq, and the preservation of military equipment; and (4) such planning should describe a range of scenarios and timetables for redeployment, and describe possible missions of Armed Forces remaining in Iraq. Directs the Secretary of Defense, within 60 days after the enactment of this Act and every 90 days thereafter, to report to the congressional defense and appropriations committees on the status of planning for the redeployment of Armed Forces from Iraq. Requires the Secretary and the Chairman of the Joint Chiefs of Staff to brief such committees on matters contained in the reports. Terminates the reporting and briefing requirements on the date on which the Secretary certifies to such committees that the Armed Forces are no longer primarily engaged in a combat mission in Iraq.<br/>
+	</summary>
+</bill>

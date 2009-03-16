@@ -1,0 +1,47 @@
+<bill session="111" type="s" number="46" updated="2009-03-07T13:37:40-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Access to Rehabilitation Services Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to repeal the Medicare outpatient rehabilitation therapy caps.</title>
+	</titles>
+	<sponsor id="300040"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2009-01-06"/>
+		<cosponsor id="300025" joined="2009-01-06"/>
+		<cosponsor id="400064" joined="2009-01-06"/>
+		<cosponsor id="300001" joined="2009-01-06"/>
+		<cosponsor id="412246" joined="2009-01-06"/>
+		<cosponsor id="300047" joined="2009-01-06"/>
+		<cosponsor id="300093" joined="2009-01-06"/>
+		<cosponsor id="300038" joined="2009-01-06"/>
+		<cosponsor id="300092" joined="2009-01-06"/>
+		<cosponsor id="400054" joined="2009-03-03"/>
+		<cosponsor id="300068" joined="2009-01-06"/>
+		<cosponsor id="412247" joined="2009-01-06"/>
+		<cosponsor id="300051" joined="2009-01-07"/>
+		<cosponsor id="300058" joined="2009-01-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="43" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Home and outpatient care"/>
+		<term name="Long-term, rehabilitative, and terminal care"/>
+		<term name="Medicare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Medicare Access to Rehabilitation Services Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act, as amended by the Medicare Improvements for Patients and Providers Act of 2008, to repeal the outpatient therapy cap.<br/>
+	</summary>
+</bill>

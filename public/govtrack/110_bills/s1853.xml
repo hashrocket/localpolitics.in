@@ -1,0 +1,43 @@
+<bill session="110" type="s" number="1853" updated="2009-01-09T15:40:33-05:00">
+	<status><calendar date="1193716800" datetime="2007-10-30" /></status>
+
+	<introduced date="1185163200" datetime="2007-07-23"/>
+	<titles>
+		<title type="short" as="introduced">Community Broadband Act of 2007</title>
+		<title type="short" as="reported to senate">Community Broadband Act of 2007</title>
+		<title type="official" as="introduced">A bill to promote competition, to preserve the ability of local governments to provide broadband capability and services, and for other purposes.</title>
+	</titles>
+	<sponsor id="300064"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="2007-07-23"/>
+		<cosponsor id="300056" joined="2007-07-23"/>
+		<cosponsor id="300042" joined="2008-03-05"/>
+		<cosponsor id="300071" joined="2007-07-23"/>
+		<cosponsor id="300060" joined="2007-07-23"/>
+		<cosponsor id="300091" joined="2007-07-23"/>
+		<cosponsor id="412243" joined="2007-07-23"/>
+		<cosponsor id="300090" joined="2007-07-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1185163200" datetime="2007-07-23"><text>Sponsor introductory remarks on measure. (CR S9778-9779)</text></action>
+		<action date="1185163200" datetime="2007-07-23"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text><reference label="text of measure as introduced" ref="CR S9779"/></action>
+		<calendar date="1193716800" datetime="2007-10-30" ><text>Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.</text></calendar>
+		<action date="1208836800" datetime="2008-04-22"><text>Committee on Commerce, Science, and Transportation. Reported by Senator Inouye with amendments. With written report No. 110-330.</text></action>
+		<calendar under="General Orders" number="707" date="1208836800" datetime="2008-04-22" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 707.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/22/2008--Reported to Senate amended. Community Broadband Act of 2007 - Prohibits any state or local government statute, regulation, or other legal requirement from having the effect of prohibiting any public provider from providing advanced telecommunications capability, or related services, to any person or any public or private entity. Defines &quot;public provider&quot; as a state or a political subdivision or instrumentality thereof, an Indian tribe, or any entity owned, controlled, or otherwise affiliated with a state, subdivision, instrumentality, or tribe. Requires any public provider that regulates competing providers of advanced telecommunications capability or services to apply its ordinances, rules, and policies without discrimination in favor of itself or any other provider it owns or is affiliated with. Requires a public provider, before it provides advanced telecommunications capability or services, to publish notice, provide local citizens and private-sector entities with an opportunity to be heard, identify any special capabilities or services to be provided in low-income areas or other demographically or geographically defined areas, and provide private-sector entities an opportunity to bid to provide the capability or services. Declares that the provisions of the two paragraphs immediately above do not apply when: (1) a public provider provides such capabilities or services other than to the public or to such classes of users as to be effectively available to the public; or (2) a state of emergency has been declared by the President, that state's governor, or any other elected local official authorized by law to declare a state of emergency. Prohibits the use of federal funds to assist a public provider in reviving or renewing an advanced telecommunications project that fails due to bankruptcy (unless in a presidentially-declared major disaster area) or is terminated by a public provider.<br/>
+	</summary>
+</bill>

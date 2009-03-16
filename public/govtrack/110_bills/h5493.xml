@@ -1,0 +1,45 @@
+<bill session="110" type="h" number="5493" updated="2009-01-09T04:16:39-05:00">
+	<status><vote2 date="1210046400" datetime="2008-05-06" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1204002000" datetime="2008-02-26"/>
+	<titles>
+		<title type="official" as="introduced">To provide that the usual day for paying salaries in or under the House of Representatives may be established by regulations of the Committee on House Administration.</title>
+	</titles>
+	<sponsor id="400047"/>
+	<cosponsors>
+		<cosponsor id="400288" joined="2008-04-01"/>
+		<cosponsor id="400119" joined="2008-04-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1204002000" datetime="2008-02-26"><text>Referred to the House Committee on House Administration.</text></action>
+		<action date="1207108800" datetime="2008-04-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1207108800" datetime="2008-04-02" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1208211120" datetime="2008-04-14T19:12:00-04:00"><text>Reported by the Committee on House Administration. H. Rept. 110-588.</text></action>
+		<calendar number="363" date="1208211120" datetime="2008-04-14T19:12:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 363.</text></calendar>
+		<action date="1208281560" datetime="2008-04-15T14:46:00-04:00"><text>Mr. Brady (PA) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1208281560" datetime="2008-04-15T14:46:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2297-2298"/></action>
+		<action date="1208281620" datetime="2008-04-15T14:47:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5493.</text></action>
+		<vote date="1208281800" how="by voice vote" datetime="2008-04-15T14:50:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H2297"/></vote>
+		<action date="1208318400" datetime="2008-04-16"><text>Received in the Senate.</text></action>
+		<action date="1209441600" datetime="2008-04-29"><text>Read twice and referred to the Committee on Rules and Administration.</text></action>
+		<action date="1210046400" datetime="2008-05-06"><text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text></action>
+		<action date="1210046400" datetime="2008-05-06"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S3836-3837"/></action>
+		<vote date="1210046400" how="by Unanimous Consent" datetime="2008-05-06" where="s" type="vote2" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action date="1210132800" datetime="2008-05-07"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/6/2008--Passed Senate amended. Amends the Legislative Branch Appropriations Act, 2002 to authorize the Committee on House Administration, by regulation, to provide for the payment of salaries with respect to a month on a date other than the date provided under the Act as may be necessary to conform to generally accepted accounting practices. (Currently, the usual day for paying salaries in or under the House of Representatives is the last day of each month; except that if the last day of a month falls on a Saturday, Sunday, or a legal public holiday, the Chief Administrative Officer of the House pays such salaries on the first weekday which precedes the last day.) Makes technical amendments to the federal criminal code with respect to the one-year ban on lobbying contacts by certain former officers and staff of the Senate and personal, committee, and leadership staff of the House of Representatives. Changes from at least 60 days to more than two months during the one-year period before their service terminated their payment of a salary equal to or greater than 75% of the salary of the Member of the chamber in which he or she was employed. Makes the same change with respect to specified employees of other legislative offices. Amends Rule XXXVII (Conflict of Interest) of the Standing Rules of the Senate to make the same change with respect to its one-year ban on lobbying contacts by a former Senate officer or employee (with any Senator or Senate officer or employee).<br/>
+	</summary>
+</bill>

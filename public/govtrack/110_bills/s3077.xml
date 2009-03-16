@@ -1,0 +1,35 @@
+<bill session="110" type="s" number="3077" updated="2009-01-09T18:16:50-05:00">
+	<status><introduced date="1212465600" datetime="2008-06-03"/></status>
+
+	<introduced date="1212465600" datetime="2008-06-03"/>
+	<titles>
+		<title type="short" as="introduced">Strengthening Transparency and Accountability in Federal Spending Act of 2008</title>
+		<title type="official" as="introduced">A bill to strengthen transparency and accountability in Federal spending.</title>
+	</titles>
+	<sponsor id="400629"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="2008-06-03"/>
+		<cosponsor id="300019" joined="2008-06-03"/>
+		<cosponsor id="400576" joined="2008-06-03"/>
+		<cosponsor id="412243" joined="2008-09-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1212465600" datetime="2008-06-03"><text>Sponsor introductory remarks on measure. (CR S4971)</text></action>
+		<action date="1212465600" datetime="2008-06-03"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/3/2008--Introduced.<br/>Strengthening Transparency and Accountability in Federal Spending Act of 2008 - Amends the Federal Funding Accountability and Transparency Act of 2006 with respect to the Office of Management and Budget (OMB) searchable federal funding database website. Requires the website to allow the public to search programmatically and access all data in a serialized machine readable format (such as XML) via a web-services application programming interface.<br/>Specifies additional information on federal awards (federal financial assistance and expenditures) the website must include by certain deadlines. Requires the website to present information about federal awards and their recipients in ways that meet the needs of users with different levels of understanding about government spending and abilities using searching websites.<br/>Sets forth requirements of the Director of OMB to add specified data quality enhancements to the website.<br/>Requires the Director to ensure that the unique identifier used to link information on the website is also used to link information about performance of individual contractors and recipients of financial assistance starting with awards given in FY2008.<br/>Requires the chief executive officer of an award recipient to certify whether the entity has: (1) filed all federal tax returns required during the preceding five years; (2) been convicted of a criminal offense under the Internal Revenue Code; and (3) an outstanding debt under the Code for which a notice of lien has been publicly filed that is not being paid in a timely manner, or for which a collection due process hearing or relief is requested or pending.<br/>Requires the Director to: (1) develop certification forms; (2) ensure that each agency providing federal awards complies with tax compliance requirements; and (3) ensure that the website contains such certified information.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="946" updated="2009-03-07T11:39:33-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="short" as="introduced">Plain Language Act of 2009</title>
+		<title type="official" as="introduced">To enhance citizen access to Government information and services by establishing that Government documents issued to the public must be written clearly, and for other purposes.</title>
+	</titles>
+	<sponsor id="412208"/>
+	<cosponsors>
+		<cosponsor id="412209" joined="2009-03-03"/>
+		<cosponsor id="412239" joined="2009-03-03"/>
+		<cosponsor id="400643" joined="2009-02-25"/>
+		<cosponsor id="400042" joined="2009-03-03"/>
+		<cosponsor id="400055" joined="2009-02-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

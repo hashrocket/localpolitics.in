@@ -1,0 +1,47 @@
+<bill session="110" type="hc" number="308" updated="2009-01-08T16:05:41-05:00">
+	<status><vote2 date="1210132800" datetime="2008-05-07" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1204606800" datetime="2008-03-04"/>
+	<titles>
+		<title type="official" as="introduced">Authorizing the use of the Capitol Grounds for the National Peace Officers' Memorial Service.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+		<cosponsor id="400098" joined="2008-03-04"/>
+		<cosponsor id="400158" joined="2008-03-04"/>
+		<cosponsor id="400189" joined="2008-03-04"/>
+		<cosponsor id="400415" joined="2008-03-04"/>
+		<cosponsor id="400283" joined="2008-03-04"/>
+		<cosponsor id="400090" joined="2008-03-04"/>
+		<cosponsor id="400438" joined="2008-03-04"/>
+		<cosponsor id="400435" joined="2008-03-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1204606800" datetime="2008-03-04"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1204693200" datetime="2008-03-05"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1209573060" datetime="2008-04-30T13:31:00-04:00"><text>Mr. Carney moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1209573060" datetime="2008-04-30T13:31:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2885-2886"/></action>
+		<action date="1209573060" datetime="2008-04-30T13:31:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 308.</text></action>
+		<action date="1209573360" datetime="2008-04-30T13:36:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1209700680" datetime="2008-05-01T12:58:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2981-2982"/></action>
+		<vote date="1209657840" how="roll" roll="237" datetime="2008-05-01T13:04:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 237). (text: CR 5/1/2008 H2885)</text></vote>
+		<action date="1209700800" datetime="2008-05-02"><text>Received in the Senate.</text></action>
+		<vote date="1210132800" how="by Unanimous Consent" datetime="2008-05-07" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S3930"/><reference label="text as passed Senate" ref="CR S3730"/></vote>
+		<action date="1210219200" datetime="2008-05-08"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/7/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Permits the Grand Lodge of the Fraternal Order of Police and its auxiliary to sponsor a free public event, the 27th annual National Peace Officers' Memorial Service, on the Capitol grounds on May 15, 2008, to honor the law enforcement officers who died in the line of duty during 2007.<br/>
+	</summary>
+</bill>

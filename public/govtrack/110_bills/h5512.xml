@@ -1,0 +1,44 @@
+<bill session="110" type="h" number="5512" updated="2009-01-09T04:18:50-05:00">
+	<status><vote date="1210303500" datetime="2008-05-08T12:25:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1204174800" datetime="2008-02-28"/>
+	<titles>
+		<title type="short" as="introduced">Coin Modernization and Taxpayer Savings Act of 2008</title>
+		<title type="short" as="passed house">Coin Modernization and Taxpayer Savings Act of 2008</title>
+		<title type="official" as="introduced">To authorize the Secretary of the Treasury to prescribe the weights and the compositions of circulating coins, and for other purposes.</title>
+		<title type="official" as="amended by house">To reduce the costs of producing 1-cent and 5-cent coins, provide authority to the Secretary of the Treasury to perform research and development on new metallic content for circulating coins, and to require biennial reports to Congress on circulating coin production costs and possible alternative metallic content.</title>
+	</titles>
+	<sponsor id="412229"/>
+	<cosponsors>
+		<cosponsor id="400140" joined="2008-02-28"/>
+		<cosponsor id="400163" joined="2008-02-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1204174800" datetime="2008-02-28"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1204174800" datetime="2008-02-28"><text>Referred to the Subcommittee on Domestic and International Monetary Policy, Trade, and Technology.</text></action>
+		<action date="1205208000" datetime="2008-03-11"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1210109040" datetime="2008-05-06T18:24:00-04:00"><text>Mr. Gutierrez moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1210109100" datetime="2008-05-06T18:25:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3096-3099"/></action>
+		<action date="1210109100" datetime="2008-05-06T18:25:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5512.</text></action>
+		<action date="1210109820" datetime="2008-05-06T18:37:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Carter objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1210303500" datetime="2008-05-08T12:25:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3203-3204"/></action>
+		<vote date="1210303500" how="by voice vote" datetime="2008-05-08T12:25:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 5/6/2008 H3096-3097)</text></vote>
+		<action date="1210303560" datetime="2008-05-08T12:26:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1210564800" datetime="2008-05-12"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/8/2008--Passed House amended. Coin Modernization and Taxpayer Savings Act of 2008 - Requires the one-cent coin (except for Lincoln Bicentennial Numismatic Pennies) to be produced primarily of steel and treated to impart a copper color to its appearance similar to one-cent coins produced of a copper-zinc alloy. Authorizes the Secretary of the Treasury, in the alternative, during the 90 days following enactment of this Act, to add any other element to any alloy of zinc and copper of which one-cent coins could have been composed before enactment of this Act, if during such 90-day period another element is determined to help produce one-cent coins of the same diameter, general composition, and general weight, but at a lower unit cost. Requires a prompt report to Congress if such a determination is made. Directs the Secretary, two years after enactment of this Act, to produce only five-cent coins primarily made of steel with a coating of nickel, unless by that time the unit cost of production of existing five-cent coins is lower than their face value. Requires the Secretary, however, to recommend a different metallic content of circulating five-cent coins if any biennial report to Congress, required by this Act, indicates that such a different metallic content is both functional and interchangeable with existing coins, and more economical to produce in both the short and long term. Authorizes the Secretary, in order to accomplish the goals of this Act, to research, develop, evaluate or begin to use new metallic material for circulating coin production. Requires the Secretary to report biennially to specified congressional committees on the production costs for each circulating coin, cost trends, and possible new metallic materials or technologies for the production of circulating coins, with detailed recommendations for any appropriate changes to the metallic content of circulating coins. 
+	</summary>
+</bill>

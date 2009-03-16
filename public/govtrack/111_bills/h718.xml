@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="718" updated="2009-03-07T11:12:21-05:00">
+	<status><introduced date="1233032400" datetime="2009-01-27"/></status>
+
+	<introduced date="1233032400" datetime="2009-01-27"/>
+	<titles>
+		<title type="official" as="introduced">To reinstate the Interim Management Strategy governing off-road vehicle use in the Cape Hatteras National Seashore, North Carolina, pending the issuance of a final rule for off-road vehicle use by the National Park Service.</title>
+	</titles>
+	<sponsor id="400209"/>
+	<cosponsors>
+		<cosponsor id="412255" joined="2009-03-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1233032400" datetime="2009-01-27"><text>Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1233032400" datetime="2009-01-27"><text>Referred to House Natural Resources</text></action>
+		<action date="1233032400" datetime="2009-01-27"><text>Referred to House Judiciary</text></action>
+		<action date="1233723600" datetime="2009-02-04"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Endangered and threatened species"/>
+		<term name="Environmental assessment, monitoring, research"/>
+		<term name="Judicial procedure and administration"/>
+		<term name="Motor vehicles"/>
+		<term name="North Carolina"/>
+		<term name="Seashores and lakeshores"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/2009--Introduced.<br/>Requires that the Cape Hatteras National Seashore, North Carolina, be managed in accordance with the Interim Protected Species Management Strategy/Environmental Assessment issued by the National Park Service (NPS) until the NPS issues a special regulation and long-term off-road vehicle management plan for the use of that seashore by the public. Invalidates the consent decree filed in the United States District Court for the Eastern District of North Carolina regarding off-road vehicle use at that seashore. 
+	</summary>
+</bill>

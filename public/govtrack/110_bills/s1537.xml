@@ -1,0 +1,40 @@
+<bill session="110" type="s" number="1537" updated="2009-01-09T15:00:21-05:00">
+	<status><enacted date="1182398400" datetime="2007-06-21" /></status>
+
+	<introduced date="1180065600" datetime="2007-05-25"/>
+	<titles>
+		<title type="official" as="introduced">A bill to authorize the transfer of certain funds from the Senate Gift Shop Revolving Fund to the Senate Employee Child Care Center.</title>
+	</titles>
+	<sponsor id="300063"/>
+	<cosponsors>
+		<cosponsor id="300054" joined="2007-05-25"/>
+	</cosponsors>
+	<actions>
+		<vote date="1180065600" how="by Unanimous Consent" datetime="2007-05-25" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6968-6969"/><reference label="text as passed Senate" ref="CR S6969"/></vote>
+		<action date="1180065600" datetime="2007-05-25"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1181063040" datetime="2007-06-05T14:04:00-04:00"><text>Received in the House.</text></action>
+		<action date="1181073480" datetime="2007-06-05T16:58:00-04:00"><text>Held at the desk.</text></action>
+		<action date="1181136600" datetime="2007-06-06T10:30:00-04:00"><text>Mr. Brady (PA) asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action date="1181136660" datetime="2007-06-06T10:31:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H6015"/></action>
+		<vote date="1181136660" how="without objection" datetime="2007-06-06T10:31:00-04:00" where="h" type="vote2" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H6015"/></vote>
+		<topresident date="1181102400" datetime="2007-06-06" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1181793600" datetime="2007-06-14" ><text>Presented to President.</text></topresident>
+		<signed date="1182398400" datetime="2007-06-21" ><text>Signed by President.</text></signed>
+		<enacted number="110-39" date="1182398400" datetime="2007-06-21" type="public" ><text>Became Public Law No: 110-39.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/21/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes the Secretary of the Senate to transfer from the Senate Gift Shop Revolving Fund to the Senate Employee Child Care Center proceeds from the sale of holiday ornaments in order to fund necessary Center activities and expenses, including scholarships, educational supplies, and equipment.<br/>
+	</summary>
+</bill>

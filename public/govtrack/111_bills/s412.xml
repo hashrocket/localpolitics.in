@@ -1,0 +1,42 @@
+<bill session="111" type="s" number="412" updated="2009-03-07T14:22:27-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="short" as="introduced">Federal Emergency Management Advancement Act of 2009</title>
+		<title type="short" as="introduced">FEMA Act</title>
+		<title type="official" as="introduced">A bill to establish the Federal Emergency Management Agency as an independent agency, and for other purposes.</title>
+	</titles>
+	<sponsor id="300055"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Sponsor introductory remarks on measure. (CR S2148-2149)</text></action>
+		<action date="1234328400" datetime="2009-02-11"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Emergency management"/>
+		<term name="Advisory bodies"/>
+		<term name="Department of Homeland Security"/>
+		<term name="Disaster relief and insurance"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Federal Emergency Management Agency (FEMA)"/>
+		<term name="Federal officials"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Presidents and presidential powers"/>
+		<term name="Terrorism"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="111" type="s" number="332" updated="2009-03-07T14:13:14-05:00">
+	<status><introduced date="1233032400" datetime="2009-01-27"/></status>
+
+	<introduced date="1233032400" datetime="2009-01-27"/>
+	<titles>
+		<title type="short" as="introduced">Lung Cancer Mortality Reduction Act of 2009</title>
+		<title type="official" as="introduced">A bill to establish a comprehensive interagency response to reduce lung cancer mortality in a timely manner.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="400418" joined="2009-02-13"/>
+		<cosponsor id="300011" joined="2009-02-13"/>
+		<cosponsor id="300093" joined="2009-02-03"/>
+		<cosponsor id="300013" joined="2009-01-27"/>
+		<cosponsor id="400194" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1233032400" datetime="2009-01-27"><text>Sponsor introductory remarks on measure. (CR S896-897)</text></action>
+		<action date="1233032400" datetime="2009-01-27"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S897-898"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Advisory bodies"/>
+		<term name="Cancer"/>
+		<term name="Cardiovascular and respiratory health"/>
+		<term name="Drug and radiation therapy"/>
+		<term name="Drug, alcohol, tobacco use"/>
+		<term name="Health care coverage and access"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Health promotion and preventive care"/>
+		<term name="Medical research"/>
+		<term name="Medical tests and diagnostic methods"/>
+		<term name="Military personnel and dependents"/>
+		<term name="Minority health"/>
+		<term name="Surgery and anesthesia"/>
+		<term name="Veterans' medical care"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/2009--Introduced.<br/>Lung Cancer Mortality Reduction Act of 2009 - Amends the Public Health Service Act to require the Secretary of Health and Human Services (the Secretary) to implement a comprehensive program to achieve a 50% reduction in the mortality rate of lung cancer by 2015. Includes within such program: (1) a strategic review and prioritization of research grants; (2) an expansion of research programs, such as on predispositions to lung cancer; and (3) the expedited development of computer assisted diagnostic, surgical, treatment, and drug testing innovations. Amends the Federal Food, Drug, and Cosmetic Act to require the Secretary to provide incentives for the development of chemoprevention drugs for precancerous conditions of the lung, drugs for targeted therapeutic treatments and vaccines for lung cancer, and new agents to curtail or prevent nicotine addiction. Provides for compassionate access to drugs, biological products, and devices under the lung cancer mortality reduction program. Requires the Secretary to establish an early disease research and management program targeted at the high incidence and mortality rates among minority and low income populations.<br/>Requires the Secretary of Defense and the Secretary of Veterans Affairs to coordinate with the Secretary in: (1) the development of the lung cancer mortality reduction program under this Act; (2) the implementation of an early detection and disease management research program for military personnel and veterans whose smoking history and exposure to carcinogens during active duty service has increased their risk for lung cancer; and (3) the implementation of coordinated care programs for military personnel and veterans diagnosed with lung cancer.<br/>Requires the Secretary to establish a Lung Cancer Advisory Board to monitor the programs established under this Act.<br/>
+	</summary>
+</bill>

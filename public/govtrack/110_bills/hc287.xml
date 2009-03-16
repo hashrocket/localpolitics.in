@@ -1,0 +1,41 @@
+<bill session="110" type="hc" number="287" updated="2009-01-08T16:03:01-05:00">
+	<status><vote date="1202325720" datetime="2008-02-06T15:22:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1201582800" datetime="2008-01-29"/>
+	<titles>
+		<title type="official" as="introduced">Celebrating the 50th anniversary of the United States Explorer I satellite, the world's first scientific spacecraft, and the birth of the United States space exploration program.</title>
+	</titles>
+	<sponsor id="400412"/>
+	<cosponsors>
+		<cosponsor id="400343" joined="2008-02-06"/>
+		<cosponsor id="400131" joined="2008-01-29"/>
+		<cosponsor id="400155" joined="2008-01-29"/>
+		<cosponsor id="400165" joined="2008-01-29"/>
+		<cosponsor id="400229" joined="2008-01-29"/>
+		<cosponsor id="412188" joined="2008-02-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1201582800" datetime="2008-01-29"><text>Sponsor introductory remarks on measure. (CR E92)</text></action>
+		<action date="1201582800" datetime="2008-01-29"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1202325180" datetime="2008-02-06T15:13:00-05:00"><text>Mr. Melancon moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1202325180" datetime="2008-02-06T15:13:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H573-575"/></action>
+		<action date="1202325180" datetime="2008-02-06T15:13:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 287.</text></action>
+		<vote date="1202325720" how="by voice vote" datetime="2008-02-06T15:22:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H573"/></vote>
+		<action date="1202360400" datetime="2008-02-07"><text>Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/6/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Celebrates the achievement of the late Dr. James A. Van Allen and his science team and all of the individuals at the Jet Propulsion Laboratory and Army Ballistic Missile Agency who, through the successful launch of Explorer I, brought the United States into the space age and science into the realm of space.<br/>Supports science, technology, engineering, and mathematics education programs, which are critical for preparing the next generation to lead future U.S. space endeavors.<br/>Recognizes the role of the U.S. space program in strengthening the scientific and engineering foundation that contributes to U.S. innovation and economic growth.<br/>Looks forward to the next 50 years of U.S. achievements in the robotic and human exploration of space.<br/>
+	</summary>
+</bill>

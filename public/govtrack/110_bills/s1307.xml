@@ -1,0 +1,34 @@
+<bill session="110" type="s" number="1307" updated="2009-01-09T14:31:17-05:00">
+	<status><introduced date="1178164800" datetime="2007-05-03"/></status>
+
+	<introduced date="1178164800" datetime="2007-05-03"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Provider Accountability Act</title>
+		<title type="official" as="introduced">A bill to include Medicare provider payments in the Federal Payment Levy Program, to require the Department of Health and Human Services to offset Medicare provider payments by the amount of the provider's delinquent Federal debt, and for other purposes.</title>
+	</titles>
+	<sponsor id="300024"/>
+	<cosponsors>
+		<cosponsor id="300066" joined="2007-05-03"/>
+		<cosponsor id="400576" joined="2007-06-11"/>
+		<cosponsor id="412243" joined="2007-05-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1178164800" datetime="2007-05-03"><text>Sponsor introductory remarks on measure. (CR S5600-5601)</text></action>
+		<action date="1178164800" datetime="2007-05-03"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S5601"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/3/2007--Introduced.<br/>Medicare Provider Accountability Act - Directs the Centers for Medicare and Medicaid Services to: (1) take all necessary steps to participate in the Federal Payment Levy Program as soon as possible; and (2) ensure that at least 50% of all payments under parts A (Hospital Insurance) and B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act are processed through such program within one year of enactment of this Act, and all remaining payments within two years. Requires the Department of Health and Human Services to offset Medicare provider payments by the amount of the provider's delinquent federal debt. Amends the Internal Revenue Code to make notice and opportunity for hearing before levy requirements inapplicable if the Secretary of the Treasury has approved a levy on specified (Medicare provider) payments. 
+	</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="111" type="s" number="243" updated="2009-03-07T14:02:13-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="short" as="introduced">GIVE Act of 2009</title>
+		<title type="short" as="introduced">Giving Incentives to Volunteers Everywhere Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow the Secretary of the Treasury to establish the standard mileage rate for use of a passenger automobile for purposes of the charitable contributions deduction and to exclude charitable mileage reimbursements for gross income.</title>
+	</titles>
+	<sponsor id="400064"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2009-01-14"/>
+		<cosponsor id="300002" joined="2009-01-14"/>
+		<cosponsor id="300040" joined="2009-01-14"/>
+		<cosponsor id="300018" joined="2009-01-14"/>
+		<cosponsor id="300048" joined="2009-01-14"/>
+		<cosponsor id="300091" joined="2009-01-14"/>
+		<cosponsor id="300042" joined="2009-01-14"/>
+		<cosponsor id="300038" joined="2009-01-21"/>
+		<cosponsor id="300087" joined="2009-01-14"/>
+		<cosponsor id="300034" joined="2009-01-14"/>
+		<cosponsor id="400357" joined="2009-01-14"/>
+		<cosponsor id="400054" joined="2009-01-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Sponsor introductory remarks on measure. (CR S392-393)</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S393"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="524" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax deductions"/>
+		<term name="Income tax exclusion"/>
+		<term name="Motor vehicles"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+		<term name="Transportation costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/14/2009--Introduced.<br/>Giving Incentives to Volunteers Everywhere Act of 2009 or the GIVE Act of 2009 - Amends the Internal Revenue Code to: (1) increase the standard mileage rate for use of a passenger automobile for charitable purposes to a rate not less than the rate used for the tax deduction for medical transportation expenses; and (2) exclude from the gross income of charitable volunteers reimbursements paid to them for the use of a passenger automobile for the benefit of a charitable organization. 
+	</summary>
+</bill>

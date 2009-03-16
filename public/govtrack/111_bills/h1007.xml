@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="1007" updated="2009-03-07T11:46:53-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="short" as="introduced">Mississippi Delta National Heritage Area Act of 2009</title>
+		<title type="short" as="introduced">Mississippi Hills National Heritage Area Act of 2009</title>
+		<title type="official" as="introduced">To establish the Mississippi Delta National Heritage Area and the Mississippi Hills National Heritage Area, and for other purposes.</title>
+	</titles>
+	<sponsor id="400402"/>
+	<cosponsors>
+		<cosponsor id="412280" joined="2009-02-11"/>
+		<cosponsor id="400399" joined="2009-02-12"/>
+		<cosponsor id="412262" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1234933200" datetime="2009-02-18"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="928" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/11/2009--Introduced.<br/>Mississippi Delta National Heritage Area Act of 2009 - Establishes the Mississippi Delta National Heritage Area. Designates the Mississippi Delta National Heritage Partnership as the coordinating entity for the Area. Requires the Partnership to develop and submit a management plan for the Area.<br/>Mississippi Hills National Heritage Area Act of 2009 - Establishes the Mississippi Hills National Heritage Area. Designates the Mississippi Hills Heritage Area Alliance as the coordinating entity for the Area. Requires the Alliance to develop and submit a management plan for the Area. 
+	</summary>
+</bill>

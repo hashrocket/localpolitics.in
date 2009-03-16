@@ -1,0 +1,37 @@
+<bill session="111" type="s" number="378" updated="2009-03-07T14:18:31-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Money Laundering Control Enhancement Act of 2009</title>
+		<title type="official" as="introduced">A bill to correct the interpretation of the term proceeds under RICO.</title>
+	</titles>
+	<sponsor id="300006"/>
+	<cosponsors>
+		<cosponsor id="300062" joined="2009-03-05"/>
+		<cosponsor id="300047" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+		<action date="1234242000" datetime="2009-02-10"><text>Sponsor introductory remarks on measure. (CR S2072-2073)</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Criminal procedure and sentencing"/>
+		<term name="Currency"/>
+		<term name="Government investigations"/>
+		<term name="Organized crime"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

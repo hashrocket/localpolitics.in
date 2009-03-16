@@ -1,0 +1,47 @@
+<bill session="110" type="s" number="1099" updated="2009-01-09T14:04:09-05:00">
+	<status><enacted date="1186632000" datetime="2007-08-09" /></status>
+
+	<introduced date="1176350400" datetime="2007-04-12"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend chapter 89 of title 5, United States Code, to make individuals employed by the Roosevelt Campobello International Park Commission eligible to obtain Federal health insurance.</title>
+	</titles>
+	<sponsor id="300025"/>
+	<cosponsors>
+		<cosponsor id="300098" joined="2007-06-13"/>
+		<cosponsor id="300051" joined="2007-04-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1176350400" datetime="2007-04-12"><text>Sponsor introductory remarks on measure. (CR S4442)</text></action>
+		<action date="1176350400" datetime="2007-04-12"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text><reference label="text of measure as introduced" ref="CR S4442"/></action>
+		<calendar date="1181707200" datetime="2007-06-13" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1182225600" datetime="2007-06-19"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="209" date="1182225600" datetime="2007-06-19" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 209.</text></calendar>
+		<vote date="1182484800" how="by Unanimous Consent" datetime="2007-06-22" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S8312"/><reference label="text as passed Senate" ref="CR S8312"/></vote>
+		<action date="1182828660" datetime="2007-06-25T12:31:00-04:00"><text>Received in the House.</text></action>
+		<action date="1182744000" datetime="2007-06-25"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1182744000" datetime="2007-06-25"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1185852120" datetime="2007-07-30T12:22:00-04:00"><text>Committee on Oversight and Government discharged.</text></action>
+		<action date="1185852120" datetime="2007-07-30T12:22:00-04:00"><text>Mr. Davis (IL) asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1185852120" datetime="2007-07-30T12:22:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H8830-8831"/></action>
+		<vote date="1185852180" how="without objection" datetime="2007-07-30T12:23:00-04:00" where="h" type="vote2" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H8831"/></vote>
+		<topresident date="1185768000" datetime="2007-07-30" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1186113600" datetime="2007-08-03" ><text>Presented to President.</text></topresident>
+		<signed date="1186632000" datetime="2007-08-09" ><text>Signed by President.</text></signed>
+		<enacted number="110-74" date="1186632000" datetime="2007-08-09" type="public" ><text>Became Public Law No: 110-74.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/9/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Makes a U.S. citizen employed by the Roosevelt Campobello International Park Commission eligible to obtain federal health insurance.<br/>
+	</summary>
+</bill>

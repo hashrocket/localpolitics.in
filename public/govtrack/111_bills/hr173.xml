@@ -1,0 +1,35 @@
+<bill session="111" type="hr" number="173" updated="2009-03-07T13:27:14-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives that the United States Postal Service should take all appropriate measures to ensure the continuation of its 6-day mail delivery service.</title>
+	</titles>
+	<sponsor id="400158"/>
+	<cosponsors>
+		<cosponsor id="400331" joined="2009-02-13"/>
+		<cosponsor id="412307" joined="2009-02-25"/>
+		<cosponsor id="400439" joined="2009-02-25"/>
+		<cosponsor id="400380" joined="2009-02-13"/>
+		<cosponsor id="412299" joined="2009-03-05"/>
+		<cosponsor id="400245" joined="2009-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

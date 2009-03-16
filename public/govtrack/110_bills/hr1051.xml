@@ -1,0 +1,91 @@
+<bill session="110" type="hr" number="1051" updated="2009-01-09T10:03:37-05:00">
+	<status><vote date="1214259240" datetime="2008-06-23T19:14:00-04:00" where="h" result="pass" how="roll" roll="440"/></status>
+
+	<introduced date="1205467200" datetime="2008-03-14"/>
+	<titles>
+		<title type="official" as="introduced">Congratulating James Madison University in Harrisonburg, Virginia, for 100 years of service and leadership to the United States.</title>
+	</titles>
+	<sponsor id="400154"/>
+	<cosponsors>
+		<cosponsor id="400279" joined="2008-06-05"/>
+		<cosponsor id="400060" joined="2008-03-14"/>
+		<cosponsor id="400364" joined="2008-03-14"/>
+		<cosponsor id="400102" joined="2008-06-05"/>
+		<cosponsor id="400137" joined="2008-03-14"/>
+		<cosponsor id="400403" joined="2008-06-05"/>
+		<cosponsor id="400096" joined="2008-06-05"/>
+		<cosponsor id="400058" joined="2008-06-05"/>
+		<cosponsor id="400036" joined="2008-06-05"/>
+		<cosponsor id="400297" joined="2008-06-05"/>
+		<cosponsor id="400443" joined="2008-06-05"/>
+		<cosponsor id="412230" joined="2008-06-05"/>
+		<cosponsor id="400063" joined="2008-06-05"/>
+		<cosponsor id="400165" joined="2008-06-05"/>
+		<cosponsor id="412256" joined="2008-06-05"/>
+		<cosponsor id="400077" joined="2008-06-05"/>
+		<cosponsor id="400071" joined="2008-06-05"/>
+		<cosponsor id="400261" joined="2008-06-05"/>
+		<cosponsor id="400055" joined="2008-06-05"/>
+		<cosponsor id="400658" joined="2008-03-14"/>
+		<cosponsor id="400316" joined="2008-06-05"/>
+		<cosponsor id="400352" joined="2008-06-09"/>
+		<cosponsor id="400224" joined="2008-06-05"/>
+		<cosponsor id="400086" joined="2008-06-05"/>
+		<cosponsor id="400206" joined="2008-06-05"/>
+		<cosponsor id="400068" joined="2008-06-05"/>
+		<cosponsor id="400098" joined="2008-03-14"/>
+		<cosponsor id="412235" joined="2008-06-05"/>
+		<cosponsor id="400335" joined="2008-06-05"/>
+		<cosponsor id="400287" joined="2008-06-09"/>
+		<cosponsor id="400172" joined="2008-06-09"/>
+		<cosponsor id="400039" joined="2008-06-05"/>
+		<cosponsor id="400115" joined="2008-06-05"/>
+		<cosponsor id="412262" joined="2008-06-05"/>
+		<cosponsor id="400655" joined="2008-06-09"/>
+		<cosponsor id="400340" joined="2008-06-05"/>
+		<cosponsor id="400645" joined="2008-06-05"/>
+		<cosponsor id="400153" joined="2008-03-14"/>
+		<cosponsor id="400056" joined="2008-06-05"/>
+		<cosponsor id="400247" joined="2008-06-05"/>
+		<cosponsor id="400421" joined="2008-06-05"/>
+		<cosponsor id="400193" joined="2008-06-05"/>
+		<cosponsor id="412213" joined="2008-06-05"/>
+		<cosponsor id="400291" joined="2008-06-05"/>
+		<cosponsor id="400043" joined="2008-03-14"/>
+		<cosponsor id="400283" joined="2008-03-14"/>
+		<cosponsor id="400651" joined="2008-06-05"/>
+		<cosponsor id="400182" joined="2008-06-05"/>
+		<cosponsor id="400046" joined="2008-06-05"/>
+		<cosponsor id="400636" joined="2008-06-05"/>
+		<cosponsor id="400088" joined="2008-06-05"/>
+		<cosponsor id="400341" joined="2008-06-09"/>
+		<cosponsor id="400435" joined="2008-03-14"/>
+		<cosponsor id="412255" joined="2008-03-14"/>
+		<cosponsor id="400656" joined="2008-06-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1205467200" datetime="2008-03-14"><text>Sponsor introductory remarks on measure. (CR E422)</text></action>
+		<action date="1205467200" datetime="2008-03-14"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1214253900" datetime="2008-06-23T17:45:00-04:00"><text>Mr. Sarbanes moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1214253960" datetime="2008-06-23T17:46:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5836-5838"/></action>
+		<action date="1214253960" datetime="2008-06-23T17:46:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1051.</text></action>
+		<action date="1214254800" datetime="2008-06-23T18:00:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1214258760" datetime="2008-06-23T19:06:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5843-5844"/></action>
+		<vote date="1214259240" how="roll" roll="440" datetime="2008-06-23T19:14:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 354 - 0 (Roll no. 440).</text><reference label="text" ref="CR H5836"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/23/2008--Passed House amended. Congratulates James Madison University for 100 years of leadership and service to the Harrisonburg/Rockingham county region, Virginia, and the nation.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,58 @@
+<bill session="111" type="h" number="621" updated="2009-03-07T11:00:35-05:00">
+	<status><introduced date="1232514000" datetime="2009-01-21"/></status>
+
+	<introduced date="1232514000" datetime="2009-01-21"/>
+	<titles>
+		<title type="short" as="introduced">Girl Scouts USA Centennial Commemorative Coin Act</title>
+		<title type="official" as="introduced">To require the Secretary of the Treasury to mint coins in commemoration of the centennial of the establishment of the Girl Scouts of the United States of America.</title>
+	</titles>
+	<sponsor id="400221"/>
+	<cosponsors>
+		<cosponsor id="412287" joined="2009-02-10"/>
+		<cosponsor id="400041" joined="2009-02-10"/>
+		<cosponsor id="400280" joined="2009-02-10"/>
+		<cosponsor id="400367" joined="2009-01-21"/>
+		<cosponsor id="400099" joined="2009-01-21"/>
+		<cosponsor id="400142" joined="2009-01-21"/>
+		<cosponsor id="412263" joined="2009-01-21"/>
+		<cosponsor id="400027" joined="2009-01-27"/>
+		<cosponsor id="400263" joined="2009-01-21"/>
+		<cosponsor id="400259" joined="2009-01-21"/>
+		<cosponsor id="400251" joined="2009-01-21"/>
+		<cosponsor id="400623" joined="2009-01-21"/>
+		<cosponsor id="400211" joined="2009-01-27"/>
+		<cosponsor id="400628" joined="2009-01-21"/>
+		<cosponsor id="412215" joined="2009-01-27"/>
+		<cosponsor id="412186" joined="2009-02-10"/>
+		<cosponsor id="400116" joined="2009-01-21"/>
+		<cosponsor id="400239" joined="2009-01-21"/>
+		<cosponsor id="400260" joined="2009-02-10"/>
+		<cosponsor id="400651" joined="2009-01-21"/>
+		<cosponsor id="400254" joined="2009-01-21"/>
+		<cosponsor id="412208" joined="2009-02-10"/>
+		<cosponsor id="400437" joined="2009-01-21"/>
+		<cosponsor id="400435" joined="2009-01-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1232514000" datetime="2009-01-21"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="451" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Child care and development"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Currency"/>
+		<term name="Women's education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/2009--Introduced.<br/>Girl Scouts USA Centennial Commemorative Coin Act - Directs the Secretary of the Treasury to mint and issue up to 350,000 $1 coins in commemoration of the centennial of the founding of the Girl Scouts of the USA. Requires the coin design to be emblematic of the 100 years of the organization. Restricts issuance of such coins to calendar year 2011. Subjects coin sales to a surcharge of $10 per coin. Requires payment of such surcharges to the Girl Scouts of the United States of America for Girl Scout program development and delivery.<br/>
+	</summary>
+</bill>

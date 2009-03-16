@@ -1,0 +1,31 @@
+<bill session="111" type="h" number="1258" updated="2009-03-07T12:21:50-05:00">
+	<status><introduced date="1236056400" datetime="2009-03-03"/></status>
+
+	<introduced date="1236056400" datetime="2009-03-03"/>
+	<titles>
+		<title type="short" as="introduced">Truth in Caller ID Act of 2009</title>
+		<title type="official" as="introduced">To amend the Communications Act of 1934 to prohibit manipulation of caller identification information, and for other purposes.</title>
+	</titles>
+	<sponsor id="400122"/>
+	<cosponsors>
+		<cosponsor id="400018" joined="2009-03-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1236056400" datetime="2009-03-03"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="30" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

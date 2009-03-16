@@ -1,0 +1,50 @@
+<bill session="110" type="sc" number="27" updated="2009-01-09T19:43:33-05:00">
+	<status><vote2 date="1185837540" datetime="2007-07-30T20:19:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1176350400" datetime="2007-04-12"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution supporting the goals and ideals of &quot;National Purple Heart Recognition Day&quot;.</title>
+	</titles>
+	<sponsor id="300022"/>
+	<cosponsors>
+		<cosponsor id="300030" joined="2007-04-23"/>
+		<cosponsor id="300092" joined="2007-04-24"/>
+		<cosponsor id="300068" joined="2007-06-12"/>
+		<cosponsor id="300023" joined="2007-05-02"/>
+		<cosponsor id="300035" joined="2007-05-09"/>
+		<cosponsor id="300091" joined="2007-04-23"/>
+		<cosponsor id="300050" joined="2007-04-12"/>
+		<cosponsor id="400194" joined="2007-05-21"/>
+		<cosponsor id="300100" joined="2007-04-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1176350400" datetime="2007-04-12"><text>Referred to the Committee on Armed Services.</text><reference label="text of measure as introduced" ref="CR S4453"/></action>
+		<action date="1184558400" datetime="2007-07-16"><text>Senate Committee on Armed Services discharged by Unanimous Consent.</text></action>
+		<action date="1184558400" datetime="2007-07-16"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S9291-9292"/></action>
+		<vote date="1184558400" how="by Unanimous Consent" datetime="2007-07-16" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S9291-9292"/></vote>
+		<action date="1184677440" datetime="2007-07-17T10:04:00-04:00"><text>Received in the House.</text></action>
+		<action date="1184644800" datetime="2007-07-17"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1184644800" datetime="2007-07-17"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1185837000" datetime="2007-07-30T20:10:00-04:00"><text>Ms. Bordallo moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1185837060" datetime="2007-07-30T20:11:00-04:00"><text>Considered under suspension of the rules. (consideration: CR 7/31/2007 H8925-8927)</text></action>
+		<action date="1185837060" datetime="2007-07-30T20:11:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 27.</text></action>
+		<vote date="1185837540" how="by voice vote" datetime="2007-07-30T20:19:00-04:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR 7/31/2007 H8925-8926)</text></vote>
+		<action date="1185854400" datetime="2007-07-31"><text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text></action>
+		<action date="1187064000" datetime="2007-08-14"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/30/2007--Passed House amended. Supports the goals and ideals of National Purple Heart Recognition Day. Encourages all people of the United States to learn about the history of the Purple Heart and to honor its recipients.<br/>
+	</summary>
+</bill>

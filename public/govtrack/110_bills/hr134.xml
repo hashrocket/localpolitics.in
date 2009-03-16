@@ -1,0 +1,57 @@
+<bill session="110" type="hr" number="134" updated="2009-01-09T08:10:27-05:00">
+	<status><vote date="1171320900" datetime="2007-02-12T18:55:00-05:00" where="h" result="pass" how="roll" roll="93"/></status>
+
+	<introduced date="1170824400" datetime="2007-02-07"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing and honoring the employees of the Department of Homeland Security for their efforts and contributions to protect and secure the Nation.</title>
+	</titles>
+	<sponsor id="412234"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="2007-02-07"/>
+		<cosponsor id="400073" joined="2007-02-07"/>
+		<cosponsor id="400219" joined="2007-02-07"/>
+		<cosponsor id="400199" joined="2007-02-07"/>
+		<cosponsor id="400657" joined="2007-02-07"/>
+		<cosponsor id="412221" joined="2007-02-12"/>
+		<cosponsor id="400246" joined="2007-02-07"/>
+		<cosponsor id="400295" joined="2007-02-12"/>
+		<cosponsor id="400396" joined="2007-02-12"/>
+		<cosponsor id="412250" joined="2007-02-07"/>
+		<cosponsor id="400402" joined="2007-02-07"/>
+		<cosponsor id="400230" joined="2007-02-07"/>
+		<cosponsor id="412235" joined="2007-02-07"/>
+		<cosponsor id="400166" joined="2007-02-07"/>
+		<cosponsor id="400653" joined="2007-02-07"/>
+		<cosponsor id="400415" joined="2007-02-12"/>
+		<cosponsor id="400109" joined="2007-02-07"/>
+		<cosponsor id="400654" joined="2007-02-07"/>
+		<cosponsor id="400341" joined="2007-02-07"/>
+		<cosponsor id="400349" joined="2007-02-12"/>
+		<cosponsor id="400309" joined="2007-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1170824400" datetime="2007-02-07"><text>Sponsor introductory remarks on measure. (CR E284)</text></action>
+		<action date="1170824400" datetime="2007-02-07"><text>Referred to the House Committee on Homeland Security.</text></action>
+		<action date="1171303980" datetime="2007-02-12T14:13:00-05:00"><text>Mr. Carney moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1171304040" datetime="2007-02-12T14:14:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1426-1430"/></action>
+		<action date="1171304040" datetime="2007-02-12T14:14:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 134.</text></action>
+		<action date="1171305300" datetime="2007-02-12T14:35:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1171319580" datetime="2007-02-12T18:33:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1447-1448"/></action>
+		<vote date="1171320900" how="roll" roll="93" datetime="2007-02-12T18:55:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 93).</text><reference label="text" ref="CR H1426"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the employees of the Department of Homeland Security (DHS) for their efforts and contributions to protect the nation.<br/>
+	</summary>
+</bill>

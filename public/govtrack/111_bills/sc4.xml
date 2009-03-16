@@ -1,0 +1,63 @@
+<bill session="111" type="sc" number="4" updated="2009-03-11T12:10:04-04:00">
+	<status><vote date="1236571200" datetime="2009-03-09" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1233637200" datetime="2009-02-03"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution calling on the President and the allies of the United States to raise the case of Robert Levinson with officials of the Government of Iran at every level and opportunity, and urging officials of the Government of Iran to fulfill their promises of assistance to the family of Robert Levinson and to share information on the investigation into the disappearance of Robert Levinson with the Federal Bureau of Investigation.</title>
+	</titles>
+	<sponsor id="300078"/>
+	<cosponsors>
+		<cosponsor id="300083" joined="2009-03-09"/>
+		<cosponsor id="300062" joined="2009-02-03"/>
+		<cosponsor id="400272" joined="2009-02-03"/>
+		<cosponsor id="300070" joined="2009-03-09"/>
+		<cosponsor id="300010" joined="2009-03-09"/>
+		<cosponsor id="300067" joined="2009-03-02"/>
+		<cosponsor id="412246" joined="2009-03-02"/>
+		<cosponsor id="300098" joined="2009-02-03"/>
+		<cosponsor id="400621" joined="2009-02-03"/>
+		<cosponsor id="300038" joined="2009-03-05"/>
+		<cosponsor id="300021" joined="2009-03-05"/>
+		<cosponsor id="412322" joined="2009-03-09"/>
+		<cosponsor id="300006" joined="2009-02-03"/>
+		<cosponsor id="400054" joined="2009-03-05"/>
+		<cosponsor id="412247" joined="2009-03-05"/>
+		<cosponsor id="400194" joined="2009-03-02"/>
+		<cosponsor id="300084" joined="2009-03-09"/>
+		<cosponsor id="300064" joined="2009-03-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1233637200" datetime="2009-02-03"><text>Sponsor introductory remarks on measure. (CR S1439)</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S1439"/></action>
+		<action date="1236571200" datetime="2009-03-09"><text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S2915-2916"/></action>
+		<vote date="1236571200" how="by Unanimous Consent" datetime="2009-03-09" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S2916"/></vote>
+		<action date="1236740580" datetime="2009-03-10T12:03:00-04:00"><text>Received in the House.</text></action>
+		<action date="1236657600" datetime="2009-03-10"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1236657600" datetime="2009-03-10"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Foreign Relations" subcommittee="" activity="Referral, Discharged" />
+		<committee name="House Foreign Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="hc" number="36" />
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Alliances"/>
+		<term name="Congressional tributes"/>
+		<term name="Diplomacy, foreign officials, Americans abroad"/>
+		<term name="Europe"/>
+		<term name="Government investigations"/>
+		<term name="Investigation, prosecution, interrogation methods"/>
+		<term name="Iran"/>
+		<term name="Middle East"/>
+		<term name="Switzerland"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/2009--Introduced.<br/>Commends the Embassy of Switzerland in Tehran and the government of Switzerland for the ongoing assistance to the U.S. government and to the family of Robert Levinson. Expresses appreciation for efforts by Iranian officials to ensure the safety of Robert Levinson's family during their December 2007 visit to Iran, as well as for the promise of continued assistance. Urges: (1) the government of Iran to intensify its cooperation on the Levinson investigation with the Embassy of Switzerland in Tehran and to share the results of its investigation with the Federal Bureau of Investigation (FBI); and (2) the President and U.S. allies to engage with Iranian government officials to raise the Levinson case at every opportunity. Expresses sympathy to the family of Robert Levinson.<br/>
+	</summary>
+</bill>

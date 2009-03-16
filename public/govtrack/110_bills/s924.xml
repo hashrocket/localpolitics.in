@@ -1,0 +1,43 @@
+<bill session="110" type="s" number="924" updated="2009-01-09T13:40:54-05:00">
+	<status><vote date="1198040400" datetime="2007-12-19" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1174363200" datetime="2007-03-20"/>
+	<titles>
+		<title type="short" as="introduced">Integrated Deepwater Program Reform Act</title>
+		<title type="short" as="reported to senate">Integrated Deepwater Program Reform Act</title>
+		<title type="short" as="passed senate">Integrated Deepwater Program Reform Act</title>
+		<title type="official" as="introduced">A bill to strengthen the United States Coast Guard's Integrated Deepwater Program.</title>
+	</titles>
+	<sponsor id="300018"/>
+	<cosponsors>
+		<cosponsor id="300091" joined="2007-03-20"/>
+	</cosponsors>
+	<actions>
+		<action date="1174363200" datetime="2007-03-20"><text>Sponsor introductory remarks on measure. (CR S3357-3358)</text></action>
+		<action date="1174363200" datetime="2007-03-20"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text><reference label="text of measure as introduced" ref="CR S3358-3359"/></action>
+		<calendar date="1177473600" datetime="2007-04-25" ><text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1179979200" datetime="2007-05-24"><text>Committee on Commerce, Science, and Transportation. Reported by Senator Inouye with an amendment in the nature of a substitute. With written report No. 110-72.</text></action>
+		<calendar under="General Orders" number="171" date="1179979200" datetime="2007-05-24" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 171.</text></calendar>
+		<action date="1198040400" datetime="2007-12-19"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S15945-15950"/><reference label="text as reported in Senate" ref="CR S15945-15947"/></action>
+		<action date="1198040400" datetime="2007-12-19"><text>The committee substitute as amended agreed to by Unanimous Consent.</text></action>
+		<vote date="1198040400" how="by Unanimous Consent" datetime="2007-12-19" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text><reference label="text" ref="CR S15947-15950"/></vote>
+		<action date="1198105200" datetime="2007-12-19T19:00:00-05:00"><text>Held at the desk.</text></action>
+		<action date="1198105200" datetime="2007-12-19T19:00:00-05:00"><text>Received in the House.</text></action>
+		<action date="1198040400" datetime="2007-12-19"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/19/2007--Passed Senate amended. Integrated Deepwater Program Reform Act - (Sec. 2) Prohibits the Coast Guard from using a private sector entity as a lead systems integrator for procurements under, or in support of, the Integrated Deepwater Systems Program (IDP). Requires the Coast Guard, unless otherwise excepted in accordance with the Competition in Contracting Act of 1984 and the Federal Acquisition Regulations, to use full and open competition for any other procurement for which an outside contractor is used for the IDP. Sets forth various other exceptions.<br/>Limits, for certain procurements, the financial interests IDP lead systems integrators and tier 1 subcontractors may have in a subcontractor below tier 1 level.<br/>(Sec. 3) Requires, before certain procurements of major assets may be awarded, an analysis of alternatives by an independent third party, including regarding capability and interoperability, technology risk and maturity, and life-cycle costs. Prohibits procurement of an experimental or technically immature major asset under the IDP until an alternatives analysis has been conducted for the asset.<br/>(Sec. 4) Prohibits the Coast Guard from executing an IDP procurement contract, delivery order, or task order exceeding $10 million until the Coast Guard's commandant certifies certain matters, including that market research has been conducted, the technology has a high likelihood of accomplishing its intended mission, the technology is affordable, and funding is available. Excludes from the prohibition IDP contracts, deliver orders, or task orders for research and development or technology demonstrations.<br/>(Sec. 5) Requires that any IDP procurement contract, delivery order, or task order: (1) address recommendations in a specified Government Accountability Office (GAO) report, including the recommendation that any award or incentive fee be tied to program outcomes; (2) address any subsequent GAO recommendations relevant to the contract terms; (3) provide that certification of any IDP procurement will be conducted by an independent third party; (4) not include certain provisions relating to committing the Coast Guard without its explicit written approval or allowing for equitable adjustment that differs from the Federal Acquisition Regulations; (5) meet the requirements of a specified Coast Guard acquisition manual; (6) for any contract extending the existing IDP contract term that expires in June 2007, meet certain review requirements and address recommendations made in a specified study; and (7) not include a requirement for the purchase of a minimum number of specific assets.<br/>(Sec. 6) Requires that the Commandant ensure that: (1) the measures contained in a specified Coast Guard report relating to acquisition reform are implemented fully; (2) additional measures for improved management recommended in a specified study by the Defense Acquisition University are implemented; (3) integrated product teams, and all higher-level teams that oversee integrated product teams, are chaired by Coast Guard personnel; and (4) the Assistant Commandant for Engineering and Logistics is designated as the Technical Authority for all IDP design, engineering, and technical decisions.<br/>Permits the Coast Guard Commandant to transfer funds for personnel, compensation, and benefits from the appropriation account Acquisition, Construction, and Improvement to the appropriation account Operating Expenses for personnel compensation and benefits and related costs necessary to execute new or existing Coast Guard procurements.<br/>(Sec. 7) Requires that the Coast Guard: (1) make arrangements as appropriate with the Department of Defense for support in contracting and management of IDP procurements; (2) seek opportunities to leverage off contracts of other appropriate agencies; and (3) report to specified congressional committees such arrangements.<br/>Requires the Comptroller General to report to specified congressional committees, assessing current Coast Guard acquisition and management capabilities to manage IDP-related procurements, including improvement recommendations, and addressing whether the Coast Guard can better leverage Department of Defense or other agencies' contracts.<br/>(Sec. 8) Requires reports, including certain annual IDP-related budget justifications, quarterly status updates, and certain reports on cost overruns and delays.<br/>Amends the Coast Guard and Maritime Transportation Act of 2006 to modify the required contents of an IDP-related report.<br/>(Sec. 9) Requires the Coast Guard to consult with the Comptroller General to ensure GAO recommendations in a specified existing and any future reports with respect to award fee and award term criteria are addressed to the maximum extent practicable. Requires the Commandant to ensure that all other recommendations in those reports are implemented to the maximum extent practicable within one year after the date of enactment of this Act and that subsequent recommendations are implemented to the maximum extent practicable as they arise.<br/>(Sec. 10) Requires the Inspector General of the Department of Homeland Security to report on the acquisition of assets under the Deepwater program. 
+	</summary>
+</bill>

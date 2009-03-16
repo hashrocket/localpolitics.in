@@ -1,0 +1,44 @@
+<bill session="111" type="s" number="166" updated="2009-03-07T13:52:59-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">Title VII Fairness Act</title>
+		<title type="official" as="introduced">A bill to amend title VII of the Civil Rights Act of 1964 to clarify the filing period applicable to charges of discrimination, and for other purposes.</title>
+	</titles>
+	<sponsor id="300054"/>
+	<cosponsors>
+		<cosponsor id="300002" joined="2009-01-07"/>
+		<cosponsor id="300048" joined="2009-01-15"/>
+		<cosponsor id="300027" joined="2009-01-07"/>
+		<cosponsor id="300098" joined="2009-01-07"/>
+		<cosponsor id="300075" joined="2009-01-12"/>
+		<cosponsor id="400621" joined="2009-01-15"/>
+		<cosponsor id="412248" joined="2009-01-15"/>
+		<cosponsor id="400054" joined="2009-01-07"/>
+		<cosponsor id="300041" joined="2009-01-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Civil actions and liability"/>
+		<term name="Disability and health-based discrimination"/>
+		<term name="Employment discrimination and employee rights"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Sex, gender, sexual orientation discrimination"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/7/2009--Introduced.<br/>Title VII Fairness Act - Amends the Americans With Disabilities Act of 1990 and title VII (Equal Employment Opportunities) of the Civil Rights Act of 1964 to delay the start of the time period for filing charges of employment discrimination until the aggrieved person has, or should be expected to have, enough information to support a reasonable suspicion of the discrimination, provided the aggrieved person demonstrates that the person did not have, and should not have been expected to have, enough information to support a reasonable suspicion of such discrimination on the date on which the alleged discrimination occurred. Prohibits applying these amendments to alleged discrimination relating to pensions or pension benefits. Applies the above Civil Rights Act of 1964 amendment to discrimination claims brought under: (1) specified provisions of the Americans with Disabilities Act of 1990; and (2) provisions of the Civil Rights Act of 1964 relating to employment by the federal government.<br/>
+	</summary>
+</bill>

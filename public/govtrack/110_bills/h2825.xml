@@ -1,0 +1,63 @@
+<bill session="110" type="h" number="2825" updated="2009-01-08T22:43:54-05:00">
+	<status><enacted date="1193198400" datetime="2007-10-24" /></status>
+
+	<introduced date="1182398400" datetime="2007-06-21"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 326 South Main Street in Princeton, Illinois, as the &quot;Owen Lovejoy Princeton Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400429"/>
+	<cosponsors>
+		<cosponsor id="400222" joined="2007-06-21"/>
+		<cosponsor id="400228" joined="2007-06-21"/>
+		<cosponsor id="400027" joined="2007-06-21"/>
+		<cosponsor id="400198" joined="2007-06-21"/>
+		<cosponsor id="400630" joined="2007-06-21"/>
+		<cosponsor id="400373" joined="2007-06-21"/>
+		<cosponsor id="400082" joined="2007-06-21"/>
+		<cosponsor id="400631" joined="2007-06-21"/>
+		<cosponsor id="400169" joined="2007-06-21"/>
+		<cosponsor id="412204" joined="2007-06-21"/>
+		<cosponsor id="400350" joined="2007-06-21"/>
+		<cosponsor id="400360" joined="2007-06-21"/>
+		<cosponsor id="400120" joined="2007-06-21"/>
+		<cosponsor id="400207" joined="2007-06-21"/>
+		<cosponsor id="400093" joined="2007-06-21"/>
+		<cosponsor id="400163" joined="2007-06-21"/>
+		<cosponsor id="412202" joined="2007-06-21"/>
+		<cosponsor id="400252" joined="2007-06-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1182398400" datetime="2007-06-21"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1184817600" datetime="2007-07-19"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1184817600" datetime="2007-07-19" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1189482840" datetime="2007-09-10T12:54:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1189482840" datetime="2007-09-10T12:54:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10332-10333"/></action>
+		<action date="1189482840" datetime="2007-09-10T12:54:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2825.</text></action>
+		<vote date="1189440000" how="by voice vote" datetime="2007-09-10T13:00:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H10332"/></vote>
+		<action date="1189483200" datetime="2007-09-11"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<calendar date="1190779200" datetime="2007-09-26" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1190779200" datetime="2007-09-26"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="394" date="1190779200" datetime="2007-09-26" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 394.</text></calendar>
+		<vote date="1191384000" how="by Unanimous Consent" datetime="2007-10-03" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S12692-12693"/></vote>
+		<topresident date="1191384000" datetime="2007-10-03" ><text>Cleared for White House.</text></topresident>
+		<action date="1191470400" datetime="2007-10-04"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1192420800" datetime="2007-10-15" ><text>Presented to President.</text></topresident>
+		<signed date="1193198400" datetime="2007-10-24" ><text>Signed by President.</text></signed>
+		<enacted number="110-103" date="1193198400" datetime="2007-10-24" type="public" ><text>Became Public Law No: 110-103.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/24/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 326 South Main Street in Princeton, Illinois, as the &quot;Owen Lovejoy Princeton Post Office Building.&quot; 
+	</summary>
+</bill>

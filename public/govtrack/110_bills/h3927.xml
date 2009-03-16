@@ -1,0 +1,39 @@
+<bill session="110" type="h" number="3927" updated="2009-01-09T01:04:22-05:00">
+	<status><vote date="1193160180" datetime="2007-10-23T14:23:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1193112000" datetime="2007-10-23"/>
+	<titles>
+		<title type="short" as="passed house">Third Higher Education Extension Act of 2007</title>
+		<title type="official" as="introduced">To temporarily extend the programs under the Higher Education Act of 1965, and for other purposes.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+		<cosponsor id="400267" joined="2007-10-23"/>
+		<cosponsor id="400212" joined="2007-10-23"/>
+		<cosponsor id="400179" joined="2007-10-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1193112000" datetime="2007-10-23"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1193159580" datetime="2007-10-23T14:13:00-04:00"><text>Mr. Hinojosa moved to suspend the rules and pass the bill.</text></action>
+		<action date="1193159700" datetime="2007-10-23T14:15:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11885-11886"/></action>
+		<action date="1193159700" datetime="2007-10-23T14:15:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3927.</text></action>
+		<vote date="1193160180" how="by voice vote" datetime="2007-10-23T14:23:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H11885"/></vote>
+		<action date="1193198400" datetime="2007-10-24"><text>Received in the Senate.</text></action>
+		<action date="1193716800" datetime="2007-10-30"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/23/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Third Higher Education Extension Act of 2007 - Amends the Higher Education Extension Act of 2005 to extend the programs under the Higher Education Act of 1965 through April 30, 2008.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,103 @@
+<bill session="110" type="hr" number="542" updated="2009-01-09T08:59:35-05:00">
+	<status><vote date="1198007760" datetime="2007-12-18T15:56:00-05:00" where="h" result="pass" how="roll" roll="1180"/></status>
+
+	<introduced date="1184212800" datetime="2007-07-12"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the unconditional support of the House of Representatives for the members of the National Guard.</title>
+	</titles>
+	<sponsor id="400051"/>
+	<cosponsors>
+		<cosponsor id="400279" joined="2007-10-09"/>
+		<cosponsor id="400627" joined="2007-09-07"/>
+		<cosponsor id="400041" joined="2007-09-25"/>
+		<cosponsor id="400219" joined="2007-09-24"/>
+		<cosponsor id="400659" joined="2007-09-27"/>
+		<cosponsor id="400414" joined="2007-07-25"/>
+		<cosponsor id="400228" joined="2007-10-16"/>
+		<cosponsor id="400376" joined="2007-10-02"/>
+		<cosponsor id="400183" joined="2007-10-02"/>
+		<cosponsor id="400137" joined="2007-10-24"/>
+		<cosponsor id="400317" joined="2007-10-16"/>
+		<cosponsor id="412234" joined="2007-09-24"/>
+		<cosponsor id="400151" joined="2007-09-24"/>
+		<cosponsor id="400441" joined="2007-10-16"/>
+		<cosponsor id="412215" joined="2007-10-02"/>
+		<cosponsor id="400276" joined="2007-11-07"/>
+		<cosponsor id="412217" joined="2007-11-08"/>
+		<cosponsor id="409888" joined="2007-11-08"/>
+		<cosponsor id="400029" joined="2007-11-07"/>
+		<cosponsor id="400433" joined="2007-10-09"/>
+		<cosponsor id="412250" joined="2007-09-07"/>
+		<cosponsor id="400288" joined="2007-09-24"/>
+		<cosponsor id="400055" joined="2007-10-16"/>
+		<cosponsor id="400373" joined="2007-10-03"/>
+		<cosponsor id="412197" joined="2007-10-16"/>
+		<cosponsor id="400030" joined="2007-10-16"/>
+		<cosponsor id="400658" joined="2007-11-08"/>
+		<cosponsor id="400359" joined="2007-10-09"/>
+		<cosponsor id="412188" joined="2007-10-23"/>
+		<cosponsor id="400642" joined="2007-10-02"/>
+		<cosponsor id="400144" joined="2007-09-25"/>
+		<cosponsor id="400006" joined="2007-09-27"/>
+		<cosponsor id="400068" joined="2007-10-09"/>
+		<cosponsor id="400147" joined="2007-09-25"/>
+		<cosponsor id="400230" joined="2007-11-08"/>
+		<cosponsor id="400038" joined="2007-11-08"/>
+		<cosponsor id="400277" joined="2007-10-18"/>
+		<cosponsor id="412223" joined="2007-10-15"/>
+		<cosponsor id="400044" joined="2007-09-24"/>
+		<cosponsor id="400172" joined="2007-10-09"/>
+		<cosponsor id="400057" joined="2007-10-16"/>
+		<cosponsor id="400131" joined="2007-10-02"/>
+		<cosponsor id="400270" joined="2007-11-07"/>
+		<cosponsor id="400115" joined="2007-10-02"/>
+		<cosponsor id="400655" joined="2007-07-25"/>
+		<cosponsor id="400340" joined="2007-09-27"/>
+		<cosponsor id="400076" joined="2007-09-24"/>
+		<cosponsor id="400439" joined="2007-09-24"/>
+		<cosponsor id="400645" joined="2007-11-08"/>
+		<cosponsor id="400338" joined="2007-10-03"/>
+		<cosponsor id="400081" joined="2007-11-08"/>
+		<cosponsor id="400207" joined="2007-10-23"/>
+		<cosponsor id="400421" joined="2007-09-27"/>
+		<cosponsor id="412196" joined="2007-09-24"/>
+		<cosponsor id="412236" joined="2007-10-18"/>
+		<cosponsor id="400649" joined="2007-10-23"/>
+		<cosponsor id="400145" joined="2007-09-07"/>
+		<cosponsor id="400318" joined="2007-10-02"/>
+		<cosponsor id="400016" joined="2007-10-04"/>
+		<cosponsor id="400047" joined="2007-10-15"/>
+		<cosponsor id="400097" joined="2007-11-07"/>
+		<cosponsor id="400654" joined="2007-09-07"/>
+		<cosponsor id="400114" joined="2007-09-24"/>
+		<cosponsor id="400321" joined="2007-10-02"/>
+		<cosponsor id="400341" joined="2007-11-07"/>
+		<cosponsor id="400435" joined="2007-09-24"/>
+		<cosponsor id="412191" joined="2007-10-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1184212800" datetime="2007-07-12"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1186545600" datetime="2007-08-08"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+		<action date="1197914760" datetime="2007-12-17T14:06:00-05:00"><text>Ms. Shea-Porter moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1197914760" datetime="2007-12-17T14:06:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H15492-15494"/></action>
+		<action date="1197914760" datetime="2007-12-17T14:06:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 542.</text></action>
+		<action date="1197915420" datetime="2007-12-17T14:17:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1198007400" datetime="2007-12-18T15:50:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H16768"/></action>
+		<vote date="1198007760" how="roll" roll="1180" datetime="2007-12-18T15:56:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 1180). (text: CR 12/17/2007 H15492)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/18/2007--Passed House amended. Unconditionally supports the members of the National Guard and recognizes their sacrifices made on behalf of the United States. States that the House of Representatives will: (1) work to ensure that the National Guard receives the resources it needs; and (2) support the families of Guard members, especially those who have died while serving on active duty.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,30 @@
+<bill session="111" type="h" number="883" updated="2009-03-07T11:32:03-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the 1993 increase in income taxes on Social Security benefits.</title>
+	</titles>
+	<sponsor id="400219"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="161" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Introduced.<br/>Amends the Internal Revenue Code to repeal, effective January 1, 2009, the 1993 increase in income taxes on Social Security benefits.<br/>
+	</summary>
+</bill>

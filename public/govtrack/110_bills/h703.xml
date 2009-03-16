@@ -1,0 +1,39 @@
+<bill session="110" type="h" number="703" updated="2009-01-08T18:17:13-05:00">
+	<status><introduced date="1170046800" datetime="2007-01-29"/></status>
+
+	<introduced date="1170046800" datetime="2007-01-29"/>
+	<titles>
+		<title type="short" as="introduced">National Nuclear Security Administration Accountability Act</title>
+		<title type="official" as="introduced">To authorize the Department of Energy to oversee certain safety, security, and health functions of the National Nuclear Security Administration, and for other purposes.</title>
+	</titles>
+	<sponsor id="400018"/>
+	<cosponsors>
+		<cosponsor id="400101" joined="2007-02-07"/>
+		<cosponsor id="400110" joined="2007-01-29"/>
+		<cosponsor id="400169" joined="2007-01-29"/>
+		<cosponsor id="400391" joined="2007-01-29"/>
+		<cosponsor id="400431" joined="2007-01-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1170046800" datetime="2007-01-29"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1170046800" datetime="2007-01-29"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1170046800" datetime="2007-01-29"><text>Referred to House Armed Services</text></action>
+		<action date="1170392400" datetime="2007-02-02"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Energy and Air Quality.</text></action>
+		<action date="1172466000" datetime="2007-02-26"><committee name="House Armed Services"/><text>Referred to the Subcommittee on Strategic Forces.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/29/2007--Introduced.<br/>National Nuclear Security Administration Accountability Act - Amends the National Nuclear Security Administration Act (NNSA) to subject to the authority, direction, and control of the Secretary of Energy each officer or employee of the NNSA, or of a contractor of the NNSA, who carries out activities related to safeguards and security (including cyber security), emergency management, integrated safety management, or environment, safety, and health operations. Amends the Department of Energy Organization Act with respect to delegation only to the Deputy Secretary of Energy, without redelegation, of the Secretary's authority, direction, and control of the Under Secretary for Nuclear Security. Excepts NNSA activities enumerated in this Act from the exclusive scope of such delegation. (Thus allows the Secretary to delegate oversight of such activities elsewhere within the Department of Energy.)<br/>
+	</summary>
+</bill>

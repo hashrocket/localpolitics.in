@@ -1,0 +1,47 @@
+<bill session="111" type="s" number="395" updated="2009-03-07T14:20:29-05:00">
+	<status><introduced date="1234155600" datetime="2009-02-09"/></status>
+
+	<introduced date="1234155600" datetime="2009-02-09"/>
+	<titles>
+		<title type="short" as="introduced">Civil Rights History Project Act of 2009</title>
+		<title type="official" as="introduced">A bill to direct the Librarian of Congress and the Secretary of the Smithsonian Institution to carry out a joint project at the Library of Congress and the National Museum of African American History and Culture to collect video and audio recording of personal histories and testimonials of individuals who participated in the Civil Rights movement, and for other purposes.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300007" joined="2009-02-09"/>
+		<cosponsor id="300002" joined="2009-02-09"/>
+		<cosponsor id="300059" joined="2009-02-09"/>
+		<cosponsor id="300087" joined="2009-02-09"/>
+		<cosponsor id="300034" joined="2009-02-24"/>
+		<cosponsor id="300023" joined="2009-02-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1234155600" datetime="2009-02-09"><text>Sponsor introductory remarks on measure. (CR S2028)</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Read twice and referred to the Committee on Rules and Administration.</text><reference label="text of measure as introduced" ref="CR S2028-2029"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Rules and Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="586" />
+	</relatedbills>
+	<subjects>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Congressional agencies"/>
+		<term name="Government information and archives"/>
+		<term name="Historical and cultural resources"/>
+		<term name="Internet and video services"/>
+		<term name="Libraries and archives"/>
+		<term name="Library of Congress"/>
+		<term name="Museums, exhibitions, cultural centers"/>
+		<term name="Racial and ethnic relations"/>
+		<term name="Smithsonian Institution"/>
+		<term name="Sound recording"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/9/2009--Introduced.<br/>Civil Rights History Project Act of 2009 - Requires the Librarian of Congress and the Secretary of the Smithsonian Institution (acting through the Director of the National Museum of African American History and Culture) to establish an oral history project to: (1) collect video and audio recordings of, and visual and written materials relevant to the personal histories of, participants in the Civil Rights movement; and (2) make the collection available for public use through the Library of Congress and the Museum.<br/>
+	</summary>
+</bill>

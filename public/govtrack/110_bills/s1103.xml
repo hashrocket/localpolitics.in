@@ -1,0 +1,35 @@
+<bill session="110" type="s" number="1103" updated="2009-01-09T14:04:38-05:00">
+	<status><introduced date="1176350400" datetime="2007-04-12"/></status>
+
+	<introduced date="1176350400" datetime="2007-04-12"/>
+	<titles>
+		<title type="short" as="introduced">Helping Fill the Medicare Rx Gap Act of 2007</title>
+		<title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to include costs incurred by the Indian Health Service, a Federally qualified health center, an AIDS drug assistance program, certain hospitals, or a pharmaceutical manufacturer patient assistance program in providing prescription drugs toward the annual out of pocket threshold under part D of the Medicare program.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+		<cosponsor id="300065" joined="2008-06-23"/>
+		<cosponsor id="300018" joined="2007-11-16"/>
+		<cosponsor id="300060" joined="2007-04-12"/>
+		<cosponsor id="300090" joined="2007-04-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1176350400" datetime="2007-04-12"><text>Sponsor introductory remarks on measure. (CR S4442-4444)</text></action>
+		<action date="1176350400" datetime="2007-04-12"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S4445"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/12/2007--Introduced.<br/>Helping Fill the Medicare Rx Gap Act of 2007 - Amends part D (Voluntary Prescription Drug Benefit Program) of title XVIII (Medicare) of the Social Security Act (SSA), with respect to the annual out of pocket threshold, to count costs incurred in providing prescription drugs by the Indian Health Service, a federally-qualified health center, an AIDS drug assistance program, certain hospitals, or a pharmaceutical manufacturer patient assistance program.<br/>
+	</summary>
+</bill>

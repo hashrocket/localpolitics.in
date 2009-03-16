@@ -1,0 +1,52 @@
+<bill session="111" type="h" number="878" updated="2009-03-07T11:31:28-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Nuclear Family Priority Act</title>
+		<title type="official" as="introduced">To amend the Immigration and Nationality Act to make changes related to family-sponsored immigrants and to reduce the number of such immigrants.</title>
+	</titles>
+	<sponsor id="400151"/>
+	<cosponsors>
+		<cosponsor id="400627" joined="2009-02-04"/>
+		<cosponsor id="400206" joined="2009-02-04"/>
+		<cosponsor id="400006" joined="2009-02-04"/>
+		<cosponsor id="400017" joined="2009-03-05"/>
+		<cosponsor id="400220" joined="2009-02-04"/>
+		<cosponsor id="412252" joined="2009-02-04"/>
+		<cosponsor id="400099" joined="2009-02-04"/>
+		<cosponsor id="412280" joined="2009-02-04"/>
+		<cosponsor id="400626" joined="2009-02-04"/>
+		<cosponsor id="400570" joined="2009-02-04"/>
+		<cosponsor id="400209" joined="2009-02-04"/>
+		<cosponsor id="400242" joined="2009-02-04"/>
+		<cosponsor id="412230" joined="2009-02-04"/>
+		<cosponsor id="400005" joined="2009-02-04"/>
+		<cosponsor id="400221" joined="2009-02-04"/>
+		<cosponsor id="412310" joined="2009-02-04"/>
+		<cosponsor id="400040" joined="2009-02-04"/>
+		<cosponsor id="400651" joined="2009-02-04"/>
+		<cosponsor id="400182" joined="2009-03-05"/>
+		<cosponsor id="400288" joined="2009-02-12"/>
+		<cosponsor id="400055" joined="2009-02-04"/>
+		<cosponsor id="400656" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the House Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Introduced.<br/>Nuclear Family Priority Act - Amends the Immigration and Nationality Act to replace existing family-sponsored immigrant categories with a single preference allocation for spouses and children of permanent resident aliens. Reduces the number of, and revises the calculation for, fiscal year family-sponsored immigrant entrants.<br/>
+	</summary>
+</bill>

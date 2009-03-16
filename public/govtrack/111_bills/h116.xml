@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="116" updated="2009-03-07T10:01:21-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Robo Calls Off Phones (Robo COP) Act</title>
+		<title type="official" as="introduced">To direct the Federal Trade Commission to revise the regulations regarding the Do-not-call registry to prohibit politically-oriented recorded message telephone calls to telephone numbers listed on that registry.</title>
+	</titles>
+	<sponsor id="400643"/>
+	<cosponsors>
+		<cosponsor id="400570" joined="2009-02-04"/>
+		<cosponsor id="400439" joined="2009-02-25"/>
+		<cosponsor id="400348" joined="2009-01-28"/>
+		<cosponsor id="400284" joined="2009-01-28"/>
+		<cosponsor id="400321" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Science, technology, communications"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Federal Trade Commission (FTC)"/>
+		<term name="Political advertising"/>
+		<term name="Telephone and wireless communication"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Robo COP Act: Robo Calls Off Phones - Directs the Federal Trade Commission (FTC), notwithstanding any other provision of law, to revise the do-not-call registry provisions of the Telemarketing Sales Rule to prohibit politically-oriented recorded message telephone calls to telephone numbers listed on that registry. Defines politically-oriented recorded message telephone call.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="726" updated="2009-03-07T11:13:18-05:00">
+	<status><introduced date="1233032400" datetime="2009-01-27"/></status>
+
+	<introduced date="1233032400" datetime="2009-01-27"/>
+	<titles>
+		<title type="short" as="introduced">Citizen Involvement in Campaigns Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide a credit and a deduction for small political contributions.</title>
+	</titles>
+	<sponsor id="400318"/>
+	<cosponsors>
+		<cosponsor id="400210" joined="2009-01-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1233032400" datetime="2009-01-27"><text>Sponsor introductory remarks on measure. (CR E151-152)</text></action>
+		<action date="1233032400" datetime="2009-01-27"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Elections, voting, political campaign regulation"/>
+		<term name="Income tax credits"/>
+		<term name="Income tax deductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/2009--Introduced.<br/>Citizen Involvement in Campaigns Act of 2009- Amends the Internal Revenue Code to allow: (1) a $200 tax credit ($400 for joint returns) for contributions to a candidate for federal elective public office or to the national committee of a national political party; and (2) a tax deduction (available to taxpayers who do not itemize deductions) for such political contributions up to $600 ($1,200 for joint returns). 
+	</summary>
+</bill>

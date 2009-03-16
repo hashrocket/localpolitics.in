@@ -1,0 +1,37 @@
+<bill session="111" type="s" number="357" updated="2009-03-07T14:16:06-05:00">
+	<status><introduced date="1233291600" datetime="2009-01-30"/></status>
+
+	<introduced date="1233291600" datetime="2009-01-30"/>
+	<titles>
+		<title type="short" as="introduced">Equal Justice for United States Military Personnel Act of 2009</title>
+		<title type="official" as="introduced">A bill to allow for certiorari review of certain cases denied relief or review by the United States Court of Appeals for the Armed Forces.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300042" joined="2009-01-30"/>
+		<cosponsor id="300092" joined="2009-01-30"/>
+	</cosponsors>
+	<actions>
+		<action date="1233291600" datetime="2009-01-30"><text>Sponsor introductory remarks on measure. (CR S1125)</text></action>
+		<action date="1233291600" datetime="2009-01-30"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S1125"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="569" />
+	</relatedbills>
+	<subjects>
+		<term name="Law"/>
+		<term name="Federal appellate courts"/>
+		<term name="Judicial review and appeals"/>
+		<term name="Military personnel and dependents"/>
+		<term name="Supreme Court"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/30/2009--Introduced.<br/>Equal Justice for United States Military Personnel Act of 2009 - Amends the federal judicial code to allow for review by writ of certiorari of certain cases denied relief or review by the U.S. Court of Appeals for the Armed Forces.<br/>
+	</summary>
+</bill>

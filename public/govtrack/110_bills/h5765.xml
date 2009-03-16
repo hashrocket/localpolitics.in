@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="5765" updated="2009-01-09T04:48:30-05:00">
+	<status><introduced date="1207800000" datetime="2008-04-10"/></status>
+
+	<introduced date="1207800000" datetime="2008-04-10"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Remote Monitoring Access Act of 2008</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to cover remote patient management services for certain chronic health conditions under the Medicare Program.</title>
+	</titles>
+	<sponsor id="400124"/>
+	<cosponsors>
+		<cosponsor id="400242" joined="2008-04-10"/>
+		<cosponsor id="400058" joined="2008-04-10"/>
+		<cosponsor id="400332" joined="2008-04-10"/>
+		<cosponsor id="400176" joined="2008-05-05"/>
+		<cosponsor id="400324" joined="2008-05-05"/>
+		<cosponsor id="400395" joined="2008-04-10"/>
+		<cosponsor id="400319" joined="2008-04-10"/>
+		<cosponsor id="400391" joined="2008-04-10"/>
+		<cosponsor id="400190" joined="2008-04-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1207800000" datetime="2008-04-10"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1207800000" datetime="2008-04-10"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1207800000" datetime="2008-04-10"><text>Referred to House Ways and Means</text></action>
+		<action date="1208145600" datetime="2008-04-14"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1208318400" datetime="2008-04-16"><committee name="House Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/10/2008--Introduced.<br/>Medicare Remote Monitoring Access Act of 2008 - Amends title XVIII (Medicare) of the Social Security Act to cover remote patient management services for certain chronic health conditions. Directs the Secretary to establish a demonstration project for evaluating the impact and benefits of covering under the Medicare program remote patient management services for certain chronic health conditions. 
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="172" updated="2009-03-07T10:08:04-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Arkansas Valley Conduit Act of 2008</title>
+		<title type="official" as="introduced">To provide for the construction of the Arkansas Valley Conduit in the State of Colorado.</title>
+	</titles>
+	<sponsor id="400620"/>
+	<cosponsors>
+		<cosponsor id="412298" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on Water and Power.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Water and Power" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="187" />
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Colorado"/>
+		<term name="Dams and canals"/>
+		<term name="Pipelines"/>
+		<term name="Water resources funding"/>
+		<term name="Water storage"/>
+		<term name="Water use and supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Arkansas Valley Conduit Act of 2008 [sic] - Provides for the payment of not more than 35% of the cost of the Arkansas Valley Conduit, Colorado, by the Secretary of the Interior. Requires revenue derived from contracts for the use of Fryingpan-Arkansas project excess capacity or exchange contracts using project facilities to be credited towards payment of the actual cost of Ruedi Dam and Reservoir, the Fountain Valley Pipeline, and the South Outlet Works at Pueblo Dam and Reservoir, until the date on which the payments for the Conduit begin, and then towards payment of the actual cost of the Conduit. Requires any rates charged for water for municipal, domestic, or industrial use or for the use of facilities for the storage or delivery of water to be adjusted to reflect the estimated revenue derived from contracts for the use of Fryingpan-Arkansas project excess capacity or exchange contracts using project facilities.<br/>Authorizes appropriations for the construction of the Conduit. Prohibits such sums from being used for its operation or maintenance.<br/>
+	</summary>
+</bill>

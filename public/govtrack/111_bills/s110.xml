@@ -1,0 +1,35 @@
+<bill session="111" type="s" number="110" updated="2009-03-07T13:45:10-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">River Raisin National Battlefield Act</title>
+		<title type="official" as="introduced">A bill to provide for the designation of the River Raisin National Battlefield Park in the State of Michigan.</title>
+	</titles>
+	<sponsor id="300066"/>
+	<cosponsors>
+		<cosponsor id="300093" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Energy and Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="401" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Land transfers"/>
+		<term name="Michigan"/>
+		<term name="Military history"/>
+		<term name="Parks, recreation areas, trails"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>River Raisin National Battlefield Act - Directs the Secretary of the Interior, if Monroe County or Wayne County, Michigan, or other willing landowners in either county offers to donate land relating to the Battles of the River Raisin (during the War of 1812) on January 18 and 22, 1813, and the aftermath of such battles, to accept the donated land. Instructs the Secretary, upon acquisition of such land that is of sufficient acreage to permit efficient administration, to designate the acquired land as a unit of the National Park System, to be known as the &quot;River Raisin National Battlefield Park.&quot; Requires the Secretary to submit a report describing the progress made with respect to: (1) acquiring real property under this Act; and (2) designating the park. 
+	</summary>
+</bill>

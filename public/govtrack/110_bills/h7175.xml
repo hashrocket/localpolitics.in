@@ -1,0 +1,42 @@
+<bill session="110" type="h" number="7175" updated="2009-01-09T07:35:07-05:00">
+	<status><vote date="1222708680" datetime="2008-09-29T14:18:00-04:00" where="h" result="pass" how="roll" roll="675"/></status>
+
+	<introduced date="1222488000" datetime="2008-09-27"/>
+	<titles>
+		<title type="short" as="introduced">Small Business Financing Improvements Act of 2008</title>
+		<title type="short" as="passed house">Small Business Financing Improvements Act of 2008</title>
+		<title type="official" as="introduced">To amend the Small Business Act to improve the section 7(a) lending program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400416"/>
+	<cosponsors>
+		<cosponsor id="400657" joined="2008-09-27"/>
+		<cosponsor id="412221" joined="2008-09-27"/>
+		<cosponsor id="400071" joined="2008-09-27"/>
+		<cosponsor id="412235" joined="2008-09-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1222488000" datetime="2008-09-27"><text>Referred to the House Committee on Small Business.</text></action>
+		<action date="1222545600" datetime="2008-09-27T17:00:00-04:00"><text>Ms. Velazquez moved to suspend the rules and pass the bill.</text></action>
+		<action date="1222545600" datetime="2008-09-27T17:00:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10224-10228"/></action>
+		<action date="1222545600" datetime="2008-09-27T17:00:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 7175.</text></action>
+		<action date="1222546500" datetime="2008-09-27T17:15:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Chabot objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1222708080" datetime="2008-09-29T14:08:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10411-10412"/></action>
+		<vote date="1222708680" how="roll" roll="675" datetime="2008-09-29T14:18:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 374 - 6 (Roll no. 675). (text: CR 9/27/2008 H10224-10226)</text></vote>
+		<action date="1222747200" datetime="2008-09-30"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

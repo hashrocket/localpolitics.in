@@ -1,0 +1,45 @@
+<bill session="110" type="h" number="2080" updated="2009-01-08T21:12:12-05:00">
+	<status><enacted date="1180670400" datetime="2007-06-01" /></status>
+
+	<introduced date="1177992000" datetime="2007-05-01"/>
+	<titles>
+		<title type="official" as="introduced">To amend the District of Columbia Home Rule Act to conform the District charter to revisions made by the Council of the District of Columbia relating to public education.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+		<cosponsor id="400098" joined="2007-05-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1177992000" datetime="2007-05-01"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1177992000" datetime="2007-05-01"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1177992000" datetime="2007-05-01" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1178655000" datetime="2007-05-08T17:10:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1178655060" datetime="2007-05-08T17:11:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4618-4619"/></action>
+		<action date="1178655060" datetime="2007-05-08T17:11:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2080.</text></action>
+		<vote date="1178655720" how="by voice vote" datetime="2007-05-08T17:22:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H4618"/></vote>
+		<action date="1178683200" datetime="2007-05-09"><text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar under="General Orders" number="145" date="1178769600" datetime="2007-05-10" calendar="Senate Legislative" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 145.</text></calendar>
+		<vote date="1179806400" how="by Unanimous Consent" datetime="2007-05-22" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6492"/><reference label="text as passed Senate" ref="CR S6492"/></vote>
+		<topresident date="1179806400" datetime="2007-05-22" ><text>Cleared for White House.</text></topresident>
+		<action date="1179892800" datetime="2007-05-23"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1180584000" datetime="2007-05-31" ><text>Presented to President.</text></topresident>
+		<signed date="1180670400" datetime="2007-06-01" ><text>Signed by President.</text></signed>
+		<enacted number="110-33" date="1180670400" datetime="2007-06-01" type="public" ><text>Became Public Law No: 110-33.</text></enacted>
+		<action date="1205467200" datetime="2008-03-14"><text>Committee on Homeland Security and Governmental Affairs Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia. Hearings held.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/1/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends the District of Columbia Home Rule Act to revise the District of Columbia's charter (to conform to revisions made by the Council of the District of Columbia relating to public education). Repeals the grant of authority to the Mayor and the District Council to establish the annual budget for the District's Board of Education, which also prohibits the Mayor and Council from specifying the amounts of and purposes for which funds may be expended. Repeals: (1) the authority of the Board to govern D.C. public schools; and (2) provisions for election of the Board.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="110" type="h" number="7327" updated="2009-01-09T07:52:45-05:00">
+	<status><enacted date="1230008400" datetime="2008-12-23" /></status>
+
+	<introduced date="1228885200" datetime="2008-12-10"/>
+	<titles>
+		<title type="short" as="introduced">Worker, Retiree, and Employer Recovery Act of 2008</title>
+		<title type="official" as="introduced">To make technical corrections related to the Pension Protection Act of 2006, and for other purposes.</title>
+	</titles>
+	<sponsor id="400333"/>
+	<cosponsors>
+		<cosponsor id="400267" joined="2008-12-10"/>
+		<cosponsor id="400261" joined="2008-12-10"/>
+		<cosponsor id="400278" joined="2008-12-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1228885200" datetime="2008-12-10"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1228885200" datetime="2008-12-10"><text>Referred to House Ways and Means</text></action>
+		<action date="1228885200" datetime="2008-12-10"><text>Referred to House Education and Labor</text></action>
+		<action date="1228956660" datetime="2008-12-10T20:51:00-05:00"><text>Committee on Ways and Means discharged.</text></action>
+		<action date="1228956660" datetime="2008-12-10T20:51:00-05:00"><text>Committee on Education and Labor discharged.</text></action>
+		<action date="1228956660" datetime="2008-12-10T20:51:00-05:00"><text>Mr. Pomeroy asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1228956660" datetime="2008-12-10T20:51:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10935-10943"/></action>
+		<vote date="1228956660" how="without objection" datetime="2008-12-10T20:51:00-05:00" where="h" type="vote" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H10935-10943"/></vote>
+		<vote date="1228971600" how="by Unanimous Consent" datetime="2008-12-11" where="s" type="vote2" result="pass" ><text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10914-10915"/></vote>
+		<topresident date="1228971600" datetime="2008-12-11" ><text>Cleared for White House.</text></topresident>
+		<action date="1229058000" datetime="2008-12-12"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1229490000" datetime="2008-12-17" ><text>Presented to President.</text></topresident>
+		<signed date="1230008400" datetime="2008-12-23" ><text>Signed by President.</text></signed>
+		<enacted number="110-458" date="1230008400" datetime="2008-12-23" type="public" ><text>Became Public Law No: 110-458.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="893" updated="2009-01-09T09:43:19-05:00">
+	<status><vote date="1198089660" datetime="2007-12-19T14:41:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1198040400" datetime="2007-12-19"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the consideration of the Senate amendment to the House amendment to the Senate amendment to the bill (H.R. 2764) making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2008, and for consideration of the joint resolution (H.J. Res. 72) making further continuing appropriations for the fiscal year 2008, and for other purposes.</title>
+	</titles>
+	<sponsor id="400263"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1198123380" datetime="2007-12-19T12:03:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-498, by Mr. McGovern.</text></action>
+		<action date="1198123380" datetime="2007-12-19T12:03:00-05:00"><text>Provides for consideration of Senate amendment to House amendments to Senate amendment.</text><reference label="consideration" ref="CR H16860-16863"/></action>
+		<calendar date="1198123380" datetime="2007-12-19T12:03:00-05:00" ><text>Placed on the House Calendar, Calendar No. 175.</text></calendar>
+		<action date="1198089300" datetime="2007-12-19T14:35:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H16887-16889"/></action>
+		<action date="1198089360" datetime="2007-12-19T14:36:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 893.</text></action>
+		<action date="1198089660" datetime="2007-12-19T14:41:00-05:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H16889"/></action>
+		<vote date="1198089660" how="by voice vote" datetime="2007-12-19T14:41:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H16887-16888"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/19/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Sets forth the rule for the consideration of the Senate amendment to the House amendment to the Senate amendment to H.R. 2764 (making appropriations for the Department of State, foreign operations, and related programs for FY2008) and for consideration of H.J. Res. 72 (making further continuing appropriations for FY2008).<br/>
+	</summary>
+</bill>

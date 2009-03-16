@@ -1,0 +1,33 @@
+<bill session="110" type="hr" number="1341" updated="2009-01-09T10:41:35-05:00">
+	<status><vote date="1216141440" datetime="2008-07-15T14:04:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1216094400" datetime="2008-07-15"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the concurrence by the House in the Senate amendments to H.R. 3890, with amendments.</title>
+	</titles>
+	<sponsor id="400025"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1216140600" datetime="2008-07-15T13:50:00-04:00"><text>Mr. Berman moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1216140600" datetime="2008-07-15T13:50:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6513-6520"/></action>
+		<action date="1216140600" datetime="2008-07-15T13:50:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1341.</text></action>
+		<vote date="1216141440" how="by voice vote" datetime="2008-07-15T14:04:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H6513-6518"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/15/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Sets forth the rule for consideration of the Senate amendments to H.R. 3890 (Burma Democracy Promotion Act of 2007) with amendments.<br/>
+	</summary>
+</bill>

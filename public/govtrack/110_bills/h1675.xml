@@ -1,0 +1,57 @@
+<bill session="110" type="h" number="1675" updated="2009-01-08T20:20:52-05:00">
+	<status><enacted date="1181880000" datetime="2007-06-15" /></status>
+
+	<introduced date="1174881600" datetime="2007-03-26"/>
+	<titles>
+		<title type="short" as="introduced">Preservation Approval Process Improvement Act of 2007</title>
+		<title type="short" as="reported to house">Preservation Approval Process Improvement Act of 2007</title>
+		<title type="short" as="passed house">Preservation Approval Process Improvement Act of 2007</title>
+		<title type="short" as="reported to senate">Preservation Approval Process Improvement Act of 2007</title>
+		<title type="short" as="passed senate">Preservation Approval Process Improvement Act of 2007</title>
+		<title type="short" as="enacted">Preservation Approval Process Improvement Act of 2007</title>
+		<title type="official" as="introduced">To suspend the requirements of the Department of Housing and Urban Development regarding electronic filing of previous participation certificates and regarding filing of such certificates with respect to certain low-income housing investors.</title>
+	</titles>
+	<sponsor id="400631"/>
+	<cosponsors>
+		<cosponsor id="400209" joined="2007-03-28"/>
+		<cosponsor id="400170" joined="2007-04-20"/>
+		<cosponsor id="400140" joined="2007-03-26"/>
+		<cosponsor id="400150" joined="2007-03-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1174881600" datetime="2007-03-26"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1175140800" datetime="2007-03-29"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1175140800" datetime="2007-03-29" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1177367460" datetime="2007-04-23T19:31:00-04:00"><text>Reported by the Committee on Financial Services. H. Rept. 110-106.</text></action>
+		<calendar number="65" date="1177367460" datetime="2007-04-23T19:31:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 65.</text></calendar>
+		<action date="1177471260" datetime="2007-04-24T12:21:00-04:00"><text>Ms. Bean moved to suspend the rules and pass the bill.</text></action>
+		<action date="1177471320" datetime="2007-04-24T12:22:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3787-3788"/></action>
+		<action date="1177471320" datetime="2007-04-24T12:22:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1675.</text></action>
+		<vote date="1177471860" how="by voice vote" datetime="2007-04-24T12:31:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H3787"/></vote>
+		<action date="1177473600" datetime="2007-04-25"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+		<calendar date="1179288000" datetime="2007-05-16" ><text>Committee on Banking, Housing, and Urban Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1179374400" datetime="2007-05-17"><text>Committee on Banking, Housing, and Urban Affairs. Reported by Senator Dodd without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="151" date="1179374400" datetime="2007-05-17" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 151.</text></calendar>
+		<vote date="1179979200" how="by Unanimous Consent" datetime="2007-05-24" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6922"/></vote>
+		<topresident date="1179979200" datetime="2007-05-24" ><text>Cleared for White House.</text></topresident>
+		<action date="1180065600" datetime="2007-05-25"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1181102400" datetime="2007-06-06" ><text>Presented to President.</text></topresident>
+		<signed date="1181880000" datetime="2007-06-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-35" date="1181880000" datetime="2007-06-15" type="public" ><text>Became Public Law No: 110-35.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/15/2007--Public Law. (This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)<br/>Preservation Approval Process Improvement Act of 2007 - Directs the Secretary of Housing and Urban Development to suspend mandatory processing of Previous Participation Certificates under the Automated Partners Performance System and permit paper filings of such certificates until the Secretary: (1) revises the December 2006 draft of specified proposed regulations to eliminate unnecessary burdens and disincentives for program participants; and (2) submits such revised draft proposed regulations to certain congressional committees for review.<br/>Instructs the Secretary also to suspend immediately all filing requirements under the Previous Participation Certificate process with respect to limited liability corporate investors who own or expect to own an interest in entities which are allowed or are expected to be allowed specified low-income housing tax credits under the Internal Revenue Code.<br/>
+	</summary>
+</bill>

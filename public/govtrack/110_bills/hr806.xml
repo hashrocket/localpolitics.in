@@ -1,0 +1,38 @@
+<bill session="110" type="hr" number="806" updated="2009-01-09T09:32:19-05:00">
+	<status><vote date="1194542220" datetime="2007-11-08T13:17:00-05:00" where="h" result="pass" how="roll" roll="1063"/></status>
+
+	<introduced date="1194411600" datetime="2007-11-07"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the conference report to accompany the bill (H.R. 3222) making appropriations for the Department of Defense for the fiscal year ending September 30, 2008, and for other purposes.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1194475020" datetime="2007-11-07T18:37:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-435, by Ms. Slaughter.</text></action>
+		<action date="1194475020" datetime="2007-11-07T18:37:00-05:00"><text>All points of order against the conference report and against consideration are waived. The conference report shall be consideredas read.</text></action>
+		<calendar date="1194475020" datetime="2007-11-07T18:37:00-05:00" ><text>Placed on the House Calendar, Calendar No. 149.</text></calendar>
+		<action date="1194535620" datetime="2007-11-08T11:27:00-05:00"><text>By direction of the Committee on Rules, Ms. Slaughter called up H.Res. 806 and asked for its immediate consideration.</text><reference label="consideration" ref="CR H13311-13321"/></action>
+		<action date="1194535740" datetime="2007-11-08T11:29:00-05:00"><text>POINT OF ORDER - Mr. Flake raised a point of order against the provisions of H.Res. 806 because it waived all point of order against the conference report to accompany H.R. 3222. The Chair announced that the disposition of the point of order would be resolved by the question of consideration of H.Res. 806. The House proceeded with 20 minutes of debate on the point of order at the end of which the Chair will put the question on consideration.</text></action>
+		<action date="1194580860" datetime="2007-11-08T12:01:00-05:00"><text>Will the House now consider the resolution Agreed to by the Yeas and Nays: 220 - 191 (Roll no. 1061).</text></action>
+		<action date="1194580920" datetime="2007-11-08T12:02:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 806.</text></action>
+		<action date="1194541800" datetime="2007-11-08T13:10:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 217 - 196 (Roll no. 1062).</text><reference label="consideration" ref="CR H13319-13320"/></action>
+		<vote date="1194542220" how="roll" roll="1063" datetime="2007-11-08T13:17:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by recorded vote: 226 - 184 (Roll no. 1063).</text><reference label="text" ref="CR H13312"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/8/2007--Passed House without amendment. Waives points of order against consideration of the conference report on H.R. 3222 (Department of Defense Appropriations Act, 2008). 
+	</summary>
+</bill>

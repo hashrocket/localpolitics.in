@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="123" updated="2009-03-07T10:02:10-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Credit Agencies Identity Theft Responsibilities Act of 2009</title>
+		<title type="official" as="introduced">To amend the Fair Credit Reporting Act to establish additional reporting requirements to enhance the detection of identity theft, and for other purposes.</title>
+	</titles>
+	<sponsor id="400144"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Border security and unlawful immigration"/>
+		<term name="Computer crimes and identity theft"/>
+		<term name="Consumer affairs"/>
+		<term name="Consumer credit"/>
+		<term name="Criminal justice information and records"/>
+		<term name="Criminal procedure and sentencing"/>
+		<term name="Fraud offenses"/>
+		<term name="Government information and archives"/>
+		<term name="Investigation, prosecution, interrogation methods"/>
+		<term name="Terrorism"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Credit Agencies Identity Theft Responsibilities Act of 2009 - Amends the Fair Credit Reporting Act to require a consumer reporting agency which has reason to suspect identity theft to: (1) report such suspicion to the U.S. Secret Service; and (2) inform the Attorney General for criminal prosecution. Requires the Secret Service to forward such information to either the Federal Bureau of Investigation (FBI) or the Department of Homeland Security (DHS), respectively, if it has reason to believe that a suspected case of identity theft involves any suspicion of terrorism or immigration violations. Cites factors for suspicion of identity theft. Requires a consumer reporting agency to review, at regular intervals, all information on consumers it maintains or controls in order to determine whether there is any basis for suspicion of identity theft. Sets forth criminal penalties for agency failure to comply with this Act.<br/>
+	</summary>
+</bill>

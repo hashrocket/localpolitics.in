@@ -1,0 +1,53 @@
+<bill session="110" type="h" number="404" updated="2009-01-08T17:35:19-05:00">
+	<status><vote date="1185228900" datetime="2007-07-23T19:15:00-04:00" where="h" result="pass" how="roll" roll="687"/></status>
+
+	<introduced date="1168491600" datetime="2007-01-11"/>
+	<titles>
+		<title type="short" as="introduced">Federal Customer Service Enhancement Act</title>
+		<title type="short" as="passed house">Federal Customer Service Enhancement Act</title>
+		<title type="short" as="reported to senate">Federal Customer Service Enhancement Act of 2008</title>
+		<title type="official" as="introduced">To require the establishment of customer service standards for Federal agencies.</title>
+	</titles>
+	<sponsor id="400657"/>
+	<cosponsors>
+		<cosponsor id="400154" joined="2007-04-17"/>
+		<cosponsor id="400116" joined="2007-06-28"/>
+		<cosponsor id="400260" joined="2007-01-30"/>
+		<cosponsor id="400068" joined="2007-01-23"/>
+		<cosponsor id="400643" joined="2007-07-19"/>
+	</cosponsors>
+	<actions>
+		<action date="1168491600" datetime="2007-01-11"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1174622400" datetime="2007-03-23"><text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text></action>
+		<action date="1178683200" datetime="2007-05-09"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1178683200" datetime="2007-05-09"><text>Forwarded by Subcommittee to Full Committee in the Nature of a Substitute by Voice Vote .</text></action>
+		<action date="1181620800" datetime="2007-06-12"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1181620800" datetime="2007-06-12" ><text>Ordered to be Reported in the Nature of a Substitute by Voice Vote.</text></calendar>
+		<action date="1185217140" datetime="2007-07-23T15:59:00-04:00"><text>Mr. Towns moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1185217200" datetime="2007-07-23T16:00:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8234-8236"/></action>
+		<action date="1185217200" datetime="2007-07-23T16:00:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 404.</text></action>
+		<action date="1185217860" datetime="2007-07-23T16:11:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1185227460" datetime="2007-07-23T18:51:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8253-8254"/></action>
+		<vote date="1185228900" how="roll" roll="687" datetime="2007-07-23T19:15:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 0 (Roll no. 687).</text><reference label="text as passed in House" ref="CR H8234-8235"/></vote>
+		<action date="1185249600" datetime="2007-07-24"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1187755200" datetime="2007-08-22"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia.</text></action>
+		<calendar date="1217390400" datetime="2008-07-30" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1222833600" datetime="2008-10-01"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="1107" date="1222833600" datetime="2008-10-01" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1107.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/23/2007--Passed House amended. Federal Customer Service Enhancement Act - Requires the Director of the Office of Management and Budget (OMB) to develop: (1) performance measures to determine whether federal agencies are providing high quality customer service; and (2) standards to be met by federal agencies to provide high quality customer service. Requires the head of each agency to: (1) collect information from its customers regarding the quality of its of customer services; and (2) include this information in its performance report to the President and Congress. Requires the Director to report annually on the success of federal agencies in meeting the customer service performance measures and standards.<br/>Requires the head of each agency to designate an employee as its customer relations representative to be responsible for implementing customer service standards.<br/>Directs the Comptroller General to submit to the House Committee on Oversight and Government Reform and the Senate Committee on Homeland Security and Governmental Affairs a report analyzing the information reported by agencies on the quality of customer service. Requires such report to include: (1) whether agencies are implementing the customer service standards; (2) whether there is an increase in overall quality in customer service; and (3) any recommendations the Comptroller General may have to improve performance measures and standards for customer service. Authorizes the report to be used by Congress and the Director to update performance measures for customer service.<br/>Authorizes the head of a federal agency to establish an awards program to pay a cash award to employees for demonstrated excellence in customer service.<br/>
+	</summary>
+</bill>

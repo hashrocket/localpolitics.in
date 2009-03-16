@@ -1,0 +1,42 @@
+<bill session="111" type="s" number="379" updated="2009-03-07T14:18:38-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Performance Rights Act</title>
+		<title type="official" as="introduced">A bill to provide fair compensation to artists for use of their sound recordings.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="300002" joined="2009-02-09"/>
+		<cosponsor id="300011" joined="2009-02-04"/>
+		<cosponsor id="300052" joined="2009-02-04"/>
+		<cosponsor id="412248" joined="2009-02-04"/>
+		<cosponsor id="300043" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Sponsor introductory remarks on measure. (CR S1544-1545)</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S1545-1546"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="848" />
+	</relatedbills>
+	<subjects>
+		<term name="Commerce"/>
+		<term name="Broadcasting, cable, digital media"/>
+		<term name="Intellectual property"/>
+		<term name="Licensing and registrations"/>
+		<term name="Performing arts"/>
+		<term name="Sound recording"/>
+		<term name="User charges and fees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Introduced.<br/>Performance Rights Act - Amends federal copyright law to: (1) grant performers of sound recordings equal rights to compensation from terrestrial broadcasters; and (2) modify the circumstances under which the public performance of a sound recording is subject to statutory licensing. Establishes a flat annual fee in lieu of payment of royalties for individual terrestrial broadcast stations with gross revenues of less than $1.25 million and for noncommercial, public broadcast stations. Grants: (1) an exemption from royalty payments for broadcasts of religious services and for incidental uses of musical sound recordings; and (2) terrestrial broadcast stations that make limited feature uses of sound recordings a per program license option. Prohibits anything in this Act from adversely affecting the public performance rights or royalties payable to songwriters or copyright owners of musical works.<br/>
+	</summary>
+</bill>

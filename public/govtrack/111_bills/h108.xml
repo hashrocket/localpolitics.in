@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="108" updated="2009-03-07T10:00:25-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Disabled Veterans Commissary and Exchange Store Benefits Act</title>
+		<title type="official" as="introduced">To amend title 10, United States Code, to extend military commissary and exchange store privileges to veterans with a compensable service-connected disability and to their dependents.</title>
+	</titles>
+	<sponsor id="400640"/>
+	<cosponsors>
+		<cosponsor id="412294" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1233291600" datetime="2009-01-30"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Armed Services" subcommittee="Military Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Military facilities and property"/>
+		<term name="Veterans' pensions and compensation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Disabled Veterans Commissary and Exchange Store Benefits Act - Permits a veteran with any compensable service-connected disability (and the veteran's dependents) to use commissary and exchange stores on the same basis as a member of the Armed Forces entitled to retired or retainer pay.<br/>
+	</summary>
+</bill>

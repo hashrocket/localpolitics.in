@@ -1,0 +1,42 @@
+<bill session="111" type="hr" number="140" updated="2009-03-07T13:22:49-05:00">
+	<status><introduced date="1234155600" datetime="2009-02-09"/></status>
+
+	<introduced date="1234155600" datetime="2009-02-09"/>
+	<titles>
+		<title type="official" as="introduced">Honoring John D. Dingell for holding the record as the longest serving member of the House of Representatives.</title>
+	</titles>
+	<sponsor id="400216"/>
+	<cosponsors>
+		<cosponsor id="400414" joined="2009-02-09"/>
+		<cosponsor id="412313" joined="2009-02-09"/>
+		<cosponsor id="400080" joined="2009-02-09"/>
+		<cosponsor id="400217" joined="2009-02-09"/>
+		<cosponsor id="400342" joined="2009-02-09"/>
+		<cosponsor id="400058" joined="2009-02-09"/>
+		<cosponsor id="412305" joined="2009-02-09"/>
+		<cosponsor id="400276" joined="2009-02-09"/>
+		<cosponsor id="400391" joined="2009-02-09"/>
+		<cosponsor id="400119" joined="2009-02-09"/>
+		<cosponsor id="400260" joined="2009-02-09"/>
+		<cosponsor id="400182" joined="2009-02-09"/>
+		<cosponsor id="400238" joined="2009-02-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the House Committee on House Administration.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

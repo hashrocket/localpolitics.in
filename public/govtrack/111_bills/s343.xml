@@ -1,0 +1,35 @@
+<bill session="111" type="s" number="343" updated="2009-03-07T14:14:30-05:00">
+	<status><introduced date="1233205200" datetime="2009-01-29"/></status>
+
+	<introduced date="1233205200" datetime="2009-01-29"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Respiratory Therapy Initiative Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide for Medicare coverage services of qualified respiratory therapists performed under the general supervision of a physician.</title>
+	</titles>
+	<sponsor id="300068"/>
+	<cosponsors>
+		<cosponsor id="400432" joined="2009-02-06"/>
+		<cosponsor id="300030" joined="2009-01-29"/>
+		<cosponsor id="400357" joined="2009-02-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1233205200" datetime="2009-01-29"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="1077" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Cardiovascular and respiratory health"/>
+		<term name="Medicare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/29/2009--Introduced.<br/>Medicare Respiratory Therapy Initiative Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act to cover the services of a qualified respiratory therapist performed under the general supervision of a physician.<br/>
+	</summary>
+</bill>

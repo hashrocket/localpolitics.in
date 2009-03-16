@@ -1,0 +1,32 @@
+<bill session="111" type="h" number="970" updated="2009-03-07T11:42:23-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="short" as="introduced">FIND Act of 2009</title>
+		<title type="short" as="introduced">Fugitive Information Networked Database Act of 2009</title>
+		<title type="official" as="introduced">To encourage the entry of felony warrants into the NCIC database by States and to provide additional resources for extradition.</title>
+	</titles>
+	<sponsor id="400426"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the House Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

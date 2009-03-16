@@ -1,0 +1,42 @@
+<bill session="110" type="h" number="5932" updated="2009-01-09T05:08:45-05:00">
+	<status><vote date="1222540740" datetime="2008-09-27T15:39:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1209528000" datetime="2008-04-30"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 2801 Manhattan Boulevard in Harvey, Louisiana, as the &quot;Harry Lee Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400201"/>
+	<cosponsors>
+		<cosponsor id="412260" joined="2008-06-10"/>
+		<cosponsor id="400635" joined="2008-06-10"/>
+		<cosponsor id="400261" joined="2008-06-10"/>
+		<cosponsor id="412261" joined="2008-06-11"/>
+		<cosponsor id="400006" joined="2008-06-10"/>
+		<cosponsor id="400636" joined="2008-06-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1209528000" datetime="2008-04-30"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1216180800" datetime="2008-07-16" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1222540740" datetime="2008-09-27T15:39:00-04:00"><text>Mr. Clay asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1222540740" datetime="2008-09-27T15:39:00-04:00"><text>Committee on Oversight and Government discharged.</text></action>
+		<action date="1222540740" datetime="2008-09-27T15:39:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10211"/></action>
+		<vote date="1222540740" how="without objection" datetime="2008-09-27T15:39:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H10211"/></vote>
+		<action date="1222660800" datetime="2008-09-29"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/30/2008--Introduced.<br/>Designates the facility of the United States Postal Service located at 2801 Manhattan Boulevard in Harvey, Louisiana, as the &quot;Harry Lee Post Office Building.&quot;<br/>
+	</summary>
+</bill>

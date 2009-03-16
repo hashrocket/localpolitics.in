@@ -1,0 +1,46 @@
+<bill session="110" type="h" number="1025" updated="2009-01-08T18:58:37-05:00">
+	<status><vote date="1178575440" datetime="2007-05-07T19:04:00-04:00" where="h" result="pass" how="roll" roll="303"/></status>
+
+	<introduced date="1171342800" datetime="2007-02-13"/>
+	<titles>
+		<title type="short" as="introduced">Lower Republican River Basin Study Act</title>
+		<title type="short" as="passed house">Lower Republican River Basin Study Act</title>
+		<title type="official" as="introduced">To authorize the Secretary of the Interior to conduct a study to determine the feasibility of implementing a water supply and conservation project to improve water supply reliability, increase the capacity of water storage, and improve water management efficiency in the Republican River Basin between Harlan County Lake in Nebraska and Milford Lake in Kansas.</title>
+	</titles>
+	<sponsor id="400284"/>
+	<cosponsors>
+		<cosponsor id="412217" joined="2007-02-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1171342800" datetime="2007-02-13"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1171947600" datetime="2007-02-20"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1178563080" datetime="2007-05-07T15:38:00-04:00"><text>Mrs. Napolitano moved to suspend the rules and pass the bill.</text></action>
+		<action date="1178563080" datetime="2007-05-07T15:38:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4506-4507"/></action>
+		<action date="1178563080" datetime="2007-05-07T15:38:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1025.</text></action>
+		<action date="1178563380" datetime="2007-05-07T15:43:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1178574960" datetime="2007-05-07T18:56:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4527"/></action>
+		<vote date="1178575440" how="roll" roll="303" datetime="2007-05-07T19:04:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 370 - 1 (Roll no. 303).</text><reference label="text" ref="CR H4506-4507"/></vote>
+		<action date="1178596800" datetime="2007-05-08"><text>Received in the Senate.</text></action>
+		<action date="1178683200" datetime="2007-05-09"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1185422400" datetime="2007-07-26"><text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held.</text></action>
+		<calendar date="1201669200" datetime="2008-01-30" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1207800000" datetime="2008-04-10"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-318.</text></action>
+		<calendar under="General Orders" number="670" date="1207800000" datetime="2008-04-10" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 670.</text></calendar>
+		<action date="1213156800" datetime="2008-06-11"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S5530"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/7/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Lower Republican River Basin Study Act - Authorizes the Secretary of the Interior to conduct a study to determine the feasibility of implementing a water supply and conservation project that will: (1) improve water supply reliability in the Republican River Basin between Harlan County Lake in Nebraska and Milford Lake in Kansas; (2) increase the capacity of water storage through projects that serve areas in the Republican River Basin; and (3) improve water management efficiency in the Republican River Basin and, where appropriate, evaluate integrated water resource management and supply needs in the Republican River Basin. Terminates the Secretary's authority to carry out this Act 10 years after its enactment.<br/>
+	</summary>
+</bill>

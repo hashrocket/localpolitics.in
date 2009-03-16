@@ -1,0 +1,39 @@
+<bill session="110" type="s" number="3328" updated="2009-01-09T18:50:07-05:00">
+	<status><vote date="1222142400" datetime="2008-09-23" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1216872000" datetime="2008-07-24"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Homeland Security Act of 2002 to provide for a one-year extension of other transaction authority.</title>
+	</titles>
+	<sponsor id="300025"/>
+	<cosponsors>
+		<cosponsor id="300067" joined="2008-07-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1216872000" datetime="2008-07-24"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<calendar date="1217390400" datetime="2008-07-30" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1221105600" datetime="2008-09-11"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-454.</text></action>
+		<calendar under="General Orders" number="952" date="1221105600" datetime="2008-09-11" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 952.</text></calendar>
+		<action date="1222142400" datetime="2008-09-23"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S9335-9336"/></action>
+		<vote date="1222142400" how="by Unanimous Consent" datetime="2008-09-23" where="s" type="vote" result="pass" ><text>Passed Senate with an amendment by Unanimous Consent.</text><reference label="text as passed Senate" ref="CR S9336"/></vote>
+		<action date="1222261380" datetime="2008-09-24T10:03:00-04:00"><text>Received in the House.</text></action>
+		<action date="1222228800" datetime="2008-09-24"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1222228800" datetime="2008-09-24"><text>Referred to the House Committee on Homeland Security.</text></action>
+		<action date="1222660800" datetime="2008-09-29"><text>Referred to the Subcommittee on Management, Investigations, and Oversight.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/23/2008--Passed Senate amended. Amends the Homeland Security Act of 2002 to provide for a one-year extension of the authority of the Secretary of Homeland Security to carry out an alternative contracting program for research and development projects if the Secretary issues policy guidance by September 30, 2008, detailing the appropriate use of other transaction authority and provides mandatory training to each employee handling procurements under such authority.<br/>Directs the Secretary to submit to the Senate Committee on Homeland Security and Governmental Affairs, the Senate Committee on Commerce, Science, and Transportation, and the House Committee on Homeland Security an annual report on the exercise of such authority, including: (1) the technology areas in which research projects were conducted under other transactions; (2) the extent of the cost-sharing among federal and nonfederal sources; (3) the extent to which use of the other transactions contributed to a broadening of the technology and industrial base available for meeting the needs of the Department of Homeland Security (DHS) and fostered within the technology and industrial base new relationships and practices that support national security; (4) the total payments received by the government; and (5) the rationale for using such authority.<br/>
+	</summary>
+</bill>

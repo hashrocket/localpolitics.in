@@ -1,0 +1,48 @@
+<bill session="111" type="h" number="19" updated="2009-03-07T09:49:43-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To require employers to conduct employment eligibility verification.</title>
+	</titles>
+	<sponsor id="400057"/>
+	<cosponsors>
+		<cosponsor id="400144" joined="2009-01-28"/>
+		<cosponsor id="400277" joined="2009-01-28"/>
+		<cosponsor id="400039" joined="2009-01-28"/>
+		<cosponsor id="400115" joined="2009-02-04"/>
+		<cosponsor id="400348" joined="2009-02-04"/>
+		<cosponsor id="400239" joined="2009-02-04"/>
+		<cosponsor id="400032" joined="2009-01-28"/>
+		<cosponsor id="400365" joined="2009-01-28"/>
+		<cosponsor id="400654" joined="2009-01-28"/>
+		<cosponsor id="412283" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Judiciary</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Education and Labor</text></action>
+		<action date="1234155600" datetime="2009-02-09"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" activity="Referral" />
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Border security and unlawful immigration"/>
+		<term name="Civil actions and liability"/>
+		<term name="Foreign labor"/>
+		<term name="Government information and archives"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Renames the basic employment eligibility verification pilot program established under the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 as the Employment Eligibility Verification System. Directs the Secretary of Homeland Security to provide for permanent nationwide implementation of the System. Requires entities hiring individuals for employment in the United States to participate in such System. Phases in compliance requirements over a seven-year period according to the number of persons employed by the entity. Establishes sanctions for noncompliance. Provides for voluntary participation by entities not required to participate.<br/>
+	</summary>
+</bill>

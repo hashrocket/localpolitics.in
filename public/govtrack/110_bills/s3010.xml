@@ -1,0 +1,37 @@
+<bill session="110" type="s" number="3010" updated="2009-01-09T18:08:24-05:00">
+	<status><calendar date="1221105600" datetime="2008-09-11" /></status>
+
+	<introduced date="1210651200" datetime="2008-05-13"/>
+	<titles>
+		<title type="short" as="introduced">Route 66 Corridor Preservation Program Reauthorization Act</title>
+		<title type="short" as="reported to senate">Route 66 Corridor Preservation Program Reauthorization Act</title>
+		<title type="official" as="introduced">A bill to reauthorize the Route 66 Corridor Preservation Program.</title>
+	</titles>
+	<sponsor id="300036"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="2008-06-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1210651200" datetime="2008-05-13"><text>Sponsor introductory remarks on measure. (CR S4108)</text></action>
+		<action date="1210651200" datetime="2008-05-13"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text><reference label="text of measure as introduced" ref="CR S4108"/></action>
+		<action date="1213675200" datetime="2008-06-17"><text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-539.</text></action>
+		<calendar date="1221105600" datetime="2008-09-11" ><text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1221537600" datetime="2008-09-16"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="992" date="1221537600" datetime="2008-09-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 992.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/16/2008--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Route 66 Corridor Preservation Program Reauthorization Act - Authorizes appropriations through FY2019 to carry out the purposes of Public Law 106-45 (relating to the preservation of the cultural resources of the Route 66 Corridor and authorizing the Secretary of the Interior to provide assistance for the preservation of the Corridor). 
+	</summary>
+</bill>

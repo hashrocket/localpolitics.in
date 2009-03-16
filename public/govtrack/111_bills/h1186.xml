@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="1186" updated="2009-03-07T12:11:38-05:00">
+	<status><introduced date="1235538000" datetime="2009-02-25"/></status>
+
+	<introduced date="1235538000" datetime="2009-02-25"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit the use of funds to transfer individuals detained at Naval Station, Guantanamo Bay, Cuba, to facilities in Virginia or to house such individuals at such facilities.</title>
+	</titles>
+	<sponsor id="400137"/>
+	<cosponsors>
+		<cosponsor id="400060" joined="2009-02-25"/>
+		<cosponsor id="400435" joined="2009-02-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to the House Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="817" />
+		<bill relation="unknown" session="111" type="h" number="829" />
+		<bill relation="unknown" session="111" type="h" number="1073" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

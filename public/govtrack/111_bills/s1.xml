@@ -1,0 +1,57 @@
+<bill session="111" type="s" number="1" updated="2009-03-07T13:33:05-05:00">
+	<status><calendar date="1231304400" datetime="2009-01-07" /></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">American Recovery and Reinvestment Act of 2009</title>
+		<title type="official" as="introduced">A bill to create jobs, restore economic growth, and strengthen America's middle class through measures that modernize the nation's infrastructure, enhance America's energy independence, expand educational opportunities, preserve and improve affordable health care, provide tax relief, and protect those in greatest need, and for other purposes.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2009-01-06"/>
+		<cosponsor id="400272" joined="2009-01-06"/>
+		<cosponsor id="300009" joined="2009-01-06"/>
+		<cosponsor id="400050" joined="2009-01-07"/>
+		<cosponsor id="300059" joined="2009-01-06"/>
+		<cosponsor id="300022" joined="2009-01-06"/>
+		<cosponsor id="300011" joined="2009-01-06"/>
+		<cosponsor id="300067" joined="2009-01-06"/>
+		<cosponsor id="412246" joined="2009-01-06"/>
+		<cosponsor id="300093" joined="2009-01-06"/>
+		<cosponsor id="412243" joined="2009-01-06"/>
+		<cosponsor id="300060" joined="2009-01-06"/>
+		<cosponsor id="300038" joined="2009-01-06"/>
+		<cosponsor id="300066" joined="2009-01-06"/>
+		<cosponsor id="300087" joined="2009-01-06"/>
+		<cosponsor id="412326" joined="2009-01-06"/>
+		<cosponsor id="300064" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text><reference label="text of measure as introduced" ref="CR S44"/></action>
+		<calendar date="1231304400" datetime="2009-01-07" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Economics and public finance"/>
+		<term name="Economic performance and conditions"/>
+		<term name="Employment and training programs"/>
+		<term name="Energy storage, supplies, demand"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Higher education"/>
+		<term name="Income tax rates"/>
+		<term name="Infrastructure development"/>
+		<term name="Poverty and welfare assistance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>American Recovery and Reinvestment Act of 2009 - Calls for the enactment of legislation to create jobs, restore economic growth, and strengthen America's middle class through measures that: (1) modernize the nation's infrastructure; (2) enhance America's energy independence; (3) expand educational opportunities; (4) preserve and improve affordable health care; (5) provide tax relief; and (6) protect those in greatest need. 
+	</summary>
+</bill>

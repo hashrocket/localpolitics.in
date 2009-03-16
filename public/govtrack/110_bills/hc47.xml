@@ -1,0 +1,47 @@
+<bill session="110" type="hc" number="47" updated="2009-01-08T15:32:36-05:00">
+	<status><vote2 date="1172725200" datetime="2007-03-01" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1170133200" datetime="2007-01-30"/>
+	<titles>
+		<title type="official" as="introduced">Supporting the goals and ideals of a National Medal of Honor Day to celebrate and honor the recipients of the Medal of Honor.</title>
+	</titles>
+	<sponsor id="400377"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2007-01-30"/>
+		<cosponsor id="400191" joined="2007-01-30"/>
+		<cosponsor id="400620" joined="2007-02-27"/>
+		<cosponsor id="400109" joined="2007-01-30"/>
+		<cosponsor id="400172" joined="2007-02-27"/>
+		<cosponsor id="400052" joined="2007-02-27"/>
+		<cosponsor id="400439" joined="2007-02-05"/>
+		<cosponsor id="400056" joined="2007-02-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1170133200" datetime="2007-01-30"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1172466000" datetime="2007-02-26"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+		<action date="1172599920" datetime="2007-02-27T14:12:00-05:00"><text>Mr. Skelton moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1172599980" datetime="2007-02-27T14:13:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1900-1903"/></action>
+		<action date="1172599980" datetime="2007-02-27T14:13:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 47.</text></action>
+		<action date="1172600940" datetime="2007-02-27T14:29:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1172615580" datetime="2007-02-27T18:33:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1931"/></action>
+		<vote date="1172617320" how="roll" roll="103" datetime="2007-02-27T19:02:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 103).</text><reference label="text" ref="CR H1900"/></vote>
+		<action date="1172638800" datetime="2007-02-28"><text>Received in the Senate.</text></action>
+		<vote date="1172725200" how="by Unanimous Consent" datetime="2007-03-01" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S2541"/></vote>
+		<action date="1172811600" datetime="2007-03-02"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/1/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the: (1) heroism and sacrifice of Medal of Honor recipients; and (2) educational opportunity that a National Medal of Honor Day would present to the American public. Supports the goals and ideals of such a Day to celebrate and honor the contributions of such recipients.<br/>
+	</summary>
+</bill>

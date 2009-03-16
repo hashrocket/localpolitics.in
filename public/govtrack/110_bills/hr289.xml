@@ -1,0 +1,51 @@
+<bill session="110" type="hr" number="289" updated="2009-01-09T08:29:12-05:00">
+	<status><vote date="1177437600" datetime="2007-04-24T15:00:00-04:00" where="h" result="pass" how="roll" roll="251"/></status>
+
+	<introduced date="1175140800" datetime="2007-03-29"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives with respect to raising awareness and encouraging prevention of sexual assault in the United States and supporting the goals and ideals of National Sexual Assault Awareness and Prevention Month.</title>
+	</titles>
+	<sponsor id="400283"/>
+	<cosponsors>
+		<cosponsor id="400289" joined="2007-04-16"/>
+		<cosponsor id="400618" joined="2007-04-16"/>
+		<cosponsor id="400162" joined="2007-04-16"/>
+		<cosponsor id="400282" joined="2007-04-16"/>
+		<cosponsor id="400274" joined="2007-03-29"/>
+		<cosponsor id="400652" joined="2007-04-16"/>
+		<cosponsor id="400355" joined="2007-04-23"/>
+		<cosponsor id="400245" joined="2007-04-16"/>
+		<cosponsor id="400663" joined="2007-04-16"/>
+		<cosponsor id="400103" joined="2007-03-29"/>
+		<cosponsor id="400140" joined="2007-03-29"/>
+		<cosponsor id="400251" joined="2007-04-16"/>
+		<cosponsor id="400043" joined="2007-04-16"/>
+		<cosponsor id="400238" joined="2007-04-23"/>
+		<cosponsor id="400062" joined="2007-03-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1175140800" datetime="2007-03-29"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1177041600" datetime="2007-04-20"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+		<action date="1177351380" datetime="2007-04-23T15:03:00-04:00"><text>Mr. Scott (VA) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1177351440" datetime="2007-04-23T15:04:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3735-3737"/></action>
+		<action date="1177351440" datetime="2007-04-23T15:04:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 289.</text></action>
+		<action date="1177352280" datetime="2007-04-23T15:18:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1177437120" datetime="2007-04-24T14:52:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3805"/></action>
+		<vote date="1177437600" how="roll" roll="251" datetime="2007-04-24T15:00:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 251). (text: CR 4/23/2007 H3738)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/24/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Expresses the sense of the House of Representatives with respect to National Sexual Assault Awareness and Prevention Month and supports the goals and ideals of such Month. Urges national and community organizations, private businesses, colleges and universities, and the media to promote, through such Month, awareness of sexual violence and strategies to decrease the incidence of sexual assault. 
+	</summary>
+</bill>

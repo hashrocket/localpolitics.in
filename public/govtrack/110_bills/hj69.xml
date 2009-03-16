@@ -1,0 +1,50 @@
+<bill session="110" type="hj" number="69" updated="2009-01-08T16:36:04-05:00">
+	<status><enacted date="1197608400" datetime="2007-12-14" /></status>
+
+	<introduced date="1197435600" datetime="2007-12-12"/>
+	<titles>
+		<title type="official" as="introduced">Making further continuing appropriations for the fiscal year 2008, and for other purposes.</title>
+	</titles>
+	<sponsor id="400300"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1197435600" datetime="2007-12-12"><text>Referred to the House Committee on Appropriations.</text></action>
+		<action date="1197501060" datetime="2007-12-12T19:11:00-05:00"><text>Rules Committee Resolution H. Res. 869 Reported to House. Rule provides for consideration of H.J. Res. 69 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.</text></action>
+		<action date="1197558540" datetime="2007-12-13T11:09:00-05:00"><text>Rule H. Res. 869 passed House.</text></action>
+		<action date="1197566880" datetime="2007-12-13T13:28:00-05:00"><text>Considered under the provisions of rule H. Res. 869.</text><reference label="consideration" ref="CR H15438-15440, H15442-15443"/></action>
+		<action date="1197566880" datetime="2007-12-13T13:28:00-05:00"><text>Rule provides for consideration of H.J. Res. 69 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.</text></action>
+		<action date="1197566940" datetime="2007-12-13T13:29:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H.J. Res. 69.</text></action>
+		<action date="1197567900" datetime="2007-12-13T13:45:00-05:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H15439"/></action>
+		<action date="1197567960" datetime="2007-12-13T13:46:00-05:00"><text>Mr. Lewis (CA) moved to recommit with instructions to Appropriations.</text><reference label="consideration" ref="CR H15439"/><reference label="text" ref="CR H15439"/></action>
+		<action date="1197568020" datetime="2007-12-13T13:47:00-05:00"><text>Point of order sustained against the motion to recommit with instructions.</text></action>
+		<action date="1197568020" datetime="2007-12-13T13:47:00-05:00"><text>Mr. Obey raised a point of order against the motion to recommit with instructions. Mr. Obey stated that the provisions of the Lewis (CA) motion to recommit with instructions was non-germane to the joint resolution. Sustained by the Chair.</text></action>
+		<action date="1197568200" datetime="2007-12-13T13:50:00-05:00"><text>Mr. Lewis (CA) appealed the ruling of the chair. The question was then put on sustaining the ruling of the chair.</text></action>
+		<action date="1197568200" datetime="2007-12-13T13:50:00-05:00"><text>Mr. Obey moved to table the motion to appeal the ruling of the chair</text><reference label="consideration" ref="CR H15440"/></action>
+		<action date="1197569460" datetime="2007-12-13T14:11:00-05:00"><text>On motion to table the motion to appeal the ruling of the chair Agreed to by the Yeas and Nays: 222 - 194 (Roll no. 1161).</text></action>
+		<action date="1197570180" datetime="2007-12-13T14:23:00-05:00"><text>Considered as unfinished business.</text></action>
+		<vote date="1197570720" how="roll" roll="1162" datetime="2007-12-13T14:32:00-05:00" where="h" type="vote" result="pass" ><text>On passage Passed by the Yeas and Nays: 385 - 27 (Roll no. 1162).</text><reference label="text" ref="CR H15438"/></vote>
+		<vote date="1197522000" how="by Unanimous Consent" datetime="2007-12-13" where="s" type="vote2" result="pass" ><text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S15432"/></vote>
+		<action date="1197522000" datetime="2007-12-13"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1197522000" datetime="2007-12-13" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1197522000" datetime="2007-12-13" ><text>Presented to President.</text></topresident>
+		<signed date="1197608400" datetime="2007-12-14" ><text>Signed by President.</text></signed>
+		<enacted number="110-137" date="1197608400" datetime="2007-12-14" type="public" ><text>Became Public Law No: 110-137.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/14/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends Public Law 110-92 to extend through December 21, 2007, specified continuing appropriations for FY2008.<br/>
+	</summary>
+</bill>

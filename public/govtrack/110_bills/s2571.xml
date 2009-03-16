@@ -1,0 +1,43 @@
+<bill session="110" type="s" number="2571" updated="2009-01-09T17:13:05-05:00">
+	<status><enacted date="1204779600" datetime="2008-03-06" /></status>
+
+	<introduced date="1201582800" datetime="2008-01-29"/>
+	<titles>
+		<title type="official" as="introduced">A bill to make technical corrections to the Federal Insecticide, Fungicide, and Rodenticide Act.</title>
+	</titles>
+	<sponsor id="300051"/>
+	<cosponsors>
+		<cosponsor id="300021" joined="2008-01-29"/>
+	</cosponsors>
+	<actions>
+		<vote date="1201582800" how="by Unanimous Consent" datetime="2008-01-29" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S454"/><reference label="text as passed Senate" ref="CR S454"/></vote>
+		<action date="1201669200" datetime="2008-01-30"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1202321400" datetime="2008-02-06T14:10:00-05:00"><text>Received in the House.</text></action>
+		<action date="1202343780" datetime="2008-02-06T20:23:00-05:00"><text>Held at the desk.</text></action>
+		<action date="1202928840" datetime="2008-02-13T14:54:00-05:00"><text>Mr. Cardoza moved to suspend the rules and pass the bill.</text></action>
+		<action date="1202928900" datetime="2008-02-13T14:55:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H900-901"/></action>
+		<action date="1202928900" datetime="2008-02-13T14:55:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 2571.</text></action>
+		<action date="1202929200" datetime="2008-02-13T15:00:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1203015120" datetime="2008-02-14T14:52:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H965-966"/></action>
+		<vote date="1203015540" how="roll" roll="63" datetime="2008-02-14T14:59:00-05:00" where="h" type="vote2" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 63). (text: CR 2/13/2008 H900)</text></vote>
+		<topresident date="1202965200" datetime="2008-02-14" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1204174800" datetime="2008-02-28" ><text>Presented to President.</text></topresident>
+		<signed date="1204779600" datetime="2008-03-06" ><text>Signed by President.</text></signed>
+		<enacted number="110-193" date="1204779600" datetime="2008-03-06" type="public" ><text>Became Public Law No: 110-193.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/6/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Amends the Federal Insecticide, Fungicide, and Rodenticide Act to authorize the Administrator of the Environmental Protection Agency (EPA) to exempt from, or waive a portion of, the registration service fee (currently, the Administrator may waive or reduce the fee) for an application for minor uses for a pesticide.<br/>Authorizes the Administrator to exempt an application from the registration service fee (currently, the Administrator may waive the fee) if the application is solely associated with a tolerance petition submitted in connection with the Inter-Regional Project Number 4 and the exemption is in the public service. Subjects applications received before September 30, 2012 (currently, applications received before September 30, 2008) to specified decision time review periods.<br/>
+	</summary>
+</bill>

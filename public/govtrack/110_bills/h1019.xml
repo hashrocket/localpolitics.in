@@ -1,0 +1,50 @@
+<bill session="110" type="h" number="1019" updated="2009-01-08T18:57:51-05:00">
+	<status><enacted date="1216094400" datetime="2008-07-15" /></status>
+
+	<introduced date="1171342800" datetime="2007-02-13"/>
+	<titles>
+		<title type="official" as="introduced">To designate the United States customhouse building located at 31 Gonzalez Clemente Avenue in Mayaguez, Puerto Rico, as the &quot;Rafael Martinez Nadal United States Customhouse Building&quot;.</title>
+	</titles>
+	<sponsor id="400662"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1171342800" datetime="2007-02-13"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1171429200" datetime="2007-02-14"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1172725200" datetime="2007-03-01"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1172725200" datetime="2007-03-01" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1172725200" datetime="2007-03-01"><text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text></action>
+		<action date="1174929300" datetime="2007-03-26T14:15:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 110-70.</text></action>
+		<calendar number="30" date="1174929300" datetime="2007-03-26T14:15:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 30.</text></calendar>
+		<action date="1174929480" datetime="2007-03-26T14:18:00-04:00"><text>Mr. Cohen moved to suspend the rules and pass the bill.</text></action>
+		<action date="1174929480" datetime="2007-03-26T14:18:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3022-3023"/></action>
+		<action date="1174929480" datetime="2007-03-26T14:18:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1019.</text></action>
+		<vote date="1174929720" how="by voice vote" datetime="2007-03-26T14:22:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H3022"/></vote>
+		<action date="1174968000" datetime="2007-03-27"><text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar date="1211342400" datetime="2008-05-21" ><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1212552000" datetime="2008-06-04"><text>Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="764" date="1212552000" datetime="2008-06-04" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 764.</text></calendar>
+		<vote date="1214280000" how="by Unanimous Consent" datetime="2008-06-24" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6080-6081"/></vote>
+		<topresident date="1214280000" datetime="2008-06-24" ><text>Cleared for White House.</text></topresident>
+		<action date="1214366400" datetime="2008-06-25"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1215403200" datetime="2008-07-07" ><text>Presented to President.</text></topresident>
+		<signed date="1216094400" datetime="2008-07-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-276" date="1216094400" datetime="2008-07-15" type="public" ><text>Became Public Law No: 110-276.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/15/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the U.S. customhouse building located at 31 Gonzalez Clemente Avenue in Mayaguez, Puerto Rico, as the “Rafael Mart&amp;iacute;nez Nadal United States Customhouse Building.”<br/>
+	</summary>
+</bill>

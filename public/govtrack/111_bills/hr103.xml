@@ -1,0 +1,42 @@
+<bill session="111" type="hr" number="103" updated="2009-03-07T13:18:10-05:00">
+	<status><vote date="1233702420" datetime="2009-02-03T19:07:00-05:00" where="h" result="pass" how="roll" roll="48"/></status>
+
+	<introduced date="1233637200" datetime="2009-02-03"/>
+	<titles>
+		<title type="official" as="introduced">Supporting the goals and ideals of National Teen Dating Violence Awareness and Prevention Week.</title>
+	</titles>
+	<sponsor id="400240"/>
+	<cosponsors>
+		<cosponsor id="400618" joined="2009-02-03"/>
+		<cosponsor id="400237" joined="2009-02-03"/>
+		<cosponsor id="400282" joined="2009-02-03"/>
+		<cosponsor id="400195" joined="2009-02-03"/>
+		<cosponsor id="400333" joined="2009-02-03"/>
+		<cosponsor id="400652" joined="2009-02-03"/>
+		<cosponsor id="400639" joined="2009-02-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1233688920" datetime="2009-02-03T15:22:00-05:00"><text>Mr. Scott (VA) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1233688920" datetime="2009-02-03T15:22:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H890-893"/></action>
+		<action date="1233688920" datetime="2009-02-03T15:22:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 103.</text></action>
+		<action date="1233690480" datetime="2009-02-03T15:48:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1233701880" datetime="2009-02-03T18:58:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H907"/></action>
+		<vote date="1233702420" how="roll" roll="48" datetime="2009-02-03T19:07:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 48).</text><reference label="text" ref="CR H890"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="102" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Expresses support for: (1) the goals and ideals of National Teen Dating Violence Awareness and Prevention Week to raise awareness of teen dating violence in the nation; and (2) a reexamination of the nation's criminal and civil laws regarding teen dating violence to ensure that such laws create an effective deterrent.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="735" updated="2009-03-07T11:14:21-05:00">
+	<status><introduced date="1233118800" datetime="2009-01-28"/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="short" as="introduced">Rangel Rule Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide that penalties and interest will not be imposed on individuals who are citizens of the United States.</title>
+	</titles>
+	<sponsor id="400068"/>
+	<cosponsors>
+		<cosponsor id="400627" joined="2009-02-09"/>
+		<cosponsor id="400220" joined="2009-02-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Sponsor introductory remarks on measure. (CR E770-776)</text></action>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Interest and interest rates"/>
+		<term name="Tax administration and collection, taxpayers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/2009--Introduced.<br/>Rangel Rule Act of 2009 - Amends the Internal Revenue Code to exempt any U.S. citizen who writes &quot;Rangel Rule&quot; on the top of the first page of his or her income tax return from interest on unpaid taxes, penalties, additions to tax, or additional amounts.<br/>
+	</summary>
+</bill>

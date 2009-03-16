@@ -1,0 +1,33 @@
+<bill session="111" type="s" number="531" updated="2009-03-11T12:04:30-04:00">
+	<status><introduced date="1236229200" datetime="2009-03-05"/></status>
+
+	<introduced date="1236229200" datetime="2009-03-05"/>
+	<titles>
+		<title type="short" as="introduced">Energy and Water Integration Act of 2009</title>
+		<title type="official" as="introduced">A bill to provide for the conduct of an in-depth analysis of the impact of energy development and production on the water resources of the United States, and for other purposes.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+		<cosponsor id="300075" joined="2009-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1236229200" datetime="2009-03-05"><text>Sponsor introductory remarks on measure. (CR S2830-2831)</text></action>
+		<action date="1236229200" datetime="2009-03-05"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text><reference label="text of measure as introduced" ref="CR S2831-2832"/></action>
+		<action date="1236657600" datetime="2009-03-10"><text>Committee on Energy and Natural Resources. Hearings held.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Energy and Natural Resources" subcommittee="" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

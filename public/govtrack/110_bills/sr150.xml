@@ -1,0 +1,40 @@
+<bill session="110" type="sr" number="150" updated="2009-01-09T20:17:07-05:00">
+	<status><vote date="1178078400" datetime="2007-05-02" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1176782400" datetime="2007-04-17"/>
+	<titles>
+		<title type="official" as="introduced">A resolution expressing the sense of the Senate that public servants should be commended for their dedication and continued service to the Nation during Public Service Recognition Week, May 7 through 13, 2007.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="2007-04-17"/>
+		<cosponsor id="300025" joined="2007-04-17"/>
+		<cosponsor id="300098" joined="2007-04-17"/>
+		<cosponsor id="300066" joined="2007-04-17"/>
+		<cosponsor id="300019" joined="2007-04-17"/>
+		<cosponsor id="300067" joined="2007-04-17"/>
+		<cosponsor id="300099" joined="2007-04-17"/>
+		<cosponsor id="300064" joined="2007-04-17"/>
+	</cosponsors>
+	<actions>
+		<action date="1176782400" datetime="2007-04-17"><text>Sponsor introductory remarks on measure. (CR S4617-4618)</text></action>
+		<action date="1176782400" datetime="2007-04-17"><text>Referred to the Committee on Homeland Security and Governmental Affairs.</text><reference label="text of measure as introduced" ref="CR S4617"/></action>
+		<action date="1178078400" datetime="2007-05-02"><text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S5523-5524"/></action>
+		<vote date="1178078400" how="by Unanimous Consent" datetime="2007-05-02" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S5523-5524"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/2/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)<br/>Commends public servants for their outstanding contributions to the nation during Public Service Recognition Week and throughout the year. Urges a new generation to consider a career in public service as an honorable profession. Encourages efforts to promote public service careers.<br/>
+	</summary>
+</bill>

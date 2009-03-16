@@ -1,0 +1,36 @@
+<bill session="111" type="hr" number="2" updated="2009-03-07T12:53:43-05:00">
+	<status><vote date="1231266660" datetime="2009-01-06T14:31:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To inform the Senate that a quorum of the House has assembled and of the election of the Speaker and the Clerk.</title>
+	</titles>
+	<sponsor id="400189"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231266600" datetime="2009-01-06T14:30:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H6"/></action>
+		<vote date="1231266660" how="by voice vote" datetime="2009-01-06T14:31:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H6"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional leadership"/>
+		<term name="Congressional officers and employees"/>
+		<term name="House of Representatives"/>
+		<term name="Members of Congress"/>
+		<term name="Senate"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Informs the Senate that Nancy Pelosi has been elected Speaker of the House and that Lorraine C. Miller has been elected Clerk.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="111" type="h" number="403" updated="2009-03-07T10:35:05-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Homes for Heroes Act of 2009</title>
+		<title type="official" as="introduced">To provide housing assistance for very low-income veterans.</title>
+	</titles>
+	<sponsor id="400653"/>
+	<cosponsors>
+		<cosponsor id="400274" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the Committee on Financial Services, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to House Financial Services</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to House Ways and Means</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Department of Housing and Urban Development"/>
+		<term name="Energy efficiency and conservation"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Housing and community development funding"/>
+		<term name="Housing industry, construction, standards"/>
+		<term name="Housing supply and affordability"/>
+		<term name="Low- and moderate-income housing"/>
+		<term name="Poverty and welfare assistance"/>
+		<term name="Public housing"/>
+		<term name="Residential rehabilitation and home repair"/>
+		<term name="Veterans' loans, housing, homeless programs"/>
+		<term name="Wages and earnings"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

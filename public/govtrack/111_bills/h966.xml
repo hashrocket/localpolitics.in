@@ -1,0 +1,32 @@
+<bill session="111" type="h" number="966" updated="2009-03-07T11:41:55-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="official" as="introduced">To require certain air carriers of foreign air transportation to disclose the nature and source of delays and cancellations experienced by air travelers.</title>
+	</titles>
+	<sponsor id="412010"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the Subcommittee on Aviation.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

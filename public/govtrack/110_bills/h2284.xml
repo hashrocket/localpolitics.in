@@ -1,0 +1,53 @@
+<bill session="110" type="h" number="2284" updated="2009-01-08T21:37:24-05:00">
+	<status><vote date="1182397440" datetime="2007-06-20T12:44:00-04:00" where="h" result="pass" how="roll" roll="515"/></status>
+
+	<introduced date="1178769600" datetime="2007-05-10"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Small Business Act to expand and improve the assistance provided by Small Business Development Centers to Indian tribe members, Alaska Natives, and Native Hawaiians.</title>
+	</titles>
+	<sponsor id="400413"/>
+	<cosponsors>
+		<cosponsor id="400162" joined="2007-05-10"/>
+		<cosponsor id="400336" joined="2007-05-10"/>
+		<cosponsor id="400282" joined="2007-05-10"/>
+		<cosponsor id="400443" joined="2007-05-10"/>
+		<cosponsor id="400274" joined="2007-05-10"/>
+		<cosponsor id="412208" joined="2007-05-23"/>
+		<cosponsor id="400437" joined="2007-05-10"/>
+		<cosponsor id="400001" joined="2007-05-10"/>
+		<cosponsor id="400259" joined="2007-05-10"/>
+		<cosponsor id="400185" joined="2007-05-10"/>
+		<cosponsor id="400283" joined="2007-05-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1178769600" datetime="2007-05-10"><text>Referred to the House Committee on Small Business.</text></action>
+		<action date="1178856000" datetime="2007-05-11"><text>Sponsor introductory remarks on measure. (CR E1023)</text></action>
+		<action date="1179892800" datetime="2007-05-23"><text>Committee Hearings Held.</text></action>
+		<action date="1179892800" datetime="2007-05-23"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1179892800" datetime="2007-05-23" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1181943360" datetime="2007-06-15T18:36:00-04:00"><text>Reported by the Committee on Small Business. H. Rept. 110-192.</text></action>
+		<calendar number="113" date="1181943480" datetime="2007-06-15T18:38:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 113.</text></calendar>
+		<action date="1182203220" datetime="2007-06-18T18:47:00-04:00"><text>Ms. Velazquez moved to suspend the rules and pass the bill.</text></action>
+		<action date="1182203220" datetime="2007-06-18T18:47:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6624-6627"/></action>
+		<action date="1182203220" datetime="2007-06-18T18:47:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2284.</text></action>
+		<action date="1182203340" datetime="2007-06-18T18:49:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1182396960" datetime="2007-06-20T12:36:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6756"/></action>
+		<vote date="1182397440" how="roll" roll="515" datetime="2007-06-20T12:44:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 351 - 73 (Roll no. 515). (text: CR 6/18/2007 H6625)</text></vote>
+		<action date="1182398400" datetime="2007-06-21"><text>Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/20/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) Amends the Small Business Act to authorize a Small Business Development Center in an eligible state to apply for an additional grant to be used solely to provide services to assist with outreach, development, and enhancement on Indian lands of small business startups and expansions owned by Indian tribe members, Alaskan Natives, and Native Hawaiians. Defines an &quot;eligible state&quot; as a state that has a combined population of Indian tribe members, Alaska Natives, and Native Hawaiians that comprises at least 1% of the state's total population. Prohibits any applicant from receiving more than $300,000 in such grants for one fiscal year. Authorizes appropriations for carrying out such additional assistance for FY2008-FY2010. Requires a Small Business Development Center receiving such a grant to request the advice of the local tribal organization on how best to provide assistance and where to locate satellite centers to provide such assistance. 
+	</summary>
+</bill>

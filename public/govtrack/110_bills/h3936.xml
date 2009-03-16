@@ -1,0 +1,60 @@
+<bill session="110" type="h" number="3936" updated="2009-01-09T01:05:26-05:00">
+	<status><enacted date="1210132800" datetime="2008-05-07" /></status>
+
+	<introduced date="1193112000" datetime="2007-10-23"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 116 Helen Highway in Cleveland, Georgia, as the &quot;Sgt. Jason Harkins Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400099"/>
+	<cosponsors>
+		<cosponsor id="400627" joined="2008-01-17"/>
+		<cosponsor id="412252" joined="2008-01-17"/>
+		<cosponsor id="400626" joined="2008-01-17"/>
+		<cosponsor id="400242" joined="2008-01-17"/>
+		<cosponsor id="400151" joined="2008-01-17"/>
+		<cosponsor id="400254" joined="2008-01-17"/>
+		<cosponsor id="400030" joined="2008-01-17"/>
+		<cosponsor id="412199" joined="2008-01-17"/>
+		<cosponsor id="400628" joined="2008-01-17"/>
+		<cosponsor id="400221" joined="2008-01-17"/>
+		<cosponsor id="400240" joined="2008-01-17"/>
+		<cosponsor id="400363" joined="2008-01-17"/>
+	</cosponsors>
+	<actions>
+		<action date="1193112000" datetime="2007-10-23"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1201582800" datetime="2008-01-29"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1201582800" datetime="2008-01-29" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1204209300" datetime="2008-02-28T10:35:00-05:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1204209300" datetime="2008-02-28T10:35:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1161-1162"/></action>
+		<action date="1204209300" datetime="2008-02-28T10:35:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3936.</text></action>
+		<action date="1204209720" datetime="2008-02-28T10:42:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1204213140" datetime="2008-02-28T11:39:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1166-1167"/></action>
+		<vote date="1204213560" how="roll" roll="86" datetime="2008-02-28T11:46:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 86).</text><reference label="text" ref="CR H1161"/></vote>
+		<action date="1204174800" datetime="2008-02-28"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1206676800" datetime="2008-03-28"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+		<calendar date="1207800000" datetime="2008-04-10" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1207800000" datetime="2008-04-10"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="686" date="1207800000" datetime="2008-04-10" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 686.</text></calendar>
+		<vote date="1208836800" how="by Unanimous Consent" datetime="2008-04-22" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S3269-3270"/></vote>
+		<topresident date="1208836800" datetime="2008-04-22" ><text>Cleared for White House.</text></topresident>
+		<action date="1208923200" datetime="2008-04-23"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1209614400" datetime="2008-05-01" ><text>Presented to President.</text></topresident>
+		<signed date="1210132800" datetime="2008-05-07" ><text>Signed by President.</text></signed>
+		<enacted number="110-215" date="1210132800" datetime="2008-05-07" type="public" ><text>Became Public Law No: 110-215.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/7/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 116 Helen Highway in Cleveland, Georgia, as the &quot;Sgt. Jason Harkins Post Office Building.&quot; 
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="110" type="s" number="2511" updated="2009-01-09T17:05:32-05:00">
+	<status><calendar date="1210824000" datetime="2008-05-15" /></status>
+
+	<introduced date="1197954000" datetime="2007-12-18"/>
+	<titles>
+		<title type="short" as="reported to senate">Bulletproof Vest Partnership Grant Act of 2008</title>
+		<title type="official" as="introduced">A bill to amend the grant program for law enforcement armor vests to provide for a waiver of or reduction in the matching funds requirement in the case of fiscal hardship.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="400064" joined="2008-05-08"/>
+		<cosponsor id="300008" joined="2008-08-01"/>
+		<cosponsor id="300038" joined="2008-05-12"/>
+		<cosponsor id="300073" joined="2007-12-18"/>
+		<cosponsor id="300022" joined="2007-12-18"/>
+		<cosponsor id="300089" joined="2007-12-18"/>
+		<cosponsor id="300063" joined="2007-12-18"/>
+		<cosponsor id="400629" joined="2008-05-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1197954000" datetime="2007-12-18"><text>Sponsor introductory remarks on measure. (CR S15921)</text></action>
+		<action date="1197954000" datetime="2007-12-18"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S15921"/></action>
+		<calendar date="1210824000" datetime="2008-05-15" ><text>Committee on the Judiciary. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action date="1210824000" datetime="2008-05-15"><text>Committee on the Judiciary. Reported by Senator Leahy with an amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="737" date="1210824000" datetime="2008-05-15" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 737.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/15/2008--Reported to Senate amended. Amends the Omnibus Crime Control and Safe Streets Act of 1968 to authorize the Director of the Bureau of Justice Assistance to waive matching fund requirements applicable to the grant program for the purchase of armor vests for law enforcement officers in the case of fiscal hardship.<br/>Bulletproof Vest Partnership Grant Act of 2008 - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to extend such program through FY2012.<br/>
+	</summary>
+</bill>

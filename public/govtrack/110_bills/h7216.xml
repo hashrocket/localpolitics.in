@@ -1,0 +1,35 @@
+<bill session="110" type="h" number="7216" updated="2009-01-09T07:39:48-05:00">
+	<status><vote date="1222710540" datetime="2008-09-29T14:49:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1222660800" datetime="2008-09-29"/>
+	<titles>
+		<title type="official" as="introduced">To amend section 3328 of title 5, United States Code, relating to Selective Service registration.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+		<cosponsor id="400196" joined="2008-09-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1222660800" datetime="2008-09-29"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1222710480" datetime="2008-09-29T14:48:00-04:00"><text>Mr. Towns asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1222710480" datetime="2008-09-29T14:48:00-04:00"><text>Committee on Oversight and Government discharged.</text></action>
+		<action date="1222710480" datetime="2008-09-29T14:48:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H10625-10626"/></action>
+		<vote date="1222710540" how="without objection" datetime="2008-09-29T14:49:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H10625-10626"/></vote>
+		<action date="1222747200" datetime="2008-09-30"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

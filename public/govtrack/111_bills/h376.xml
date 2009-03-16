@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="376" updated="2009-03-07T10:31:40-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">McGee Creek Project Pipeline and Associated Facilities Conveyance Act</title>
+		<title type="official" as="introduced">To authorize the Secretary of the Interior to convey to the McGee Creek Authority certain facilities of the McGee Creek Project, Oklahoma, and for other purposes.</title>
+	</titles>
+	<sponsor id="412230"/>
+	<cosponsors>
+		<cosponsor id="400645" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on Water and Power.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Water and Power" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="192" />
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Land transfers"/>
+		<term name="Oklahoma"/>
+		<term name="Pipelines"/>
+		<term name="Water use and supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>McGee Creek Project Pipeline and Associated Facilities Conveyance Act - Authorizes the Secretary of the Interior to convey to the McGee Creek Authority all U.S. rights to the pipeline and any associated facilities described in the Agreement Between the United States and McGee Creek Authority for the Purpose of Defining Responsibilities Related to and Implementing the Title Transfer of Certain Facilities at the McGee Creek Project, Oklahoma. Excludes the mineral estate from the conveyance. Provides that any rights and obligations under a specified contract between the Authority and the United States for the construction, operation, and maintenance of the McGee Creek Project shall remain in force. Requires the Secretary to complete any actions required under the National Environmental Policy Act of 1969, the Endangered Species Act of 1973, and the National Historic Preservation Act before such conveyance.<br/>
+	</summary>
+</bill>

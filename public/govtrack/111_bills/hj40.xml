@@ -1,0 +1,31 @@
+<bill session="111" type="hj" number="40" updated="2009-03-13T12:10:03-04:00">
+	<status><introduced date="1236830400" datetime="2009-03-12"/></status>
+
+	<introduced date="1236830400" datetime="2009-03-12"/>
+	<titles>
+		<title type="short" as="introduced">Native American Heritage Day Act of 2009</title>
+		<title type="official" as="introduced">To honor the achievements and contributions of Native Americans to the United States, and for other purposes.</title>
+	</titles>
+	<sponsor id="400009"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1236830400" datetime="2009-03-12"><text>Referred to the House Committee on Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hj" number="20" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="110" type="s" number="93" updated="2009-01-09T11:19:17-05:00">
+	<status><calendar date="1171342800" datetime="2007-02-13" /></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="short" as="introduced">911 Modernization Act</title>
+		<title type="short" as="reported to senate">911 Modernization Act</title>
+		<title type="official" as="introduced">A bill to authorize NTIA to borrow against anticipated receipts of the Digital Television and Public Safety Fund to initiate migration to a national IP-enabled emergency network capable of receiving and responding to all citizen activated emergency communications.</title>
+	</titles>
+	<sponsor id="300094"/>
+	<cosponsors>
+		<cosponsor id="300054" joined="2007-02-08"/>
+		<cosponsor id="400418" joined="2007-03-14"/>
+		<cosponsor id="300022" joined="2007-02-05"/>
+		<cosponsor id="300091" joined="2007-03-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+		<calendar date="1171342800" datetime="2007-02-13" ><text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1174881600" datetime="2007-03-26"><text>Committee on Commerce, Science, and Transportation. Reported by Senator Inouye without amendment. With written report No. 110-38.</text></action>
+		<calendar under="General Orders" number="86" date="1174881600" datetime="2007-03-26" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 86.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/26/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) 911 Modernization Act - Amends the Digital Television Transition and Public Safety Act of 2005 to authorize the Assistant Secretary of Commerce for Communications and Information to borrow from the treasury to make payments to implement the ENHANCE 911 Act of 2004. Requires repayment, without interest, as funds are deposited into the Digital Television Transition and Public Safety Fund. Amends the National Telecommunications and Information Administration Organization Act to require the Assistant Secretary and the Administrator of the National Highway Traffic Safety Administration to jointly issue regulations updating the criteria to provide priority for public safety answering points not capable of receiving 911 calls.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="111" type="h" number="452" updated="2009-03-07T10:40:48-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make the child credit refundable for 5 years.</title>
+	</titles>
+	<sponsor id="412316"/>
+	<cosponsors>
+		<cosponsor id="412327" joined="2009-01-09"/>
+		<cosponsor id="412281" joined="2009-01-09"/>
+		<cosponsor id="412293" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax credits"/>
+		<term name="Tax treatment of families"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Amends the Internal Revenue Code to provide for the refundability of the child tax credit in taxable years beginning in 2009 through 2013 and to render certain limits on such credit inapplicable during that period.<br/>
+	</summary>
+</bill>

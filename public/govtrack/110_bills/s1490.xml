@@ -1,0 +1,33 @@
+<bill session="110" type="s" number="1490" updated="2009-01-09T14:54:24-05:00">
+	<status><introduced date="1179979200" datetime="2007-05-24"/></status>
+
+	<introduced date="1179979200" datetime="2007-05-24"/>
+	<titles>
+		<title type="short" as="introduced">Federal Employees Electronic Personal Health Records Act of 2007</title>
+		<title type="official" as="introduced">A bill to provide for the establishment and maintenance of electronic personal health records for individuals and family members enrolled in Federal employee health benefits plans under chapter 89 of title 5, United States Code, and for other purposes.</title>
+	</titles>
+	<sponsor id="300019"/>
+	<cosponsors>
+		<cosponsor id="300098" joined="2007-05-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1179979200" datetime="2007-05-24"><text>Sponsor introductory remarks on measure. (CR S6858)</text></action>
+		<action date="1179979200" datetime="2007-05-24"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text><reference label="text of measure as introduced" ref="CR S6858-6859"/></action>
+		<action date="1181102400" datetime="2007-06-06"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/24/2007--Introduced.<br/>Federal Employees Electronic Personal Health Records Act of 2007 - Amends federal civil service law to require each contract between the Office of Personnel Management (OPM) and a qualified carrier offering a health benefit plan for federal employees to provide for establishment and maintenance of electronic personal health records for each individual and family member enrolled in the plan. Requires such records to be: (1) in a standard electronic format, available for electronic access through the Internet; and (2) based on the federal messaging and health vocabulary standards endorsed by the Office of the National Coordinator for Health Information Technology, the American Health Information Community, or the Secretary of Health and Human Services.<br/>
+	</summary>
+</bill>

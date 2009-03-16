@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="162" updated="2009-03-07T10:06:56-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Senior Citizens Tax Elimination Act</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the inclusion in gross income of Social Security benefits.</title>
+	</titles>
+	<sponsor id="400311"/>
+	<cosponsors>
+		<cosponsor id="400017" joined="2009-01-06"/>
+		<cosponsor id="400145" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Appropriations"/>
+		<term name="Employee benefits and pensions"/>
+		<term name="Government trust funds"/>
+		<term name="Income tax exclusion"/>
+		<term name="Income tax rates"/>
+		<term name="Railroads"/>
+		<term name="Social security and elderly assistance"/>
+		<term name="Transportation employees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Senior Citizens Tax Elimination Act - Amends the Internal Revenue Code to repeal the inclusion of any social security or tier I railroad retirement benefits in gross income. Appropriates funds to cover reductions in transfers to the Social Security and Railroad Retirement Trust Funds resulting from the enactment of this Act. Expresses the sense of Congress against using tax increases to provide revenue necessary to carry out this Act. 
+	</summary>
+</bill>

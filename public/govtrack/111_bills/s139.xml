@@ -1,0 +1,41 @@
+<bill session="111" type="s" number="139" updated="2009-03-07T13:48:51-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Data Breach Notification Act</title>
+		<title type="official" as="introduced">A bill to require Federal agencies, and persons engaged in interstate commerce, in possession of data containing sensitive personally identifiable information, to disclose any breach of such information.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR S116-117)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S117-119"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Bank accounts, deposits, capital"/>
+		<term name="Civil actions and liability"/>
+		<term name="Consumer credit"/>
+		<term name="Fraud offenses"/>
+		<term name="Government information and archives"/>
+		<term name="Intelligence activities, surveillance, classified information"/>
+		<term name="Right of privacy"/>
+		<term name="Social security and elderly assistance"/>
+		<term name="Visas and passports"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Data Breach Notification Act - Requires any federal agency or business entity engaged in interstate commerce that uses, accesses, or collects sensitive personally identifiable information, following the discovery of a security breach, to notify: (1) any U.S. resident whose information may have been accessed or acquired; and (2) the owner or licensee of any such information that the agency or business does not own or license.<br/>Exempts: (1) agencies and business entities from notification requirements for national security and law enforcement purposes and for security breaches that a risk assessment concludes do not have a significant risk of resulting in harm if specified certification or notice is provided, subject to review by the Secret Service; and (2) business entities which utilize a security program that blocks the use of sensitive personally identifiable information and provide notice of a breach to affected individuals. Requires notifications regarding security breaches under specified circumstances to the Secret Service, the Federal Bureau of Investigation (FBI), the Postal Inspection Service, and state attorneys general.<br/>Authorizes the Attorney General to bring a civil action in U.S. district court against any business entity that violates this Act. Sets civil penalties for violations.<br/>Amends the Fair Credit Reporting Act to require agencies to include a fraud alert in the file of a consumer that submits evidence of compromised financial information to a consumer reporting agency.<br/>Authorizes: (1) civil actions by state attorneys general to enforce this Act; and (2) appropriations for costs incurred by the Secret Service to investigate and conduct risk assessments of security breaches.<br/>
+	</summary>
+</bill>

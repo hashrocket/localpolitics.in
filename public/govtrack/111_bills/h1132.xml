@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="1132" updated="2009-03-07T12:03:30-05:00">
+	<status><introduced date="1235365200" datetime="2009-02-23"/></status>
+
+	<introduced date="1235365200" datetime="2009-02-23"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend and modify the railroad track maintenance credit.</title>
+	</titles>
+	<sponsor id="400323"/>
+	<cosponsors>
+		<cosponsor id="400627" joined="2009-03-05"/>
+		<cosponsor id="400133" joined="2009-03-05"/>
+		<cosponsor id="400209" joined="2009-03-05"/>
+		<cosponsor id="400251" joined="2009-03-05"/>
+		<cosponsor id="400284" joined="2009-02-23"/>
+		<cosponsor id="400247" joined="2009-03-05"/>
+		<cosponsor id="400244" joined="2009-03-05"/>
+		<cosponsor id="400049" joined="2009-03-05"/>
+		<cosponsor id="400040" joined="2009-03-05"/>
+		<cosponsor id="400274" joined="2009-03-05"/>
+		<cosponsor id="400182" joined="2009-03-05"/>
+		<cosponsor id="400431" joined="2009-03-05"/>
+		<cosponsor id="400301" joined="2009-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1235365200" datetime="2009-02-23"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="s" number="461" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="111" type="h" number="187" updated="2009-03-07T10:09:48-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Baseball Diplomacy Act</title>
+		<title type="official" as="introduced">To waive certain prohibitions with respect to nationals of Cuba coming to the United States to play organized professional baseball.</title>
+	</titles>
+	<sponsor id="400366"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Foreign Affairs</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Judiciary</text></action>
+		<action date="1234155600" datetime="2009-02-09"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Foreign Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Athletes"/>
+		<term name="Caribbean area"/>
+		<term name="Cuba"/>
+		<term name="Foreign aid and international relief"/>
+		<term name="Foreign labor"/>
+		<term name="Immigration status and procedures"/>
+		<term name="Latin America"/>
+		<term name="Professional sports"/>
+		<term name="Sanctions"/>
+		<term name="Trade restrictions"/>
+		<term name="Travel and tourism"/>
+		<term name="Visas and passports"/>
+		<term name="Wages and earnings"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Baseball Diplomacy Act - Waives certain foreign assistance and trade and travel prohibitions against Cuba under specified federal law regarding Cuban nationals who: (1) enter the United States on a visa to play organized professional baseball; and (2) return to Cuba with their baseball earnings. States that such visa shall be valid only for the duration of the season and need not be renewed as long as the player remains with the same team. Prohibits the President from denying visas to such nationals based upon authority under the Immigration and Nationality Act to restrict any entry of aliens or class of aliens that would be detrimental to U.S. interests. Declares that this Act shall not be affected by the economic embargo requirements against Cuba under the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996. 
+	</summary>
+</bill>

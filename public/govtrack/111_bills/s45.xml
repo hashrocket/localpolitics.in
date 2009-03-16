@@ -1,0 +1,52 @@
+<bill session="111" type="s" number="45" updated="2009-03-07T13:37:33-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">MCAP Act</title>
+		<title type="short" as="introduced">Medical Care Access Protection Act of 2009</title>
+		<title type="official" as="introduced">A bill to improve patient access to health care services and provide improved medical care by reducing the excessive burden the liability system places on the health care delivery system.</title>
+	</titles>
+	<sponsor id="300040"/>
+	<cosponsors>
+		<cosponsor id="400576" joined="2009-01-06"/>
+		<cosponsor id="300002" joined="2009-01-07"/>
+		<cosponsor id="400418" joined="2009-01-06"/>
+		<cosponsor id="300055" joined="2009-01-06"/>
+		<cosponsor id="300027" joined="2009-01-06"/>
+		<cosponsor id="400105" joined="2009-01-07"/>
+		<cosponsor id="300098" joined="2009-01-06"/>
+		<cosponsor id="300088" joined="2009-01-22"/>
+		<cosponsor id="400054" joined="2009-01-06"/>
+		<cosponsor id="300049" joined="2009-01-06"/>
+		<cosponsor id="300072" joined="2009-01-06"/>
+		<cosponsor id="400546" joined="2009-01-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Law"/>
+		<term name="Alternative dispute resolution, mediation, arbitration"/>
+		<term name="Civil actions and liability"/>
+		<term name="Evidence and witnesses"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Health care quality"/>
+		<term name="Health personnel"/>
+		<term name="Health technology, devices, supplies"/>
+		<term name="Product safety and quality"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Medical Care Access Protection Act of 2009 or the MCAP Act - Sets forth provisions regulating lawsuits for health care liability claims related to the provision of health care services. Sets a statute of limitations of three years after the date of manifestation of injury or one year after the claimant discovers the injury, with certain exceptions. Requires a court to impose sanctions for the filing of frivolous lawsuits. Limits noneconomic damages to $250,000 from the provider or health care institution, but no more than $500,000 from multiple health care institutions. Makes each party liable only for the amount of damages directly proportional to such party's percentage of responsibility. Allows the court to restrict the payment of attorney contingency fees. Limits the fees to a decreasing percentage based on the increasing value of the amount awarded. Prescribes qualifications for expert witnesses. Requires the court to reduce damages received by the amount of collateral source benefits to which a claimant is entitled, unless the payor of such benefits has the right to reimbursement or subrogation under federal or state law. Authorizes the award of punitive damages only where: (1) it is proven by clear and convincing evidence that a person acted with malicious intent to injure the claimant or deliberately failed to avoid unnecessary injury the claimant was substantially certain to suffer; and (2) compensatory damages are awarded. Limits punitive damages to the greater of two times the amount of economic damages or $250,000. Prohibits a health care provider from being named as a party in a product liability or class action lawsuit for prescribing or dispensing a Food and Drug Administration (FDA)-approved prescription drug, biological product, or medical device for an approved indication. Provides for periodic payments of future damage awards.<br/>
+	</summary>
+</bill>

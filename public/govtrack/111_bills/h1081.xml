@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="1081" updated="2009-03-07T11:55:50-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Post-Katrina Emergency Management Reform Act of 2006 to extend the public assistance pilot program through December 31, 2009.</title>
+	</titles>
+	<sponsor id="400026"/>
+	<cosponsors>
+		<cosponsor id="400121" joined="2009-02-13"/>
+		<cosponsor id="400399" joined="2009-02-25"/>
+		<cosponsor id="400266" joined="2009-03-05"/>
+		<cosponsor id="400431" joined="2009-02-25"/>
+		<cosponsor id="400345" joined="2009-03-05"/>
+		<cosponsor id="412288" joined="2009-03-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1234587600" datetime="2009-02-14"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings and Emergency Management" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

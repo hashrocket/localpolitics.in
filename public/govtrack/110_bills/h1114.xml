@@ -1,0 +1,45 @@
+<bill session="110" type="h" number="1114" updated="2009-01-08T19:10:17-05:00">
+	<status><vote date="1178563680" datetime="2007-05-07T15:48:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1171602000" datetime="2007-02-16"/>
+	<titles>
+		<title type="short" as="introduced">Alaska Water Resources Act of 2007</title>
+		<title type="short" as="passed house">Alaska Water Resources Act of 2007</title>
+		<title type="official" as="introduced">To require the Secretary of the Interior, acting through the Bureau of Reclamation and the United States Geological Survey, to conduct a study on groundwater resources in the State of Alaska, and for other purposes.</title>
+	</titles>
+	<sponsor id="400440"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1171602000" datetime="2007-02-16"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1172466000" datetime="2007-02-26"><text>Referred to the Subcommittee on Water and Power.</text></action>
+		<action date="1176955200" datetime="2007-04-19"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1176955200" datetime="2007-04-19"><text>Forwarded by Subcommittee to Full Committee by Unanimous Consent .</text></action>
+		<action date="1178078400" datetime="2007-05-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1178078400" datetime="2007-05-02" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1178560680" datetime="2007-05-07T14:58:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 110-126.</text></action>
+		<calendar number="75" date="1178560680" datetime="2007-05-07T14:58:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 75.</text></calendar>
+		<action date="1178563380" datetime="2007-05-07T15:43:00-04:00"><text>Mrs. Napolitano moved to suspend the rules and pass the bill.</text></action>
+		<action date="1178563380" datetime="2007-05-07T15:43:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4507-4508"/></action>
+		<action date="1178563380" datetime="2007-05-07T15:43:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1114.</text></action>
+		<vote date="1178563680" how="by voice vote" datetime="2007-05-07T15:48:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H4507-4508"/></vote>
+		<calendar under="General Orders" number="143" date="1178596800" datetime="2007-05-08" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 143.</text></calendar>
+		<action date="1213156800" datetime="2008-06-11"><text>Indefinitely postponed by Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S5530"/></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/7/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Alaska Water Resources Act of 2007 - Directs the Secretary of the Interior, acting through the Commissioner of Reclamation and the Director of the United States Geological Survey, to conduct a study that includes: (1) a survey of accessible water supplies, including aquifers, on the Kenai Peninsula in the municipality of Anchorage, the Matanuska-Susitna Borough, the city of Fairbanks, and the Fairbanks Northstar Borough; (2) a survey of water treatment needs and technologies applicable to the water resources of Alaska; and (3) a review of the need for enhancement of the streamflow information collected by the Geological Survey in the state relating to critical water needs in areas such as infrastructure risks to state transportation, flood forecasting, resource extraction, and fire management. Terminates the Secretary's authority to carry out this Act 10 years after its enactment. Authorizes appropriations. 
+	</summary>
+</bill>

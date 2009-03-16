@@ -1,0 +1,42 @@
+<bill session="110" type="h" number="5982" updated="2009-01-09T05:14:41-05:00">
+	<status><vote date="1213799040" datetime="2008-06-18T11:24:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1210132800" datetime="2008-05-07"/>
+	<titles>
+		<title type="short" as="introduced">Biometric Enhancement for Airport-Risk Reduction Act of 2008</title>
+		<title type="short" as="passed house">Biometric Enhancement for Airport-Risk Reduction Act of 2008</title>
+		<title type="official" as="introduced">To direct the Secretary of Homeland Security, for purposes of transportation security, to conduct a study on how airports can transition to uniform, standards-based, and interoperable biometric identifier systems for airport workers with unescorted access to secure or sterile areas of an airport, and for other purposes.</title>
+	</titles>
+	<sponsor id="400402"/>
+	<cosponsors>
+		<cosponsor id="400199" joined="2008-05-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1210132800" datetime="2008-05-07"><text>Sponsor introductory remarks on measure. (CR E841)</text></action>
+		<action date="1210132800" datetime="2008-05-07"><text>Referred to the House Committee on Homeland Security.</text></action>
+		<action date="1211256000" datetime="2008-05-20"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1211256000" datetime="2008-05-20" ><text>Ordered to be Reported (Amended) by Unanimous Consent.</text></calendar>
+		<action date="1212684420" datetime="2008-06-05T13:47:00-04:00"><text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-688.</text></action>
+		<calendar number="432" date="1212684420" datetime="2008-06-05T13:47:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 432.</text></calendar>
+		<action date="1213798140" datetime="2008-06-18T11:09:00-04:00"><text>Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1213798140" datetime="2008-06-18T11:09:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5496-5498"/></action>
+		<action date="1213798140" datetime="2008-06-18T11:09:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5982.</text></action>
+		<vote date="1213799040" how="by voice vote" datetime="2008-06-18T11:24:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H5496"/></vote>
+		<action date="1213848000" datetime="2008-06-19"><text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/18/2008--Passed House amended. Biometric Enhancement for Airport-Risk Reduction Act of 2008 - Directs the Secretary of Homeland Security, acting through the Assistant Secretary of Homeland Security (Transportation Security Administration (TSA)), to: (1) study and report to Congress on how airports can transition to uniform, standards-based, and interoperable biometric identifier systems for airport workers with unescorted access to secure or sterile areas of an airport; and (2) conduct a risk-based analysis of selected Category X and I airports and other airports to identify where implementation of such systems could benefit them. Defines &quot;biometric identifier system&quot; as a system that uses biometric identifier information to match and confirm identity of individuals for purposes of transportation security. Requires the Secretary to convene a working group to assist with issues pertaining to implementing this Act.<br/>
+	</summary>
+</bill>

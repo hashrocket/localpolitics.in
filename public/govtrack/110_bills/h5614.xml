@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="5614" updated="2009-01-09T04:30:43-05:00">
+	<status><vote date="1210907580" datetime="2008-05-15T12:13:00-04:00" where="h" result="pass" how="roll" roll="325"/></status>
+
+	<introduced date="1205380800" datetime="2008-03-13"/>
+	<titles>
+		<title type="short" as="introduced">Saint-Gaudens Double Eagle Ultra-High Relief Bullion Coin Act</title>
+		<title type="short" as="passed house">Original Saint-Gaudens Double Eagle Ultra-High Relief Palladium Bullion Coin Act</title>
+		<title type="official" as="introduced">To authorize the production of Saint-Gaudens Double Eagle ultra-high relief bullion coins in palladium to provide affordable opportunities for investments in precious metals, and for other purposes.</title>
+		<title type="official" as="amended by house">To authorize the production in palladium of Saint-Gaudens Double Eagle coins as ultra-high relief numismatic coins and bullion investment coins in order to provide affordable opportunities for investments in precious metals, and for other purposes</title>
+	</titles>
+	<sponsor id="400070"/>
+	<cosponsors>
+		<cosponsor id="400311" joined="2008-04-09"/>
+		<cosponsor id="400335" joined="2008-04-09"/>
+		<cosponsor id="400163" joined="2008-03-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1205380800" datetime="2008-03-13"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1210705800" datetime="2008-05-13T16:10:00-04:00"><text>Mr. Gutierrez moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1210705860" datetime="2008-05-13T16:11:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3719-3722"/></action>
+		<action date="1210705860" datetime="2008-05-13T16:11:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5614.</text></action>
+		<action date="1210706160" datetime="2008-05-13T16:16:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Simpson objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1210907160" datetime="2008-05-15T12:06:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3903-3904"/></action>
+		<vote date="1210907580" how="roll" roll="325" datetime="2008-05-15T12:13:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 325). (text: CR 5/13/2008 H3720-3721)</text></vote>
+		<action date="1210907580" datetime="2008-05-15T12:13:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1211169600" datetime="2008-05-19"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/15/2008--Passed House amended. Original Saint-Gaudens Double Eagle Ultra-High Relief Palladium Bullion Coin Act - Authorizes the Secretary of the Treasury to mint and issue a $20 coin that bears, on the obverse and reverse, the designs of the famous 27-millimeter version of the 1907 Augustus Saint-Gaudens Double Eagle ultra-high relief gold piece. Authorizes the Secretary to commence minting and issuing such coins for sale, beginning January 1, 2009, in: (1) an appropriate number of $20 bullion investment coins meeting specified requirements; and (2) up to 15,000 ultra-high relief numismatic $20 coins meeting certain other requirements. Requires all coins to be minted at West Point, New York. Prohibits numismatic coins from being made available as so-called &quot;fractional&quot; coins. Requires the Secretary to take specified protective and anti-counterfeiting measures. Instructs the Treasury Inspector General to report to certain congressional committees on the extent of counterfeiting of rare, collectible, or numismatic coins for sale in the United States, regardless of the country where the original of such coin was produced or of the country in which the counterfeiting takes place, or sales overseas if such counterfeit coins are unauthorized copies of coins originally produced by the U.S. Mint.<br/>
+	</summary>
+</bill>

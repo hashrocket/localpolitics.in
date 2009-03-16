@@ -1,0 +1,38 @@
+<bill session="110" type="hr" number="1100" updated="2009-01-09T10:09:56-05:00">
+	<status><vote date="1209578580" datetime="2008-04-30T15:03:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1207800000" datetime="2008-04-10"/>
+	<titles>
+		<title type="official" as="introduced">Congratulating the University of Iowa Hawkeyes Wrestling Team on Winning the 2008 NCAA Division I National Wrestling Championships.</title>
+	</titles>
+	<sponsor id="412209"/>
+	<cosponsors>
+		<cosponsor id="412208" joined="2008-04-10"/>
+		<cosponsor id="412226" joined="2008-04-29"/>
+		<cosponsor id="400220" joined="2008-04-10"/>
+		<cosponsor id="400234" joined="2008-04-10"/>
+		<cosponsor id="400042" joined="2008-04-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1207800000" datetime="2008-04-10"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1209577980" datetime="2008-04-30T14:53:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1209577980" datetime="2008-04-30T14:53:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2896-2898"/></action>
+		<action date="1209577980" datetime="2008-04-30T14:53:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1100.</text></action>
+		<vote date="1209578580" how="by voice vote" datetime="2008-04-30T15:03:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H2896-2897"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/30/2008--Passed House amended. Congratulates the University of Iowa Hawkeyes Wrestling Team for winning the 2008 NCAA Division I National Wrestling Championship, on winning their 21st national title since 1975, and on finishing the season with a 21-1 overall dual record and a perfect 8-0 conference record.<br/>
+	</summary>
+</bill>

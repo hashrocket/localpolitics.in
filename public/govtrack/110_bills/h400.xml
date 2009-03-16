@@ -1,0 +1,60 @@
+<bill session="110" type="h" number="400" updated="2009-01-08T17:34:30-05:00">
+	<status><vote date="1191968100" datetime="2007-10-09T19:15:00-04:00" where="h" result="pass" how="roll" roll="950"/></status>
+
+	<introduced date="1168491600" datetime="2007-01-11"/>
+	<titles>
+		<title type="short" as="introduced">War Profiteering Prevention Act of 2007</title>
+		<title type="short" as="reported to house">War Profiteering Prevention Act of 2007</title>
+		<title type="short" as="passed house">War Profiteering Prevention Act of 2007</title>
+		<title type="official" as="introduced">To prohibit profiteering and fraud relating to military action, relief, and reconstruction efforts, and for other purposes.</title>
+	</titles>
+	<sponsor id="400001"/>
+	<cosponsors>
+		<cosponsor id="400263" joined="2007-02-06"/>
+		<cosponsor id="400216" joined="2007-02-14"/>
+		<cosponsor id="400130" joined="2007-02-06"/>
+		<cosponsor id="400416" joined="2007-02-06"/>
+		<cosponsor id="400048" joined="2007-02-06"/>
+		<cosponsor id="412199" joined="2007-02-06"/>
+		<cosponsor id="400166" joined="2007-02-14"/>
+		<cosponsor id="400360" joined="2007-02-06"/>
+		<cosponsor id="412200" joined="2007-02-06"/>
+		<cosponsor id="400125" joined="2007-02-06"/>
+		<cosponsor id="400100" joined="2007-02-06"/>
+		<cosponsor id="400278" joined="2007-03-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1168491600" datetime="2007-01-11"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1170392400" datetime="2007-02-02"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+		<action date="1182225600" datetime="2007-06-19"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1185249600" datetime="2007-07-24"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1185249600" datetime="2007-07-24"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1185940800" datetime="2007-08-01"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1185940800" datetime="2007-08-01" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1190926620" datetime="2007-09-27T17:57:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 110-353.</text></action>
+		<calendar number="218" date="1190926620" datetime="2007-09-27T17:57:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 218.</text></calendar>
+		<action date="1191961740" datetime="2007-10-09T17:29:00-04:00"><text>Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1191961800" datetime="2007-10-09T17:30:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11356-11363"/></action>
+		<action date="1191961800" datetime="2007-10-09T17:30:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 400.</text></action>
+		<action date="1191963660" datetime="2007-10-09T18:01:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1191967620" datetime="2007-10-09T19:07:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H11368-11369"/></action>
+		<vote date="1191968100" how="roll" roll="950" datetime="2007-10-09T19:15:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 3 (Roll no. 950).</text><reference label="text" ref="CR H11357"/></vote>
+		<action date="1192420800" datetime="2007-10-15"><text>Received in the Senate.</text></action>
+		<calendar under="General Orders" number="423" date="1192593600" datetime="2007-10-17" calendar="Senate Legislative" ><text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 423.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/9/2007--Passed House amended. War Profiteering Prevention Act of 2007 - Amends the federal criminal code to prohibit profiteering and fraud involving a contract or the provision of goods or services in connection with a mission of the U.S. Government overseas. Imposes: (1) a fine of not more than $1 million and/or a prison term of up to 20 years for knowingly defrauding the United States or a provisional authority in connection with such a mission or for materially overvaluing any goods or services with the intent to defraud; (2) a fine of not more than $1 million and/or a prison term of up to 10 years for falsification or concealment, false statements, or false documents in connection with such contracts or goods or services. Grants extraterritorial federal jurisdiction over war profiteering and fraud offenses. Permits venue for the prosecution of such offenses in any district where any act in furtherance of an offense took place or where any party to a contract or provider of goods or services is located. Allows criminal forfeiture of property obtained from a war profiteering or fraud offense. Makes war profiteering and fraud a predicate offense for money laundering and racketeering offenses.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="110" type="s" number="772" updated="2009-01-09T13:11:56-05:00">
+	<status><calendar date="1190260800" datetime="2007-09-20" /></status>
+
+	<introduced date="1173157200" datetime="2007-03-06"/>
+	<titles>
+		<title type="short" as="introduced">Railroad Antitrust Enforcement Act of 2007</title>
+		<title type="short" as="reported to senate">Railroad Antitrust Enforcement Act of 2007</title>
+		<title type="official" as="introduced">A bill to amend the Federal antitrust laws to provide expanded coverage and to eliminate exemptions from such laws that are contrary to the public interest with respect to railroads.</title>
+	</titles>
+	<sponsor id="300061"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2008-03-04"/>
+		<cosponsor id="300065" joined="2007-09-06"/>
+		<cosponsor id="300008" joined="2007-09-19"/>
+		<cosponsor id="300042" joined="2007-03-06"/>
+		<cosponsor id="300024" joined="2007-03-06"/>
+		<cosponsor id="300087" joined="2007-09-20"/>
+		<cosponsor id="300068" joined="2008-03-12"/>
+		<cosponsor id="300037" joined="2007-09-05"/>
+		<cosponsor id="300051" joined="2007-03-21"/>
+		<cosponsor id="400418" joined="2007-03-06"/>
+		<cosponsor id="300084" joined="2007-03-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1173157200" datetime="2007-03-06"><text>Sponsor introductory remarks on measure. (CR S2708)</text></action>
+		<action date="1173157200" datetime="2007-03-06"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S2708-2709"/></action>
+		<action date="1173243600" datetime="2007-03-07"><text>Committee on the Judiciary Subcommittee on Antitrust, Competition Policy and Consumer Rights. Hearings held.</text></action>
+		<calendar date="1190260800" datetime="2007-09-20" ><text>Committee on the Judiciary. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action date="1193112000" datetime="2007-10-23"><text>Committee on Commerce, Science, and Transportation Senate Subcommittee on Surface Transportation and Merchant Marine Infrastructure, Safety and Security. Hearings held.</text></action>
+		<action date="1198040400" datetime="2007-12-19"><text>Committee on the Judiciary. Reported by Senator Leahy with amendments. With written report No. 110-252.</text></action>
+		<calendar under="General Orders" number="551" date="1198040400" datetime="2007-12-19" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 551.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/19/2007--Reported to Senate amended. Railroad Antitrust Enforcement Act of 2007 - Amends the Clayton Act to grant the United States exclusive authority to bring suit for injunctive relief against a common carrier that is not a rail common carrier subject to the jurisdiction of the Surface Transportation Board (STB). Revises provisions prohibiting anticompetitive transactions except for those approved by specified federal agencies acting under certain statutes to eliminate the exemption for certain STB approved transactions. Provides that, in any civil action against a rail common carrier, the U.S. district court shall not be required to defer to the primary jurisdiction of the STB. Empowers the Federal Trade Commission (FTC) to regulate, and engage in antitrust enforcement regarding, collective rate agreements and certain transactions, including railroad mergers and acquisitions. Permits treble damages against a railroad common carrier in an antitrust suit to parties injured by antitrust violations without regard to whether such railroads have filed rates or whether a complaint challenging rates has been filed. Amends federal transportation law to terminate the exemptions from antitrust laws for collective ratemaking agreements. Requires the STB, when reviewing a proposed agreement, to take into account its impact upon shippers, consumers, and affected communities. Revises STB authority to provide that a rail carrier, corporation, or a person participating in an approved transaction is not exempt from specified antitrust laws. Provides an exception with respect to any transaction relating to the pooling of railroad cars approved by the STB or its predecessor agency.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,63 @@
+<bill session="111" type="h" number="121" updated="2009-03-07T10:01:55-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Smarter Funding for All of America's Homeland Security Act of 2007</title>
+		<title type="official" as="introduced">To authorize the Secretary of Homeland Security to make grants to first responders, and for other purposes.</title>
+	</titles>
+	<sponsor id="400142"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on Homeland Security, and in addition to the Committees on Transportation and Infrastructure, the Judiciary, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Homeland Security</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1231218000" datetime="2009-01-06"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Judiciary</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1233810000" datetime="2009-02-05"><committee name="House Homeland Security"/><text>Referred to the Subcommittee on Emergency Communications, Preparedness, and Response.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings and Emergency Management" activity="Referral" />
+		<committee name="House Homeland Security" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Homeland Security" subcommittee="Emergency Communications, Preparedness, and Response" activity="Referral" />
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security" activity="Referral" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Emergency management"/>
+		<term name="Advisory bodies"/>
+		<term name="Broadcasting, cable, digital media"/>
+		<term name="Computers and information technology"/>
+		<term name="Disaster relief and insurance"/>
+		<term name="Economic performance and conditions"/>
+		<term name="Emergency communications systems"/>
+		<term name="Emergency medical services"/>
+		<term name="Emergency planning and evacuation"/>
+		<term name="Energy storage, supplies, demand"/>
+		<term name="Food supply, safety, and labeling"/>
+		<term name="Government investigations"/>
+		<term name="Homeland security"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Monuments and memorials"/>
+		<term name="State and local finance"/>
+		<term name="State and local government operations"/>
+		<term name="Telephone and wireless communication"/>
+		<term name="Transportation safety and security"/>
+		<term name="Water use and supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Smarter Funding for All of America's Homeland Security Act of 2007 [sic] - Amends the Homeland Security Act of 2002 to direct the Secretary of Homeland Security to establish a State and Regional First Responder Grant Program under which the Secretary may make grants to states and eligible regional entities on the basis of the threat to a state or region's population and critical infrastructure, as determined by the Under Secretary for Information Analysis and Infrastructure Protection. Requires the Secretary, acting through the Under Secretary, to evaluate and prioritize grant applications, considering factors such as threats to the population, specific economic sectors, major communications nodes and transportation systems, specific elements of the food supply, the water and energy supplies, civic infrastructure and emergency response capabilities, and specific structures of symbolic national importance. Bars the use of grant funds to supplant state or local funds that would otherwise be available for homeland security or first responder projects. Directs the Secretary to: (1) establish the Advisory Council on First Responders, which shall report to the Secretary through the head of the Office of State and Local Government Coordination; and (2) revise the Homeland Security Advisory System to require that any designation of a threat level or other warning be accompanied by a designation of the geographic regions and economic sectors to which it applies. Directs the Under Secretary for Science and Technology to conduct a study of whether there is a need to assign additional bands of frequencies of electromagnetic spectrum to assist first responders.<br/>
+	</summary>
+</bill>

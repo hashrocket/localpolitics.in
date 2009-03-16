@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="709" updated="2009-03-07T11:11:18-05:00">
+	<status><introduced date="1233032400" datetime="2009-01-27"/></status>
+
+	<introduced date="1233032400" datetime="2009-01-27"/>
+	<titles>
+		<title type="short" as="introduced">Hawaiian Homeownership Opportunity Act of 2009</title>
+		<title type="official" as="introduced">To reauthorize the programs of the Department of Housing and Urban Development for housing assistance for Native Hawaiians.</title>
+	</titles>
+	<sponsor id="400001"/>
+	<cosponsors>
+		<cosponsor id="400140" joined="2009-01-27"/>
+		<cosponsor id="400422" joined="2009-01-27"/>
+		<cosponsor id="412200" joined="2009-01-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1233032400" datetime="2009-01-27"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="72" />
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Alaska Natives and Hawaiians"/>
+		<term name="Government lending"/>
+		<term name="Hawaii"/>
+		<term name="Housing and community development funding"/>
+		<term name="Housing finance and home ownership"/>
+		<term name="Low- and moderate-income housing"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

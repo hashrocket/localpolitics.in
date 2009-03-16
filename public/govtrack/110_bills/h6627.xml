@@ -1,0 +1,59 @@
+<bill session="110" type="h" number="6627" updated="2009-01-09T06:31:19-05:00">
+	<status><vote date="1221683100" datetime="2008-09-17T17:25:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1217304000" datetime="2008-07-29"/>
+	<titles>
+		<title type="short" as="introduced">Smithsonian Institution Facilities Authorization Act of 2008</title>
+		<title type="short" as="reported to house">Smithsonian Institution Facilities Authorization Act of 2008</title>
+		<title type="short" as="passed house">Smithsonian Institution Facilities Authorization Act of 2008</title>
+		<title type="official" as="introduced">To authorize the Board of Regents of the Smithsonian Institution to carry out certain construction projects, and for other purposes.</title>
+	</titles>
+	<sponsor id="400299"/>
+	<cosponsors>
+		<cosponsor id="400273" joined="2008-07-29"/>
+		<cosponsor id="400295" joined="2008-07-29"/>
+		<cosponsor id="400663" joined="2008-07-29"/>
+		<cosponsor id="400206" joined="2008-07-29"/>
+		<cosponsor id="400021" joined="2008-07-29"/>
+		<cosponsor id="400189" joined="2008-07-29"/>
+		<cosponsor id="400119" joined="2008-07-29"/>
+		<cosponsor id="400047" joined="2008-07-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1217304000" datetime="2008-07-29"><text>Sponsor introductory remarks on measure. (CR E1585)</text></action>
+		<action date="1217304000" datetime="2008-07-29"><text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1217304000" datetime="2008-07-29"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1217304000" datetime="2008-07-29"><text>Referred to House House Administration</text></action>
+		<action date="1217390400" datetime="2008-07-30"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1217390400" datetime="2008-07-30"><committee name="House House Administration"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1217390400" datetime="2008-07-30" ><committee name="House House Administration"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1217476800" datetime="2008-07-31"><committee name="House Transportation and Infrastructure"/><text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text></action>
+		<action date="1217476800" datetime="2008-07-31"><committee name="House Transportation and Infrastructure"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1217476800" datetime="2008-07-31" ><committee name="House Transportation and Infrastructure"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1217476800" datetime="2008-07-31"><committee name="House House Administration"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1217476800" datetime="2008-07-31" ><committee name="House House Administration"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1221162060" datetime="2008-09-11T16:41:00-04:00"><text>Reported by the Committee on House Administration. H. Rept. 110-842, Part I.</text></action>
+		<action date="1221521400" datetime="2008-09-15T20:30:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 110-842, Part II.</text></action>
+		<calendar number="550" date="1221521400" datetime="2008-09-15T20:30:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 550.</text></calendar>
+		<action date="1221682680" datetime="2008-09-17T17:18:00-04:00"><text>Ms. Johnson, E. B. moved to suspend the rules and pass the bill.</text></action>
+		<action date="1221682740" datetime="2008-09-17T17:19:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8350-8351"/></action>
+		<action date="1221682740" datetime="2008-09-17T17:19:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6627.</text></action>
+		<vote date="1221683100" how="by voice vote" datetime="2008-09-17T17:25:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H8350"/></vote>
+		<action date="1221710400" datetime="2008-09-18"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/17/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)<br/>Smithsonian Institution Facilities Authorization Act of 2008 - Authorizes the Board of Regents of the Smithsonian Institution to: (1) design and construct laboratory and support space to accommodate the Mathias Laboratory at the Smithsonian Environmental Research Center in Edgewater, Maryland; and (2) construct laboratory space to accommodate the terrestrial research program of the Smithsonian tropical research institute in Gamboa, Panama. Authorizes appropriations for: (1) FY2009-FY2011 for the design and construction of the laboratory and support space to accommodate the Mathias Laboratory; and (2) FY2009-FY2010 for the construction of the laboratory space to accommodate the terrestrial research program.<br/>
+	</summary>
+</bill>

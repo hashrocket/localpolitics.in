@@ -1,0 +1,56 @@
+<bill session="111" type="h" number="377" updated="2009-03-07T10:31:47-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="official" as="introduced">To make 2 percent across-the-board rescissions in non-defense, non-homeland-security discretionary spending for fiscal year 2009.</title>
+	</titles>
+	<sponsor id="400032"/>
+	<cosponsors>
+		<cosponsor id="400224" joined="2009-01-09"/>
+		<cosponsor id="400627" joined="2009-01-27"/>
+		<cosponsor id="412252" joined="2009-01-09"/>
+		<cosponsor id="400134" joined="2009-01-09"/>
+		<cosponsor id="400320" joined="2009-01-09"/>
+		<cosponsor id="400175" joined="2009-01-09"/>
+		<cosponsor id="412302" joined="2009-01-09"/>
+		<cosponsor id="400151" joined="2009-01-09"/>
+		<cosponsor id="400441" joined="2009-01-09"/>
+		<cosponsor id="400643" joined="2009-01-09"/>
+		<cosponsor id="412230" joined="2009-01-09"/>
+		<cosponsor id="400005" joined="2009-01-09"/>
+		<cosponsor id="400176" joined="2009-01-09"/>
+		<cosponsor id="400145" joined="2009-01-09"/>
+		<cosponsor id="412310" joined="2009-01-09"/>
+		<cosponsor id="400016" joined="2009-01-09"/>
+		<cosponsor id="400651" joined="2009-01-09"/>
+		<cosponsor id="400046" joined="2009-01-09"/>
+		<cosponsor id="400055" joined="2009-01-09"/>
+		<cosponsor id="400141" joined="2009-01-09"/>
+		<cosponsor id="400373" joined="2009-01-09"/>
+		<cosponsor id="412011" joined="2009-01-09"/>
+		<cosponsor id="412191" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Appropriations.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Appropriations" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="378" />
+		<bill relation="unknown" session="111" type="h" number="381" />
+	</relatedbills>
+	<subjects>
+		<term name="Economics and public finance"/>
+		<term name="Appropriations"/>
+		<term name="Budget deficits and national debt"/>
+		<term name="Executive agency funding and structure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Makes 2% across-the-board rescissions in non-defense, non-homeland-security discretionary spending for FY2009.<br/>
+	</summary>
+</bill>

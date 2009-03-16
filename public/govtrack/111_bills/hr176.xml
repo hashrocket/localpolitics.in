@@ -1,0 +1,33 @@
+<bill session="111" type="hr" number="176" updated="2009-03-07T13:27:35-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives that in order to continue aggressive growth in our Nation's telecommunications and technology industries, the United States Government should &quot;Get Out of the Way and Stay Out of the Way&quot;.</title>
+	</titles>
+	<sponsor id="412256"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to House Judiciary</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="30" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

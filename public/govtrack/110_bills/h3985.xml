@@ -1,0 +1,58 @@
+<bill session="110" type="h" number="3985" updated="2009-01-09T01:11:08-05:00">
+	<status><enacted date="1217390400" datetime="2008-07-30" /></status>
+
+	<introduced date="1193630400" datetime="2007-10-29"/>
+	<titles>
+		<title type="short" as="introduced">Over-the-Road Bus Transportation Accessibility Act of 2007</title>
+		<title type="short" as="reported to house">Over-the-Road Bus Transportation Accessibility Act of 2007</title>
+		<title type="short" as="passed house">Over-the-Road Bus Transportation Accessibility Act of 2007</title>
+		<title type="short" as="reported to senate">Over-the-Road Bus Transportation Accessibility Act of 2007</title>
+		<title type="short" as="passed senate">Over-the-Road Bus Transportation Accessibility Act of 2007</title>
+		<title type="short" as="enacted">Over-the-Road Bus Transportation Accessibility Act of 2007</title>
+		<title type="official" as="introduced">To amend title 49, United States Code, to direct the Secretary of Transportation to register a person providing transportation by an over-the-road bus as a motor carrier of passengers only if the person is willing and able to comply with certain accessibility requirements in addition to other existing requirements, and for other purposes.</title>
+	</titles>
+	<sponsor id="400100"/>
+	<cosponsors>
+		<cosponsor id="400273" joined="2007-10-29"/>
+		<cosponsor id="400116" joined="2007-10-29"/>
+		<cosponsor id="400299" joined="2007-10-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1193630400" datetime="2007-10-29"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1193803200" datetime="2007-10-31"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1193803200" datetime="2007-10-31" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1195165920" datetime="2007-11-15T18:32:00-05:00"><text>Reported by the Committee on Transportation. H. Rept. 110-456.</text></action>
+		<calendar number="279" date="1195165920" datetime="2007-11-15T18:32:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 279.</text></calendar>
+		<action date="1197400500" datetime="2007-12-11T15:15:00-05:00"><text>Mr. Oberstar moved to suspend the rules and pass the bill.</text></action>
+		<action date="1197400500" datetime="2007-12-11T15:15:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H15256-15257"/></action>
+		<action date="1197400500" datetime="2007-12-11T15:15:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3985.</text></action>
+		<action date="1197400620" datetime="2007-12-11T15:17:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1197506400" datetime="2007-12-12T20:40:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H15391-15392"/></action>
+		<vote date="1197506760" how="roll" roll="1155" datetime="2007-12-12T20:46:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 374 - 0 (Roll no. 1155). (text: CR 12/11/2007 H15256)</text></vote>
+		<action date="1197522000" datetime="2007-12-13"><text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+		<calendar date="1209009600" datetime="2008-04-24" ><text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1214193600" datetime="2008-06-23"><text>Committee on Commerce, Science, and Transportation. Reported by Senator Inouye without amendment. With written report No. 110-395.</text></action>
+		<calendar under="General Orders" number="829" date="1214193600" datetime="2008-06-23" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 829.</text></calendar>
+		<vote date="1216008000" how="by Unanimous Consent" datetime="2008-07-14" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6669"/></vote>
+		<topresident date="1216008000" datetime="2008-07-14" ><text>Cleared for White House.</text></topresident>
+		<action date="1216094400" datetime="2008-07-15"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1216699200" datetime="2008-07-22" ><text>Presented to President.</text></topresident>
+		<signed date="1217390400" datetime="2008-07-30" ><text>Signed by President.</text></signed>
+		<enacted number="110-291" date="1217390400" datetime="2008-07-30" type="public" ><text>Became Public Law No: 110-291.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/14/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Over-the-Road Bus Transportation Accessibility Act of 2007 - Amends federal transportation law to add as a registration condition for motor carriers of passengers that a carrier be willing and able to comply with specified accessibility requirements for transportation provided by an over-the-road bus (characterized by an elevated passenger deck located over a baggage compartment). Directs the Secretary of Transportation and the Attorney General to enter into a memorandum of understanding to delineate the specific roles and responsibilities of the Department of Transportation and the Department of Justice, respectively, in enforcing carrier compliance with such requirements. 
+	</summary>
+</bill>

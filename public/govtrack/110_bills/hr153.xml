@@ -1,0 +1,31 @@
+<bill session="110" type="hr" number="153" updated="2009-01-09T08:12:46-05:00">
+	<status><vote date="1171321560" datetime="2007-02-12T19:06:00-05:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1171256400" datetime="2007-02-12"/>
+	<titles>
+		<title type="official" as="introduced">Electing minority members to a committee of the House of Representatives.</title>
+	</titles>
+	<sponsor id="400328"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1171321500" datetime="2007-02-12T19:05:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H1449"/></action>
+		<vote date="1171321560" how="without objection" datetime="2007-02-12T19:06:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text" ref="CR H1449"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Elects certain named Minority Members to the House Committee on Standards of Official Conduct.<br/>
+	</summary>
+</bill>

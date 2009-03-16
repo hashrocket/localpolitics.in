@@ -1,0 +1,37 @@
+<bill session="110" type="sr" number="177" updated="2009-01-09T20:20:25-05:00">
+	<status><vote date="1177992000" datetime="2007-05-01" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1177905600" datetime="2007-04-30"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating April 30, 2007, as &quot;Dia de los Ninos: Celebrating Young Americans&quot;, and for other purposes.</title>
+	</titles>
+	<sponsor id="300052"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="2007-04-30"/>
+		<cosponsor id="300009" joined="2007-04-30"/>
+		<cosponsor id="300011" joined="2007-04-30"/>
+		<cosponsor id="400619" joined="2007-04-30"/>
+		<cosponsor id="400621" joined="2007-04-30"/>
+	</cosponsors>
+	<actions>
+		<action date="1177905600" datetime="2007-04-30"><text>Sponsor introductory remarks on measure. (CR S5313)</text></action>
+		<action date="1177905600" datetime="2007-04-30"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S5313"/></action>
+		<action date="1177992000" datetime="2007-05-01"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S5435-5436"/></action>
+		<vote date="1177992000" how="by Unanimous Consent" datetime="2007-05-01" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S5436"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/1/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates April 30, 2007, as &quot;Dia de Los Ninos: Celebrating Young Americans.&quot; 
+	</summary>
+</bill>

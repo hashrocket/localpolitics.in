@@ -1,0 +1,41 @@
+<bill session="110" type="s" number="3384" updated="2009-01-09T18:57:16-05:00">
+	<status><calendar date="1222142400" datetime="2008-09-23" /></status>
+
+	<introduced date="1217476800" datetime="2008-07-31"/>
+	<titles>
+		<title type="short" as="introduced">Information Technology Investment Oversight Enhancement and Waste Prevention Act of 2008</title>
+		<title type="short" as="reported to senate">Information Technology Investment Oversight Enhancement and Waste Prevention Act of 2008</title>
+		<title type="official" as="introduced">A bill to amend section 11317 of title 40, United States Code, to require greater accountability for cost overruns on Federal IT investment projects.</title>
+	</titles>
+	<sponsor id="300019"/>
+	<cosponsors>
+		<cosponsor id="300025" joined="2008-07-31"/>
+		<cosponsor id="300098" joined="2008-09-08"/>
+		<cosponsor id="300024" joined="2008-07-31"/>
+		<cosponsor id="300067" joined="2008-07-31"/>
+		<cosponsor id="412243" joined="2008-07-31"/>
+	</cosponsors>
+	<actions>
+		<action date="1217476800" datetime="2008-07-31"><text>Sponsor introductory remarks on measure. (CR S7929)</text></action>
+		<action date="1217476800" datetime="2008-07-31"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text><reference label="text of measure as introduced" ref="CR S7929-7932"/></action>
+		<action date="1221019200" datetime="2008-09-10"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+		<calendar date="1222142400" datetime="2008-09-23" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1222833600" datetime="2008-10-01"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="1104" date="1222833600" datetime="2008-10-01" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1104.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/31/2008--Introduced.<br/>Information Technology Investment Oversight Enhancement and Waste Prevention Act of 2008 - Revises the requirement that each head of an executive agency identify, in strategic information resources management plans, any major information acquisition programs (or phase or increment) that have significantly deviated from the cost, performance, or schedule goals established for the program. Requires each federal agency head primarily responsible for the information technology (IT) investment project under review, and the Director of the Office of Management and Budget (OMB), to jointly designate at least five of the agency's most mission critical IT investment projects (or fewer, under certain circumstances) as core IT investment projects or core projects, after considering specified criteria. Requires the Chief Information Officer (CIO) of the federal agency primarily responsible for the IT investment project under review, after receiving a quarterly report from the project manager, to determine if the project has significantly deviated, in cost, schedule, or performance variance, at least 20% from the Original Baseline. Requires a report of any significant deviation to the appropriate congressional committees and to the Government Accountability Office (GAO). Requires the agency's CIO, similarly, to: (1) determine if the project has grossly deviated, in cost, schedule, or performance variance, at least 40% from the Original Baseline; and (2) report such a deviation to the appropriate congressional committees and GAO if the agency head does not. Specifies remedial actions in the event of a gross deviation. Requires each agency head to establish a program meeting specified requirements to improve the agency's IT processes. Requires the Administrator of the Office of Electronic Government and Information and Technology at OMB (the E-Gov Administrator) to establish a small group of individuals (IT Strike Force) to assist agencies in avoiding significant and gross deviations in the cost, schedule, and performance of IT investment projects. Requires the E-Gov Administrator to carry out certain activities upon determining that there is reasonable cause to believe that a major IT investment project is likely to significantly or grossly deviate, including the receipt of inconsistent or missing data. 
+	</summary>
+</bill>

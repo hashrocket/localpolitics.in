@@ -1,0 +1,50 @@
+<bill session="110" type="h" number="6198" updated="2009-01-09T05:39:58-05:00">
+	<status><vote date="1222269180" datetime="2008-09-24T00:13:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1212638400" datetime="2008-06-05"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 1700 Cleveland Avenue in Kansas City, Missouri, as the &quot;Reverend Earl Abel Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400639"/>
+	<cosponsors>
+		<cosponsor id="400034" joined="2008-06-25"/>
+		<cosponsor id="400616" joined="2008-06-25"/>
+		<cosponsor id="400295" joined="2008-09-15"/>
+		<cosponsor id="400271" joined="2008-09-15"/>
+		<cosponsor id="400409" joined="2008-06-25"/>
+		<cosponsor id="400377" joined="2008-06-25"/>
+		<cosponsor id="400121" joined="2008-06-25"/>
+		<cosponsor id="400158" joined="2008-06-25"/>
+		<cosponsor id="400074" joined="2008-06-25"/>
+		<cosponsor id="400638" joined="2008-06-25"/>
+		<cosponsor id="400005" joined="2008-06-25"/>
+		<cosponsor id="400240" joined="2008-07-08"/>
+		<cosponsor id="400190" joined="2008-06-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1212638400" datetime="2008-06-05"><text>Sponsor introductory remarks on measure. (CR E1153)</text></action>
+		<action date="1212638400" datetime="2008-06-05"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1216180800" datetime="2008-07-16" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1222269180" datetime="2008-09-24T00:13:00-04:00"><text>Ms. Sutton asked unanimous consent to discharge from committee and consider.</text></action>
+		<action date="1222269180" datetime="2008-09-24T00:13:00-04:00"><text>Committee on Oversight and Government discharged.</text></action>
+		<action date="1222269180" datetime="2008-09-24T00:13:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H8716"/></action>
+		<vote date="1222269180" how="without objection" datetime="2008-09-24T00:13:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed without objection.</text><reference label="text" ref="CR H8716"/></vote>
+		<action date="1222315200" datetime="2008-09-25"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/5/2008--Introduced.<br/>Designates the facility of the United States Postal Service located at 1700 Cleveland Avenue in Kansas City, Missouri, as the &quot;Reverend Earl Abel Post Office Building.&quot;<br/>
+	</summary>
+</bill>

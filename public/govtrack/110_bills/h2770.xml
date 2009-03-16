@@ -1,0 +1,36 @@
+<bill session="110" type="h" number="2770" updated="2009-01-08T22:36:44-05:00">
+	<status><introduced date="1182225600" datetime="2007-06-19"/></status>
+
+	<introduced date="1182225600" datetime="2007-06-19"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to ensure more appropriate payment amounts for drugs and biologicals under part B of the Medicare Program by excluding customary prompt pay discounts extended to wholesalers from the manufacturer's average sales price.</title>
+	</titles>
+	<sponsor id="400409"/>
+	<cosponsors>
+		<cosponsor id="412231" joined="2008-03-31"/>
+		<cosponsor id="400431" joined="2007-06-19"/>
+		<cosponsor id="400345" joined="2007-09-18"/>
+	</cosponsors>
+	<actions>
+		<action date="1182225600" datetime="2007-06-19"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1182225600" datetime="2007-06-19"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1182225600" datetime="2007-06-19"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1182225600" datetime="2007-06-19"><text>Referred to House Ways and Means</text></action>
+		<action date="1182916800" datetime="2007-06-27"><committee name="House Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/19/2007--Introduced.<br/>Amends title XVIII (Medicare) of the Social Security Act with respect to the use of average sales price methodology for calculating payments for drugs and biologicals under Medicare part B (Supplementary Medical Insurance). Excludes from the manufacturer's average sales price when calculating such payments any customary prompt pay discounts extended to wholesalers.<br/>
+	</summary>
+</bill>

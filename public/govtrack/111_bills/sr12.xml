@@ -1,0 +1,34 @@
+<bill session="111" type="sr" number="12" updated="2009-03-07T14:39:52-05:00">
+	<status><introduced date="1231736400" datetime="2009-01-12"/></status>
+
+	<introduced date="1231736400" datetime="2009-01-12"/>
+	<titles>
+		<title type="official" as="introduced">A resolution to amend the Standing Rules of the Senate to prohibit filling the tree.</title>
+	</titles>
+	<sponsor id="300092"/>
+	<cosponsors>
+		<cosponsor id="400576" joined="2009-01-12"/>
+		<cosponsor id="300002" joined="2009-01-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1231736400" datetime="2009-01-12"><text>Sponsor introductory remarks on measure. (CR S315-316)</text></action>
+		<action date="1231736400" datetime="2009-01-12"><text>Referred to the Committee on Rules and Administration.</text><reference label="text of measure as introduced" ref="CR S315"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Rules and Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Legislative rules and procedure"/>
+		<term name="Senate"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/12/2009--Introduced.<br/>Amends Rule XV (Amendments and Motions) of the Standing Rules of the Senate to make it out of order for a Senator to offer a second degree amendment to his or her own first degree amendment (&quot;filling the tree&quot;).<br/>
+	</summary>
+</bill>

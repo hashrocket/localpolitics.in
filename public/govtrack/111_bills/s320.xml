@@ -1,0 +1,48 @@
+<bill session="111" type="s" number="320" updated="2009-03-07T14:11:46-05:00">
+	<status><introduced date="1232946000" datetime="2009-01-26"/></status>
+
+	<introduced date="1232946000" datetime="2009-01-26"/>
+	<titles>
+		<title type="short" as="introduced">Clean Energy Stimulus and Investment Assurance Act of 2009</title>
+		<title type="official" as="introduced">A bill to ensure that short- and long-term investment decisions critical to economic stimulus and job creation in clean energy are supported by Federal programs and reliable tax incentives.</title>
+	</titles>
+	<sponsor id="300018"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1232946000" datetime="2009-01-26"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="271" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Air quality"/>
+		<term name="Alternative and renewable resources"/>
+		<term name="Appropriations"/>
+		<term name="Climate change"/>
+		<term name="Electric power generation and transmission"/>
+		<term name="Energy efficiency and conservation"/>
+		<term name="Energy research"/>
+		<term name="Energy storage, supplies, demand"/>
+		<term name="Hybrid, electric, and advanced technology vehicles"/>
+		<term name="Income tax credits"/>
+		<term name="Income tax deductions"/>
+		<term name="Manufacturing"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Public utilities and utility rates"/>
+		<term name="Research and development"/>
+		<term name="Securities"/>
+		<term name="Transportation programs funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

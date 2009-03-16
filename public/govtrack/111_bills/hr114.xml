@@ -1,0 +1,87 @@
+<bill session="111" type="hr" number="114" updated="2009-03-07T13:19:33-05:00">
+	<status><vote date="1234298280" datetime="2009-02-10T16:38:00-05:00" where="h" result="pass" how="roll" roll="55"/></status>
+
+	<introduced date="1233637200" datetime="2009-02-03"/>
+	<titles>
+		<title type="official" as="introduced">Supporting the goals and ideals of &quot;National Girls and Women in Sports Day&quot;.</title>
+	</titles>
+	<sponsor id="412186"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2009-02-03"/>
+		<cosponsor id="400352" joined="2009-02-03"/>
+		<cosponsor id="400339" joined="2009-02-03"/>
+		<cosponsor id="400620" joined="2009-02-03"/>
+		<cosponsor id="412258" joined="2009-02-03"/>
+		<cosponsor id="400416" joined="2009-02-03"/>
+		<cosponsor id="400008" joined="2009-02-03"/>
+		<cosponsor id="412227" joined="2009-02-03"/>
+		<cosponsor id="400337" joined="2009-02-03"/>
+		<cosponsor id="400160" joined="2009-02-03"/>
+		<cosponsor id="412211" joined="2009-02-03"/>
+		<cosponsor id="400263" joined="2009-02-03"/>
+		<cosponsor id="400618" joined="2009-02-03"/>
+		<cosponsor id="400162" joined="2009-02-03"/>
+		<cosponsor id="400013" joined="2009-02-03"/>
+		<cosponsor id="412222" joined="2009-02-03"/>
+		<cosponsor id="412204" joined="2009-02-03"/>
+		<cosponsor id="412224" joined="2009-02-03"/>
+		<cosponsor id="412225" joined="2009-02-03"/>
+		<cosponsor id="400302" joined="2009-02-03"/>
+		<cosponsor id="412232" joined="2009-02-03"/>
+		<cosponsor id="400217" joined="2009-02-03"/>
+		<cosponsor id="400111" joined="2009-02-03"/>
+		<cosponsor id="400360" joined="2009-02-03"/>
+		<cosponsor id="400623" joined="2009-02-03"/>
+		<cosponsor id="400096" joined="2009-02-03"/>
+		<cosponsor id="412239" joined="2009-02-03"/>
+		<cosponsor id="400129" joined="2009-02-03"/>
+		<cosponsor id="400074" joined="2009-02-03"/>
+		<cosponsor id="400267" joined="2009-02-03"/>
+		<cosponsor id="412200" joined="2009-02-03"/>
+		<cosponsor id="400065" joined="2009-02-03"/>
+		<cosponsor id="400443" joined="2009-02-03"/>
+		<cosponsor id="412215" joined="2009-02-03"/>
+		<cosponsor id="400266" joined="2009-02-03"/>
+		<cosponsor id="400009" joined="2009-02-03"/>
+		<cosponsor id="412316" joined="2009-02-03"/>
+		<cosponsor id="400641" joined="2009-02-03"/>
+		<cosponsor id="400047" joined="2009-02-03"/>
+		<cosponsor id="412231" joined="2009-02-03"/>
+		<cosponsor id="400310" joined="2009-02-03"/>
+		<cosponsor id="400409" joined="2009-02-03"/>
+		<cosponsor id="412273" joined="2009-02-03"/>
+		<cosponsor id="400184" joined="2009-02-03"/>
+		<cosponsor id="400152" joined="2009-02-03"/>
+		<cosponsor id="412206" joined="2009-02-03"/>
+		<cosponsor id="412208" joined="2009-02-03"/>
+		<cosponsor id="400062" joined="2009-02-03"/>
+		<cosponsor id="400179" joined="2009-02-03"/>
+		<cosponsor id="400639" joined="2009-02-03"/>
+		<cosponsor id="400309" joined="2009-02-03"/>
+		<cosponsor id="412233" joined="2009-02-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1234209660" datetime="2009-02-09T16:01:00-05:00"><text>Mr. Sablan moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1234209660" datetime="2009-02-09T16:01:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1049-1051"/></action>
+		<action date="1234209660" datetime="2009-02-09T16:01:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 114.</text></action>
+		<action date="1234210080" datetime="2009-02-09T16:08:00-05:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Sablan objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1234297800" datetime="2009-02-10T16:30:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1102"/></action>
+		<vote date="1234298280" how="roll" roll="55" datetime="2009-02-10T16:38:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 55). (text: CR 2/09/2009 H1049)</text></vote>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="95" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/2009--Introduced.<br/>Expresses support for the goals and ideals of National Girls and Women in Sports Day (February 4, 2009). Encourages the continued participation of schools and communities in providing opportunities for girls and women in elementary, secondary, and college sports to promote awareness of: (1) the positive influence of sports participation in their lives and health; and (2) the continuing struggle for equality and access for women in sports.<br/>
+	</summary>
+</bill>

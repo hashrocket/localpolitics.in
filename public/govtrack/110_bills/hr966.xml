@@ -1,0 +1,57 @@
+<bill session="110" type="hr" number="966" updated="2009-01-09T09:52:43-05:00">
+	<status><vote date="1203014580" datetime="2008-02-14T14:43:00-05:00" where="h" result="pass" how="roll" roll="61"/></status>
+
+	<introduced date="1202360400" datetime="2008-02-07"/>
+	<titles>
+		<title type="official" as="introduced">Honoring African American inventors, past and present, for their leadership, courage, and significant contributions to our national competitiveness.</title>
+	</titles>
+	<sponsor id="400204"/>
+	<cosponsors>
+		<cosponsor id="400337" joined="2008-02-07"/>
+		<cosponsor id="400364" joined="2008-02-07"/>
+		<cosponsor id="400616" joined="2008-02-07"/>
+		<cosponsor id="400155" joined="2008-02-07"/>
+		<cosponsor id="400080" joined="2008-02-07"/>
+		<cosponsor id="400333" joined="2008-02-07"/>
+		<cosponsor id="400129" joined="2008-02-07"/>
+		<cosponsor id="412215" joined="2008-02-07"/>
+		<cosponsor id="400229" joined="2008-02-07"/>
+		<cosponsor id="400343" joined="2008-02-07"/>
+		<cosponsor id="400237" joined="2008-02-07"/>
+		<cosponsor id="400251" joined="2008-02-07"/>
+		<cosponsor id="412232" joined="2008-02-07"/>
+		<cosponsor id="400350" joined="2008-02-12"/>
+		<cosponsor id="400217" joined="2008-02-07"/>
+		<cosponsor id="400081" joined="2008-02-12"/>
+		<cosponsor id="400415" joined="2008-02-07"/>
+		<cosponsor id="400185" joined="2008-02-07"/>
+		<cosponsor id="400119" joined="2008-02-07"/>
+		<cosponsor id="400047" joined="2008-02-12"/>
+		<cosponsor id="400218" joined="2008-02-07"/>
+		<cosponsor id="400345" joined="2008-02-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1202360400" datetime="2008-02-07"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1202926680" datetime="2008-02-13T14:18:00-05:00"><text>Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1202926740" datetime="2008-02-13T14:19:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H892-894"/></action>
+		<action date="1202926740" datetime="2008-02-13T14:19:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 966.</text></action>
+		<action date="1202927280" datetime="2008-02-13T14:28:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1203013380" datetime="2008-02-14T14:23:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H962-963"/></action>
+		<vote date="1203014580" how="roll" roll="61" datetime="2008-02-14T14:43:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 387 - 0 (Roll no. 61). (text: CR 2/13/2008 H892-893)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/14/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Recognizes and appreciates the significant achievements to our national research enterprise made by African-American and other minority scientists, technologists, engineers, and mathematicians.<br/>Honors and extends the appreciation and gratitude of the House of Representatives toward all African-American inventors, for the significant and honorable research and educational contributions that improve the lives of all citizens and that have gone unacknowledged too long.<br/>Declares that the House looks for opportunities to make sure that the creativity and contribution of minority scientists, technologists, engineers, and mathematicians can be expressed through research, development, standardization, and innovation.<br/>
+	</summary>
+</bill>

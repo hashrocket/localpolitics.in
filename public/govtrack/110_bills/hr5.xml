@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="5" updated="2009-01-09T07:54:47-05:00">
+	<status><vote date="1167945000" datetime="2007-01-04T17:10:00-05:00" where="h" result="pass" how="roll" roll="5"/></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the consideration of the resolution (H. Res. 6) adopting the Rules of the House of Representatives for the One Hundred Tenth Congress.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1167936480" datetime="2007-01-04T14:48:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H6-19"/></action>
+		<action date="1167936540" datetime="2007-01-04T14:49:00-05:00"><text>Rule provides for consideration of H. Res. 6. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be read by title. Bill is closed to amendments.</text></action>
+		<action date="1167936600" datetime="2007-01-04T14:50:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 5.</text></action>
+		<action date="1167942540" datetime="2007-01-04T16:29:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 222 - 197 (Roll no. 3).</text><reference label="consideration" ref="CR H16-17"/></action>
+		<action date="1167942540" datetime="2007-01-04T16:29:00-05:00"><text>Mr. Dreier moved to commit with instructions to a select committee.</text></action>
+		<action date="1167943800" datetime="2007-01-04T16:50:00-05:00"><text>On motion to commit with instructions Failed by the Yeas and Nays: 199 - 232 (Roll No. 4).</text></action>
+		<vote date="1167945000" how="roll" roll="5" datetime="2007-01-04T17:10:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 235 - 195 (Roll no. 5).</text><reference label="text" ref="CR H6-8"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/4/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Sets forth a rule for adopting the Rules of the House of Representatives for the 110th Congress.<br/>
+	</summary>
+</bill>

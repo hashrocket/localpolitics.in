@@ -1,0 +1,42 @@
+<bill session="111" type="hj" number="23" updated="2009-03-07T09:36:05-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="official" as="introduced">Supporting a base defense budget that at the very minimum matches 4 percent of gross domestic product.</title>
+	</titles>
+	<sponsor id="400141"/>
+	<cosponsors>
+		<cosponsor id="400017" joined="2009-02-12"/>
+		<cosponsor id="412252" joined="2009-02-12"/>
+		<cosponsor id="400655" joined="2009-02-12"/>
+		<cosponsor id="400404" joined="2009-02-12"/>
+		<cosponsor id="400151" joined="2009-02-12"/>
+		<cosponsor id="400441" joined="2009-02-12"/>
+		<cosponsor id="400244" joined="2009-02-12"/>
+		<cosponsor id="400005" joined="2009-02-12"/>
+		<cosponsor id="400077" joined="2009-02-12"/>
+		<cosponsor id="400254" joined="2009-02-12"/>
+		<cosponsor id="400433" joined="2009-02-12"/>
+		<cosponsor id="412283" joined="2009-02-23"/>
+		<cosponsor id="412191" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the House Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

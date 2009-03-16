@@ -1,0 +1,41 @@
+<bill session="110" type="h" number="7083" updated="2009-01-09T07:23:59-05:00">
+	<status><vote date="1222537800" datetime="2008-09-27T14:50:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1222315200" datetime="2008-09-25"/>
+	<titles>
+		<title type="short" as="introduced">Charity Enhancement Act of 2008</title>
+		<title type="short" as="passed house">Charity Enhancement Act of 2008</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to enhance charitable giving and improve disclosure and tax administration.</title>
+	</titles>
+	<sponsor id="400240"/>
+	<cosponsors>
+		<cosponsor id="400403" joined="2008-09-25"/>
+		<cosponsor id="400332" joined="2008-09-25"/>
+		<cosponsor id="400323" joined="2008-09-25"/>
+		<cosponsor id="400291" joined="2008-09-25"/>
+		<cosponsor id="400218" joined="2008-09-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1222315200" datetime="2008-09-25"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action date="1222537020" datetime="2008-09-27T14:37:00-04:00"><text>Mr. Lewis (GA) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1222537020" datetime="2008-09-27T14:37:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10196-10198"/></action>
+		<action date="1222537020" datetime="2008-09-27T14:37:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 7083.</text></action>
+		<vote date="1222537800" how="by voice vote" datetime="2008-09-27T14:50:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H10196-10197"/></vote>
+		<action date="1222660800" datetime="2008-09-29"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/27/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)<br/>Charity Enhancement Act of 2008 - Amends the Internal Revenue Code to modify rules and definitions relating to the excise tax on distributions from donor advised funds (charitable funds in which a donor has, or reasonably expects to have, advisory privileges with respect to the distribution or investment of amounts held in such funds by reason of his or her status as a donor). Excludes from the definition of &quot;donor advised fund&quot; charitable funds that receive contributions or are advised solely by one or more public charities or governmental entities. Exempts certain scholarship distributions from the tax on distributions from donor advised funds.<br/>Repeals the requirement of a written acknowledgment by a supporting organization (a charitable organization that maintains one or more donor advised funds) that it has exclusive legal control over assets contributed to it. Exempts certain compensation and benefits paid to substantial contributors by supporting organizations from treatment as excess benefits.<br/>Exempts certain supporting organizations established before January 1, 1970, from applicable holdings and payout requirements.<br/>Treats contributions to tax-exempt organizations by Indian tribal governments in the same manner as contributions by states for purposes of determining the classification of an organization as a public charity or private foundation. Requires certain tax-exempt organizations that file at least five tax returns annually with the Internal Revenue Service (IRS) to use electronic filing.<br/>Extends the bad check penalty to payments of tax by commercially acceptable means (e.g., electronic payments).<br/>
+	</summary>
+</bill>

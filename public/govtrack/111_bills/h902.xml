@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="902" updated="2009-03-07T11:34:15-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="short" as="introduced">MediFair Act of 2009</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to improve the provision of items and services provided to Medicare beneficiaries residing in rural areas.</title>
+	</titles>
+	<sponsor id="400379"/>
+	<cosponsors>
+		<cosponsor id="400232" joined="2009-02-04"/>
+		<cosponsor id="400193" joined="2009-02-04"/>
+		<cosponsor id="400109" joined="2009-02-04"/>
+		<cosponsor id="400262" joined="2009-02-04"/>
+		<cosponsor id="400011" joined="2009-02-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to House Ways and Means</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to House Energy and Commerce</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="382" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care quality"/>
+		<term name="Medicare"/>
+		<term name="Medicare Payment Advisory Commission"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/4/2009--Introduced.<br/>MediFair Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act (SSA) to direct the Secretary of Health and Human Services to establish a system for making adjustments to the amount of payment made to entities and individuals for items and services provided under the original Medicare fee-for-service program under parts A (Hospital Insurance) and B (Supplementary Medical Insurance). Requires such adjustments in order to make the state average per beneficiary amount equal to the national average per beneficiary amount. Directs the Medicare Payment Advisory Commission (MEDPAC) to develop recommendations on policies and practices that would encourage: (1) healthy outcomes and quality care under the Medicare program in states with respect to which payments are reduced under such system; and (2) the efficient use of payments made under the Medicare program in such states.<br/>
+	</summary>
+</bill>

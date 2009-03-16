@@ -1,0 +1,50 @@
+<bill session="111" type="s" number="170" updated="2009-03-07T13:53:27-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">Coastal and Estuarine Land Protection Act</title>
+		<title type="official" as="introduced">A bill to authorize the acquisition of interests in undeveloped coastal areas in order better to ensure their protection from development and for other purposes.</title>
+	</titles>
+	<sponsor id="300049"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2009-01-08"/>
+		<cosponsor id="300025" joined="2009-01-08"/>
+		<cosponsor id="400064" joined="2009-01-08"/>
+		<cosponsor id="300059" joined="2009-01-09"/>
+		<cosponsor id="300018" joined="2009-01-08"/>
+		<cosponsor id="300011" joined="2009-01-09"/>
+		<cosponsor id="300091" joined="2009-01-08"/>
+		<cosponsor id="300060" joined="2009-01-09"/>
+		<cosponsor id="300081" joined="2009-01-09"/>
+		<cosponsor id="300084" joined="2009-01-08"/>
+		<cosponsor id="300064" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="368" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Ecology"/>
+		<term name="Forests"/>
+		<term name="Land transfers"/>
+		<term name="Land use and conservation"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Marine pollution"/>
+		<term name="Water quality"/>
+		<term name="Watersheds"/>
+		<term name="Wetlands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Coastal and Estuarine Land Protection Act - Directs the Secretary of Commerce to establish a Coastal and Estuarine Land Protection Program to protect the environmental integrity of undeveloped coastal and estuarine areas. Requires the program to be administered by the National Ocean Service of the National Oceanic and Atmospheric Administration (NOAA) through the Office of Ocean and Coastal Resource Management. Authorizes the Secretary to make Program grants to coastal states with approved coastal zone management plans or National Estuarine Research Reserve units for the purpose of acquiring property that will further the goals of an approved Coastal Zone Management Plan or Program, a National Estuarine Research Reserve management plan, or a regional or state watershed protection plan. Prohibits any more than 75% of the funding for any project funded with a grant made under the program from being derived from federal sources. Reserves 15% of program funds for acquisitions benefitting the National Estuarine Research Reserve. Specifies that when property is acquired under this program, the grant recipient shall provide assurances that: (1) title will be held by the recipient or another public agency designated by the recipient in perpetuity; (2) property will be managed consistent with the purpose of the Program; and (3) funds will be returned to the Secretary for redistribution if the property is sold, exchanged, or divested. 
+	</summary>
+</bill>

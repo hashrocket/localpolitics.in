@@ -1,0 +1,40 @@
+<bill session="110" type="h" number="1272" updated="2009-01-08T19:29:48-05:00">
+	<status><introduced date="1172725200" datetime="2007-03-01"/></status>
+
+	<introduced date="1172725200" datetime="2007-03-01"/>
+	<titles>
+		<title type="short" as="introduced">Veterans' Pension Improvement Act of 2007</title>
+		<title type="official" as="introduced">To amend title 38, United States Code, to improve the pension program of the Department of Veterans Affairs.</title>
+	</titles>
+	<sponsor id="400024"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2007-03-05"/>
+		<cosponsor id="412258" joined="2008-04-29"/>
+		<cosponsor id="400048" joined="2007-03-01"/>
+		<cosponsor id="400442" joined="2007-03-01"/>
+		<cosponsor id="400251" joined="2007-03-01"/>
+		<cosponsor id="400266" joined="2007-05-01"/>
+		<cosponsor id="400204" joined="2007-03-01"/>
+		<cosponsor id="400025" joined="2007-03-01"/>
+		<cosponsor id="400163" joined="2007-03-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1172725200" datetime="2007-03-01"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1173416400" datetime="2007-03-09"><text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/1/2007--Introduced.<br/>Veterans' Pension Improvement Act of 2007 - Increases pension rates for: (1) veterans of a period of war for non-service-connected disability; and (2) surviving spouses and children of veterans.<br/>
+	</summary>
+</bill>

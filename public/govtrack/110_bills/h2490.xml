@@ -1,0 +1,59 @@
+<bill session="110" type="h" number="2490" updated="2009-01-08T22:02:17-05:00">
+	<status><vote date="1217368980" datetime="2008-07-29T19:03:00-04:00" where="h" result="pass" how="roll" roll="534"/></status>
+
+	<introduced date="1179979200" datetime="2007-05-24"/>
+	<titles>
+		<title type="official" as="introduced">To require the Secretary of Homeland Security to conduct a pilot program for the mobile biometric identification in the maritime environment of aliens unlawfully attempting to enter the United States.</title>
+		<title type="official" as="amended by house">To require the Secretary of Homeland Security to conduct a program in the maritime environment for the mobile biometric identification of suspected individuals, including terrorists, to enhance border security.</title>
+	</titles>
+	<sponsor id="412250"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-08-02"/>
+		<cosponsor id="412229" joined="2007-10-01"/>
+		<cosponsor id="400219" joined="2007-05-24"/>
+		<cosponsor id="412234" joined="2007-08-03"/>
+		<cosponsor id="400151" joined="2007-07-17"/>
+		<cosponsor id="400385" joined="2007-05-24"/>
+		<cosponsor id="412192" joined="2007-08-03"/>
+		<cosponsor id="400652" joined="2007-10-04"/>
+		<cosponsor id="400288" joined="2007-07-23"/>
+		<cosponsor id="400055" joined="2007-09-04"/>
+		<cosponsor id="412235" joined="2007-05-24"/>
+		<cosponsor id="400051" joined="2007-08-04"/>
+		<cosponsor id="400570" joined="2007-10-10"/>
+		<cosponsor id="400328" joined="2007-08-02"/>
+		<cosponsor id="400617" joined="2007-06-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1179979200" datetime="2007-05-24"><text>Referred to the House Committee on Homeland Security.</text></action>
+		<action date="1181188800" datetime="2007-06-07"><text>Referred to the Subcommittee on Border, Maritime, and Global Counterterrorism.</text></action>
+		<action date="1214452800" datetime="2008-06-26"><text>Subcommittee on Border, Maritime, and Global Counterterrorism Discharged.</text></action>
+		<action date="1214452800" datetime="2008-06-26"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1214452800" datetime="2008-06-26" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1215721080" datetime="2008-07-10T17:18:00-04:00"><text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-751.</text></action>
+		<calendar number="477" date="1215721140" datetime="2008-07-10T17:19:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 477.</text></calendar>
+		<action date="1217390280" datetime="2008-07-29T12:58:00-04:00"><text>Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1217390280" datetime="2008-07-29T12:58:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7182-7183"/></action>
+		<action date="1217390280" datetime="2008-07-29T12:58:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2490.</text></action>
+		<action date="1217347620" datetime="2008-07-29T13:07:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1217367660" datetime="2008-07-29T18:41:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7267-7268"/></action>
+		<vote date="1217368980" how="roll" roll="534" datetime="2008-07-29T19:03:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 3, 1 Present (Roll no. 534).</text><reference label="text" ref="CR H7182"/></vote>
+		<action date="1217368980" datetime="2008-07-29T19:03:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1217390400" datetime="2008-07-30"><text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/29/2008--Passed House amended. (This measure has not been amended since it was reported to the House on July 10, 2008. The summary of that version is repeated here.) Directs the Secretary of Homeland Security to: (1) conduct, through the Coast Guard in the maritime environment, a program for the mobile biometric identification of suspected individuals, including terrorists, to enhance border security and for other purposes; (2) ensure such program's coordination with other Department of Homeland Security (DHS) biometric identification programs; and (3) report to the appropriate congressional committees respecting the cost of expanding the Coast Guard's biometric identification capabilities for use by other Coast Guard and DHS vessels and units. Defines &quot;biometric identification&quot; as the use of fingerprint and digital photography images.<br/>
+	</summary>
+</bill>

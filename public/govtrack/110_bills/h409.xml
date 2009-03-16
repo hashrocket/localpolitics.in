@@ -1,0 +1,59 @@
+<bill session="110" type="h" number="409" updated="2009-01-08T17:36:04-05:00">
+	<status><vote date="1201028040" datetime="2008-01-22T14:54:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1168491600" datetime="2007-01-11"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 23, United States Code, to inspect highway tunnels.</title>
+		<title type="official" as="amended by house">To amend title 23, United States Code, to direct the Secretary of Transportation to establish national tunnel inspection standards for the proper safety inspection and evaluation of all highway tunnels, and for other purposes.</title>
+	</titles>
+	<sponsor id="400063"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="2007-01-11"/>
+		<cosponsor id="400257" joined="2007-01-17"/>
+		<cosponsor id="400263" joined="2007-01-11"/>
+		<cosponsor id="400407" joined="2007-01-11"/>
+		<cosponsor id="400102" joined="2007-01-11"/>
+		<cosponsor id="400295" joined="2007-02-13"/>
+		<cosponsor id="400396" joined="2007-02-13"/>
+		<cosponsor id="400152" joined="2007-02-13"/>
+		<cosponsor id="400249" joined="2007-01-11"/>
+		<cosponsor id="400437" joined="2007-01-17"/>
+		<cosponsor id="400140" joined="2007-01-11"/>
+		<cosponsor id="400366" joined="2007-02-13"/>
+		<cosponsor id="400269" joined="2007-01-11"/>
+		<cosponsor id="400638" joined="2007-02-13"/>
+		<cosponsor id="400291" joined="2007-01-11"/>
+		<cosponsor id="400301" joined="2007-01-11"/>
+		<cosponsor id="400309" joined="2007-01-17"/>
+	</cosponsors>
+	<actions>
+		<action date="1168491600" datetime="2007-01-11"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1168578000" datetime="2007-01-12"><text>Referred to the Subcommittee on Highways and Transit.</text></action>
+		<action date="1186027200" datetime="2007-08-02"><text>Subcommittee on Highways and Transit Discharged.</text></action>
+		<action date="1186027200" datetime="2007-08-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1186027200" datetime="2007-08-02" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1195164720" datetime="2007-11-15T18:12:00-05:00"><text>Reported by the Committee on Transportation. H. Rept. 110-454.</text></action>
+		<calendar number="278" date="1195164720" datetime="2007-11-15T18:12:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 278.</text></calendar>
+		<action date="1201027620" datetime="2008-01-22T14:47:00-05:00"><text>Mr. DeFazio moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1201027680" datetime="2008-01-22T14:48:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H365-367"/></action>
+		<action date="1201027680" datetime="2008-01-22T14:48:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 409.</text></action>
+		<vote date="1201028040" how="by voice vote" datetime="2008-01-22T14:54:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H365"/></vote>
+		<action date="1201028040" datetime="2008-01-22T14:54:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1201064400" datetime="2008-01-23"><text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2008--Passed House amended. Amends federal highway law to direct the Secretary of Transportation (Secretary) to establish: (1) a national highway tunnel inspection program, including standards for the proper safety inspection and evaluation of all highway tunnels; (2) a training and certification program for highway tunnel inspectors; and (3) a national inventory of highway tunnels. Provides for funding. Includes tunnel construction, rehabilitation, and operational improvements (including safety inspection of such tunnels) as eligible projects under the federal surface transportation program.<br/>
+	</summary>
+</bill>

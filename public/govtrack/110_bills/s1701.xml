@@ -1,0 +1,43 @@
+<bill session="110" type="s" number="1701" updated="2009-01-09T15:21:41-05:00">
+	<status><enacted date="1184731200" datetime="2007-07-18" /></status>
+
+	<introduced date="1182916800" datetime="2007-06-27"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for the extension of transitional medical assistance (TMA) and the abstinence education program through the end of fiscal year 2007, and for other purposes.</title>
+	</titles>
+	<sponsor id="300005"/>
+	<cosponsors>
+		<cosponsor id="300048" joined="2007-06-27"/>
+	</cosponsors>
+	<actions>
+		<vote date="1182916800" how="by Unanimous Consent" datetime="2007-06-27" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S8637"/><reference label="text as passed Senate" ref="CR S8637"/></vote>
+		<action date="1182987840" datetime="2007-06-27T20:44:00-04:00"><text>Received in the House.</text></action>
+		<action date="1182916800" datetime="2007-06-27"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1182990000" datetime="2007-06-27T21:20:00-04:00"><text>Held at the desk.</text></action>
+		<action date="1184095980" datetime="2007-07-10T16:33:00-04:00"><text>Mr. Green, Gene moved to suspend the rules and pass the bill.</text></action>
+		<action date="1184096040" datetime="2007-07-10T16:34:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7468-7469"/></action>
+		<action date="1184096040" datetime="2007-07-10T16:34:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 1701.</text></action>
+		<action date="1184096340" datetime="2007-07-10T16:39:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1184209920" datetime="2007-07-11T12:12:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7505-7506"/></action>
+		<vote date="1184210280" how="roll" roll="610" datetime="2007-07-11T12:18:00-04:00" where="h" type="vote2" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 291 - 126 (Roll no. 610). (text: CR 7/10/2007 H7468)</text></vote>
+		<topresident date="1184126400" datetime="2007-07-11" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1184644800" datetime="2007-07-17" ><text>Presented to President.</text></topresident>
+		<signed date="1184731200" datetime="2007-07-18" ><text>Signed by President.</text></signed>
+		<enacted number="110-48" date="1184731200" datetime="2007-07-18" type="public" ><text>Became Public Law No: 110-48.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/18/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends the Tax Relief and Health Care Act of 2006 to extend transitional medical assistance (TMA) and the abstinence education program through FY2007.<br/>Amends title XVIII (Medicare) of the Social Security Act with respect to limited continuous open enrollment of original fee-for-service enrollees in Medicare Advantage non-prescription drug plans. Accelerates from the end of 2008 to July 31, 2007, the sunset of the period during which a Medicare Advantage-eligible but unenrolled fee-for-service individual may elect to enroll in a Medicare Advantage plan that is not an MA-Prescription Drug plan.<br/>Revises the initial funding available to the Medicare Advantage Regional Plan Stabilization for expenditures during 2012 and 2013. Reduces the total for both years currently set at $3.5 billion to: (1) $1.6 billion during 2012; and (2) $1.79 billion during 2013.<br/>
+	</summary>
+</bill>

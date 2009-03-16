@@ -1,0 +1,31 @@
+<bill session="111" type="s" number="126" updated="2009-03-07T13:47:00-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">A bill for the relief of Claudia Marquez Rico.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR S98)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S98"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Provides for the relief of Claudia Marquez Rico.<br/>
+	</summary>
+</bill>

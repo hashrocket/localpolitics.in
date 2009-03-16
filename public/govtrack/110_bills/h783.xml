@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="783" updated="2009-01-08T18:27:10-05:00">
+	<status><vote date="1193075340" datetime="2007-10-22T14:49:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1170219600" datetime="2007-01-31"/>
+	<titles>
+		<title type="short" as="introduced">Mesa Verde National Park Boundary Expansion Act of 2007</title>
+		<title type="short" as="reported to house">Mesa Verde National Park Boundary Expansion Act of 2007</title>
+		<title type="short" as="passed house">Mesa Verde National Park Boundary Expansion Act of 2007</title>
+		<title type="official" as="introduced">To modify the boundary of Mesa Verde National Park, and for other purposes.</title>
+	</titles>
+	<sponsor id="400620"/>
+	<cosponsors>
+		<cosponsor id="400412" joined="2007-04-16"/>
+		<cosponsor id="412191" joined="2007-07-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1170219600" datetime="2007-01-31"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1170824400" datetime="2007-02-07"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1184817600" datetime="2007-07-19"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1191988800" datetime="2007-10-10"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<action date="1191988800" datetime="2007-10-10"><text>Subcommittee on National Parks, Forests, and Public Lands Discharged.</text></action>
+		<calendar date="1191988800" datetime="2007-10-10" ><text>Ordered to be Reported (Amended) by Unanimous Consent.</text></calendar>
+		<action date="1193070540" datetime="2007-10-22T13:29:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-396.</text></action>
+		<calendar number="250" date="1193070600" datetime="2007-10-22T13:30:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 250.</text></calendar>
+		<action date="1193075040" datetime="2007-10-22T14:44:00-04:00"><text>Mr. Grijalva moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1193075040" datetime="2007-10-22T14:44:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11786-11787"/></action>
+		<action date="1193075040" datetime="2007-10-22T14:44:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 783.</text></action>
+		<vote date="1193075340" how="by voice vote" datetime="2007-10-22T14:49:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H11786-11787"/></vote>
+		<action date="1193112000" datetime="2007-10-23"><text>Received in the Senate.</text></action>
+		<calendar under="General Orders" number="558" date="1200978000" datetime="2008-01-22" calendar="Senate Legislative" ><text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 558.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/22/2007--Passed House amended. Mesa Verde National Park Boundary Expansion Act of 2007 - Authorizes the Secretary of the Interior to acquire specified land adjacent to the Mesa Verde National Park in Colorado or an interest in such land for addition to the Park. Permits such an acquisition of land to be made by donation, purchase from a willing seller with donated or appropriated funds, or exchange. Revises the boundary of the Park to reflect the acquisition of such land. Requires the Secretary to administer any land or interest in land acquired under this Act as part of the Park. Authorizes appropriations. 
+	</summary>
+</bill>

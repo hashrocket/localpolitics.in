@@ -1,0 +1,44 @@
+<bill session="110" type="h" number="7177" updated="2009-01-09T07:35:21-05:00">
+	<status><enacted date="1224043200" datetime="2008-10-15" /></status>
+
+	<introduced date="1222488000" datetime="2008-09-27"/>
+	<titles>
+		<title type="short" as="introduced">Naval Vessel Transfer Act of 2008</title>
+		<title type="short" as="passed house">Naval Vessel Transfer Act of 2008</title>
+		<title type="short" as="passed senate">Naval Vessel Transfer Act of 2008</title>
+		<title type="official" as="introduced">To authorize the transfer of naval vessels to certain foreign recipients, and for other purposes.</title>
+	</titles>
+	<sponsor id="400025"/>
+	<cosponsors>
+		<cosponsor id="400344" joined="2008-09-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1222488000" datetime="2008-09-27"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1222555980" datetime="2008-09-27T19:53:00-04:00"><text>Mr. Berman moved to suspend the rules and pass the bill.</text></action>
+		<action date="1222556040" datetime="2008-09-27T19:54:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10276-10278"/></action>
+		<action date="1222556040" datetime="2008-09-27T19:54:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 7177.</text></action>
+		<vote date="1222556520" how="by voice vote" datetime="2008-09-27T20:02:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H10277"/></vote>
+		<action date="1222660800" datetime="2008-09-29"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1222833600" how="by Unanimous Consent" datetime="2008-10-01" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S10396"/></vote>
+		<topresident date="1222833600" datetime="2008-10-01" ><text>Cleared for White House.</text></topresident>
+		<action date="1222920000" datetime="2008-10-02"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1223265600" datetime="2008-10-06" ><text>Presented to President.</text></topresident>
+		<signed date="1224043200" datetime="2008-10-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-429" date="1224043200" datetime="2008-10-15" type="public" ><text>Became Public Law No: 110-429.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/15/2008--Public Law. (This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.) Title I: Naval Vessel Transfer - Naval Vessel Transfer Act of 2008 - (Sec. 102) Authorizes the President to transfer on a grant basis to: (1) Pakistan, the OLIVER HAZARD PERRY class guided missile frigate MCINERNEY; (2) Chile, the KAISER class oiler ANDREW J. HIGGINS; and (3) Peru, the NEWPORT class amphibious tank landing ships FRESNO and RACINE. States that: (1) the value of such vessels transferred on a grant basis shall not be counted against the aggregate value of excess defense articles transferred to countries in any fiscal year under the Foreign Assistance Act of 1961; (2) transfer costs shall be charged to the recipient; and (3) to the maximum extent practicable, the country to which a vessel is transferred shall have necessary vessel repair and refurbishment carried out at U.S. shipyards (including U.S. Navy shipyards). Terminates transfer authority two years after enactment of this Act. Title II: United States Arms Exports - (Sec. 201) Directs the President to: (1) carry out an ongoing assessment of the extent to which Israel possesses a qualitative military edge (as defined by this Act) over military threats; (2) use such assessment in reviewing applications to sell defense articles and services under the Arms Export Control Act to a Middle Eastern country other than Israel; and (3) submit an initial report on such assessment to the appropriate congressional committees by June 30, 2009, and then every four years thereafter. Amends the Arms Export Control Act to require any certification relating to a proposed sale or export of defense articles or services to a Middle Eastern country other than Israel to include a determination that such sale or export will not adversely affect Israel's qualitative military edge (as defined by this Act for purposes of this provision) over military threats. (Sec. 202) Makes specified foreign military financing program funds for FY2009 available on a grant basis for Israel. Authorizes funding in FY2009 for the procurement of advanced weapons systems, including research and development, by Israel. (Sec. 203) Amends the Arms Export Control Act to provide the Republic of Korea with special foreign military sales status, including expedited congressional review for export of U.S. defense items and services.<br/>
+	</summary>
+</bill>

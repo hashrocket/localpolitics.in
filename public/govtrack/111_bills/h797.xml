@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="797" updated="2009-03-07T11:21:32-05:00">
+	<status><introduced date="1233637200" datetime="2009-02-03"/></status>
+
+	<introduced date="1233637200" datetime="2009-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Maximize Offshore Resource Exploration Act of 2009</title>
+		<title type="short" as="introduced">MORE Act of 2009</title>
+		<title type="official" as="introduced">To greatly enhance the Nation's environmental, energy, economic, and national security by terminating long-standing Federal prohibitions on the domestic production of abundant offshore supplies of oil and natural gas, and for other purposes.</title>
+	</titles>
+	<sponsor id="400057"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to the Committee on Natural Resources, and in addition to the Committees on the Budget, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to House Natural Resources</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to House Budget</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to House Rules</text></action>
+		<action date="1234155600" datetime="2009-02-09"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on Energy and Mineral Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Referral" />
+		<committee name="House Budget" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Rules" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

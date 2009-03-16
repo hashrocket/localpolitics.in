@@ -1,0 +1,59 @@
+<bill session="111" type="h" number="643" updated="2009-03-07T11:03:14-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">Care for Life Act of 2009</title>
+		<title type="official" as="introduced">To encourage and assist women to carry their children to live birth by providing services, during and after pregnancy, that will alleviate the financial, social, emotional, and other difficulties that may otherwise lead to abortion.</title>
+	</titles>
+	<sponsor id="400640"/>
+	<cosponsors>
+		<cosponsor id="400659" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to House Ways and Means</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to House Education and Labor</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Adoption and foster care"/>
+		<term name="Child care and development"/>
+		<term name="Child health"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Domestic violence and child abuse"/>
+		<term name="Education programs funding"/>
+		<term name="Employment and training programs"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Government information and archives"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Higher education"/>
+		<term name="Income tax credits"/>
+		<term name="Lawyers and legal services"/>
+		<term name="Marriage and family status"/>
+		<term name="Poverty and welfare assistance"/>
+		<term name="School administration"/>
+		<term name="Sex and reproductive health"/>
+		<term name="Student aid and college costs"/>
+		<term name="Tax treatment of families"/>
+		<term name="Teaching, teachers, curricula"/>
+		<term name="Women's health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

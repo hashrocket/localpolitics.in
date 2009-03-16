@@ -1,0 +1,35 @@
+<bill session="110" type="s" number="1387" updated="2009-01-09T14:41:20-05:00">
+	<status><calendar date="1221624000" datetime="2008-09-17" /></status>
+
+	<introduced date="1179115200" datetime="2007-05-14"/>
+	<titles>
+		<title type="short" as="introduced">National Greenhouse Gas Registry Act of 2007</title>
+		<title type="short" as="reported to senate">Federal Greenhouse Gas Registry Act of 2008</title>
+		<title type="official" as="introduced">A bill to amend the Emergency Planning and Community Right-to-Know Act of 1986 to provide for greenhouse gases.</title>
+	</titles>
+	<sponsor id="412242"/>
+	<cosponsors>
+		<cosponsor id="300091" joined="2007-05-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1179115200" datetime="2007-05-14"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar date="1221624000" datetime="2008-09-17" ><text>Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1222228800" datetime="2008-09-24"><text>Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute and an amendment to the title. With written report No. 110-491. Minority views filed.</text></action>
+		<calendar under="General Orders" number="1067" date="1222228800" datetime="2008-09-24" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1067.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/14/2007--Introduced.<br/>National Greenhouse Gas Registry Act of 2007 - Amends the Emergency Planning and Community Right-to-Know Act of 1986 to require the Administrator of the Environmental Protection Agency (EPA) to: (1) include greenhouse gases (GHG) on the list of extremely hazardous substances; and (2) establish a threshold planning quantity for GHGs of one metric ton for each GHG.<br/>Authorizes the Administrator to determine the level of global warming pollution emissions from a source within an affected facility that shall be considered to be eligible for a de minimis exemption.<br/>Provides that the establishment of a state emergency response commission, an emergency planning district, or an emergency planning committee shall not be required with respect to any GHG.<br/>Requires affected facilities to submit to state emergency response commissions annual reports describing the GHG emissions and emission baselines.<br/>Requires the Administrator to establish and maintain a national GHG emissions registry that includes: (1) reports received from state emergency response commissions; (2) an estimate of the quantity of emissions of the GHG by each category of source; (3) an analysis of trends in the quantity, composition, and sources of GHG; and (4) an estimate of mobile source emissions, direct stationary combustion source emissions, the quantity of petroleum products sold or imported by each affected facility and the quantity of GHG that would be emitted when those products are used for transportation, reductions in GHG created by offsets, the quantity of hydrofluorocarbons, perfluorocarbons, and sulfur hexafluoride that are sold or imported by affected facilities and that will be emitted in the United States, and other categories of emissions. Authorizes the Administrator to establish a new reporting system for GHGs after providing for a public hearing and opportunity to comment. Requires such a system, as compared with the registry, to incorporate and apply the same affected facilities, gases, sources, and economic sectors and to be equally comprehensive.<br/>
+	</summary>
+</bill>

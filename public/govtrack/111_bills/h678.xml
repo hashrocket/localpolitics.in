@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="678" updated="2009-03-07T11:07:25-05:00">
+	<status><introduced date="1232946000" datetime="2009-01-26"/></status>
+
+	<introduced date="1232946000" datetime="2009-01-26"/>
+	<titles>
+		<title type="short" as="introduced">Huntington's Disease Parity Act of 2009</title>
+		<title type="official" as="introduced">To require the Commissioner of Social Security to revise the medical criteria for evaluating disability in a person diagnosed with Huntington's Disease and to waive the 24-month waiting period for Medicare eligibility for individuals disabled by Huntington's Disease.</title>
+	</titles>
+	<sponsor id="400133"/>
+	<cosponsors>
+		<cosponsor id="400289" joined="2009-02-10"/>
+		<cosponsor id="400162" joined="2009-02-03"/>
+		<cosponsor id="400140" joined="2009-02-03"/>
+		<cosponsor id="400570" joined="2009-02-03"/>
+		<cosponsor id="400251" joined="2009-03-04"/>
+		<cosponsor id="400101" joined="2009-02-10"/>
+		<cosponsor id="400309" joined="2009-03-04"/>
+		<cosponsor id="400245" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1232946000" datetime="2009-01-26"><text>Sponsor introductory remarks on measure. (CR E168)</text></action>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Hereditary and development disorders"/>
+		<term name="Medicare"/>
+		<term name="Neurological disorders"/>
+		<term name="Social security and elderly assistance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/2009--Introduced.<br/>Huntington's Disease Parity Act of 2009 - Directs the Commissioner of Social Security to revise the medical criteria for evaluating disability caused by adult-onset and juvenile Huntington's Disease. Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to eliminate the 24-month waiting period for Medicare eligibility for individuals disabled by Huntington's Disease.<br/>
+	</summary>
+</bill>

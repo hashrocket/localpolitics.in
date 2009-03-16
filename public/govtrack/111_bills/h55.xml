@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="55" updated="2009-03-07T09:54:14-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Commuter Act of 2009</title>
+		<title type="short" as="introduced">Creating Opportunities to Motivate Mass-transit Utilization To Encourage Ridership Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow employers a refundable credit against income tax for 50 percent of the employer's cost of providing tax-free transit passes to employees.</title>
+	</titles>
+	<sponsor id="400222"/>
+	<cosponsors>
+		<cosponsor id="400027" joined="2009-01-06"/>
+		<cosponsor id="400630" joined="2009-01-06"/>
+		<cosponsor id="412202" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR E15)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Employee benefits and pensions"/>
+		<term name="Income tax credits"/>
+		<term name="Public transit"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Creating Opportunities to Motivate Mass-transit Utilization to Encourage Ridership Act of 2009 or the Commuter Act of 2009 - Amends the Internal Revenue Code to allow employers a refundable tax credit for 50% of the cost of transit passes provided on a tax-free basis to employees. 
+	</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="110" type="h" number="3775" updated="2009-01-09T00:46:18-05:00">
+	<status><vote date="1193092200" datetime="2007-10-22T19:30:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1191902400" datetime="2007-10-09"/>
+	<titles>
+		<title type="short" as="introduced">Industrial Energy Efficiency Research and Development Act of 2007</title>
+		<title type="short" as="passed house">Industrial Energy Efficiency Research and Development Act of 2007</title>
+		<title type="official" as="introduced">To support research and development of new industrial processes and technologies that optimize energy efficiency and environmental performance, utilize diverse sources of energy, and increase economic competitiveness.</title>
+	</titles>
+	<sponsor id="400229"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1191902400" datetime="2007-10-09"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1191902400" datetime="2007-10-09"><text>Referred to the Subcommittee on Energy and Environment.</text></action>
+		<action date="1191988800" datetime="2007-10-10"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1191988800" datetime="2007-10-10"><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action date="1192507200" datetime="2007-10-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1192507200" datetime="2007-10-16" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1193081640" datetime="2007-10-22T16:34:00-04:00"><text>Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-401.</text></action>
+		<calendar number="255" date="1193081640" datetime="2007-10-22T16:34:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 255.</text></calendar>
+		<action date="1193091600" datetime="2007-10-22T19:20:00-04:00"><text>Mr. Lampson moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1193091600" datetime="2007-10-22T19:20:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11820-11822"/></action>
+		<action date="1193091660" datetime="2007-10-22T19:21:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3775.</text></action>
+		<vote date="1193092200" how="by voice vote" datetime="2007-10-22T19:30:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H11821"/></vote>
+		<action date="1193112000" datetime="2007-10-23"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1221624000" datetime="2008-09-17"><text>Hearing Held by Subcommittee on Energy and Environment Prior to Introduction and Referral (September 25, 2007)..</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/22/2007--Passed House amended. Industrial Energy Efficiency Research and Development Act of 2007 - (Sec. 3) Directs the Secretary of Energy to establish a program to conduct: (1) energy research, development, demonstration, and commercial application activities with respect to new industrial and commercial processes, technologies, and methods to achieve improvements in energy efficiency and enhance the economic competitiveness of the U.S. industrial sector; and (2) environmental research and development with respect to new industrial and commercial processes, technologies, and methods to achieve environmental performance improvements such as waste reduction, emissions reductions, and more efficient water use.<br/>Authorizes such activities to include: (1) activities to support the development and use of technologies and processes that improve the quality and quantity of feedstocks recovered or recycled from process and waste streams; (2) research to meet manufacturing feedstock requirements with alternative resources; (3) research to develop and demonstrate technologies and processes that utilize alternative energy sources to supply heat, power, and new feedstocks for energy-intensive industries; (4) research to achieve energy efficiency in steam, power, control system, and process heat technologies and in other manufacturing processes; and (5) a program to fund research, development, and demonstration relating to inventors' and small companies' technology proposals, based on energy savings potential, commercial viability, and technical merit. Requires all awards given under such program to made on a competitive, merit-reviewed basis.<br/>Requires the Secretary to report to Congress on such activities.<br/>(Sec. 4) Directs the Secretary to provide funding to university-based industrial research and assessment centers to: (1) identify opportunities for optimizing energy efficiency and environmental performance; (2) promote application of emerging concepts and technologies in small and medium-sized manufacturers; (3) promote the research and development for use of alternative energy sources for energy intensive industries; (4) coordinate with state research offices and provide a clearinghouse for industrial process and energy efficiency technical assistance resources; and (5) coordinate with state-accredited technical training centers and community colleges, while ensuring appropriate services to all regions of the United States.<br/>Authorizes appropriations.<br/>
+	</summary>
+</bill>

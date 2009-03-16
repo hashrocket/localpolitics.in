@@ -1,0 +1,58 @@
+<bill session="111" type="h" number="365" updated="2009-03-07T10:30:26-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Ocean and Coastal Mapping Integration Act</title>
+		<title type="official" as="introduced">To direct the President to establish a program to develop a coordinated and comprehensive Federal ocean and coastal mapping plan for the Great Lakes and coastal state waters, the territorial sea, the exclusive economic zone, and the continental shelf of the United States, and for other purposes.</title>
+	</titles>
+	<sponsor id="400041"/>
+	<cosponsors>
+		<cosponsor id="400128" joined="2009-01-13"/>
+		<cosponsor id="400073" joined="2009-01-09"/>
+		<cosponsor id="400308" joined="2009-01-09"/>
+		<cosponsor id="400001" joined="2009-01-09"/>
+		<cosponsor id="412307" joined="2009-01-26"/>
+		<cosponsor id="400129" joined="2009-01-09"/>
+		<cosponsor id="400193" joined="2009-01-09"/>
+		<cosponsor id="412312" joined="2009-02-03"/>
+		<cosponsor id="400049" joined="2009-01-09"/>
+		<cosponsor id="412219" joined="2009-01-09"/>
+		<cosponsor id="400062" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Sponsor introductory remarks on measure. (CR E62)</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the Committee on Natural Resources, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to House Natural Resources</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to House Science and Technology</text></action>
+		<action date="1231477200" datetime="2009-01-09"><committee name="House Science and Technology"/><text>Referred to the Subcommittee on Energy and Environment.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="Insular Affairs, Oceans and Wildlife" activity="Referral" />
+		<committee name="House Science and Technology" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Science and Technology" subcommittee="Energy and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="174" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Advisory bodies"/>
+		<term name="Ecology"/>
+		<term name="Government information and archives"/>
+		<term name="Great Lakes"/>
+		<term name="Higher education"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Marine pollution"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Ocean and Coastal Mapping Integration Act - Directs the President to establish a a program to develop a coordinated and comprehensive federal ocean and coastal mapping program for the Great Lakes and coastal state waters, the territorial sea, the exclusive economic zone, and the U.S. continental shelf that enhances ecosystem approaches in decision-making for conservation and management of marine resources and habitats, establishes research and mapping priorities, supports the siting of research and other platforms, and advances ocean and coastal science. Directs the Administrator of the National Oceanic and Atmospheric Administration (NOAA) to convene or use an existing interagency committee on ocean and coastal mapping to implement such program and to coordinate federal ocean and coastal mapping and surveying activities with other federal efforts (including the Digital Coast, Geospatial One-Stop, and the Federal Geographic Data Committee), international mapping activities, coastal states, user groups, and nongovernmental entities. Authorizes the Administrator to convene an ocean and coastal mapping advisory panel consisting of representatives from nongovernmental entities to provide input regarding activities of the committee. Directs the Administrator to develop a plan for an integrated ocean and coastal mapping initiative within NOAA that: (1) identifies all ocean and coastal mapping programs within NOAA, establishing priorities; (2) encourages the development of innovative ocean and coastal mapping technologies and applications; and (3) documents available and developing technologies, best practices in data processing and distribution, and leveraging opportunities with other federal agencies, coastal states, and nongovernmental entities. Authorizes the Administrator to establish joint ocean and coastal mapping centers of excellence (including a joint hydrographic center) in institutions of higher education to conduct specified activities, including: (1) research and development of innovative ocean and coastal mapping technologies, equipment, and data products; and (2) mapping of the U.S. outer continental shelf. Requires the Administrator to continue developing a strategy for expanding contracting with nongovernmental entities. 
+	</summary>
+</bill>

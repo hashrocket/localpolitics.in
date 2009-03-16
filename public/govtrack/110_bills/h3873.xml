@@ -1,0 +1,44 @@
+<bill session="110" type="h" number="3873" updated="2009-01-09T00:57:56-05:00">
+	<status><vote date="1201109100" datetime="2008-01-23T13:25:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1192593600" datetime="2007-10-17"/>
+	<titles>
+		<title type="short" as="introduced">Section 515 Rural Housing Property Transfer Improvement Act of 2007</title>
+		<title type="short" as="reported to house">Section 515 Rural Housing Property Transfer Improvement Act of 2007</title>
+		<title type="short" as="passed house">Section 515 Rural Housing Property Transfer Improvement Act of 2007</title>
+		<title type="official" as="introduced">To expedite the transfer of ownership of rural multifamily housing projects with loans made or insured under section 515 of the Housing Act of 1949 so that such projects are rehabilitated and preserved for use for affordable housing.</title>
+	</titles>
+	<sponsor id="412220"/>
+	<cosponsors>
+		<cosponsor id="400061" joined="2007-10-17"/>
+		<cosponsor id="400009" joined="2007-10-31"/>
+		<cosponsor id="400179" joined="2007-10-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1192593600" datetime="2007-10-17"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1193803200" datetime="2007-10-31"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1193803200" datetime="2007-10-31" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1196798280" datetime="2007-12-04T15:58:00-05:00"><text>Reported by the Committee on Financial Services. H. Rept. 110-464.</text></action>
+		<calendar number="288" date="1196798280" datetime="2007-12-04T15:58:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 288.</text></calendar>
+		<action date="1201108380" datetime="2008-01-23T13:13:00-05:00"><text>Mr. Hodes moved to suspend the rules and pass the bill.</text></action>
+		<action date="1201108380" datetime="2008-01-23T13:13:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H410-412"/></action>
+		<action date="1201108380" datetime="2008-01-23T13:13:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3873.</text></action>
+		<vote date="1201109100" how="by voice vote" datetime="2008-01-23T13:25:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H410"/></vote>
+		<action date="1201150800" datetime="2008-01-24"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/23/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)<br/>Section 515 Rural Housing Property Transfer Improvement Act of 2007 - Amends the Housing Act of 1949 to direct the Secretary of Agriculture to: (1) implement administrative and procedural changes to expedite the application approval process for transferring ownership of Section 515 rural multifamily housing projects for which a loan is either made or insured for a project's preservation, continued use restriction, and rehabilitation; and (2) actively facilitate such transfers. (A Section 515 project is one involving housing and related facilities for elderly persons and families or other persons and families of low income.)<br/>Grants final regulatory authority over such property transfers to the Office of Rental Housing Preservation of the Rural Housing Service of the Department of Agriculture.<br/>Authorizes such Office, with respect to such transfers, to work with and seek recommendations from the State Rural Development offices of the Department of Agriculture.<br/>Sets forth deadlines for the processing of transfer applications by such Office as well as by state and local offices.<br/>Instructs the Secretary of Agriculture to report to certain congressional committees on: (1) actions taken to coordinate with other federal agencies, including the Department of Housing and Urban Development (HUD) and the Internal Revenue Service (IRS), and, in particular, with the program for rental assistance under section 8 of the United States Housing Act of 1937, the multifamily mortgage insurance programs under title II of the National Housing Act, and the programs for low-income housing tax credits and for tax-exempt bonds under the Internal Revenue Code; (2) resulting improvements within the Rural Housing Service in expediting the transfer of ownership of projects with loans made or insured under section 515 of the Housing Act of 1949; and (3) recommended legislative changes.<br/>
+	</summary>
+</bill>

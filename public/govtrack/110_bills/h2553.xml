@@ -1,0 +1,41 @@
+<bill session="110" type="h" number="2553" updated="2009-01-08T22:09:50-05:00">
+	<status><vote date="1191959280" datetime="2007-10-09T16:48:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1179979200" datetime="2007-05-24"/>
+	<titles>
+		<title type="short" as="introduced">Public Diplomacy Resource Centers Act of 2007</title>
+		<title type="short" as="passed house">Public Diplomacy Resource Centers Act of 2007</title>
+		<title type="short" as="reported to senate">Public Diplomacy Resource Centers Act of 2008</title>
+		<title type="official" as="introduced">To amend the State Department Basic Authorities Act of 1956 to provide for the establishment and maintenance of existing libraries and resource centers at United States diplomatic and consular missions to provide information about American culture, society, and history, and for other purposes.</title>
+	</titles>
+	<sponsor id="400423"/>
+	<cosponsors>
+		<cosponsor id="400344" joined="2007-05-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1179979200" datetime="2007-05-24"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1191958800" datetime="2007-10-09T16:40:00-04:00"><text>Ms. Watson moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1191958860" datetime="2007-10-09T16:41:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11346-11347"/></action>
+		<action date="1191958860" datetime="2007-10-09T16:41:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2553.</text></action>
+		<vote date="1191959280" how="by voice vote" datetime="2007-10-09T16:48:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H11346"/></vote>
+		<action date="1192420800" datetime="2007-10-15"><text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text></action>
+		<calendar date="1214280000" datetime="2008-06-24" ><text>Committee on Foreign Relations. Ordered to be reported with amendments favorably.</text></calendar>
+		<action date="1221192000" datetime="2008-09-12"><text>Committee on Foreign Relations. Reported by Senator Biden with amendments. With written report No. 110-459.</text></action>
+		<calendar under="General Orders" number="958" date="1221192000" datetime="2008-09-12" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 958.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/12/2008--Reported to Senate amended. Public Diplomacy Resource Centers Act of 2008 - Amends the State Department Basic Authorities Act of 1956 to direct the Under Secretary for Public Diplomacy to provide for the establishment of new, and maintenance of existing, libraries and resource centers at or in connection with U.S. diplomatic or consular missions. Directs the Secretary of State to: (1) ensure that such libraries and resource centers are open to the general public to the greatest extent practicable, subject to security considerations; and (2) schedule public showings of American films that showcase American culture, society, values, and history. Directs the Advisory Commission on Public Diplomacy to report to the House Committee on Foreign Affairs and the Senate Committee on Foreign Relations respecting the functions and effectiveness of such libraries and resource centers. Authorizes appropriations.<br/>
+	</summary>
+</bill>

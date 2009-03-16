@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="93" updated="2009-03-07T09:58:38-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To extend the supplemental security income benefits program to Guam and the United States Virgin Islands.</title>
+	</titles>
+	<sponsor id="400073"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2009-01-06"/>
+		<cosponsor id="400128" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Caribbean area"/>
+		<term name="Guam"/>
+		<term name="Poverty and welfare assistance"/>
+		<term name="U.S. territories and protectorates"/>
+		<term name="Virgin Islands"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Amends part A (General Provisions) of title XI of the Social Security Act (SSA) to make Guam and the Virgin Islands eligible for the Supplemental Security Income program for the Aged, Blind, and Disabled under SSA title XVI. 
+	</summary>
+</bill>

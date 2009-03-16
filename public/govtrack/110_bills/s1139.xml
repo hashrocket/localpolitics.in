@@ -1,0 +1,41 @@
+<bill session="110" type="s" number="1139" updated="2009-01-09T14:09:22-05:00">
+	<status><calendar date="1179892800" datetime="2007-05-23" /></status>
+
+	<introduced date="1176868800" datetime="2007-04-18"/>
+	<titles>
+		<title type="short" as="introduced">National Landscape Conservation System Act</title>
+		<title type="short" as="reported to senate">National Landscape Conservation System Act</title>
+		<title type="official" as="introduced">A bill to establish the National Landscape Conservation System, and for other purposes.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+		<cosponsor id="300018" joined="2007-04-18"/>
+		<cosponsor id="300082" joined="2007-10-01"/>
+		<cosponsor id="400619" joined="2007-04-18"/>
+		<cosponsor id="400357" joined="2007-04-18"/>
+		<cosponsor id="300100" joined="2007-05-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1176868800" datetime="2007-04-18"><text>Sponsor introductory remarks on measure. (CR S4679)</text></action>
+		<action date="1176868800" datetime="2007-04-18"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text><reference label="text of measure as introduced" ref="CR S4679-4680"/></action>
+		<action date="1178164800" datetime="2007-05-03"><text>Committee on Energy and Natural Resources Senate Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 110-91.</text></action>
+		<calendar date="1179892800" datetime="2007-05-23" ><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1183003200" datetime="2007-06-28"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-116.</text></action>
+		<calendar under="General Orders" number="249" date="1183003200" datetime="2007-06-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 249.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/28/2007--Reported to Senate amended. National Landscape Conservation System Act - Establishes in the Bureau of Land Management (BLM) the National Landscape Conservation System (thus, enacting into law the National Landscape Conservation System (NLCS) created by BLM in 2000) in order to conserve, protect, and restore nationally significant landscapes that have outstanding cultural, ecological, and scientific values for the benefit of current and future generations. Requires that the NLCS include each of the following areas administered by BLM: (1) each area that is designated as a national monument, a national conservation area, a wilderness study area, a national scenic trail or historic trail designated as a component of the National Trails System, a component of the National Wild and Scenic Rivers System, or a component of the National Wilderness Preservation System; and (2) any area designated by Congress to be administered for conservation purposes, including the Steens Mountain Cooperative Management and Protection Area, the Headwaters Forest Reserve, the Yaquina Head Outstanding Natural Area, and any additional area designated by Congress for inclusion in the NLCS. Authorizes appropriations. 
+	</summary>
+</bill>

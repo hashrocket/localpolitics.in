@@ -1,0 +1,38 @@
+<bill session="110" type="hr" number="878" updated="2009-01-09T09:41:24-05:00">
+	<status><vote date="1197940080" datetime="2007-12-17T21:08:00-05:00" where="h" result="pass" how="roll" roll="1169"/></status>
+
+	<introduced date="1197867600" datetime="2007-12-17"/>
+	<titles>
+		<title type="official" as="introduced">Providing for the consideration of the Senate amendment to the bill (H.R. 2764) making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2008, and for other purposes.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1197933000" datetime="2007-12-17T19:10:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-497, by Ms. Slaughter.</text></action>
+		<action date="1197933000" datetime="2007-12-17T19:10:00-05:00"><text>Rule provides for consideration of the senate amendment to H.R. 2764.</text></action>
+		<calendar date="1197933060" datetime="2007-12-17T19:11:00-05:00" ><text>Placed on the House Calendar, Calendar No. 174.</text></calendar>
+		<action date="1197933660" datetime="2007-12-17T19:21:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H15516-15525"/></action>
+		<action date="1197933720" datetime="2007-12-17T19:22:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 878.</text></action>
+		<action date="1197937920" datetime="2007-12-17T20:32:00-05:00"><text>POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 878, the Chair put the question on ordering the previous question, and by voice vote, announced that the ayes had prevailed. Mr. Lincoln Diaz-Balart demanded the yeas and nays and the Chair postponed further proceedings on the question of ordering the previous question until later in the legislative day.</text></action>
+		<action date="1197939360" datetime="2007-12-17T20:56:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H15526-15527"/></action>
+		<action date="1197939720" datetime="2007-12-17T21:02:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 216 - 186 (Roll no. 1168).</text><reference label="consideration" ref="CR H15525, H15526"/></action>
+		<vote date="1197940080" how="roll" roll="1169" datetime="2007-12-17T21:08:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 214 - 189 (Roll no. 1169).</text><reference label="text" ref="CR H15516"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/17/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Sets forth the rule for the consideration of the Senate amendment to H.R. 2764 (making appropriations for the Department of State, foreign operations, and related programs for FY2008).<br/>
+	</summary>
+</bill>

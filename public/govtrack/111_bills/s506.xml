@@ -1,0 +1,35 @@
+<bill session="111" type="s" number="506" updated="2009-03-07T14:33:31-05:00">
+	<status><introduced date="1235970000" datetime="2009-03-02"/></status>
+
+	<introduced date="1235970000" datetime="2009-03-02"/>
+	<titles>
+		<title type="short" as="introduced">Stop Tax Haven Abuse Act</title>
+		<title type="official" as="introduced">A bill to restrict the use of offshore tax havens and abusive tax shelters to inappropriately avoid Federal taxation, and for other purposes.</title>
+	</titles>
+	<sponsor id="300066"/>
+	<cosponsors>
+		<cosponsor id="412323" joined="2009-03-04"/>
+		<cosponsor id="412243" joined="2009-03-02"/>
+		<cosponsor id="300078" joined="2009-03-02"/>
+		<cosponsor id="412247" joined="2009-03-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1235970000" datetime="2009-03-02"><text>Sponsor introductory remarks on measure. (CR S2624-2638)</text></action>
+		<action date="1235970000" datetime="2009-03-02"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="1265" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

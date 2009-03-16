@@ -1,0 +1,60 @@
+<bill session="111" type="h" number="1050" updated="2009-03-07T11:52:13-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Human Cloning Prohibition Act of 2009</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, to prohibit human cloning.</title>
+	</titles>
+	<sponsor id="400391"/>
+	<cosponsors>
+		<cosponsor id="400224" joined="2009-03-05"/>
+		<cosponsor id="412309" joined="2009-03-05"/>
+		<cosponsor id="412216" joined="2009-03-05"/>
+		<cosponsor id="412262" joined="2009-03-05"/>
+		<cosponsor id="400655" joined="2009-03-05"/>
+		<cosponsor id="400320" joined="2009-03-05"/>
+		<cosponsor id="400175" joined="2009-03-05"/>
+		<cosponsor id="400368" joined="2009-03-05"/>
+		<cosponsor id="400380" joined="2009-03-05"/>
+		<cosponsor id="412302" joined="2009-03-05"/>
+		<cosponsor id="400441" joined="2009-03-05"/>
+		<cosponsor id="400643" joined="2009-03-05"/>
+		<cosponsor id="400633" joined="2009-03-05"/>
+		<cosponsor id="412268" joined="2009-03-05"/>
+		<cosponsor id="400644" joined="2009-03-05"/>
+		<cosponsor id="412230" joined="2009-03-05"/>
+		<cosponsor id="400421" joined="2009-02-12"/>
+		<cosponsor id="400221" joined="2009-03-05"/>
+		<cosponsor id="400649" joined="2009-03-05"/>
+		<cosponsor id="400049" joined="2009-03-05"/>
+		<cosponsor id="400315" joined="2009-03-05"/>
+		<cosponsor id="400651" joined="2009-03-05"/>
+		<cosponsor id="400029" joined="2009-03-05"/>
+		<cosponsor id="400055" joined="2009-03-05"/>
+		<cosponsor id="400141" joined="2009-03-05"/>
+		<cosponsor id="412226" joined="2009-03-05"/>
+		<cosponsor id="412283" joined="2009-03-05"/>
+		<cosponsor id="400341" joined="2009-03-05"/>
+		<cosponsor id="412191" joined="2009-03-05"/>
+		<cosponsor id="400252" joined="2009-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the House Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="110" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Human Cloning Prohibition Act of 2009 - Amends the federal criminal code to prohibit any public or private person or entity, in or affecting interstate commerce, from: (1) performing or attempting to perform human cloning; (2) participating in an attempt to perform human cloning; or (3) shipping, receiving, or importing the product of human cloning for any purpose. Sets forth criminal and civil penalties for violations.<br/>Provides that nothing in this Act shall restrict areas of scientific research not specifically prohibited by this Act, including research in the use of nuclear transfer or other cloning techniques to produce molecules, DNA, cells other than human embryos, tissues, organs, plants, or animals other than humans.<br/>
+	</summary>
+</bill>

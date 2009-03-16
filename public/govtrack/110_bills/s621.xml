@@ -1,0 +1,43 @@
+<bill session="110" type="s" number="621" updated="2009-01-09T12:31:16-05:00">
+	<status><calendar date="1176350400" datetime="2007-04-12" /></status>
+
+	<introduced date="1171515600" datetime="2007-02-15"/>
+	<titles>
+		<title type="short" as="introduced">Wartime Treatment Study Act</title>
+		<title type="short" as="reported to senate">Wartime Treatment Study Act</title>
+		<title type="official" as="introduced">A bill to establish commissions to review the facts and circumstances surrounding injustices suffered by European Americans, European Latin Americans, and Jewish refugees during World War II.</title>
+	</titles>
+	<sponsor id="300042"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2007-02-15"/>
+		<cosponsor id="400064" joined="2007-04-17"/>
+		<cosponsor id="300059" joined="2007-02-15"/>
+		<cosponsor id="300048" joined="2007-02-15"/>
+		<cosponsor id="300067" joined="2007-02-15"/>
+		<cosponsor id="300090" joined="2008-06-24"/>
+		<cosponsor id="300100" joined="2007-04-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1171515600" datetime="2007-02-15"><text>Sponsor introductory remarks on measure. (CR S2049-2050)</text></action>
+		<action date="1171515600" datetime="2007-02-15"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S2050-2052"/></action>
+		<calendar date="1176350400" datetime="2007-04-12" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1178251200" datetime="2007-05-04"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment. With written report No. 110-62.</text></action>
+		<calendar under="General Orders" number="135" date="1178251200" datetime="2007-05-04" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 135.</text></calendar>
+		<action date="1179979200" datetime="2007-05-24"><text>Sponsor introductory remarks on measure. (CR S6608-6609)</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/4/2007--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Wartime Treatment Study Act - Establishes the Commission on Wartime Treatment of European Americans to review U.S. government wartime treatment (from September 1, 1939, through December 31, 1948) of European Americans and European Latin Americans.<br/>Requires the Commission to review: (1) government actions with respect to European Americans and European Latin Americans pursuant to the Alien Enemies Acts, Presidential Proclamations 2526, 2527, 2655, 2662, 2685, Executive Orders 9066 and 9095, and related directives pertaining to the registration, arrest, exclusion, internment, exchange, or deportation of such people; (2) registration requirements, travel and property restrictions, internment, and forced abandonment of property; (3) participation by European Americans in the U.S. Armed Forces; and (4) appropriate remedies, including future protection of civil liberties during wartime.<br/>Establishes the Commission on Wartime Treatment of Jewish Refugees to review the U.S. government's refusal to allow entry into the United States of Jewish and other refugees fleeing persecution or genocide in Europe. Directs the Commission to include reviews of: (1) the rationale for such refusal, its perceived benefit, and its impact on refugees; and (2) federal refugee policy concerning those fleeing persecution or genocide.<br/>
+	</summary>
+</bill>

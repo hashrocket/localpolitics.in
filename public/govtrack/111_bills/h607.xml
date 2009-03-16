@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="607" updated="2009-03-07T10:58:57-05:00">
+	<status><introduced date="1232082000" datetime="2009-01-16"/></status>
+
+	<introduced date="1232082000" datetime="2009-01-16"/>
+	<titles>
+		<title type="official" as="introduced">To direct the Securities and Exchange Commission to issue guidance on the interpretation of fair value accounting.</title>
+	</titles>
+	<sponsor id="400277"/>
+	<cosponsors>
+		<cosponsor id="412216" joined="2009-02-23"/>
+		<cosponsor id="400209" joined="2009-01-23"/>
+		<cosponsor id="400032" joined="2009-01-26"/>
+		<cosponsor id="400055" joined="2009-01-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1232082000" datetime="2009-01-16"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Accounting and auditing"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Government information and archives"/>
+		<term name="Securities"/>
+		<term name="Securities and Exchange Commission (SEC)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

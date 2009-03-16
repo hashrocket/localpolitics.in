@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="1197" updated="2009-03-07T12:12:56-05:00">
+	<status><introduced date="1235538000" datetime="2009-02-25"/></status>
+
+	<introduced date="1235538000" datetime="2009-02-25"/>
+	<titles>
+		<title type="short" as="introduced">Medal of Honor Health Care Equity Act of 2009</title>
+		<title type="official" as="introduced">To assign a higher priority status for hospital care and medical services provided through the Department of Veterans Affairs to certain veterans who are recipients of the medal of honor.</title>
+	</titles>
+	<sponsor id="412187"/>
+	<cosponsors>
+		<cosponsor id="400339" joined="2009-03-03"/>
+		<cosponsor id="400133" joined="2009-02-25"/>
+		<cosponsor id="400031" joined="2009-03-04"/>
+		<cosponsor id="400162" joined="2009-02-25"/>
+		<cosponsor id="412222" joined="2009-02-25"/>
+		<cosponsor id="412232" joined="2009-03-02"/>
+		<cosponsor id="412310" joined="2009-02-25"/>
+		<cosponsor id="400423" joined="2009-02-25"/>
+		<cosponsor id="400274" joined="2009-02-25"/>
+		<cosponsor id="400310" joined="2009-03-02"/>
+		<cosponsor id="400396" joined="2009-02-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1235538000" datetime="2009-02-25"><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

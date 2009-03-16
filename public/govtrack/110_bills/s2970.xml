@@ -1,0 +1,36 @@
+<bill session="110" type="s" number="2970" updated="2009-01-09T18:03:18-05:00">
+	<status><calendar date="1221624000" datetime="2008-09-17" /></status>
+
+	<introduced date="1209700800" datetime="2008-05-02"/>
+	<titles>
+		<title type="short" as="introduced">Climate Change Drinking Water Adaptation Research Act</title>
+		<title type="short" as="reported to senate">Climate Change Drinking Water Adaptation Research Act</title>
+		<title type="official" as="introduced">A bill to enhance the ability of drinking water utilities in the United States to develop and implement climate change adaptation programs and policies, and for other purposes.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="300011" joined="2008-09-16"/>
+		<cosponsor id="300043" joined="2008-05-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1209700800" datetime="2008-05-02"><text>Read twice and referred to the Committee on Environment and Public Works.</text><reference label="text of measure as introduced" ref="CR S3743-3744"/></action>
+		<calendar date="1221624000" datetime="2008-09-17" ><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1222228800" datetime="2008-09-24"><text>Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-487.</text></action>
+		<calendar under="General Orders" number="1058" date="1222228800" datetime="2008-09-24" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1058.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/24/2008--Reported to Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)<br/>Climate Change Drinking Water Adaptation Research Act - Requires the Administrator of the Environmental Protection Agency (EPA) to establish and provide funding for a program of directed and applied research, to be conducted through a nonprofit water research foundation and sponsored by drinking water utilities, to assist suppliers of drinking water in adapting to the effects of climate change.<br/>Requires research areas to include: (1) water quality and quantity impacts and solutions; (2) impacts on groundwater supplies from carbon sequestration; (3) infrastructure impacts and solutions; (4) desalination, water reuse, and alternative supply technologies; (5) energy efficiency and greenhouse gas minimization; (6) regional and hydrological basin cooperative water management solutions; (7) utilities management, decision support systems, and water management models; (8) greenhouse gas emissions reduction and energy demand management; (9) water conservation and demand management; and (10) communications, education, and public acceptance.<br/>Authorizes appropriations.<br/>
+	</summary>
+</bill>

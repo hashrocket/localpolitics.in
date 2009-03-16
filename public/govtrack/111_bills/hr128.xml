@@ -1,0 +1,57 @@
+<bill session="111" type="hr" number="128" updated="2009-03-07T13:21:22-05:00">
+	<status><vote date="1234309680" datetime="2009-02-10T19:48:00-05:00" where="h" result="pass" how="roll" roll="58"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="official" as="introduced">Honoring Miami University for its 200 years of commitment to extraordinary higher education.</title>
+	</titles>
+	<sponsor id="400036"/>
+	<cosponsors>
+		<cosponsor id="400352" joined="2009-02-04"/>
+		<cosponsor id="412229" joined="2009-02-09"/>
+		<cosponsor id="412227" joined="2009-02-09"/>
+		<cosponsor id="400227" joined="2009-02-09"/>
+		<cosponsor id="412274" joined="2009-02-04"/>
+		<cosponsor id="412327" joined="2009-02-04"/>
+		<cosponsor id="400411" joined="2009-02-04"/>
+		<cosponsor id="400211" joined="2009-02-04"/>
+		<cosponsor id="412010" joined="2009-02-09"/>
+		<cosponsor id="412285" joined="2009-02-04"/>
+		<cosponsor id="412265" joined="2009-02-04"/>
+		<cosponsor id="412266" joined="2009-02-04"/>
+		<cosponsor id="412256" joined="2009-02-04"/>
+		<cosponsor id="412228" joined="2009-02-04"/>
+		<cosponsor id="400406" joined="2009-02-09"/>
+		<cosponsor id="400351" joined="2009-02-04"/>
+		<cosponsor id="412226" joined="2009-02-04"/>
+		<cosponsor id="400235" joined="2009-02-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1234299000" datetime="2009-02-10T16:50:00-05:00"><text>Ms. Fudge moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1234299000" datetime="2009-02-10T16:50:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1104-1107"/></action>
+		<action date="1234299000" datetime="2009-02-10T16:50:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 128.</text></action>
+		<action date="1234299960" datetime="2009-02-10T17:06:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1234309080" datetime="2009-02-10T19:38:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1129-1130"/></action>
+		<vote date="1234309680" how="roll" roll="58" datetime="2009-02-10T19:48:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 58).</text><reference label="text" ref="CR H1104"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="sr" number="35" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Higher education"/>
+		<term name="Ohio"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/10/2009--Passed House amended. Congratulates Miami University, in Ohio, on its 200th anniversary. Expresses the House of Representatives' best wishes for its continued success. Recognizes the school's profound achievements, unwavering commitment to liberal arts education, and active engagement of its students in both curricular and co-curricular life.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="110" type="h" number="1485" updated="2009-01-08T19:56:55-05:00">
+	<status><vote date="1221570300" datetime="2008-09-16T10:05:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1173672000" datetime="2007-03-12"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Esther Karinge.</title>
+	</titles>
+	<sponsor id="400253"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1173672000" datetime="2007-03-12"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1174622400" datetime="2007-03-23"><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+		<action date="1210651200" datetime="2008-05-13"><text>Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law Discharged.</text></action>
+		<action date="1210737600" datetime="2008-05-14"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1210737600" datetime="2008-05-14" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1215543060" datetime="2008-07-08T15:51:00-04:00"><text>Reported by the Committee on Judiciary. H. Rept. 110-741.</text></action>
+		<calendar number="1" date="1215543060" datetime="2008-07-08T15:51:00-04:00" calendar="Private" ><text>Placed on the Private Calendar, Calendar No. 1.</text></calendar>
+		<action date="1221570300" datetime="2008-09-16T10:05:00-04:00"><text>Called up from the Private Calendar for consideration.</text></action>
+		<action date="1221570300" datetime="2008-09-16T10:05:00-04:00"><text>Considered from the Private Calendar.</text><reference label="consideration" ref="CR H8138"/></action>
+		<vote date="1221570300" how="by voice vote" datetime="2008-09-16T10:05:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed by voice vote.</text><reference label="text" ref="CR H8138"/></vote>
+		<action date="1221624000" datetime="2008-09-17"><text>Received in the Senate.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/12/2007--Introduced.<br/>Provides for the relief of Esther Karinge.<br/>
+	</summary>
+</bill>

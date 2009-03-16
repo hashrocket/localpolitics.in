@@ -1,0 +1,48 @@
+<bill session="110" type="h" number="3513" updated="2009-01-09T00:15:10-05:00">
+	<status><vote date="1208884680" datetime="2008-04-22T14:18:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1189396800" datetime="2007-09-10"/>
+	<titles>
+		<title type="short" as="introduced">Copper Salmon Wilderness Act</title>
+		<title type="short" as="reported to house">Copper Salmon Wilderness Act of 2008</title>
+		<title type="short" as="passed house">Copper Salmon Wilderness Act of 2008</title>
+		<title type="official" as="introduced">To amend the Oregon Wilderness Act of 1984 to designate the Copper Salmon Wilderness and to amend the Wild and Scenic Rivers Act to designate segments of the North and South Forks of the Elk River in the State of Oregon as wild or scenic rivers, and for other purposes.</title>
+	</titles>
+	<sponsor id="400100"/>
+	<cosponsors>
+		<cosponsor id="400409" joined="2008-04-02"/>
+		<cosponsor id="400437" joined="2007-09-18"/>
+		<cosponsor id="400033" joined="2007-10-31"/>
+		<cosponsor id="400186" joined="2007-09-18"/>
+	</cosponsors>
+	<actions>
+		<action date="1189396800" datetime="2007-09-10"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1189569600" datetime="2007-09-12"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1194930000" datetime="2007-11-13"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1207108800" datetime="2008-04-02"><text>Subcommittee on National Parks, Forests, and Public Lands Discharged.</text></action>
+		<calendar date="1207108800" datetime="2008-04-02" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1207108800" datetime="2008-04-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<action date="1208452500" datetime="2008-04-17T14:15:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-591.</text></action>
+		<calendar number="365" date="1208452560" datetime="2008-04-17T14:16:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 365.</text></calendar>
+		<action date="1208884560" datetime="2008-04-22T14:16:00-04:00"><text>Mr. Rahall moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1208884560" datetime="2008-04-22T14:16:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2496-2497"/></action>
+		<action date="1208884560" datetime="2008-04-22T14:16:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3513.</text></action>
+		<vote date="1208884680" how="by voice vote" datetime="2008-04-22T14:18:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H2496"/></vote>
+		<calendar under="General Orders" number="712" date="1208923200" datetime="2008-04-23" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 712.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/22/2008--Passed House amended. Copper Salmon Wilderness Act of 2008 - Amends the Oregon Wilderness Act of 1984 to designate certain lands in Siskiyou National Forest as the &quot;Copper Salmon Wilderness.&quot; Allows the Secretary of Agriculture, if the boundary of the Copper Salmon Wilderness shares a border with a road, to only establish an offset that is not more than 150 feet from the centerline of the road. Amends the Wild and Scenic Rivers Act to designate specified segments of the North and South Forks of the Elk River in Oregon as wild or scenic rivers. Prohibits anything in this Act from being construed as diminishing any right of any Indian tribe. Directs the Secretary to seek to enter into a memorandum of understanding with the Coquille Indian tribe regarding access to the Copper Salmon Wilderness to conduct historical and cultural activities. Designates certain National Forest System land in Oregon, which is administered as part of the Siskiyou National Forest, as a potential wilderness area for eventual inclusion in the Copper Salmon Wilderness.<br/>Requires the Secretary to manage the potential wilderness area as wilderness until it is designated as wilderness. Authorizes, for the purposes of implementing a specified planned ecological restoration, the use of motorized equipment and mechanized transport in the potential wilderness area. Declares that the potential wilderness area shall be designated as wilderness on the earlier of: (1) the date on which the Secretary publishes in the Federal Register the notice that the conditions in the area that are incompatible with the Wilderness Act have been removed; and (2) the date that is ten years after the enactment of this Act. Requires the potential wilderness area upon its designation as wilderness to be incorporated into the Copper Salmon Wilderness.<br/>
+	</summary>
+</bill>

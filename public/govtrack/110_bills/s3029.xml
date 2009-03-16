@@ -1,0 +1,41 @@
+<bill session="110" type="s" number="3029" updated="2009-01-09T18:10:48-05:00">
+	<status><enacted date="1211515200" datetime="2008-05-23" /></status>
+
+	<introduced date="1210824000" datetime="2008-05-15"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958, and for other purposes.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+		<cosponsor id="300091" joined="2008-05-15"/>
+	</cosponsors>
+	<actions>
+		<vote date="1210824000" how="by Unanimous Consent" datetime="2008-05-15" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S4288-4289"/><reference label="text as passed Senate" ref="CR S4289"/><reference label="text of measure as introduced" ref="CR S4286"/></vote>
+		<action date="1210910400" datetime="2008-05-16"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1211253000" datetime="2008-05-19T12:10:00-04:00"><text>Received in the House.</text></action>
+		<action date="1211213520" datetime="2008-05-19T13:12:00-04:00"><text>Held at the desk.</text></action>
+		<action date="1211307360" datetime="2008-05-20T15:16:00-04:00"><text>Ms. Velazquez moved to suspend the rules and pass the bill.</text></action>
+		<action date="1211307360" datetime="2008-05-20T15:16:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4206-4209"/></action>
+		<action date="1211307360" datetime="2008-05-20T15:16:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 3029.</text></action>
+		<vote date="1211308980" how="by voice vote" datetime="2008-05-20T15:43:00-04:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H4206"/></vote>
+		<topresident date="1211256000" datetime="2008-05-20" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1211515200" datetime="2008-05-23" ><text>Presented to President.</text></topresident>
+		<signed date="1211515200" datetime="2008-05-23" ><text>Signed by President.</text></signed>
+		<enacted number="110-235" date="1211515200" datetime="2008-05-23" type="public" ><text>Became Public Law No: 110-235.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/23/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Extends through March 20, 2009, under the same terms and conditions, the authorization for any program, authority, or provision, including any pilot program, that is currently authorized through May 23, 2008, under the Small Business Act or the Small Business Investment Act of 1958.<br/>
+	</summary>
+</bill>

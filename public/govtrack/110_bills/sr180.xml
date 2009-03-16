@@ -1,0 +1,32 @@
+<bill session="110" type="sr" number="180" updated="2009-01-09T20:20:47-05:00">
+	<status><vote date="1178769600" datetime="2007-05-10" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1177992000" datetime="2007-05-01"/>
+	<titles>
+		<title type="official" as="introduced">A resolution recognizing the 70th anniversary of the Idaho Potato Commission and designating May 2007 as &quot;Idaho Potato Month&quot;.</title>
+	</titles>
+	<sponsor id="300030"/>
+	<cosponsors>
+		<cosponsor id="300029" joined="2007-05-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1177992000" datetime="2007-05-01"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S5400"/></action>
+		<action date="1178769600" datetime="2007-05-10"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S6001-6002"/></action>
+		<vote date="1178769600" how="by Unanimous Consent" datetime="2007-05-10" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S6001-6002"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/1/2007--Introduced.<br/>Recognizes the 70th anniversary of the Idaho Potato Commission. Designates May 2007 as Idaho Potato Month. 
+	</summary>
+</bill>

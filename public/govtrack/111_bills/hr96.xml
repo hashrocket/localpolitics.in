@@ -1,0 +1,36 @@
+<bill session="111" type="hr" number="96" updated="2009-03-07T13:17:21-05:00">
+	<status><vote date="1233204960" datetime="2009-01-28T12:56:00-05:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="official" as="introduced">Electing Members to certain standing committees of the House of Representatives.</title>
+	</titles>
+	<sponsor id="400233"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233204840" datetime="2009-01-28T12:54:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H619"/></action>
+		<vote date="1233204960" how="without objection" datetime="2009-01-28T12:56:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text" ref="CR H619"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional committees"/>
+		<term name="House Committee on Homeland Security"/>
+		<term name="House Committee on Oversight and Government Reform"/>
+		<term name="House of Representatives"/>
+		<term name="Members of Congress"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Elects certain named Majority Members to the House Committees on Homeland Security and on Oversight and Government Reform.<br/>
+	</summary>
+</bill>

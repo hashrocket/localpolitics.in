@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="1341" updated="2009-03-07T12:52:38-05:00">
+	<status><introduced date="1236229200" datetime="2009-03-05"/></status>
+
+	<introduced date="1236229200" datetime="2009-03-05"/>
+	<titles>
+		<title type="short" as="introduced">Special Inspector General for the Troubled Asset Relief Program Act of 2009</title>
+		<title type="official" as="introduced">To amend the Emergency Economic Stabilization Act of 2008 to provide the Special Inspector General with additional authorities and responsibilities, and for other purposes.</title>
+	</titles>
+	<sponsor id="400282"/>
+	<cosponsors>
+		<cosponsor id="412303" joined="2009-03-05"/>
+		<cosponsor id="400631" joined="2009-03-06"/>
+		<cosponsor id="400027" joined="2009-03-05"/>
+		<cosponsor id="412274" joined="2009-03-05"/>
+		<cosponsor id="400178" joined="2009-03-06"/>
+		<cosponsor id="412285" joined="2009-03-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1236229200" datetime="2009-03-05"><text>Referred to the Committee on Financial Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1236229200" datetime="2009-03-05"><text>Referred to House Financial Services</text></action>
+		<action date="1236229200" datetime="2009-03-05"><text>Referred to House Oversight and Government Reform</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

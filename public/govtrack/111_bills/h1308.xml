@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="1308" updated="2009-03-07T12:39:17-05:00">
+	<status><introduced date="1236142800" datetime="2009-03-04"/></status>
+
+	<introduced date="1236142800" datetime="2009-03-04"/>
+	<titles>
+		<title type="short" as="introduced">Veterans Mental Health Screening and Assessment Act</title>
+		<title type="official" as="introduced">To direct the Secretary of Defense to adopt a program of professional and confidential screenings to detect mental health injuries acquired during deployment in support of a contingency operation and ultimately to reduce the incidence of suicide among veterans.</title>
+	</titles>
+	<sponsor id="412296"/>
+	<cosponsors>
+		<cosponsor id="412304" joined="2009-03-04"/>
+		<cosponsor id="412311" joined="2009-03-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1236142800" datetime="2009-03-04"><text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1236142800" datetime="2009-03-04"><text>Referred to House Armed Services</text></action>
+		<action date="1236142800" datetime="2009-03-04"><text>Referred to House Veterans' Affairs</text></action>
+		<action date="1236315600" datetime="2009-03-06"><committee name="House Veterans' Affairs"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

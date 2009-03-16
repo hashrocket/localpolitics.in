@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="842" updated="2009-03-11T12:09:07-04:00">
+	<status><vote date="1236705900" datetime="2009-03-10T14:25:00-04:00" where="h" result="pass" how="roll" roll="115"/></status>
+
+	<introduced date="1233637200" datetime="2009-02-03"/>
+	<titles>
+		<title type="official" as="introduced">To designate the United States Courthouse to be constructed in Jackson, Mississippi, as the &quot;R. Jess Brown United States Courthouse&quot;.</title>
+	</titles>
+	<sponsor id="400402"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1234414800" datetime="2009-02-12" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1236742740" datetime="2009-03-10T12:39:00-04:00"><text>Reported by the Committee on Transportation. H. Rept. 111-29.</text></action>
+		<calendar number="19" date="1236742740" datetime="2009-03-10T12:39:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 19.</text></calendar>
+		<action date="1236743400" datetime="2009-03-10T12:50:00-04:00"><text>Ms. Edwards (MD) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1236743400" datetime="2009-03-10T12:50:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3116-3118"/></action>
+		<action date="1236743400" datetime="2009-03-10T12:50:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 842.</text></action>
+		<action date="1236743880" datetime="2009-03-10T12:58:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1236705480" datetime="2009-03-10T14:18:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H3126-3127"/></action>
+		<vote date="1236705900" how="roll" roll="115" datetime="2009-03-10T14:25:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 115). (text: CR 3116)</text></vote>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, Markup, Reporting" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings and Emergency Management" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/3/2009--Introduced.<br/>Designates the U.S. courthouse to be constructed at a specified site in Jackson, Mississippi, as the &quot;R. Jess Brown United States Courthouse.&quot;<br/>
+	</summary>
+</bill>

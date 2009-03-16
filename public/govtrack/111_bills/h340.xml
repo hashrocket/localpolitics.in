@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="340" updated="2009-03-07T10:27:35-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">Camp Security National Historic Site Study Act</title>
+		<title type="official" as="introduced">To authorize the Secretary of the Interior to study the suitability and feasibility of designating Camp Security, located in Springettsbury, York County, Pennsylvania, as a unit of the National Park System.</title>
+	</titles>
+	<sponsor id="400321"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Conflicts and wars"/>
+		<term name="Europe"/>
+		<term name="Government investigations"/>
+		<term name="Historic sites and heritage areas"/>
+		<term name="Military facilities and property"/>
+		<term name="Military history"/>
+		<term name="Pennsylvania"/>
+		<term name="United Kingdom"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Camp Security National Historic Site Study Act - Directs the Secretary of the Interior to submit to specified congressional committees a study of the suitability and feasibility of designating Camp Security, a prisoner-of-war camp from the Revolutionary War located in Springettsbury Township, York County, Pennsylvania, as a unit of the National Park System. 
+	</summary>
+</bill>

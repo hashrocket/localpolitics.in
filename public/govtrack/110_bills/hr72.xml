@@ -1,0 +1,57 @@
+<bill session="110" type="hr" number="72" updated="2009-01-09T08:02:48-05:00">
+	<status><vote date="1170861180" datetime="2007-02-07T11:13:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1169010000" datetime="2007-01-17"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the work and accomplishments of Mr. Britt &quot;Max&quot; Mayfield, Director of the National Hurricane Center's Tropical Prediction Center upon his retirement.</title>
+	</titles>
+	<sponsor id="412197"/>
+	<cosponsors>
+		<cosponsor id="400279" joined="2007-01-17"/>
+		<cosponsor id="400199" joined="2007-02-06"/>
+		<cosponsor id="400302" joined="2007-01-31"/>
+		<cosponsor id="400623" joined="2007-01-30"/>
+		<cosponsor id="400170" joined="2007-01-17"/>
+		<cosponsor id="412195" joined="2007-01-30"/>
+		<cosponsor id="400344" joined="2007-01-17"/>
+		<cosponsor id="412250" joined="2007-01-17"/>
+		<cosponsor id="412198" joined="2007-01-30"/>
+		<cosponsor id="400663" joined="2007-01-30"/>
+		<cosponsor id="400086" joined="2007-01-30"/>
+		<cosponsor id="400044" joined="2007-01-17"/>
+		<cosponsor id="400131" joined="2007-01-30"/>
+		<cosponsor id="400439" joined="2007-02-06"/>
+		<cosponsor id="400107" joined="2007-01-17"/>
+		<cosponsor id="400638" joined="2007-01-30"/>
+		<cosponsor id="400328" joined="2007-01-17"/>
+		<cosponsor id="400119" joined="2007-01-30"/>
+		<cosponsor id="400204" joined="2007-01-30"/>
+		<cosponsor id="412219" joined="2007-02-06"/>
+		<cosponsor id="400108" joined="2007-01-30"/>
+		<cosponsor id="400622" joined="2007-01-30"/>
+	</cosponsors>
+	<actions>
+		<action date="1169010000" datetime="2007-01-17"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1170219600" datetime="2007-01-31"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1170219600" datetime="2007-01-31" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1170860220" datetime="2007-02-07T10:57:00-05:00"><text>Mr. Gordon moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1170860280" datetime="2007-02-07T10:58:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1284-1286"/></action>
+		<action date="1170860280" datetime="2007-02-07T10:58:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 72.</text></action>
+		<vote date="1170861180" how="by voice vote" datetime="2007-02-07T11:13:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H1284-1285"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/7/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Honors Mr. Britt &quot;Max&quot; Mayfield's 34 years of service and his commitment to improving the accuracy of hurricane forecasting as Director of the National Hurricane Center's Tropical Prediction Center. 
+	</summary>
+</bill>

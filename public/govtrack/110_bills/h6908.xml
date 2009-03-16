@@ -1,0 +1,46 @@
+<bill session="110" type="h" number="6908" updated="2009-01-09T07:03:48-05:00">
+	<status><vote date="1222210200" datetime="2008-09-23T19:50:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1221537600" datetime="2008-09-16"/>
+	<titles>
+		<title type="short" as="introduced">Health Insurance Source of Injury Clarification Act of 2008</title>
+		<title type="short" as="passed house">Health Insurance Restrictions and Limitations Clarification Act of 2008</title>
+		<title type="official" as="introduced">To require that limitations and restrictions on coverage under group health plans be timely disclosed to group health plan sponsors and timely communicated to participants and beneficiaries under such plans in a form that is easily understandable.</title>
+	</titles>
+	<sponsor id="400052"/>
+	<cosponsors>
+		<cosponsor id="400391" joined="2008-09-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1221537600" datetime="2008-09-16"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Labor, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1221537600" datetime="2008-09-16"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1221537600" datetime="2008-09-16"><text>Referred to House Education and Labor</text></action>
+		<action date="1221537600" datetime="2008-09-16"><text>Referred to House Ways and Means</text></action>
+		<action date="1221624000" datetime="2008-09-17"><committee name="House Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1221624000" datetime="2008-09-17" ><committee name="House Energy and Commerce"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1222209660" datetime="2008-09-23T19:41:00-04:00"><text>Reported by the Committee on Energy and Commerce. H. Rept. 110-870, Part I.</text></action>
+		<action date="1222209720" datetime="2008-09-23T19:42:00-04:00"><text>Committee on Education and Labor discharged.</text></action>
+		<action date="1222209720" datetime="2008-09-23T19:42:00-04:00"><text>Committee on Ways and Means discharged.</text></action>
+		<calendar number="566" date="1222209780" datetime="2008-09-23T19:43:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 566.</text></calendar>
+		<action date="1222209840" datetime="2008-09-23T19:44:00-04:00"><text>Mr. Pallone moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1222209840" datetime="2008-09-23T19:44:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8666-8668"/></action>
+		<action date="1222209840" datetime="2008-09-23T19:44:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6908.</text></action>
+		<vote date="1222210200" how="by voice vote" datetime="2008-09-23T19:50:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H8666-8667"/></vote>
+		<action date="1222315200" datetime="2008-09-25"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/23/2008--Passed House amended. Health Insurance Restrictions and Limitations Clarification Act of 2008 - Amends the Employee Retirement Income Security Act (ERISA), the Public Health Service Act, and the Internal Revenue Code to exclude a group health plan from prohibitions against limitations or restrictions on the amount, level, extent, or nature of the benefits of coverage for similarly situated individuals enrolled in the plan so long as: (1) such limitations and restrictions are explicit and clear; (2) such limitations and restrictions have been disclosed to the plan sponsor in writing in advance of the point of sale; (3) the plan sponsor provides a description of such limitations and restrictions to participants and beneficiaries in a form that is easily understandable before enrollment; and (4) the plan sponsor and the issuer of the coverage provide such description to the participants and beneficiaries upon their enrollment under the plan at the earliest opportunity that other materials are provided.<br/>
+	</summary>
+</bill>

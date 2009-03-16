@@ -1,0 +1,98 @@
+<bill session="110" type="hr" number="345" updated="2009-01-09T08:35:56-05:00">
+	<status><vote date="1185422280" datetime="2007-07-25T12:58:00-04:00" where="h" result="pass" how="roll" roll="718"/></status>
+
+	<introduced date="1177905600" datetime="2007-04-30"/>
+	<titles>
+		<title type="official" as="introduced">Commemorating the 200th anniversary of the Archdiocese of New York.</title>
+	</titles>
+	<sponsor id="400139"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="2007-07-10"/>
+		<cosponsor id="400041" joined="2007-04-30"/>
+		<cosponsor id="400420" joined="2007-07-10"/>
+		<cosponsor id="400327" joined="2007-05-08"/>
+		<cosponsor id="400219" joined="2007-05-08"/>
+		<cosponsor id="400414" joined="2007-05-08"/>
+		<cosponsor id="400142" joined="2007-05-08"/>
+		<cosponsor id="400228" joined="2007-05-08"/>
+		<cosponsor id="400102" joined="2007-06-28"/>
+		<cosponsor id="400380" joined="2007-05-08"/>
+		<cosponsor id="400333" joined="2007-05-01"/>
+		<cosponsor id="400332" joined="2007-05-08"/>
+		<cosponsor id="400297" joined="2007-05-08"/>
+		<cosponsor id="400344" joined="2007-05-08"/>
+		<cosponsor id="400268" joined="2007-04-30"/>
+		<cosponsor id="400003" joined="2007-05-09"/>
+		<cosponsor id="400260" joined="2007-05-21"/>
+		<cosponsor id="400132" joined="2007-05-08"/>
+		<cosponsor id="400261" joined="2007-05-08"/>
+		<cosponsor id="400406" joined="2007-05-08"/>
+		<cosponsor id="409888" joined="2007-05-08"/>
+		<cosponsor id="400409" joined="2007-05-08"/>
+		<cosponsor id="400264" joined="2007-04-30"/>
+		<cosponsor id="400370" joined="2007-07-19"/>
+		<cosponsor id="400216" joined="2007-06-28"/>
+		<cosponsor id="400373" joined="2007-05-08"/>
+		<cosponsor id="400359" joined="2007-05-08"/>
+		<cosponsor id="400642" joined="2007-04-30"/>
+		<cosponsor id="400086" joined="2007-05-08"/>
+		<cosponsor id="400648" joined="2007-05-08"/>
+		<cosponsor id="400068" joined="2007-05-08"/>
+		<cosponsor id="400147" joined="2007-05-08"/>
+		<cosponsor id="400082" joined="2007-05-08"/>
+		<cosponsor id="400051" joined="2007-07-16"/>
+		<cosponsor id="400110" joined="2007-05-24"/>
+		<cosponsor id="400087" joined="2007-07-23"/>
+		<cosponsor id="400070" joined="2007-06-28"/>
+		<cosponsor id="412222" joined="2007-05-01"/>
+		<cosponsor id="400426" joined="2007-05-02"/>
+		<cosponsor id="400251" joined="2007-04-30"/>
+		<cosponsor id="400439" joined="2007-05-08"/>
+		<cosponsor id="400178" joined="2007-04-30"/>
+		<cosponsor id="400366" joined="2007-04-30"/>
+		<cosponsor id="400211" joined="2007-07-10"/>
+		<cosponsor id="400338" joined="2007-05-08"/>
+		<cosponsor id="400269" joined="2007-05-08"/>
+		<cosponsor id="400643" joined="2007-05-08"/>
+		<cosponsor id="400107" joined="2007-05-08"/>
+		<cosponsor id="400056" joined="2007-05-08"/>
+		<cosponsor id="400244" joined="2007-05-08"/>
+		<cosponsor id="400617" joined="2007-05-08"/>
+		<cosponsor id="400221" joined="2007-05-08"/>
+		<cosponsor id="400012" joined="2007-05-08"/>
+		<cosponsor id="400291" joined="2007-05-08"/>
+		<cosponsor id="400641" joined="2007-04-30"/>
+		<cosponsor id="400351" joined="2007-06-28"/>
+		<cosponsor id="400431" joined="2007-05-08"/>
+		<cosponsor id="400636" joined="2007-05-08"/>
+		<cosponsor id="400088" joined="2007-05-08"/>
+		<cosponsor id="400108" joined="2007-05-08"/>
+		<cosponsor id="400435" joined="2007-04-30"/>
+		<cosponsor id="400429" joined="2007-05-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1177905600" datetime="2007-04-30"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1184817600" datetime="2007-07-19"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1184817600" datetime="2007-07-19" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1185220080" datetime="2007-07-23T16:48:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1185220140" datetime="2007-07-23T16:49:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8243-8245"/></action>
+		<action date="1185220140" datetime="2007-07-23T16:49:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 345.</text></action>
+		<action date="1185221100" datetime="2007-07-23T17:05:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<vote date="1185422280" how="roll" roll="718" datetime="2007-07-25T12:58:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 718). (consideration: CR H8419; text as passed in House: CR 7/23/2007 H8243)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/25/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Commemorates the 200th anniversary of the Archdiocese of New York. 
+	</summary>
+</bill>

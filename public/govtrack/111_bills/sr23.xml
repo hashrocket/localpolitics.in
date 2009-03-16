@@ -1,0 +1,35 @@
+<bill session="111" type="sr" number="23" updated="2009-03-07T14:41:09-05:00">
+	<status><vote date="1233032400" datetime="2009-01-27" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1233032400" datetime="2009-01-27"/>
+	<titles>
+		<title type="official" as="introduced">A resolution honoring the life of Andrew Wyeth.</title>
+	</titles>
+	<sponsor id="412246"/>
+	<cosponsors>
+		<cosponsor id="300025" joined="2009-01-27"/>
+		<cosponsor id="300091" joined="2009-01-27"/>
+		<cosponsor id="300092" joined="2009-01-27"/>
+	</cosponsors>
+	<actions>
+		<vote date="1233032400" how="by Unanimous Consent" datetime="2009-01-27" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S946-947"/><reference label="text as passed Senate" ref="CR S947"/><reference label="text of measure as introduced" ref="CR S899-900"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Arts, culture, religion"/>
+		<term name="Art, artists, authorship"/>
+		<term name="Congressional tributes"/>
+		<term name="Pennsylvania"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/27/2009--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Recognizes Andrew Wyeth as one of the most popular American artists of the twentieth century and the outstanding contributions of Andrew Wyeth to the art world. 
+	</summary>
+</bill>

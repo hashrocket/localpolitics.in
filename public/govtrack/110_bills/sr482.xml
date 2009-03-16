@@ -1,0 +1,51 @@
+<bill session="110" type="sr" number="482" updated="2009-01-09T20:58:26-05:00">
+	<status><vote date="1211256000" datetime="2008-05-20" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1205380800" datetime="2008-03-13"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating July 26, 2008, as &quot;National Day of the American Cowboy&quot;.</title>
+	</titles>
+	<sponsor id="300041"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="2008-03-13"/>
+		<cosponsor id="300029" joined="2008-03-13"/>
+		<cosponsor id="300009" joined="2008-03-13"/>
+		<cosponsor id="300082" joined="2008-03-13"/>
+		<cosponsor id="300055" joined="2008-03-13"/>
+		<cosponsor id="300030" joined="2008-03-13"/>
+		<cosponsor id="412251" joined="2008-03-13"/>
+		<cosponsor id="400619" joined="2008-03-13"/>
+		<cosponsor id="400621" joined="2008-03-13"/>
+		<cosponsor id="300037" joined="2008-03-13"/>
+		<cosponsor id="300023" joined="2008-04-24"/>
+		<cosponsor id="400576" joined="2008-04-16"/>
+		<cosponsor id="300040" joined="2008-03-13"/>
+		<cosponsor id="300003" joined="2008-03-13"/>
+		<cosponsor id="300076" joined="2008-03-13"/>
+		<cosponsor id="300075" joined="2008-04-23"/>
+		<cosponsor id="300036" joined="2008-03-13"/>
+		<cosponsor id="300026" joined="2008-05-15"/>
+		<cosponsor id="412244" joined="2008-04-23"/>
+		<cosponsor id="300058" joined="2008-03-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1205380800" datetime="2008-03-13"><text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR 3/14/2008 S2163-2164)</text></action>
+		<action date="1211256000" datetime="2008-05-20"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S4443-4444"/></action>
+		<vote date="1211256000" how="by Unanimous Consent" datetime="2008-05-20" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="text" ref="CR S4444"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/20/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates July 26, 2008, as National Day of the American Cowboy.<br/>
+	</summary>
+</bill>

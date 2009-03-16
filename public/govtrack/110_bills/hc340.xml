@@ -1,0 +1,35 @@
+<bill session="110" type="hc" number="340" updated="2009-01-08T16:10:03-05:00">
+	<status><vote2 date="1209614400" datetime="2008-05-01" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1209614400" datetime="2008-05-01"/>
+	<titles>
+		<title type="official" as="introduced">To make technical corrections in the enrollment of the bill H.R. 493.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1209657900" datetime="2008-05-01T13:05:00-04:00"><text>Mr. Miller, George moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1209657900" datetime="2008-05-01T13:05:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2982-2983"/></action>
+		<action date="1209657900" datetime="2008-05-01T13:05:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 340.</text></action>
+		<vote date="1209658200" how="by voice vote" datetime="2008-05-01T13:10:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H2982"/></vote>
+		<vote date="1209614400" how="by Unanimous Consent" datetime="2008-05-01" where="s" type="vote2" result="pass" ><text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S3727"/></vote>
+		<action date="1209700800" datetime="2008-05-02"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/1/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Directs the Clerk of the House of the Representatives to make corrections in the enrollment of H.R. 493 (Genetic Information Nondiscrimination Act of 2008) to: (1) revise deadlines for implementation of requirements related to Medicare supplemental policies; (2) exempt an employer that conducts DNA analysis for purposes of human remains identification from the prohibition against an employer, labor organization, or joint labor-management committee requesting, requiring, or purchasing an employee's genetic information; and (3) remove the requirement that DNA analysis conducted by an employer for law enforcement purposes as a forensics laboratory be included in the Combined DNA Index System.<br/>
+	</summary>
+</bill>

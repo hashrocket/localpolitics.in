@@ -1,0 +1,146 @@
+<bill session="110" type="h" number="642" updated="2009-01-08T18:09:35-05:00">
+	<status><vote date="1222207560" datetime="2008-09-23T19:06:00-04:00" where="h" result="pass" how="roll" roll="627"/></status>
+
+	<introduced date="1169528400" datetime="2007-01-23"/>
+	<titles>
+		<title type="short" as="introduced">College Fire Prevention Act</title>
+		<title type="short" as="passed house">Honorable Stephanie Tubbs Jones College Fire Prevention Act</title>
+		<title type="official" as="introduced">To establish a demonstration incentive program within the Department of Education to promote installation of fire sprinkler systems, or other fire suppression or prevention technologies, in qualified student housing and dormitories, and for other purposes.</title>
+		<title type="official" as="amended by house">To establish the Honorable Stephanie Tubbs Jones Fire Suppression Demonstration Incentive Program within the Department of Education to promote installation of fire sprinkler systems, or other fire suppression or prevention technologies, in qualified student housing and dormitories, and for other purposes.</title>
+	</titles>
+	<sponsor id="400208"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2007-03-09"/>
+		<cosponsor id="400661" joined="2008-09-22"/>
+		<cosponsor id="400420" joined="2007-03-23"/>
+		<cosponsor id="400620" joined="2008-09-22"/>
+		<cosponsor id="400031" joined="2008-09-22"/>
+		<cosponsor id="400073" joined="2007-07-17"/>
+		<cosponsor id="400280" joined="2007-04-18"/>
+		<cosponsor id="400199" joined="2007-02-08"/>
+		<cosponsor id="400337" joined="2008-09-22"/>
+		<cosponsor id="400364" joined="2007-03-06"/>
+		<cosponsor id="400257" joined="2007-05-17"/>
+		<cosponsor id="400289" joined="2008-09-22"/>
+		<cosponsor id="400616" joined="2007-04-18"/>
+		<cosponsor id="400263" joined="2007-04-18"/>
+		<cosponsor id="400080" joined="2007-03-09"/>
+		<cosponsor id="400162" joined="2007-03-09"/>
+		<cosponsor id="400183" joined="2007-03-06"/>
+		<cosponsor id="400282" joined="2007-07-17"/>
+		<cosponsor id="412224" joined="2008-09-22"/>
+		<cosponsor id="400302" joined="2007-06-12"/>
+		<cosponsor id="400122" joined="2007-04-26"/>
+		<cosponsor id="400403" joined="2008-09-22"/>
+		<cosponsor id="400635" joined="2008-09-22"/>
+		<cosponsor id="400295" joined="2007-06-12"/>
+		<cosponsor id="400271" joined="2007-05-24"/>
+		<cosponsor id="400096" joined="2007-06-05"/>
+		<cosponsor id="400170" joined="2007-05-09"/>
+		<cosponsor id="412195" joined="2007-06-15"/>
+		<cosponsor id="400065" joined="2007-04-18"/>
+		<cosponsor id="400647" joined="2007-10-02"/>
+		<cosponsor id="400443" joined="2008-05-22"/>
+		<cosponsor id="412215" joined="2008-09-22"/>
+		<cosponsor id="400229" joined="2007-05-02"/>
+		<cosponsor id="409888" joined="2007-04-26"/>
+		<cosponsor id="400409" joined="2008-04-16"/>
+		<cosponsor id="400264" joined="2007-02-27"/>
+		<cosponsor id="400370" joined="2008-05-13"/>
+		<cosponsor id="400384" joined="2008-09-22"/>
+		<cosponsor id="400184" joined="2007-04-18"/>
+		<cosponsor id="400152" joined="2008-05-20"/>
+		<cosponsor id="400377" joined="2008-09-22"/>
+		<cosponsor id="400216" joined="2008-09-22"/>
+		<cosponsor id="400262" joined="2008-09-22"/>
+		<cosponsor id="400312" joined="2007-02-12"/>
+		<cosponsor id="400316" joined="2007-05-02"/>
+		<cosponsor id="400231" joined="2007-02-15"/>
+		<cosponsor id="400235" joined="2007-02-15"/>
+		<cosponsor id="400324" joined="2007-04-18"/>
+		<cosponsor id="400006" joined="2007-06-28"/>
+		<cosponsor id="400386" joined="2008-09-22"/>
+		<cosponsor id="400147" joined="2007-04-18"/>
+		<cosponsor id="400230" joined="2008-05-21"/>
+		<cosponsor id="400038" joined="2007-02-08"/>
+		<cosponsor id="400048" joined="2007-02-15"/>
+		<cosponsor id="400442" joined="2007-02-15"/>
+		<cosponsor id="412199" joined="2007-02-15"/>
+		<cosponsor id="400631" joined="2008-09-22"/>
+		<cosponsor id="400001" joined="2008-09-22"/>
+		<cosponsor id="400087" joined="2008-09-22"/>
+		<cosponsor id="400270" joined="2007-02-27"/>
+		<cosponsor id="400259" joined="2008-09-22"/>
+		<cosponsor id="400166" joined="2008-09-22"/>
+		<cosponsor id="400399" joined="2008-09-22"/>
+		<cosponsor id="400346" joined="2008-09-22"/>
+		<cosponsor id="412204" joined="2008-09-22"/>
+		<cosponsor id="400653" joined="2007-04-26"/>
+		<cosponsor id="400251" joined="2007-03-09"/>
+		<cosponsor id="400178" joined="2008-09-22"/>
+		<cosponsor id="400378" joined="2008-09-22"/>
+		<cosponsor id="400350" joined="2007-03-09"/>
+		<cosponsor id="400217" joined="2007-02-15"/>
+		<cosponsor id="400360" joined="2007-06-22"/>
+		<cosponsor id="400299" joined="2008-09-22"/>
+		<cosponsor id="400074" joined="2007-02-15"/>
+		<cosponsor id="400125" joined="2008-09-22"/>
+		<cosponsor id="400415" joined="2008-09-22"/>
+		<cosponsor id="412236" joined="2007-02-27"/>
+		<cosponsor id="412186" joined="2007-06-15"/>
+		<cosponsor id="400093" joined="2007-05-17"/>
+		<cosponsor id="400326" joined="2007-04-18"/>
+		<cosponsor id="412228" joined="2007-02-08"/>
+		<cosponsor id="412212" joined="2008-09-22"/>
+		<cosponsor id="400109" joined="2008-09-22"/>
+		<cosponsor id="400185" joined="2008-09-22"/>
+		<cosponsor id="400641" joined="2008-09-22"/>
+		<cosponsor id="400139" joined="2008-09-22"/>
+		<cosponsor id="400090" joined="2007-03-09"/>
+		<cosponsor id="400218" joined="2008-09-22"/>
+		<cosponsor id="400431" joined="2007-01-23"/>
+		<cosponsor id="400240" joined="2007-02-08"/>
+		<cosponsor id="400150" joined="2007-03-09"/>
+		<cosponsor id="400024" joined="2007-03-06"/>
+		<cosponsor id="400301" joined="2007-03-09"/>
+		<cosponsor id="400163" joined="2007-03-09"/>
+		<cosponsor id="400114" joined="2007-06-05"/>
+		<cosponsor id="400179" joined="2007-02-15"/>
+		<cosponsor id="400639" joined="2007-03-09"/>
+		<cosponsor id="400349" joined="2007-03-09"/>
+		<cosponsor id="400309" joined="2007-02-08"/>
+		<cosponsor id="400186" joined="2007-05-02"/>
+		<cosponsor id="400067" joined="2007-02-12"/>
+		<cosponsor id="412233" joined="2007-06-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1169528400" datetime="2007-01-23"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1179460800" datetime="2007-05-18"><text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text></action>
+		<action date="1190692800" datetime="2007-09-25"><text>Sponsor introductory remarks on measure. (CR H10786)</text></action>
+		<action date="1222107480" datetime="2008-09-22T15:18:00-04:00"><text>Mrs. Davis (CA) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1222107480" datetime="2008-09-22T15:18:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8528-8530"/></action>
+		<action date="1222107480" datetime="2008-09-22T15:18:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 642.</text></action>
+		<action date="1222107660" datetime="2008-09-22T15:21:00-04:00"><text>CHANGE OF SPONSORSHIP - Mr. Clyburn asked unanimous consent that he be considered the first sponsor of H.R. 642 for the purposes of adding cosponsors and requesting reprints pursuant to clause 7 of rule XII. Agreed to without objection.</text></action>
+		<action date="1222107720" datetime="2008-09-22T15:22:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1222207140" datetime="2008-09-23T18:59:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8658-8659"/></action>
+		<vote date="1222207560" how="roll" roll="627" datetime="2008-09-23T19:06:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 51 (Roll no. 627).</text><reference label="text" ref="CR H8659"/></vote>
+		<action date="1222207560" datetime="2008-09-23T19:06:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1222228800" datetime="2008-09-24"><text>Received in the Senate.</text></action>
+		<action date="1222920000" datetime="2008-10-02"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/23/2008--Passed House amended. Honorable Stephanie Tubbs Jones College Fire Prevention Act - Directs the Secretary of Education to make competitive demonstration grants to institutions of higher education (IHEs), fraternities, and sororities for up to half the cost of installing fire sprinkler systems, or other fire suppression or prevention technologies, in student housing and dormitories owned or controlled by such entities. Gives grant priority to applicants that demonstrate the greatest financial need. Reserves the following portions of grant funds made available for each fiscal year: (1) at least 10% for historically Black colleges and universities, Hispanic-serving institutions, tribally controlled colleges and universities, Alaska Native and Native Hawaiian-serving institutions, and IHEs that are eligible for Institutional Aid under the Higher Education Act of 1965; and (2) at least 10% for social fraternities and sororities. Prohibits the use of more than 2% of a grant for administrative expenses. Directs the Secretary to report to Congress regarding such grant program and governmental policies that impede the development and installation of fire suppression or prevention technologies. Authorizes FY2009-FY2011 appropriations for the grant program. Provides that any application for assistance under this Act, any negative determination on the part of the Secretary with respect to such application, or any statement of reasons for the determination, shall not be admissible as evidence in any proceeding of any court, agency, board, or other entity (except a proceeding to enforce an agreement entered into between the Secretary and a grantee under this Act).<br/>
+	</summary>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="111" type="h" number="207" updated="2009-03-07T10:12:07-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To amend the National Guard Youth Challenge Program under title 32, United States Code, to exclude nondefense funds made available by other Federal agencies for the Program from the matching requirements of the Program.</title>
+	</titles>
+	<sponsor id="400433"/>
+	<cosponsors>
+		<cosponsor id="412287" joined="2009-02-10"/>
+		<cosponsor id="400041" joined="2009-01-06"/>
+		<cosponsor id="412258" joined="2009-01-22"/>
+		<cosponsor id="400616" joined="2009-01-22"/>
+		<cosponsor id="400302" joined="2009-01-22"/>
+		<cosponsor id="400380" joined="2009-01-22"/>
+		<cosponsor id="412232" joined="2009-01-22"/>
+		<cosponsor id="400125" joined="2009-01-22"/>
+		<cosponsor id="400047" joined="2009-01-22"/>
+		<cosponsor id="400310" joined="2009-01-22"/>
+		<cosponsor id="400431" joined="2009-01-22"/>
+		<cosponsor id="400184" joined="2009-01-22"/>
+		<cosponsor id="400654" joined="2009-01-22"/>
+		<cosponsor id="400055" joined="2009-02-10"/>
+		<cosponsor id="400062" joined="2009-01-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action date="1233291600" datetime="2009-01-30"><text>Referred to the Subcommittee on Military Personnel.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Armed Services" subcommittee="Military Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Defense spending"/>
+		<term name="Department of Defense"/>
+		<term name="Education of the disadvantaged"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Intergovernmental relations"/>
+		<term name="National Guard and reserves"/>
+		<term name="National and community service"/>
+		<term name="Vocational education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Excludes funds provided for the National Guard Youth Challenge Program by federal agencies other than the Department of Defense (DOD) from the matching-funds requirement. Authorizes appropriations for FY2010 to the Secretary of Defense to carry out the Program.<br/>
+	</summary>
+</bill>

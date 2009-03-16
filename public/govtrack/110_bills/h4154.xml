@@ -1,0 +1,56 @@
+<bill session="110" type="h" number="4154" updated="2009-01-09T01:31:03-05:00">
+	<status><vote date="1194998040" datetime="2007-11-13T19:54:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1194930000" datetime="2007-11-13"/>
+	<titles>
+		<title type="official" as="introduced">To increase the insurance limitations on Federal insurance for bonds issued by the designated bonding authority for Historically Black Colleges and Universities capital financing.</title>
+	</titles>
+	<sponsor id="400278"/>
+	<cosponsors>
+		<cosponsor id="400199" joined="2007-11-13"/>
+		<cosponsor id="400364" joined="2007-11-13"/>
+		<cosponsor id="400616" joined="2007-11-13"/>
+		<cosponsor id="412221" joined="2007-11-13"/>
+		<cosponsor id="400170" joined="2007-11-13"/>
+		<cosponsor id="400030" joined="2007-11-13"/>
+		<cosponsor id="400312" joined="2007-11-13"/>
+		<cosponsor id="400048" joined="2007-11-13"/>
+		<cosponsor id="400044" joined="2007-11-13"/>
+		<cosponsor id="400270" joined="2007-11-13"/>
+		<cosponsor id="400237" joined="2007-11-13"/>
+		<cosponsor id="400383" joined="2007-11-13"/>
+		<cosponsor id="400217" joined="2007-11-13"/>
+		<cosponsor id="400628" joined="2007-11-13"/>
+		<cosponsor id="400081" joined="2007-11-13"/>
+		<cosponsor id="412236" joined="2007-11-13"/>
+		<cosponsor id="400093" joined="2007-11-13"/>
+		<cosponsor id="400090" joined="2007-11-13"/>
+		<cosponsor id="400208" joined="2007-11-13"/>
+		<cosponsor id="400240" joined="2007-11-13"/>
+		<cosponsor id="400639" joined="2007-11-13"/>
+		<cosponsor id="400075" joined="2007-11-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1194930000" datetime="2007-11-13"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1194997020" datetime="2007-11-13T19:37:00-05:00"><text>Mr. Miller, George moved to suspend the rules and pass the bill.</text></action>
+		<action date="1194997020" datetime="2007-11-13T19:37:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H13826-13828"/></action>
+		<action date="1194997080" datetime="2007-11-13T19:38:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4154.</text></action>
+		<vote date="1194998040" how="by voice vote" datetime="2007-11-13T19:54:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H13826"/></vote>
+		<action date="1195016400" datetime="2007-11-14"><text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/13/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends the Higher Education Act of 1965 to increase the amount of the outstanding principal and interest on capital financing bonds for historically Black colleges and universities that may be federally insured.<br/>
+	</summary>
+</bill>

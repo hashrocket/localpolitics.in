@@ -1,0 +1,33 @@
+<bill session="110" type="s" number="1366" updated="2009-01-09T14:38:42-05:00">
+	<status><introduced date="1178769600" datetime="2007-05-10"/></status>
+
+	<introduced date="1178769600" datetime="2007-05-10"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to permit the consolidation of life insurance companies with other companies.</title>
+	</titles>
+	<sponsor id="300014"/>
+	<cosponsors>
+		<cosponsor id="300060" joined="2007-05-10"/>
+		<cosponsor id="300091" joined="2008-04-30"/>
+		<cosponsor id="300026" joined="2007-05-10"/>
+		<cosponsor id="300090" joined="2007-05-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1178769600" datetime="2007-05-10"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/10/2007--Introduced.<br/>Amends the Internal Revenue Code to: (1) allow affiliated life and non-life insurance companies to file consolidated tax returns; (2) phase in, between 2007 and 2013, the full application of losses of affiliated non-life insurance companies against the taxable income of an affiliated life insurance company; and (3) automatically waive the five-year waiting period applicable to affiliated non-life insurance companies for offset of their losses against life insurance company income. 
+	</summary>
+</bill>

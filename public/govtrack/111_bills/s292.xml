@@ -1,0 +1,41 @@
+<bill session="111" type="s" number="292" updated="2009-03-07T14:08:30-05:00">
+	<status><introduced date="1232514000" datetime="2009-01-21"/></status>
+
+	<introduced date="1232514000" datetime="2009-01-21"/>
+	<titles>
+		<title type="short" as="introduced">Withholding Tax Relief Act of 2009</title>
+		<title type="official" as="introduced">A bill to repeal the imposition of withholding on certain payments made to vendors by government entities.</title>
+	</titles>
+	<sponsor id="300092"/>
+	<cosponsors>
+		<cosponsor id="300007" joined="2009-01-26"/>
+		<cosponsor id="300083" joined="2009-01-21"/>
+		<cosponsor id="400418" joined="2009-01-21"/>
+		<cosponsor id="300055" joined="2009-01-21"/>
+		<cosponsor id="300098" joined="2009-01-21"/>
+		<cosponsor id="300021" joined="2009-01-21"/>
+		<cosponsor id="400194" joined="2009-01-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1232514000" datetime="2009-01-21"><text>Sponsor introductory remarks on measure. (CR S721-722)</text></action>
+		<action date="1232514000" datetime="2009-01-21"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="275" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Employment taxes"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Tax administration and collection, taxpayers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

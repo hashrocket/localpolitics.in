@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="1118" updated="2009-03-07T12:01:51-05:00">
+	<status><introduced date="1235365200" datetime="2009-02-23"/></status>
+
+	<introduced date="1235365200" datetime="2009-02-23"/>
+	<titles>
+		<title type="short" as="introduced">Health Care Choices for Seniors Act</title>
+		<title type="official" as="introduced">To amend the Social Security Act to improve choices available to Medicare eligible seniors by permitting them to elect (instead of regular Medicare benefits) to receive a voucher for a health savings account, for premiums for a high deductible health insurance plan, or both and by suspending Medicare late enrollment penalties between ages 65 and 70.</title>
+	</titles>
+	<sponsor id="400032"/>
+	<cosponsors>
+		<cosponsor id="400627" joined="2009-02-23"/>
+		<cosponsor id="400206" joined="2009-02-23"/>
+		<cosponsor id="400367" joined="2009-02-23"/>
+		<cosponsor id="400311" joined="2009-02-23"/>
+		<cosponsor id="412216" joined="2009-02-23"/>
+		<cosponsor id="400643" joined="2009-02-23"/>
+		<cosponsor id="412310" joined="2009-02-23"/>
+		<cosponsor id="400433" joined="2009-02-23"/>
+		<cosponsor id="400141" joined="2009-02-23"/>
+		<cosponsor id="412191" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1235365200" datetime="2009-02-23"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1235365200" datetime="2009-02-23"><text>Referred to House Ways and Means</text></action>
+		<action date="1235365200" datetime="2009-02-23"><text>Referred to House Energy and Commerce</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

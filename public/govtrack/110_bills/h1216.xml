@@ -1,0 +1,95 @@
+<bill session="110" type="h" number="1216" updated="2009-01-08T19:22:48-05:00">
+	<status><enacted date="1204174800" datetime="2008-02-28" /></status>
+
+	<introduced date="1172552400" datetime="2007-02-27"/>
+	<titles>
+		<title type="short" as="introduced">Cameron Gulbransen Kids and Cars Safety Act of 2007</title>
+		<title type="short" as="passed house">Cameron Gulbransen Kids Transportation Safety Act of 2007</title>
+		<title type="short" as="passed house">K.T. Safety Act of 2007</title>
+		<title type="short" as="passed senate">Cameron Gulbransen Kids Transportation Safety Act of 2007</title>
+		<title type="short" as="passed senate">K.T. Safety Act of 2007</title>
+		<title type="short" as="enacted">Cameron Gulbransen Kids Transportation Safety Act of 2007</title>
+		<title type="short" as="enacted">K.T. Safety Act of 2007</title>
+		<title type="official" as="introduced">To direct the Secretary of Transportation to issue regulations to reduce the incidence of child injury and death occurring inside or outside of light motor vehicles, and for other purposes.</title>
+	</titles>
+	<sponsor id="400360"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="2007-05-02"/>
+		<cosponsor id="400031" joined="2007-04-17"/>
+		<cosponsor id="400219" joined="2007-02-27"/>
+		<cosponsor id="400337" joined="2007-04-17"/>
+		<cosponsor id="400257" joined="2007-03-26"/>
+		<cosponsor id="400282" joined="2007-04-17"/>
+		<cosponsor id="400380" joined="2007-06-22"/>
+		<cosponsor id="400246" joined="2007-05-16"/>
+		<cosponsor id="400151" joined="2007-04-17"/>
+		<cosponsor id="400623" joined="2007-04-17"/>
+		<cosponsor id="400430" joined="2007-03-26"/>
+		<cosponsor id="400170" joined="2007-04-17"/>
+		<cosponsor id="400268" joined="2007-07-18"/>
+		<cosponsor id="400379" joined="2007-09-10"/>
+		<cosponsor id="412210" joined="2007-08-01"/>
+		<cosponsor id="400124" joined="2007-05-24"/>
+		<cosponsor id="400003" joined="2007-03-15"/>
+		<cosponsor id="400254" joined="2007-06-05"/>
+		<cosponsor id="400370" joined="2007-04-17"/>
+		<cosponsor id="400405" joined="2007-03-20"/>
+		<cosponsor id="400152" joined="2007-04-17"/>
+		<cosponsor id="400262" joined="2007-06-22"/>
+		<cosponsor id="412198" joined="2007-04-17"/>
+		<cosponsor id="400245" joined="2007-04-17"/>
+		<cosponsor id="400231" joined="2007-05-24"/>
+		<cosponsor id="400230" joined="2007-04-17"/>
+		<cosponsor id="400008" joined="2007-12-05"/>
+		<cosponsor id="400335" joined="2007-04-17"/>
+		<cosponsor id="400346" joined="2007-05-16"/>
+		<cosponsor id="400237" joined="2007-05-24"/>
+		<cosponsor id="400013" joined="2007-10-23"/>
+		<cosponsor id="412240" joined="2007-08-01"/>
+		<cosponsor id="400195" joined="2007-03-26"/>
+		<cosponsor id="400284" joined="2007-03-26"/>
+		<cosponsor id="400193" joined="2007-05-24"/>
+		<cosponsor id="412186" joined="2007-09-07"/>
+		<cosponsor id="400326" joined="2007-06-28"/>
+		<cosponsor id="400185" joined="2007-12-04"/>
+		<cosponsor id="400139" joined="2007-11-15"/>
+		<cosponsor id="400310" joined="2007-06-15"/>
+		<cosponsor id="400215" joined="2007-04-17"/>
+		<cosponsor id="400062" joined="2007-09-27"/>
+		<cosponsor id="400425" joined="2007-05-02"/>
+	</cosponsors>
+	<actions>
+		<action date="1172552400" datetime="2007-02-27"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1172638800" datetime="2007-02-28"><text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text></action>
+		<action date="1197954000" datetime="2007-12-18"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1197954000" datetime="2007-12-18" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1198085280" datetime="2007-12-19T13:28:00-05:00"><text>Mr. Rush moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1198085280" datetime="2007-12-19T13:28:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H16871-16874"/></action>
+		<action date="1198085280" datetime="2007-12-19T13:28:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1216.</text></action>
+		<vote date="1198086240" how="by voice vote" datetime="2007-12-19T13:44:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text as House agreed to Senate amendment" ref="CR H16871-16872"/></vote>
+		<action date="1198040400" datetime="2007-12-19"><text>Received in the Senate.</text></action>
+		<action date="1200978000" datetime="2008-01-22"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+		<action date="1202965200" datetime="2008-02-14"><text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text></action>
+		<vote date="1202965200" how="by Unanimous Consent" datetime="2008-02-14" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S1083"/></vote>
+		<topresident date="1202965200" datetime="2008-02-14" ><text>Cleared for White House.</text></topresident>
+		<action date="1203051600" datetime="2008-02-15"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1203915600" datetime="2008-02-25" ><text>Presented to President.</text></topresident>
+		<signed date="1204174800" datetime="2008-02-28" ><text>Signed by President.</text></signed>
+		<enacted number="110-189" date="1204174800" datetime="2008-02-28" type="public" ><text>Became Public Law No: 110-189.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/28/2008--Public Law. (This measure has not been amended since it was passed by the House on December 19, 2007. The summary of that version is repeated here.) Cameron Gulbransen Kids Transportation Safety Act of 2007 or the K.T. Safety Act of 2007 - Directs the Secretary of Transportation to initiate a rulemaking for motor vehicles to require: (1) automatic reversal of direction by power windows and panels when they detect an obstruction; (2) an expanded rearward field of view to prevent backing incidents; and (3) automatic transmissions to have an anti-rollaway system that requires the service brake to be depressed before the transmission can be shifted out of park, which shall function in any starting system key position in which the transmission can be shifted out of park. Requires the Secretary, if it is determined that no additional safety standards are reasonable and appropriate, to: (1) report to Congress the reason such standards were not prescribed; and (2) make available to the public information on which vehicles are or are not equipped with automatic reversal of direction by power windows and panels when they detect an obstruction. Provides a phase-in period for the power window and rearward visibility provisions. Requires: (1) motor vehicle manufacturers for each year through 2010 to transmit to the Secretary the make and model of motor vehicles with automatic transmissions that do not have an anti-rollaway system; and (2) the Secretary to make such information available to the public. Requires the Secretary to: (1) establish and maintain a database of injuries and deaths in nontraffic, noncrash motor vehicle events; (2) supplement an existing consumer information program on child safety or create a new program with information about hazards to children in nontraffic, noncrash incident situations; and (3) make such information available to the public.<br/>
+	</summary>
+</bill>

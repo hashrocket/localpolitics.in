@@ -1,0 +1,42 @@
+<bill session="111" type="s" number="369" updated="2009-03-07T14:17:27-05:00">
+	<status><introduced date="1233637200" datetime="2009-02-03"/></status>
+
+	<introduced date="1233637200" datetime="2009-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Preserve Access to Affordable Generics Act</title>
+		<title type="official" as="introduced">A bill to prohibit brand name drug companies from compensating generic drug companies to delay the entry of a generic drug into the market.</title>
+	</titles>
+	<sponsor id="300061"/>
+	<cosponsors>
+		<cosponsor id="400050" joined="2009-02-03"/>
+		<cosponsor id="300048" joined="2009-02-03"/>
+		<cosponsor id="300042" joined="2009-02-03"/>
+		<cosponsor id="300038" joined="2009-02-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1233637200" datetime="2009-02-03"><text>Sponsor introductory remarks on measure. (CR S1433)</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S1433-1434"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Commerce"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Competition and antitrust"/>
+		<term name="Contracts and agency"/>
+		<term name="Federal Trade Commission (FTC)"/>
+		<term name="Intellectual property"/>
+		<term name="Marketing and advertising"/>
+		<term name="Prescription drugs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

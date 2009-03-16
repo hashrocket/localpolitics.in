@@ -1,0 +1,57 @@
+<bill session="110" type="h" number="2264" updated="2009-01-08T21:34:57-05:00">
+	<status><vote date="1179862200" datetime="2007-05-22T16:30:00-04:00" where="h" result="pass" how="roll" roll="398"/></status>
+
+	<introduced date="1178769600" datetime="2007-05-10"/>
+	<titles>
+		<title type="short" as="reported to house">No Oil Producing and Exporting Cartels Act of 2007</title>
+		<title type="short" as="reported to house">NOPEC</title>
+		<title type="short" as="passed house">No Oil Producing and Exporting Cartels Act of 2007</title>
+		<title type="short" as="passed house">NOPEC</title>
+		<title type="official" as="introduced">To amend the Sherman Act to make oil-producing and exporting cartels illegal.</title>
+	</titles>
+	<sponsor id="400080"/>
+	<cosponsors>
+		<cosponsor id="412229" joined="2007-05-21"/>
+		<cosponsor id="400227" joined="2007-05-21"/>
+		<cosponsor id="400177" joined="2007-05-16"/>
+		<cosponsor id="412221" joined="2007-05-21"/>
+		<cosponsor id="412224" joined="2007-05-21"/>
+		<cosponsor id="400071" joined="2007-05-10"/>
+		<cosponsor id="400245" joined="2007-05-10"/>
+		<cosponsor id="412240" joined="2007-05-16"/>
+		<cosponsor id="412222" joined="2007-05-21"/>
+		<cosponsor id="412232" joined="2007-05-21"/>
+		<cosponsor id="412236" joined="2007-05-16"/>
+		<cosponsor id="412194" joined="2007-05-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1178769600" datetime="2007-05-10"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1178856000" datetime="2007-05-11"><text>Sponsor introductory remarks on measure. (CR E1028)</text></action>
+		<action date="1179374400" datetime="2007-05-17"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1179374400" datetime="2007-05-17" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1179793440" datetime="2007-05-21T21:24:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 110-160.</text></action>
+		<calendar number="96" date="1179793440" datetime="2007-05-21T21:24:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 96.</text></calendar>
+		<action date="1179890580" datetime="2007-05-22T12:23:00-04:00"><text>Mr. Conyers moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1179890640" datetime="2007-05-22T12:24:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5556-5560"/></action>
+		<action date="1179890640" datetime="2007-05-22T12:24:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2264.</text></action>
+		<action date="1179892740" datetime="2007-05-22T12:59:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1179861780" datetime="2007-05-22T16:23:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5581-5582"/></action>
+		<vote date="1179862200" how="roll" roll="398" datetime="2007-05-22T16:30:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 345 - 72 (Roll no. 398).</text><reference label="text" ref="CR H5556-5557"/></vote>
+		<calendar under="General Orders" number="169" date="1179892800" datetime="2007-05-23" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 169.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/22/2007--Passed House amended. (This measure has not been amended since it was reported to the House on May 21, 2007. The summary of that version is repeated here.) No Oil Producing and Exporting Cartels Act of 2007 or NOPEC - Amends the Sherman Act to declare it to be illegal and a violation of the Act for any foreign state or instrumentality thereof to act collectively or in combination with any other foreign state or any other person, whether by cartel or any other association or form of cooperation or joint action, to limit the production or distribution of oil, natural gas, or any other petroleum product (petroleum), to set or maintain the price of petroleum, or to otherwise take any action in restraint of trade for petroleum, when such action has a direct, substantial, and reasonably foreseeable effect on the market, supply, price, or distribution of petroleum in the United States. Denies a foreign state engaged in such conduct sovereign immunity from the jurisdiction or judgements of U.S. courts in any action brought to enforce this Act. States that no U.S. court shall decline, based on the act of state doctrine, to make a determination on the merits in an action brought under this Act. Authorizes the Attorney General to bring an action in U.S. district court to enforce this Act. Makes an exception to the jurisdictional immunity of a foreign state in an action brought under this Act.<br/>
+	</summary>
+</bill>

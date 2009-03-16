@@ -1,0 +1,38 @@
+<bill session="111" type="s" number="401" updated="2009-03-07T14:21:10-05:00">
+	<status><introduced date="1234155600" datetime="2009-02-09"/></status>
+
+	<introduced date="1234155600" datetime="2009-02-09"/>
+	<titles>
+		<title type="short" as="introduced">Defined Contribution Fee Disclosure Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Employee Retirement Income Security Act of 1974 to provide special reporting and disclosure rules for individual accounts plans and for other purposes.</title>
+	</titles>
+	<sponsor id="300051"/>
+	<cosponsors>
+		<cosponsor id="300061" joined="2009-02-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1234155600" datetime="2009-02-09"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Labor and employment"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Contracts and agency"/>
+		<term name="Department of Labor"/>
+		<term name="Employee benefits and pensions"/>
+		<term name="Financial services and investments"/>
+		<term name="Government information and archives"/>
+		<term name="Small business"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

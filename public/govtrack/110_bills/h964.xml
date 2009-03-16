@@ -1,0 +1,89 @@
+<bill session="110" type="h" number="964" updated="2009-01-08T18:50:41-05:00">
+	<status><vote date="1181151060" datetime="2007-06-06T14:31:00-04:00" where="h" result="pass" how="roll" roll="434"/></status>
+
+	<introduced date="1170910800" datetime="2007-02-08"/>
+	<titles>
+		<title type="short" as="introduced">Securely Protect Yourself Against Cyber Trespass Act</title>
+		<title type="short" as="introduced">Spy Act</title>
+		<title type="short" as="reported to house">Securely Protect Yourself Against Cyber Trespass Act</title>
+		<title type="short" as="reported to house">Spy Act</title>
+		<title type="short" as="passed house">Securely Protect Yourself Against Cyber Trespass Act</title>
+		<title type="short" as="passed house">Spy Act</title>
+		<title type="official" as="introduced">To protect users of the Internet from unknowing transmission of their personally identifiable information through spyware programs, and for other purposes.</title>
+	</titles>
+	<sponsor id="400409"/>
+	<cosponsors>
+		<cosponsor id="400253" joined="2007-02-08"/>
+		<cosponsor id="400414" joined="2007-02-16"/>
+		<cosponsor id="400616" joined="2007-02-08"/>
+		<cosponsor id="400160" joined="2007-02-08"/>
+		<cosponsor id="400155" joined="2007-02-08"/>
+		<cosponsor id="400330" joined="2007-02-08"/>
+		<cosponsor id="400282" joined="2007-05-02"/>
+		<cosponsor id="400122" joined="2007-02-08"/>
+		<cosponsor id="400129" joined="2007-04-16"/>
+		<cosponsor id="400388" joined="2007-02-08"/>
+		<cosponsor id="400124" joined="2007-02-08"/>
+		<cosponsor id="400018" joined="2007-02-08"/>
+		<cosponsor id="400423" joined="2007-05-01"/>
+		<cosponsor id="400260" joined="2007-04-16"/>
+		<cosponsor id="412189" joined="2007-04-19"/>
+		<cosponsor id="400052" joined="2007-02-08"/>
+		<cosponsor id="400264" joined="2007-04-19"/>
+		<cosponsor id="400101" joined="2007-02-08"/>
+		<cosponsor id="400384" joined="2007-02-08"/>
+		<cosponsor id="400288" joined="2007-02-08"/>
+		<cosponsor id="400152" joined="2007-02-08"/>
+		<cosponsor id="400057" joined="2007-05-22"/>
+		<cosponsor id="400110" joined="2007-02-08"/>
+		<cosponsor id="400039" joined="2007-02-08"/>
+		<cosponsor id="400169" joined="2007-02-08"/>
+		<cosponsor id="400400" joined="2007-02-08"/>
+		<cosponsor id="400426" joined="2007-02-08"/>
+		<cosponsor id="400350" joined="2007-02-08"/>
+		<cosponsor id="400360" joined="2007-02-08"/>
+		<cosponsor id="400255" joined="2007-02-08"/>
+		<cosponsor id="400056" joined="2007-05-03"/>
+		<cosponsor id="400193" joined="2007-02-08"/>
+		<cosponsor id="400326" joined="2007-04-23"/>
+		<cosponsor id="400043" joined="2007-02-08"/>
+		<cosponsor id="400391" joined="2007-02-08"/>
+		<cosponsor id="400139" joined="2007-05-10"/>
+		<cosponsor id="400654" joined="2007-04-16"/>
+		<cosponsor id="400088" joined="2007-02-16"/>
+		<cosponsor id="400114" joined="2007-02-08"/>
+		<cosponsor id="400062" joined="2007-02-08"/>
+		<cosponsor id="400186" joined="2007-02-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1170910800" datetime="2007-02-08"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1170997200" datetime="2007-02-09"><text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text></action>
+		<action date="1178769600" datetime="2007-05-10"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1178769600" datetime="2007-05-10" ><text>Ordered to be Reported (Amended).</text></calendar>
+		<action date="1180044300" datetime="2007-05-24T19:05:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-169.</text></action>
+		<calendar number="101" date="1180044300" datetime="2007-05-24T19:05:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 101.</text></calendar>
+		<action date="1181185980" datetime="2007-06-06T12:13:00-04:00"><text>Mr. Rush moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1181186040" datetime="2007-06-06T12:14:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6031-6037"/></action>
+		<action date="1181186040" datetime="2007-06-06T12:14:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 964.</text></action>
+		<action date="1181187060" datetime="2007-06-06T12:31:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1181150640" datetime="2007-06-06T14:24:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6047-6048"/></action>
+		<vote date="1181151060" how="roll" roll="434" datetime="2007-06-06T14:31:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 368 - 48 (Roll no. 434).</text><reference label="text" ref="CR H6031-6035"/></vote>
+		<action date="1181188800" datetime="2007-06-07"><text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+		<action date="1184644800" datetime="2007-07-17"><text>Star Print ordered on the bill.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/6/2007--Passed House amended. Securely Protect Yourself Against Cyber Trespass Act or Spy Act - (Sec. 2) Makes it unlawful for any person who is not the owner or authorized user (user) of a protected computer (a computer exclusively for the use of a financial institution or the U.S. government, or a computer used in interstate or foreign commerce or communication) to engage in unfair or deceptive acts or practices in connection with specified conduct, including: (1) taking unsolicited control of the computer; (2) modifying computer settings; (3) collecting personally identifiable information; (4) inducing the owner or authorized user to disclose personally identifiable information; (5) inducing the unsolicited installation of computer software; and (6) removing or disabling a security, anti-spyware, or anti-virus technology. (Sec. 3) Makes it unlawful for a person to: (1) transmit to a protected computer any information collection program (a program that collects personally identifiable information and uses the information to send advertising), unless such program provides notice required by this Act before downloading or installing any of the information collection program; or (2) execute any collection information program installed on a protected computer unless, before execution, the user has consented to such execution under notice requirements of this Act. Provides an exception with respect to Internet activity within a particular website when the information collected is sent only to the provider of the website accessed or Internet-based search function. (Sec. 5) Sets forth various exceptions and limitations. (Sec. 7) Requires reports.<br/>
+	</summary>
+</bill>

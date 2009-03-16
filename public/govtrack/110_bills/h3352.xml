@@ -1,0 +1,50 @@
+<bill session="110" type="h" number="3352" updated="2009-01-08T23:53:04-05:00">
+	<status><vote date="1207000560" datetime="2008-03-31T18:56:00-04:00" where="h" result="pass" how="roll" roll="147"/></status>
+
+	<introduced date="1186027200" datetime="2007-08-02"/>
+	<titles>
+		<title type="short" as="introduced">Hydrographic Services Improvement Act Amendments of 2007</title>
+		<title type="short" as="reported to house">Hydrographic Services Improvement Act Amendments of 2008</title>
+		<title type="short" as="passed house">Hydrographic Services Improvement Act Amendments of 2008</title>
+		<title type="official" as="introduced">To reauthorize and amend the Hydrographic Services Improvement Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="400440"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1186027200" datetime="2007-08-02"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1186718400" datetime="2007-08-10"><text>Referred to the Subcommittee on Fisheries, Wildlife, and Oceans.</text></action>
+		<action date="1193198400" datetime="2007-10-24"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1202878800" datetime="2008-02-13"><text>Forwarded by Subcommittee to Full Committee Without Recommendation (Amended) by Unanimous Consent .</text></action>
+		<action date="1202878800" datetime="2008-02-13"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1205294400" datetime="2008-03-12" ><text>Ordered to be Reported (Amended) by Unanimous Consent.</text></calendar>
+		<action date="1205294400" datetime="2008-03-12"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<action date="1207019400" datetime="2008-03-31T12:10:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-556.</text></action>
+		<calendar number="339" date="1207019460" datetime="2008-03-31T12:11:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 339.</text></calendar>
+		<action date="1206984840" datetime="2008-03-31T14:34:00-04:00"><text>Mr. Abercrombie moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1206984900" datetime="2008-03-31T14:35:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1782-1783"/></action>
+		<action date="1206984900" datetime="2008-03-31T14:35:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3352.</text></action>
+		<action date="1206985080" datetime="2008-03-31T14:38:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1206999060" datetime="2008-03-31T18:31:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1789-1790"/></action>
+		<vote date="1207000560" how="roll" roll="147" datetime="2008-03-31T18:56:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 308 - 60 (Roll no. 147).</text><reference label="text" ref="CR H1782-1783"/></vote>
+		<action date="1207022400" datetime="2008-04-01"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1208145600" datetime="2008-04-14"><text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text></action>
+		<calendar under="General Orders" number="697" date="1208145600" datetime="2008-04-14" calendar="Senate Legislative" ><text>Ordered placed on Senate Legislative Calendar under General Orders. Calendar No. 697.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/31/2008--Passed House amended. Hydrographic Services Improvement Act Amendments of 2008 - Amends the Hydrographic Services Improvement Act of 1998 to revise the definition of &quot;hydrographic data&quot; to include information acquired through lidar, radar, remote sensing, shoreline and other ocean- and coastal-related surveying, and water level observations. Revises the definition of &quot;hydrographic services&quot; to include shoreline and water level information. Requires the Administrator of the National Oceanic and Atmospheric Administration (NOAA) to provide hydrographic services. Modifies requirements regarding the awarding of contracts for the acquisition of hydrographic data. Authorizes the Administrator to create and maintain a Joint Hydrographic Institute. Authorizes the Administrator to acquire hydrographic data and provide hydrographic services to support the conservation and management of coastal and ocean resources, save and protect life and property, support commerce resumption after emergencies and disasters, and meet homeland security and maritime domain awareness needs, including carrying out mission assignments. (Current law only authorizes the Administrator to use hydrographic data and services to support the conservation and management of coastal and ocean resources.) Modifies membership and compensation provisions regarding the Hydrographic Services Review Panel. Authorizes appropriations to carry out nautical mapping and charting, contract for hydrographic surveys, operate hydrographic survey vessels, carry out geodetic functions, carry out tide and current measurement, and acquire a replacement hydrographic survey vessel. Amends the Act of August 6, 1947, to give it the name &quot;Coast and Geodetic Survey Act.&quot;<br/>
+	</summary>
+</bill>

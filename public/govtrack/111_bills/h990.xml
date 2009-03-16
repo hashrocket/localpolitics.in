@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="990" updated="2009-03-07T11:44:46-05:00">
+	<status><introduced date="1234328400" datetime="2009-02-11"/></status>
+
+	<introduced date="1234328400" datetime="2009-02-11"/>
+	<titles>
+		<title type="short" as="introduced">ACCESS Act 2009</title>
+		<title type="short" as="introduced">ACCESS Act 2009</title>
+		<title type="short" as="introduced">Airport Master Plan Customer Convenience Enhancement, Security, and Sustainability Act of 2009</title>
+		<title type="official" as="introduced">To amend title 49, United States Code, to establish additional goals for airport master plans.</title>
+	</titles>
+	<sponsor id="400158"/>
+	<cosponsors>
+		<cosponsor id="400639" joined="2009-02-11"/>
+	</cosponsors>
+	<actions>
+		<action date="1234328400" datetime="2009-02-11"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Referred to the Subcommittee on Aviation.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Aviation" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

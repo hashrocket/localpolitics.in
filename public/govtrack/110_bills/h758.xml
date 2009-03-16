@@ -1,0 +1,274 @@
+<bill session="110" type="h" number="758" updated="2009-01-08T18:24:02-05:00">
+	<status><vote date="1222361580" datetime="2008-09-25T13:53:00-04:00" where="h" result="pass" how="roll" roll="639"/></status>
+
+	<introduced date="1170219600" datetime="2007-01-31"/>
+	<titles>
+		<title type="short" as="introduced">Breast Cancer Patient Protection Act of 2007</title>
+		<title type="short" as="passed house">Breast Cancer Patient Protection Act of 2008</title>
+		<title type="official" as="introduced">To require that health plans provide coverage for a minimum hospital stay for mastectomies, lumpectomies, and lymph node dissection for the treatment of breast cancer and coverage for secondary consultations.</title>
+	</titles>
+	<sponsor id="400103"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-10-03"/>
+		<cosponsor id="400290" joined="2007-01-31"/>
+		<cosponsor id="400661" joined="2007-06-27"/>
+		<cosponsor id="400253" joined="2007-01-31"/>
+		<cosponsor id="400041" joined="2007-01-31"/>
+		<cosponsor id="400133" joined="2007-10-15"/>
+		<cosponsor id="400420" joined="2007-10-09"/>
+		<cosponsor id="400620" joined="2007-10-10"/>
+		<cosponsor id="400031" joined="2007-01-31"/>
+		<cosponsor id="412229" joined="2007-09-26"/>
+		<cosponsor id="400073" joined="2007-01-31"/>
+		<cosponsor id="400280" joined="2007-01-31"/>
+		<cosponsor id="400199" joined="2007-01-31"/>
+		<cosponsor id="400337" joined="2007-01-31"/>
+		<cosponsor id="400227" joined="2007-01-31"/>
+		<cosponsor id="400414" joined="2007-05-03"/>
+		<cosponsor id="400364" joined="2007-01-31"/>
+		<cosponsor id="400257" joined="2007-01-31"/>
+		<cosponsor id="400289" joined="2007-10-01"/>
+		<cosponsor id="400616" joined="2008-02-25"/>
+		<cosponsor id="400142" joined="2007-03-22"/>
+		<cosponsor id="400210" joined="2007-01-31"/>
+		<cosponsor id="400160" joined="2007-01-31"/>
+		<cosponsor id="400155" joined="2007-05-17"/>
+		<cosponsor id="400263" joined="2007-01-31"/>
+		<cosponsor id="400407" joined="2007-01-31"/>
+		<cosponsor id="400149" joined="2007-03-22"/>
+		<cosponsor id="400080" joined="2007-01-31"/>
+		<cosponsor id="400657" joined="2008-03-05"/>
+		<cosponsor id="400162" joined="2007-01-31"/>
+		<cosponsor id="412221" joined="2008-02-25"/>
+		<cosponsor id="400209" joined="2007-10-15"/>
+		<cosponsor id="400183" joined="2007-01-31"/>
+		<cosponsor id="400102" joined="2007-07-31"/>
+		<cosponsor id="400282" joined="2007-01-31"/>
+		<cosponsor id="412234" joined="2007-01-31"/>
+		<cosponsor id="400302" joined="2007-10-09"/>
+		<cosponsor id="400122" joined="2007-01-31"/>
+		<cosponsor id="400403" joined="2007-01-31"/>
+		<cosponsor id="400246" joined="2007-01-31"/>
+		<cosponsor id="400635" joined="2007-03-01"/>
+		<cosponsor id="400333" joined="2007-10-01"/>
+		<cosponsor id="400385" joined="2008-09-22"/>
+		<cosponsor id="400342" joined="2007-10-23"/>
+		<cosponsor id="400295" joined="2007-10-01"/>
+		<cosponsor id="400623" joined="2007-01-31"/>
+		<cosponsor id="400271" joined="2007-10-01"/>
+		<cosponsor id="400096" joined="2007-01-31"/>
+		<cosponsor id="400430" joined="2007-01-31"/>
+		<cosponsor id="400129" joined="2007-01-31"/>
+		<cosponsor id="400170" joined="2007-07-11"/>
+		<cosponsor id="400424" joined="2007-02-08"/>
+		<cosponsor id="412195" joined="2008-02-07"/>
+		<cosponsor id="400065" joined="2007-06-27"/>
+		<cosponsor id="400633" joined="2007-10-10"/>
+		<cosponsor id="400095" joined="2007-01-31"/>
+		<cosponsor id="400647" joined="2007-11-14"/>
+		<cosponsor id="400443" joined="2008-02-25"/>
+		<cosponsor id="412215" joined="2007-06-11"/>
+		<cosponsor id="400344" joined="2007-04-17"/>
+		<cosponsor id="400198" joined="2007-01-31"/>
+		<cosponsor id="400268" joined="2007-01-31"/>
+		<cosponsor id="400063" joined="2007-01-31"/>
+		<cosponsor id="400379" joined="2007-06-11"/>
+		<cosponsor id="400361" joined="2007-01-31"/>
+		<cosponsor id="400165" joined="2007-01-31"/>
+		<cosponsor id="400196" joined="2007-09-05"/>
+		<cosponsor id="412210" joined="2007-02-06"/>
+		<cosponsor id="400124" joined="2007-01-31"/>
+		<cosponsor id="400003" joined="2007-01-31"/>
+		<cosponsor id="400423" joined="2008-02-25"/>
+		<cosponsor id="400260" joined="2007-10-03"/>
+		<cosponsor id="412231" joined="2007-05-02"/>
+		<cosponsor id="400274" joined="2007-05-01"/>
+		<cosponsor id="400662" joined="2007-05-03"/>
+		<cosponsor id="400241" joined="2007-10-10"/>
+		<cosponsor id="412189" joined="2007-10-10"/>
+		<cosponsor id="400409" joined="2007-01-31"/>
+		<cosponsor id="400264" joined="2007-01-31"/>
+		<cosponsor id="400370" joined="2007-01-31"/>
+		<cosponsor id="400101" joined="2007-01-31"/>
+		<cosponsor id="400396" joined="2007-01-31"/>
+		<cosponsor id="400384" joined="2007-01-31"/>
+		<cosponsor id="400184" joined="2007-01-31"/>
+		<cosponsor id="400288" joined="2008-02-06"/>
+		<cosponsor id="400152" joined="2007-01-31"/>
+		<cosponsor id="400412" joined="2007-01-31"/>
+		<cosponsor id="400055" joined="2007-01-31"/>
+		<cosponsor id="400377" joined="2007-10-10"/>
+		<cosponsor id="400355" joined="2007-01-31"/>
+		<cosponsor id="400216" joined="2007-01-31"/>
+		<cosponsor id="400262" joined="2007-01-31"/>
+		<cosponsor id="400130" joined="2007-01-31"/>
+		<cosponsor id="400249" joined="2007-01-31"/>
+		<cosponsor id="400030" joined="2007-01-31"/>
+		<cosponsor id="400312" joined="2007-01-31"/>
+		<cosponsor id="400359" joined="2007-06-05"/>
+		<cosponsor id="400316" joined="2007-06-27"/>
+		<cosponsor id="400007" joined="2007-01-31"/>
+		<cosponsor id="400245" joined="2007-01-31"/>
+		<cosponsor id="400231" joined="2007-10-10"/>
+		<cosponsor id="400663" joined="2007-01-31"/>
+		<cosponsor id="400352" joined="2007-01-31"/>
+		<cosponsor id="400339" joined="2007-10-29"/>
+		<cosponsor id="400387" joined="2007-01-31"/>
+		<cosponsor id="400006" joined="2007-06-28"/>
+		<cosponsor id="412258" joined="2008-04-30"/>
+		<cosponsor id="400386" joined="2007-01-31"/>
+		<cosponsor id="400147" joined="2007-01-31"/>
+		<cosponsor id="400082" joined="2007-10-15"/>
+		<cosponsor id="400275" joined="2007-01-31"/>
+		<cosponsor id="400347" joined="2007-01-31"/>
+		<cosponsor id="400230" joined="2007-10-01"/>
+		<cosponsor id="400416" joined="2007-01-31"/>
+		<cosponsor id="412223" joined="2007-01-31"/>
+		<cosponsor id="412209" joined="2007-04-25"/>
+		<cosponsor id="400442" joined="2007-01-31"/>
+		<cosponsor id="400044" joined="2007-10-10"/>
+		<cosponsor id="412193" joined="2007-07-12"/>
+		<cosponsor id="400631" joined="2008-03-05"/>
+		<cosponsor id="400001" joined="2007-09-05"/>
+		<cosponsor id="400110" joined="2007-01-31"/>
+		<cosponsor id="400087" joined="2007-01-31"/>
+		<cosponsor id="400259" joined="2007-01-31"/>
+		<cosponsor id="400166" joined="2007-01-31"/>
+		<cosponsor id="400399" joined="2007-01-31"/>
+		<cosponsor id="400436" joined="2007-01-31"/>
+		<cosponsor id="400346" joined="2007-01-31"/>
+		<cosponsor id="400237" joined="2007-01-31"/>
+		<cosponsor id="400140" joined="2007-01-31"/>
+		<cosponsor id="400013" joined="2007-01-31"/>
+		<cosponsor id="400383" joined="2007-06-05"/>
+		<cosponsor id="412240" joined="2007-06-05"/>
+		<cosponsor id="412204" joined="2007-10-17"/>
+		<cosponsor id="400426" joined="2007-01-31"/>
+		<cosponsor id="400653" joined="2007-01-31"/>
+		<cosponsor id="400195" joined="2007-01-31"/>
+		<cosponsor id="400251" joined="2007-01-31"/>
+		<cosponsor id="400178" joined="2007-01-31"/>
+		<cosponsor id="400026" joined="2007-01-31"/>
+		<cosponsor id="400378" joined="2007-01-31"/>
+		<cosponsor id="412232" joined="2007-10-16"/>
+		<cosponsor id="400350" joined="2007-10-22"/>
+		<cosponsor id="400217" joined="2007-01-31"/>
+		<cosponsor id="400111" joined="2007-01-31"/>
+		<cosponsor id="400360" joined="2007-01-31"/>
+		<cosponsor id="400234" joined="2007-10-29"/>
+		<cosponsor id="400366" joined="2007-01-31"/>
+		<cosponsor id="400645" joined="2007-10-01"/>
+		<cosponsor id="400021" joined="2008-02-25"/>
+		<cosponsor id="412239" joined="2008-02-25"/>
+		<cosponsor id="400153" joined="2007-10-15"/>
+		<cosponsor id="400211" joined="2007-04-17"/>
+		<cosponsor id="400269" joined="2007-01-31"/>
+		<cosponsor id="400120" joined="2007-01-31"/>
+		<cosponsor id="400299" joined="2007-03-07"/>
+		<cosponsor id="400074" joined="2007-01-31"/>
+		<cosponsor id="400118" joined="2007-05-07"/>
+		<cosponsor id="400628" joined="2007-07-27"/>
+		<cosponsor id="412200" joined="2007-01-31"/>
+		<cosponsor id="400284" joined="2007-07-25"/>
+		<cosponsor id="400081" joined="2007-01-31"/>
+		<cosponsor id="400232" joined="2007-01-31"/>
+		<cosponsor id="400266" joined="2007-01-31"/>
+		<cosponsor id="400125" joined="2007-03-07"/>
+		<cosponsor id="400421" joined="2007-04-17"/>
+		<cosponsor id="400193" joined="2007-01-31"/>
+		<cosponsor id="400415" joined="2007-02-15"/>
+		<cosponsor id="412254" joined="2008-03-05"/>
+		<cosponsor id="400244" joined="2007-01-31"/>
+		<cosponsor id="412236" joined="2007-04-17"/>
+		<cosponsor id="400009" joined="2007-01-31"/>
+		<cosponsor id="412186" joined="2008-02-07"/>
+		<cosponsor id="400326" joined="2007-01-31"/>
+		<cosponsor id="400371" joined="2007-01-31"/>
+		<cosponsor id="412228" joined="2008-02-25"/>
+		<cosponsor id="412212" joined="2008-09-08"/>
+		<cosponsor id="400201" joined="2007-01-31"/>
+		<cosponsor id="400043" joined="2007-01-31"/>
+		<cosponsor id="400109" joined="2007-01-31"/>
+		<cosponsor id="400391" joined="2007-01-31"/>
+		<cosponsor id="400185" joined="2007-10-22"/>
+		<cosponsor id="400641" joined="2007-01-31"/>
+		<cosponsor id="400047" joined="2007-10-10"/>
+		<cosponsor id="400283" joined="2007-01-31"/>
+		<cosponsor id="400204" joined="2007-01-31"/>
+		<cosponsor id="400097" joined="2007-01-31"/>
+		<cosponsor id="400310" joined="2007-04-26"/>
+		<cosponsor id="400286" joined="2007-10-03"/>
+		<cosponsor id="400090" joined="2007-07-11"/>
+		<cosponsor id="400033" joined="2007-01-31"/>
+		<cosponsor id="400042" joined="2007-01-31"/>
+		<cosponsor id="400208" joined="2007-10-15"/>
+		<cosponsor id="400218" joined="2007-01-31"/>
+		<cosponsor id="400240" joined="2007-01-31"/>
+		<cosponsor id="400438" joined="2007-01-31"/>
+		<cosponsor id="412219" joined="2008-09-23"/>
+		<cosponsor id="400215" joined="2007-01-31"/>
+		<cosponsor id="400024" joined="2007-01-31"/>
+		<cosponsor id="400238" joined="2007-01-31"/>
+		<cosponsor id="400363" joined="2007-01-31"/>
+		<cosponsor id="400025" joined="2007-01-31"/>
+		<cosponsor id="400301" joined="2007-01-31"/>
+		<cosponsor id="400345" joined="2007-01-31"/>
+		<cosponsor id="400163" joined="2007-01-31"/>
+		<cosponsor id="400114" joined="2007-01-31"/>
+		<cosponsor id="400062" joined="2007-03-26"/>
+		<cosponsor id="412194" joined="2007-09-25"/>
+		<cosponsor id="400011" joined="2007-10-10"/>
+		<cosponsor id="400233" joined="2007-01-31"/>
+		<cosponsor id="400321" joined="2007-10-30"/>
+		<cosponsor id="400179" joined="2007-01-31"/>
+		<cosponsor id="400100" joined="2007-01-31"/>
+		<cosponsor id="400435" joined="2007-01-31"/>
+		<cosponsor id="400639" joined="2007-01-31"/>
+		<cosponsor id="400349" joined="2007-07-11"/>
+		<cosponsor id="400622" joined="2007-03-07"/>
+		<cosponsor id="400309" joined="2007-03-07"/>
+		<cosponsor id="412202" joined="2008-09-15"/>
+		<cosponsor id="412255" joined="2008-04-22"/>
+		<cosponsor id="400186" joined="2007-01-31"/>
+		<cosponsor id="400278" joined="2007-01-31"/>
+		<cosponsor id="400067" joined="2007-01-31"/>
+	</cosponsors>
+	<actions>
+		<action date="1170219600" datetime="2007-01-31"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1170219600" datetime="2007-01-31"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1170219600" datetime="2007-01-31"><text>Referred to House Ways and Means</text></action>
+		<action date="1170219600" datetime="2007-01-31"><text>Referred to House Education and Labor</text></action>
+		<action date="1170392400" datetime="2007-02-02"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1171947600" datetime="2007-02-20"><committee name="House Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1179460800" datetime="2007-05-18"><committee name="House Education and Labor"/><text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text></action>
+		<action date="1211342400" datetime="2008-05-21"><committee name="House Energy and Commerce" subcommittee="Health"/><text>Subcommittee Hearings Held.</text></action>
+		<action date="1221624000" datetime="2008-09-17"><committee name="House Energy and Commerce"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1221624000" datetime="2008-09-17" ><committee name="House Energy and Commerce"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1222208520" datetime="2008-09-23T19:22:00-04:00"><text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-868, Part I.</text></action>
+		<action date="1222208580" datetime="2008-09-23T19:23:00-04:00"><text>Committee on Ways and Means discharged.</text></action>
+		<action date="1222208580" datetime="2008-09-23T19:23:00-04:00"><text>Committee on Education and Labor discharged.</text></action>
+		<calendar number="564" date="1222208640" datetime="2008-09-23T19:24:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 564.</text></calendar>
+		<action date="1222208700" datetime="2008-09-23T19:25:00-04:00"><text>Mr. Pallone moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1222208700" datetime="2008-09-23T19:25:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8661-8666"/></action>
+		<action date="1222208700" datetime="2008-09-23T19:25:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 758.</text></action>
+		<action date="1222209780" datetime="2008-09-23T19:43:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1222361040" datetime="2008-09-25T13:44:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H9896"/></action>
+		<vote date="1222361580" how="roll" roll="639" datetime="2008-09-25T13:53:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 2 (Roll no. 639). (text: CR 9/23/2008 H8661-8664)</text></vote>
+		<action date="1222315200" datetime="2008-09-25"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/25/2008--Passed House amended. Breast Cancer Patient Protect Act of 2008 - Amends the Employee Retirement Income Security Act of 1974 (ERISA), the Public Health Service Act, and the Internal Revenue Code to require a group health plan or a health issuer offering group health insurance coverage that provides medical and surgical benefits to ensure that inpatient (and in the case of a lumpectomy, outpatient) coverage and radiation therapy are provided for breast cancer treatment. Prohibits such a plan or issuer from: (1) restricting benefits for any hospital length of stay to less than 48 hours in connection with a mastectomy or breast conserving surgery or 24 hours in connection with a lymph node dissection, insofar as the attending physician, in consultation with the patient, determines such stay to be medically necessary; or (2) requiring that a provider obtain authorization from the plan or issuer for prescribing any such length of stay.<br/>Requires such a plan or issuer to: (1) provide notice (prominently in the summary of the plan) to each participant and beneficiary regarding the coverage required under this Act; (2) ensure that coverage is provided for secondary consultations (on terms and conditions that are no more restrictive than those applicable to the initial consultations) by specialists in the appropriate medical fields to confirm or refute a diagnosis of cancer; and (3) ensure that coverage is provided for such secondary consultations whether the consultation is based on a positive or negative initial diagnosis.<br/>Prohibits such a plan or issuer from: (1) penalizing or otherwise reducing or limiting the reimbursement of a provider or specialist because of care to a participant or beneficiary in accordance with this Act; (2) providing incentives for a physician or specialist to keep the length of inpatient stays below certain limits following a mastectomy, lumpectomy, or a lymph node dissection for the treatment of breast cancer or to limit referrals for secondary consultations; or (3) providing incentives for a physician or specialist to refrain from referring a participant or beneficiary for a secondary consultation that would otherwise be covered.<br/>Applies such requirements to health insurance issuers offering coverage in the individual market.<br/>Allows a health insurance issuer that provides individual health insurance coverage to nonrenew or discontinue an individual's coverage based on the intentional concealment of material facts regarding a health condition related to the condition for which coverage is being claimed. Sets forth procedures for notice and independent, external review of any proposed nonrenewal, discontinuation, or rescission of health insurance coverage.<br/>
+	</summary>
+</bill>

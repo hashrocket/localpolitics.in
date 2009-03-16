@@ -1,0 +1,51 @@
+<bill session="111" type="s" number="423" updated="2009-03-07T14:23:46-05:00">
+	<status><introduced date="1234414800" datetime="2009-02-12"/></status>
+
+	<introduced date="1234414800" datetime="2009-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Veterans Health Care Budget Reform and Transparency Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend title 38, United States Code, to authorize advance appropriations for certain medical care accounts of the Department of Veterans Affairs by providing two-fiscal year budget authority, and for other purposes.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+		<cosponsor id="400272" joined="2009-02-12"/>
+		<cosponsor id="300009" joined="2009-02-12"/>
+		<cosponsor id="400418" joined="2009-02-12"/>
+		<cosponsor id="300011" joined="2009-02-12"/>
+		<cosponsor id="300055" joined="2009-02-25"/>
+		<cosponsor id="300091" joined="2009-02-12"/>
+		<cosponsor id="300093" joined="2009-02-12"/>
+		<cosponsor id="300042" joined="2009-02-12"/>
+		<cosponsor id="300075" joined="2009-02-12"/>
+		<cosponsor id="300063" joined="2009-02-12"/>
+		<cosponsor id="300087" joined="2009-02-12"/>
+		<cosponsor id="400357" joined="2009-02-12"/>
+		<cosponsor id="400054" joined="2009-02-12"/>
+		<cosponsor id="300068" joined="2009-03-03"/>
+		<cosponsor id="412244" joined="2009-02-12"/>
+		<cosponsor id="300084" joined="2009-02-12"/>
+		<cosponsor id="412326" joined="2009-02-12"/>
+		<cosponsor id="300058" joined="2009-02-12"/>
+		<cosponsor id="400546" joined="2009-02-12"/>
+		<cosponsor id="300064" joined="2009-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1234414800" datetime="2009-02-12"><text>Sponsor introductory remarks on measure. (CR S2232)</text></action>
+		<action date="1234414800" datetime="2009-02-12"><text>Read twice and referred to the Committee on Veterans' Affairs.</text><reference label="text of measure as introduced" ref="CR S2232-2233"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="1016" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/12/2009--Introduced.<br/>Veterans Health Care Budget Reform and Transparency Act of 2009 - Requires, beginning with FY2011, a two-fiscal-year new discretionary budget authority for the following accounts of the Department of Veterans Affairs (VA): (1) Medical Services; (2) Medical Support and Compliance; and (3) Medical Facilities. Requires the Comptroller General to conduct a study on the adequacy and accuracy of VA baseline model projections for health care expenditures.<br/>
+	</summary>
+</bill>

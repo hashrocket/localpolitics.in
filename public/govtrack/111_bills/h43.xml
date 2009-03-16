@@ -1,0 +1,84 @@
+<bill session="111" type="h" number="43" updated="2009-03-07T09:52:50-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Access to Rehabilitation Services Act of 2009</title>
+		<title type="official" as="introduced">To amend title XVIII of the Social Security Act to repeal the Medicare outpatient rehabilitation therapy caps.</title>
+	</titles>
+	<sponsor id="400021"/>
+	<cosponsors>
+		<cosponsor id="400144" joined="2009-02-24"/>
+		<cosponsor id="400034" joined="2009-01-06"/>
+		<cosponsor id="412218" joined="2009-01-15"/>
+		<cosponsor id="400280" joined="2009-02-24"/>
+		<cosponsor id="400277" joined="2009-02-24"/>
+		<cosponsor id="400442" joined="2009-02-24"/>
+		<cosponsor id="400311" joined="2009-02-24"/>
+		<cosponsor id="400001" joined="2009-02-24"/>
+		<cosponsor id="400395" joined="2009-02-24"/>
+		<cosponsor id="400160" joined="2009-02-24"/>
+		<cosponsor id="412211" joined="2009-02-24"/>
+		<cosponsor id="400158" joined="2009-01-15"/>
+		<cosponsor id="400259" joined="2009-02-24"/>
+		<cosponsor id="400162" joined="2009-02-24"/>
+		<cosponsor id="400346" joined="2009-02-24"/>
+		<cosponsor id="400380" joined="2009-01-15"/>
+		<cosponsor id="412278" joined="2009-02-24"/>
+		<cosponsor id="400122" joined="2009-01-15"/>
+		<cosponsor id="400234" joined="2009-01-15"/>
+		<cosponsor id="400385" joined="2009-02-24"/>
+		<cosponsor id="400211" joined="2009-02-24"/>
+		<cosponsor id="400107" joined="2009-01-15"/>
+		<cosponsor id="400284" joined="2009-02-24"/>
+		<cosponsor id="400647" joined="2009-01-15"/>
+		<cosponsor id="400154" joined="2009-01-15"/>
+		<cosponsor id="400421" joined="2009-02-24"/>
+		<cosponsor id="400244" joined="2009-02-24"/>
+		<cosponsor id="400326" joined="2009-02-24"/>
+		<cosponsor id="412212" joined="2009-02-24"/>
+		<cosponsor id="400043" joined="2009-01-15"/>
+		<cosponsor id="400049" joined="2009-02-24"/>
+		<cosponsor id="400641" joined="2009-02-24"/>
+		<cosponsor id="400286" joined="2009-01-15"/>
+		<cosponsor id="400254" joined="2009-02-24"/>
+		<cosponsor id="400240" joined="2009-02-24"/>
+		<cosponsor id="400264" joined="2009-02-24"/>
+		<cosponsor id="400433" joined="2009-02-24"/>
+		<cosponsor id="400184" joined="2009-02-24"/>
+		<cosponsor id="400024" joined="2009-02-24"/>
+		<cosponsor id="412206" joined="2009-02-24"/>
+		<cosponsor id="400345" joined="2009-01-06"/>
+		<cosponsor id="400216" joined="2009-02-24"/>
+		<cosponsor id="400437" joined="2009-01-15"/>
+		<cosponsor id="400321" joined="2009-01-15"/>
+		<cosponsor id="400435" joined="2009-02-24"/>
+		<cosponsor id="400309" joined="2009-02-24"/>
+		<cosponsor id="412255" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR E19)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Ways and Means</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="46" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Home and outpatient care"/>
+		<term name="Long-term, rehabilitative, and terminal care"/>
+		<term name="Medicare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Medicare Access to Rehabilitation Services Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act to repeal the Medicare outpatient rehabilitation therapy caps.<br/>
+	</summary>
+</bill>

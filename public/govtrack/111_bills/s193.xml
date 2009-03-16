@@ -1,0 +1,46 @@
+<bill session="111" type="s" number="193" updated="2009-03-07T13:56:20-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="official" as="introduced">A bill to create and extend certain temporary district court judgeships.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2009-01-09"/>
+		<cosponsor id="300083" joined="2009-01-09"/>
+		<cosponsor id="412320" joined="2009-01-09"/>
+		<cosponsor id="400050" joined="2009-01-09"/>
+		<cosponsor id="300011" joined="2009-01-09"/>
+		<cosponsor id="300001" joined="2009-01-09"/>
+		<cosponsor id="300098" joined="2009-01-09"/>
+		<cosponsor id="300013" joined="2009-01-09"/>
+		<cosponsor id="300077" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Sponsor introductory remarks on measure. (CR S257)</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S257"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Judiciary" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Law"/>
+		<term name="California"/>
+		<term name="Federal district courts"/>
+		<term name="Hawaii"/>
+		<term name="Judges"/>
+		<term name="Kansas"/>
+		<term name="Nebraska"/>
+		<term name="Ohio"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Requires the President to appoint, by and with the advice and consent of the Senate, one additional district judge for the eastern district of California and one additional district judge for the district of Nebraska. Prohibits filling of the first vacancy in the office of district judge in each of the offices of district judge authorized by this Act occurring 10 years or more after the confirmation of the judge named to fill the temporary district judgeship created by this Act. Amends the Judicial Improvements Act of 1990 to extend the temporary judgeships in the district of Hawaii, the district of Kansas, and the northern district of Ohio. Prohibits filling of the first vacancy in the office of district judge in the district of Hawaii occurring 20 years or more after the confirmation of the judge named to fill the temporary judgeship created by such Act. 
+	</summary>
+</bill>

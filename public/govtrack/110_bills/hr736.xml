@@ -1,0 +1,42 @@
+<bill session="110" type="hr" number="736" updated="2009-01-09T09:23:38-05:00">
+	<status><vote date="1192572900" datetime="2007-10-16T19:15:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1192161600" datetime="2007-10-12"/>
+	<titles>
+		<title type="official" as="introduced">Honoring the 60th anniversary of the aeronautics research accomplishments embodied in &quot;the breaking of the sound barrier&quot;.</title>
+	</titles>
+	<sponsor id="400343"/>
+	<cosponsors>
+		<cosponsor id="400061" joined="2007-10-12"/>
+		<cosponsor id="400155" joined="2007-10-12"/>
+		<cosponsor id="412190" joined="2007-10-12"/>
+		<cosponsor id="400267" joined="2007-10-12"/>
+		<cosponsor id="400191" joined="2007-10-12"/>
+		<cosponsor id="400165" joined="2007-10-12"/>
+		<cosponsor id="400412" joined="2007-10-12"/>
+		<cosponsor id="400331" joined="2007-10-12"/>
+		<cosponsor id="400131" joined="2007-10-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1192161600" datetime="2007-10-12"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1192572120" datetime="2007-10-16T19:02:00-04:00"><text>Mr. Lampson moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1192572120" datetime="2007-10-16T19:02:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H11614-11616"/></action>
+		<action date="1192572120" datetime="2007-10-16T19:02:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 736.</text></action>
+		<vote date="1192572900" how="by voice vote" datetime="2007-10-16T19:15:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H116114"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/16/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Recognizes and honors the: (1) contributions of scientists and engineers of the National Advisory Committee for Aeronautics (NACA)and its partners who pioneered the technologies to enable supersonic flight; and (2) bravery of Charles &quot;Chuck&quot; Yeager and the many other test pilots who, sometimes at the cost of their lives, enabled the aeronautics developments that made possible the first supersonic flight on October 14, 1947.<br/>
+	</summary>
+</bill>

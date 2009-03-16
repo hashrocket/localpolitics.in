@@ -1,0 +1,51 @@
+<bill session="110" type="h" number="2632" updated="2009-01-08T22:19:59-05:00">
+	<status><vote date="1213033500" datetime="2008-06-09T14:45:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1181188800" datetime="2007-06-07"/>
+	<titles>
+		<title type="short" as="introduced">Sabinoso Wilderness Act of 2007</title>
+		<title type="short" as="reported to house">Sabinoso Wilderness Act of 2008</title>
+		<title type="short" as="passed house">Sabinoso Wilderness Act of 2008</title>
+		<title type="short" as="reported to senate">Sabinoso Wilderness Act of 2008</title>
+		<title type="official" as="introduced">To establish the Sabinoso Wilderness Area in San Miguel County, New Mexico, and for other purposes.</title>
+	</titles>
+	<sponsor id="400413"/>
+	<cosponsors>
+		<cosponsor id="400237" joined="2008-05-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1181188800" datetime="2007-06-07"><text>Sponsor introductory remarks on measure. (CR E1243)</text></action>
+		<action date="1181188800" datetime="2007-06-07"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1181534400" datetime="2007-06-11"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1194930000" datetime="2007-11-13"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1210737600" datetime="2008-05-14"><text>Subcommittee on National Parks, Forests, and Public Lands Discharged.</text></action>
+		<action date="1210737600" datetime="2008-05-14"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1210737600" datetime="2008-05-14" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1212696540" datetime="2008-06-05T17:09:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-695.</text></action>
+		<calendar number="438" date="1212696540" datetime="2008-06-05T17:09:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 438.</text></calendar>
+		<action date="1213032000" datetime="2008-06-09T14:20:00-04:00"><text>Mr. Costa moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1213032000" datetime="2008-06-09T14:20:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5050-5053"/></action>
+		<action date="1213032000" datetime="2008-06-09T14:20:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2632.</text></action>
+		<vote date="1213033500" how="by voice vote" datetime="2008-06-09T14:45:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H5050"/></vote>
+		<action date="1213070400" datetime="2008-06-10"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Committee on Energy and Natural Resources Senate Subcommittee on Public Lands and Forests. Hearings held.</text></action>
+		<calendar date="1221105600" datetime="2008-09-11" ><text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action date="1221537600" datetime="2008-09-16"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="1020" date="1221537600" datetime="2008-09-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1020.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/16/2008--Reported to Senate amended. Sabinoso Wilderness Act of 2008 - Designates certain land under the jurisdiction of the Taos Field Office of the Bureau of Land Management (BLM) in New Mexico as the &quot;Sabinoso Wilderness&quot; and as a component of the National Wilderness Preservation System. Requires any acquired land or interest in land within the boundary of the Sabinoso Wilderness to become part of such wilderness. Sets forth requirements with respect to livestock grazing and fish and wildlife in the wilderness area. Requires certain private lands to be managed as an inholding in the Sabinoso Wilderness. Withdraws the wilderness area from: (1) all forms of entry, appropriation, and disposal under the public land laws, except for disposal by exchange in accordance with the Federal Land Policy and Management Act of 1976; (2) location, entry, and patent under the mining laws; and (3) operation of the mineral materials and geothermal leasing laws. Continues to allow private landowners adequate access to inholdings in the Sabinoso Wilderness. 
+	</summary>
+</bill>

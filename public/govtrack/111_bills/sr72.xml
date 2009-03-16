@@ -1,0 +1,45 @@
+<bill session="111" type="sr" number="72" updated="2009-03-11T12:04:07-04:00">
+	<status><introduced date="1236657600" datetime="2009-03-10"/></status>
+
+	<introduced date="1236657600" datetime="2009-03-10"/>
+	<titles>
+		<title type="official" as="introduced">A resolution expressing the sense of the Senate regarding drug trafficking in Mexico.</title>
+	</titles>
+	<sponsor id="400272"/>
+	<cosponsors>
+		<cosponsor id="300060" joined="2009-03-10"/>
+		<cosponsor id="300070" joined="2009-03-10"/>
+		<cosponsor id="300034" joined="2009-03-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1236657600" datetime="2009-03-10"><text>Referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S2979-2980"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Foreign Relations" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Congressional tributes"/>
+		<term name="Diplomacy, foreign officials, Americans abroad"/>
+		<term name="Drug trafficking and controlled substances"/>
+		<term name="Foreign aid and international relief"/>
+		<term name="Government ethics and transparency, public corruption"/>
+		<term name="Human rights"/>
+		<term name="International organizations and cooperation"/>
+		<term name="Investigation, prosecution, interrogation methods"/>
+		<term name="Latin America"/>
+		<term name="Mexico"/>
+		<term name="Organized crime"/>
+		<term name="Rule of law and government transparency"/>
+		<term name="Violent crime"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

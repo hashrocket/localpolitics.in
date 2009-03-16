@@ -1,0 +1,73 @@
+<bill session="110" type="h" number="6340" updated="2009-01-09T05:56:38-05:00">
+	<status><enacted date="1218513600" datetime="2008-08-12" /></status>
+
+	<introduced date="1213934400" datetime="2008-06-20"/>
+	<titles>
+		<title type="official" as="introduced">To designate the Federal building and United States Courthouse located at 300 Quarropas Street in White Plains, New York, as the &quot;Charles L. Brieant, Jr. Federal Building and United States Courthouse&quot;.</title>
+		<title type="official" as="amended by house">To designate the Federal building and United States courthouse located at 300 Quarropas Street in White Plains, New York, as the &quot;Charles L. Brieant, Jr., Federal Building and United States Courthouse&quot;.</title>
+	</titles>
+	<sponsor id="400246"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="2008-06-20"/>
+		<cosponsor id="400031" joined="2008-06-20"/>
+		<cosponsor id="400219" joined="2008-06-20"/>
+		<cosponsor id="400257" joined="2008-06-20"/>
+		<cosponsor id="400289" joined="2008-06-20"/>
+		<cosponsor id="412221" joined="2008-06-20"/>
+		<cosponsor id="412224" joined="2008-06-20"/>
+		<cosponsor id="400122" joined="2008-06-20"/>
+		<cosponsor id="400333" joined="2008-06-20"/>
+		<cosponsor id="400271" joined="2008-06-20"/>
+		<cosponsor id="400268" joined="2008-06-20"/>
+		<cosponsor id="400003" joined="2008-06-20"/>
+		<cosponsor id="400409" joined="2008-06-20"/>
+		<cosponsor id="400264" joined="2008-06-20"/>
+		<cosponsor id="400642" joined="2008-06-20"/>
+		<cosponsor id="400416" joined="2008-06-20"/>
+		<cosponsor id="412223" joined="2008-06-20"/>
+		<cosponsor id="400087" joined="2008-06-20"/>
+		<cosponsor id="412222" joined="2008-06-20"/>
+		<cosponsor id="400426" joined="2008-06-20"/>
+		<cosponsor id="400195" joined="2008-06-20"/>
+		<cosponsor id="400251" joined="2008-06-20"/>
+		<cosponsor id="400178" joined="2008-06-20"/>
+		<cosponsor id="400378" joined="2008-06-20"/>
+		<cosponsor id="400366" joined="2008-06-20"/>
+		<cosponsor id="400338" joined="2008-06-20"/>
+		<cosponsor id="400641" joined="2008-06-20"/>
+		<cosponsor id="400139" joined="2008-06-20"/>
+	</cosponsors>
+	<actions>
+		<action date="1213934400" datetime="2008-06-20"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1214193600" datetime="2008-06-23"><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action date="1217387700" datetime="2008-07-29T12:15:00-04:00"><text>Ms. Norton moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1217387700" datetime="2008-07-29T12:15:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7174-7175"/></action>
+		<action date="1217387700" datetime="2008-07-29T12:15:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6340.</text></action>
+		<action date="1217388240" datetime="2008-07-29T12:24:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Boozman objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1217367480" datetime="2008-07-29T18:38:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7267"/></action>
+		<vote date="1217367540" how="by voice vote" datetime="2008-07-29T18:39:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H7174"/></vote>
+		<action date="1217367540" datetime="2008-07-29T18:39:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1217304000" datetime="2008-07-29"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1217563200" how="by Unanimous Consent" datetime="2008-08-01" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S8004"/></vote>
+		<action date="1217563200" datetime="2008-08-01"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1217563200" datetime="2008-08-01" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1217995200" datetime="2008-08-06" ><text>Presented to President.</text></topresident>
+		<signed date="1218513600" datetime="2008-08-12" ><text>Signed by President.</text></signed>
+		<enacted number="110-311" date="1218513600" datetime="2008-08-12" type="public" ><text>Became Public Law No: 110-311.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/1/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the federal building and U.S. courthouse located at 300 Quarropas Street in White Plains, New York, as the &quot;Charles L. Brieant, Jr. Federal Building and United States Courthouse.&quot;<br/>
+	</summary>
+</bill>

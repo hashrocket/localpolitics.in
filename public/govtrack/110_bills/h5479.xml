@@ -1,0 +1,60 @@
+<bill session="110" type="h" number="5479" updated="2009-01-09T04:15:02-05:00">
+	<status><enacted date="1216094400" datetime="2008-07-15" /></status>
+
+	<introduced date="1203915600" datetime="2008-02-25"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 117 North Kidd Street in Ionia, Michigan, as the &quot;Alonzo Woodruff Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400119"/>
+	<cosponsors>
+		<cosponsor id="400414" joined="2008-02-25"/>
+		<cosponsor id="400080" joined="2008-02-25"/>
+		<cosponsor id="400342" joined="2008-02-25"/>
+		<cosponsor id="400058" joined="2008-02-25"/>
+		<cosponsor id="400276" joined="2008-02-25"/>
+		<cosponsor id="400260" joined="2008-02-25"/>
+		<cosponsor id="400216" joined="2008-02-25"/>
+		<cosponsor id="400225" joined="2008-02-25"/>
+		<cosponsor id="400110" joined="2008-02-25"/>
+		<cosponsor id="400217" joined="2008-02-25"/>
+		<cosponsor id="412213" joined="2008-02-25"/>
+		<cosponsor id="400391" joined="2008-02-25"/>
+		<cosponsor id="400182" joined="2008-02-25"/>
+		<cosponsor id="400238" joined="2008-02-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1203915600" datetime="2008-02-25"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1205380800" datetime="2008-03-13"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1205380800" datetime="2008-03-13" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1208958540" datetime="2008-04-23T10:49:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1208958540" datetime="2008-04-23T10:49:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2561-2562"/></action>
+		<action date="1208958540" datetime="2008-04-23T10:49:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5479.</text></action>
+		<vote date="1208959020" how="by voice vote" datetime="2008-04-23T10:57:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H2561"/></vote>
+		<action date="1209009600" datetime="2008-04-24"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1210824000" datetime="2008-05-15"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+		<calendar date="1214366400" datetime="2008-06-25" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1214366400" datetime="2008-06-25"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="847" date="1214366400" datetime="2008-06-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 847.</text></calendar>
+		<vote date="1214539200" how="by Unanimous Consent" datetime="2008-06-27" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6331"/></vote>
+		<action date="1214539200" datetime="2008-06-27"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1214539200" datetime="2008-06-27" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1215662400" datetime="2008-07-10" ><text>Presented to President.</text></topresident>
+		<signed date="1216094400" datetime="2008-07-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-270" date="1216094400" datetime="2008-07-15" type="public" ><text>Became Public Law No: 110-270.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/15/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the facility of the United States Postal Service located at 117 North Kidd Street in Ionia, Michigan, as the &quot;Alonzo Woodruff Post Office Building.&quot; 
+	</summary>
+</bill>

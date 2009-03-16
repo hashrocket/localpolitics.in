@@ -1,0 +1,49 @@
+<bill session="110" type="sr" number="96" updated="2009-01-09T20:10:28-05:00">
+	<status><vote date="1204261200" datetime="2008-02-29" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1173157200" datetime="2007-03-06"/>
+	<titles>
+		<title type="official" as="introduced">A resolution expressing the sense of the Senate that Harriett Woods will be remembered as a pioneer in women's politics.</title>
+	</titles>
+	<sponsor id="412243"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2007-03-06"/>
+		<cosponsor id="300009" joined="2007-03-06"/>
+		<cosponsor id="300018" joined="2007-03-06"/>
+		<cosponsor id="300011" joined="2007-03-06"/>
+		<cosponsor id="300093" joined="2007-03-06"/>
+		<cosponsor id="300066" joined="2007-03-06"/>
+		<cosponsor id="300073" joined="2007-03-06"/>
+		<cosponsor id="300034" joined="2007-03-06"/>
+		<cosponsor id="300068" joined="2007-03-06"/>
+		<cosponsor id="300051" joined="2007-03-06"/>
+		<cosponsor id="300010" joined="2007-03-06"/>
+		<cosponsor id="300022" joined="2007-03-06"/>
+		<cosponsor id="300076" joined="2007-03-06"/>
+		<cosponsor id="400629" joined="2007-03-06"/>
+		<cosponsor id="300043" joined="2007-03-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1173157200" datetime="2007-03-06"><text>Sponsor introductory remarks on measure. (CR S2723)</text></action>
+		<action date="1173157200" datetime="2007-03-06"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S2723"/></action>
+		<calendar date="1173931200" datetime="2007-03-15" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1173931200" datetime="2007-03-15"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="81" date="1173931200" datetime="2007-03-15" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 81.</text></calendar>
+		<vote date="1204261200" how="by Unanimous Consent" datetime="2008-02-29" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S1435"/><reference label="text as passed Senate" ref="CR S1435"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/29/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Expresses the sense of the Senate that Harriett Woods will be remembered as a pioneer in women's politics, whose actions and leadership inspired hundreds of women nationwide to participate in the political process and to break gender barriers at every level of government. 
+	</summary>
+</bill>

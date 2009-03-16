@@ -1,0 +1,56 @@
+<bill session="110" type="s" number="3" updated="2009-01-09T11:07:11-05:00">
+	<status><calendar date="1176436800" datetime="2007-04-13" /></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="short" as="introduced">Medicare Prescription Drug Price Negotiation Act of 2007</title>
+		<title type="official" as="introduced">A bill to amend part D of title XVIII of the Social Security Act to provide for fair prescription drug prices for Medicare beneficiaries.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="412242" joined="2007-01-22"/>
+		<cosponsor id="300065" joined="2007-01-04"/>
+		<cosponsor id="300005" joined="2007-01-04"/>
+		<cosponsor id="300018" joined="2007-01-04"/>
+		<cosponsor id="300011" joined="2007-01-04"/>
+		<cosponsor id="300093" joined="2007-01-04"/>
+		<cosponsor id="300042" joined="2007-04-18"/>
+		<cosponsor id="300066" joined="2007-02-16"/>
+		<cosponsor id="300073" joined="2007-01-04"/>
+		<cosponsor id="300087" joined="2007-01-04"/>
+		<cosponsor id="300061" joined="2007-01-04"/>
+		<cosponsor id="412249" joined="2007-01-04"/>
+		<cosponsor id="400050" joined="2007-01-11"/>
+		<cosponsor id="300022" joined="2007-01-04"/>
+		<cosponsor id="412246" joined="2007-02-15"/>
+		<cosponsor id="300078" joined="2007-04-17"/>
+		<cosponsor id="300058" joined="2007-05-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Sponsor introductory remarks on measure. (CR S9-11)</text></action>
+		<action date="1167886800" datetime="2007-01-04"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S48"/></action>
+		<action date="1176436800" datetime="2007-04-13"><text>Committee on Finance. Reported by Senator Baucus under authority of the order of the Senate of 04/12/2007 with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar date="1176436800" datetime="2007-04-13" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 118.</text></calendar>
+		<action date="1176696000" datetime="2007-04-16"><text>Motion to proceed to consideration of measure made in Senate.</text><reference label="consideration" ref="CR S4461"/></action>
+		<action date="1176696000" datetime="2007-04-16"><text>Cloture motion on the motion to proceed presented in Senate.</text><reference label="consideration" ref="CR S4461"/><reference label="text" ref="CR S4461"/></action>
+		<action date="1176696000" datetime="2007-04-16"><text>Motion to proceed to consideration of measure withdrawn in Senate.</text><reference label="consideration" ref="CR S4461"/></action>
+		<action date="1176868800" datetime="2007-04-18"><text>Motion to proceed to measure considered in Senate.</text><reference label="consideration" ref="CR S4634-4636"/></action>
+		<vote-aux date="1176868800" how="roll" roll="132" datetime="2007-04-18" where="s" type="cloture" result="fail" ><text>Cloture on the motion to proceed to the bill not invoked in Senate by Yea-Nay Vote. 55 - 42. Record Vote Number: 132.</text><reference label="consideration" ref="CR S4634"/><reference label="text" ref="CR S4634"/></vote-aux>
+		<action date="1176868800" datetime="2007-04-18"><text>Motion by Senator Reid to reconsider the vote by which cloture on the motion to proceed was not invoked [Record Vote Number 132] entered in Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/4/2007--Introduced.<br/>Medicare Prescription Drug Price Negotiation Act of 2007 - Expresses the sense of Congress that Congress should enact, and the President should sign, legislation to amend part D (Voluntary Prescription Drug Benefit Program) of title XVIII (Medicare) of the Social Security Act to provide for fair prescription drug prices for Medicare beneficiaries. 
+	</summary>
+</bill>

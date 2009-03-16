@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="664" updated="2009-03-07T11:05:48-05:00">
+	<status><introduced date="1232686800" datetime="2009-01-23"/></status>
+
+	<introduced date="1232686800" datetime="2009-01-23"/>
+	<titles>
+		<title type="short" as="introduced">Economic Stimulus Enhancement and Tax Relief Permanency Act of 2009</title>
+		<title type="official" as="introduced">To make the 2001 and 2003 tax relief permanent law.</title>
+	</titles>
+	<sponsor id="400158"/>
+	<cosponsors>
+		<cosponsor id="400279" joined="2009-02-10"/>
+		<cosponsor id="400277" joined="2009-01-23"/>
+		<cosponsor id="400311" joined="2009-02-10"/>
+		<cosponsor id="412252" joined="2009-02-04"/>
+		<cosponsor id="412270" joined="2009-02-12"/>
+		<cosponsor id="412314" joined="2009-02-04"/>
+		<cosponsor id="400385" joined="2009-02-04"/>
+		<cosponsor id="400260" joined="2009-02-10"/>
+		<cosponsor id="400032" joined="2009-01-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1232686800" datetime="2009-01-23"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Capital gains tax"/>
+		<term name="Income tax credits"/>
+		<term name="Income tax deductions"/>
+		<term name="Income tax rates"/>
+		<term name="Tax treatment of families"/>
+		<term name="Transfer and inheritance taxes"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/23/2009--Introduced.<br/>Economic Stimulus Enhancement and Tax Relief Permanency Act of 2009 - Makes permanent: (1) the Economic Growwth and Tax Relief Reconciliation Act of 2001; and (2) the reductions in dividend and capital gains income tax rates enacted by the Jobs and Growth Tax Relief Reconciliation Act of 2003.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="3020" updated="2009-01-08T23:08:08-05:00">
+	<status><vote date="1188944760" datetime="2007-09-04T19:26:00-04:00" where="h" result="pass" how="roll" roll="848"/></status>
+
+	<introduced date="1184212800" datetime="2007-07-12"/>
+	<titles>
+		<title type="short" as="introduced">Microloan Amendments and Modernization Act</title>
+		<title type="short" as="reported to house">Microloan Amendments and Modernization Act</title>
+		<title type="short" as="reported to house">PRIME Act</title>
+		<title type="short" as="reported to house">Program for Investment in Microentrepreneurs Act</title>
+		<title type="short" as="passed house">Microloan Amendments and Modernization Act</title>
+		<title type="short" as="passed house">PRIME Act</title>
+		<title type="short" as="passed house">Program for Investment in Microentrepreneurs Act</title>
+		<title type="official" as="introduced">To amend the Small Business Act to improve the Microloan program, and for other purposes.</title>
+	</titles>
+	<sponsor id="400071"/>
+	<cosponsors>
+		<cosponsor id="400657" joined="2007-07-12"/>
+		<cosponsor id="412221" joined="2007-07-12"/>
+		<cosponsor id="400630" joined="2007-07-12"/>
+		<cosponsor id="412208" joined="2007-07-19"/>
+		<cosponsor id="400416" joined="2007-07-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1184212800" datetime="2007-07-12"><text>Referred to the House Committee on Small Business.</text></action>
+		<action date="1184817600" datetime="2007-07-19"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1184817600" datetime="2007-07-19" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1188927780" datetime="2007-09-04T14:43:00-04:00"><text>Reported (Amended) by the Committee on Small Business. H. Rept. 110-313.</text></action>
+		<calendar number="199" date="1188927840" datetime="2007-09-04T14:44:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 199.</text></calendar>
+		<action date="1188927960" datetime="2007-09-04T14:46:00-04:00"><text>Ms. Velazquez moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1188927960" datetime="2007-09-04T14:46:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10029-10032"/></action>
+		<action date="1188927960" datetime="2007-09-04T14:46:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3020.</text></action>
+		<action date="1188928560" datetime="2007-09-04T14:56:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1188944100" datetime="2007-09-04T19:15:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H10043-10044"/></action>
+		<vote date="1188944760" how="roll" roll="848" datetime="2007-09-04T19:26:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 5 (Roll no. 848).</text><reference label="text" ref="CR H10029-10030"/></vote>
+		<action date="1188964800" datetime="2007-09-05"><text>Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/4/2007--Passed House amended. (This measure has not been amended since it was reported to the House on September 4, 2007. The summary of that version is repeated here.) Microloan Amendments and Modernization Act - Title I: Microloan - (Sec. 101) Amends the Small Business Act with regard to the Microloan program (a program administered by the Small Business Administration [SBA] to provide small-scale loans to startup, newly established, or growing small businesses for working capital or the acquisition of materials, supplies, or equipment) to require the SBA Administrator to establish a process under which a lender provides to the major credit reporting agencies information about the borrower that is relevant to credit reporting (such as loan payment activity). (Sec. 102) Removes the requirement that Microloan loans be short-term only. (Sec. 103) Requires Microloan loan intermediaries to have one full-time employee who has at least three years experience making microloans. (Sec. 104) Increases from $7,500 to $10,000 the limit for loans made to intermediaries that will receive a reduced interest rate. (Sec. 105) Increases from 25% to 35% of grant funds received by Microloan intermediaries the amount that may be used to provide information and technical assistance to small businesses that are prospective borrowers. (Sec. 106) Includes disabled entrepreneurs and small business owners under the Microloan program. Title II: PRIME - Program for Investment in Microentrepreneurs Act or PRIME Act - (Sec. 202) Directs the Administrator to establish a technical assistance and capacity building grant program to provide assistance to microenterprises (small businesses with fewer than five employees and generally lacking access to conventional loans, equity, or other banking services) through grants to qualified microenterprise development organizations. Requires the Administrator to ensure that at least 50% of the grants made are used to benefit very low-income persons, including those residing on Indian reservations. Provides a 50% matching funds requirement, with an exception for applicants with severe constraints on available sources of matching funds. Outlines recordkeeping requirements for organizations receiving grants. Requires such organizations to report annually to the Administrator on its activities, financial condition, and success in meeting performance goals. (Sec. 203) Repeals provisions of the Riegle Community Development and Regulatory Improvement Act of 1994 which established a Program for Investment in Microentrepreneurs (PRIME).<br/>
+	</summary>
+</bill>

@@ -1,0 +1,96 @@
+<bill session="110" type="h" number="1065" updated="2009-01-08T19:03:34-05:00">
+	<status><vote date="1182797820" datetime="2007-06-25T15:57:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1171515600" datetime="2007-02-15"/>
+	<titles>
+		<title type="short" as="introduced">Nonadmitted and Reinsurance Reform Act of 2007</title>
+		<title type="short" as="passed house">Nonadmitted and Reinsurance Reform Act of 2007</title>
+		<title type="official" as="introduced">To streamline the regulation of nonadmitted insurance and reinsurance, and for other purposes.</title>
+	</titles>
+	<sponsor id="400282"/>
+	<cosponsors>
+		<cosponsor id="400661" joined="2007-02-15"/>
+		<cosponsor id="400061" joined="2007-02-15"/>
+		<cosponsor id="400219" joined="2007-02-15"/>
+		<cosponsor id="400280" joined="2007-02-15"/>
+		<cosponsor id="400367" joined="2007-06-25"/>
+		<cosponsor id="400257" joined="2007-02-15"/>
+		<cosponsor id="400210" joined="2007-02-15"/>
+		<cosponsor id="400027" joined="2007-02-15"/>
+		<cosponsor id="400336" joined="2007-02-15"/>
+		<cosponsor id="400183" joined="2007-02-15"/>
+		<cosponsor id="400102" joined="2007-02-15"/>
+		<cosponsor id="400623" joined="2007-02-15"/>
+		<cosponsor id="400430" joined="2007-02-15"/>
+		<cosponsor id="400441" joined="2007-02-15"/>
+		<cosponsor id="412195" joined="2007-02-15"/>
+		<cosponsor id="400313" joined="2007-02-15"/>
+		<cosponsor id="400344" joined="2007-06-05"/>
+		<cosponsor id="400370" joined="2007-02-15"/>
+		<cosponsor id="412250" joined="2007-02-15"/>
+		<cosponsor id="412198" joined="2007-02-15"/>
+		<cosponsor id="400010" joined="2007-02-15"/>
+		<cosponsor id="400648" joined="2007-06-25"/>
+		<cosponsor id="400277" joined="2007-02-15"/>
+		<cosponsor id="400442" joined="2007-04-30"/>
+		<cosponsor id="400051" joined="2007-02-15"/>
+		<cosponsor id="412205" joined="2007-02-15"/>
+		<cosponsor id="400631" joined="2007-02-15"/>
+		<cosponsor id="400087" joined="2007-02-15"/>
+		<cosponsor id="400131" joined="2007-02-15"/>
+		<cosponsor id="400070" joined="2007-02-15"/>
+		<cosponsor id="400653" joined="2007-02-28"/>
+		<cosponsor id="400195" joined="2007-02-15"/>
+		<cosponsor id="400251" joined="2007-02-15"/>
+		<cosponsor id="400439" joined="2007-02-28"/>
+		<cosponsor id="400074" joined="2007-02-15"/>
+		<cosponsor id="400328" joined="2007-02-15"/>
+		<cosponsor id="400644" joined="2007-02-15"/>
+		<cosponsor id="400247" joined="2007-02-15"/>
+		<cosponsor id="412196" joined="2007-02-15"/>
+		<cosponsor id="412186" joined="2007-02-28"/>
+		<cosponsor id="400093" joined="2007-06-25"/>
+		<cosponsor id="400371" joined="2007-02-15"/>
+		<cosponsor id="400012" joined="2007-02-15"/>
+		<cosponsor id="400145" joined="2007-02-15"/>
+		<cosponsor id="400641" joined="2007-05-10"/>
+		<cosponsor id="400139" joined="2007-02-15"/>
+		<cosponsor id="400042" joined="2007-02-28"/>
+		<cosponsor id="400150" joined="2007-02-15"/>
+		<cosponsor id="400363" joined="2007-02-15"/>
+		<cosponsor id="412194" joined="2007-02-15"/>
+		<cosponsor id="400108" joined="2007-02-15"/>
+		<cosponsor id="400179" joined="2007-06-25"/>
+		<cosponsor id="412011" joined="2007-02-15"/>
+		<cosponsor id="400639" joined="2007-02-15"/>
+		<cosponsor id="412202" joined="2007-06-25"/>
+		<cosponsor id="400252" joined="2007-02-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1171515600" datetime="2007-02-15"><text>Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1171515600" datetime="2007-02-15"><text>Referred to House Financial Services</text></action>
+		<action date="1171515600" datetime="2007-02-15"><text>Referred to House Judiciary</text></action>
+		<action date="1174276800" datetime="2007-03-19"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Commercial and Administrative Law.</text></action>
+		<action date="1176264000" datetime="2007-04-11"><committee name="House Financial Services"/><text>Referred to the Subcommittee on Capital Markets, Insurance and Government Sponsored Enterprises.</text></action>
+		<action date="1182797100" datetime="2007-06-25T15:45:00-04:00"><text>Mr. Moore (KS) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1182797100" datetime="2007-06-25T15:45:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7030-7033"/></action>
+		<action date="1182797160" datetime="2007-06-25T15:46:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1065.</text></action>
+		<vote date="1182797820" how="by voice vote" datetime="2007-06-25T15:57:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H7030-7032"/></vote>
+		<action date="1182830400" datetime="2007-06-26"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/25/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Nonadmitted and Reinsurance Reform Act of 2007 - Title I: Nonadmitted Insurance - (Sec. 101) Prohibits any state other than the home state of an insured from requiring a premium tax payment for nonadmitted insurance. Authorizes states to enter into procedures to allocate among themselves the premium taxes paid to an insured's home state. Declares that Congress intends that each state adopt a nationwide or uniform procedure that provides for the reporting, payment, collection, and allocation of premium taxes for nonadmitted insurance. Allows an insured's home state to require surplus lines brokers and certain insureds to file annual tax allocation reports detailing the portion of the nonadmitted insurance premiums attributable to properties, risks, or exposures located in each state. (Sec. 102) Subjects nonadmitted insurance solely to the regulatory requirements of the insured's home state.<br/>Declares that only an insured's home state may require a surplus lines broker to be licensed to conduct nonadmitted insurance business with respect to such insured. (Sec. 103) Prohibits a state from collecting fees relating to licensure of a surplus lines broker unless it has a regulatory mechanism for participation in the national insurance producer database of the National Association of Insurance Commissioners (NAIC), or any other equivalent uniform national database.<br/>(Sec. 104) Prohibits a state from: (1) establishing eligibility criteria for nonadmitted insurers domiciled in a U.S. jurisdiction except in conformance with the Non-Admitted Insurance Model Act; or (2) prohibiting a surplus lines broker from placing nonadmitted insurance with, or procuring nonadmitted insurance from, a nonadmitted insurer domiciled outside the United States and listed on the NAIC International Insurers Department Quarterly Listing of Alien Insurers. (Sec. 105) Declares that, subject to certain conditions, a surplus lines broker seeking to procure or place nonadmitted insurance in a state for an exempt commercial purchaser shall not be required to satisfy any state requirement to make a due diligence search to determine whether the full amount or type of insurance sought can be obtained from admitted insurers. Requires waiver of a state due diligence search requirement if: (1) the broker procuring or placing the surplus lines insurance has disclosed to the exempt commercial purchaser that the insurance may or may not be available from the admitted market that may provide greater protection with more regulatory oversight; and (2) the exempt commercial purchaser has subsequently requested the broker in writing to procure or place such insurance from a nonadmitted insurer. (Sec. 106) Directs the Comptroller General to study the nonadmitted insurance market to determine the effect of this Act on its size and market share for providing coverage typically provided by the admitted insurance market. Requires a report to specified congressional committees on the findings of the study. Title II: Reinsurance - (Sec. 201) Prohibits a state from denying credit for reinsurance if the state of domicile of an insurer purchasing reinsurance (ceding insurer) recognizes credit for reinsurance for the insurer's ceded risk, and: (1) is either an NAIC-accredited state; or (2) has financial solvency requirements substantially similar to NAIC accreditation requirements. Preempts extraterritorial application to a ceding insurer of additional specified kinds of non-domiciliary state law, except those with respect to taxes or assessments on insurance companies or insurance income. (Sec. 202) Reserves to the state of domicile of a reinsurer sole responsibility for regulating the reinsurer's financial solvency, if the state is NAIC-accredited, or has financial solvency requirements substantially similar to NAIC accreditation requirements. Prohibits a non-domiciliary state from requiring a reinsurer to provide financial information other than that required to be filed with its NAIC-compliant domiciliary state.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="110" type="h" number="5680" updated="2009-01-09T04:38:28-05:00">
+	<status><vote date="1213796460" datetime="2008-06-18T10:41:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1207108800" datetime="2008-04-02"/>
+	<titles>
+		<title type="official" as="introduced">To amend certain laws relating to Native Americans, and for others purposes.</title>
+		<title type="official" as="amended by house">To amend certain laws relating to Native Americans, and for other purposes.</title>
+	</titles>
+	<sponsor id="400162"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1207108800" datetime="2008-04-02"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1207713600" datetime="2008-04-09"><text>Committee Hearings Held.</text></action>
+		<action date="1210737600" datetime="2008-05-14"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1210737600" datetime="2008-05-14" ><text>Ordered to be Reported (Amended) by Unanimous Consent.</text></calendar>
+		<action date="1212696060" datetime="2008-06-05T17:01:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-692.</text></action>
+		<calendar number="435" date="1212696060" datetime="2008-06-05T17:01:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 435.</text></calendar>
+		<action date="1213796280" datetime="2008-06-18T10:38:00-04:00"><text>Mrs. Christensen moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1213796280" datetime="2008-06-18T10:38:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5490-5491"/></action>
+		<action date="1213796280" datetime="2008-06-18T10:38:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5680.</text></action>
+		<vote date="1213796460" how="by voice vote" datetime="2008-06-18T10:41:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H5490"/></vote>
+		<action date="1213796460" datetime="2008-06-18T10:41:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1213848000" datetime="2008-06-19"><text>Received in the Senate and Read twice and referred to the Committee on Indian Affairs.</text></action>
+		<calendar date="1222142400" datetime="2008-09-23" ><text>Committee on Indian Affairs. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action date="1222315200" datetime="2008-09-25"><text>Committee on Indian Affairs. Reported by Senator Dorgan with amendments. With written report No. 110-504.</text></action>
+		<calendar under="General Orders" number="1082" date="1222315200" datetime="2008-09-25" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1082.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/25/2008--Reported to Senate amended. Authorizes the Secretary of the Interior to make annual disbursements to the Colorado River Indian Tribes to fund the Office of the Colorado River Indian Tribes Reservation Energy Development. Requires that such disbursements be not less than $200,000, and not more than $350,000 annually.<br/>Provides for the inclusion of binding arbitration clauses in construction contracts for the Gila River Indian Community. Authorizes the Sault Ste. Marie Tribe of Chippewa Indians of Michigan to transfer, lease, encumber, or convey any part of its interest in real property that is not held in trust by the United States for its benefit. Absolves the United States from liability for any loss resulting from a transfer of real property by the Tribe. Makes this provision retroactive to January 1, 2005.<br/>Authorizes the Morongo Band of Mission Indians to lease lands held in trust for up to 50 years.<br/>Authorizes the Cow Creek Band of Umpqua Tribe of Indians to lease lands held in trust for up to 99 years.<br/>Amends the Alaska Native Claims Settlement Act to authorize the Alaska Native Corporation to issue additional settlement common stock with limitations on voting rights and transferability by gift.<br/>Ratifies, effective December 5, 2006, the decision of the U.S. Court of Appeals for the Ninth Circuit in the case of Doe v. Kamehameha Schools, case number 04-15044, which allows Native American (i.e., American Indians, Alaskan Natives, Aleuts, and Native Hawaiians) schools to maintain certain admission policies for the provision of educational programs and services. Amends the Indian Land Consolidation Act to revise legal definitions relating to interests in land and intestate descent. 
+	</summary>
+</bill>

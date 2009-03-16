@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="654" updated="2009-03-07T11:04:32-05:00">
+	<status><introduced date="1232600400" datetime="2009-01-22"/></status>
+
+	<introduced date="1232600400" datetime="2009-01-22"/>
+	<titles>
+		<title type="short" as="introduced">Poverty Impact Trigger Act of 2009</title>
+		<title type="official" as="introduced">To require poverty impact statements for certain legislation.</title>
+	</titles>
+	<sponsor id="400237"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to the Committee on Rules, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to House Rules</text></action>
+		<action date="1232600400" datetime="2009-01-22"><text>Referred to House Budget</text></action>
+	</actions>
+	<committees>
+		<committee name="House Rules" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Budget" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional Budget Office (CBO)"/>
+		<term name="Congressional agencies"/>
+		<term name="Congressional operations and organization"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Government information and archives"/>
+		<term name="House of Representatives"/>
+		<term name="Legislative rules and procedure"/>
+		<term name="Poverty and welfare assistance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

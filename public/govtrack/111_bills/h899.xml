@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="899" updated="2009-03-07T11:33:55-05:00">
+	<status><introduced date="1233723600" datetime="2009-02-04"/></status>
+
+	<introduced date="1233723600" datetime="2009-02-04"/>
+	<titles>
+		<title type="short" as="introduced">Ethical and Legal Elections for Congressional Transitions Act</title>
+		<title type="official" as="introduced">To require States to hold special elections in the event of a vacancy in the office of a Senator representing the State, and for other purposes.</title>
+	</titles>
+	<sponsor id="412314"/>
+	<cosponsors>
+		<cosponsor id="400267" joined="2009-02-10"/>
+		<cosponsor id="400318" joined="2009-02-04"/>
+		<cosponsor id="400373" joined="2009-02-04"/>
+		<cosponsor id="400435" joined="2009-02-09"/>
+		<cosponsor id="400252" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the House Committee on House Administration.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Administration" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

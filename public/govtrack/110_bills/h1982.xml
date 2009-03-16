@@ -1,0 +1,51 @@
+<bill session="110" type="h" number="1982" updated="2009-01-08T20:59:52-05:00">
+	<status><vote date="1184623560" datetime="2007-07-16T19:06:00-04:00" where="h" result="pass" how="roll" roll="631"/></status>
+
+	<introduced date="1177041600" datetime="2007-04-20"/>
+	<titles>
+		<title type="short" as="introduced">Rural Housing and Economic Development Improvement Act of 2007</title>
+		<title type="short" as="reported to house">Rural Housing and Economic Development Improvement Act of 2007</title>
+		<title type="short" as="passed house">Rural Housing and Economic Development Improvement Act of 2007</title>
+		<title type="official" as="introduced">To authorize appropriations for the rural housing and economic development program of the Department of Housing and Urban Development.</title>
+	</titles>
+	<sponsor id="400179"/>
+	<cosponsors>
+		<cosponsor id="400336" joined="2007-04-20"/>
+		<cosponsor id="400402" joined="2007-04-23"/>
+		<cosponsor id="400001" joined="2007-05-09"/>
+		<cosponsor id="400140" joined="2007-04-20"/>
+		<cosponsor id="412220" joined="2007-05-22"/>
+		<cosponsor id="400639" joined="2007-04-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1177041600" datetime="2007-04-20"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1178596800" datetime="2007-05-08"><text>Referred to the Subcommittee on Housing and Community Opportunity.</text></action>
+		<action date="1178596800" datetime="2007-05-08"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1179892800" datetime="2007-05-23"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1179892800" datetime="2007-05-23" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1182470760" datetime="2007-06-21T21:06:00-04:00"><text>Reported (Amended) by the Committee on Financial Services. H. Rept. 110-205.</text></action>
+		<calendar number="124" date="1182470760" datetime="2007-06-21T21:06:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 124.</text></calendar>
+		<action date="1184606940" datetime="2007-07-16T14:29:00-04:00"><text>Mr. Hinojosa moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1184607000" datetime="2007-07-16T14:30:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7793-7795"/></action>
+		<action date="1184607000" datetime="2007-07-16T14:30:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1982.</text></action>
+		<action date="1184607600" datetime="2007-07-16T14:40:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1184623140" datetime="2007-07-16T18:59:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7819-7820"/></action>
+		<vote date="1184623560" how="roll" roll="631" datetime="2007-07-16T19:06:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 49 (Roll no. 631).</text><reference label="text" ref="CR H7793"/></vote>
+		<action date="1184644800" datetime="2007-07-17"><text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/16/2007--Passed House amended. (This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) Rural Housing and Economic Development Improvement Act of 2007 - Authorizes the Secretary of Housing and Urban Development, through the Office of Rural Housing and Economic Development, to implement an assistance program to support innovative housing and economic development activities in rural areas by: (1) Indian tribes; (2) state housing finance agencies; (3) state community or economic development agencies; (4) local nonprofit organizations; and (5) community development corporations. Directs the Secretary of Housing and Urban Development to require, as a condition of initial or continuing assistance under this Act for any housing or economic development activity, that each member of a family so assisted (or of a family applying for such assistance) who is 18 years of age or older, or is the spouse of the head of household, has a valid Social Security number. Authorizes appropriations for FY2008-FY2013.<br/>
+	</summary>
+</bill>

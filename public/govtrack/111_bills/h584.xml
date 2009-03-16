@@ -1,0 +1,51 @@
+<bill session="111" type="h" number="584" updated="2009-03-07T10:56:12-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Menopausal Hormone Replacement Therapies and Alternative Treatments and Fairness Act of 2009</title>
+		<title type="official" as="introduced">To provide for coverage of hormone replacement therapy for treatment of menopausal symptoms, and for coverage of an alternative therapy for hormone replacement therapy for such symptoms, under the Medicare and Medicaid Programs, group health plans and individual health insurance coverage, and other Federal health insurance programs.</title>
+	</titles>
+	<sponsor id="400237"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Labor, Oversight and Government Reform, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House Ways and Means</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House Education and Labor</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to House Veterans' Affairs</text></action>
+		<action date="1231995600" datetime="2009-01-15"><committee name="House Veterans' Affairs"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Aging"/>
+		<term name="Employee benefits and pensions"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Medicaid"/>
+		<term name="Medicare"/>
+		<term name="Veterans' medical care"/>
+		<term name="Women's health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Menopausal Hormone Replacement Therapies and Alternative Treatments and Fairness Act of 2009 - Amends the Social Security Act to include coverage of hormone replacement therapy for menopausal symptoms and alternative treatments for such therapy under Medicare (title XVIII of the Act). Includes alternative treatments for hormone replacement therapy for menopausal symptoms under Medicaid (title XIX of the Act). Requires coverage of hormone replacement therapy for menopausal symptoms and alternative treatments for such therapy on the same basis as outpatient prescription drugs under: (1) the Public Health Service Act and the Employee Retirement Income Security Act of 1974 (group health plans and group and individual health insurance); (2) the Internal Revenue Code (group health plans);and (3) federal employee health benefit plans. Includes alternative treatments for hormone replacement therapy for menopausal symptoms under veterans' benefits. 
+	</summary>
+</bill>

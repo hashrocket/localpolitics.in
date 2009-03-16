@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="166" updated="2009-03-07T10:07:23-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the expansion of the Fort Davis National Historic Site in Fort Davis, Texas, and for other purposes.</title>
+	</titles>
+	<sponsor id="400339"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Historic sites and heritage areas"/>
+		<term name="Land transfers"/>
+		<term name="Military facilities and property"/>
+		<term name="Military history"/>
+		<term name="Texas"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Authorizes the Secretary of the Interior acquire additional acreage to increase the size of the Fort Davis National Historic Site near the town of Fort Davis, Texas, by acquiring certain land from willing sellers. 
+	</summary>
+</bill>

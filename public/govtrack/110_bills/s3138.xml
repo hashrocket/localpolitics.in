@@ -1,0 +1,33 @@
+<bill session="110" type="s" number="3138" updated="2009-01-09T18:24:41-05:00">
+	<status><introduced date="1213588800" datetime="2008-06-16"/></status>
+
+	<introduced date="1213588800" datetime="2008-06-16"/>
+	<titles>
+		<title type="short" as="introduced">Do-Not-Text Act of 2008</title>
+		<title type="official" as="introduced">A bill to prohibit text message spam.</title>
+	</titles>
+	<sponsor id="300090"/>
+	<cosponsors>
+		<cosponsor id="300080" joined="2008-06-16"/>
+		<cosponsor id="300091" joined="2008-06-16"/>
+		<cosponsor id="300078" joined="2008-06-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1213588800" datetime="2008-06-16"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/16/2008--Introduced.<br/>Do-Not-Text Act of 2008 - Amends the CAN-SPAM Act of 2003 to exclude from the definition of &quot;mobile service commercial message&quot; a commercial e-mail if the message's primary purpose is to: (1) facilitate, complete, or confirm a transaction between the message recipient and the sender; (2) provide warranty, recall, safety, or security information regarding the recipient's product or service; (3) provide notice of a change in terms or conditions, a change in the status of the recipient, or account statements regarding a subscription, membership, account, loan, or comparable ongoing commercial relationship; (4) provide information regarding an employment relationship or benefit plan in which the recipient is involved; or (5) deliver goods or services, including updates or upgrades, that the recipient is entitled to receive.<br/>Declares that provisions relating to the application of the Act to wireless do not prohibit: (1) phone-to-phone short messages; and (2) the sending of mobile service commercial messages by a mobile service provider to its subscribers at no cost to its subscribers unless a subscriber has expressed a desire not to receive such messages.<br/>Amends the Communications Act of 1934 to require express prior authorization to send a mobile service commercial message to any person in the United States.<br/>
+	</summary>
+</bill>

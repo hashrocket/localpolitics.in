@@ -1,0 +1,45 @@
+<bill session="110" type="s" number="996" updated="2009-01-09T13:50:27-05:00">
+	<status><enacted date="1222920000" datetime="2008-10-02" /></status>
+
+	<introduced date="1174968000" datetime="2007-03-27"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title 49, United States Code, to expand passenger facility fee eligibility for certain noise compatibility projects.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300011" joined="2007-03-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1174968000" datetime="2007-03-27"><text>Sponsor introductory remarks on measure. (CR S3842-3843)</text></action>
+		<action date="1174968000" datetime="2007-03-27"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text><reference label="text of measure as introduced" ref="CR S3843"/></action>
+		<action date="1204174800" datetime="2008-02-28"><text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S1390"/></action>
+		<vote date="1204174800" how="by Unanimous Consent" datetime="2008-02-28" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="text" ref="CR S1390"/></vote>
+		<action date="1204261200" datetime="2008-02-29"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1204567560" datetime="2008-03-03T14:06:00-05:00"><text>Received in the House.</text></action>
+		<action date="1204520400" datetime="2008-03-03"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1204606800" datetime="2008-03-04"><text>Referred to the Subcommittee on Aviation.</text></action>
+		<action date="1221676380" datetime="2008-09-17T15:33:00-04:00"><text>Ms. Richardson moved to suspend the rules and pass the bill.</text></action>
+		<action date="1221676380" datetime="2008-09-17T15:33:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8336-8338"/></action>
+		<action date="1221676380" datetime="2008-09-17T15:33:00-04:00"><text>DEBATE - The House proceeded with forty minutes debate on S. 996.</text></action>
+		<vote date="1221677640" how="by voice vote" datetime="2008-09-17T15:54:00-04:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H8336"/></vote>
+		<topresident date="1221624000" datetime="2008-09-17" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1222142400" datetime="2008-09-23" ><text>Presented to President.</text></topresident>
+		<signed date="1222920000" datetime="2008-10-02" ><text>Signed by President.</text></signed>
+		<enacted number="110-337" date="1222920000" datetime="2008-10-02" type="public" ><text>Became Public Law No: 110-337.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/2/2008--Public Law. (This measure has not been amended since it was introduced. The expanded summary of the Senate passed version is repeated here.) Amends federal transportation law to allow a passenger facility fee imposed at a large hub airport (that is subject to an amended judgment and final order in condemnation filed on January 7, 1980, by the Superior Court of the State of California for the county of Los Angeles) to be used as an eligible project cost to carry out noise mitigation for certain school buildings in the noise impacted area surrounding the airport if: (1) the buildings are adversely affected by airport noise; (2) the buildings are owned owned or chartered by the school district that was the plaintiff in case number 986,442 or 986,446, which was resolved by such judgment and final order; (3) the project is for a school identified in one of the settlement agreements effective February 16, 2005, between the airport and each of the school districts; (4) in the case of a project to replace a relocatable building with a permanent building, the eligible project costs are limited to actual structural construction costs necessary to mitigate aircraft noise in instructional classrooms to an interior noise level that meet Federal Aviation Administration (FAA) standards; and (5) the project otherwise meets requirements for authorization of a passenger facility fee.<br/>
+	</summary>
+</bill>

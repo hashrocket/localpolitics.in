@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="1905" updated="2009-01-08T20:50:21-05:00">
+	<status><vote date="1177004520" datetime="2007-04-19T14:42:00-04:00" where="h" result="pass" how="roll" roll="231"/></status>
+
+	<introduced date="1176868800" datetime="2007-04-18"/>
+	<titles>
+		<title type="short" as="passed house">District of Columbia House Voting Rights Act of 2007</title>
+		<title type="official" as="introduced">To provide for the treatment of the District of Columbia as a Congressional district for purposes of representation in the House of Representatives, and for other purposes.</title>
+	</titles>
+	<sponsor id="400295"/>
+	<cosponsors>
+		<cosponsor id="400098" joined="2007-04-18"/>
+	</cosponsors>
+	<actions>
+		<action date="1176868800" datetime="2007-04-18"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1176928680" datetime="2007-04-18T17:38:00-04:00"><text>Rules Committee Resolution H. Res. 317 Reported to House. Rule provides for consideration of H.R. 1905 and H.R. 1906. With respect to H.R. 1905, all points of order against the bill and against its consideration are waived except those arising under clause 9 or 10 of rule XXI. The bill shall be considered as read. The bill is closed to amendments and shall be considered in the House. With respect to H.R. 1906, all points of order against the bill and against its consideration are waived except those arising under clause 9 or 10 of rule XXI. The bill shall be considered as read. The bill is closed to amendments and shall be considered in the House.</text></action>
+		<action date="1177039860" datetime="2007-04-19T12:31:00-04:00"><text>Considered under the provisions of rule H. Res. 317.</text><reference label="consideration" ref="CR H3577-3593"/></action>
+		<action date="1177039860" datetime="2007-04-19T12:31:00-04:00"><text>Rule provides for consideration of H.R. 1905 and H.R. 1906. With respect to H.R. 1905, all points of order against the bill and against its consideration are waived except those arising under clause 9 or 10 of rule XXI. The bill shall be considered as read. The bill is closed to amendments and shall be considered in the House. With respect to H.R. 1906, all points of order against the bill and against its consideration are waived except those arising under clause 9 or 10 of rule XXI. The bill shall be considered as read. The bill is closed to amendments and shall be considered in the House.</text></action>
+		<action date="1177039980" datetime="2007-04-19T12:33:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H.R. 1905.</text></action>
+		<action date="1177002000" datetime="2007-04-19T14:00:00-04:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H3591"/></action>
+		<action date="1177002000" datetime="2007-04-19T14:00:00-04:00"><text>Mr. Smith (TX) moved to recommit with instructions to Judiciary.</text><reference label="consideration" ref="CR H3591-3593"/><reference label="text" ref="CR H3591"/></action>
+		<action date="1177002060" datetime="2007-04-19T14:01:00-04:00"><text>DEBATE - The House proceeded with ten minutes of debate on the motion to recommit with instructions on H.R. 1905. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment inserting a new section providing for expedited judicial review.</text></action>
+		<action date="1177002660" datetime="2007-04-19T14:11:00-04:00"><text>The previous question on the motion to recommit with instructions was ordered without objection.</text><reference label="consideration" ref="CR H3592-3593"/></action>
+		<action date="1177004040" datetime="2007-04-19T14:34:00-04:00"><text>On motion to recommit with instructions Failed by the Yeas and Nays: 193 - 227 (Roll no. 230).</text></action>
+		<vote date="1177004520" how="roll" roll="231" datetime="2007-04-19T14:42:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed by recorded vote: 241 - 177, 1 Present (Roll no. 231).</text><reference label="text" ref="CR H3577-3578"/></vote>
+		<action date="1177041600" datetime="2007-04-20"><text>Received in the Senate and Read twice and referred to the Committee on Finance.</text></action>
+		<action date="1179892800" datetime="2007-05-23"><text>Committee on the Judiciary. Hearings held.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/19/2007--Passed House amended. District of Columbia House Voting Rights Act of 2007 - Considers the District of Columbia a congressional district for purposes of representation in the House of Representatives. Applies to the District in the same manner as it applies to a state the federal law providing for the fifteenth and subsequent decennial censuses and for apportionment of Representatives in Congress. Limits the District to one Member under any reapportionment of Members. Modifies the formula regarding the number of presidential electors to subject it to the Twenty-Third amendment to the Constitution in the case of the District. Increases membership of the House from 435 to 437 Members beginning with the 110th Congress and each succeeding Congress. Provides for a reapportionment of Members resulting from such increase. Prescribes a procedure for identifying the additional Representative to which a state other than the District of Columbia shall be entitled under this Act. Requires election at large of such additional Representative. Amends the Internal Revenue Code to increase (from 110% to 110.1%) the estimated tax payment safe harbor percentage for determining the amount of estimated tax payable by individual taxpayers whose adjusted gross income for the preceding taxable year exceeds $5 million.<br/>
+	</summary>
+</bill>

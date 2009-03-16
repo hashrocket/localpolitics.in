@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="6208" updated="2009-01-09T05:41:10-05:00">
+	<status><vote date="1217544540" datetime="2008-07-31T19:49:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1212984000" datetime="2008-06-09"/>
+	<titles>
+		<title type="official" as="introduced">To designate the facility of the United States Postal Service located at 1100 Town and Country Commons in Chesterfield, Missouri, as the &quot;Lance Corporal Matthew P. Pathenos Post Office Building&quot;.</title>
+	</titles>
+	<sponsor id="400005"/>
+	<cosponsors>
+		<cosponsor id="400034" joined="2008-06-25"/>
+		<cosponsor id="400377" joined="2008-07-09"/>
+		<cosponsor id="400121" joined="2008-06-11"/>
+		<cosponsor id="400158" joined="2008-06-11"/>
+		<cosponsor id="400074" joined="2008-06-24"/>
+		<cosponsor id="400638" joined="2008-06-12"/>
+		<cosponsor id="400639" joined="2008-06-26"/>
+		<cosponsor id="400190" joined="2008-06-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1212984000" datetime="2008-06-09"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1216180800" datetime="2008-07-16" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1217353140" datetime="2008-07-29T14:39:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1217353140" datetime="2008-07-29T14:39:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7221-7222"/></action>
+		<action date="1217353140" datetime="2008-07-29T14:39:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6208.</text></action>
+		<action date="1217353620" datetime="2008-07-29T14:47:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Foxx objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1217544540" datetime="2008-07-31T19:49:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7706"/></action>
+		<vote date="1217544540" how="by voice vote" datetime="2008-07-31T19:49:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/29/2008 H7221)</text></vote>
+		<action date="1217563200" datetime="2008-08-01"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action date="1221019200" datetime="2008-09-10"><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/9/2008--Introduced.<br/>Designates the facility of the United States Postal Service located at 1100 Town and Country Commons in Chesterfield, Missouri, as the &quot;Lance Corporal Matthew P. Pathenos Post Office Building.&quot;<br/>
+	</summary>
+</bill>

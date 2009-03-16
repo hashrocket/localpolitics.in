@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="366" updated="2009-01-08T17:29:42-05:00">
+	<status><enacted date="1198645200" datetime="2007-12-26" /></status>
+
+	<introduced date="1168405200" datetime="2007-01-10"/>
+	<titles>
+		<title type="official" as="introduced">To designate the Department of Veterans Affairs Outpatient Clinic in Tulsa, Oklahoma, as the &quot;Ernest Childers Department of Veterans Affairs Outpatient Clinic&quot;.</title>
+	</titles>
+	<sponsor id="400392"/>
+	<cosponsors>
+		<cosponsor id="412230" joined="2007-01-10"/>
+		<cosponsor id="400077" joined="2007-01-10"/>
+		<cosponsor id="400645" joined="2007-01-10"/>
+		<cosponsor id="400247" joined="2007-01-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1168405200" datetime="2007-01-10"><text>Sponsor introductory remarks on measure. (CR E63)</text></action>
+		<action date="1168405200" datetime="2007-01-10"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1172811600" datetime="2007-03-02"><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1182798900" datetime="2007-06-25T16:15:00-04:00"><text>Mr. Hare moved to suspend the rules and pass the bill.</text></action>
+		<action date="1182798960" datetime="2007-06-25T16:16:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7036-7037"/></action>
+		<action date="1182798960" datetime="2007-06-25T16:16:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 366.</text></action>
+		<vote date="1182799620" how="by voice vote" datetime="2007-06-25T16:27:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H7036"/></vote>
+		<action date="1182830400" datetime="2007-06-26"><text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+		<action date="1198040400" datetime="2007-12-19"><text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR 12/18/2007 S15940)</text></action>
+		<vote date="1198040400" how="by Unanimous Consent" datetime="2007-12-19" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text></vote>
+		<action date="1198040400" datetime="2007-12-19"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1198040400" datetime="2007-12-19" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1198126800" datetime="2007-12-20" ><text>Presented to President.</text></topresident>
+		<signed date="1198645200" datetime="2007-12-26" ><text>Signed by President.</text></signed>
+		<enacted number="110-156" date="1198645200" datetime="2007-12-26" type="public" ><text>Became Public Law No: 110-156.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/26/2007--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates the Department of Veterans Affairs Outpatient Clinic in Tulsa, Oklahoma, as the &quot;Ernest Childers Department of Veterans Affairs Outpatient Clinic.&quot;<br/>
+	</summary>
+</bill>

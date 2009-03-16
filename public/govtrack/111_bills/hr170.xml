@@ -1,0 +1,55 @@
+<bill session="111" type="hr" number="170" updated="2009-03-07T13:26:53-05:00">
+	<status><introduced date="1234501200" datetime="2009-02-13"/></status>
+
+	<introduced date="1234501200" datetime="2009-02-13"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the sesquicentennial of the admission of Oregon into the Union and the contributions of Oregon residents to the economic, social, and cultural development of the United States.</title>
+	</titles>
+	<sponsor id="400100"/>
+	<cosponsors>
+		<cosponsor id="400290" joined="2009-03-05"/>
+		<cosponsor id="400133" joined="2009-03-05"/>
+		<cosponsor id="400399" joined="2009-03-05"/>
+		<cosponsor id="400383" joined="2009-03-05"/>
+		<cosponsor id="412222" joined="2009-03-05"/>
+		<cosponsor id="412224" joined="2009-03-05"/>
+		<cosponsor id="400419" joined="2009-02-13"/>
+		<cosponsor id="412234" joined="2009-03-05"/>
+		<cosponsor id="400026" joined="2009-03-05"/>
+		<cosponsor id="412225" joined="2009-03-05"/>
+		<cosponsor id="400302" joined="2009-03-05"/>
+		<cosponsor id="400403" joined="2009-03-05"/>
+		<cosponsor id="412239" joined="2009-03-05"/>
+		<cosponsor id="400299" joined="2009-03-05"/>
+		<cosponsor id="412200" joined="2009-03-05"/>
+		<cosponsor id="400232" joined="2009-03-05"/>
+		<cosponsor id="400063" joined="2009-03-05"/>
+		<cosponsor id="400379" joined="2009-03-05"/>
+		<cosponsor id="400171" joined="2009-03-05"/>
+		<cosponsor id="400630" joined="2009-03-05"/>
+		<cosponsor id="400033" joined="2009-02-13"/>
+		<cosponsor id="412315" joined="2009-02-13"/>
+		<cosponsor id="400345" joined="2009-03-05"/>
+		<cosponsor id="400437" joined="2009-02-13"/>
+		<cosponsor id="400011" joined="2009-03-05"/>
+		<cosponsor id="400278" joined="2009-03-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1234501200" datetime="2009-02-13"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="sr" number="48" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

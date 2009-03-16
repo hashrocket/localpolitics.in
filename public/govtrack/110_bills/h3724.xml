@@ -1,0 +1,41 @@
+<bill session="110" type="h" number="3724" updated="2009-01-09T00:40:23-05:00">
+	<status><introduced date="1191297600" datetime="2007-10-02"/></status>
+
+	<introduced date="1191297600" datetime="2007-10-02"/>
+	<titles>
+		<title type="short" as="introduced">The Social Security and Medicare Solvency Commission Act</title>
+		<title type="official" as="introduced">To establish a National Commission on Entitlement Solvency.</title>
+	</titles>
+	<sponsor id="400139"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2008-03-04"/>
+		<cosponsor id="400199" joined="2008-02-06"/>
+		<cosponsor id="400177" joined="2007-10-02"/>
+		<cosponsor id="400055" joined="2007-10-16"/>
+		<cosponsor id="400201" joined="2007-10-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1191297600" datetime="2007-10-02"><text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1191297600" datetime="2007-10-02"><text>Referred to House Ways and Means</text></action>
+		<action date="1191297600" datetime="2007-10-02"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1191297600" datetime="2007-10-02"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1191297600" datetime="2007-10-02"><text>Referred to House Rules</text></action>
+		<action date="1192161600" datetime="2007-10-12"><committee name="House Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1192161600" datetime="2007-10-12"><committee name="House Ways and Means"/><text>Referred to the Subcommittee on Social Security.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/2/2007--Introduced.<br/>Social Security and Medicare Solvency Commission Act - Establishes the National Commission on Entitlement Solvency to review and report to the President and Congress on the Social Security and Medicare programs with respect to: (1) their current and long-term actuarial financial condition; (2) problems that may threaten their long-term solvency, and potential solutions; and (3) recommendations and proposed legislative language that will ensure their long-term solvency and the provision of appropriate benefits.<br/>Provides for expedited congressional consideration of Commission recommendations.<br/>
+	</summary>
+</bill>

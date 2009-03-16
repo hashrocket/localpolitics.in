@@ -1,0 +1,34 @@
+<bill session="110" type="hr" number="459" updated="2009-01-09T08:49:30-05:00">
+	<status><vote date="1181655120" datetime="2007-06-12T10:32:00-04:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced date="1181102400" datetime="2007-06-06"/>
+	<titles>
+		<title type="official" as="introduced">Dismissing the election contest relating to the office of Representative from the Twenty-first Congressional District of Florida.</title>
+	</titles>
+	<sponsor id="400047"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1181185440" datetime="2007-06-06T12:04:00-04:00"><text>The House Committee on House Administration reported an original measure, H. Rept. 110-175, by Mr. Brady (PA).</text></action>
+		<calendar date="1181185440" datetime="2007-06-06T12:04:00-04:00" ><text>Placed on the House Calendar, Calendar No. 68.</text></calendar>
+		<action date="1181655060" datetime="2007-06-12T10:31:00-04:00"><text>Mr. Brady (PA) asked unanimous consent move to discharge the Committee of the Whole House on the State of the Union.</text></action>
+		<action date="1181655120" datetime="2007-06-12T10:32:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H6246"/></action>
+		<vote date="1181655120" how="without objection" datetime="2007-06-12T10:32:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to without objection.</text><reference label="text" ref="CR H6246"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/12/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Dismisses the election contest relating to the office of Representative from the 21st congressional district of Florida.<br/>
+	</summary>
+</bill>

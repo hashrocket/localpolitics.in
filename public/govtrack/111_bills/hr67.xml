@@ -1,0 +1,53 @@
+<bill session="111" type="hr" number="67" updated="2009-03-12T12:06:00-04:00">
+	<status><vote date="1236828660" datetime="2009-03-11T12:31:00-04:00" where="h" result="pass" how="roll" roll="116"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing and commending the National Aeronautics and Space Administration (NASA), the Jet Propulsion Laboratory (JPL), and Cornell University for the success of the Mars Exploration Rovers, Spirit and Opportunity, on the 5th anniversary of the Rovers' successful landing.</title>
+	</titles>
+	<sponsor id="400115"/>
+	<cosponsors>
+		<cosponsor id="400437" joined="2009-01-15"/>
+		<cosponsor id="412302" joined="2009-01-22"/>
+		<cosponsor id="400570" joined="2009-01-22"/>
+		<cosponsor id="400041" joined="2009-01-22"/>
+		<cosponsor id="400017" joined="2009-01-22"/>
+		<cosponsor id="400089" joined="2009-01-15"/>
+		<cosponsor id="400057" joined="2009-01-15"/>
+		<cosponsor id="400343" joined="2009-01-15"/>
+		<cosponsor id="412204" joined="2009-01-22"/>
+		<cosponsor id="400047" joined="2009-01-28"/>
+		<cosponsor id="400178" joined="2009-01-15"/>
+		<cosponsor id="400361" joined="2009-01-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the Subcommittee on Space and Aeronautics.</text></action>
+		<action date="1236782460" datetime="2009-03-11T11:41:00-04:00"><text>Mr. Davis (TN) moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1236782460" datetime="2009-03-11T11:41:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H3292-3296"/><reference label="text" ref="CR H3292"/></action>
+		<action date="1236782460" datetime="2009-03-11T11:41:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 67.</text></action>
+		<vote date="1236828660" how="roll" roll="116" datetime="2009-03-11T12:31:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 116).</text></vote>
+	</actions>
+	<committees>
+		<committee name="House Science and Technology" subcommittee="" activity="Referral" />
+		<committee name="House Science and Technology" subcommittee="Space and Aeronautics" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Science, technology, communications"/>
+		<term name="Congressional tributes"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Higher education"/>
+		<term name="National Aeronautics and Space Administration"/>
+		<term name="New York State"/>
+		<term name="Space flight and exploration"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Commends the engineers, scientists, and technicians of the Jet Propulsion Laboratory (JPL) of the National Aeronautics and Space Administration (NASA) and Cornell University for their successful execution and continued operation of the Mars Exploration Rovers, Spirit and Opportunity, and recognizes the significant scientific contributions of the Mars Exploration Rovers. 
+	</summary>
+</bill>

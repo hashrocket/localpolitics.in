@@ -1,0 +1,65 @@
+<bill session="111" type="hr" number="58" updated="2009-03-07T13:12:45-05:00">
+	<status><vote date="1232645880" datetime="2009-01-22T13:38:00-05:00" where="h" result="pass" how="roll" roll="29"/></status>
+
+	<introduced date="1231822800" datetime="2009-01-13"/>
+	<titles>
+		<title type="official" as="introduced">Commending the University of Florida Gators for winning the Bowl Championship Series National Championship Game.</title>
+	</titles>
+	<sponsor id="400388"/>
+	<cosponsors>
+		<cosponsor id="400086" joined="2009-01-13"/>
+		<cosponsor id="400279" joined="2009-01-13"/>
+		<cosponsor id="400273" joined="2009-01-13"/>
+		<cosponsor id="400048" joined="2009-01-13"/>
+		<cosponsor id="412309" joined="2009-01-13"/>
+		<cosponsor id="400044" joined="2009-01-13"/>
+		<cosponsor id="400051" joined="2009-01-13"/>
+		<cosponsor id="412276" joined="2009-01-13"/>
+		<cosponsor id="400270" joined="2009-01-13"/>
+		<cosponsor id="400439" joined="2009-01-13"/>
+		<cosponsor id="400623" joined="2009-01-13"/>
+		<cosponsor id="400430" joined="2009-01-13"/>
+		<cosponsor id="400170" joined="2009-01-13"/>
+		<cosponsor id="400107" joined="2009-01-13"/>
+		<cosponsor id="412195" joined="2009-01-13"/>
+		<cosponsor id="400328" joined="2009-01-13"/>
+		<cosponsor id="400344" joined="2009-01-13"/>
+		<cosponsor id="412196" joined="2009-01-13"/>
+		<cosponsor id="412311" joined="2009-01-13"/>
+		<cosponsor id="400431" joined="2009-01-13"/>
+		<cosponsor id="412250" joined="2009-01-13"/>
+		<cosponsor id="400108" joined="2009-01-13"/>
+		<cosponsor id="412198" joined="2009-01-13"/>
+		<cosponsor id="400622" joined="2009-01-13"/>
+		<cosponsor id="412288" joined="2009-01-13"/>
+	</cosponsors>
+	<actions>
+		<action date="1231822800" datetime="2009-01-13"><text>Referred to the House Committee on Education and Labor.</text></action>
+		<action date="1232559780" datetime="2009-01-21T13:43:00-05:00"><text>Mr. Loebsack moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1232559780" datetime="2009-01-21T13:43:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H405-407"/></action>
+		<action date="1232559780" datetime="2009-01-21T13:43:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 58.</text></action>
+		<action date="1232560380" datetime="2009-01-21T13:53:00-05:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Loebsack objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1232645460" datetime="2009-01-22T13:31:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H469-470"/></action>
+		<vote date="1232645880" how="roll" roll="29" datetime="2009-01-22T13:38:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 399 - 5, 7 Present (Roll no. 29). (text: CR 1/21/2009 H405)</text></vote>
+	</actions>
+	<committees>
+		<committee name="House Education and Labor" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Sports and recreation"/>
+		<term name="Athletes"/>
+		<term name="Congressional tributes"/>
+		<term name="Florida"/>
+		<term name="Higher education"/>
+		<term name="School athletics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/22/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Commends the University of Florida Gators for winning the Bowl Championship Series National Championship. Recognizes the achievements of the players, coaches, students, and support staff who were instrumental in the victory.<br/>
+	</summary>
+</bill>

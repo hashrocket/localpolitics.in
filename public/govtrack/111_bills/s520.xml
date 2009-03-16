@@ -1,0 +1,37 @@
+<bill session="111" type="s" number="520" updated="2009-03-07T14:35:06-05:00">
+	<status><vote date="1236056400" datetime="2009-03-03" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1236056400" datetime="2009-03-03"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the United States Courthouse under construction at 327 South Church Street, Rockford, Illinois, as the &quot;Stanley J. Roszkowski United States Courthouse&quot;.</title>
+	</titles>
+	<sponsor id="300038"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote date="1236056400" how="by Unanimous Consent" datetime="2009-03-03" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S2721"/><reference label="text as passed Senate" ref="CR S2721"/><reference label="text of measure as introduced" ref="CR S2716"/></vote>
+		<action date="1236261840" datetime="2009-03-05T10:04:00-05:00"><text>Received in the House.</text></action>
+		<action date="1236229200" datetime="2009-03-05"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1236229200" datetime="2009-03-05"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="387" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Congressional tributes"/>
+		<term name="Government buildings, facilities, and property"/>
+		<term name="Illinois"/>
+		<term name="Judges"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

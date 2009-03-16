@@ -1,0 +1,66 @@
+<bill session="110" type="h" number="986" updated="2009-01-08T18:53:26-05:00">
+	<status><vote date="1185903180" datetime="2007-07-31T14:33:00-04:00" where="h" result="pass" how="roll" roll="767"/></status>
+
+	<introduced date="1171256400" datetime="2007-02-12"/>
+	<titles>
+		<title type="short" as="introduced">Eightmile Wild and Scenic River Act</title>
+		<title type="short" as="reported to house">Eightmile Wild and Scenic River Act</title>
+		<title type="short" as="passed house">Eightmile Wild and Scenic River Act</title>
+		<title type="official" as="introduced">To amend the Wild and Scenic Rivers Act to designate certain segments of the Eightmile River in the State of Connecticut as components of the National Wild and Scenic Rivers System, and for other purposes.</title>
+	</titles>
+	<sponsor id="412193"/>
+	<cosponsors>
+		<cosponsor id="400370" joined="2007-02-12"/>
+		<cosponsor id="400103" joined="2007-02-12"/>
+		<cosponsor id="412194" joined="2007-02-12"/>
+		<cosponsor id="400233" joined="2007-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1171256400" datetime="2007-02-12"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1171515600" datetime="2007-02-15"><text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text></action>
+		<action date="1176782400" datetime="2007-04-17"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1176955200" datetime="2007-04-19"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1176955200" datetime="2007-04-19"><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action date="1178078400" datetime="2007-05-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1178078400" datetime="2007-05-02" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1184086920" datetime="2007-07-10T14:02:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-220.</text></action>
+		<calendar number="136" date="1184086920" datetime="2007-07-10T14:02:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 136.</text></calendar>
+		<action date="1184088420" datetime="2007-07-10T14:27:00-04:00"><text>Mr. Sarbanes moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1184088420" datetime="2007-07-10T14:27:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7440-7443"/></action>
+		<action date="1184088420" datetime="2007-07-10T14:27:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 986.</text></action>
+		<action date="1184089140" datetime="2007-07-10T14:39:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1184194140" datetime="2007-07-11T19:49:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7627-7628"/></action>
+		<vote date="1184195400" how="roll" roll="615" datetime="2007-07-11T20:10:00-04:00" where="h" type="vote" suspension="1" result="fail" ><text>On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 239 - 173 (Roll no. 615). (text: CR 7/10/2007 CR H7440-7441)</text></vote>
+		<action date="1185567180" datetime="2007-07-27T17:13:00-04:00"><text>Rules Committee Resolution H. Res. 580 Reported to House. Rule provides for consideration of H.R. 986 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text></action>
+		<action date="1185842340" datetime="2007-07-30T21:39:00-04:00"><text>Rule H. Res. 580 passed House.</text></action>
+		<action date="1185847260" datetime="2007-07-30T23:01:00-04:00"><text>Considered under the provisions of rule H. Res. 580. (consideration: CR 7/31/2007 H8950-8957; text of measure as introduced: CR H8950-8951)</text></action>
+		<action date="1185847260" datetime="2007-07-30T23:01:00-04:00"><text>Rule provides for consideration of H.R. 986 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text></action>
+		<action date="1185847260" datetime="2007-07-30T23:01:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H.R. 986.</text></action>
+		<action date="1185899880" datetime="2007-07-31T13:38:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H9223-9225"/></action>
+		<action date="1185899880" datetime="2007-07-31T13:38:00-04:00"><text>DEBATE - The House resumed debate on H.R. 986.</text></action>
+		<action date="1185900180" datetime="2007-07-31T13:43:00-04:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H9223"/></action>
+		<action date="1185900180" datetime="2007-07-31T13:43:00-04:00"><text>Mr. Pearce moved to recommit with instructions to Natural Resources.</text><reference label="consideration" ref="CR H9223-9225"/><reference label="text" ref="CR H9223"/></action>
+		<action date="1185900180" datetime="2007-07-31T13:43:00-04:00"><text>DEBATE - The House proceeded with 10 minutes of debate on the Pearce motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House forthwith with an amendment to prohibit federal funds to be used to condemn land to carry out the purposes of this Act or the amendment mabe by subsection (b).&amp;quot;.</text></action>
+		<action date="1185900840" datetime="2007-07-31T13:54:00-04:00"><text>The previous question on the motion to recommit with instructions was ordered without objection.</text><reference label="consideration" ref="CR H9225"/></action>
+		<action date="1185902700" datetime="2007-07-31T14:25:00-04:00"><text>On motion to recommit with instructions Failed by the Yeas and Nays: 200 - 225 (Roll no. 766).</text><reference label="consideration" ref="CR H9229"/></action>
+		<action date="1185902760" datetime="2007-07-31T14:26:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H9225-9226"/></action>
+		<vote date="1185903180" how="roll" roll="767" datetime="2007-07-31T14:33:00-04:00" where="h" type="vote" result="pass" ><text>On passage Passed by the Yeas and Nays: 253 - 172 (Roll No. 767).</text><reference label="text" ref="CR H8951-8952"/></vote>
+		<action date="1185940800" datetime="2007-08-01"><text>Received in the Senate.</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/31/2007--Passed House amended. (This measure has not been amended since it was reported to the House on July 31, 2007. The summary of that version is repeated here.) Eightmile Wild and Scenic River Act - Amends the Wild and Scenic Rivers Act to designate as a component of the national wild and scenic rivers system (the system) certain segments of the main stem and specified tributaries of the Eightmile River, Connecticut. Declares that such segments shall be managed in accordance with the Eightmile River Watershed Management Plan and such amendments as the Secretary of the Interior determines are consistent with this Act. Deems the Plan to satisfy the requirements for a comprehensive management plan required under the Act. Instructs the Secretary to coordinate management responsibilities regarding the Eightmile River with the Eightmile Coordinating Committee, as specified in the Plan. Allows the Secretary to enter into cooperative agreements for administration and for assistance, advice, and cooperation to plan, protect, and manage river resources with the state of Connecticut, the towns of Salem, Lyme, and East Haddam, and appropriate local planning and environmental organizations. Requires the agreements to be consistent with the Plan and allows provisions for federal assistance. Prohibits the Eightmile River from being administered as part of the National Park System or being subject to related regulations.<br/>Deems: (1) the zoning ordinances adopted by the towns, in effect as of December 8, 2005, to satisfy the standards and requirements under the Act regarding the prohibition on federal acquisition of lands by condemnation for inclusion in any wild, scenic, or recreational river area; and (2) such towns to be &quot;villages&quot; for such purposes. Limits the authority of the Secretary to acquire lands for purposes of the Act to acquisition by donation or acquisition with the owner's consent and subjects it to the additional criteria set forth in the Plan. Recognizes specified tributaries of the Eightmile River watershed as integral to the protection and enhancement of the river and watershed. Authorizes appropriations.<br/>
+	</summary>
+</bill>

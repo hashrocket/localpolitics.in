@@ -1,0 +1,119 @@
+<bill session="111" type="hr" number="83" updated="2009-03-07T13:15:48-05:00">
+	<status><vote date="1235499900" datetime="2009-02-24T14:25:00-05:00" where="h" result="pass" how="roll" roll="78"/></status>
+
+	<introduced date="1232686800" datetime="2009-01-23"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing the significance of Black History Month.</title>
+	</titles>
+	<sponsor id="400653"/>
+	<cosponsors>
+		<cosponsor id="412253" joined="2009-02-09"/>
+		<cosponsor id="400290" joined="2009-01-23"/>
+		<cosponsor id="400663" joined="2009-02-09"/>
+		<cosponsor id="400352" joined="2009-02-09"/>
+		<cosponsor id="400661" joined="2009-01-23"/>
+		<cosponsor id="400253" joined="2009-02-09"/>
+		<cosponsor id="400041" joined="2009-02-09"/>
+		<cosponsor id="400128" joined="2009-02-09"/>
+		<cosponsor id="412258" joined="2009-01-23"/>
+		<cosponsor id="400386" joined="2009-02-23"/>
+		<cosponsor id="400073" joined="2009-01-23"/>
+		<cosponsor id="400230" joined="2009-01-23"/>
+		<cosponsor id="400416" joined="2009-02-09"/>
+		<cosponsor id="400199" joined="2009-02-09"/>
+		<cosponsor id="400227" joined="2009-02-23"/>
+		<cosponsor id="400364" joined="2009-01-23"/>
+		<cosponsor id="400257" joined="2009-02-09"/>
+		<cosponsor id="412199" joined="2009-01-23"/>
+		<cosponsor id="400616" joined="2009-01-23"/>
+		<cosponsor id="400110" joined="2009-02-23"/>
+		<cosponsor id="400087" joined="2009-02-23"/>
+		<cosponsor id="412263" joined="2009-01-23"/>
+		<cosponsor id="400160" joined="2009-01-23"/>
+		<cosponsor id="400270" joined="2009-02-09"/>
+		<cosponsor id="400263" joined="2009-01-23"/>
+		<cosponsor id="400259" joined="2009-02-09"/>
+		<cosponsor id="400092" joined="2009-01-23"/>
+		<cosponsor id="400080" joined="2009-01-23"/>
+		<cosponsor id="400162" joined="2009-02-09"/>
+		<cosponsor id="400237" joined="2009-01-23"/>
+		<cosponsor id="400140" joined="2009-02-09"/>
+		<cosponsor id="412221" joined="2009-01-23"/>
+		<cosponsor id="400383" joined="2009-02-09"/>
+		<cosponsor id="400422" joined="2009-01-23"/>
+		<cosponsor id="412204" joined="2009-02-23"/>
+		<cosponsor id="412274" joined="2009-02-09"/>
+		<cosponsor id="400178" joined="2009-02-09"/>
+		<cosponsor id="412282" joined="2009-02-09"/>
+		<cosponsor id="412327" joined="2009-02-09"/>
+		<cosponsor id="412232" joined="2009-02-23"/>
+		<cosponsor id="400350" joined="2009-01-23"/>
+		<cosponsor id="400217" joined="2009-01-23"/>
+		<cosponsor id="400111" joined="2009-01-23"/>
+		<cosponsor id="400333" joined="2009-01-23"/>
+		<cosponsor id="400366" joined="2009-02-09"/>
+		<cosponsor id="400295" joined="2009-02-09"/>
+		<cosponsor id="400623" joined="2009-02-09"/>
+		<cosponsor id="400271" joined="2009-01-23"/>
+		<cosponsor id="400170" joined="2009-02-09"/>
+		<cosponsor id="400211" joined="2009-01-23"/>
+		<cosponsor id="400424" joined="2009-01-23"/>
+		<cosponsor id="400074" joined="2009-01-23"/>
+		<cosponsor id="400154" joined="2009-02-24"/>
+		<cosponsor id="412215" joined="2009-01-23"/>
+		<cosponsor id="400415" joined="2009-02-09"/>
+		<cosponsor id="400009" joined="2009-02-09"/>
+		<cosponsor id="412186" joined="2009-02-09"/>
+		<cosponsor id="400093" joined="2009-01-23"/>
+		<cosponsor id="400003" joined="2009-02-24"/>
+		<cosponsor id="400283" joined="2009-02-09"/>
+		<cosponsor id="400204" joined="2009-01-23"/>
+		<cosponsor id="400090" joined="2009-01-23"/>
+		<cosponsor id="412293" joined="2009-02-09"/>
+		<cosponsor id="400409" joined="2009-01-23"/>
+		<cosponsor id="400240" joined="2009-01-23"/>
+		<cosponsor id="400184" joined="2009-02-09"/>
+		<cosponsor id="400238" joined="2009-02-09"/>
+		<cosponsor id="400363" joined="2009-01-23"/>
+		<cosponsor id="400301" joined="2009-01-23"/>
+		<cosponsor id="400345" joined="2009-02-09"/>
+		<cosponsor id="400262" joined="2009-02-09"/>
+		<cosponsor id="400130" joined="2009-02-09"/>
+		<cosponsor id="400030" joined="2009-01-23"/>
+		<cosponsor id="400312" joined="2009-01-23"/>
+		<cosponsor id="400179" joined="2009-01-23"/>
+		<cosponsor id="400639" joined="2009-01-23"/>
+		<cosponsor id="400245" joined="2009-01-23"/>
+		<cosponsor id="400402" joined="2009-01-23"/>
+		<cosponsor id="400075" joined="2009-01-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1232686800" datetime="2009-01-23"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1234328400" datetime="2009-02-11"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1234328400" datetime="2009-02-11" ><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action date="1235537580" datetime="2009-02-24T12:53:00-05:00"><text>Mr. Lynch moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1235537580" datetime="2009-02-24T12:53:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2615-2619"/></action>
+		<action date="1235537580" datetime="2009-02-24T12:53:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 83.</text></action>
+		<action date="1235495700" datetime="2009-02-24T13:15:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1235499480" datetime="2009-02-24T14:18:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2623-2624"/></action>
+		<vote date="1235499900" how="roll" roll="78" datetime="2009-02-24T14:25:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 78).</text><reference label="text" ref="CR H2615-2616"/></vote>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, Markup" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Civil rights and liberties, minority issues"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Ethnic studies"/>
+		<term name="Racial and ethnic relations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/24/2009--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the significance of Black History Month as an important time to recognize the contributions of African-Americans in the nation's history. Encourages the continued celebration of this month to provide an opportunity for all peoples of the United States to learn more about the past and to better understand the experiences that have shaped the nation. Recognizes that the ethnic and racial diversity of the United States enriches and strengthens the nation.<br/>
+	</summary>
+</bill>

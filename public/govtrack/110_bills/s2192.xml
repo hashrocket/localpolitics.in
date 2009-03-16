@@ -1,0 +1,44 @@
+<bill session="110" type="s" number="2192" retreived_date="1226098387" updated="2008-11-07T17:53:07-05:00">
+	<status><introduced date="1192680000" datetime="2007-10-18"/></status>
+
+	<introduced date="1192680000" datetime="2007-10-18"/>
+	<titles>
+		<title type="official" as="introduced">A bill to establish a user fee for follow-up reinspections under the Federal Food, Drug, and Cosmetic Act.</title>
+	</titles>
+	<sponsor id="300042"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1192680000" datetime="2007-10-18"><text>Sponsor introductory remarks on measure. (CR S13087)</text></action>
+		<action date="1192680000" datetime="2007-10-18"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S13088"/></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Medicine"/>
+		<term name="Animals"/>
+		<term name="Budgets"/>
+		<term name="Business"/>
+		<term name="Consumers"/>
+		<term name="Drug industry"/>
+		<term name="Food"/>
+		<term name="Food industry"/>
+		<term name="Food safety"/>
+		<term name="Medical care"/>
+		<term name="Medical supplies"/>
+		<term name="Product safety"/>
+		<term name="User charges"/>
+		<term name="Veterinary medicine"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/18/2007--Introduced.<br/>Directs the Secretary of Health and Human Services to collect a user fee from each manufacturer of a food, drug, device, biological product, or animal drug for which a followup reinspection is required to ensure correction of a violation of a Good Manufacturing Practices requirement under the Federal Food, Drug, and Cosmetic Act found by the Secretary during the initial inspection of the manufacturer. 
+	</summary>
+</bill>

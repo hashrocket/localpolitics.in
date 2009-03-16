@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="3490" updated="2009-01-09T00:11:57-05:00">
+	<status><vote date="1209489540" datetime="2008-04-29T14:19:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1189051200" datetime="2007-09-06"/>
+	<titles>
+		<title type="short" as="introduced">Tuolumne Me-Wuk Land Transfer Act of 2007</title>
+		<title type="short" as="passed house">Tuolumne Me-Wuk Land Transfer Act of 2008</title>
+		<title type="short" as="reported to senate">Tuolumne Me-Wuk Land Transfer Act of 2008</title>
+		<title type="official" as="introduced">To transfer administrative jurisdiction of certain Federal lands from the Bureau of Land Management to the Bureau of Indian Affairs, to take such lands into trust for Tuolumne Band of Me-Wuk Indians of the Tuolumne Rancheria, and for other purposes.</title>
+	</titles>
+	<sponsor id="400330"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1189051200" datetime="2007-09-06"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1207713600" datetime="2008-04-09"><text>Committee Hearings Held.</text></action>
+		<action date="1208404800" datetime="2008-04-17"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1208404800" datetime="2008-04-17" ><text>Ordered to be Reported (Amended) by Unanimous Consent.</text></calendar>
+		<action date="1209488400" datetime="2008-04-29T14:00:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-609.</text></action>
+		<calendar number="379" date="1209488400" datetime="2008-04-29T14:00:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 379.</text></calendar>
+		<action date="1209489360" datetime="2008-04-29T14:16:00-04:00"><text>Mr. Rahall moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1209489360" datetime="2008-04-29T14:16:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2771"/></action>
+		<action date="1209489360" datetime="2008-04-29T14:16:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3490.</text></action>
+		<vote date="1209489540" how="by voice vote" datetime="2008-04-29T14:19:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H2771"/></vote>
+		<action date="1209528000" datetime="2008-04-30"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1216180800" datetime="2008-07-16"><text>Committee on Energy and Natural Resources Senate Subcommittee on Public Lands and Forests. Hearings held.</text></action>
+		<calendar date="1221105600" datetime="2008-09-11" ><text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text></calendar>
+		<action date="1221537600" datetime="2008-09-16"><text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. Without written report.</text></action>
+		<calendar under="General Orders" number="1024" date="1221537600" datetime="2008-09-16" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1024.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/16/2008--Reported to Senate amended. Tuolumne Me-Wuk Land Transfer Act of 2008 - Declares that specified federal lands are to be held in trust by the United States for the benefit of the Tuolumne Band of Me-Wuk Indians of the Tuolumne Rancheria of California (the Tribe) for nongaming purposes. Subjects: (1) such lands to the same terms and conditions as those lands described in the California Indian Land Transfer Act; and (2) specified lands taken or to be taken into trust for the Tribe's benefit to the Act's requirements regarding the applicability of laws governing lands which are to be held in trust for the benefit of a tribe, band, or group of Indians pursuant to the Act. Requires the Office of Cadastral Survey of the Bureau of Land Management (BLM) to complete: (1) fieldwork required for a survey of the federal lands and trust lands for the purpose of incorporating those lands within the boundaries of the Tuolumne Rancheria; and (2) the survey within 90 days after the fieldwork is completed. Requires the Secretary of the Interior, upon the approval by the Community Council of the Tribe of such survey, to publish in the Federal Register a legal description of the new boundary lines of the Tuolumne Rancheria and a legal description of the land surveyed. 
+	</summary>
+</bill>

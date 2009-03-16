@@ -1,0 +1,49 @@
+<bill session="110" type="hr" number="734" updated="2009-01-09T09:23:23-05:00">
+	<status><vote date="1192558800" datetime="2007-10-16T15:20:00-04:00" where="h" result="pass" how="roll" roll="969"/></status>
+
+	<introduced date="1192161600" datetime="2007-10-12"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the House of Representatives regarding the withholding of information relating to corruption in Iraq.</title>
+	</titles>
+	<sponsor id="400425"/>
+	<cosponsors>
+		<cosponsor id="400407" joined="2007-10-12"/>
+		<cosponsor id="400295" joined="2007-10-12"/>
+		<cosponsor id="400424" joined="2007-10-16"/>
+		<cosponsor id="412208" joined="2007-10-12"/>
+		<cosponsor id="400249" joined="2007-10-12"/>
+		<cosponsor id="412211" joined="2007-10-12"/>
+		<cosponsor id="400259" joined="2007-10-12"/>
+		<cosponsor id="400251" joined="2007-10-12"/>
+		<cosponsor id="400360" joined="2007-10-12"/>
+		<cosponsor id="400415" joined="2007-10-12"/>
+		<cosponsor id="400641" joined="2007-10-15"/>
+		<cosponsor id="400090" joined="2007-10-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1192161600" datetime="2007-10-12"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1192489800" datetime="2007-10-15T20:10:00-04:00"><text>Rules Committee Resolution H. Res. 741 Reported to House. Rule provides for consideration of H. Res. 734 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. The rule waives all points of order against consideration of the resolution.</text></action>
+		<action date="1192551600" datetime="2007-10-16T13:20:00-04:00"><text>Rule H. Res. 741 passed House.</text></action>
+		<action date="1192553220" datetime="2007-10-16T13:47:00-04:00"><text>Considered under the provisions of rule H. Res. 741.</text><reference label="consideration" ref="CR H11576-11586"/></action>
+		<action date="1192553220" datetime="2007-10-16T13:47:00-04:00"><text>Rule provides for consideration of H. Res. 734 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. The rule waives all points of order against consideration of the resolution.</text></action>
+		<action date="1192553220" datetime="2007-10-16T13:47:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 734.</text></action>
+		<action date="1192553400" datetime="2007-10-16T13:50:00-04:00"><text>During the course of debate, exception was taken to certain words used in debate. Subsequently, unanimous consent was granted to withdraw the words in question and debate continued under regular order.</text></action>
+		<action date="1192557300" datetime="2007-10-16T14:55:00-04:00"><text>The previous question was ordered pursuant to the rule.</text><reference label="consideration" ref="CR H11585"/></action>
+		<vote date="1192558800" how="roll" roll="969" datetime="2007-10-16T15:20:00-04:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 395 - 21 (Roll no. 969).</text><reference label="text" ref="CR H11576-11577"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/16/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Expresses the sense of the House of Representatives that: (1) as Congress considers the President's request for over $150 billion more for the war in Iraq it is essential that Congress and the people of the United States know the extent of corruption in the Iraqi government and whether corruption is fueling the insurgency; (2) it was wrong to retroactively classify portions of the report titled &quot;Stabilizing and Rebuilding Iraq: U.S. Ministry Capacity Development Efforts Need an Overall Integrated Strategy to Guide Efforts and Manage Risk&quot; which was released October 4, 2007, and other statements that do not meet the criteria for classification; (3) it is an abuse of the classification process to withhold from Congress and the people of the United States broad assessments of the extent of corruption in the Iraqi government; and (4) a directive that prohibits federal officials from providing Congress and the people of the United States with broad assessments which characterize the quality of Iraqi governance should be rescinded.<br/>
+	</summary>
+</bill>

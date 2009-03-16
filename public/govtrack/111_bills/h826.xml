@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="826" updated="2009-03-07T11:25:19-05:00">
+	<status><introduced date="1233637200" datetime="2009-02-03"/></status>
+
+	<introduced date="1233637200" datetime="2009-02-03"/>
+	<titles>
+		<title type="short" as="introduced">Cluster-Based Economy Enhancement Act of 2009</title>
+		<title type="official" as="introduced">To establish a grant program to support cluster-based economic development efforts.</title>
+	</titles>
+	<sponsor id="400264"/>
+	<cosponsors>
+		<cosponsor id="400616" joined="2009-02-11"/>
+		<cosponsor id="400266" joined="2009-02-11"/>
+		<cosponsor id="412188" joined="2009-03-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1233637200" datetime="2009-02-03"><text>Sponsor introductory remarks on measure. (CR E181-182)</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1233637200" datetime="2009-02-03"><text>Referred to House Financial Services</text></action>
+		<action date="1233723600" datetime="2009-02-04"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Transportation and Infrastructure" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings and Emergency Management" activity="Referral" />
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

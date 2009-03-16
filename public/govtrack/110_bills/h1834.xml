@@ -1,0 +1,72 @@
+<bill session="110" type="h" number="1834" updated="2009-01-08T20:40:54-05:00">
+	<status><vote date="1203015120" datetime="2008-02-14T14:52:00-05:00" where="h" result="pass" how="roll" roll="62"/></status>
+
+	<introduced date="1175140800" datetime="2007-03-29"/>
+	<titles>
+		<title type="short" as="introduced">National Ocean Exploration Program Act</title>
+		<title type="short" as="introduced">National Undersea Research Program Act of 2007</title>
+		<title type="short" as="reported to house">National Ocean Exploration Program Act</title>
+		<title type="short" as="reported to house">National Undersea Research Program Act of 2007</title>
+		<title type="short" as="passed house">National Ocean Exploration Program Act</title>
+		<title type="short" as="passed house">National Undersea Research Program Act of 2007</title>
+		<title type="official" as="introduced">To authorize the national ocean exploration program and the national undersea research program within the National Oceanic and Atmospheric Administration.</title>
+	</titles>
+	<sponsor id="400359"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-04-19"/>
+		<cosponsor id="400149" joined="2007-05-24"/>
+		<cosponsor id="400129" joined="2007-03-29"/>
+		<cosponsor id="400432" joined="2007-03-29"/>
+		<cosponsor id="400308" joined="2007-03-29"/>
+		<cosponsor id="400001" joined="2007-03-29"/>
+		<cosponsor id="400346" joined="2007-10-23"/>
+		<cosponsor id="400266" joined="2007-03-29"/>
+		<cosponsor id="400440" joined="2007-03-29"/>
+		<cosponsor id="412219" joined="2007-06-14"/>
+	</cosponsors>
+	<actions>
+		<action date="1175140800" datetime="2007-03-29"><text>Referred to the Committee on Science and Technology, and in addition to the Committees on Natural Resources, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1175140800" datetime="2007-03-29"><text>Referred to House Science and Technology</text></action>
+		<action date="1175140800" datetime="2007-03-29"><text>Referred to House Natural Resources</text></action>
+		<action date="1175140800" datetime="2007-03-29"><text>Referred to House Armed Services</text></action>
+		<action date="1176177600" datetime="2007-04-10"><committee name="House Natural Resources"/><text>Referred to the Subcommittee on Fisheries, Wildlife, and Oceans.</text></action>
+		<action date="1177560000" datetime="2007-04-26"><committee name="House Armed Services"/><text>Referred to the Subcommittee on Terrorism, Unconventional Threats and Capabilities.</text></action>
+		<action date="1178596800" datetime="2007-05-08"><committee name="House Science and Technology"/><text>Referred to the Subcommittee on Energy and Environment.</text></action>
+		<action date="1181016000" datetime="2007-06-05"><committee name="House Natural Resources" subcommittee="Fisheries, Wildlife, and Oceans"/><text>Subcommittee Hearings Held.</text></action>
+		<action date="1182225600" datetime="2007-06-19"><committee name="House Natural Resources" subcommittee="Fisheries, Wildlife, and Oceans"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1182225600" datetime="2007-06-19"><committee name="House Natural Resources" subcommittee="Fisheries, Wildlife, and Oceans"/><text>Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Voice Vote .</text></action>
+		<calendar date="1183003200" datetime="2007-06-28" ><committee name="House Natural Resources"/><text>Ordered to be Reported (Amended) by Unanimous Consent.</text></calendar>
+		<action date="1183003200" datetime="2007-06-28"><committee name="House Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<action date="1186270920" datetime="2007-08-04T20:42:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-311, Part I.</text></action>
+		<action date="1191988800" datetime="2007-10-10"><committee name="House Science and Technology" subcommittee="Energy and Environment"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1191988800" datetime="2007-10-10"><committee name="House Science and Technology" subcommittee="Energy and Environment"/><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1193198400" datetime="2007-10-24"><committee name="House Science and Technology"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1193198400" datetime="2007-10-24" ><committee name="House Science and Technology"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1198011900" datetime="2007-12-18T17:05:00-05:00"><text>Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-311, Part II.</text></action>
+		<action date="1198012080" datetime="2007-12-18T17:08:00-05:00"><text>Committee on Armed Services discharged.</text></action>
+		<calendar number="304" date="1198012260" datetime="2007-12-18T17:11:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 304.</text></calendar>
+		<action date="1202928120" datetime="2008-02-13T14:42:00-05:00"><text>Mr. Lipinski moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1202928120" datetime="2008-02-13T14:42:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H896-900"/><reference label="text of measure as reported in House" ref="CR H896-898"/></action>
+		<action date="1202928120" datetime="2008-02-13T14:42:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1834.</text></action>
+		<action date="1202928840" datetime="2008-02-13T14:54:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1203014640" datetime="2008-02-14T14:44:00-05:00"><text>By unanimous consent, the text of H.R. 1834, as proposed to be adopted under suspension of the rules, was modified by an amendment placed at the desk.</text></action>
+		<action date="1203014640" datetime="2008-02-14T14:44:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H963-965"/></action>
+		<vote date="1203015120" how="roll" roll="62" datetime="2008-02-14T14:52:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 352 - 49 (Roll no. 62).</text><reference label="text" ref="CR H963-964"/></vote>
+		<calendar under="General Orders" number="581" date="1203915600" datetime="2008-02-25" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 581.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/14/2008--Passed House amended. Title I: National Ocean Exploration Program - National Ocean Exploration Program Act - (Sec. 102) Requires the Administrator of the National Oceanic and Atmospheric Administration (NOAA) to conduct a coordinated national ocean exploration program in NOAA that promotes collaboration with other federal ocean and undersea research and exploration programs. (Sec. 103) Sets forth program authorities, including authorizing the Administrator to accept donations of property, data, and equipment to be applied for exploring the oceans or increasing knowledge of the oceans. (Sec. 104) Requires the NOAA Administrator to appoint an Ocean Exploration Advisory Board. (Sec. 105) Declares that nothing in this Act supersedes or limits the authority of the Secretary of the Interior under the Outer Continental Shelf Lands Act. (Sec. 106) Authorizes appropriations. Title II: Undersea Research Program - National Undersea Research Program Act of 2007 - (Sec. 202) Requires the Administrator to conduct an undersea research, exploration, education, and technology development program to increase scientific knowledge regarding management, use, and preservation of oceanic, coastal, and Great Lakes resources. Requires the program's director to cooperate with institutions of higher education and other educational marine and ocean science organizations and to make available undersea research facilities, equipment, technologies, information, and expertise to support those organizations' undersea research. Authorizes the director to enter into partnerships with the private sector to achieve program goals and to promote marine industry technological advancement. (Sec. 204) Requires that the program be conducted through a national headquarters, a network of extramural regional undersea research centers representing all NOAA regions, and the National Institute for Undersea Science and Technology. (Sec. 205) Specifies the research, exploration, education, and technology programs to be conducted through the network of extramural regional centers and the National Institute for Undersea Science and Technology. (Sec. 206) Allows not more than ten percent of the program's budget to be used for administration and for priority undersea research projects not covered by funding available from centers. Requires a competition every five years to select the regional centers that will participate in the program. Requires projects supported by the regional centers to be awarded using an open and competitive process. (Sec. 207) Authorizes appropriations. Title III: Interagency Planning and Coordination - (Sec. 301) Requires the NOAA Administrator, and relevant governmental, non-governmental, academic, industry, and other experts, to convene an ocean exploration and undersea research technology and infrastructure task force. Requires that the task force coordinate the development of agency budgets.<br/>
+	</summary>
+</bill>

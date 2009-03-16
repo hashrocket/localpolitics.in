@@ -1,0 +1,37 @@
+<bill session="110" type="hr" number="116" updated="2009-01-09T08:08:13-05:00">
+	<status><vote date="1170303900" datetime="2007-01-31T12:25:00-05:00" where="h" result="pass" how="roll" roll="67"/></status>
+
+	<introduced date="1170133200" datetime="2007-01-30"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the joint resolution (H.J. Res. 20) making further continuing appropriations for the fiscal year 2007, and for other purposes.</title>
+	</titles>
+	<sponsor id="400378"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1170201480" datetime="2007-01-30T19:58:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-6, by Ms. Slaughter.</text></action>
+		<action date="1170201480" datetime="2007-01-30T19:58:00-05:00"><text>Rule provides for consideration of H.J. Res. 20 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.</text></action>
+		<calendar date="1170201540" datetime="2007-01-30T19:59:00-05:00" ><text>Placed on the House Calendar, Calendar No. 6.</text></calendar>
+		<action date="1170253080" datetime="2007-01-31T10:18:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H1059-1068"/></action>
+		<action date="1170253080" datetime="2007-01-31T10:18:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 116.</text></action>
+		<action date="1170302820" datetime="2007-01-31T12:07:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1070-1071"/></action>
+		<action date="1170303300" datetime="2007-01-31T12:15:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 227 - 192 (Roll no. 66).</text><reference label="consideration" ref="CR H1070"/></action>
+		<vote date="1170303900" how="roll" roll="67" datetime="2007-01-31T12:25:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by recorded vote: 225 - 191 (Roll no. 67).</text><reference label="text" ref="CR H1059"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/30/2007--Reported to House without amendment. Sets forth the rule for consideration of H.J. Res. 20 (FY2007 continuing appropriations). 
+	</summary>
+</bill>

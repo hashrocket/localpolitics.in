@@ -1,0 +1,80 @@
+<bill session="110" type="hr" number="222" updated="2009-01-09T08:21:01-05:00">
+	<status><vote date="1173808080" datetime="2007-03-13T14:48:00-04:00" where="h" result="pass" how="roll" roll="141"/></status>
+
+	<introduced date="1173243600" datetime="2007-03-07"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the support of the House of Representatives for the Good Friday Agreement, signed on April 10, 1998, as a blueprint for a lasting peace in Northern Ireland, and for other purposes.</title>
+	</titles>
+	<sponsor id="400257"/>
+	<cosponsors>
+		<cosponsor id="400420" joined="2007-03-07"/>
+		<cosponsor id="400031" joined="2007-03-08"/>
+		<cosponsor id="400219" joined="2007-03-07"/>
+		<cosponsor id="400199" joined="2007-03-07"/>
+		<cosponsor id="400227" joined="2007-03-13"/>
+		<cosponsor id="400160" joined="2007-03-07"/>
+		<cosponsor id="400263" joined="2007-03-09"/>
+		<cosponsor id="400183" joined="2007-03-08"/>
+		<cosponsor id="400102" joined="2007-03-07"/>
+		<cosponsor id="400282" joined="2007-03-08"/>
+		<cosponsor id="400122" joined="2007-03-07"/>
+		<cosponsor id="400295" joined="2007-03-08"/>
+		<cosponsor id="400271" joined="2007-03-07"/>
+		<cosponsor id="400430" joined="2007-03-07"/>
+		<cosponsor id="400379" joined="2007-03-07"/>
+		<cosponsor id="400124" joined="2007-03-08"/>
+		<cosponsor id="400003" joined="2007-03-07"/>
+		<cosponsor id="400423" joined="2007-03-07"/>
+		<cosponsor id="400264" joined="2007-03-07"/>
+		<cosponsor id="400285" joined="2007-03-13"/>
+		<cosponsor id="400355" joined="2007-03-07"/>
+		<cosponsor id="400437" joined="2007-03-07"/>
+		<cosponsor id="400312" joined="2007-03-07"/>
+		<cosponsor id="400231" joined="2007-03-07"/>
+		<cosponsor id="400352" joined="2007-03-08"/>
+		<cosponsor id="400144" joined="2007-03-07"/>
+		<cosponsor id="412193" joined="2007-03-08"/>
+		<cosponsor id="412205" joined="2007-03-08"/>
+		<cosponsor id="400395" joined="2007-03-07"/>
+		<cosponsor id="400087" joined="2007-03-07"/>
+		<cosponsor id="400259" joined="2007-03-07"/>
+		<cosponsor id="400436" joined="2007-03-07"/>
+		<cosponsor id="412204" joined="2007-03-13"/>
+		<cosponsor id="400251" joined="2007-03-07"/>
+		<cosponsor id="400281" joined="2007-03-08"/>
+		<cosponsor id="400638" joined="2007-03-07"/>
+		<cosponsor id="412186" joined="2007-03-07"/>
+		<cosponsor id="400371" joined="2007-03-07"/>
+		<cosponsor id="400291" joined="2007-03-07"/>
+		<cosponsor id="400641" joined="2007-03-07"/>
+		<cosponsor id="400047" joined="2007-03-08"/>
+		<cosponsor id="400042" joined="2007-03-08"/>
+		<cosponsor id="400025" joined="2007-03-07"/>
+		<cosponsor id="400114" joined="2007-03-07"/>
+		<cosponsor id="400179" joined="2007-03-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1173243600" datetime="2007-03-07"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1173803520" datetime="2007-03-13T13:32:00-04:00"><text>Mr. Wexler moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1173803580" datetime="2007-03-13T13:33:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2455-2457"/></action>
+		<action date="1173803580" datetime="2007-03-13T13:33:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 222.</text></action>
+		<action date="1173804120" datetime="2007-03-13T13:42:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1173807600" datetime="2007-03-13T14:40:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H2462-2463"/></action>
+		<vote date="1173808080" how="roll" roll="141" datetime="2007-03-13T14:48:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 419 - 1 (Roll no. 141).</text><reference label="text" ref="CR H2455-2456"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/13/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Reiterates support for the April 1998 Good Friday Agreement as a blueprint for a lasting peace in Northern Ireland. Declares support for the October 2006 St. Andrews Agreement. Commends: (1) British Prime Minister Tony Blair and Irish Taoiseach Bertie Ahern for their leadership in seeking a peaceful resolution in Northern Ireland; and (2) all parties for abiding by the St. Andrews Agreement. Expresses the sense of the House of Representatives that all political parties in Northern Ireland should: (1) agree to share power according to the democratic mandate of the Good Friday Agreement; and (2) commit to work with all the institutions of the Good Friday Agreement which established the Northern Ireland Assembly and an inclusive Executive, the North-South Ministerial Council, and the British-Irish Inter-Governmental Conference.<br/>
+	</summary>
+</bill>

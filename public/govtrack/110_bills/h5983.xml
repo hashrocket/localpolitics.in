@@ -1,0 +1,49 @@
+<bill session="110" type="h" number="5983" updated="2009-01-09T05:14:51-05:00">
+	<status><vote date="1217457600" datetime="2008-07-30T19:40:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1210132800" datetime="2008-05-07"/>
+	<titles>
+		<title type="short" as="introduced">Homeland Security Network Defense and Accountability Act of 2008</title>
+		<title type="short" as="reported to house">Homeland Security Network Defense and Accountability Act of 2008</title>
+		<title type="short" as="passed house">Homeland Security Network Defense and Accountability Act of 2008</title>
+		<title type="official" as="introduced">To amend the Homeland Security Act of 2002 to enhance the information security of the Department of Homeland Security, and for other purposes.</title>
+	</titles>
+	<sponsor id="400230"/>
+	<cosponsors>
+		<cosponsor id="400031" joined="2008-05-22"/>
+		<cosponsor id="400199" joined="2008-05-08"/>
+		<cosponsor id="400402" joined="2008-05-07"/>
+		<cosponsor id="412258" joined="2008-05-22"/>
+		<cosponsor id="400166" joined="2008-05-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1210132800" datetime="2008-05-07"><text>Sponsor introductory remarks on measure. (CR E842-843)</text></action>
+		<action date="1210132800" datetime="2008-05-07"><text>Referred to the House Committee on Homeland Security.</text></action>
+		<action date="1214452800" datetime="2008-06-26"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1214452800" datetime="2008-06-26" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1216939920" datetime="2008-07-24T19:52:00-04:00"><text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-777.</text></action>
+		<calendar number="496" date="1216939920" datetime="2008-07-24T19:52:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 496.</text></calendar>
+		<action date="1217388960" datetime="2008-07-29T12:36:00-04:00"><text>Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1217388960" datetime="2008-07-29T12:36:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7176-7180"/></action>
+		<action date="1217388960" datetime="2008-07-29T12:36:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5983.</text></action>
+		<action date="1217389560" datetime="2008-07-29T12:46:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Bilirakis objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1217457600" datetime="2008-07-30T19:40:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7596"/></action>
+		<vote date="1217457600" how="by voice vote" datetime="2008-07-30T19:40:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/29/2008 H7176-7178)</text></vote>
+		<action date="1217476800" datetime="2008-07-31"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/30/2008--Passed House amended. Homeland Security Network Defense and Accountability Act of 2008 - Amends the Homeland Security Act of 2002 to direct the Secretary of the Department of Homeland Security (DHS) to delegate to the Department's Chief Information Officer (CIO) authority for the development, approval, implementation, integration, and oversight of DHS policies, procedures, activities, funding, and systems relating to information management and information infrastructure. Lists CIO qualifications (including at least five years of executive leadership and management experience in information technology and information security) and functions (including establishing an incident response team).<br/>(Sec. 3) Directs the CIO to establish, oversee the deployment of, and regularly update security control testing protocols that ensure that DHS's information infrastructure is effectively protected against known attacks and exploitations of federal and contractor information infrastructure. (Sec. 4) Requires the Inspector General to conduct performance and programmatic reviews of DHS's information infrastructure to determine the effectiveness of its security policies and controls. Requires programmatic reviews to: (1) determine whether a DHS component is complying with policies, processes, and procedures established by the CIO; and (2) focus on risk assessment, management, and mitigation, with primary regard to the implementation of best practices such as authentication, access control (including remote access), intrusion detection and prevention, and data protection and integrity. Directs the Inspector General to submit a security report on each review that includes prioritized recommendations for improving security controls, including recommendations regarding funding changes and personnel management, to the Secretary, CIO, and head of the DHS component. Requires: (1) the DHS component head and the CIO to jointly submit a corrective action report to the Secretary and the Inspector General; and (2) the Inspector General to submit an annual report to the House and Senate homeland security committees. (Sec. 5) Defines &quot;information infrastructure&quot; under such Act as systems and assets used in processing, transmitting, receiving, or storing information electronically. (Sec. 6) Requires the Secretary, before entering into or renewing a covered contract and acting through the CIO, to determine that the contractor has an internal information systems security policy that complies with DHS information security requirements. Sets forth contract requirements regarding security and subcontracting, including requiring the contractor to: (1) provide contracted services on a continuing basis to DHS in the event of an unplanned or disruptive event; (2) deliver timely notice of any internal computer incident that could violate or threaten computer security policies, acceptable use policies, or standard security practices at DHS to the U.S. Computer Emergency Readiness Team and the incident response team; and (3) develop and implement a plan for the award of subcontracts to small business and disadvantaged business concerns. Directs the Secretary to report to the House Homeland Security Committee and the Senate Homeland Security and Governmental Affairs Committee on: (1) progress in implementing requirements issued by the Office of Management and Budget (OMB) for encryption, authentication, Internet Protocol version 6, and Trusted Internet Connections; (2) a plan to investigate breaches against DHS's information infrastructure for purposes of counterintelligence assessment, attribution, and response; (3) a proposal to increase threat information sharing with contractors and provide specialized damage assessment training to private sector information security professionals; and (4) a process to coordinate DHS's information infrastructure protection activities.<br/>(Sec. 7) Provides that nothing in this Act shall affect the application of the Federal Information Management Security Act of 2002 to DHS.<br/>
+	</summary>
+</bill>

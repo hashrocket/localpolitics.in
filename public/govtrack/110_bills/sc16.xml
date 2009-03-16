@@ -1,0 +1,42 @@
+<bill session="110" type="sc" number="16" updated="2009-01-09T19:42:13-05:00">
+	<status><vote date="1172725200" datetime="2007-03-01" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1172725200" datetime="2007-03-01"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution calling on the Government of Uganda and the Lord's Resistance Army (LRA) to recommit to a political solution to the conflict in northern Uganda and to recommence vital peace talks, and urging immediate and substantial support for the ongoing peace process from the United States and the international community.</title>
+	</titles>
+	<sponsor id="300042"/>
+	<cosponsors>
+		<cosponsor id="300025" joined="2007-03-01"/>
+		<cosponsor id="300011" joined="2007-03-01"/>
+		<cosponsor id="300071" joined="2007-03-01"/>
+		<cosponsor id="300060" joined="2007-03-01"/>
+		<cosponsor id="300024" joined="2007-03-01"/>
+		<cosponsor id="400621" joined="2007-03-01"/>
+		<cosponsor id="300073" joined="2007-03-01"/>
+		<cosponsor id="300013" joined="2007-03-01"/>
+		<cosponsor id="300043" joined="2007-03-01"/>
+		<cosponsor id="300064" joined="2007-03-01"/>
+	</cosponsors>
+	<actions>
+		<vote date="1172725200" how="by Unanimous Consent" datetime="2007-03-01" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S2540-2541"/><reference label="text as passed Senate" ref="CR S2540-2541"/><reference label="text of measure as introduced" ref="CR S2516-2517"/></vote>
+		<action date="1172811600" datetime="2007-03-02"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1173241560" datetime="2007-03-06T12:26:00-05:00"><text>Received in the House.</text></action>
+		<action date="1173157200" datetime="2007-03-06"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/1/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Disapproves of the Lord's Resistance Army (LRA) leadership's inconsistent commitment to peacefully resolving the conflict in Uganda. Urges the LRA and the government of Uganda to recommit to a political solution to the conflict. Entreats all regional parties to cease human rights violations and address, within the context of a broader national reconciliation process in Uganda, issues of accountability and impunity for those crimes against humanity already committed. Presses leaders on both sides of the conflict in Uganda to renounce any intentions and halt any preparations to resume violence and to ensure that this message is conveyed to armed elements under their control. Calls on the Secretary of State, the Administrator of the United States Agency for International Development, and the heads of other similar governmental agencies and nongovernmental organizations within the international community to continue efforts to alleviate the humanitarian crisis in northern Uganda and to support a peaceful resolution to this crisis.<br/>
+	</summary>
+</bill>

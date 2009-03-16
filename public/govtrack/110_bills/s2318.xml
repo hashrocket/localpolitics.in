@@ -1,0 +1,35 @@
+<bill session="110" type="s" number="2318" updated="2009-01-09T16:41:11-05:00">
+	<status><calendar date="1194498000" datetime="2007-11-08" /></status>
+
+	<introduced date="1194411600" datetime="2007-11-07"/>
+	<titles>
+		<title type="short" as="introduced">AMT Repeal and Tax Freedom Act</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to repeal the individual alternative minimum tax and to permanently extend the reductions in income tax rates, and for other purposes.</title>
+	</titles>
+	<sponsor id="300040"/>
+	<cosponsors>
+		<cosponsor id="300030" joined="2007-11-07"/>
+		<cosponsor id="300083" joined="2007-11-07"/>
+		<cosponsor id="300014" joined="2007-11-07"/>
+		<cosponsor id="300090" joined="2007-11-07"/>
+	</cosponsors>
+	<actions>
+		<action date="1194411600" datetime="2007-11-07"><text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar date="1194498000" datetime="2007-11-08" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 476.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/7/2007--Introduced.<br/>AMT Repeal and Tax Freedom Act - Amends the Internal Revenue Code to repeal the alternative minimum tax for individual taxpayers after 2006.<br/>Exempts individual taxpayers who had no alternative minimum tax liability in the taxable year preceding 2006 from estimated income tax penalties for taxable years beginning in 2006.<br/>Makes permanent reductions in income tax rates enacted by the Economic Growth and Tax Relief and Reconciliation Act of 2001 and capital gains and dividends tax rates enacted by the Jobs and Growth Tax Relief Reconciliation Act of 2003. 
+	</summary>
+</bill>

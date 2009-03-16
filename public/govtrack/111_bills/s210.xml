@@ -1,0 +1,35 @@
+<bill session="111" type="s" number="210" updated="2009-03-07T13:58:17-05:00">
+	<status><introduced date="1231736400" datetime="2009-01-12"/></status>
+
+	<introduced date="1231736400" datetime="2009-01-12"/>
+	<titles>
+		<title type="short" as="introduced">Right Start Child Care and Education Act of 2009</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to increase the credit for employers establishing workplace child care facilities, to increase the child care credit to encourage greater use of quality child care services, to provide incentives for students to earn child care-related degrees and to work in child care facilities, and to increase the exclusion for employer-provided dependent care assistance.</title>
+	</titles>
+	<sponsor id="300011"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231736400" datetime="2009-01-12"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="460" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Child care and development"/>
+		<term name="Income tax credits"/>
+		<term name="Income tax exclusion"/>
+		<term name="Teaching, teachers, curricula"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/12/2009--Introduced.<br/>Right Start Child Care and Education Act of 2009 - Amends the Internal Revenue Code to: (1) increase the rates and maximum allowable amount of the tax credit for employer-provided child care facilities; (2) increase the eligibility threshold amount and rate of the household and dependent care tax credit and make such credit refundable; (3) allow a new $2,000 tax credit for child care providers who hold a bachelor's degree in early childhood education, child care, or a related degree and who provide at least 1,200 hours of child care services in a taxable year; and (4) increase the tax exclusion for employer-provided dependent care assistance. 
+	</summary>
+</bill>

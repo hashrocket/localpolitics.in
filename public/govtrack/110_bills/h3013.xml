@@ -1,0 +1,54 @@
+<bill session="110" type="h" number="3013" updated="2009-01-08T23:07:18-05:00">
+	<status><vote date="1194981600" datetime="2007-11-13T15:20:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1184212800" datetime="2007-07-12"/>
+	<titles>
+		<title type="short" as="introduced">Attorney-Client Privilege Protection Act of 2007</title>
+		<title type="short" as="passed house">Attorney-Client Privilege Protection Act of 2007</title>
+		<title type="official" as="introduced">To provide appropriate protection to attorney-client privileged communications and attorney work product.</title>
+	</titles>
+	<sponsor id="400364"/>
+	<cosponsors>
+		<cosponsor id="400289" joined="2007-07-31"/>
+		<cosponsor id="400381" joined="2007-07-12"/>
+		<cosponsor id="400092" joined="2007-07-12"/>
+		<cosponsor id="400080" joined="2007-07-12"/>
+		<cosponsor id="400102" joined="2007-07-27"/>
+		<cosponsor id="400137" joined="2007-07-12"/>
+		<cosponsor id="400631" joined="2007-07-31"/>
+		<cosponsor id="400131" joined="2007-07-12"/>
+		<cosponsor id="400076" joined="2007-07-12"/>
+		<cosponsor id="400617" joined="2007-07-12"/>
+		<cosponsor id="412202" joined="2007-07-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1184212800" datetime="2007-07-12"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1184904000" datetime="2007-07-20"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+		<action date="1185249600" datetime="2007-07-24"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1185249600" datetime="2007-07-24"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1185940800" datetime="2007-08-01"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1185940800" datetime="2007-08-01" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1194980880" datetime="2007-11-13T15:08:00-05:00"><text>Reported by the Committee on Judiciary. H. Rept. 110-445.</text></action>
+		<calendar number="276" date="1194980940" datetime="2007-11-13T15:09:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 276.</text></calendar>
+		<action date="1194981180" datetime="2007-11-13T15:13:00-05:00"><text>Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1194981180" datetime="2007-11-13T15:13:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H13562-13564"/></action>
+		<action date="1194981180" datetime="2007-11-13T15:13:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3013.</text></action>
+		<vote date="1194981600" how="by voice vote" datetime="2007-11-13T15:20:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H13562-13563"/></vote>
+		<action date="1195016400" datetime="2007-11-14"><text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/13/2007--Passed House amended. Attorney-Client Privilege Protection Act of 2007 - Amends the federal criminal code to prohibit any U.S. agent or attorney, in any federal investigation or criminal or civil enforcement matter, from demanding, requesting, or conditioning treatment (&quot;giving cooperation credit&quot;) on the disclosure by an organization (or affiliated person) of any communication protected by the attorney-client privilege or any attorney work product. Prohibits a U.S. agent or attorney from conditioning a civil or criminal charging decision relating to an organization (or affiliated person) on one or more specified actions, or from using one or more such actions as a factor in determining whether an organization or affiliated person is cooperating with the government. Numbers among the actions a U.S. agent or attorney may not use as a charging decision condition or a cooperation-determining factor: (1) any valid assertion of the attorney-client privilege or privilege for attorney work product; (2) the provision of counsel to, or contribution to the legal defense fees or expenses of, an employee of the organization; (3) entry into a joint-defense, information-sharing, or common-interest agreement with an employee of the organization if the organization determines it has a common interest in defending against the investigation or enforcement matter; (4) the sharing of relevant information with an employee; or (5) a failure to terminate an employee's employment, or otherwise sanction an employee, because of the employee's decision to exercise his or her constitutional rights or other legal protections in response to a government request. Prohibits a U.S. agent or attorney from demanding or requesting that an organization or an affiliated person not take any such action. Declares that this Act does not affect any other federal statute that may authorize, in the course of an examination or inspection, a U.S. agent or attorney to require or compel the production of attorney-client privileged material or attorney work product. Declares that the prohibition against conditioning a charging decision does not apply to charging an organization (or affiliated person) for certain conduct under a federal law which makes that conduct in itself an offense. Specifies as conduct which may under federal law constitute an offense, and so be exempted from this prohibition: (1) the provision of counsel to, or contribution to the legal defense fees or expenses of, an employee of the organization; (2) entry into a joint defense, information sharing, or common interest agreement with an employee of that organization if the organization determines it has a common interest in defending against the investigation or enforcement matter; and (3) the sharing of information relevant to the investigation or enforcement matter with an employee of the organization. 
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="111" type="s" number="138" updated="2009-03-07T13:48:44-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to repeal alternative minimum tax limitations on private activity bond interest, and for other purposes.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+		<cosponsor id="300009" joined="2009-01-22"/>
+		<cosponsor id="300091" joined="2009-01-06"/>
+		<cosponsor id="300068" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR S115-116)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="425" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax rates"/>
+		<term name="Interest and interest rates"/>
+		<term name="Securities"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Amends the Internal Revenue Code to exempt interest earned on tax-exempt private activity bonds from the alternative minimum tax (AMT) and to exclude such interest as an adjustment to current earnings for purposes of computing alternative minimum taxable income. 
+	</summary>
+</bill>

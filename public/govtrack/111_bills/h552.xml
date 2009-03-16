@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="552" updated="2009-03-07T10:52:29-05:00">
+	<status><introduced date="1231995600" datetime="2009-01-15"/></status>
+
+	<introduced date="1231995600" datetime="2009-01-15"/>
+	<titles>
+		<title type="short" as="introduced">Arizona National Scenic Trail Act</title>
+		<title type="official" as="introduced">To amend the National Trails System Act to designate the Arizona National Scenic Trail.</title>
+	</titles>
+	<sponsor id="412188"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231995600" datetime="2009-01-15"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Natural Resources" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="153" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Arizona"/>
+		<term name="Parks, recreation areas, trails"/>
+		<term name="Utah"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/15/2009--Introduced.<br/>Arizona National Scenic Trail Act - Amends the National Trails System Act to designate the Arizona Trail, extending approximately 807 miles across Arizona from the border between Arizona and Utah to the international border with Mexico, as the &quot;Arizona National Scenic Trail.&quot; 
+	</summary>
+</bill>

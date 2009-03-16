@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="161" updated="2009-03-07T10:06:49-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Social Security Beneficiary Tax Reduction Act</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the 1993 increase in taxes on Social Security benefits.</title>
+	</titles>
+	<sponsor id="400311"/>
+	<cosponsors>
+		<cosponsor id="400147" joined="2009-01-06"/>
+		<cosponsor id="400175" joined="2009-01-08"/>
+		<cosponsor id="412217" joined="2009-01-06"/>
+		<cosponsor id="400145" joined="2009-01-06"/>
+		<cosponsor id="400055" joined="2009-01-06"/>
+		<cosponsor id="400321" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Sponsor introductory remarks on measure. (CR E1)</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="883" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax rates"/>
+		<term name="Social security and elderly assistance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Social Security Beneficiary Tax Reduction Act - Amends the Internal Revenue Code to repeal, effective January 1, 2009, the 1993 increase in income taxes on Social Security benefits.<br/>
+	</summary>
+</bill>

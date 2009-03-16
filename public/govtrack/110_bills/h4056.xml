@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="4056" updated="2009-01-09T01:19:31-05:00">
+	<status><vote date="1208316840" datetime="2008-04-15T12:34:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1193889600" datetime="2007-11-01"/>
+	<titles>
+		<title type="short" as="introduced">Federal Law Enforcement Officers Congressional Badge of Bravery Act of 2007</title>
+		<title type="short" as="passed house">Federal Law Enforcement Officers Congressional Badge of Bravery Act of 2008</title>
+		<title type="short" as="reported to senate">Law Enforcement Congressional Badge of Bravery Act of 2008</title>
+		<title type="official" as="introduced">To establish an awards mechanism to honor Federal law enforcement officers injured in the line of duty.</title>
+	</titles>
+	<sponsor id="412206"/>
+	<cosponsors>
+		<cosponsor id="400183" joined="2007-11-01"/>
+		<cosponsor id="400251" joined="2007-11-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1193889600" datetime="2007-11-01"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1196658000" datetime="2007-12-03"><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+		<action date="1208316360" datetime="2008-04-15T12:26:00-04:00"><text>Ms. Lofgren, Zoe moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1208316360" datetime="2008-04-15T12:26:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H2276-2278"/></action>
+		<action date="1208316360" datetime="2008-04-15T12:26:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4056.</text></action>
+		<vote date="1208316840" how="by voice vote" datetime="2008-04-15T12:34:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H2276-2277"/></vote>
+		<action date="1208318400" datetime="2008-04-16"><text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text></action>
+		<calendar date="1210824000" datetime="2008-05-15" ><text>Committee on the Judiciary. Ordered to be reported with an amendment favorably.</text></calendar>
+		<action date="1217217600" datetime="2008-07-28"><text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute and an amendment to the title. Without written report.</text></action>
+		<calendar under="General Orders" number="905" date="1217217600" datetime="2008-07-28" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 905.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/28/2008--Reported to Senate amended. Law Enforcement Congressional Badge of Bravery Act of 2008 - Title I: Federal Law Enforcement Congressional Badge of Bravery - (Sec. 101) Authorizes the Attorney General to award, and a Member of Congress or the Attorney General to present in the name of Congress, a Federal Law Enforcement Congressional Badge of Bravery to a federal law enforcement officer for performing an act of bravery while in the line of duty. (Sec. 102) Authorizes a federal agency head to nominate for such a Badge an individual who: (1) is a federal law enforcement officer working within the agency; (2) sustained a physical injury while engaged in lawful duties and while performing an act of bravery which put such officer at personal risk; or (3) though not injured, performed an act characterized as bravery that placed such officer at risk of serious physical injury or death. Sets forth requirements for submitting a nomination and imposes a deadline for submitting a nomination of February 15 of the year following the date on which the nominee performed the act of bravery. (Sec. 103) Establishes within the Department of Justice (DOJ) a Federal Law Enforcement Congressional Badge of Bravery Board (Federal Board). Sets forth the duties of the Federal Board, including: (1) designing the Badge; (2) recommending recipients from those nominated; and (3) presenting to the Attorney General annually the names of recommended recipients. Sets forth the membership composition of the Federal Board, its operating procedures, powers, and compensation.<br/>(Sec. 104) Authorizes any Member of Congress to present such a Badge to any recipient who resides in the Member's district. Allows a joint presentation by a Senator and a Representative. Title II: State and Local Law Enforcement Congressional Badge of Bravery - (Sec. 201) Authorizes the Attorney General to award, and a Member of Congress or the Attorney General to present in the name of Congress, a State and Local Law Enforcement Congressional Badge of Bravery to a state or local law enforcement officer for performing an act of bravery while in the line of duty. (Sec. 202) Authorizes a state or local agency head to nominate for such a Badge an individual who meets the same criteria established for awarding the federal Badge. (Sec. 203) Establishes within DOJ a State and Local Law Enforcement Congressional Badge of Bravery Board (State and Local Board). Sets forth the duties of the State and Local Board, its membership composition, operating procedures, powers, and compensation. (Sec. 204) Authorizes any Member of Congress to present such a Badge to any recipient who resides in the Member's district. Allows a joint presentationby a Senator and a Representative. Title III: Congressional Badge of Bravery Office - Establishes within DOJ a Congressional Badge of Bravery Office (Office). Sets forth the duties of the Office, including: (1) receiving nominations from federal and state or local agency heads and delivering such nominations to the Federal Board and the State and Local Board at their respective meetings; and (2) providing staff support to the Federal Board and the State and Local Board.<br/>
+	</summary>
+</bill>

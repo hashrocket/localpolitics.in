@@ -1,0 +1,34 @@
+<bill session="111" type="s" number="183" updated="2009-03-07T13:55:12-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="short" as="introduced">Dominguez-Escalante National Conservation Area and Dominguez Canyon Wilderness Area Act</title>
+		<title type="official" as="introduced">A bill to establish the Dominguez-Escalante National Conservation Area and the Dominguez Canyon Wilderness Area.</title>
+	</titles>
+	<sponsor id="400619"/>
+	<cosponsors>
+		<cosponsor id="400412" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Energy and Natural Resources" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="170" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Advisory bodies"/>
+		<term name="Colorado"/>
+		<term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Dominguez-Escalante National Conservation Area and Dominguez Canyon Wilderness Area Act - Establishes the Dominguez-Escalante National Conservation Area in Colorado to conserve and protect the unique and nationally important values of certain public land and the water resources of area streams that are necessary to support aquatic, riparian, and terrestrial species and communities. Designates certain lands in Mesa, Montrose, and Delta Counties in Colorado as wilderness and as a component of the National Wilderness Preservation System, to be known as the Dominguez Canyon Wilderness Area. Directs the Secretary of the Interior to: (1) develop a comprehensive management plan for the long-term protection and management of the Conservation Area; and (2) establish the Dominguez-Escalante National Conservation Area Advisory Council to advise the Secretary on the preparation and implementation of the management plan. 
+	</summary>
+</bill>

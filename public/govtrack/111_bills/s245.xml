@@ -1,0 +1,51 @@
+<bill session="111" type="s" number="245" updated="2009-03-07T14:02:26-05:00">
+	<status><introduced date="1231909200" datetime="2009-01-14"/></status>
+
+	<introduced date="1231909200" datetime="2009-01-14"/>
+	<titles>
+		<title type="short" as="introduced">Retooling the Health Care Workforce for an Aging America Act of 2009</title>
+		<title type="official" as="introduced">A bill to expand, train, and support all sectors of the health care workforce to care for the growing population of older individuals in the United States.</title>
+	</titles>
+	<sponsor id="300061"/>
+	<cosponsors>
+		<cosponsor id="412246" joined="2009-01-14"/>
+		<cosponsor id="300068" joined="2009-01-14"/>
+		<cosponsor id="300100" joined="2009-02-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1231909200" datetime="2009-01-14"><text>Sponsor introductory remarks on measure. (CR S393-394)</text></action>
+		<action date="1231909200" datetime="2009-01-14"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="468" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Aging"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Employment and training programs"/>
+		<term name="Health personnel"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Higher education"/>
+		<term name="Home and outpatient care"/>
+		<term name="Long-term, rehabilitative, and terminal care"/>
+		<term name="Medicaid"/>
+		<term name="Medical education"/>
+		<term name="Medical research"/>
+		<term name="Medicare"/>
+		<term name="Mental health"/>
+		<term name="National Institutes of Health (NIH)"/>
+		<term name="Nursing"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+		<term name="Unemployment"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/14/2009--Introduced.<br/>Retooling the Health Care Workforce for an Aging America Act of 2009 - Amends the Public Health Service Act to require the Secretary of Health and Human Services to expand training for health professionals in the fields of geriatrics, long-term care, and chronic care management. Requires an analysis of the health and long-term care workforce.<br/>Amends the Workforce Investment Act of 1998 to provide for information to adults and dislocated workers about health care and long-term care occupations. Provides for information to veterans about training, internship, and employment opportunities in geriatrics, gerontology, and long-term care. Amends the Older Americans Act of 1965 to require the Assistant Secretary for Aging to: (1) develop family caregiver training materials; and (2) provide for the establishment and operation of a National Resource Center on Volunteers, Students, and Seniors to promote partnerships between entities in the aging network and institutions of higher education and secondary schools, and to encourage projects that involve underserved communities. Requires the Secretary to: (1) provide for the development of core training competencies for personal or home care aides and additional training content for nurse aides and home health aides; and (2) establish a panel of long-term care workforce experts.<br/>Provides for the development of information and referral protocols for family caregivers of Medicare beneficiaries.<br/>Amends title XIX (Medicaid) of the Social Security Act to provide for coverage of assessments of family caregiver support needs.<br/>Provides for studies on: (1) the mental health workforce; (2) the aging network's capacity to meet current and future needs; (3) retention and tenure of nurse aides and home health aides; and (4) spending by the National Institutes of Health (NIH) on conditions and illnesses that disproportionately impact the health of older individuals.<br/>
+	</summary>
+</bill>

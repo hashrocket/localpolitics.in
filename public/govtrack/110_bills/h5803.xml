@@ -1,0 +1,40 @@
+<bill session="110" type="h" number="5803" updated="2009-01-09T04:52:59-05:00">
+	<status><vote date="1216158480" datetime="2008-07-15T18:48:00-04:00" where="h" result="fail" how="roll" roll="493"/></status>
+
+	<introduced date="1208232000" datetime="2008-04-15"/>
+	<titles>
+		<title type="official" as="introduced">To direct the Election Assistance Commission to establish a program to make grants to participating States and units of local government which will administer the regularly scheduled general election for Federal office held in November 2008 for carrying out a program to make backup paper ballots available in the case of the failure of a voting system or voting equipment in the election or some other emergency situation, and for other purposes.</title>
+	</titles>
+	<sponsor id="400245"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1208232000" datetime="2008-04-15"><text>Referred to the House Committee on House Administration.</text></action>
+		<action date="1210132800" datetime="2008-05-07"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1210132800" datetime="2008-05-07" ><text>Ordered to be Reported (Amended) by the Yeas and Nays: 5 - 3.</text></calendar>
+		<action date="1210868940" datetime="2008-05-15T13:29:00-04:00"><text>Reported by the Committee on House Administration. H. Rept. 110-637.</text></action>
+		<calendar number="398" date="1210869000" datetime="2008-05-15T13:30:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 398.</text></calendar>
+		<action date="1216152360" datetime="2008-07-15T17:06:00-04:00"><text>Ms. Lofgren, Zoe moved to suspend the rules and pass the bill.</text></action>
+		<action date="1216152360" datetime="2008-07-15T17:06:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6536-6541"/><reference label="text of measure as reported in House" ref="CR H6536"/></action>
+		<action date="1216152360" datetime="2008-07-15T17:06:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5803.</text></action>
+		<action date="1216154400" datetime="2008-07-15T17:40:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1216158000" datetime="2008-07-15T18:40:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6545"/></action>
+		<vote date="1216158480" how="roll" roll="493" datetime="2008-07-15T18:48:00-04:00" where="h" type="vote" suspension="1" result="fail" ><text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 248 - 170 (Roll no. 493).</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/15/2008--Reported to House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Directs the Election Assistance Commission to make a grant to each participating state and unit of local government for carrying out a program to make backup paper ballots available in the case of the failure of a voting system or voting equipment or some other emergency situation in the administration of the regularly scheduled federal general election held in November 2008. 
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="110" type="sr" number="112" updated="2009-01-09T20:12:26-05:00">
+	<status><vote date="1176782400" datetime="2007-04-17" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1174363200" datetime="2007-03-20"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating April 6, 2007, as &quot;National Missing Persons Day&quot;.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="300030" joined="2007-03-20"/>
+		<cosponsor id="300038" joined="2007-04-10"/>
+		<cosponsor id="300043" joined="2007-03-27"/>
+	</cosponsors>
+	<actions>
+		<action date="1174363200" datetime="2007-03-20"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S3394-3395"/></action>
+		<calendar date="1176350400" datetime="2007-04-12" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1176350400" datetime="2007-04-12"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="115" date="1176350400" datetime="2007-04-12" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 115.</text></calendar>
+		<vote date="1176782400" how="by Unanimous Consent" datetime="2007-04-17" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S4621-4622"/><reference label="text as passed Senate" ref="CR S4622"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/17/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Designates April 6, 2007, as National Missing Persons Day.<br/>
+	</summary>
+</bill>

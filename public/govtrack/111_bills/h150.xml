@@ -1,0 +1,46 @@
+<bill session="111" type="h" number="150" updated="2009-03-07T10:05:24-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Illegal Alien Crime Reporting Act of 2009</title>
+		<title type="official" as="introduced">To make payments by the Department of Homeland Security to a State contingent on a State providing the Federal Bureau of Investigation with certain statistics, to require Federal agencies, departments, and courts to provide such statistics to the Federal Bureau of Investigation, and to require the Federal Bureau of Investigation to publish such statistics.</title>
+	</titles>
+	<sponsor id="400209"/>
+	<cosponsors>
+		<cosponsor id="400570" joined="2009-01-21"/>
+		<cosponsor id="400288" joined="2009-01-21"/>
+		<cosponsor id="400055" joined="2009-01-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Judiciary</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Homeland Security</text></action>
+		<action date="1233810000" datetime="2009-02-05"><committee name="House Homeland Security"/><text>Referred to the Subcommittee on Management, Investigations, and Oversight.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security" activity="Referral" />
+		<committee name="House Homeland Security" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Homeland Security" subcommittee="Management, Investigations, and Oversight" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Border security and unlawful immigration"/>
+		<term name="Census and government statistics"/>
+		<term name="Criminal justice information and records"/>
+		<term name="Government information and archives"/>
+		<term name="Law enforcement administration and funding"/>
+		<term name="State and local government operations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Illegal Alien Crime Reporting Act of 2009 - Prohibits a state or political subdivision thereof from receiving funds under any program or activity administered by the Department of Homeland Security (DHS) unless the state: (1) compiles statistics on each person who is arrested, charged with a crime, convicted, or incarcerated after being convicted of a crime by the state or political subdivision, including each person's crime, immigration status, and country of origin; (2) reports such statistics monthly to the Federal Bureau of Investigation (FBI); and (3) certifies compliance with these requirements monthly to the Secretary of Homeland Security. Requires each federal agency to: (1) compile such statistics for any person it arrests, charges, prosecutes to conviction, or incarcerates after conviction of a crime; and (2) report such statistics monthly to the FBI. Directs the FBI to publish all statistics reported under this Act annually as a separate data collection of the FBI's Uniform Crime Reports.<br/>
+	</summary>
+</bill>

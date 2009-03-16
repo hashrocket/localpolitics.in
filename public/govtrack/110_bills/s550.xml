@@ -1,0 +1,50 @@
+<bill session="110" type="s" number="550" updated="2009-01-09T12:19:59-05:00">
+	<status><enacted date="1208491200" datetime="2008-04-18" /></status>
+
+	<introduced date="1171256400" datetime="2007-02-12"/>
+	<titles>
+		<title type="official" as="introduced">A bill to preserve existing judgeships on the Superior Court of the District of Columbia.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+		<cosponsor id="300098" joined="2007-02-12"/>
+		<cosponsor id="300067" joined="2007-02-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1171256400" datetime="2007-02-12"><text>Sponsor introductory remarks on measure. (CR S1854)</text></action>
+		<action date="1171256400" datetime="2007-02-12"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text><reference label="text of measure as introduced" ref="CR S1854"/></action>
+		<calendar date="1171515600" datetime="2007-02-15" ><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1199768400" datetime="2008-01-08"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman under authority of the order of the Senate of 12/19/2007 without amendment. With written report No. 110-256.</text></action>
+		<calendar under="General Orders" number="556" date="1199768400" datetime="2008-01-08" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 556.</text></calendar>
+		<vote date="1202101200" how="by Unanimous Consent" datetime="2008-02-04" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S609"/><reference label="text as passed Senate" ref="CR S609"/></vote>
+		<action date="1202187600" datetime="2008-02-05"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1202321400" datetime="2008-02-06T14:10:00-05:00"><text>Received in the House.</text></action>
+		<action date="1202274000" datetime="2008-02-06"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1205121600" datetime="2008-03-10"><text>Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia.</text></action>
+		<action date="1205380800" datetime="2008-03-13"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1205380800" datetime="2008-03-13" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1207071060" datetime="2008-04-01T14:31:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text></action>
+		<action date="1207071060" datetime="2008-04-01T14:31:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H1853-1854"/></action>
+		<action date="1207071060" datetime="2008-04-01T14:31:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 550.</text></action>
+		<vote date="1207071660" how="by voice vote" datetime="2008-04-01T14:41:00-04:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H1853"/></vote>
+		<topresident date="1207022400" datetime="2008-04-01" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1207800000" datetime="2008-04-10" ><text>Presented to President.</text></topresident>
+		<signed date="1208491200" datetime="2008-04-18" ><text>Signed by President.</text></signed>
+		<enacted number="110-201" date="1208491200" datetime="2008-04-18" type="public" ><text>Became Public Law No: 110-201.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/18/2008--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends the District of Columbia Code to increase from 58 to 61 the number of associate judges on the Superior Court of the District of Columbia.<br/>
+	</summary>
+</bill>

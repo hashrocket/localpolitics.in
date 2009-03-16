@@ -1,0 +1,44 @@
+<bill session="110" type="s" number="2085" updated="2009-01-09T16:10:09-05:00">
+	<status><vote date="1190692800" datetime="2007-09-25" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1190347200" datetime="2007-09-21"/>
+	<titles>
+		<title type="short" as="introduced">Patient and Pharmacy Protection Act of 2007</title>
+		<title type="short" as="passed senate">Patient and Pharmacy Protection Act of 2007</title>
+		<title type="official" as="introduced">A bill to delay for 6 months the requirement to use of tamper-resistant prescription pads under the Medicaid program.</title>
+	</titles>
+	<sponsor id="400050"/>
+	<cosponsors>
+		<cosponsor id="300025" joined="2007-09-26"/>
+		<cosponsor id="300098" joined="2007-09-21"/>
+		<cosponsor id="300024" joined="2007-09-25"/>
+		<cosponsor id="300038" joined="2007-09-24"/>
+		<cosponsor id="300054" joined="2007-09-25"/>
+		<cosponsor id="300027" joined="2007-09-25"/>
+		<cosponsor id="300076" joined="2007-09-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1190347200" datetime="2007-09-21"><text>Read twice and referred to the Committee on Finance.</text></action>
+		<action date="1190692800" datetime="2007-09-25"><text>Senate Committee on Finance discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S12076"/></action>
+		<vote date="1190692800" how="by Unanimous Consent" datetime="2007-09-25" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="text as passed Senate" ref="CR S12076"/></vote>
+		<action date="1190898180" datetime="2007-09-27T10:03:00-04:00"><text>Received in the House.</text></action>
+		<action date="1190865600" datetime="2007-09-27"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1190865600" datetime="2007-09-27"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action date="1194498000" datetime="2007-11-08"><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/25/2007--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Patient and Pharmacy Protection Act of 2007 - Amends the U.S. Troop Readiness, Veterans' Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007 to delay for six months, from September 30, 2007, through March 31, 2008, the effective date of the requirement to use tamper-resistant prescription pads under title XIX (Medicaid) of the Social Security Act to prescribe covered outpatient drugs.<br/>
+	</summary>
+</bill>

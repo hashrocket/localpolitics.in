@@ -1,0 +1,45 @@
+<bill session="110" type="h" number="5778" updated="2009-01-09T04:50:00-05:00">
+	<status><enacted date="1216094400" datetime="2008-07-15" /></status>
+
+	<introduced date="1207800000" datetime="2008-04-10"/>
+	<titles>
+		<title type="short" as="introduced">District of Columbia Water and Sewer Authority Independence Preservation Act</title>
+		<title type="short" as="passed house">District of Columbia Water and Sewer Authority Independence Preservation Act</title>
+		<title type="short" as="passed senate">District of Columbia Water and Sewer Authority Independence Preservation Act</title>
+		<title type="short" as="enacted">District of Columbia Water and Sewer Authority Independence Preservation Act</title>
+		<title type="official" as="introduced">To preserve the independence of the District of Columbia Water and Sewer Authority.</title>
+	</titles>
+	<sponsor id="400415"/>
+	<cosponsors>
+		<cosponsor id="400098" joined="2008-04-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1207800000" datetime="2008-04-10"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1213043940" datetime="2008-06-09T17:39:00-04:00"><text>Mr. Davis (IL) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1213043940" datetime="2008-06-09T17:39:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5084-5085"/></action>
+		<action date="1213043940" datetime="2008-06-09T17:39:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5778.</text></action>
+		<vote date="1213044300" how="by voice vote" datetime="2008-06-09T17:45:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H5084"/></vote>
+		<action date="1213070400" datetime="2008-06-10"><text>Received in the Senate, read twice.</text></action>
+		<vote date="1213588800" how="by Unanimous Consent" datetime="2008-06-16" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S5665-5666"/></vote>
+		<topresident date="1213588800" datetime="2008-06-16" ><text>Cleared for White House.</text></topresident>
+		<action date="1213675200" datetime="2008-06-17"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1215403200" datetime="2008-07-07" ><text>Presented to President.</text></topresident>
+		<signed date="1216094400" datetime="2008-07-15" ><text>Signed by President.</text></signed>
+		<enacted number="110-273" date="1216094400" datetime="2008-07-15" type="public" ><text>Became Public Law No: 110-273.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/16/2008--Public Law. (This measure has not been amended since it was passed by the House on June 9, 2008. The summary of that version is repeated here.) District of Columbia Water and Sewer Authority Independence Preservation Act - Amends the District of Columbia Home Rule Act to declare that the Chief Financial Officer of the District of Columbia does not have authority over the District of Columbia Water and Sewer Authority's personnel. Requires the financial management, personnel, and procurement functions and responsibilities of the District of Columbia Water and Sewer Authority to be: (1) established exclusively pursuant to rules and regulations adopted by its Board of Directors; and (2) consistent with the Water and Sewer Authority Establishment and Department of Public Works Reorganization Act of 1996, as in effect as of January 1, 2008. Repeals the amendment to the Water and Sewer Authority Establishment and Department of Public Works Reorganization Act of 1996 made by D.C. Act 17-172 (Jobs for D.C. Residents Amendment Act of 2007) that requires: (1) the Authority's General Manager to be a D.C. resident throughout his or her employment; (2) a 10-point preference be granted to a qualified D.C. resident applicant over a qualified non-resident applicant for all positions within the Authority; (3) all persons hired after the effective date of such Act to submit proof of residency; (5) an applicant claiming the hiring preference to agree in writing to maintain bona fide D.C. residency for a consecutive seven-year period; and (6) forfeiture of such employment if D.C. residency is not maintained.<br/>
+	</summary>
+</bill>

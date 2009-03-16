@@ -1,0 +1,34 @@
+<bill session="111" type="h" number="761" updated="2009-03-07T11:17:25-05:00">
+	<status><introduced date="1233118800" datetime="2009-01-28"/></status>
+
+	<introduced date="1233118800" datetime="2009-01-28"/>
+	<titles>
+		<title type="official" as="introduced">To amend title 38, United States Code, to provide for the eligibility of parents of certain deceased veterans for interment in national cemeteries.</title>
+	</titles>
+	<sponsor id="400140"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1233118800" datetime="2009-01-28"><text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Disability Assistance and Memorial Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Family relationships"/>
+		<term name="Military cemeteries and funerals"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/28/2009--Introduced.<br/>Authorizes the burial in a national cemetery of a parent of a deceased veteran who, at the time of the parent's death, does not have a spouse, surviving spouse, or child who has been interred, or who, if deceased, would be eligible to be interred, in a national cemetery.<br/>
+	</summary>
+</bill>

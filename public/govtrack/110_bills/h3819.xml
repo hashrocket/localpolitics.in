@@ -1,0 +1,94 @@
+<bill session="110" type="h" number="3819" updated="2009-01-09T00:51:30-05:00">
+	<status><vote date="1211404560" datetime="2008-05-21T18:16:00-04:00" where="h" result="pass" how="roll" roll="347"/></status>
+
+	<introduced date="1191988800" datetime="2007-10-10"/>
+	<titles>
+		<title type="short" as="introduced">Veterans Emergency Care Fairness Act of 2007</title>
+		<title type="short" as="reported to house">Veterans Emergency Care Fairness Act of 2007</title>
+		<title type="short" as="passed house">Veterans Emergency Care Fairness Act of 2008</title>
+		<title type="official" as="introduced">To amend title 38, United States Code, to require the Secretary of Veterans Affairs to reimburse veterans receiving emergency treatment in non-Department of Veterans Affairs facilities for such treatment until such veterans are transferred to Department facilities, and for other purposes.</title>
+	</titles>
+	<sponsor id="412229"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2008-01-29"/>
+		<cosponsor id="400290" joined="2008-02-12"/>
+		<cosponsor id="400279" joined="2008-01-22"/>
+		<cosponsor id="400133" joined="2008-02-14"/>
+		<cosponsor id="400199" joined="2008-02-06"/>
+		<cosponsor id="400155" joined="2008-02-12"/>
+		<cosponsor id="412234" joined="2008-01-28"/>
+		<cosponsor id="400424" joined="2008-04-23"/>
+		<cosponsor id="400313" joined="2008-02-06"/>
+		<cosponsor id="412215" joined="2008-01-23"/>
+		<cosponsor id="400379" joined="2008-02-06"/>
+		<cosponsor id="400630" joined="2008-02-14"/>
+		<cosponsor id="412231" joined="2008-01-17"/>
+		<cosponsor id="412208" joined="2008-02-21"/>
+		<cosponsor id="400373" joined="2008-04-08"/>
+		<cosponsor id="400316" joined="2008-01-28"/>
+		<cosponsor id="400663" joined="2008-01-29"/>
+		<cosponsor id="400352" joined="2008-01-28"/>
+		<cosponsor id="400339" joined="2008-01-23"/>
+		<cosponsor id="400640" joined="2008-03-03"/>
+		<cosponsor id="400082" joined="2008-03-05"/>
+		<cosponsor id="412187" joined="2008-04-03"/>
+		<cosponsor id="412223" joined="2008-02-06"/>
+		<cosponsor id="400051" joined="2008-05-14"/>
+		<cosponsor id="412205" joined="2008-01-29"/>
+		<cosponsor id="400259" joined="2008-04-30"/>
+		<cosponsor id="400140" joined="2008-02-07"/>
+		<cosponsor id="400378" joined="2008-02-21"/>
+		<cosponsor id="412232" joined="2008-02-21"/>
+		<cosponsor id="400153" joined="2008-02-06"/>
+		<cosponsor id="400643" joined="2008-03-04"/>
+		<cosponsor id="400056" joined="2008-05-15"/>
+		<cosponsor id="412010" joined="2008-01-28"/>
+		<cosponsor id="400284" joined="2008-02-06"/>
+		<cosponsor id="400266" joined="2008-03-04"/>
+		<cosponsor id="400193" joined="2008-02-27"/>
+		<cosponsor id="412196" joined="2008-04-29"/>
+		<cosponsor id="400415" joined="2008-05-13"/>
+		<cosponsor id="400244" joined="2008-02-25"/>
+		<cosponsor id="412236" joined="2008-02-07"/>
+		<cosponsor id="412228" joined="2008-01-28"/>
+		<cosponsor id="400043" joined="2008-02-25"/>
+		<cosponsor id="400185" joined="2007-11-06"/>
+		<cosponsor id="400042" joined="2008-02-07"/>
+		<cosponsor id="412219" joined="2008-03-10"/>
+		<cosponsor id="400024" joined="2008-05-01"/>
+		<cosponsor id="400345" joined="2008-04-16"/>
+		<cosponsor id="400100" joined="2008-04-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1191988800" datetime="2007-10-10"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1192420800" datetime="2007-10-15"><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1208923200" datetime="2008-04-23"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1208923200" datetime="2008-04-23"><text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text></action>
+		<action date="1209528000" datetime="2008-04-30"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1209528000" datetime="2008-04-30" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1210880520" datetime="2008-05-15T16:42:00-04:00"><text>Reported by the Committee on Veterans' Affairs. H. Rept. 110-638.</text></action>
+		<calendar number="399" date="1210880520" datetime="2008-05-15T16:42:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 399.</text></calendar>
+		<action date="1211301480" datetime="2008-05-20T13:38:00-04:00"><text>Mr. Filner moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1211301540" datetime="2008-05-20T13:39:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4190-4191"/></action>
+		<action date="1211301540" datetime="2008-05-20T13:39:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3819.</text></action>
+		<action date="1211302080" datetime="2008-05-20T13:48:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1211404140" datetime="2008-05-21T18:09:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4412"/></action>
+		<vote date="1211404560" how="roll" roll="347" datetime="2008-05-21T18:16:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 347). (text: CR 5/19/2008 H4190)</text></vote>
+		<action date="1211428800" datetime="2008-05-22"><text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/21/2008--Passed House amended. Veterans Emergency Care Fairness Act of 2008 - Requires (current law authorizes) the Secretary of Veterans Affairs to reimburse certain veterans without a service-connected disability enrolled as active participants of the Department of Veterans Affairs (VA) health care plan for the cost of emergency treatment received in a non-VA facility until such time as such veterans are transferred to a VA facility. Requires (current law authorizes) the Secretary to reimburse certain veterans with a service-connected disability or a non-service-connected disability associated with or aggravating a service-connected disability for the value of emergency treatment for which such veterans have made payment from sources other than the VA.<br/>
+	</summary>
+</bill>

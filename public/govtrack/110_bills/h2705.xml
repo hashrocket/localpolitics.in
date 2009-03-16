@@ -1,0 +1,42 @@
+<bill session="110" type="h" number="2705" updated="2009-01-08T22:28:45-05:00">
+	<status><vote date="1194973380" datetime="2007-11-13T13:03:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1181707200" datetime="2007-06-13"/>
+	<titles>
+		<title type="short" as="introduced">Compacts of Free Association Amendments Act of 2007</title>
+		<title type="short" as="passed house">Compacts of Free Association Amendments Act of 2007</title>
+		<title type="official" as="introduced">To amend the Compact of Free Association Amendments Act of 2003, and for other purposes.</title>
+	</titles>
+	<sponsor id="400073"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-06-13"/>
+		<cosponsor id="400128" joined="2007-06-13"/>
+		<cosponsor id="400662" joined="2007-06-13"/>
+		<cosponsor id="400371" joined="2007-10-24"/>
+	</cosponsors>
+	<actions>
+		<action date="1181707200" datetime="2007-06-13"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1193112000" datetime="2007-10-23"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1193112000" datetime="2007-10-23" ><text>Committee Agreed to Seek Consideration Under Suspension of the Rules, (Amended) by Unanimous Consent.</text></calendar>
+		<action date="1195015860" datetime="2007-11-13T12:51:00-05:00"><text>Mr. Faleomavaega moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1195015920" datetime="2007-11-13T12:52:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H13535-13538"/></action>
+		<action date="1195015920" datetime="2007-11-13T12:52:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2705.</text></action>
+		<vote date="1194973380" how="by voice vote" datetime="2007-11-13T13:03:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H13535-13537"/></vote>
+		<calendar under="General Orders" number="489" date="1195016400" datetime="2007-11-14" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 489.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/13/2007--Passed House amended. Compacts of Free Association Amendments Act of 2007 - Amends the Compact of Free Association Amendments Act of 2003 with respect to: (1) the provision of emergency and disaster assistance through the United States Agency for International Development (USAID) and the Federal Emergency Management Agency (FEMA) to the Federated States of Micronesia and the Republic of the Marshall Islands; (2) Palau; and (3) the continuation of legal services to the citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands residing in the United States (including territories and possessions). Authorizes the President to transfer on a grant basis to: (1) Turkey, the OLIVER HAZARD PERRY class guided missile frigates GEORGE PHILIP and SIDES; and (2) Lithuania, the OSPREY class minehunter coastal ships CORMORANT and KINGFISHER. Authorizes the President to transfer on a sale basis to: (1) Taiwan, the OSPREY class minehunter coastal ships ORIOLE and FALCON; and (2) Turkey, the OSPREY class minehunter coastal ship SHRIKE. States that: (1) the value of such vessels transferred on a grant basis shall not be counted against the aggregate value of excess defense articles transferred to countries in any fiscal year under the Foreign Assistance Act of 1961; (2) transfer costs shall be charged to the recipient; and (3) to the maximum extent practicable, the country to which a vessel is transferred shall have necessary vessel repair and refurbishment carried out at U.S. shipyards (including U.S. Navy shipyards). Terminates transfer authority two years after enactment of this Act. 
+	</summary>
+</bill>

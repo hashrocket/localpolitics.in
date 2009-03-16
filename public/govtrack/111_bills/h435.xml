@@ -1,0 +1,34 @@
+<bill session="111" type="h" number="435" updated="2009-03-07T10:38:50-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">Renewable Energy Production Tax Credit Extension Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide a 5-year extension of the credit for electricity produced from certain renewable resources.</title>
+	</titles>
+	<sponsor id="400323"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="h" number="451" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Alternative and renewable resources"/>
+		<term name="Electric power generation and transmission"/>
+		<term name="Income tax credits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Renewable Energy Production Tax Credit Extension Act of 2009 - Amends the Internal Revenue Code to extend for five years the tax credit for producing electricity from certain facilities using renewable resources.<br/>
+	</summary>
+</bill>

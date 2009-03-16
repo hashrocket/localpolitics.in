@@ -1,0 +1,53 @@
+<bill session="110" type="h" number="3540" updated="2009-01-09T00:18:22-05:00">
+	<status><vote date="1190659380" datetime="2007-09-24T15:43:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1190001600" datetime="2007-09-17"/>
+	<titles>
+		<title type="short" as="introduced">Federal Aviation Administration Extension Act of 2007</title>
+		<title type="short" as="reported to house">Federal Aviation Administration Extension Act of 2007</title>
+		<title type="short" as="passed house">Federal Aviation Administration Extension Act of 2007</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend the funding and expenditure authority of the Airport and Airway Trust Fund.</title>
+		<title type="official" as="amended by house">A bill to amend the Internal Revenue Code of 1986 to extend the funding and expenditure authority of the Airport and Airway Trust Fund, and for other purposes.</title>
+	</titles>
+	<sponsor id="400333"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1190001600" datetime="2007-09-17"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1190001600" datetime="2007-09-17"><text>Referred to House Ways and Means</text></action>
+		<action date="1190001600" datetime="2007-09-17"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action date="1190088000" datetime="2007-09-18"><committee name="House Ways and Means"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1190088000" datetime="2007-09-18" ><committee name="House Ways and Means"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1190088000" datetime="2007-09-18"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Aviation.</text></action>
+		<action date="1190309700" datetime="2007-09-20T14:35:00-04:00"><text>Reported by the Committee on Ways and Means. H. Rept. 110-337, Part I.</text></action>
+		<action date="1190309760" datetime="2007-09-20T14:36:00-04:00"><text>Committee on Transportation discharged.</text></action>
+		<calendar number="209" date="1190309760" datetime="2007-09-20T14:36:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 209.</text></calendar>
+		<action date="1190658720" datetime="2007-09-24T15:32:00-04:00"><text>Mr. Levin moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1190658780" datetime="2007-09-24T15:33:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H10718-10720"/></action>
+		<action date="1190658780" datetime="2007-09-24T15:33:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3540.</text></action>
+		<vote date="1190659380" how="by voice vote" datetime="2007-09-24T15:43:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H10718"/></vote>
+		<action date="1190692800" datetime="2007-09-25"><text>Received in the Senate.</text></action>
+		<action date="1191470400" datetime="2007-10-04"><text>Read twice and referred to the Committee on Finance.</text></action>
+		<action date="1204174800" datetime="2008-02-28"><committee name="House Transportation and Infrastructure"/><text>Provisions extending the AIP program and tax authority from October 1, 2007 through December 31, 2007 were included in Section 148 and 149 of H.J.Res. 52 (Public Law 110-92), as subsequently extended by Section 101 of H.R.3222, H.J.Res.69 (Public Law 110-137), and H.J.Res.72 (Public Law 110-149).</text></action>
+		<action date="1204174800" datetime="2008-02-28"><committee name="House Transportation and Infrastructure"/><text>Provisions extending tax authority from December 31, 2007 through February 29, 2008 were included in Section 116 of H.R.2764 (Public Law 110-161).</text></action>
+		<action date="1204174800" datetime="2008-02-28"><committee name="House Transportation and Infrastructure"/><text>Provisions extending both the AIP program and tax authority from February 29, 2008 through June 30, 2008 were included in H.R.5270 (Public Law 110-190).</text></action>
+		<action date="1205208000" datetime="2008-03-11"><committee name="House Transportation and Infrastructure"/><text>For Further Action See H.R.5270.</text></action>
+		<action date="1215489600" datetime="2008-07-08"><text>Provisions extending both the AIP program and tax authority from July 1, 2008 through September 30, 2008 were included in H.R. 6327 (P.L. 110-253)</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/24/2007--Passed House amended. Federal Aviation Administration Extension Act of 2007 - Amends the Internal Revenue Code to extend through December 31, 2007: (1) the excise taxes on aviation fuels and air transportation of persons and property for funding the Airport and Airway Trust Fund; and (2) the expenditure authority for such Trust Fund.<br/>Amends federal transportation law to extend funding through December 31, 2007, for: (1) grants for airport planning and development and airport noise compatibility planning and programs; (2) operating expenses of the Federal Aviation Administration; (3) air navigation facilities; and (4) civil aviation research and development activities.<br/>Extends through December 31, 2007, the authority of the Secretary of Transportation to: (1) incur obligations to make project grants for public-use airports; and (2) limit the liability of air carriers to third parties for claims arising out of acts of terrorism.<br/>
+	</summary>
+</bill>

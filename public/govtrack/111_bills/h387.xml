@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="387" updated="2009-03-07T10:33:07-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="short" as="introduced">TARP Accountability Act of 2009</title>
+		<title type="official" as="introduced">To amend the Federal Deposit Insurance Act to require each insured depository institution which receives an investment or other assistance under the Troubled Assets Relief Program to include in the quarterly call report the amount of any increase in new lending that is attributable to such investment or assistance, and for other purposes.</title>
+	</titles>
+	<sponsor id="400235"/>
+	<cosponsors>
+		<cosponsor id="400653" joined="2009-01-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Bank accounts, deposits, capital"/>
+		<term name="Business records"/>
+		<term name="Consumer credit"/>
+		<term name="Financial crises and failures"/>
+		<term name="Government information and archives"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>TARP Accountability Act of 2009 - Amends the Federal Deposit Insurance Act (FDIA) to require inclusion within each report of condition filed by an insured depository institution which received assistance under the Troubled Assets Relief Program (TARP) the amount of any increase in new lending during the period covered by the report (or the amount of any reduction in any decrease in new lending) that is attributable to TARP assistance. Requires, in the alternative, that if the institution cannot accurately quantify the effect such assistance has had on new lending, then it report the total amount of the increase in new lending, if any, during the covered period.<br/>
+	</summary>
+</bill>

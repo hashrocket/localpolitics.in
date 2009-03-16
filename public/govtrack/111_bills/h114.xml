@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="114" updated="2009-03-07T10:01:07-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Veterans Entrepreneurial Transition Business Benefit Act</title>
+		<title type="official" as="introduced">To allow veterans to elect to use, with the approval of the Secretary of Veterans Affairs, certain financial educational assistance to establish and operate certain business, and for other purposes.</title>
+	</titles>
+	<sponsor id="400640"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Subcommittee on Economic Opportunity.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Veterans' Affairs" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Small business"/>
+		<term name="Veterans' education, employment, rehabilitation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Veterans Entrepreneurial Transition Business Benefit Act - Allows a veteran who is eligible to receive financial educational assistance under the Montgomery GI Bill to elect to use (with the approval of the Secretary of Veterans Affairs) any such assistance to establish and operate a business that the veteran will own and operate as his or her primary source of income.<br/>
+	</summary>
+</bill>

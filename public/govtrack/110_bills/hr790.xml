@@ -1,0 +1,43 @@
+<bill session="110" type="hr" number="790" updated="2009-01-09T09:30:20-05:00">
+	<status><vote date="1203018600" datetime="2008-02-14T15:50:00-05:00" where="h" result="pass" how="roll" roll="66"/></status>
+
+	<introduced date="1193889600" datetime="2007-11-01"/>
+	<titles>
+		<title type="official" as="introduced">Commending the people of the State of Washington for showing their support for the needs of the State of Washington's veterans and encouraging residents of other States to pursue creative ways to show their own support for veterans.</title>
+	</titles>
+	<sponsor id="400011"/>
+	<cosponsors>
+		<cosponsor id="400659" joined="2007-11-01"/>
+		<cosponsor id="400660" joined="2007-11-01"/>
+		<cosponsor id="400379" joined="2007-11-01"/>
+		<cosponsor id="400262" joined="2007-11-01"/>
+		<cosponsor id="400232" joined="2007-11-01"/>
+		<cosponsor id="400193" joined="2007-11-01"/>
+		<cosponsor id="400171" joined="2007-11-01"/>
+		<cosponsor id="400109" joined="2007-11-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1193889600" datetime="2007-11-01"><text>Referred to the House Committee on Veterans' Affairs.</text></action>
+		<action date="1202938080" datetime="2008-02-13T17:28:00-05:00"><text>Mr. Rodriguez moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1202938080" datetime="2008-02-13T17:28:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H914-916"/></action>
+		<action date="1202938080" datetime="2008-02-13T17:28:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 790.</text></action>
+		<action date="1202938740" datetime="2008-02-13T17:39:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1203018180" datetime="2008-02-14T15:43:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H969"/></action>
+		<vote date="1203018600" how="roll" roll="66" datetime="2008-02-14T15:50:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 383 - 0 (Roll no. 66). (text: CR 2/13/2008 H914)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/14/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Commends the people of the state of Washington for showing their support for the needs of the state's veterans. Encourages residents of other states to pursue creative ways to show their own support for veterans.<br/>
+	</summary>
+</bill>

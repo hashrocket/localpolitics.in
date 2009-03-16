@@ -1,0 +1,36 @@
+<bill session="110" type="hr" number="877" updated="2009-01-09T09:41:18-05:00">
+	<status><vote date="1197992880" datetime="2007-12-18T11:48:00-05:00" where="h" result="pass" how="roll" roll="1175"/></status>
+
+	<introduced date="1197867600" datetime="2007-12-17"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the Senate amendment to the House amendment to the Senate amendment to the bill (H.R. 6) to move the United States toward greater energy independence and security, to increase the production of clean renewable fuels, to protect consumers, to increase the efficiency of products, buildings, and vehicles, to promote research on and deploy greenhouse gas capture and storage options, and to improve the energy performance of the Federal Government, and for other purposes.</title>
+	</titles>
+	<sponsor id="412239"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1197933000" datetime="2007-12-17T19:10:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-496, by Mr. Welch (VT).</text></action>
+		<action date="1197933000" datetime="2007-12-17T19:10:00-05:00"><text>Upon adoption of the resolution, it shall be in order to move to take from the Speaker's table, H.R. 6, with the Senate amendment to the House amendment to the Senate amendment, and to agree with the Senate amendment.</text></action>
+		<calendar date="1197933000" datetime="2007-12-17T19:10:00-05:00" ><text>Placed on the House Calendar, Calendar No. 173.</text></calendar>
+		<action date="1197988020" datetime="2007-12-18T10:27:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H16651-16658"/></action>
+		<action date="1197988080" datetime="2007-12-18T10:28:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 877.</text></action>
+		<action date="1197992460" datetime="2007-12-18T11:41:00-05:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 220 - 187 (Roll no. 1174).</text><reference label="consideration" ref="CR H16657-16658"/></action>
+		<vote date="1197992880" how="roll" roll="1175" datetime="2007-12-18T11:48:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 215 - 190 (Roll no. 1175).</text><reference label="text" ref="CR H16651"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/18/2007--Passed House without amendment. Sets forth the rule for consideration of the Senate amendment to H.R. 6 (Renewable Fuels, Consumer Protection, and Energy Efficiency Act of 2007). 
+	</summary>
+</bill>

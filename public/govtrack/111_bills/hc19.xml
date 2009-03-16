@@ -1,0 +1,39 @@
+<bill session="111" type="hc" number="19" updated="2009-03-07T09:27:13-05:00">
+	<status><introduced date="1231477200" datetime="2009-01-09"/></status>
+
+	<introduced date="1231477200" datetime="2009-01-09"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress that State and local governments should be supported for taking actions to discourage illegal immigration and that legislation should be enacted to ease the burden on State and local governments for taking such actions.</title>
+	</titles>
+	<sponsor id="400652"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to House Judiciary</text></action>
+		<action date="1231477200" datetime="2009-01-09"><text>Referred to House Homeland Security</text></action>
+		<action date="1234155600" datetime="2009-02-09"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" activity="Referral" />
+		<committee name="House Homeland Security" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Immigration"/>
+		<term name="Border security and unlawful immigration"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Law enforcement administration and funding"/>
+		<term name="State and local government operations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/9/2009--Introduced.<br/>Expresses the sense of Congress that: (1) state and local governments should be supported for taking actions to discourage illegal immigration; (2) current laws governing immigration enforcement should be enforced to the highest extent of the law; and (3) legislation to enhance border security and the enforcement of immigration laws should be passed quickly in order to ease the burden on state and local government agencies. 
+	</summary>
+</bill>

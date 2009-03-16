@@ -1,0 +1,94 @@
+<bill session="110" type="hc" number="195" updated="2009-01-08T15:51:45-05:00">
+	<status><vote2 date="1222488000" datetime="2008-09-27" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1185508800" datetime="2007-07-27"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress that a National Dysphagia Awareness Month should be established.</title>
+	</titles>
+	<sponsor id="400421"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2008-06-03"/>
+		<cosponsor id="400332" joined="2008-06-03"/>
+		<cosponsor id="400339" joined="2008-05-15"/>
+		<cosponsor id="400041" joined="2008-04-15"/>
+		<cosponsor id="400344" joined="2008-06-03"/>
+		<cosponsor id="400244" joined="2008-06-03"/>
+		<cosponsor id="412236" joined="2008-04-15"/>
+		<cosponsor id="400009" joined="2008-05-15"/>
+		<cosponsor id="400347" joined="2008-05-15"/>
+		<cosponsor id="400038" joined="2008-06-03"/>
+		<cosponsor id="400165" joined="2008-04-23"/>
+		<cosponsor id="400367" joined="2008-06-03"/>
+		<cosponsor id="400337" joined="2008-05-15"/>
+		<cosponsor id="400077" joined="2008-05-20"/>
+		<cosponsor id="412235" joined="2008-05-20"/>
+		<cosponsor id="400414" joined="2008-06-03"/>
+		<cosponsor id="412252" joined="2008-06-03"/>
+		<cosponsor id="400391" joined="2008-06-03"/>
+		<cosponsor id="412205" joined="2008-05-20"/>
+		<cosponsor id="400260" joined="2008-06-03"/>
+		<cosponsor id="400631" joined="2008-06-03"/>
+		<cosponsor id="400395" joined="2008-04-15"/>
+		<cosponsor id="400032" joined="2008-05-20"/>
+		<cosponsor id="400228" joined="2008-06-03"/>
+		<cosponsor id="400160" joined="2007-11-14"/>
+		<cosponsor id="400263" joined="2008-03-05"/>
+		<cosponsor id="400204" joined="2008-05-15"/>
+		<cosponsor id="409888" joined="2008-06-03"/>
+		<cosponsor id="400310" joined="2008-05-15"/>
+		<cosponsor id="400399" joined="2008-06-03"/>
+		<cosponsor id="400033" joined="2008-03-05"/>
+		<cosponsor id="412216" joined="2008-05-20"/>
+		<cosponsor id="400376" joined="2008-06-03"/>
+		<cosponsor id="400334" joined="2008-06-03"/>
+		<cosponsor id="400384" joined="2008-05-15"/>
+		<cosponsor id="400636" joined="2008-06-03"/>
+		<cosponsor id="400288" joined="2008-06-03"/>
+		<cosponsor id="400285" joined="2008-06-03"/>
+		<cosponsor id="400238" joined="2008-06-23"/>
+		<cosponsor id="400152" joined="2008-05-15"/>
+		<cosponsor id="400242" joined="2008-06-03"/>
+		<cosponsor id="400439" joined="2008-03-31"/>
+		<cosponsor id="400302" joined="2008-05-15"/>
+		<cosponsor id="400062" joined="2008-04-15"/>
+		<cosponsor id="400151" joined="2008-06-03"/>
+		<cosponsor id="400321" joined="2008-05-06"/>
+		<cosponsor id="400157" joined="2008-04-15"/>
+		<cosponsor id="400179" joined="2008-04-15"/>
+		<cosponsor id="400435" joined="2008-02-26"/>
+		<cosponsor id="400190" joined="2008-06-03"/>
+		<cosponsor id="400392" joined="2008-06-03"/>
+		<cosponsor id="400056" joined="2008-06-03"/>
+		<cosponsor id="400235" joined="2008-06-03"/>
+		<cosponsor id="400656" joined="2008-04-15"/>
+	</cosponsors>
+	<actions>
+		<action date="1185508800" datetime="2007-07-27"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<calendar date="1213243200" datetime="2008-06-12" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1214352120" datetime="2008-06-24T21:02:00-04:00"><text>Mr. Clay moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1214352120" datetime="2008-06-24T21:02:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5991-5992"/></action>
+		<action date="1214352120" datetime="2008-06-24T21:02:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 195.</text></action>
+		<action date="1214352420" datetime="2008-06-24T21:07:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Foxx objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1214499960" datetime="2008-06-26T14:06:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6121"/></action>
+		<vote date="1214499960" how="by voice vote" datetime="2008-06-26T14:06:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 6/24/2008 H5991)</text></vote>
+		<action date="1214539200" datetime="2008-06-27"><text>Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+		<action date="1222488000" datetime="2008-09-27"><text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S10020"/></action>
+		<vote date="1222488000" how="by Unanimous Consent" datetime="2008-09-27" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text></vote>
+		<action date="1222488000" datetime="2008-09-27"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/27/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Calls for establishment of a National Dysphagia Awareness Month.<br/>
+	</summary>
+</bill>

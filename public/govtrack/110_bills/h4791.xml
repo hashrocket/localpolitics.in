@@ -1,0 +1,45 @@
+<bill session="110" type="h" number="4791" updated="2009-01-09T02:54:41-05:00">
+	<status><vote date="1212519960" datetime="2008-06-03T16:06:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1197954000" datetime="2007-12-18"/>
+	<titles>
+		<title type="short" as="introduced">Federal Agency Data Protection Act</title>
+		<title type="short" as="reported to house">Federal Agency Data Protection Act</title>
+		<title type="short" as="passed house">Federal Agency Data Protection Act</title>
+		<title type="official" as="introduced">To amend title 44, United States Code, to strengthen requirements for ensuring the effectiveness of information security controls over information resources that support Federal operations and assets, and for other purposes.</title>
+	</titles>
+	<sponsor id="400074"/>
+	<cosponsors>
+		<cosponsor id="400409" joined="2007-12-18"/>
+		<cosponsor id="400425" joined="2007-12-18"/>
+	</cosponsors>
+	<actions>
+		<action date="1197954000" datetime="2007-12-18"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action date="1200459600" datetime="2008-01-16"><text>Referred to the Subcommittee on Information Policy, Census, and National Archives.</text></action>
+		<action date="1202965200" datetime="2008-02-14"><text>Subcommittee Hearings Held.</text></action>
+		<action date="1208318400" datetime="2008-04-16"><text>Subcommittee on Information Policy, Census, and National Archives Discharged.</text></action>
+		<calendar date="1208318400" datetime="2008-04-16" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1211403000" datetime="2008-05-21T17:50:00-04:00"><text>Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-664.</text></action>
+		<calendar number="417" date="1211403000" datetime="2008-05-21T17:50:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 417.</text></calendar>
+		<action date="1212519360" datetime="2008-06-03T15:56:00-04:00"><text>Mr. Clay moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1212519360" datetime="2008-06-03T15:56:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4853-4856"/></action>
+		<action date="1212519360" datetime="2008-06-03T15:56:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4791.</text></action>
+		<vote date="1212519960" how="by voice vote" datetime="2008-06-03T16:06:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H4853-4854"/></vote>
+		<action date="1212552000" datetime="2008-06-04"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/3/2008--Passed House amended. Federal Agency Data Protection Act - (Sec. 3) Defines &quot;personally identifiable information&quot; as any information about an individual maintained by a federal agency, including information about the individual's education, finances, medical, criminal, or employment history, that can be used to distinguish or trace such individual's identity or that is otherwise linked or linkable to the individual. (Sec. 4) Includes within the information security duties of the Director of the Office of Management and Budget (OMB): (1) reviewing agency information security programs, including plans and schedules, developed on the basis of priorities for addressing levels of identified risk, for conducting testing and evaluation and remedial action to address deficiencies; (2) establishing minimum requirements for the protection of personally identifiable information maintained in or transmitted by mobile digital devices, including requirements for the use of technologies that efficiently and effectively render information unusable by unauthorized persons; (3) requiring agencies to comply with minimally acceptable system configuration requirements consistent with best practices, including checklists developed under the Cyber Security Research and Development Act by the Director of the National Institute of Standards and Technology, and minimally acceptable requirements for periodic testing and evaluation of the implementation of such configuration requirements; (4) ensuring that agency contracts for the provision of information technology products or services include requirements for contractors to meet such configuration requirements; and (5) ensuring the establishment of contract requirements to ensure compliance with this Act with regard to providing security for information and information systems used or operated by an agency contractor or other organization on the agency's behalf.<br/>(Sec. 5) Requires agencies to include in their information security programs: (1) policies and procedures that ensure compliance with minimally acceptable system configuration requirements as required by the Director (currently, the agency); (2) periodic testing and evaluation of the effectiveness of information security policies, procedures, and practices as approved by the Director that include testing of systems operated by an agency contractor; and (3) plans and procedures for ensuring the adequacy of information security protections for systems maintaining or transmitting personally identifiable information, including requirements for maintaining a current inventory of such systems, implementing information security requirements for mobile digital devices maintaining or transmitting such information, and developing, implementing, and overseeing remediation plans to address vulnerabilities in information security protections. Allows testing requirements to be satisfied by independent testing, evaluation, or audits.<br/>(Sec. 6) Requires the Director to report to Congress on a summary of information security breaches reported by agencies to the Director and the federal information security incident center.<br/>Requires the Director to oversee the establishment of policies, procedures, and standards for agencies to follow in the event of a breach involving the disclosure of personally identifiable information, specifically including: (1) a requirement for timely notice to those individuals whose information could be compromised, except when the breach does not create a reasonable risk of identity theft, fraud, or other unlawful conduct or of other harm to the individual; (2) guidance regarding whether additional special actions are necessary and appropriate, including data breach analysis, fraud resolution services, identify theft insurance, and credit protection or monitoring services; and (3) a requirement for the timely reporting of such breaches to the Director and federal information security center.<br/>Requires agency heads to delegate to their Chief Information Officer the authority to ensure compliance and to enforce information security requirements, including developing and maintaining an inventory of personal computers laptops or hardware containing personally identifiable information.<br/>Requires agencies to include in their information security programs: (1) procedures for notifying individuals whose personally identifiable information may have been compromised or accessed following a breach; and (2) procedures for the timely reporting of breaches involving personally identifiable information.<br/>Includes among functions of Chief Human Capital Officers the prescription of policies and procedures for exit interviews of employees, including a full accounting of all federal personal property assigned. (Sec. 7) Requires agency heads to implement expeditiously and revise as necessary a plan to ensure the security and privacy of information collected or maintained by or on behalf of agencies from the risks posed by certain peer-to-peer file sharing programs. Requires the Comptroller General to review and report to specified congressional committees on the adequacy of such plans. (Sec. 8) Requires audits (currently, evaluations are required) of agency information programs and practices to determine whether information security controls are effective.<br/>(Sec. 9) Amends the E-Government Act of 2002 to require the Director to develop best practices for agencies to follow in conducting privacy impact assessments.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,30 @@
+<bill session="111" type="h" number="917" updated="2009-03-07T11:36:14-05:00">
+	<status><introduced date="1234155600" datetime="2009-02-09"/></status>
+
+	<introduced date="1234155600" datetime="2009-02-09"/>
+	<titles>
+		<title type="official" as="introduced">To increase the health benefits of dependents of members of the Armed Forces who die because of a combat-related injury.</title>
+	</titles>
+	<sponsor id="412278"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the House Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/9/2009--Introduced.<br/>Amends the TRICARE program (a Department of Defense [DOD] managed care program) to require that, when a member of the Armed Forces dies on or after September 11, 2001, because of a combat-related injury incurred while on active duty for a period of more than 30 days, the member's dependents receiving benefits under a contract for medical and dental care shall continue to be eligible for benefits under TRICARE Prime.<br/>
+	</summary>
+</bill>

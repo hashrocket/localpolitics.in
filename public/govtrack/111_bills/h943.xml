@@ -1,0 +1,53 @@
+<bill session="111" type="h" number="943" updated="2009-03-07T11:39:12-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="short" as="introduced">Truth in Accounting Act of 2009</title>
+		<title type="official" as="introduced">To amend title 31, United States Code, to require certain additional calculations to be included in the annual financial statement submitted under section 331(e) of that title, and for other purposes.</title>
+	</titles>
+	<sponsor id="412216"/>
+	<cosponsors>
+		<cosponsor id="400640" joined="2009-02-10"/>
+		<cosponsor id="400206" joined="2009-02-10"/>
+		<cosponsor id="400222" joined="2009-02-10"/>
+		<cosponsor id="412309" joined="2009-02-10"/>
+		<cosponsor id="412252" joined="2009-02-10"/>
+		<cosponsor id="400441" joined="2009-02-10"/>
+		<cosponsor id="400643" joined="2009-02-10"/>
+		<cosponsor id="412010" joined="2009-02-10"/>
+		<cosponsor id="400081" joined="2009-02-10"/>
+		<cosponsor id="400221" joined="2009-02-10"/>
+		<cosponsor id="412256" joined="2009-02-10"/>
+		<cosponsor id="400077" joined="2009-02-10"/>
+		<cosponsor id="400351" joined="2009-02-10"/>
+		<cosponsor id="400182" joined="2009-02-10"/>
+		<cosponsor id="400046" joined="2009-02-10"/>
+		<cosponsor id="400055" joined="2009-02-10"/>
+		<cosponsor id="412261" joined="2009-02-10"/>
+		<cosponsor id="400141" joined="2009-02-10"/>
+		<cosponsor id="412011" joined="2009-02-10"/>
+		<cosponsor id="412191" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to House Oversight and Government Reform</text></action>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to House Budget</text></action>
+	</actions>
+	<committees>
+		<committee name="House Oversight and Government Reform" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Budget" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

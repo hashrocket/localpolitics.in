@@ -1,0 +1,60 @@
+<bill session="110" type="sj" number="17" updated="2009-01-09T19:55:16-05:00">
+	<status><enacted date="1212465600" datetime="2008-06-03" /></status>
+
+	<introduced date="1186113600" datetime="2007-08-03"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution directing the United States to initiate international discussions and take necessary steps with other Nations to negotiate an agreement for managing migratory and transboundary fish stocks in the Arctic Ocean.</title>
+	</titles>
+	<sponsor id="300094"/>
+	<cosponsors>
+		<cosponsor id="300056" joined="2007-08-03"/>
+		<cosponsor id="300025" joined="2007-08-03"/>
+		<cosponsor id="300018" joined="2007-08-03"/>
+		<cosponsor id="300011" joined="2007-08-03"/>
+		<cosponsor id="300060" joined="2007-08-03"/>
+		<cosponsor id="300023" joined="2007-08-03"/>
+		<cosponsor id="300091" joined="2007-08-03"/>
+		<cosponsor id="300076" joined="2007-08-03"/>
+		<cosponsor id="300075" joined="2007-08-03"/>
+		<cosponsor id="300095" joined="2007-08-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1186113600" datetime="2007-08-03"><text>Sponsor introductory remarks on measure. (CR S10936)</text></action>
+		<action date="1186113600" datetime="2007-08-03"><text>Read twice and referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S10936-10937"/></action>
+		<action date="1188964800" datetime="2007-09-05"><text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text></action>
+		<action date="1188964800" datetime="2007-09-05"><text>Referred to the Committee on Commerce, Science, and Transportation.</text></action>
+		<calendar date="1190865600" datetime="2007-09-27" ><text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1191470400" datetime="2007-10-04"><text>Committee on Commerce, Science, and Transportation. Reported by Senator Inouye without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="407" date="1191470400" datetime="2007-10-04" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 407.</text></calendar>
+		<vote date="1191470400" how="by Unanimous Consent" datetime="2007-10-04" where="s" type="vote" result="pass" ><text>Passed Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S12826-12827"/><reference label="text as passed Senate" ref="CR S12827"/></vote>
+		<action date="1191556800" datetime="2007-10-05"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1191607380" datetime="2007-10-05T15:03:00-04:00"><text>Received in the House.</text></action>
+		<action date="1191556800" datetime="2007-10-05"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action date="1201064400" datetime="2008-01-23"><text>Referred to the Subcommittee on Fisheries, Wildlife, and Oceans.</text></action>
+		<action date="1211253420" datetime="2008-05-19T12:17:00-04:00"><text>Ms. Bordallo moved to suspend the rules and pass the resolution.</text></action>
+		<action date="1211253420" datetime="2008-05-19T12:17:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4067-4068"/></action>
+		<action date="1211253420" datetime="2008-05-19T12:17:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on S.J. Res. 17.</text></action>
+		<action date="1211253660" datetime="2008-05-19T12:21:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Issa objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action date="1211397660" datetime="2008-05-21T16:21:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H4402"/></action>
+		<vote date="1211397660" how="by voice vote" datetime="2008-05-21T16:21:00-04:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text:CR 5/19/2008 H4067-4068)</text></vote>
+		<topresident date="1211342400" datetime="2008-05-21" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1211515200" datetime="2008-05-23" ><text>Presented to President.</text></topresident>
+		<signed date="1212465600" datetime="2008-06-03" ><text>Signed by President.</text></signed>
+		<enacted number="110-243" date="1212465600" datetime="2008-06-03" type="public" ><text>Became Public Law No: 110-243.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/3/2008--Public Law. (This measure has not been amended since it was introduced. The expanded summary of the Senate passed version is repeated here.) Declares that: (1) the United States should initiate discussions to negotiate international agreements for managing migratory, transboundary, and straddling fish stocks in the Arctic Ocean and establishing new international fisheries management organizations for the region; (2) such agreements should conform with the United Nations Fish Stocks Agreement and contain mechanisms for establishing elements necessary for sustaining future Arctic fish stocks; (3) as international fisheries agreements are negotiated and implemented, the United States should consult with the North Pacific Regional Fishery Management Council and Alaska Native subsistence communities of the Arctic; and (4) until the agreements come into force, the United States should support international efforts to halt the expansion of commercial fishing activities in the high seas of the Arctic Ocean.<br/>
+	</summary>
+</bill>

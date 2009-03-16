@@ -1,0 +1,92 @@
+<bill session="110" type="h" number="1469" updated="2009-01-08T19:54:57-05:00">
+	<status><vote date="1181067300" datetime="2007-06-05T15:15:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1173672000" datetime="2007-03-12"/>
+	<titles>
+		<title type="short" as="introduced">Senator Paul Simon Study Abroad Foundation Act of 2007</title>
+		<title type="short" as="reported to house">Senator Paul Simon Study Abroad Foundation Act of 2007</title>
+		<title type="short" as="passed house">Senator Paul Simon Study Abroad Foundation Act of 2007</title>
+		<title type="short" as="reported to senate">Senator Paul Simon Study Abroad Foundation Act of 2007</title>
+		<title type="official" as="introduced">To establish the Senator Paul Simon Study Abroad Foundation under the authorities of the Mutual Educational and Cultural Exchange Act of 1961.</title>
+	</titles>
+	<sponsor id="400231"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2007-04-16"/>
+		<cosponsor id="400199" joined="2007-04-16"/>
+		<cosponsor id="400263" joined="2007-03-30"/>
+		<cosponsor id="400080" joined="2007-05-08"/>
+		<cosponsor id="400162" joined="2007-03-28"/>
+		<cosponsor id="400282" joined="2007-04-20"/>
+		<cosponsor id="400122" joined="2007-03-23"/>
+		<cosponsor id="400430" joined="2007-03-26"/>
+		<cosponsor id="400170" joined="2007-03-23"/>
+		<cosponsor id="400443" joined="2007-05-01"/>
+		<cosponsor id="412215" joined="2007-05-08"/>
+		<cosponsor id="400344" joined="2007-03-12"/>
+		<cosponsor id="400423" joined="2007-03-23"/>
+		<cosponsor id="400260" joined="2007-05-08"/>
+		<cosponsor id="400040" joined="2007-03-30"/>
+		<cosponsor id="400184" joined="2007-03-23"/>
+		<cosponsor id="400152" joined="2007-05-01"/>
+		<cosponsor id="400262" joined="2007-03-23"/>
+		<cosponsor id="400373" joined="2007-03-23"/>
+		<cosponsor id="400437" joined="2007-03-26"/>
+		<cosponsor id="400312" joined="2007-03-23"/>
+		<cosponsor id="412198" joined="2007-03-30"/>
+		<cosponsor id="400402" joined="2007-05-08"/>
+		<cosponsor id="400331" joined="2007-04-16"/>
+		<cosponsor id="400082" joined="2007-03-26"/>
+		<cosponsor id="400121" joined="2007-05-08"/>
+		<cosponsor id="400001" joined="2007-04-16"/>
+		<cosponsor id="412211" joined="2007-04-20"/>
+		<cosponsor id="400259" joined="2007-03-23"/>
+		<cosponsor id="400383" joined="2007-03-28"/>
+		<cosponsor id="400378" joined="2007-04-16"/>
+		<cosponsor id="400360" joined="2007-04-16"/>
+		<cosponsor id="400107" joined="2007-03-23"/>
+		<cosponsor id="400284" joined="2007-05-08"/>
+		<cosponsor id="412186" joined="2007-03-27"/>
+		<cosponsor id="400283" joined="2007-03-28"/>
+		<cosponsor id="400204" joined="2007-03-23"/>
+		<cosponsor id="400033" joined="2007-03-23"/>
+		<cosponsor id="400363" joined="2007-03-26"/>
+		<cosponsor id="400025" joined="2007-03-23"/>
+		<cosponsor id="400345" joined="2007-04-20"/>
+		<cosponsor id="400114" joined="2007-05-01"/>
+		<cosponsor id="400425" joined="2007-05-08"/>
+		<cosponsor id="400100" joined="2007-03-26"/>
+		<cosponsor id="400186" joined="2007-03-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1173672000" datetime="2007-03-12"><text>Sponsor introductory remarks on measure. (CR E519)</text></action>
+		<action date="1173672000" datetime="2007-03-12"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1174968000" datetime="2007-03-27"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1174968000" datetime="2007-03-27" ><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action date="1178728560" datetime="2007-05-09T13:36:00-04:00"><text>Reported by the Committee on Foreign Affairs. H. Rept. 110-138.</text></action>
+		<calendar number="80" date="1178728560" datetime="2007-05-09T13:36:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 80.</text></calendar>
+		<action date="1181066700" datetime="2007-06-05T15:05:00-04:00"><text>Mr. Lantos moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1181066700" datetime="2007-06-05T15:05:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5944-5948"/></action>
+		<action date="1181066700" datetime="2007-06-05T15:05:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1469.</text></action>
+		<vote date="1181067300" how="by voice vote" datetime="2007-06-05T15:15:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H5944-5946"/></vote>
+		<action date="1181188800" datetime="2007-06-07"><text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text></action>
+		<action date="1184644800" datetime="2007-07-17"><text>Star Print ordered on the bill.</text></action>
+		<calendar date="1202878800" datetime="2008-02-13" ><text>Committee on Foreign Relations. Ordered to be reported with amendments favorably.</text></calendar>
+		<action date="1204606800" datetime="2008-03-04"><text>Committee on Foreign Relations. Reported by Senator Biden with amendments and an amendment to the title. With written report No. 110-272.</text></action>
+		<calendar under="General Orders" number="592" date="1204606800" datetime="2008-03-04" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 592.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/4/2008--Reported to Senate amended. Senator Paul Simon Study Abroad Foundation Act of 2007 - Establishes in the executive branch the Senator Paul Simon Study Abroad Foundation to carry out this Act. Requires the Foundation to award grants, increasingly for study in nontraditional study abroad destinations, to: (1) U.S. students; (2) nongovernmental institutions that provide and promote study abroad opportunities for U.S. students, in consortium with institutions of higher education (IHEs); and (3) IHEs, individually or in consortium. Expresses the sense of Congress that the Foundation should: (1) award up to 25% of such grants to such U.S. students and at least 75% of them to such institutions; and (2) ensure that at least 85% of the amount awarded to such institutions is used to award scholarships to students. Requires the Comptroller General, within two years after enactment of this Act, to review and report to the Secretary of State (in the capacity of the Secretary as Chairperson of the Board of the Foundation) and to specified congressional committees on the operations of the Foundation. Authorizes appropriations. States that such amounts are in addition to those authorized for educational exchange programs, including the J. William Fulbright Educational Exchange Program and the Benjamin A. Gilman International Scholarship Program, administered by the Bureau of Educational and Cultural Affairs of the Department of State.<br/>
+	</summary>
+</bill>

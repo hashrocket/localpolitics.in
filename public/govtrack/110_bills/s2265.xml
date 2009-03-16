@@ -1,0 +1,44 @@
+<bill session="110" type="s" number="2265" updated="2009-01-09T16:34:13-05:00">
+	<status><vote2 date="1194373860" datetime="2007-11-06T14:31:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1193716800" datetime="2007-10-30"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend the existing provisions regarding the eligibility for essential air service subsidies through fiscal year 2008.</title>
+		<title type="official" as="amended by house">An Act to extend the existing provisions regarding the eligibility for essential air service subsidies through fiscal year 2008, and for other purposes.</title>
+	</titles>
+	<sponsor id="400546"/>
+	<cosponsors>
+		<cosponsor id="400064" joined="2007-10-30"/>
+		<cosponsor id="300073" joined="2007-10-30"/>
+		<cosponsor id="300092" joined="2007-10-30"/>
+		<cosponsor id="412246" joined="2007-10-30"/>
+		<cosponsor id="300058" joined="2007-10-30"/>
+	</cosponsors>
+	<actions>
+		<vote date="1193716800" how="by Unanimous Consent" datetime="2007-10-30" where="s" type="vote" result="pass" ><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S13587"/><reference label="text as passed Senate" ref="CR S13587"/></vote>
+		<action date="1193841060" datetime="2007-10-31T11:31:00-04:00"><text>Received in the House.</text></action>
+		<action date="1193803200" datetime="2007-10-31"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1193803200" datetime="2007-10-31"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action date="1194373260" datetime="2007-11-06T14:21:00-05:00"><text>Mr. Costello moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1194373260" datetime="2007-11-06T14:21:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H12782-12783"/></action>
+		<action date="1194373260" datetime="2007-11-06T14:21:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 2265.</text></action>
+		<vote date="1194373860" how="by voice vote" datetime="2007-11-06T14:31:00-05:00" where="h" type="vote2" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H12782"/></vote>
+		<action date="1194373860" datetime="2007-11-06T14:31:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1194498000" datetime="2007-11-08"><text>Message on House action received in Senate and at desk: House amendments to Senate bill.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/6/2007--Passed House amended. Amends the Vision 100--Century of Aviation Reauthorization Act to extend through FY2008 the effectiveness of any final order of the Secretary of Transportation, including existing final orders, with respect to the eligibility for essential air service subsidies of any place in the United States based on highway mileage between it and the nearest medium hub airport or large hub airport. Amends federal transportation law to extend funding through December 31, 2007, for: (1) grants for airport planning and development and airport noise compatibility planning and programs; (2) operating expenses of the Federal Aviation Administration (FAA); (3) air navigation facilities; and (4) civil aviation research and development activities. Extends through December 31, 2007, the authority of the Secretary to: (1) incur obligations to make project grants for public-use airports; and (2) limit the liability of air carriers to third parties for claims arising out of acts of terrorism.<br/>
+	</summary>
+</bill>

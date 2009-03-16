@@ -1,0 +1,63 @@
+<bill session="110" type="h" number="2406" updated="2009-01-08T21:52:10-05:00">
+	<status><calendar date="1193198400" datetime="2007-10-24" /></status>
+
+	<introduced date="1179720000" datetime="2007-05-21"/>
+	<titles>
+		<title type="short" as="reported to house">Healthcare Information Technology Enterprise Integration Act</title>
+		<title type="official" as="introduced">To authorize the National Institute of Standards and Technology to increase its efforts in support of the integration of the healthcare information enterprise in the United States.</title>
+	</titles>
+	<sponsor id="400155"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-10-22"/>
+		<cosponsor id="400280" joined="2007-10-23"/>
+		<cosponsor id="400177" joined="2007-10-22"/>
+		<cosponsor id="400210" joined="2007-10-23"/>
+		<cosponsor id="400151" joined="2007-10-09"/>
+		<cosponsor id="400635" joined="2007-10-23"/>
+		<cosponsor id="400630" joined="2007-10-09"/>
+		<cosponsor id="400229" joined="2007-10-23"/>
+		<cosponsor id="412189" joined="2007-10-22"/>
+		<cosponsor id="400409" joined="2007-10-24"/>
+		<cosponsor id="400412" joined="2007-10-30"/>
+		<cosponsor id="400437" joined="2007-10-22"/>
+		<cosponsor id="412188" joined="2007-10-23"/>
+		<cosponsor id="412253" joined="2007-10-22"/>
+		<cosponsor id="400082" joined="2007-10-22"/>
+		<cosponsor id="412227" joined="2007-10-22"/>
+		<cosponsor id="412187" joined="2007-10-22"/>
+		<cosponsor id="400442" joined="2007-10-22"/>
+		<cosponsor id="400436" joined="2007-10-23"/>
+		<cosponsor id="400346" joined="2007-10-23"/>
+		<cosponsor id="412232" joined="2007-10-30"/>
+		<cosponsor id="400255" joined="2007-10-22"/>
+		<cosponsor id="400638" joined="2007-10-22"/>
+		<cosponsor id="412236" joined="2007-10-22"/>
+		<cosponsor id="400204" joined="2007-10-22"/>
+		<cosponsor id="400345" joined="2007-10-23"/>
+		<cosponsor id="400011" joined="2007-10-23"/>
+		<cosponsor id="400186" joined="2007-10-22"/>
+	</cosponsors>
+	<actions>
+		<action date="1179720000" datetime="2007-05-21"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1190779200" datetime="2007-09-26"><text>Committee Hearings Held.</text></action>
+		<action date="1193198400" datetime="2007-10-24"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1193198400" datetime="2007-10-24" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1195150920" datetime="2007-11-15T14:22:00-05:00"><text>Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-451.</text></action>
+		<calendar number="277" date="1195150980" datetime="2007-11-15T14:23:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 277.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/15/2007--Reported to House amended. Healthcare Information Technology Enterprise Integration Act - (Sec. 3) Requires the Director of the National Institute of Standards and Technology (NIST) to establish an initiative for advancing health care information enterprise integration within the United States. Authorizes the Director to focus on: (1) information technology standards and interoperability analysis; (2) supporting the establishment of conformance testing infrastructure; (3) security; (4) medical device communication; (5) supporting the provisioning of technical architecture products for management and retrieval; and (6) information management.<br/>Allows the Director to assist health care representatives and organizations and federal agencies in the development of technical roadmaps that identify the remaining steps needed to ensure that standards will be in place. Requires such roadmaps to rely upon voluntary consensus standards, where possible, consistent with federal technology transfer laws.<br/>(Sec. 4) Requires the Director to report on the development or adoption of technology-neutral information technology infrastructure guidelines and standards to enable federal agencies to effectively select and utilize health care information technologies in a manner that is: (1) sufficiently secure; (2) interoperable; and (3) inclusive of ongoing federal efforts that provide technical expertise to harmonize existing standards and assist in the development of interoperability specifications. Requires such guidelines and standards to: (1) promote the use by federal agencies of commercially available products; (2) develop uniform testing procedures suitable for determining product conformance; (3) support and promote the testing of electronic health care information technologies utilized by federal agencies; (4) provide protection and security profiles; (5) establish a core set of interoperability specifications in federal agency transactions; and (6) include validation criteria to enable federal agencies to select appropriate health care information technologies. Requires the Director to report on: (1) the level of interoperability and security of technologies for sharing health care information among federal agencies; and (2) federal agency problems and progress in ensuring interoperable and secure health care information systems and electronic health care records.<br/>(Sec. 5) Requires the Director to establish a program of assistance to institutions of higher education to establish multidisciplinary Centers for Healthcare Information Enterprise Integration in order to: (1) generate innovative approaches to health care information enterprise integration; and (2) develop and use information technologies and other complementary fields.<br/>Directs the National High-Performance Computing Program to coordinate federal research and development programs related to the development and deployment of health information technology.<br/>Requires the Director to establish a task force to develop a strategic plan, including recommendations for: (1) the development, adoption, and maintenance of terminologies and classifications; (2) gaining commitment of terminology and classification stakeholders to principles and guidelines for an open and transparent process to enable cost-effective interoperability and complete and accurate information; (3) the design of a centralized authority or governance model; and (4) U.S. participation in the International Health Terminology Standards Development Organization.<br/>(Sec. 6) Authorizes Appropriations for FY2009-FY2010.<br/>
+	</summary>
+</bill>

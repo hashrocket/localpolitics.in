@@ -1,0 +1,31 @@
+<bill session="111" type="h" number="932" updated="2009-03-07T11:37:56-05:00">
+	<status><introduced date="1234242000" datetime="2009-02-10"/></status>
+
+	<introduced date="1234242000" datetime="2009-02-10"/>
+	<titles>
+		<title type="short" as="introduced">Community Regeneration, Sustainability, and Innovation Act of 2009</title>
+		<title type="official" as="introduced">To authorize the Secretary of Housing and Urban Development to make grants and offer technical assistance to local governments and others to design and implement innovative policies, programs, and projects that address widespread property vacancy and abandonment, and for other purposes.</title>
+	</titles>
+	<sponsor id="400352"/>
+	<cosponsors>
+		<cosponsor id="400641" joined="2009-02-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1234242000" datetime="2009-02-10"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

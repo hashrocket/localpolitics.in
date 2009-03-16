@@ -1,0 +1,73 @@
+<bill session="110" type="hr" number="24" updated="2009-01-09T07:57:02-05:00">
+	<status><vote date="1170187620" datetime="2007-01-30T16:07:00-05:00" where="h" result="pass" how="roll" roll="62"/></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="official" as="introduced">Establishing the House Democracy Assistance Commission for the One Hundred Tenth Congress.</title>
+	</titles>
+	<sponsor id="400326"/>
+	<cosponsors>
+		<cosponsor id="400123" joined="2007-01-10"/>
+		<cosponsor id="400041" joined="2007-01-04"/>
+		<cosponsor id="400222" joined="2007-01-04"/>
+		<cosponsor id="400280" joined="2007-01-09"/>
+		<cosponsor id="400199" joined="2007-01-04"/>
+		<cosponsor id="400337" joined="2007-01-04"/>
+		<cosponsor id="400092" joined="2007-01-04"/>
+		<cosponsor id="400122" joined="2007-01-11"/>
+		<cosponsor id="400430" joined="2007-01-04"/>
+		<cosponsor id="400129" joined="2007-01-09"/>
+		<cosponsor id="400647" joined="2007-01-04"/>
+		<cosponsor id="400344" joined="2007-01-04"/>
+		<cosponsor id="400063" joined="2007-01-10"/>
+		<cosponsor id="400361" joined="2007-01-04"/>
+		<cosponsor id="400077" joined="2007-01-04"/>
+		<cosponsor id="400323" joined="2007-01-04"/>
+		<cosponsor id="400003" joined="2007-01-04"/>
+		<cosponsor id="400423" joined="2007-01-04"/>
+		<cosponsor id="400040" joined="2007-01-04"/>
+		<cosponsor id="400433" joined="2007-01-04"/>
+		<cosponsor id="400184" joined="2007-01-04"/>
+		<cosponsor id="400055" joined="2007-01-04"/>
+		<cosponsor id="400312" joined="2007-01-04"/>
+		<cosponsor id="400231" joined="2007-01-04"/>
+		<cosponsor id="400640" joined="2007-01-04"/>
+		<cosponsor id="400259" joined="2007-01-16"/>
+		<cosponsor id="400115" joined="2007-01-04"/>
+		<cosponsor id="400436" joined="2007-01-04"/>
+		<cosponsor id="400383" joined="2007-01-04"/>
+		<cosponsor id="400328" joined="2007-01-12"/>
+		<cosponsor id="400189" joined="2007-01-04"/>
+		<cosponsor id="412186" joined="2007-01-09"/>
+		<cosponsor id="400093" joined="2007-01-09"/>
+		<cosponsor id="400185" joined="2007-01-04"/>
+		<cosponsor id="400033" joined="2007-01-04"/>
+		<cosponsor id="400062" joined="2007-01-04"/>
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1169528400" datetime="2007-01-23"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1169528400" datetime="2007-01-23" ><text>Committee Agreed to Seek Consideration Under Suspension of the Rules, (Amended) by Unanimous Consent.</text></calendar>
+		<action date="1170218160" datetime="2007-01-30T12:36:00-05:00"><text>Mr. Lantos moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1170218220" datetime="2007-01-30T12:37:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H995-1000"/></action>
+		<action date="1170218220" datetime="2007-01-30T12:37:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 24.</text></action>
+		<action date="1170177240" datetime="2007-01-30T13:14:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1170187020" datetime="2007-01-30T15:57:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H1018-1019"/></action>
+		<vote date="1170187620" how="roll" roll="62" datetime="2007-01-30T16:07:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 62).</text><reference label="text" ref="CR H995-996"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/30/2007--Passed House amended. Establishes in the House of Representatives a House Democracy Assistance Commission to work with the parliaments of selected countries that have established or are developing democratic parliaments in order to: (1) enable House members, officers, staff, and congressional support agencies to provide advice and consultation to members and staff of the legislatures of partner countries; (2) enable members and staff of legislatures of partner countries to study the operations of the House and its support agencies; and (3) provide recommendations to the United States Agency for International Development (USAID) regarding the provision of needed material assistance to such parliaments to improve the efficiency and transparency of their work. Requires the Commission to report annually to the Speaker of the House, the Minority Leader of the House, appropriate House committees, the Office of Interparliamentary Affairs of the House of Representatives, and USAID. Authorizes the Commission to: (1) conduct studies on the feasibility of programs of assistance for select partner legislatures; and (2) continue programs of assistance with partner country legislatures initiated by the former House Democracy Assistance Commission. States that the Commission shall carry out its duties using the staff and resources of the Committee on International Relations, including the use of consultants or temporary employees. Authorizes the participation of House or congressional support agency personnel.<br/>
+	</summary>
+</bill>

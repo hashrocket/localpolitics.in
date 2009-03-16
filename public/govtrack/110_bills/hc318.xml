@@ -1,0 +1,79 @@
+<bill session="110" type="hc" number="318" updated="2009-01-08T16:06:49-05:00">
+	<status><vote2 date="1217563200" datetime="2008-08-01" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1205467200" datetime="2008-03-14"/>
+	<titles>
+		<title type="official" as="introduced">Supporting the goals and ideals of the International Year of Sanitation.</title>
+	</titles>
+	<sponsor id="400312"/>
+	<cosponsors>
+		<cosponsor id="400661" joined="2008-04-14"/>
+		<cosponsor id="400041" joined="2008-04-02"/>
+		<cosponsor id="400128" joined="2008-04-16"/>
+		<cosponsor id="412258" joined="2008-04-17"/>
+		<cosponsor id="400386" joined="2008-04-23"/>
+		<cosponsor id="400073" joined="2008-04-29"/>
+		<cosponsor id="400280" joined="2008-04-10"/>
+		<cosponsor id="400199" joined="2008-03-14"/>
+		<cosponsor id="400616" joined="2008-03-31"/>
+		<cosponsor id="400270" joined="2008-04-14"/>
+		<cosponsor id="400263" joined="2008-04-03"/>
+		<cosponsor id="400259" joined="2008-04-02"/>
+		<cosponsor id="400162" joined="2008-03-14"/>
+		<cosponsor id="400346" joined="2008-04-08"/>
+		<cosponsor id="400237" joined="2008-04-08"/>
+		<cosponsor id="400383" joined="2008-04-16"/>
+		<cosponsor id="400102" joined="2008-03-31"/>
+		<cosponsor id="400251" joined="2008-04-14"/>
+		<cosponsor id="400178" joined="2008-03-31"/>
+		<cosponsor id="400380" joined="2008-03-14"/>
+		<cosponsor id="400333" joined="2008-04-08"/>
+		<cosponsor id="400366" joined="2008-04-08"/>
+		<cosponsor id="412259" joined="2008-04-22"/>
+		<cosponsor id="400649" joined="2008-04-17"/>
+		<cosponsor id="400371" joined="2008-04-29"/>
+		<cosponsor id="400201" joined="2008-04-10"/>
+		<cosponsor id="400185" joined="2008-04-29"/>
+		<cosponsor id="400423" joined="2008-03-31"/>
+		<cosponsor id="400071" joined="2008-04-03"/>
+		<cosponsor id="400283" joined="2008-04-14"/>
+		<cosponsor id="400204" joined="2008-03-31"/>
+		<cosponsor id="400033" joined="2008-03-14"/>
+		<cosponsor id="400409" joined="2008-04-02"/>
+		<cosponsor id="400240" joined="2008-04-08"/>
+		<cosponsor id="400370" joined="2008-03-14"/>
+		<cosponsor id="400262" joined="2008-03-31"/>
+		<cosponsor id="400130" joined="2008-04-08"/>
+		<cosponsor id="400425" joined="2008-04-29"/>
+		<cosponsor id="400030" joined="2008-04-16"/>
+		<cosponsor id="400179" joined="2008-04-03"/>
+	</cosponsors>
+	<actions>
+		<action date="1205467200" datetime="2008-03-14"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action date="1209528000" datetime="2008-04-30"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1209528000" datetime="2008-04-30" ><text>Committee Agreed to Seek Consideration Under Suspension of the Rules, (Amended) by Unanimous Consent.</text></calendar>
+		<action date="1213116840" datetime="2008-06-10T13:54:00-04:00"><text>Mr. Payne moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1213116900" datetime="2008-06-10T13:55:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5145-5149"/></action>
+		<action date="1213118460" datetime="2008-06-10T14:21:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1213129440" datetime="2008-06-10T17:24:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5173"/></action>
+		<vote date="1213129920" how="roll" roll="395" datetime="2008-06-10T17:32:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0, 1 Present (Roll no. 395).</text><reference label="text" ref="CR H5145-5146"/></vote>
+		<calendar under="General Orders" number="775" date="1213156800" datetime="2008-06-11" calendar="Senate Legislative" ><text>Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 775.</text></calendar>
+		<vote date="1217563200" how="by Unanimous Consent" datetime="2008-08-01" where="s" type="vote2" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S8016"/></vote>
+		<action date="1217563200" datetime="2008-08-01"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/1/2008--Passed Senate without amendment. (This measure has not been amended since it was passed by the House on June 10, 2008. The summary of that version is repeated here.) Supports the goals and ideals of the International Year of Sanitation. Recognizes the importance of sanitation on public health, poverty reduction, economic and social development, and the environment. Encourages the people of the United States to observe the International Year of Sanitation with appropriate recognition and programs to demonstrate the importance of sanitation and hygiene in achieving the Millennium Development Goals, and to support developing countries in their efforts to achieve the Millennium Development Goal target on basic sanitation.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="110" type="hc" number="10" updated="2008-11-06T16:33:23-05:00">
+	<status><introduced date="1167886800" datetime="2007-01-04"/></status>
+
+	<introduced date="1167886800" datetime="2007-01-04"/>
+	<titles>
+		<title type="official" as="introduced">Expressing the sense of the Congress that the tax give away since 2001 to the wealthiest 5 percent of Americans should be repealed and those monies instead invested in vital programs to relieve the growing burden on the working poor and to alleviate poverty in America.</title>
+	</titles>
+	<sponsor id="400237"/>
+	<cosponsors>
+		<cosponsor id="400133" joined="2007-07-12"/>
+		<cosponsor id="400198" joined="2007-09-25"/>
+		<cosponsor id="400073" joined="2007-07-10"/>
+		<cosponsor id="400201" joined="2007-07-10"/>
+		<cosponsor id="400130" joined="2007-07-10"/>
+		<cosponsor id="400312" joined="2007-07-10"/>
+		<cosponsor id="412200" joined="2007-07-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1167886800" datetime="2007-01-04"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action date="1177560000" datetime="2007-04-26"><text>Sponsor introductory remarks on measure. (CR H4200)</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax"/>
+		<term name="Poverty"/>
+		<term name="Tax incidence"/>
+		<term name="Tax rates"/>
+		<term name="Welfare"/>
+		<term name="Working poor"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/4/2007--Introduced.<br/>Expresses the sense of Congress that the portion of tax cuts enacted in or after 2001 that benefits the wealthiest 5% of Americans should be repealed and the revenues from such repeal should be used to alleviate poverty in the United States.<br/>
+	</summary>
+</bill>

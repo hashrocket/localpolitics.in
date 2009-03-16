@@ -1,0 +1,38 @@
+<bill session="110" type="hr" number="263" updated="2009-01-09T08:26:01-05:00">
+	<status><vote date="1179240300" datetime="2007-05-15T11:45:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1174622400" datetime="2007-03-23"/>
+	<titles>
+		<title type="official" as="introduced">Recognizing National Foster Care Month as an opportunity for Congress to improve the foster care system throughout the United States.</title>
+	</titles>
+	<sponsor id="400065"/>
+	<cosponsors>
+		<cosponsor id="400361" joined="2007-04-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1174622400" datetime="2007-03-23"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1174622400" datetime="2007-03-23"><text>Referred to House Ways and Means</text></action>
+		<action date="1174622400" datetime="2007-03-23"><text>Referred to House Judiciary</text></action>
+		<action date="1177041600" datetime="2007-04-20"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.</text></action>
+		<action date="1179239160" datetime="2007-05-15T11:26:00-04:00"><text>Mr. McDermott moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action date="1179239220" datetime="2007-05-15T11:27:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H4982-4985"/></action>
+		<action date="1179239220" datetime="2007-05-15T11:27:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 263.</text></action>
+		<vote date="1179240300" how="by voice vote" datetime="2007-05-15T11:45:00-04:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H4982"/></vote>
+		<action date="1180411200" datetime="2007-05-29"><committee name="House Ways and Means"/><text>Referred to the Subcommittee on Income Security and Family Support.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/15/2007--Passed House amended. Provides that, in recognition of National Foster Care Month, and in order to improve the foster care system throughout the United States, it is the sense of the House of Representatives that Congress should ensure that improving the foster care system remains a top priority for both Congress and the Nation.<br/>
+	</summary>
+</bill>

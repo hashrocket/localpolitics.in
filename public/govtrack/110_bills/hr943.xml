@@ -1,0 +1,104 @@
+<bill session="110" type="hr" number="943" updated="2009-01-09T09:49:40-05:00">
+	<status><vote date="1202339340" datetime="2008-02-06T19:09:00-05:00" where="h" result="pass" how="roll" roll="31"/></status>
+
+	<introduced date="1201496400" datetime="2008-01-28"/>
+	<titles>
+		<title type="official" as="introduced">Remembering the space shuttle Challenger disaster and honoring its crew members, who lost their lives on January 28, 1986.</title>
+	</titles>
+	<sponsor id="412220"/>
+	<cosponsors>
+		<cosponsor id="400661" joined="2008-01-28"/>
+		<cosponsor id="400073" joined="2008-01-28"/>
+		<cosponsor id="400199" joined="2008-01-28"/>
+		<cosponsor id="400227" joined="2008-01-28"/>
+		<cosponsor id="400177" joined="2008-01-28"/>
+		<cosponsor id="400289" joined="2008-01-28"/>
+		<cosponsor id="400616" joined="2008-01-28"/>
+		<cosponsor id="400155" joined="2008-01-28"/>
+		<cosponsor id="400080" joined="2008-01-28"/>
+		<cosponsor id="400089" joined="2008-02-06"/>
+		<cosponsor id="400102" joined="2008-01-28"/>
+		<cosponsor id="412224" joined="2008-01-28"/>
+		<cosponsor id="412234" joined="2008-01-28"/>
+		<cosponsor id="412225" joined="2008-01-28"/>
+		<cosponsor id="400623" joined="2008-01-28"/>
+		<cosponsor id="400096" joined="2008-01-28"/>
+		<cosponsor id="400430" joined="2008-01-28"/>
+		<cosponsor id="412192" joined="2008-01-28"/>
+		<cosponsor id="400229" joined="2008-01-28"/>
+		<cosponsor id="412231" joined="2008-01-28"/>
+		<cosponsor id="400274" joined="2008-01-28"/>
+		<cosponsor id="412214" joined="2008-01-28"/>
+		<cosponsor id="400412" joined="2008-01-28"/>
+		<cosponsor id="400355" joined="2008-01-28"/>
+		<cosponsor id="400427" joined="2008-02-06"/>
+		<cosponsor id="412208" joined="2008-01-28"/>
+		<cosponsor id="400437" joined="2008-01-28"/>
+		<cosponsor id="412197" joined="2008-01-28"/>
+		<cosponsor id="412198" joined="2008-01-28"/>
+		<cosponsor id="412188" joined="2008-02-06"/>
+		<cosponsor id="400007" joined="2008-01-28"/>
+		<cosponsor id="400339" joined="2008-01-28"/>
+		<cosponsor id="412227" joined="2008-01-28"/>
+		<cosponsor id="412209" joined="2008-01-28"/>
+		<cosponsor id="400442" joined="2008-01-29"/>
+		<cosponsor id="412193" joined="2008-01-28"/>
+		<cosponsor id="412205" joined="2008-01-28"/>
+		<cosponsor id="400057" joined="2008-02-06"/>
+		<cosponsor id="400631" joined="2008-01-28"/>
+		<cosponsor id="400343" joined="2008-02-06"/>
+		<cosponsor id="400103" joined="2008-01-28"/>
+		<cosponsor id="400087" joined="2008-01-28"/>
+		<cosponsor id="400436" joined="2008-01-29"/>
+		<cosponsor id="412240" joined="2008-01-28"/>
+		<cosponsor id="412222" joined="2008-01-28"/>
+		<cosponsor id="412204" joined="2008-02-06"/>
+		<cosponsor id="400653" joined="2008-01-28"/>
+		<cosponsor id="400251" joined="2008-01-28"/>
+		<cosponsor id="400360" joined="2008-01-28"/>
+		<cosponsor id="400255" joined="2008-01-28"/>
+		<cosponsor id="412239" joined="2008-01-28"/>
+		<cosponsor id="400120" joined="2008-01-28"/>
+		<cosponsor id="400074" joined="2008-01-28"/>
+		<cosponsor id="400638" joined="2008-01-28"/>
+		<cosponsor id="412200" joined="2008-01-28"/>
+		<cosponsor id="400171" joined="2008-01-28"/>
+		<cosponsor id="412186" joined="2008-01-28"/>
+		<cosponsor id="400326" joined="2008-01-28"/>
+		<cosponsor id="412228" joined="2008-01-28"/>
+		<cosponsor id="400185" joined="2008-01-29"/>
+		<cosponsor id="400641" joined="2008-01-28"/>
+		<cosponsor id="400286" joined="2008-01-28"/>
+		<cosponsor id="400240" joined="2008-01-28"/>
+		<cosponsor id="400438" joined="2008-01-28"/>
+		<cosponsor id="412219" joined="2008-01-28"/>
+		<cosponsor id="400024" joined="2008-01-28"/>
+		<cosponsor id="400363" joined="2008-01-28"/>
+		<cosponsor id="400639" joined="2008-01-28"/>
+		<cosponsor id="400186" joined="2008-01-28"/>
+	</cosponsors>
+	<actions>
+		<action date="1201496400" datetime="2008-01-28"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1202324520" datetime="2008-02-06T15:02:00-05:00"><text>Mr. Melancon moved to suspend the rules and agree to the resolution.</text></action>
+		<action date="1202324580" datetime="2008-02-06T15:03:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H571-573"/></action>
+		<action date="1202324580" datetime="2008-02-06T15:03:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 943.</text></action>
+		<action date="1202325120" datetime="2008-02-06T15:12:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1202338920" datetime="2008-02-06T19:02:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H593"/></action>
+		<vote date="1202339340" how="roll" roll="31" datetime="2008-02-06T19:09:00-05:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 371 - 0 (Roll no. 31).</text><reference label="text" ref="CR H571"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/6/2008--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.)<br/>Honors the 22nd anniversary of the space shuttle Challenger disaster. Celebrates the courage and bravery of the crew of the Challenger, and Christa McAuliffe and her passion for encouraging America's children to pursue careers in science and mathematics.<br/>Commits the House of Representatives and the Nation to using the lessons learned in inquiries into the space shuttle Challenger accident to ensure that the space agency always operates on a strong and stable foundation.<br/>Recognizes the continued dedication of the United States to the goal of space exploration for the benefit of all mankind.<br/>
+	</summary>
+</bill>

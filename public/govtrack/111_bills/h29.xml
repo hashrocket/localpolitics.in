@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="29" updated="2009-03-07T09:51:11-05:00">
+	<status><introduced date="1231218000" datetime="2009-01-06"/></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Homeless Children and Youth Act of 2009</title>
+		<title type="official" as="introduced">To amend the definition of &quot;homeless person&quot; under the McKinney-Vento Homeless Assistance Act to include certain homeless children and youth.</title>
+	</titles>
+	<sponsor id="400027"/>
+	<cosponsors>
+		<cosponsor id="412258" joined="2009-01-06"/>
+		<cosponsor id="400257" joined="2009-01-06"/>
+		<cosponsor id="400633" joined="2009-01-06"/>
+		<cosponsor id="400179" joined="2009-01-06"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to the Committee on Financial Services, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Financial Services</text></action>
+		<action date="1231218000" datetime="2009-01-06"><text>Referred to House Education and Labor</text></action>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Housing and community development"/>
+		<term name="Child safety and welfare"/>
+		<term name="Homelessness and emergency shelter"/>
+		<term name="Poverty and welfare assistance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

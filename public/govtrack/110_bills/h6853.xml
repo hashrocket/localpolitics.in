@@ -1,0 +1,50 @@
+<bill session="110" type="h" number="6853" updated="2009-01-09T06:57:28-05:00">
+	<status><vote date="1222121520" datetime="2008-09-22T19:12:00-04:00" where="h" result="pass" how="roll" roll="618"/></status>
+
+	<introduced date="1220932800" datetime="2008-09-09"/>
+	<titles>
+		<title type="short" as="introduced">Nationwide Mortgage Fraud Task Force Act of 2008</title>
+		<title type="short" as="passed house">Nationwide Mortgage Fraud Coordinator Act of 2008</title>
+		<title type="official" as="introduced">To establish in the Federal Bureau of Investigation the Nationwide Mortgage Fraud Task Force to address mortgage fraud in the United States, and for other purposes.</title>
+		<title type="official" as="amended by house">A bill to establish in the Federal Bureau of Investigation the Nationwide Mortgage Fraud Coordinator to address mortgage fraud in the United States, and for other purposes.</title>
+	</titles>
+	<sponsor id="400270"/>
+	<cosponsors>
+		<cosponsor id="400623" joined="2008-09-16"/>
+		<cosponsor id="400170" joined="2008-09-16"/>
+		<cosponsor id="400344" joined="2008-09-16"/>
+		<cosponsor id="412198" joined="2008-09-17"/>
+		<cosponsor id="400212" joined="2008-09-16"/>
+		<cosponsor id="400051" joined="2008-09-16"/>
+		<cosponsor id="400178" joined="2008-09-16"/>
+		<cosponsor id="400107" joined="2008-09-16"/>
+		<cosponsor id="400024" joined="2008-09-22"/>
+		<cosponsor id="400108" joined="2008-09-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1220932800" datetime="2008-09-09"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1222103940" datetime="2008-09-22T14:19:00-04:00"><text>Ms. Sutton moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1222103940" datetime="2008-09-22T14:19:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H8517-8519"/></action>
+		<action date="1222103940" datetime="2008-09-22T14:19:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6853.</text></action>
+		<action date="1222104780" datetime="2008-09-22T14:33:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1222121100" datetime="2008-09-22T19:05:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H8545"/></action>
+		<vote date="1222121520" how="roll" roll="618" datetime="2008-09-22T19:12:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 23 (Roll no. 618).</text><reference label="text" ref="CR H8517-8518"/></vote>
+		<action date="1222121520" datetime="2008-09-22T19:12:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action date="1222142400" datetime="2008-09-23"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/22/2008--Passed House amended. Nationwide Mortgage Fraud Coordinator Act of 2008 - Requires the Director of the Federal Bureau of Investigation (FBI) to assign the Chief of its Financial Crimes Section, Criminal Investigative Division, to be the Nationwide Mortgage Fraud Coordinator, who shall oversee all FBI activities related to investigation of mortgage fraud. Directs the Coordinator to: (1) establish regional task forces, consisting of the voluntary participation of federal, state, and local law enforcement and prosecutorial agencies, to organize initiatives to address mortgage fraud; (2) train such agencies; (3) collect and disseminate mortgage fraud data; and (4) perform other related functions. Authorizes the Coordinator to: (1) establish a toll-free hotline and other information systems for receiving reports and informing the public about mortgage fraud; and (2) creating a database of mortgage industry license suspensions and revocations. Authorizes the Department of Justice, upon consideration of any recommendations by the Coordinator, to: (1) propose legislation to federal, state, and local legislative bodies to assist in the detection, investigation, and prosecution of mortgage fraud, including measures to address mortgage loan procedures and property appraiser practices; and (2) make recommendations to Congress as to the need for additional resources to combat mortgage fraud.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="110" type="hr" number="876" updated="2009-01-09T09:41:11-05:00">
+	<status><vote date="1198123620" datetime="2007-12-19T12:07:00-05:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced date="1197867600" datetime="2007-12-17"/>
+	<titles>
+		<title type="official" as="introduced">Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.</title>
+	</titles>
+	<sponsor id="412239"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1197932940" datetime="2007-12-17T19:09:00-05:00"><text>The House Committee on Rules reported an original measure, H. Rept. 110-495, by Mr. Welch (VT).</text></action>
+		<calendar date="1197933000" datetime="2007-12-17T19:10:00-05:00" ><text>Placed on the House Calendar, Calendar No. 172.</text></calendar>
+		<action date="1198079460" datetime="2007-12-19T11:51:00-05:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H16858-16860"/></action>
+		<action date="1198079460" datetime="2007-12-19T11:51:00-05:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 876.</text></action>
+		<action date="1198123620" datetime="2007-12-19T12:07:00-05:00"><text>The previous question was ordered without objection.</text><reference label="consideration" ref="CR H16860"/></action>
+		<vote date="1198123620" how="by voice vote" datetime="2007-12-19T12:07:00-05:00" where="h" type="vote" result="pass" ><text>On agreeing to the resolution Agreed to by voice vote.</text><reference label="text" ref="CR H16858"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/19/2007--Passed House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Waives a specified requirement of Rule XIII (Calendar and Committee Reports) to allow consideration of the following measures or an amendment to them on the same day they are presented to the House: (1) a bill relating to the Children's Health Insurance Program; (2) a bill relating to Medicare; (3) a bill relating to the alternative minimum tax; (4) a joint resolution making further continuing appropriations for FY2008; and (5) H.R. 2764 (Department of State, Foreign Operations, and Related Programs Appropriations Act, 2008).<br/>
+	</summary>
+</bill>

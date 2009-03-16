@@ -1,0 +1,34 @@
+<bill session="110" type="sr" number="540" updated="2009-01-09T21:05:50-05:00">
+	<status><vote date="1222142400" datetime="2008-09-23" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1209441600" datetime="2008-04-29"/>
+	<titles>
+		<title type="official" as="introduced">A resolution recognizing the historical significance of the sloop-of-war USS Constellation as a reminder of the participation of the United States in the transatlantic slave trade and of the efforts of the United States to end the slave trade.</title>
+	</titles>
+	<sponsor id="300073"/>
+	<cosponsors>
+		<cosponsor id="400064" joined="2008-04-29"/>
+	</cosponsors>
+	<actions>
+		<action date="1209441600" datetime="2008-04-29"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S3514-3515"/></action>
+		<calendar date="1221710400" datetime="2008-09-18" ><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1221710400" datetime="2008-09-18"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text></action>
+		<calendar under="General Orders" number="1030" date="1221710400" datetime="2008-09-18" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1030.</text></calendar>
+		<vote date="1222142400" how="by Unanimous Consent" datetime="2008-09-23" where="s" type="vote" result="pass" ><text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S9344-9345"/><reference label="text as passed Senate" ref="CR S9344-9345"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/23/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Recognizes the historical and educational significance of the USS Constellation, a 153-year-old warship berthed in Baltimore, Maryland, as a reminder of both the U.S. participation in the slave trade and U.S. government efforts to suppress the inhumane practice. Applauds the historic vessel's preservation and the efforts of the USS Constellation Museum to engage people from all over the world with this vital part of history. Supports the Constellation as an appropriate site to commemorate, in 2008, the bicentennial of the abolition of the transatlantic slave trade.<br/>
+	</summary>
+</bill>

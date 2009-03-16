@@ -1,0 +1,51 @@
+<bill session="110" type="h" number="1716" updated="2009-01-08T20:25:52-05:00">
+	<status><vote date="1181150220" datetime="2007-06-06T14:17:00-04:00" where="h" result="pass" how="roll" roll="432"/></status>
+
+	<introduced date="1174968000" datetime="2007-03-27"/>
+	<titles>
+		<title type="short" as="introduced">Green Energy Education Act of 2007</title>
+		<title type="short" as="passed house">Green Energy Education Act of 2007</title>
+		<title type="official" as="introduced">To authorize higher education curriculum development and graduate training in advanced energy and green building technologies.</title>
+	</titles>
+	<sponsor id="400654"/>
+	<cosponsors>
+		<cosponsor id="400177" joined="2007-03-27"/>
+		<cosponsor id="400027" joined="2007-03-29"/>
+		<cosponsor id="400149" joined="2007-05-01"/>
+		<cosponsor id="400647" joined="2007-03-27"/>
+		<cosponsor id="400260" joined="2007-03-27"/>
+		<cosponsor id="400119" joined="2007-03-27"/>
+		<cosponsor id="400204" joined="2007-06-05"/>
+		<cosponsor id="400157" joined="2007-05-01"/>
+	</cosponsors>
+	<actions>
+		<action date="1174968000" datetime="2007-03-27"><text>Referred to the House Committee on Science and Technology.</text></action>
+		<action date="1179892800" datetime="2007-05-23"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1179892800" datetime="2007-05-23" ><text>Ordered to be Reported (Amended).</text></calendar>
+		<action date="1181069220" datetime="2007-06-05T15:47:00-04:00"><text>Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-173.</text></action>
+		<calendar number="105" date="1181069220" datetime="2007-06-05T15:47:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 105.</text></calendar>
+		<action date="1181140860" datetime="2007-06-06T11:41:00-04:00"><text>Mr. Lipinski moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1181140860" datetime="2007-06-06T11:41:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6026-6027"/></action>
+		<action date="1181140860" datetime="2007-06-06T11:41:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1716.</text></action>
+		<action date="1181141340" datetime="2007-06-06T11:49:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action date="1181149740" datetime="2007-06-06T14:09:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H6046"/></action>
+		<vote date="1181150220" how="roll" roll="432" datetime="2007-06-06T14:17:00-04:00" where="h" type="vote" suspension="1" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 432).</text><reference label="text" ref="CR H6026"/></vote>
+		<action date="1181188800" datetime="2007-06-07"><text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text></action>
+		<action date="1184644800" datetime="2007-07-17"><text>Star Print ordered on the bill.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/6/2007--Passed House amended. Green Energy Education Act of 2007 - Authorizes the Secretary of Energy to contribute energy research and development funds to the National Science Foundation (NSF) for the Integrative Graduate Education and Research Traineeship program to support graduate education related to such energy projects.<br/>Authorizes the Secretary to contribute funds for advanced energy technology research and development for high performance buildings to the NSF for curriculum development to improve undergraduate or graduate interdisciplinary engineering and architecture education related to the design and construction of such buildings.<br/>
+	</summary>
+</bill>

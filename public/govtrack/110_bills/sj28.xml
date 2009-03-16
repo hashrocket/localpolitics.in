@@ -1,0 +1,64 @@
+<bill session="110" type="sj" number="28" updated="2009-01-09T19:56:35-05:00">
+	<status><vote date="1210824000" datetime="2008-05-15" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced date="1204693200" datetime="2008-03-05"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution disapproving the rule submitted by the Federal Communications Commission with respect to broadcast media ownership.</title>
+	</titles>
+	<sponsor id="300037"/>
+	<cosponsors>
+		<cosponsor id="300094" joined="2008-03-05"/>
+		<cosponsor id="300056" joined="2008-04-16"/>
+		<cosponsor id="300065" joined="2008-03-06"/>
+		<cosponsor id="400272" joined="2008-03-31"/>
+		<cosponsor id="300025" joined="2008-03-05"/>
+		<cosponsor id="300018" joined="2008-03-05"/>
+		<cosponsor id="300011" joined="2008-03-11"/>
+		<cosponsor id="300008" joined="2008-03-05"/>
+		<cosponsor id="300042" joined="2008-03-11"/>
+		<cosponsor id="300060" joined="2008-03-05"/>
+		<cosponsor id="300038" joined="2008-05-01"/>
+		<cosponsor id="300066" joined="2008-05-01"/>
+		<cosponsor id="300034" joined="2008-03-05"/>
+		<cosponsor id="412247" joined="2008-04-10"/>
+		<cosponsor id="300081" joined="2008-03-05"/>
+		<cosponsor id="300051" joined="2008-03-05"/>
+		<cosponsor id="400050" joined="2008-03-31"/>
+		<cosponsor id="300022" joined="2008-03-05"/>
+		<cosponsor id="300091" joined="2008-03-05"/>
+		<cosponsor id="412243" joined="2008-04-02"/>
+		<cosponsor id="300076" joined="2008-04-02"/>
+		<cosponsor id="300078" joined="2008-03-13"/>
+		<cosponsor id="400629" joined="2008-03-05"/>
+		<cosponsor id="400357" joined="2008-03-05"/>
+		<cosponsor id="300043" joined="2008-03-05"/>
+		<cosponsor id="412244" joined="2008-03-05"/>
+		<cosponsor id="300100" joined="2008-04-10"/>
+	</cosponsors>
+	<actions>
+		<action date="1204693200" datetime="2008-03-05"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+		<action date="1205208000" datetime="2008-03-11"><text>Sponsor introductory remarks on measure. (CR S1872)</text></action>
+		<calendar date="1209009600" datetime="2008-04-24" ><text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text></calendar>
+		<action date="1210219200" datetime="2008-05-08"><text>Committee on Commerce, Science, and Transportation. Reported by Senator Inouye without amendment. With written report No. 110-334.</text></action>
+		<calendar under="General Orders" number="731" date="1210219200" datetime="2008-05-08" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 731.</text></calendar>
+		<vote date="1210824000" how="by Voice Vote" datetime="2008-05-15" where="s" type="vote" result="pass" ><text>Passed Senate without amendment by Voice Vote.</text><reference label="consideration" ref="CR S4267-4270"/><reference label="text as passed Senate" ref="CR S4270"/></vote>
+		<action date="1210910400" datetime="2008-05-16"><text>Message on Senate action sent to the House.</text></action>
+		<action date="1211253000" datetime="2008-05-19T12:10:00-04:00"><text>Received in the House.</text></action>
+		<action date="1211219520" datetime="2008-05-19T14:52:00-04:00"><text>Held at the desk.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/15/2008--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Disapproves the rule submitted by the Federal Communications Commission (FCC) and received by Congress on February 22, 2008, relating to broadcast media ownership. Declares that the rule shall have no force or effect.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,83 @@
+<bill session="110" type="h" number="1119" updated="2009-01-08T19:10:53-05:00">
+	<status><enacted date="1209528000" datetime="2008-04-30" /></status>
+
+	<introduced date="1171602000" datetime="2007-02-16"/>
+	<titles>
+		<title type="short" as="introduced">Purple Heart Family Equity Act of 2007</title>
+		<title type="short" as="reported to house">Purple Heart Family Equity Act of 2007</title>
+		<title type="short" as="passed house">Purple Heart Family Equity Act of 2007</title>
+		<title type="short" as="passed senate">Purple Heart Family Equity Act of 2007</title>
+		<title type="short" as="enacted">Purple Heart Family Equity Act of 2007</title>
+		<title type="official" as="introduced">To amend title 36, United States Code, to revise the congressional charter of the Military Order of the Purple Heart of the United States of America, Incorporated, to authorize associate membership in the corporation for the spouse of a recipient of the Purple Heart medal.</title>
+		<title type="official" as="amended by house">A bill to amend title 36, United States Code, to revise the congressional charter of the Military Order of the Purple Heart of the United States of America, Incorporated, to authorize associate membership in the corporation for the spouse and siblings of a recipient of the Purple Heart medal.</title>
+	</titles>
+	<sponsor id="400097"/>
+	<cosponsors>
+		<cosponsor id="400620" joined="2007-02-16"/>
+		<cosponsor id="400034" joined="2007-02-16"/>
+		<cosponsor id="400257" joined="2007-02-16"/>
+		<cosponsor id="412215" joined="2007-03-01"/>
+		<cosponsor id="400063" joined="2007-02-16"/>
+		<cosponsor id="400361" joined="2007-02-16"/>
+		<cosponsor id="412217" joined="2007-02-16"/>
+		<cosponsor id="400630" joined="2007-02-16"/>
+		<cosponsor id="400260" joined="2007-03-19"/>
+		<cosponsor id="400396" joined="2007-02-16"/>
+		<cosponsor id="400640" joined="2007-02-16"/>
+		<cosponsor id="400347" joined="2007-05-03"/>
+		<cosponsor id="400048" joined="2007-02-16"/>
+		<cosponsor id="400087" joined="2007-02-16"/>
+		<cosponsor id="400013" joined="2007-03-01"/>
+		<cosponsor id="412204" joined="2007-02-16"/>
+		<cosponsor id="400195" joined="2007-03-19"/>
+		<cosponsor id="400251" joined="2007-02-16"/>
+		<cosponsor id="400211" joined="2007-02-16"/>
+		<cosponsor id="400643" joined="2007-02-16"/>
+		<cosponsor id="400056" joined="2007-02-16"/>
+		<cosponsor id="412200" joined="2007-03-01"/>
+		<cosponsor id="400185" joined="2007-02-16"/>
+		<cosponsor id="400286" joined="2007-03-22"/>
+		<cosponsor id="400208" joined="2007-02-16"/>
+		<cosponsor id="400654" joined="2007-03-12"/>
+		<cosponsor id="400025" joined="2007-02-16"/>
+		<cosponsor id="400394" joined="2007-02-16"/>
+	</cosponsors>
+	<actions>
+		<action date="1171602000" datetime="2007-02-16"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1171688400" datetime="2007-02-17"><text>Sponsor introductory remarks on measure. (CR E387-388)</text></action>
+		<action date="1174276800" datetime="2007-03-19"><text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text></action>
+		<action date="1185508800" datetime="2007-07-27"><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1185508800" datetime="2007-07-27"><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action date="1186027200" datetime="2007-08-02"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1186027200" datetime="2007-08-02" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1194359820" datetime="2007-11-06T10:37:00-05:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 110-428.</text></action>
+		<calendar number="269" date="1194360720" datetime="2007-11-06T10:52:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 269.</text></calendar>
+		<action date="1194411360" datetime="2007-11-06T12:56:00-05:00"><text>Ms. Lofgren, Zoe moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action date="1194411360" datetime="2007-11-06T12:56:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H12770-12771"/></action>
+		<action date="1194411360" datetime="2007-11-06T12:56:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1119.</text></action>
+		<vote date="1194368700" how="by voice vote" datetime="2007-11-06T13:05:00-05:00" where="h" type="vote" result="pass" ><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H12770"/></vote>
+		<action date="1194368760" datetime="2007-11-06T13:06:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<calendar under="General Orders" number="477" date="1194498000" datetime="2007-11-08" calendar="Senate Legislative" ><text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 477.</text></calendar>
+		<vote date="1208145600" how="by Unanimous Consent" datetime="2008-04-14" where="s" type="vote2" result="pass" ><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S2981"/></vote>
+		<action date="1208145600" datetime="2008-04-14"><text>Message on Senate action sent to the House.</text></action>
+		<topresident date="1208145600" datetime="2008-04-14" ><text>Cleared for White House.</text></topresident>
+		<topresident date="1208836800" datetime="2008-04-22" ><text>Presented to President.</text></topresident>
+		<signed date="1209528000" datetime="2008-04-30" ><text>Signed by President.</text></signed>
+		<enacted number="110-207" date="1209528000" datetime="2008-04-30" type="public" ><text>Became Public Law No: 110-207.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/30/2008--Public Law. (This measure has not been amended since it was passed by the House on November 6, 2007. The summary of that version is repeated here.) Purple Heart Family Equity Act of 2007 - Amends the federal charter of the Military Order of the Purple Heart of the United States of America, Incorporated (the corporation), to authorize the corporation to extend eligibility for associate membership in the corporation to the parents, spouse, siblings, and lineal descendants (currently, to parents and lineal descendants) of a Purple Heart recipient.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,65 @@
+<bill session="111" type="s" number="34" updated="2009-03-07T13:36:16-05:00">
+	<status><calendar date="1231304400" datetime="2009-01-07" /></status>
+
+	<introduced date="1231218000" datetime="2009-01-06"/>
+	<titles>
+		<title type="short" as="introduced">Broadcaster Freedom Act of 2009</title>
+		<title type="official" as="introduced">A bill to prevent the Federal Communications Commission from repromulgating the fairness doctrine.</title>
+	</titles>
+	<sponsor id="400105"/>
+	<cosponsors>
+		<cosponsor id="400576" joined="2009-01-06"/>
+		<cosponsor id="300007" joined="2009-02-25"/>
+		<cosponsor id="300083" joined="2009-01-06"/>
+		<cosponsor id="412320" joined="2009-01-08"/>
+		<cosponsor id="400432" joined="2009-01-06"/>
+		<cosponsor id="300002" joined="2009-01-06"/>
+		<cosponsor id="300062" joined="2009-01-06"/>
+		<cosponsor id="300070" joined="2009-01-06"/>
+		<cosponsor id="300010" joined="2009-01-06"/>
+		<cosponsor id="300054" joined="2009-01-06"/>
+		<cosponsor id="400418" joined="2009-01-06"/>
+		<cosponsor id="300040" joined="2009-01-06"/>
+		<cosponsor id="300014" joined="2009-02-11"/>
+		<cosponsor id="300055" joined="2009-01-06"/>
+		<cosponsor id="300027" joined="2009-01-06"/>
+		<cosponsor id="300030" joined="2009-01-06"/>
+		<cosponsor id="412251" joined="2009-01-06"/>
+		<cosponsor id="300047" joined="2009-01-06"/>
+		<cosponsor id="300098" joined="2009-01-06"/>
+		<cosponsor id="300088" joined="2009-01-06"/>
+		<cosponsor id="400621" joined="2009-01-06"/>
+		<cosponsor id="300021" joined="2009-01-06"/>
+		<cosponsor id="300013" joined="2009-01-06"/>
+		<cosponsor id="412248" joined="2009-01-08"/>
+		<cosponsor id="400054" joined="2009-01-12"/>
+		<cosponsor id="300041" joined="2009-01-06"/>
+		<cosponsor id="400194" joined="2009-01-06"/>
+		<cosponsor id="300072" joined="2009-01-06"/>
+		<cosponsor id="400546" joined="2009-01-06"/>
+		<cosponsor id="300023" joined="2009-01-12"/>
+	</cosponsors>
+	<actions>
+		<action date="1231218000" datetime="2009-01-06"><text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar date="1231304400" datetime="2009-01-07" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 12.</text></calendar>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="111" type="h" number="226" />
+		<bill relation="identical" session="111" type="s" number="62" />
+	</relatedbills>
+	<subjects>
+		<term name="Science, technology, communications"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Broadcasting, cable, digital media"/>
+		<term name="Federal Communications Commission (FCC)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/6/2009--Introduced.<br/>Broadcaster Freedom Act of 2009 - Amends the Communications Act of 1934 to prohibit the Federal Communications Commission (FCC), notwithstanding any other provision of any Act, from having the authority to require broadcasters to present opposing viewpoints on controversial issues of public importance, commonly referred to as the Fairness Doctrine.<br/>
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="252" updated="2009-03-07T10:17:20-05:00">
+	<status><introduced date="1231304400" datetime="2009-01-07"/></status>
+
+	<introduced date="1231304400" datetime="2009-01-07"/>
+	<titles>
+		<title type="short" as="introduced">LIHEAP Equity Act of 2009</title>
+		<title type="official" as="introduced">To provide that no more than 50 percent of funding made available under the Low-Income Home Energy Assistance Act of 1981 for any fiscal year be provided for home heating purposes.</title>
+	</titles>
+	<sponsor id="400160"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1231304400" datetime="2009-01-07"><text>Referred to House Education and Labor</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Education and Labor" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Energy"/>
+		<term name="Appropriations"/>
+		<term name="Energy assistance for the poor and aged"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="111" type="s" number="390" updated="2009-03-07T14:19:55-05:00">
+	<status><introduced date="1233810000" datetime="2009-02-05"/></status>
+
+	<introduced date="1233810000" datetime="2009-02-05"/>
+	<titles>
+		<title type="official" as="introduced">A bill to expand the authority of the Secretary of the Air Force to convey certain relocatable military housing units to Indian tribes located in Idaho and Nevada.</title>
+	</titles>
+	<sponsor id="300030"/>
+	<cosponsors>
+		<cosponsor id="300005" joined="2009-02-05"/>
+		<cosponsor id="300040" joined="2009-02-24"/>
+		<cosponsor id="300082" joined="2009-02-05"/>
+		<cosponsor id="412244" joined="2009-02-05"/>
+	</cosponsors>
+	<actions>
+		<action date="1233810000" datetime="2009-02-05"><text>Read twice and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Armed Services" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Housing supply and affordability"/>
+		<term name="Idaho"/>
+		<term name="Indian social and development programs"/>
+		<term name="Land transfers"/>
+		<term name="Military facilities and property"/>
+		<term name="Nevada"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/5/2009--Introduced.<br/>Amends the Department of Defense Appropriations Act, 2009 to include Idaho and Nevada among specified states to which the Secretary of the Air Force may convey certain relocatable military housing units to Indian tribes.<br/>
+	</summary>
+</bill>

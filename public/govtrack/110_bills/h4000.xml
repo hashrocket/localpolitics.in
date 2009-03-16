@@ -1,0 +1,37 @@
+<bill session="110" type="h" number="4000" updated="2009-01-09T01:12:54-05:00">
+	<status><introduced date="1193716800" datetime="2007-10-30"/></status>
+
+	<introduced date="1193716800" datetime="2007-10-30"/>
+	<titles>
+		<title type="official" as="introduced">To extend eligibility for certain Federal benefits to citizens of the Freely Associated States.</title>
+	</titles>
+	<sponsor id="400001"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2007-10-30"/>
+		<cosponsor id="400383" joined="2008-04-02"/>
+		<cosponsor id="412200" joined="2007-10-30"/>
+	</cosponsors>
+	<actions>
+		<action date="1193716800" datetime="2007-10-30"><text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1193716800" datetime="2007-10-30"><text>Referred to House Ways and Means</text></action>
+		<action date="1193716800" datetime="2007-10-30"><text>Referred to House Energy and Commerce</text></action>
+		<action date="1193716800" datetime="2007-10-30"><text>Referred to House Agriculture</text></action>
+		<action date="1194498000" datetime="2007-11-08"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action date="1194584400" datetime="2007-11-09"><committee name="House Ways and Means"/><text>Referred to the Subcommittee on Income Security and Family Support.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/30/2007--Introduced.<br/>Amends the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to extend to citizens of the Freely Associated States (Republic of the Marshall Islands, Federated States of Micronesia, and Palau) who reside in the United States eligibility for non-emergency food stamps and benefits under titles XIX (Medicaid), XVI (Supplemental Security Income) (SSI) , and part A (Temporary Assistance for Needy Families) (TANF) of the Social Security Act.<br/>
+	</summary>
+</bill>

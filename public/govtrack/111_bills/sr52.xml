@@ -1,0 +1,36 @@
+<bill session="111" type="sr" number="52" updated="2009-03-07T14:44:28-05:00">
+	<status><vote date="1235365200" datetime="2009-02-23" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced date="1235365200" datetime="2009-02-23"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating March 2, 2009, as &quot;Read Across America Day&quot;.</title>
+	</titles>
+	<sponsor id="300081"/>
+	<cosponsors>
+		<cosponsor id="300025" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<vote date="1235365200" how="by Unanimous Consent" datetime="2009-02-23" where="s" type="vote" result="pass" ><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S2381-2382"/><reference label="text as passed Senate" ref="CR S2381-2382"/><reference label="text of measure as introduced" ref="CR S2371"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="hr" number="146" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Art, artists, authorship"/>
+		<term name="Books and print media"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Literacy and language arts"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/23/2009--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates March 2, 2009, as Read Across America Day. Honors Theodor Geisel (Dr. Seuss) for his success in encouraging children to discover the joy of reading. Honors the 12th anniversary of Read Across America Day. Encourages parents to read with their children for at least 30 minutes on Read Across America Day.<br/>
+	</summary>
+</bill>

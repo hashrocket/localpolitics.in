@@ -1,0 +1,66 @@
+<bill session="110" type="h" number="3916" updated="2009-01-09T01:03:05-05:00">
+	<status><calendar date="1204088400" datetime="2008-02-27" /></status>
+
+	<introduced date="1193025600" datetime="2007-10-22"/>
+	<titles>
+		<title type="short" as="reported to house">Border Security Technology Innovation Act of 2008</title>
+		<title type="official" as="introduced">To provide for the next generation of border and maritime security technologies.</title>
+	</titles>
+	<sponsor id="400165"/>
+	<cosponsors>
+		<cosponsor id="400367" joined="2007-10-22"/>
+		<cosponsor id="412252" joined="2007-10-22"/>
+		<cosponsor id="400027" joined="2007-10-22"/>
+		<cosponsor id="400155" joined="2007-10-22"/>
+		<cosponsor id="400660" joined="2008-02-07"/>
+		<cosponsor id="400151" joined="2007-10-22"/>
+		<cosponsor id="400441" joined="2007-10-22"/>
+		<cosponsor id="412217" joined="2007-10-22"/>
+		<cosponsor id="400229" joined="2007-10-22"/>
+		<cosponsor id="412189" joined="2008-02-26"/>
+		<cosponsor id="400052" joined="2007-10-22"/>
+		<cosponsor id="400370" joined="2008-07-08"/>
+		<cosponsor id="400365" joined="2007-10-22"/>
+		<cosponsor id="400288" joined="2007-10-22"/>
+		<cosponsor id="400437" joined="2007-10-22"/>
+		<cosponsor id="412188" joined="2007-11-15"/>
+		<cosponsor id="400392" joined="2008-02-07"/>
+		<cosponsor id="400206" joined="2007-10-22"/>
+		<cosponsor id="400017" joined="2007-10-22"/>
+		<cosponsor id="412187" joined="2007-11-15"/>
+		<cosponsor id="400131" joined="2007-10-22"/>
+		<cosponsor id="400570" joined="2007-10-22"/>
+		<cosponsor id="400655" joined="2007-10-22"/>
+		<cosponsor id="400649" joined="2007-10-22"/>
+		<cosponsor id="400654" joined="2007-10-22"/>
+		<cosponsor id="400157" joined="2007-10-30"/>
+	</cosponsors>
+	<actions>
+		<action date="1193025600" datetime="2007-10-22"><text>Referred to the Committee on Homeland Security, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1193025600" datetime="2007-10-22"><text>Referred to House Homeland Security</text></action>
+		<action date="1193025600" datetime="2007-10-22"><text>Referred to House Science and Technology</text></action>
+		<action date="1201755600" datetime="2008-01-31"><committee name="House Homeland Security"/><text>Referred to the Subcommittee on Emerging Threats, Cybersecurity, and Science and Technology.</text></action>
+		<action date="1201842000" datetime="2008-02-01"><committee name="House Science and Technology"/><text>Referred to the Subcommittee on Technology and Innovation.</text></action>
+		<action date="1202360400" datetime="2008-02-07"><committee name="House Science and Technology" subcommittee="Technology and Innovation"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action date="1202360400" datetime="2008-02-07"><committee name="House Science and Technology" subcommittee="Technology and Innovation"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action date="1204088400" datetime="2008-02-27"><committee name="House Science and Technology"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1204088400" datetime="2008-02-27" ><committee name="House Science and Technology"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1210046400" datetime="2008-05-06"><committee name="House Science and Technology" subcommittee="Technology and Innovation"/><text>Hearing Held by Subcommittee on Technology and Innovation Prior to Introduction and Referral (November 15, 2007).</text></action>
+		<action date="1212638100" datetime="2008-06-04T12:55:00-04:00"><text>Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-684, Part I.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/4/2008--Reported to House amended, Part I. Border Security Technology Innovation Act of 2008 - (Sec. 2) Requires the Under Secretary for Science and Technology of the Department of Homeland Security (DHS) to ensure that any federal government interagency or intra-agency agreement entered into by the Under Secretary to develop and transition new technology explicitly characterizes the requirements, expected use, and concept of operations for that technology.<br/>(Sec. 3) Amends the Homeland Security Act of 2002 to terminate the Homeland Security Science and Technology Advisory Committee on December 31, 2012 (currently, 2008).<br/>(Sec. 4) Requires the Under Secretary to enter into an arrangement with the National Research Council for a one-year assessment of the basic science research needs in the border and maritime security domain.<br/>(Sec. 5) Directs: (1) the Secretary of Homeland Security and the Director of the Joint Planning and Development Office to research and develop technologies to permit routine operation of unmanned aerial vehicles, including autonomously piloted drones, within the national airspace for border and maritime security missions without degradation of existing safety levels for national airspace system users; and (2) the Secretary to coordinate with the Director and the Administrator of the Federal Aviation Administration (FAA) to enter into pilot projects in sparsely populated, low-density Class G air traffic airspace to conduct experiments and collect data to accelerate the safe integration of unmanned aircraft systems into the national airspace system as part of research activities of the Office.<br/>(Sec. 6) Requires: (1) the Under Secretary to research and develop technologies to permit detection of near surface voids, such as tunnels, with an emphasis on technologies with real time capability; and (2) the Secretary to coordinate with other federal agencies to ensure the integration of such research and development activities with their efforts.<br/>(Sec. 7) Requires the Under Secretary and the Director of the National Institute of Standards and Technology (NIST) to establish a joint research and development program on anticounterfeit technologies and standards.<br/>(Sec. 8) Directs the Under Secretary to study and report to Congress on the need for next generation global positioning system technology as it relates to border security.<br/>(Sec. 9) Directs the Under Secretary, in coordination with the Commissioner of U.S. Customs and Border Protection (CBP), to establish a research program on the use of mobile biometric technology at the nation's borders between the ports of entry. Requires the Secretary to ensure that the program is coordinated with other DHS biometric identification programs.<br/>
+	</summary>
+</bill>

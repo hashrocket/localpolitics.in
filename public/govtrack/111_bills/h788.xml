@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="788" updated="2009-03-07T11:20:30-05:00">
+	<status><calendar date="1233723600" datetime="2009-02-04" /></status>
+
+	<introduced date="1233550800" datetime="2009-02-02"/>
+	<titles>
+		<title type="official" as="introduced">To provide a safe harbor for mortgage servicers who engage in specified mortgage loan modifications, and for other purposes.</title>
+	</titles>
+	<sponsor id="400210"/>
+	<cosponsors>
+		<cosponsor id="400140" joined="2009-02-02"/>
+		<cosponsor id="400070" joined="2009-02-02"/>
+		<cosponsor id="400063" joined="2009-02-09"/>
+	</cosponsors>
+	<actions>
+		<action date="1233550800" datetime="2009-02-02"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action date="1233723600" datetime="2009-02-04"><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar date="1233723600" datetime="2009-02-04" ><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action date="1234299360" datetime="2009-02-10T16:56:00-05:00"><text>Reported (Amended) by the Committee on Financial Services. H. Rept. 111-13.</text></action>
+		<calendar number="5" date="1234299360" datetime="2009-02-10T16:56:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 5.</text></calendar>
+	</actions>
+	<committees>
+		<committee name="House Financial Services" subcommittee="" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

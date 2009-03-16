@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="619" updated="2009-03-07T11:00:21-05:00">
+	<status><introduced date="1232514000" datetime="2009-01-21"/></status>
+
+	<introduced date="1232514000" datetime="2009-01-21"/>
+	<titles>
+		<title type="official" as="introduced">To amend title XIX of the Social Security Act to remove the exclusion from medical assistance under the Medicaid Program of items and services for patients in an institution for mental diseases.</title>
+	</titles>
+	<sponsor id="400204"/>
+	<cosponsors>
+		<cosponsor id="400162" joined="2009-01-21"/>
+	</cosponsors>
+	<actions>
+		<action date="1232514000" datetime="2009-01-21"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Energy and Commerce" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Hospital care"/>
+		<term name="Medicaid"/>
+		<term name="Mental health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/21/2009--Introduced.<br/>Amends title XIX (Medicaid) of the Social Security Act to repeal the exclusion from medical assistance under the Medicaid program of items and services for patients in an institution for mental diseases. 
+	</summary>
+</bill>

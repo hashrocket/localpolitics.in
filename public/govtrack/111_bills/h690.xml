@@ -1,0 +1,50 @@
+<bill session="111" type="h" number="690" updated="2009-03-07T11:08:47-05:00">
+	<status><introduced date="1232946000" datetime="2009-01-26"/></status>
+
+	<introduced date="1232946000" datetime="2009-01-26"/>
+	<titles>
+		<title type="short" as="introduced">Modernize Our Bookkeeping In the Law for Employee's Cell Phone Act of 2009</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to remove cell phones from listed property under section 280F.</title>
+	</titles>
+	<sponsor id="400206"/>
+	<cosponsors>
+		<cosponsor id="400387" joined="2009-02-23"/>
+		<cosponsor id="400060" joined="2009-01-26"/>
+		<cosponsor id="400057" joined="2009-02-03"/>
+		<cosponsor id="400155" joined="2009-02-23"/>
+		<cosponsor id="400039" joined="2009-01-26"/>
+		<cosponsor id="412216" joined="2009-02-03"/>
+		<cosponsor id="400570" joined="2009-02-09"/>
+		<cosponsor id="400342" joined="2009-02-03"/>
+		<cosponsor id="400647" joined="2009-01-26"/>
+		<cosponsor id="400005" joined="2009-02-03"/>
+		<cosponsor id="400176" joined="2009-01-26"/>
+		<cosponsor id="400323" joined="2009-01-26"/>
+		<cosponsor id="400032" joined="2009-02-03"/>
+		<cosponsor id="412206" joined="2009-02-09"/>
+		<cosponsor id="412208" joined="2009-02-03"/>
+		<cosponsor id="400245" joined="2009-01-26"/>
+		<cosponsor id="412255" joined="2009-02-23"/>
+	</cosponsors>
+	<actions>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Ways and Means" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="111" type="s" number="144" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Business records"/>
+		<term name="Income tax deductions"/>
+		<term name="Telephone and wireless communication"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/26/2009--Introduced.<br/>Modernize Our Bookkeeping In the Law for Employee's Cell Phone Act of 2009 - Amends the Internal Revenue Code to remove certain limitations on the tax deduction for employee use of cellular telephones.<br/>
+	</summary>
+</bill>

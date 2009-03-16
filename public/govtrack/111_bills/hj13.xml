@@ -1,0 +1,35 @@
+<bill session="111" type="hj" number="13" updated="2009-03-07T09:34:54-05:00">
+	<status><introduced date="1231390800" datetime="2009-01-08"/></status>
+
+	<introduced date="1231390800" datetime="2009-01-08"/>
+	<titles>
+		<title type="official" as="introduced">Proposing an amendment to the Constitution of the United States relating to limitations on the amounts of contributions and expenditures that may be made in connection with campaigns for election to public office.</title>
+	</titles>
+	<sponsor id="400211"/>
+	<cosponsors>
+		<cosponsor id="400641" joined="2009-01-08"/>
+	</cosponsors>
+	<actions>
+		<action date="1231390800" datetime="2009-01-08"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action date="1234155600" datetime="2009-02-09"><text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Judiciary" subcommittee="" activity="Referral, In Committee" />
+		<committee name="House Judiciary" subcommittee="Constitution, Civil Rights, and Civil Liberties" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Constitution and constitutional amendments"/>
+		<term name="Elections, voting, political campaign regulation"/>
+		<term name="State and local government operations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/8/2009--Introduced.<br/>Constitutional Amendment - Declares that Congress shall have power to set limits on the amount of contributions that may be accepted by, and the amount of expenditures that may be made by, in support of, or in opposition to, a candidate for nomination or election to federal office. Declares that a state shall have the power to set limits on the amount of contributions that may be accepted by, and the amount of expenditures that may be made by, in support of, or in opposition to, a candidate for nomination or election to state or local office. 
+	</summary>
+</bill>

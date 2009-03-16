@@ -1,0 +1,41 @@
+<bill session="110" type="s" number="2650" retreived_date="1226101574" updated="2008-11-07T18:46:14-05:00">
+	<status><introduced date="1202965200" datetime="2008-02-14"/></status>
+
+	<introduced date="1202965200" datetime="2008-02-14"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for a 5-year carryback of certain net operating losses and to suspend the 90 percent alternative minimum tax limit on certain net operating losses.</title>
+	</titles>
+	<sponsor id="300092"/>
+	<cosponsors>
+		<cosponsor id="300093" joined="2008-02-14"/>
+		<cosponsor id="400621" joined="2008-02-14"/>
+		<cosponsor id="300035" joined="2008-02-14"/>
+		<cosponsor id="300054" joined="2008-02-14"/>
+		<cosponsor id="300040" joined="2008-02-14"/>
+		<cosponsor id="300027" joined="2008-02-14"/>
+		<cosponsor id="300036" joined="2008-02-25"/>
+	</cosponsors>
+	<actions>
+		<action date="1202965200" datetime="2008-02-14"><text>Sponsor introductory remarks on measure. (CR S1067)</text></action>
+		<action date="1202965200" datetime="2008-02-14"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee name="Senate Finance" subcommittee="" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Income tax"/>
+		<term name="Losses"/>
+		<term name="Minimum tax"/>
+		<term name="Tax deductions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/14/2008--Introduced.<br/>Amends the Internal Revenue Code to: (1) allow a five-year carryback of net operating losses for taxable years beginning or ending during 2006, 2007, or 2008; and (2) suspend the 90% alternative minimum tax limitation on carrybacks and carryovers of net operating losses in such years. 
+	</summary>
+</bill>
