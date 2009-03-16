@@ -241,35 +241,15 @@ h1#logo span {
     float: left;
     width: 830px;
   }
-  .representative_container {
+  .profile {
     margin-right: 10px;
     float: left;
-    width: 265px;
+    width: 235px;
     display: inline;
+    padding: 10px;
+    border: 5px solid #ccc;
+    background: #eee;
   }
-  /*
-  .representative_container {
-    margin-bottom: 40px;
-    float: left;
-    width: 830px;
-  }
-  */
-  .representative {
-    margin-right: 10px;
-    float: left;
-    width: 265px;
-    display: inline;
-  }
-    .odd .representative {
-      margin: 0;
-      float: right;
-    }
-    .profile {
-      padding: 10px;
-      border: 5px solid #ccc;
-      background: #eee;
-      min-height: 280px;
-    }
       .profile img { 
         margin-bottom: 10px; 
         border: 1px solid #ccc; 

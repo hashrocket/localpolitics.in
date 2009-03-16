@@ -3,6 +3,7 @@
 #representative_information
   %h2
     My Local Congress People
-  = render :partial => "representative", :collection => @locality.congress_people
+  #equalize
+    = render :partial => "representative", :collection => @locality.congress_people
 
 = render :partial => 'donor_information' unless @top_ten_donors.nil?
