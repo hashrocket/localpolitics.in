@@ -38,15 +38,12 @@ module Sunlight
     #   Legislator.all_for(:address => "90210") # not recommended, but it'll work
     #
     def self.all_for(params)
-
-      if (params[:latitude] and params[:longitude])
-        Legislator.all_in_district(District.get(:latitude => params[:latitude], :longitude => params[:longitude]))
+      if (params[:latitude] && params[:longitude])
+        district = District.get(:latitude => params[:latitude], :longitude => params[:longitude])
       elsif (params[:address])
-        Legislator.all_in_district(District.get(:address => params[:address]))
-      else
-        nil # appropriate params not found
+        district = District.get(:address => params[:address])
       end
-
+      district ? Legislator.all_in_district(district) : raise("District not found - have you installed the Sunglight Labs API key?")
     end
 
 
@@ -65,7 +62,6 @@ module Sunlight
     #   officials = Legislator.all_in_district(District.new("NJ", "7"))
     #
     def self.all_in_district(district)
-
       senior_senator = Legislator.all_where(:state => district.state, :district => "Senior Seat").first
       junior_senator = Legislator.all_where(:state => district.state, :district => "Junior Seat").first
       representative = Legislator.all_where(:state => district.state, :district => district.number).first
@@ -101,7 +97,6 @@ module Sunlight
         result["response"]["legislators"].each do |legislator|
           legislators << Legislator.new(legislator["legislator"])
         end
-
         legislators
 
       else  
