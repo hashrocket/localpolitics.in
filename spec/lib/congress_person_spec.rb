@@ -37,4 +37,14 @@ describe CongressPerson do
       congress_person.send(reader).should == summary.send(reader)
     end
   end
+
+  it "knows when it has OpenSecrets data" do
+    stub_out_open_secrets_new
+    summary = OpenSecrets::CandidateSummary.new('some id')
+    OpenSecrets::CandidateSummary.stubs(:new).returns(summary)
+    CongressPerson.new(@legislator).has_candidate_summary?.should be_true
+  end
+  it "knows when it doesn't have OpenSecrets data" do
+    @congress_person.has_candidate_summary?.should be_false
+  end
 end

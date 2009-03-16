@@ -18,14 +18,23 @@ module OpenSecrets
     end
 
     def summary_result(crp_id)
-      begin
-        Timeout.timeout(10) do
-          url = "#{OpenSecrets::API_BASE_URL}?method=candSummary&cid=#{crp_id}&apikey=#{API_KEY}"
-          HTTParty.get(url)
+      response = begin
+          Timeout.timeout(10) do
+            url = "#{OpenSecrets::API_BASE_URL}?method=candSummary&cid=#{crp_id}&apikey=#{API_KEY}"
+            HTTParty.get(url)
+          end
+        rescue OpenURI::HTTPError, Timeout::Error
+          empty_response
         end
-      rescue OpenURI::HTTPError, Timeout::Error
-        "<xml></xml>"
-      end
+      use_empty_response?(response) ? empty_response : response
+    end
+
+    def use_empty_response?(response)
+      response.is_a?(String)
+    end
+
+    def empty_response
+      {"response" => {"summary" => []}}
     end
 
     def formatted_return_value(input)

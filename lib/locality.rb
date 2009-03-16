@@ -1,5 +1,6 @@
 class Locality
   attr_reader :latitude, :longitude, :postal_code
+  ROLES = %w(senior_senator junior_senator representative)
 
   def self.geocoder
     @geocoder ||= GoogleGeocode.new APP_CONFIG[:google_maps_api_key]
@@ -7,6 +8,16 @@ class Locality
 
   def self.geocoder=(coder)
     @geocoder = coder
+  end
+
+  ROLES.each do |role|
+    class_eval <<-CODE
+      def #{role}
+        @#{role} ||= CongressPerson.new(legislators[:#{role}])
+      rescue
+        legislators[:#{role}]
+      end
+    CODE
   end
 
   def initialize(location_data)
@@ -27,12 +38,8 @@ class Locality
                                         :longitude => @longitude
   end
 
-  %w(senior_senator junior_senator representative).each do |role|
-    class_eval <<-CODE
-      def #{role}
-        @#{role} ||= CongressPerson.new(legislators[:#{role}])
-      end
-    CODE
+  def congress_people
+    ROLES.map{|role| self.send(role)}
   end
 
   def top_donors

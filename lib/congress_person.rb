@@ -55,6 +55,10 @@ class CongressPerson
     end
   end
 
+  def has_candidate_summary?
+    CANDIDATE_SUMMARY_KEYS.any?{|r| !self.send(r).blank? }
+  end
+
   def full_name
     first_name + " " + last_name
   end

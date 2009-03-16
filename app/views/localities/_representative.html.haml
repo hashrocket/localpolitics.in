@@ -14,11 +14,12 @@
         %ul.contact
           %li
             = link_to "Get In Contact", representative.website_url
-      .clear.double_content_border
-      .clear
-        - representative.summary_attributes.each do |attribute|
-          - if representative.currency_attribute?(attribute)
-            == #{attribute.to_s.humanize}: #{number_to_currency(representative.send(attribute))}
-          - else
-            == #{attribute.to_s.humanize}: #{representative.send(attribute)}
-          %br/
+      - if representative.has_candidate_summary?
+        .clear.double_content_border
+        .clear
+          - representative.summary_attributes.each do |attribute|
+            - if representative.currency_attribute?(attribute)
+              == #{attribute.to_s.humanize}: #{number_to_currency(representative.send(attribute))}
+            - else
+              == #{attribute.to_s.humanize}: #{representative.send(attribute)}
+            %br/
