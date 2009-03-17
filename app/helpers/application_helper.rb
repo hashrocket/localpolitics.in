@@ -13,4 +13,12 @@ module ApplicationHelper
   def title_and_full_name_for(representative)
     "#{representative.title} #{representative.full_name}"
   end
+
+  def govtrack_photo(representative, options={:size => '200'})
+    url = "/govtrack/photos/#{representative.govtrack_id}"
+    url += "-#{options[:size]}px" if options[:size]
+    url += ".jpeg"
+    url = "/govtrack/photos/no_picture.jpeg" unless File.exists?(RAILS_ROOT + "/public" + url)
+    image_tag(url, :alt => "Photo of #{representative.full_name}")
+  end
 end
