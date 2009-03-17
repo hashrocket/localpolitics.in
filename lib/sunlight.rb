@@ -18,10 +18,19 @@ module Sunlight
 
     # Constructs a Sunlight API-friendly URL
     def self.construct_url(api_method, params)
-      "#{API_URL}#{api_method}.#{API_FORMAT}?apikey=#{Sunlight.api_key}#{hash2get(params)}"
+      url_params = params.is_a?(Array) ? array2get(params) : hash2get(params)
+      "#{API_URL}#{api_method}.#{API_FORMAT}?apikey=#{Sunlight.api_key}#{url_params}"
     end
 
 
+    # Converts an array to a GET string
+    def self.array2get(a)
+      get_string = ""
+      a.each do |hash|
+        get_string += hash2get(hash)
+      end
+      get_string
+    end # def hash2get
 
     # Converts a hash to a GET string
     def self.hash2get(h)
