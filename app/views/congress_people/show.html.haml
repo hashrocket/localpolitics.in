@@ -23,3 +23,8 @@
         %br/
   - else
     .clear
+  - if @congress_person.has_sponsored_bills?
+    .double_content_border.clear
+    .sponsored_bills
+    - @congress_person.sponsored_bills.each do |bill|
+      = bill.title
