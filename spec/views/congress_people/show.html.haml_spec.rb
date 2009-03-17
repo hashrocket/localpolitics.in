@@ -16,14 +16,19 @@ describe "CongressPerson show view" do
     do_render
     response.body.should include(@congress_person.full_name)
   end
+  it "should include a photo" do
+    template.stubs(:govtrack_photo).returns("<img src='/govtrack/photos/#{@congress_person.govtrack_id}.jpeg'/>")
+    do_render
+    response.should have_tag("img[src=?]", "/govtrack/photos/#{@congress_person.govtrack_id}.jpeg")
+  end
   it "should link to the congress person's website" do
     do_render
-    response.body.should have_tag("a[href=?]", @congress_person.website_url)
+    response.should have_tag("a[href=?]", @congress_person.website_url)
   end
   it "should link to the congress person's twitter page" do
     @congress_person.stubs(:twitter_id).returns("congress_person")
     do_render
-    response.body.should have_tag("a[href=?]", "http://twitter.com/#{@congress_person.twitter_id}")
+    response.should have_tag("a[href=?]", "http://twitter.com/#{@congress_person.twitter_id}")
   end
   it "should list the congress person's latest legislation"
 end

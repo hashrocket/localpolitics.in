@@ -1,6 +1,6 @@
 #representative_information
   .photo
-    %img{ :src => @congress_person.photo_path, :alt => @congress_person.full_name }
+    = govtrack_photo(@congress_person)
   .basic_info
     %h3= title_and_full_name_for(@congress_person)
     .meta
