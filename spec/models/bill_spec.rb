@@ -15,4 +15,13 @@ describe Bill do
       @bill.should have(1).error_on(:sponsor_id)
     end
   end
+
+  describe "cosponsors" do
+    before do
+      @bill.cosponsor_ids = %w(1 2 3)
+    end
+    it "returns an array of cosponsors" do
+      @bill.cosponsor_ids.should == %w(1 2 3)
+    end
+  end
 end
