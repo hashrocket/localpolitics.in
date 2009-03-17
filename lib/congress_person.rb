@@ -42,7 +42,9 @@ class CongressPerson
       val = legislator.send(attribute)
       instance_variable_set("@#{name}", val)
     end
-    summary = OpenSecrets::CandidateSummary.new(@crp_id)
+    summary = Rails.cache.fetch("opensecrets/#@crp_id", :expires_in => 1.hour) do
+      OpenSecrets::CandidateSummary.new(@crp_id)
+    end
     OpenSecrets::CandidateSummary::READERS.each do |reader|
       instance_variable_set("@#{reader}", summary.send(reader)) unless instance_variable_get("@#{reader}")
     end

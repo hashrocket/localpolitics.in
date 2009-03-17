@@ -32,7 +32,10 @@ describe Locality do
   end
 
   it "should return an array of congress persons" do
-    stub_out_open_secrets_new
+    OpenSecrets::CandidateSummary.any_instance.stubs(:summary_result).returns(fake_candidate_summary_response)
+    summary = OpenSecrets::CandidateSummary.new('some id')
+    OpenSecrets::CandidateSummary.stubs(:new).returns(summary)
+    Legislator.stubs(:all_for).returns(:senior_senator => fake_legislator, :junior_senator => fake_legislator, :representative => fake_legislator)
     @locality.congress_people.each do |congress_person|
       congress_person.should be_a_kind_of(CongressPerson)
     end

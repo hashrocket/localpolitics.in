@@ -7,7 +7,7 @@ describe Sunlight::Legislator do
   end
 
   it "returns nil if no legislator found" do
-    Legislator.stubs(:get_json_data).returns(nil)
+    Legislator.stubs(:get_cached_json_data).returns(nil)
     Legislator.where("something" => "specified").should be_nil
   end
 end

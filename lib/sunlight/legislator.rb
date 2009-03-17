@@ -49,7 +49,9 @@ module Sunlight
 
     def self.all_for_zip(zip)
       url = construct_url("legislators.allForZip", :zip => zip)
-      HTTParty.get(url)["response"]["legislators"]
+      Rails.cache.fetch(url, :expires_in => 1.hour) do
+        HTTParty.get(url)
+      end["response"]["legislators"]
     end
 
 
@@ -70,6 +72,11 @@ module Sunlight
 
     end
 
+    def self.get_cached_json_data(url)
+      Rails.cache.fetch(url, :expires_in => 1.hour) do
+        get_json_data(url)
+      end
+    end
 
     #
     # A more general, open-ended search on Legislators than #all_for.
@@ -89,7 +96,7 @@ module Sunlight
     #
     def self.all_where(params)
       url = construct_url("legislators.getList", params)
-      if (result = get_json_data(url))
+      if (result = get_cached_json_data(url))
         legislators = []
         result["response"]["legislators"].each do |legislator|
           legislators << Legislator.new(legislator["legislator"])
@@ -102,7 +109,7 @@ module Sunlight
 
     def self.where(params)
       url = construct_url("legislators.get", params)
-      if (result = get_json_data(url))
+      if (result = get_cached_json_data(url))
         Legislator.new(result["response"]["legislator"])
       else
         nil

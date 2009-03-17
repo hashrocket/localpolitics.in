@@ -1,3 +1,5 @@
+require 'digest/sha1'
+
 class Locality
   attr_reader :latitude, :longitude, :postal_code
   ROLES = %w(senior_senator junior_senator representative)
@@ -23,9 +25,15 @@ class Locality
     @postal_code, @latitude, @longitude = *nil
   end
 
+  def cache_key
+    "sunrise/#{Digest::SHA1.hexdigest(@location_data)}"
+  end
+
   def geocode
-    return if @postal_code
-    location = self.class.geocoder.locate(@location_data)
+    return if @postal_code || (@latitude && @longitude)
+    location = Rails.cache.fetch(cache_key, :expires_in => 1.hour) do
+      self.class.geocoder.locate(@location_data)
+    end
     @postal_code = location.postal_code
     @latitude, @longitude = location.coordinates
   end
