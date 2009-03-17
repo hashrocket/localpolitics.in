@@ -62,6 +62,14 @@ class CongressPerson
     congress_people
   end
 
+  def sponsored_bills
+    Bill.find_all_by_sponsor_id(govtrack_id)
+  end
+
+  def has_sponsored_bills?
+    !sponsored_bills.empty?
+  end
+
   def summary_attributes
     CANDIDATE_SUMMARY_KEYS - [:cand_name, :chamber, :cid, :cycle, :last_updated, :origin, :source]
   end

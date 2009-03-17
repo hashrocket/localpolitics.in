@@ -50,6 +50,32 @@ describe CongressPerson do
     CongressPerson.new(@legislator).has_candidate_summary?.should be_false
   end
 
+  describe "legislation methods" do
+    before do
+      @b1 = Factory(:bill, :sponsor_id => @congress_person.govtrack_id)
+      @b2 = Factory(:bill, :sponsor_id => @congress_person.govtrack_id)
+    end
+    describe "#sponsored_bills" do
+      it "returns an array of sponsored bills" do
+        Bill.stubs(:find_all_by_sponsor_id).returns([@b1,@b2])
+        @congress_person.sponsored_bills.should == [@b1,@b2]
+      end
+      it "returns empty array when no sponsored bills found" do
+        CongressPerson.new(stub_everything('legislator')).sponsored_bills.should == []
+      end
+    end
+    describe "#has_sponsored_bills?" do
+      it "returns true when bills exist" do
+        Bill.stubs(:find_all_by_sponsor_id).returns([@b1,@b2])
+        @congress_person.has_sponsored_bills?.should be_true
+      end
+      it "returns false when no bills exist" do
+        Bill.stubs(:find_all_by_sponsor_id).returns([])
+        @congress_person.has_sponsored_bills?.should be_false
+      end
+    end
+  end
+
   it "knows if it is a senator" do
     @congress_person.stubs(:title).returns('Senator')
     @congress_person.should be_a_senator
