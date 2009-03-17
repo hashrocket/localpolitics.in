@@ -21,35 +21,6 @@ describe CongressPerson do
     end
   end
 
-  it "loads a CandidateSummary" do
-    stub_out_open_secrets_new
-    summary = OpenSecrets::CandidateSummary.new('some id')
-    OpenSecrets::CandidateSummary.expects(:new).with(@legislator.crp_id).returns(summary)
-    CongressPerson.new(@legislator)
-  end
-
-  it "gets all the values from the CandidateSummary" do
-    stub_out_open_secrets_new
-    summary = OpenSecrets::CandidateSummary.new('some id')
-    OpenSecrets::CandidateSummary.stubs(:new).returns(summary)
-    congress_person = CongressPerson.new(@legislator)
-    CongressPerson::CANDIDATE_SUMMARY_KEYS.each do |reader|
-      congress_person.send(reader).should == summary.send(reader)
-    end
-  end
-
-  it "knows when it has OpenSecrets data" do
-    stub_out_open_secrets_new
-    summary = OpenSecrets::CandidateSummary.new('some id')
-    OpenSecrets::CandidateSummary.stubs(:new).returns(summary)
-    CongressPerson.new(@legislator).has_candidate_summary?.should be_true
-  end
-  it "knows when it doesn't have OpenSecrets data" do
-    HTTParty.stubs(:get).returns("call limit has been reached")
-    OpenSecrets::CandidateSummary.stubs(:summary_result).returns(OpenSecrets::CandidateSummary.new('some id').empty_response)
-    CongressPerson.new(@legislator).has_candidate_summary?.should be_false
-  end
-
   describe "legislation methods" do
     before do
       @b1 = Factory(:bill, :sponsor_id => @congress_person.govtrack_id)
