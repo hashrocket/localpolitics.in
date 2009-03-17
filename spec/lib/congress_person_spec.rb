@@ -45,7 +45,9 @@ describe CongressPerson do
     CongressPerson.new(@legislator).has_candidate_summary?.should be_true
   end
   it "knows when it doesn't have OpenSecrets data" do
-    @congress_person.has_candidate_summary?.should be_false
+    HTTParty.stubs(:get).returns("call limit has been reached")
+    OpenSecrets::CandidateSummary.stubs(:summary_result).returns(OpenSecrets::CandidateSummary.new('some id').empty_response)
+    CongressPerson.new(@legislator).has_candidate_summary?.should be_false
   end
 
   it "knows if it is a senator" do
