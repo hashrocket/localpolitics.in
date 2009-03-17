@@ -84,6 +84,7 @@ def stub_out_legislator_get_json_data
 end
 
 def stub_out_open_secrets_new
+  HTTParty.stubs(:get)
   OpenSecrets::CandidateSummary.any_instance.stubs(:summary_result).returns(fake_candidate_summary_response)
 end
 
