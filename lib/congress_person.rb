@@ -48,6 +48,20 @@ class CongressPerson
     end
   end
 
+  def self.find(options)
+    CongressPerson.new(Legislator.where(options))
+  end
+
+  def self.find_all_by_govtrack_id(ids)
+    params = ids.map{|id| {:govtrack_id => id} }
+    legislators = Legislator.all_where(params)
+    congress_people = []
+    legislators.each do |l|
+      congress_people << CongressPerson.new(l)
+    end
+    congress_people
+  end
+
   def summary_attributes
     CANDIDATE_SUMMARY_KEYS - [:cand_name, :chamber, :cid, :cycle, :last_updated, :origin, :source]
   end
