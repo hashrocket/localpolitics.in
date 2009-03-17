@@ -50,7 +50,7 @@ class FakeGeocoder
   def initialize(api_key)
   end
 
-  Location = Struct.new :latitude, :longitude, :postal_code, :coordinates
+  Location = Struct.new :latitude, :longitude, :postal_code, :coordinates unless defined? Location
   def locate(place)
     data = fake_data
     Location.new data[:latitude], data[:longitude],
