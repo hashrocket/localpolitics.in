@@ -104,4 +104,28 @@ describe CongressPerson do
     congress_people.should be_a_kind_of(Array)
     congress_people.should include(@congress_person)
   end
+
+  describe "committees" do
+    it "returns an empty array if there are no committee memberships for the congress person" do
+      CommitteeMembership.stubs(:find_all_by_govtrack_id).returns([])
+      @congress_person.committees.should be_empty
+    end
+    it "returns an array of Committees" do
+      committee = Factory(:committee)
+      committee_membership = CommitteeMembership.new(:govtrack_id => @congress_person.govtrack_id, :committee_id => committee.id)
+      CommitteeMembership.stubs(:find_all_by_govtrack_id).returns([committee_membership])
+      @congress_person.committees.all?{|c| c.kind_of? Committee }.should be_true
+    end
+  end
+
+  describe "has_committees?" do
+    it "returns true if there are committees" do
+      @congress_person.stubs(:committees).returns([Factory(:committee)])
+      @congress_person.has_committees?.should be_true
+    end
+    it "returns false with no committees" do
+      @congress_person.stubs(:committees).returns([])
+      @congress_person.has_committees?.should be_false
+    end
+  end
 end

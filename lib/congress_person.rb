@@ -72,6 +72,14 @@ class CongressPerson
     !sponsored_bills.empty?
   end
 
+  def committees
+    CommitteeMembership.find_all_by_govtrack_id(govtrack_id).map(&:committee)
+  end
+
+  def has_committees?
+    !committees.empty?
+  end
+
   def twitters?
     !twitter_id.blank?
   end

@@ -24,3 +24,7 @@ Factory.define :bio do |bio|
   bio.bioguide_id 'N00012739'
   bio.bio         'Some text'
 end
+
+Factory.define :committee do |committee|
+  committee.name 'Committee name'
+end
