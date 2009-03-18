@@ -24,11 +24,14 @@ class Data::Govtrack
       cosponsor_ids       = cosponsor_elements.map{|e| e.get_attribute('id')}
       sponsor             = xml_document.at('sponsor')
 
-      bill                = Bill.new
-      bill.title          = title.text if title
+      return unless title && sponsor
+
+      bill = Bill.find_by_title_and_sponsor_id(title.text, sponsor['id']) || Bill.new
+
+      bill.title          = title.text
       bill.description    = description.text if description
       bill.summary        = summary.text if summary
-      bill.sponsor_id     = sponsor['id'] if sponsor
+      bill.sponsor_id     = sponsor['id']
       bill.cosponsor_ids  = cosponsor_ids
       bill.save
     end
