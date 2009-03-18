@@ -23,7 +23,7 @@ module OpenSecrets
             url = "#{OpenSecrets::API_BASE_URL}?method=candSummary&cid=#{crp_id}&apikey=#{API_KEY}"
             HTTParty.get(url)
           end
-        rescue OpenURI::HTTPError, Timeout::Error
+        rescue Object
           empty_response
         end
       use_empty_response?(response) ? empty_response : response
