@@ -1,0 +1,597 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gml='http://www.opengis.net/gml' xmlns:georss='http://www.georss.org/georss' xmlns:media='http://search.yahoo.com/mrss/' xmlns:batch='http://schemas.google.com/gdata/batch' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:gd='http://schemas.google.com/g/2005'>
+  <id>http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads</id>
+  <updated>2009-03-18T19:19:45.815Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+  <title type='text'>Videos uploaded by SenRussFeingold</title>
+  <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+  <link rel='related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/senrussfeingold'/>
+  <link rel='alternate' type='text/html' href='http://www.youtube.com/profile_videos?user=SenRussFeingold'/>
+  <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads'/>
+<link rel='http://schemas.google.com/g/2005#batch' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/batch'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads?start-index=1&amp;max-results=25'/>
+<link rel='next' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads?start-index=26&amp;max-results=25'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><generator version='2.0' uri='http://gdata.youtube.com/'>YouTube data API</generator><openSearch:totalResults>32</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><entry><id>http://gdata.youtube.com/feeds/api/videos/gaI_6LByaIA</id><published>2009-03-04T18:58:07.000Z</published><updated>2009-03-16T16:26:51.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='omnibus'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='spending'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='deficit'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='congress'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Ryan'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pork'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='earmarks'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='earmark'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='senate'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='McCain'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='budget'/>
+<title type='text'>Feingold, McCain, Ryan Introduce Line-item Veto to Curb Wasteful Spending</title><content type='text'>US Senator Russ Feingold (D-WI) and Senator John McCain (R-AZ), and Congressman Paul Ryan (R-WI) are reintroducing legislation to create a line-item veto to target wasteful earmarks, improve congressional accountability, and deter lawmakers from inserting Bridges to Nowhere or other frivolous spending into future bills. The legislation would enable the president to single out egregious earmarks in bills that arrive on his desk for signature and send these specific items back to Congress for ...</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=gaI_6LByaIA'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/gaI_6LByaIA/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=gaI_6LByaIA'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/gaI_6LByaIA'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold, McCain, Ryan Introduce Line-item Veto to Curb Wasteful Spending</media:title><media:description type='plain'>US Senator Russ Feingold (D-WI) and Senator John McCain (R-AZ), and Congressman Paul Ryan (R-WI) are reintroducing legislation to create a line-item veto to target wasteful earmarks, improve congressional accountability, and deter lawmakers from inserting Bridges to Nowhere or other frivolous spending into future bills. The legislation would enable the president to single out egregious earmarks in bills that arrive on his desk for signature and send these specific items back to Congress for ...</media:description><media:keywords>Feingold, McCain, Ryan, earmark, earmarks, pork, spending, omnibus, budget, deficit, congress, senate, Wisconsin</media:keywords><yt:duration seconds='546'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/gaI_6LByaIA&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='546' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwmAaHKw6D-igRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='546' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwmAaHKw6D-igRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='546' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/gaI_6LByaIA/2.jpg' height='97' width='130' time='00:04:33'/>
+<media:thumbnail url='http://i.ytimg.com/vi/gaI_6LByaIA/1.jpg' height='97' width='130' time='00:02:16.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/gaI_6LByaIA/3.jpg' height='97' width='130' time='00:06:49.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/gaI_6LByaIA/0.jpg' height='240' width='320' time='00:04:33'/>
+<media:player url='http://www.youtube.com/watch?v=gaI_6LByaIA'/>
+</media:group><yt:statistics viewCount='641'/>
+<gd:rating min='1' max='5' numRaters='6' average='4.17'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/1s9muQ5c7Ck</id><published>2009-01-15T17:57:16.000Z</published><updated>2009-03-16T13:45:13.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='FISA'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senator'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senate'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Holder'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<title type='text'>Feingold Questions Attorney General Nominee Eric Holder on FISA</title><content type='text'>US Senator Russ Feingold questions Attorney General nominee Eric Holder about FISA during a Senate Judiciary Committee hearing on January 15, 2009. </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=1s9muQ5c7Ck'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/1s9muQ5c7Ck/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=1s9muQ5c7Ck'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/1s9muQ5c7Ck'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold Questions Attorney General Nominee Eric Holder on FISA</media:title><media:description type='plain'>US Senator Russ Feingold questions Attorney General nominee Eric Holder about FISA during a Senate Judiciary Committee hearing on January 15, 2009. </media:description><media:keywords>Feingold, FISA, Holder, Wisconsin, Senate, Senator</media:keywords><yt:duration seconds='95'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/1s9muQ5c7Ck&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='95' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwkp7FwOuWbP1hMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='95' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwkp7FwOuWbP1hMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='95' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/1s9muQ5c7Ck/2.jpg' height='97' width='130' time='00:00:47.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/1s9muQ5c7Ck/1.jpg' height='97' width='130' time='00:00:23.750'/>
+<media:thumbnail url='http://i.ytimg.com/vi/1s9muQ5c7Ck/3.jpg' height='97' width='130' time='00:01:11.250'/>
+<media:thumbnail url='http://i.ytimg.com/vi/1s9muQ5c7Ck/0.jpg' height='240' width='320' time='00:00:47.500'/>
+<media:player url='http://www.youtube.com/watch?v=1s9muQ5c7Ck'/>
+</media:group><yt:statistics viewCount='5454' favoriteCount='1'/>
+<gd:rating min='1' max='5' numRaters='9' average='5.00'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/QrA_5aULs4M</id><published>2009-02-11T20:39:16.000Z</published><updated>2009-03-16T18:30:36.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senate'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Dreier'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senators'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Constitution'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Sensenbrenner'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='House'/>
+<title type='text'>Feingold on Constitutional Amendment Ending Gubernatorial Appointments to the Senate</title><content type='text'>US Senator Russ Feingold joined Representatives Jim Sensenbrenner (R-WI), David Dreier (R-CA), Lamar Smith (R-TX), and John Conyers (D-MI) on February 11, 2009 to announce the House introduction of a constitutional amendment ending gubernatorial appointments to fill Senate vacancies. Learn more about the amendment at http://feingold.senate.gov/issues_17th.html </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=QrA_5aULs4M'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/QrA_5aULs4M/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=QrA_5aULs4M'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/QrA_5aULs4M'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold on Constitutional Amendment Ending Gubernatorial Appointments to the Senate</media:title><media:description type='plain'>US Senator Russ Feingold joined Representatives Jim Sensenbrenner (R-WI), David Dreier (R-CA), Lamar Smith (R-TX), and John Conyers (D-MI) on February 11, 2009 to announce the House introduction of a constitutional amendment ending gubernatorial appointments to fill Senate vacancies. Learn more about the amendment at http://feingold.senate.gov/issues_17th.html </media:description><media:keywords>Feingold, Dreier, Sensenbrenner, Wisconsin, Senate, House, Constitution, Senators</media:keywords><yt:duration seconds='151'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/QrA_5aULs4M&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='151' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwmDswul5T-wQhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='151' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwmDswul5T-wQhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='151' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/QrA_5aULs4M/2.jpg' height='97' width='130' time='00:01:15.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/QrA_5aULs4M/1.jpg' height='97' width='130' time='00:00:37.750'/>
+<media:thumbnail url='http://i.ytimg.com/vi/QrA_5aULs4M/3.jpg' height='97' width='130' time='00:01:53.250'/>
+<media:thumbnail url='http://i.ytimg.com/vi/QrA_5aULs4M/0.jpg' height='240' width='320' time='00:01:15.500'/>
+<media:player url='http://www.youtube.com/watch?v=QrA_5aULs4M'/>
+</media:group><yt:statistics viewCount='707'/>
+<gd:rating min='1' max='5' numRaters='6' average='5.00'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/Iri8rRosx8U</id><published>2009-01-13T19:25:30.000Z</published><updated>2009-03-14T03:40:58.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senator'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senate'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Sudan'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Darfur'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Clinton'/>
+<title type='text'>Feingold Questions Secretary of State Nominee Clinton on Sudan</title><content type='text'>Feingold questions Secretary of State nominee Clinton about Sudan during a Senate Foreign Relations Committee hearing on January 13, 2009. </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Iri8rRosx8U'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Iri8rRosx8U/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Iri8rRosx8U'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/Iri8rRosx8U'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold Questions Secretary of State Nominee Clinton on Sudan</media:title><media:description type='plain'>Feingold questions Secretary of State nominee Clinton about Sudan during a Senate Foreign Relations Committee hearing on January 13, 2009. </media:description><media:keywords>Feingold, Clinton, Senate, Senator, Wisconsin, Sudan, Darfur</media:keywords><yt:duration seconds='165'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/Iri8rRosx8U&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='165' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwnFxywarby4IhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='165' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwnFxywarby4IhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='165' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/Iri8rRosx8U/2.jpg' height='97' width='130' time='00:01:22.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/Iri8rRosx8U/1.jpg' height='97' width='130' time='00:00:41.250'/>
+<media:thumbnail url='http://i.ytimg.com/vi/Iri8rRosx8U/3.jpg' height='97' width='130' time='00:02:03.750'/>
+<media:thumbnail url='http://i.ytimg.com/vi/Iri8rRosx8U/0.jpg' height='240' width='320' time='00:01:22.500'/>
+<media:player url='http://www.youtube.com/watch?v=Iri8rRosx8U'/>
+</media:group><yt:statistics viewCount='470' favoriteCount='1'/>
+<gd:rating min='1' max='5' numRaters='2' average='4.50'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/SUc6EVLm9Og</id><published>2009-01-08T00:00:42.000Z</published><updated>2009-03-16T20:25:45.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Economy'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Deficit'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='McCaskill'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Coburn'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Earmarks'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Spending'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='McCain'/>
+<title type='text'>Bipartisan Group of Senators Introduce Major Earmark Reform Bill</title><content type='text'>US Senators Russ Feingold (D-WI), John McCain (R-AZ), Claire McCaskill (D-MO), Lindsey Graham (R-SC) and Tom Coburn (R-OK) have introduced a major earmark reform bill to cut down on wasteful government spending. The bipartisan group introduced the Fiscal Discipline, Earmark Reform, and Accountability Act of 2009, which would take aggressive steps to prevent unauthorized earmarks in appropriations bills. Read more about the bill at http://feingold.senate.gov/record.cfm?id=306392. Read Senator ...</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=SUc6EVLm9Og'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/SUc6EVLm9Og/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=SUc6EVLm9Og'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/SUc6EVLm9Og'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Bipartisan Group of Senators Introduce Major Earmark Reform Bill</media:title><media:description type='plain'>US Senators Russ Feingold (D-WI), John McCain (R-AZ), Claire McCaskill (D-MO), Lindsey Graham (R-SC) and Tom Coburn (R-OK) have introduced a major earmark reform bill to cut down on wasteful government spending. The bipartisan group introduced the Fiscal Discipline, Earmark Reform, and Accountability Act of 2009, which would take aggressive steps to prevent unauthorized earmarks in appropriations bills. Read more about the bill at http://feingold.senate.gov/record.cfm?id=306392. Read Senator ...</media:description><media:keywords>Feingold, McCain, Coburn, McCaskill, Earmarks, Spending, Deficit, Economy</media:keywords><yt:duration seconds='482'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/SUc6EVLm9Og&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='482' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwno9OZSETpHSRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='482' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwno9OZSETpHSRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='482' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/SUc6EVLm9Og/2.jpg' height='97' width='130' time='00:04:01'/>
+<media:thumbnail url='http://i.ytimg.com/vi/SUc6EVLm9Og/1.jpg' height='97' width='130' time='00:02:00.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/SUc6EVLm9Og/3.jpg' height='97' width='130' time='00:06:01.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/SUc6EVLm9Og/0.jpg' height='240' width='320' time='00:04:01'/>
+<media:player url='http://www.youtube.com/watch?v=SUc6EVLm9Og'/>
+</media:group><yt:statistics viewCount='1827' favoriteCount='1'/>
+<gd:rating min='1' max='5' numRaters='1' average='4.00'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/5s1nrjn1Uj8</id><published>2009-01-26T20:20:53.000Z</published><updated>2009-03-16T18:03:58.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Progressive'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senator'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senate'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Progressivism'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<title type='text'>Feingold on Progressive Change in the Senate</title><content type='text'>Following in the tradition of Wisconsin progressivism, US Senator Russ Feingold is beginning this Congress with a focus on supporting working families, strengthening the voice of the people in government, protecting taxpayer dollars and restoring the rule of law. You can learn more about Senator Feingold at http://feingold.senate.gov. </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=5s1nrjn1Uj8'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/5s1nrjn1Uj8/responses'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/5s1nrjn1Uj8/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=5s1nrjn1Uj8'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/5s1nrjn1Uj8'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold on Progressive Change in the Senate</media:title><media:description type='plain'>Following in the tradition of Wisconsin progressivism, US Senator Russ Feingold is beginning this Congress with a focus on supporting working families, strengthening the voice of the people in government, protecting taxpayer dollars and restoring the rule of law. You can learn more about Senator Feingold at http://feingold.senate.gov. </media:description><media:keywords>Feingold, Senate, Senator, Wisconsin, Progressive, Progressivism</media:keywords><yt:duration seconds='129'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/5s1nrjn1Uj8&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='129' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwk_UvU5rmfN5hMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='129' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwk_UvU5rmfN5hMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='129' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/5s1nrjn1Uj8/2.jpg' height='97' width='130' time='00:01:04.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/5s1nrjn1Uj8/1.jpg' height='97' width='130' time='00:00:32.250'/>
+<media:thumbnail url='http://i.ytimg.com/vi/5s1nrjn1Uj8/3.jpg' height='97' width='130' time='00:01:36.750'/>
+<media:thumbnail url='http://i.ytimg.com/vi/5s1nrjn1Uj8/0.jpg' height='240' width='320' time='00:01:04.500'/>
+<media:player url='http://www.youtube.com/watch?v=5s1nrjn1Uj8'/>
+</media:group><yt:statistics viewCount='588' favoriteCount='2'/>
+<gd:rating min='1' max='5' numRaters='12' average='3.58'/>
+<gd:comments><gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/5s1nrjn1Uj8/comments' countHint='10'/>
+</gd:comments></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/mmFgLB6t-kI</id><published>2009-01-13T17:33:58.000Z</published><updated>2009-03-16T12:19:37.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senate'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Afghanistan'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Clinton'/>
+<title type='text'>Feingold Questions Secretary of State Nominee Clinton on Afghanistan</title><content type='text'>US Senator Russ Feingold questions Secretary of State nominee Hillary Clinton about Afghanistan at a Senate Foreign Relations Committee hearing on January 13, 2009. Read more of Senator Feingold's views on Afghanistan at http://www.csmonitor.com/2008/1024/p09s01-coop.html </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=mmFgLB6t-kI'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/mmFgLB6t-kI/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=mmFgLB6t-kI'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/mmFgLB6t-kI'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold Questions Secretary of State Nominee Clinton on Afghanistan</media:title><media:description type='plain'>US Senator Russ Feingold questions Secretary of State nominee Hillary Clinton about Afghanistan at a Senate Foreign Relations Committee hearing on January 13, 2009. Read more of Senator Feingold's views on Afghanistan at http://www.csmonitor.com/2008/1024/p09s01-coop.html </media:description><media:keywords>Feingold, Clinton, Wisconsin, Senate, Afghanistan</media:keywords><yt:duration seconds='191'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/mmFgLB6t-kI&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='191' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwlC-q0eLGBhmhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='191' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwlC-q0eLGBhmhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='191' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/mmFgLB6t-kI/2.jpg' height='97' width='130' time='00:01:35.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/mmFgLB6t-kI/1.jpg' height='97' width='130' time='00:00:47.750'/>
+<media:thumbnail url='http://i.ytimg.com/vi/mmFgLB6t-kI/3.jpg' height='97' width='130' time='00:02:23.250'/>
+<media:thumbnail url='http://i.ytimg.com/vi/mmFgLB6t-kI/0.jpg' height='240' width='320' time='00:01:35.500'/>
+<media:player url='http://www.youtube.com/watch?v=mmFgLB6t-kI'/>
+</media:group><yt:statistics viewCount='239' favoriteCount='1'/>
+<gd:rating min='1' max='5' numRaters='3' average='5.00'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/10yXpkHnLaI</id><published>2008-11-19T18:04:12.000Z</published><updated>2009-03-14T23:41:59.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Africa'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senator'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Somalia'/>
+<title type='text'>Senator Feingold Remarks on the Crisis in Somalia</title><content type='text'>US Senator Russ Feingold speaks from the Senate floor on the crisis in Somalia. July 31, 2008 </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=10yXpkHnLaI'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/10yXpkHnLaI/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=10yXpkHnLaI'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/10yXpkHnLaI'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Senator Feingold Remarks on the Crisis in Somalia</media:title><media:description type='plain'>US Senator Russ Feingold speaks from the Senate floor on the crisis in Somalia. July 31, 2008 </media:description><media:keywords>Feingold, Senator, Wisconsin, Somalia, Africa</media:keywords><yt:duration seconds='525'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/10yXpkHnLaI&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='525' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwmiLedBppdM1xMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='525' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwmiLedBppdM1xMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='525' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/10yXpkHnLaI/2.jpg' height='97' width='130' time='00:04:22.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/10yXpkHnLaI/1.jpg' height='97' width='130' time='00:02:11.250'/>
+<media:thumbnail url='http://i.ytimg.com/vi/10yXpkHnLaI/3.jpg' height='97' width='130' time='00:06:33.750'/>
+<media:thumbnail url='http://i.ytimg.com/vi/10yXpkHnLaI/0.jpg' height='240' width='320' time='00:04:22.500'/>
+<media:player url='http://www.youtube.com/watch?v=10yXpkHnLaI'/>
+</media:group><yt:statistics viewCount='91'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/HMZRkgjiWlg</id><published>2009-01-13T19:00:46.000Z</published><updated>2009-03-14T07:37:11.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senator'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senate'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Iraq'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Clinton'/>
+<title type='text'>Feingold Questions Secretary of State Nominee Clinton on Iraq</title><content type='text'>Feingold questions Secretary of State nominee Hillary Clinton about Iraq during a Senate Foreign Relations Committee hearing on January 13, 2009. </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=HMZRkgjiWlg'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/HMZRkgjiWlg/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=HMZRkgjiWlg'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/HMZRkgjiWlg'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold Questions Secretary of State Nominee Clinton on Iraq</media:title><media:description type='plain'>Feingold questions Secretary of State nominee Hillary Clinton about Iraq during a Senate Foreign Relations Committee hearing on January 13, 2009. </media:description><media:keywords>Feingold, Clinton, Iraq, Wisconsin, Senate, Senator</media:keywords><yt:duration seconds='243'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/HMZRkgjiWlg&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='243' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwlYWuIIklHGHBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='243' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwlYWuIIklHGHBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='243' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/HMZRkgjiWlg/2.jpg' height='97' width='130' time='00:02:01.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/HMZRkgjiWlg/1.jpg' height='97' width='130' time='00:01:00.750'/>
+<media:thumbnail url='http://i.ytimg.com/vi/HMZRkgjiWlg/3.jpg' height='97' width='130' time='00:03:02.250'/>
+<media:thumbnail url='http://i.ytimg.com/vi/HMZRkgjiWlg/0.jpg' height='240' width='320' time='00:02:01.500'/>
+<media:player url='http://www.youtube.com/watch?v=HMZRkgjiWlg'/>
+</media:group><yt:statistics viewCount='278' favoriteCount='2'/>
+<gd:rating min='1' max='5' numRaters='2' average='3.00'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/RdkORteK-F8</id><published>2008-12-02T19:08:08.000Z</published><updated>2009-02-05T00:01:17.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senator'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senate'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='fisa'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mukasey'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='constitution'/>
+<title type='text'>Feingold Questions Attorney General Nominee Michael Mukasey</title><content type='text'>US Senator Russ Feingold questions Attorney General Nominee Michael Mukasey during a Senate Judiciary Committee hearing. October 18, 2007 </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=RdkORteK-F8'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/RdkORteK-F8/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=RdkORteK-F8'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/RdkORteK-F8'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold Questions Attorney General Nominee Michael Mukasey</media:title><media:description type='plain'>US Senator Russ Feingold questions Attorney General Nominee Michael Mukasey during a Senate Judiciary Committee hearing. October 18, 2007 </media:description><media:keywords>Feingold, Senate, Senator, Wisconsin, fisa, constitution, mukasey</media:keywords><yt:duration seconds='596'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/RdkORteK-F8&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='596' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwlf-IrXRg7ZRRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='596' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwlf-IrXRg7ZRRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='596' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/RdkORteK-F8/2.jpg' height='97' width='130' time='00:04:58'/>
+<media:thumbnail url='http://i.ytimg.com/vi/RdkORteK-F8/1.jpg' height='97' width='130' time='00:02:29'/>
+<media:thumbnail url='http://i.ytimg.com/vi/RdkORteK-F8/3.jpg' height='97' width='130' time='00:07:27'/>
+<media:thumbnail url='http://i.ytimg.com/vi/RdkORteK-F8/0.jpg' height='240' width='320' time='00:04:58'/>
+<media:player url='http://www.youtube.com/watch?v=RdkORteK-F8'/>
+</media:group><yt:statistics viewCount='58'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/Uya_rVLpDLk</id><published>2008-12-01T15:24:22.000Z</published><updated>2009-01-17T12:46:27.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='justice'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='FISA'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senator'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senate'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='government'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='judiciary'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='constitution'/>
+<title type='text'>Feingold on the nomination of Mukasey for Attorney General</title><content type='text'>US Senator Russ Feingold speaks in the Senate Judiciary Committee about the nomination of Judge Mukasey to be the next Attorney General. November 6, 2007. Read the remarks at http://feingold.senate.gov/~feingold/statements/07/11/20071106.htm </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Uya_rVLpDLk'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Uya_rVLpDLk/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Uya_rVLpDLk'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/Uya_rVLpDLk'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold on the nomination of Mukasey for Attorney General</media:title><media:description type='plain'>US Senator Russ Feingold speaks in the Senate Judiciary Committee about the nomination of Judge Mukasey to be the next Attorney General. November 6, 2007. Read the remarks at http://feingold.senate.gov/~feingold/statements/07/11/20071106.htm </media:description><media:keywords>Feingold, Senate, Senator, Wisconsin, FISA, constitution, judiciary, justice, government</media:keywords><yt:duration seconds='599'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/Uya_rVLpDLk&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='599' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwm5DOlSrb8mUxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='599' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwm5DOlSrb8mUxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='599' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/Uya_rVLpDLk/2.jpg' height='97' width='130' time='00:04:59.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/Uya_rVLpDLk/1.jpg' height='97' width='130' time='00:02:29.750'/>
+<media:thumbnail url='http://i.ytimg.com/vi/Uya_rVLpDLk/3.jpg' height='97' width='130' time='00:07:29.250'/>
+<media:thumbnail url='http://i.ytimg.com/vi/Uya_rVLpDLk/0.jpg' height='240' width='320' time='00:04:59.500'/>
+<media:player url='http://www.youtube.com/watch?v=Uya_rVLpDLk'/>
+</media:group><yt:statistics viewCount='26'/>
+<gd:rating min='1' max='5' numRaters='2' average='5.00'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/KKYA-uev2vc</id><published>2008-11-20T16:45:54.000Z</published><updated>2009-02-27T23:06:59.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='FISA'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senate'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senator'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='wiretapping'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='constitution'/>
+<title type='text'>Feingold on an Upcoming Hearing on Secret Law</title><content type='text'>US Senator Russ Feingold speaks about an upcoming hearing on secret law in the Senate Judiciary Subcommittee on the Constitution. April 29, 2008. </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=KKYA-uev2vc'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/KKYA-uev2vc/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=KKYA-uev2vc'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/KKYA-uev2vc'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold on an Upcoming Hearing on Secret Law</media:title><media:description type='plain'>US Senator Russ Feingold speaks about an upcoming hearing on secret law in the Senate Judiciary Subcommittee on the Constitution. April 29, 2008. </media:description><media:keywords>Feingold, Wisconsin, Senator, Senate, FISA, wiretapping, constitution</media:keywords><yt:duration seconds='120'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/KKYA-uev2vc&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='120' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwn32q_n-gCmKBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='120' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwn32q_n-gCmKBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='120' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/KKYA-uev2vc/2.jpg' height='97' width='130' time='00:01:00'/>
+<media:thumbnail url='http://i.ytimg.com/vi/KKYA-uev2vc/1.jpg' height='97' width='130' time='00:00:30'/>
+<media:thumbnail url='http://i.ytimg.com/vi/KKYA-uev2vc/3.jpg' height='97' width='130' time='00:01:30'/>
+<media:thumbnail url='http://i.ytimg.com/vi/KKYA-uev2vc/0.jpg' height='240' width='320' time='00:01:00'/>
+<media:player url='http://www.youtube.com/watch?v=KKYA-uev2vc'/>
+</media:group><yt:statistics viewCount='178'/>
+<gd:rating min='1' max='5' numRaters='1' average='5.00'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/HcRXyz3wRZs</id><published>2008-11-19T20:41:19.000Z</published><updated>2008-11-19T21:29:52.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='gas'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senate'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='oil'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='senator'/>
+<title type='text'>Feingold Introduces Bill to Spur Oil Production</title><content type='text'>US Senator Russ Feingold speaks from the Senate floor on the introduction of the "use it or lose it" bill to spur oil production. July 10, 2008. The legislation, entitled the Responsible Federal Oil and Gas Lease Act, would spur oil companies to develop the 66 million acres of federal land they currently lease but have not developed to produce oil. More information is available at http://feingold.senate.gov/~feingold/releases/08/07/20080710.html </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=HcRXyz3wRZs'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/HcRXyz3wRZs/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=HcRXyz3wRZs'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/HcRXyz3wRZs'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold Introduces Bill to Spur Oil Production</media:title><media:description type='plain'>US Senator Russ Feingold speaks from the Senate floor on the introduction of the "use it or lose it" bill to spur oil production. July 10, 2008. The legislation, entitled the Responsible Federal Oil and Gas Lease Act, would spur oil companies to develop the 66 million acres of federal land they currently lease but have not developed to produce oil. More information is available at http://feingold.senate.gov/~feingold/releases/08/07/20080710.html </media:description><media:keywords>Feingold, Senate, Wisconsin, oil, gas, senator</media:keywords><yt:duration seconds='575'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/HcRXyz3wRZs&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='575' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwmbRfA9y1fEHRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='575' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwmbRfA9y1fEHRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='575' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/HcRXyz3wRZs/2.jpg' height='97' width='130' time='00:04:47.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/HcRXyz3wRZs/1.jpg' height='97' width='130' time='00:02:23.750'/>
+<media:thumbnail url='http://i.ytimg.com/vi/HcRXyz3wRZs/3.jpg' height='97' width='130' time='00:07:11.250'/>
+<media:thumbnail url='http://i.ytimg.com/vi/HcRXyz3wRZs/0.jpg' height='240' width='320' time='00:04:47.500'/>
+<media:player url='http://www.youtube.com/watch?v=HcRXyz3wRZs'/>
+</media:group><yt:statistics viewCount='23'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/IrVxuoWiq-g</id><published>2008-11-20T16:13:30.000Z</published><updated>2009-01-14T16:42:12.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senate'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senator'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='constitution'/>
+<title type='text'>Feingold on Secret Law</title><content type='text'>US Senator Russ Feingold speaks about secret law and the threat to democratic and accountable government at a hearing of the Senate Judiciary Subcommittee on the Constitution. April 30, 2008. Read the full remarks at http://feingold.senate.gov/~feingold/statements/08/04/20080430.htm </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=IrVxuoWiq-g'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/IrVxuoWiq-g/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=IrVxuoWiq-g'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/IrVxuoWiq-g'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold on Secret Law</media:title><media:description type='plain'>US Senator Russ Feingold speaks about secret law and the threat to democratic and accountable government at a hearing of the Senate Judiciary Subcommittee on the Constitution. April 30, 2008. Read the full remarks at http://feingold.senate.gov/~feingold/statements/08/04/20080430.htm </media:description><media:keywords>Feingold, Wisconsin, Senator, Senate, constitution</media:keywords><yt:duration seconds='414'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/IrVxuoWiq-g&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='414' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwnoq6KFunG1IhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='414' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwnoq6KFunG1IhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='414' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/IrVxuoWiq-g/2.jpg' height='97' width='130' time='00:03:27'/>
+<media:thumbnail url='http://i.ytimg.com/vi/IrVxuoWiq-g/1.jpg' height='97' width='130' time='00:01:43.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/IrVxuoWiq-g/3.jpg' height='97' width='130' time='00:05:10.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/IrVxuoWiq-g/0.jpg' height='240' width='320' time='00:03:27'/>
+<media:player url='http://www.youtube.com/watch?v=IrVxuoWiq-g'/>
+</media:group><yt:statistics viewCount='42'/>
+<gd:rating min='1' max='5' numRaters='1' average='5.00'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/fIWZf_fuFwo</id><published>2009-02-09T18:01:37.000Z</published><updated>2009-03-01T22:10:49.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='economy'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='energy'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='e4'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='feingold'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='senate'/>
+<title type='text'>Feingold E4 Provision Included in Senate Economic Recovery Package</title><content type='text'>The US Senate added a measure to the economic recovery package authored by US Senator Russ Feingold to help create jobs by supporting energy efficiency projects. The Feingold provision will boost job growth and help businesses and homeowners go green by expanding the types of projects that are eligible for the Qualified Energy Conservation Bond (QECB) program. Feingolds amendment was accepted to the economic recovery bill and is based on his Community Revitalization Energy Conservation (CREC ...</content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=fIWZf_fuFwo'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/fIWZf_fuFwo/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=fIWZf_fuFwo'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/fIWZf_fuFwo'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold E4 Provision Included in Senate Economic Recovery Package</media:title><media:description type='plain'>The US Senate added a measure to the economic recovery package authored by US Senator Russ Feingold to help create jobs by supporting energy efficiency projects. The Feingold provision will boost job growth and help businesses and homeowners go green by expanding the types of projects that are eligible for the Qualified Energy Conservation Bond (QECB) program. Feingolds amendment was accepted to the economic recovery bill and is based on his Community Revitalization Energy Conservation (CREC ...</media:description><media:keywords>feingold, e4, energy, economy, senate, wisconsin</media:keywords><yt:duration seconds='246'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/fIWZf_fuFwo&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='246' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwkKF-73f5mFfBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='246' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwkKF-73f5mFfBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='246' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/fIWZf_fuFwo/2.jpg' height='97' width='130' time='00:02:03'/>
+<media:thumbnail url='http://i.ytimg.com/vi/fIWZf_fuFwo/1.jpg' height='97' width='130' time='00:01:01.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/fIWZf_fuFwo/3.jpg' height='97' width='130' time='00:03:04.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/fIWZf_fuFwo/0.jpg' height='240' width='320' time='00:02:03'/>
+<media:player url='http://www.youtube.com/watch?v=fIWZf_fuFwo'/>
+</media:group><yt:statistics viewCount='98' favoriteCount='1'/>
+<gd:rating min='1' max='5' numRaters='3' average='5.00'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/_9Sv_PXnj_c</id><published>2008-11-20T18:42:50.000Z</published><updated>2008-11-20T18:50:50.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='water'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='lakes'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senator'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='environment'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='senate'/>
+<title type='text'>Feingold on Great Lakes' falling water levels</title><content type='text'>US Senator Russ Feingold speaks on Great Lakes' falling water levels at a Senate Foreign Relations Committee nominations hearing. Read the remarks at http://feingold.senate.gov/~feingold/statements/08/04/20080416ijc.htm </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=_9Sv_PXnj_c'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/_9Sv_PXnj_c/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=_9Sv_PXnj_c'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/_9Sv_PXnj_c'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold on Great Lakes' falling water levels</media:title><media:description type='plain'>US Senator Russ Feingold speaks on Great Lakes' falling water levels at a Senate Foreign Relations Committee nominations hearing. Read the remarks at http://feingold.senate.gov/~feingold/statements/08/04/20080416ijc.htm </media:description><media:keywords>Wisconsin, Senator, Feingold, senate, lakes, environment, water</media:keywords><yt:duration seconds='458'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/_9Sv_PXnj_c&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='458' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwn3j-f1_K_U_xMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='458' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwn3j-f1_K_U_xMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='458' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/_9Sv_PXnj_c/2.jpg' height='97' width='130' time='00:03:49'/>
+<media:thumbnail url='http://i.ytimg.com/vi/_9Sv_PXnj_c/1.jpg' height='97' width='130' time='00:01:54.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/_9Sv_PXnj_c/3.jpg' height='97' width='130' time='00:05:43.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/_9Sv_PXnj_c/0.jpg' height='240' width='320' time='00:03:49'/>
+<media:player url='http://www.youtube.com/watch?v=_9Sv_PXnj_c'/>
+</media:group><yt:statistics viewCount='33'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/BMWqdF3ZS9g</id><published>2008-11-25T16:23:11.000Z</published><updated>2009-03-04T01:43:06.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='arbitration'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senator'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senate'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='law'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='consumer'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='courts'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='constitution'/>
+<title type='text'>Feingold on Mandatory Arbitration</title><content type='text'>US Senator Feingold speaks on mandatory arbitration at a hearing of the Senate Judiciary Subcommittee on the Constitution. December 12, 2007 Read his remarks at http://feingold.senate.gov/~feingold/statements/07/12/20071212.htm </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=BMWqdF3ZS9g'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/BMWqdF3ZS9g/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=BMWqdF3ZS9g'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/BMWqdF3ZS9g'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold on Mandatory Arbitration</media:title><media:description type='plain'>US Senator Feingold speaks on mandatory arbitration at a hearing of the Senate Judiciary Subcommittee on the Constitution. December 12, 2007 Read his remarks at http://feingold.senate.gov/~feingold/statements/07/12/20071212.htm </media:description><media:keywords>Feingold, Senate, Senator, Wisconsin, consumer, arbitration, law, courts, constitution</media:keywords><yt:duration seconds='329'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/BMWqdF3ZS9g&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='329' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwnYS9lddKrFBBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='329' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwnYS9lddKrFBBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='329' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/BMWqdF3ZS9g/2.jpg' height='97' width='130' time='00:02:44.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/BMWqdF3ZS9g/1.jpg' height='97' width='130' time='00:01:22.250'/>
+<media:thumbnail url='http://i.ytimg.com/vi/BMWqdF3ZS9g/3.jpg' height='97' width='130' time='00:04:06.750'/>
+<media:thumbnail url='http://i.ytimg.com/vi/BMWqdF3ZS9g/0.jpg' height='240' width='320' time='00:02:44.500'/>
+<media:player url='http://www.youtube.com/watch?v=BMWqdF3ZS9g'/>
+</media:group><yt:statistics viewCount='66'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/uRm7rmuqYgc</id><published>2008-11-20T14:23:50.000Z</published><updated>2009-01-16T20:11:43.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='FISA'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senate'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senator'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='wiretapping'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<title type='text'>Feingold on Striking Immunity from the FISA Amendments Act</title><content type='text'>US Senator Russ Feingold speaks from the Senate floor in support Senator Dodd's amendment to strike immunity from the FISA Amendments Act. July 8, 2008. Read the full remarks at http://feingold.senate.gov/~feingold/statements/08/07/20080708.htm </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=uRm7rmuqYgc'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/uRm7rmuqYgc/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=uRm7rmuqYgc'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/uRm7rmuqYgc'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold on Striking Immunity from the FISA Amendments Act</media:title><media:description type='plain'>US Senator Russ Feingold speaks from the Senate floor in support Senator Dodd's amendment to strike immunity from the FISA Amendments Act. July 8, 2008. Read the full remarks at http://feingold.senate.gov/~feingold/statements/08/07/20080708.htm </media:description><media:keywords>Feingold, Wisconsin, Senator, Senate, FISA, wiretapping</media:keywords><yt:duration seconds='449'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/uRm7rmuqYgc&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='449' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwkHYqprrrsZuRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='449' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwkHYqprrrsZuRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='449' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/uRm7rmuqYgc/2.jpg' height='97' width='130' time='00:03:44.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/uRm7rmuqYgc/1.jpg' height='97' width='130' time='00:01:52.250'/>
+<media:thumbnail url='http://i.ytimg.com/vi/uRm7rmuqYgc/3.jpg' height='97' width='130' time='00:05:36.750'/>
+<media:thumbnail url='http://i.ytimg.com/vi/uRm7rmuqYgc/0.jpg' height='240' width='320' time='00:03:44.500'/>
+<media:player url='http://www.youtube.com/watch?v=uRm7rmuqYgc'/>
+</media:group><yt:statistics viewCount='31' favoriteCount='1'/>
+<gd:rating min='1' max='5' numRaters='1' average='5.00'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/LLyI59-LWiY</id><published>2008-11-21T16:03:53.000Z</published><updated>2008-12-09T11:17:53.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='FISA'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senator'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senate'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='wiretapping'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<title type='text'>Feingold on Congressional Access to FISA Court Materials</title><content type='text'>US Senator Russ Feingold speaks from the Senate floor on an amendment to give Congress access to FISA court materials. January 24, 2008. </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=LLyI59-LWiY'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/LLyI59-LWiY/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=LLyI59-LWiY'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/LLyI59-LWiY'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold on Congressional Access to FISA Court Materials</media:title><media:description type='plain'>US Senator Russ Feingold speaks from the Senate floor on an amendment to give Congress access to FISA court materials. January 24, 2008. </media:description><media:keywords>Feingold, Senate, Senator, Wisconsin, FISA, wiretapping</media:keywords><yt:duration seconds='408'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/LLyI59-LWiY&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='408' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwkmWovf54i8LBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='408' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwkmWovf54i8LBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='408' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/LLyI59-LWiY/2.jpg' height='97' width='130' time='00:03:24'/>
+<media:thumbnail url='http://i.ytimg.com/vi/LLyI59-LWiY/1.jpg' height='97' width='130' time='00:01:42'/>
+<media:thumbnail url='http://i.ytimg.com/vi/LLyI59-LWiY/3.jpg' height='97' width='130' time='00:05:06'/>
+<media:thumbnail url='http://i.ytimg.com/vi/LLyI59-LWiY/0.jpg' height='240' width='320' time='00:03:24'/>
+<media:player url='http://www.youtube.com/watch?v=LLyI59-LWiY'/>
+</media:group><yt:statistics viewCount='38'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/41yGd_2shQE</id><published>2008-11-20T15:39:18.000Z</published><updated>2008-11-20T16:37:17.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='gas'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senator'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='energy'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='oil'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='senate'/>
+<title type='text'>Feingold on Providing Relief from High Gas Prices</title><content type='text'>US Senator Russ Feingold speaks about high gas prices and questions oil executives at a Senate Judiciary Committee hearing. May 21, 2008. Read more at http://feingold.senate.gov/~feingold/statements/08/05/20080521h.htm and http://feingold.senate.gov/~feingold/statements/08/05/20080521.htm </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=41yGd_2shQE'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/41yGd_2shQE/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=41yGd_2shQE'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/41yGd_2shQE'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold on Providing Relief from High Gas Prices</media:title><media:description type='plain'>US Senator Russ Feingold speaks about high gas prices and questions oil executives at a Senate Judiciary Committee hearing. May 21, 2008. Read more at http://feingold.senate.gov/~feingold/statements/08/05/20080521h.htm and http://feingold.senate.gov/~feingold/statements/08/05/20080521.htm </media:description><media:keywords>Feingold, Wisconsin, Senator, senate, gas, oil, energy</media:keywords><yt:duration seconds='509'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/41yGd_2shQE&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='509' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwkBhaz9d4Zc4xMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='509' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwkBhaz9d4Zc4xMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='509' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/41yGd_2shQE/2.jpg' height='97' width='130' time='00:04:14.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/41yGd_2shQE/1.jpg' height='97' width='130' time='00:02:07.250'/>
+<media:thumbnail url='http://i.ytimg.com/vi/41yGd_2shQE/3.jpg' height='97' width='130' time='00:06:21.750'/>
+<media:thumbnail url='http://i.ytimg.com/vi/41yGd_2shQE/0.jpg' height='240' width='320' time='00:04:14.500'/>
+<media:player url='http://www.youtube.com/watch?v=41yGd_2shQE'/>
+</media:group><yt:statistics viewCount='20'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/phaaRmuQSXE</id><published>2009-01-13T22:30:00.000Z</published><updated>2009-03-16T06:54:44.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senator'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senate'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='LGBT'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Clinton'/>
+<title type='text'>Feingold Questions Secretary of State Nominee Clinton on Ensuring LGBT Staff Receive Equal Benefits</title><content type='text'>Feingold questions Secretary of State Nominee Clinton on ensuring LGBT staff at the State Department and USAID receive equal benefits and support. Senate Foreign Relations Committee. January 13, 2009. </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=phaaRmuQSXE'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/phaaRmuQSXE/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=phaaRmuQSXE'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/phaaRmuQSXE'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold Questions Secretary of State Nominee Clinton on Ensuring LGBT Staff Receive Equal Benefits</media:title><media:description type='plain'>Feingold questions Secretary of State Nominee Clinton on ensuring LGBT staff at the State Department and USAID receive equal benefits and support. Senate Foreign Relations Committee. January 13, 2009. </media:description><media:keywords>Feingold, Clinton, LGBT, Wisconsin, Senate, Senator</media:keywords><yt:duration seconds='80'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/phaaRmuQSXE&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='80' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwlxSZBrRpoWphMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='80' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwlxSZBrRpoWphMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='80' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/phaaRmuQSXE/2.jpg' height='97' width='130' time='00:00:40'/>
+<media:thumbnail url='http://i.ytimg.com/vi/phaaRmuQSXE/1.jpg' height='97' width='130' time='00:00:20'/>
+<media:thumbnail url='http://i.ytimg.com/vi/phaaRmuQSXE/3.jpg' height='97' width='130' time='00:01:00'/>
+<media:thumbnail url='http://i.ytimg.com/vi/phaaRmuQSXE/0.jpg' height='240' width='320' time='00:00:40'/>
+<media:player url='http://www.youtube.com/watch?v=phaaRmuQSXE'/>
+</media:group><yt:statistics viewCount='247' favoriteCount='2'/>
+<gd:rating min='1' max='5' numRaters='5' average='3.60'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/2r0Hv1acU_I</id><published>2008-11-20T18:58:08.000Z</published><updated>2008-11-21T04:32:40.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senate'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='law'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='judiciary'/>
+<title type='text'>Feingold on Representation in Death Penalty Cases</title><content type='text'>US Senator Russ Feingold speaks about the quality of representation in death penalty cases during a hearing of the Senate Judiciary Subcommittee on the Constitution. April 8, 2008. Read the remarks at http://feingold.senate.gov/~feingold/statements/08/04/20080408.htm </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=2r0Hv1acU_I'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/2r0Hv1acU_I/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=2r0Hv1acU_I'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/2r0Hv1acU_I'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold on Representation in Death Penalty Cases</media:title><media:description type='plain'>US Senator Russ Feingold speaks about the quality of representation in death penalty cases during a hearing of the Senate Judiciary Subcommittee on the Constitution. April 8, 2008. Read the remarks at http://feingold.senate.gov/~feingold/statements/08/04/20080408.htm </media:description><media:keywords>Feingold, Wisconsin, Senate, judiciary, law</media:keywords><yt:duration seconds='350'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/2r0Hv1acU_I&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='350' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwnyU5xWvwe92hMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='350' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwnyU5xWvwe92hMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='350' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/2r0Hv1acU_I/2.jpg' height='97' width='130' time='00:02:55'/>
+<media:thumbnail url='http://i.ytimg.com/vi/2r0Hv1acU_I/1.jpg' height='97' width='130' time='00:01:27.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/2r0Hv1acU_I/3.jpg' height='97' width='130' time='00:04:22.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/2r0Hv1acU_I/0.jpg' height='240' width='320' time='00:02:55'/>
+<media:player url='http://www.youtube.com/watch?v=2r0Hv1acU_I'/>
+</media:group><yt:statistics viewCount='39'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/ve48aKtDzaA</id><published>2008-12-02T18:43:57.000Z</published><updated>2009-02-12T23:15:03.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senator'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senate'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='iraq'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<title type='text'>Feingold on authorization for use of military force in Iraq</title><content type='text'>US Senator Russ Feingold speaks from the Senate floor on the the 5th anniversary of the authorization of the use of military force in Iraq. October 24, 2007. Read the remarks at http://feingold.senate.gov/~feingold/statements/07/10/20071024iraq.htm </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=ve48aKtDzaA'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/ve48aKtDzaA/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=ve48aKtDzaA'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/ve48aKtDzaA'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold on authorization for use of military force in Iraq</media:title><media:description type='plain'>US Senator Russ Feingold speaks from the Senate floor on the the 5th anniversary of the authorization of the use of military force in Iraq. October 24, 2007. Read the remarks at http://feingold.senate.gov/~feingold/statements/07/10/20071024iraq.htm </media:description><media:keywords>Feingold, Senate, Senator, Wisconsin, iraq</media:keywords><yt:duration seconds='268'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/ve48aKtDzaA&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='268' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwmgzUOraDzuvRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='268' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwmgzUOraDzuvRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='268' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/ve48aKtDzaA/2.jpg' height='97' width='130' time='00:02:14'/>
+<media:thumbnail url='http://i.ytimg.com/vi/ve48aKtDzaA/1.jpg' height='97' width='130' time='00:01:07'/>
+<media:thumbnail url='http://i.ytimg.com/vi/ve48aKtDzaA/3.jpg' height='97' width='130' time='00:03:21'/>
+<media:thumbnail url='http://i.ytimg.com/vi/ve48aKtDzaA/0.jpg' height='240' width='320' time='00:02:14'/>
+<media:player url='http://www.youtube.com/watch?v=ve48aKtDzaA'/>
+</media:group><yt:statistics viewCount='53'/>
+<gd:rating min='1' max='5' numRaters='1' average='5.00'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/rXGRL3jU1f4</id><published>2008-11-19T19:02:56.000Z</published><updated>2009-01-15T03:02:20.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senator'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senate'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Water'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Lakes'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<title type='text'>Feingold Chairs Hearing on Great Lakes Compact</title><content type='text'>US Senator Russ Feingold speaks about the Great Lakes Compact while chairing a Senate Judiciary Committee hearing on the measure. July 30, 2008 </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=rXGRL3jU1f4'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/rXGRL3jU1f4/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=rXGRL3jU1f4'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/rXGRL3jU1f4'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold Chairs Hearing on Great Lakes Compact</media:title><media:description type='plain'>US Senator Russ Feingold speaks about the Great Lakes Compact while chairing a Senate Judiciary Committee hearing on the measure. July 30, 2008 </media:description><media:keywords>Feingold, Senate, Wisconsin, Senator, Lakes, Water</media:keywords><yt:duration seconds='212'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/rXGRL3jU1f4&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='212' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwn-1dR4L5FxrRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='212' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwn-1dR4L5FxrRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='212' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/rXGRL3jU1f4/2.jpg' height='97' width='130' time='00:01:46'/>
+<media:thumbnail url='http://i.ytimg.com/vi/rXGRL3jU1f4/1.jpg' height='97' width='130' time='00:00:53'/>
+<media:thumbnail url='http://i.ytimg.com/vi/rXGRL3jU1f4/3.jpg' height='97' width='130' time='00:02:39'/>
+<media:thumbnail url='http://i.ytimg.com/vi/rXGRL3jU1f4/0.jpg' height='240' width='320' time='00:01:46'/>
+<media:player url='http://www.youtube.com/watch?v=rXGRL3jU1f4'/>
+</media:group><yt:statistics viewCount='68'/>
+</entry><entry><id>http://gdata.youtube.com/feeds/api/videos/G1LsANvSQVc</id><published>2008-11-21T16:20:22.000Z</published><updated>2008-11-21T16:27:37.000Z</updated><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News' label='News &amp; Politics'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='FISA'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senate'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Senator'/>
+<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='wiretapping'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wisconsin'/>
+<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Feingold'/>
+<title type='text'>Feingold on the President's Proposed Budget</title><content type='text'>US Senator Russ Feingold speaks about the president's budget at a Senate Budget Committee hearing. February 5, 2008. </content><link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=G1LsANvSQVc'/>
+<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/G1LsANvSQVc/related'/>
+<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=G1LsANvSQVc'/>
+<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/SenRussFeingold/uploads/G1LsANvSQVc'/>
+<author><name>SenRussFeingold</name><uri>http://gdata.youtube.com/feeds/api/users/senrussfeingold</uri></author><media:group><media:title type='plain'>Feingold on the President's Proposed Budget</media:title><media:description type='plain'>US Senator Russ Feingold speaks about the president's budget at a Senate Budget Committee hearing. February 5, 2008. </media:description><media:keywords>Feingold, Wisconsin, Senator, Senate, FISA, wiretapping</media:keywords><yt:duration seconds='226'/>
+<media:category label='News &amp; Politics' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>News</media:category><media:content url='http://www.youtube.com/v/G1LsANvSQVc&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='226' yt:format='5'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwlXQdLbAOxSGxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='226' yt:format='1'/>
+<media:content url='rtsp://rtsp2.youtube.com/CigLENy73wIaHwlXQdLbAOxSGxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='226' yt:format='6'/>
+<media:thumbnail url='http://i.ytimg.com/vi/G1LsANvSQVc/2.jpg' height='97' width='130' time='00:01:53'/>
+<media:thumbnail url='http://i.ytimg.com/vi/G1LsANvSQVc/1.jpg' height='97' width='130' time='00:00:56.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/G1LsANvSQVc/3.jpg' height='97' width='130' time='00:02:49.500'/>
+<media:thumbnail url='http://i.ytimg.com/vi/G1LsANvSQVc/0.jpg' height='240' width='320' time='00:01:53'/>
+<media:player url='http://www.youtube.com/watch?v=G1LsANvSQVc'/>
+</media:group><yt:statistics viewCount='34'/>
+</entry></feed>
