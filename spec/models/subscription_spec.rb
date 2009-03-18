@@ -11,8 +11,6 @@ describe Subscription do
     Subscription.add_location_to_user("32250", @user)
   end
 
-  it "should not add a duplicate location subscription to a user"
-
   it "should parse the location data" do
     Subscription.any_instance.expects(:parse_location_data!)
     Subscription.add_location_to_user("32250", @user)
