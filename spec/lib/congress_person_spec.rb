@@ -27,6 +27,27 @@ describe CongressPerson do
     @congress_person.bioguide_id.should == @congress_person.photo_id
   end
 
+  describe "#bio_text" do
+    it "returns the bio_text if one exists" do
+      bio = Factory(:bio)
+      Bio.expects(:find_by_bioguide_id).returns(bio)
+      @congress_person.bio_text.should == bio.bio
+    end
+    it "returns nil otherwise" do
+      @congress_person.bio_text.should be_nil
+    end
+  end
+
+  describe "#has_bio_text?" do
+    it "knows if it doesn't have a bio" do
+      @congress_person.has_bio_text?.should_not be_true
+    end
+    it "knows if it has a bio" do
+      @congress_person.expects(:bio_text).returns(stub('a bio_text'))
+      @congress_person.has_bio_text?.should be_true
+    end
+  end
+
   describe "legislation methods" do
     before do
       @b1 = Factory(:bill, :sponsor_id => @congress_person.govtrack_id)

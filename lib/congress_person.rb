@@ -72,6 +72,16 @@ class CongressPerson
     !sponsored_bills.empty?
   end
 
+  def bio_text
+    if bio = Bio.find_by_bioguide_id(bioguide_id)
+      bio.bio
+    end
+  end
+
+  def has_bio_text?
+    !bio_text.nil?
+  end
+
   def summary_attributes
     CANDIDATE_SUMMARY_KEYS - [:cand_name, :chamber, :cid, :cycle, :last_updated, :origin, :source]
   end

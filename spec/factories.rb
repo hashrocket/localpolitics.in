@@ -19,3 +19,8 @@ Factory.define Subscription do |s|
   s.longitude     "-81.41416"
   s.association   :user
 end
+
+Factory.define :bio do |bio|
+  bio.bioguide_id 'N00012739'
+  bio.bio         'Some text'
+end
