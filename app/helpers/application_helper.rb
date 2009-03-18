@@ -4,9 +4,9 @@ module ApplicationHelper
     "http://twitter.com/#{representative.twitter_id}"
   end
 
-  def twitter_link_for(representative)
+  def twitter_link_for(representative, link_text = "Follow On Twitter")
     unless representative.twitter_id.blank?
-      link_to "Follow On Twitter", twitter_url_for(representative)
+      link_to link_text, twitter_url_for(representative)
     end
   end
 

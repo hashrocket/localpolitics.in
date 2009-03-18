@@ -25,6 +25,9 @@ describe ApplicationHelper do
       @representative.stubs(:twitter_id).returns('')
       twitter_link_for(@representative).should be_nil
     end
+    it "should set the link text to another string" do
+      twitter_link_for(@representative, "all").should have_tag("a", "all")
+    end
   end
 
   describe "title_and_full_name_for" do
