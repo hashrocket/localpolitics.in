@@ -20,7 +20,8 @@ class CongressPerson
           "district"          => "district",
           "title"             => "title",
           "govtrack_id"       => "govtrack_id",
-          "crp_id"            => "crp_id"
+          "crp_id"            => "crp_id",
+          "youtube_url"       => "youtube_url"
         }
 
   PARTIES = { "R" => "Republican",
@@ -70,6 +71,10 @@ class CongressPerson
 
   def has_sponsored_bills?
     !sponsored_bills.empty?
+  end
+
+  def can_has_youtubes?
+    !youtube_url.blank?
   end
 
   def committees

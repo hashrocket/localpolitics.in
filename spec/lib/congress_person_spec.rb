@@ -23,6 +23,21 @@ describe CongressPerson do
     end
   end
 
+  it "has a youtube_url" do
+    @congress_person.should respond_to(:youtube_url)
+  end
+
+  describe "can_has_youtubes?" do
+    it "returns true if the congress person has a youtube_url" do
+      @congress_person.stubs(:youtube_url).returns("http://youtube.com/something")
+      @congress_person.can_has_youtubes?.should be_true
+    end
+    it "returns false otherwise" do
+      @congress_person.stubs(:youtube_url).returns("")
+      @congress_person.can_has_youtubes?.should be_false
+    end
+  end
+
   describe "tweets" do
     it "should ask Tweet to get recent tweets" do
       @congress_person.stubs(:twitters?).returns(true)
