@@ -21,4 +21,14 @@ module ApplicationHelper
     url = "/govtrack/photos/no_picture.jpeg" unless File.exists?(RAILS_ROOT + "/public" + url)
     image_tag(url, :alt => "Photo of #{representative.full_name}")
   end
+
+  def youtube_embed(url)
+    output = <<-YOUTUBES
+      <object width="213" height="172">
+        <param name="movie" value="#{url}"></param>
+        <param name="allowFullScreen" value="true"></param>
+        <embed src="#{url}" type="application/x-shockwave-flash" allowfullscreen="true" width="213" height="172"></embed>
+      </object>
+    YOUTUBES
+  end
 end

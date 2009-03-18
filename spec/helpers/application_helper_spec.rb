@@ -56,4 +56,10 @@ describe ApplicationHelper do
       govtrack_photo(@congress_person).should have_tag("img[alt=?]", 'Photo of Russell &quot;Cheesecurd&quot; Feingold')
     end
   end
+
+  describe "youtube_embed" do
+    it "should return an embed tag" do
+      youtube_embed("some url").should include("<embed src=\"some url\"")
+    end
+  end
 end
