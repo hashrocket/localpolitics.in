@@ -261,6 +261,15 @@ h1#logo span {
         font-weight: bold;
         color: #fff;
       }
+      #representative_information.details div.meta {
+        background-color:#FFF;
+        padding-left: 15px;
+        text-align:right;
+      }
+      div.meta .youtubes {
+        font-size:0.8em;
+        padding:8px 0px;
+      }
       .democrat { background: #1a294d; }
       .republican { background: #e54141; }
   .record {
@@ -365,7 +374,7 @@ h1#logo span {
     border-bottom:1px dotted #999999;
     padding:2px 0;
   }
-  #representative_information .meta {
+  #representative_information.details .meta {
     float: right;
   }
   #representative_information .basic_info {

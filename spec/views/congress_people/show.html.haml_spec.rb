@@ -6,6 +6,7 @@ describe "CongressPerson show view" do
     @legislator = fake_legislator
     @congress_person = CongressPerson.new(@legislator)
     @congress_person.stubs(:twitters?).returns(false)
+    @congress_person.stubs(:can_has_youtubes?).returns(false)
     assigns[:congress_person] = @congress_person
     @tweets = [Tweet.new(:text => 'tweet', :created_at => Time.now.utc)]
   end
@@ -62,6 +63,12 @@ describe "CongressPerson show view" do
     @congress_person.stubs(:twitters?).returns(false)
     do_render
     response.should_not have_tag(".tweets")
+  end
+  it "has youtube embedded when the congress person can has youtubes" do
+    Youtube.stubs(:most_recent).returns('a url')
+    @congress_person.stubs(:can_has_youtubes?).returns(true)
+    template.expects(:youtube_embed).returns('some html')
+    do_render
   end
 
 end

@@ -1,4 +1,4 @@
-#representative_information
+#representative_information.details
   .photo
     = govtrack_photo(@congress_person)
     - if @congress_person.twitters?
@@ -14,6 +14,11 @@
     .meta
       = party_for(@congress_person)
       = district_id_for(@congress_person)
+      - if @congress_person.can_has_youtubes?
+        .youtubes
+          = youtube_embed(Youtube.most_recent(@congress_person))
+          %br/
+          = link_to "View all Youtube videos", @congress_person.youtube_url
     %h3
       = title_and_full_name_for(@congress_person)
     = link_to "Website", @congress_person.website_url
