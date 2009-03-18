@@ -1,6 +1,15 @@
 #representative_information
   .photo
     = govtrack_photo(@congress_person)
+    - if @congress_person.twitters?
+      .tweets
+        %h4
+          %span{:style => 'float:right'}= twitter_link_for(@congress_person, "view all")
+          Recent tweets
+        .double_content_border
+        %ul
+          - @congress_person.tweets.each do |tweet|
+            %li= auto_link tweet.text
   .basic_info
     .meta
       = party_for(@congress_person)

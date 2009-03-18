@@ -355,6 +355,16 @@ h1#logo span {
     float: left;
     padding-right: 10px;
   }
+  #representative_information .photo .tweets {
+    margin-top:15px;
+    background-color: #ffc;
+    padding: 5px;
+    font-size: 0.8em;
+  }
+  #representative_information .photo .tweets li {
+    border-bottom:1px dotted #999999;
+    padding:2px 0;
+  }
   #representative_information .meta {
     float: right;
   }
@@ -366,6 +376,6 @@ h1#logo span {
   #representative_information h3 {
     margin-bottom: 10px;
   }
-  #representative_information h4 {
+  #representative_information .basic_info h4 {
     margin-top: 15px;
   }

@@ -5,7 +5,9 @@ describe "CongressPerson show view" do
   before do
     @legislator = fake_legislator
     @congress_person = CongressPerson.new(@legislator)
+    @congress_person.stubs(:twitters?).returns(false)
     assigns[:congress_person] = @congress_person
+    @tweets = [Tweet.new(:text => 'tweet', :created_at => Time.now.utc)]
   end
 
   def do_render
@@ -26,6 +28,8 @@ describe "CongressPerson show view" do
     response.should have_tag("a[href=?]", @congress_person.website_url)
   end
   it "should link to the congress person's twitter page" do
+    @congress_person.stubs(:twitters?).returns(true)
+    @congress_person.stubs(:tweets).returns(@tweets)
     @congress_person.stubs(:twitter_id).returns("congress_person")
     do_render
     response.should have_tag("a[href=?]", "http://twitter.com/#{@congress_person.twitter_id}")
@@ -47,6 +51,17 @@ describe "CongressPerson show view" do
     @congress_person.stubs(:committees).returns([Factory(:committee)])
     do_render
     response.should have_tag(".committees", @congress_person.committees.first.name)
+  end
+  it "includes the congress person's recent tweets if s/he twitters" do
+    @congress_person.stubs(:twitters?).returns(true)
+    @congress_person.stubs(:tweets).returns(@tweets)
+    do_render
+    response.should have_tag(".tweets ul li", @tweets.first.text)
+  end
+  it "doesn't include the congress person's tweets otherwise" do
+    @congress_person.stubs(:twitters?).returns(false)
+    do_render
+    response.should_not have_tag(".tweets")
   end
 
 end
