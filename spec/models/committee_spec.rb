@@ -8,4 +8,8 @@ describe Committee do
       committee.should have(1).error_on(:name)
     end
   end
+
+  it 'knows its committee memberships' do
+    Committee.new.should respond_to(:committee_memberships)
+  end
 end
