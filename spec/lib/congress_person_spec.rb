@@ -1,6 +1,8 @@
 require File.expand_path(File.dirname(__FILE__) + '/../spec_helper')
+
 describe CongressPerson do
   before do
+    stub_out_open_secrets_new
     @legislator = fake_legislator
     @congress_person = CongressPerson.new(@legislator)
   end

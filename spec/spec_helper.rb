@@ -5,6 +5,10 @@ require File.expand_path(File.dirname(__FILE__) + "/../config/environment")
 require 'spec'
 require 'spec/rails'
 
+# prevent specs from trying to hit external api's
+require 'fakeweb'
+FakeWeb.allow_net_connect = false
+
 Spec::Runner.configure do |config|
   # If you're not using ActiveRecord you should remove these
   # lines, delete config/database.yml and disable :active_record
