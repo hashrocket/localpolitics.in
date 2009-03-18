@@ -351,8 +351,21 @@ h1#logo span {
 }
 
   #representative_information .photo {
-    width: 100px;
+    width: 200px;
+    float: left;
+    padding-right: 10px;
+  }
+  #representative_information .meta {
+    float: right;
   }
   #representative_information .basic_info {
+    float: left;
+    width: 600px;
     padding: 0;
+  }
+  #representative_information h3 {
+    margin-bottom: 10px;
+  }
+  #representative_information h4 {
+    margin-top: 15px;
   }

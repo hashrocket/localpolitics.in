@@ -37,4 +37,11 @@ describe "CongressPerson show view" do
     do_render
     response.should have_tag(".sponsored_bills")
   end
+  it "includes the congress person's bio" do
+    bio = Factory(:bio)
+    @congress_person.stubs(:bio_text).returns(bio.bio)
+    do_render
+    response.should have_tag(".bio_text", bio.bio)
+  end
+
 end

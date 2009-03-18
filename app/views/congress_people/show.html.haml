@@ -2,29 +2,31 @@
   .photo
     = govtrack_photo(@congress_person)
   .basic_info
-    %h3= title_and_full_name_for(@congress_person)
     .meta
-      %p
-        = party_for(@congress_person)
-      %p.small_margin
-        = district_id_for(@congress_person)
-    %ul.contact
-      %li
-        = link_to "Get In Contact", @congress_person.website_url
-        = twitter_link_for(@congress_person)
-  - if @congress_person.has_candidate_summary?
-    .clear.double_content_border
-    .clear
+      = party_for(@congress_person)
+      = district_id_for(@congress_person)
+    %h3
+      = title_and_full_name_for(@congress_person)
+    = link_to "Website", @congress_person.website_url
+    - if @congress_person.twitters?
+      &bull;
+      = twitter_link_for(@congress_person)
+    .double_content_border
+    - if @congress_person.has_sponsored_bills?
+      %h4 Sponsored bills:
+      .sponsored_bills
+        %ul
+          - @congress_person.sponsored_bills.each do |bill|
+            %li= bill.title
+    - if @congress_person.has_bio_text?
+      %h4 Biographical information
+      .double_content_border
+      .bio_text= @congress_person.bio_text
+    - if @congress_person.has_candidate_summary?
+      .clear.double_content_border
       - @congress_person.summary_attributes.each do |attribute|
         - if @congress_person.currency_attribute?(attribute)
           == #{attribute.to_s.humanize}: #{number_to_currency(@congress_person.send(attribute))}
         - else
           == #{attribute.to_s.humanize}: #{@congress_person.send(attribute)}
         %br/
-  - else
-    .clear
-  - if @congress_person.has_sponsored_bills?
-    .double_content_border.clear
-    .sponsored_bills
-    - @congress_person.sponsored_bills.each do |bill|
-      = bill.title
