@@ -43,5 +43,10 @@ describe "CongressPerson show view" do
     do_render
     response.should have_tag(".bio_text", bio.bio)
   end
+  it "includes the congress person's committee memberships" do
+    @congress_person.stubs(:committees).returns([Factory(:committee)])
+    do_render
+    response.should have_tag(".committees", @congress_person.committees.first.name)
+  end
 
 end

@@ -30,3 +30,9 @@
         - else
           == #{attribute.to_s.humanize}: #{@congress_person.send(attribute)}
         %br/
+    - if @congress_person.has_committees?
+      %h4 Committee Membership
+      .committees
+        %ul
+          - @congress_person.committees.each do |committee|
+            %li= committee.name
