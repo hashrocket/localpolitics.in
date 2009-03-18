@@ -23,6 +23,10 @@ describe CongressPerson do
     end
   end
 
+  it "knows it's bioguide_id" do
+    @congress_person.bioguide_id.should == @congress_person.photo_id
+  end
+
   describe "legislation methods" do
     before do
       @b1 = Factory(:bill, :sponsor_id => @congress_person.govtrack_id)

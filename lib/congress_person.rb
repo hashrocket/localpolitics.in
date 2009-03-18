@@ -104,6 +104,10 @@ class CongressPerson
     "/images/congresspeople/#{photo_id}.jpg"
   end
 
+  def bioguide_id
+    photo_id
+  end
+
   # Returns an array of Arrays, largest contribution to smallest:
   # [["Name", "5000"], ["Other Name", "550"]]
   def top_contributors(qty = 10)
