@@ -23,6 +23,7 @@
       .double_content_border
       .bio_text= @congress_person.bio_text
     - if @congress_person.has_candidate_summary?
+      %h4 Financial Information
       .clear.double_content_border
       - @congress_person.summary_attributes.each do |attribute|
         - if @congress_person.currency_attribute?(attribute)
