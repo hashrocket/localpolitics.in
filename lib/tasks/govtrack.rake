@@ -9,4 +9,9 @@ namespace :govtrack do
   task :import_bios => :environment do
     Data::Bioguide.scrape_bioguide_site
   end
+
+  desc "Import committee memberships from Govtrack xml document"
+  task :import_committees => :environment do
+    Data::Govtrack.import_committee_memberships
+  end
 end

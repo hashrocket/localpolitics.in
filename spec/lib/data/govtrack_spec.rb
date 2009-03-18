@@ -101,5 +101,47 @@ describe Data::Govtrack do
       end
     end
   end
+
+  describe "import_committee_memberships" do
+    before do
+      @xml = <<-XML
+        <?xml version="1.0" ?>
+        <people>
+          <person id='400001' lastname='Abercrombie' firstname='Neil' birthday='1938-06-26' gender='M' osid='N00007665' bioguideid='A000014' metavidid='Neil_Abercrombie' title='Rep.' state='HI' district='1' name='Rep. Neil Abercrombie [D, HI-1]' >
+          <current-committee-assignment committee='House Armed Services' />
+          </person>
+        </people>
+      XML
+      File.stubs(:read).returns(@xml)
+    end
+    it "calls persist_committee_membership for each committee membership" do
+      Data::Govtrack.expects(:persist_committee_membership).with('House Armed Services', '400001')
+      Data::Govtrack.import_committee_memberships
+    end
+  end
+
+  describe "persist_committee_membership" do
+    before do
+      @committee = Factory(:committee)
+      @committee.committee_memberships.stubs(:exists?)
+      Committee.stubs(:find_or_create_by_name).with(@committee.name).returns(@committee)
+      @congress_person = CongressPerson.new(fake_legislator)
+    end
+    it "creates the CommitteeMembership with the correct govtrack_id if it doesn't exist" do
+      @committee.committee_memberships.stubs(:exists?).returns(false)
+      @committee.committee_memberships.expects(:create).with({:govtrack_id => '300042'})
+      Data::Govtrack.persist_committee_membership(@committee.name, '300042')
+    end
+    it "doesn't create a new CommitteeMembership with the correct govtrack_id if it exists" do
+      @committee.committee_memberships.stubs(:exists?).returns(true)
+      @committee.committee_memberships.expects(:create).with({:govtrack_id => @congress_person.govtrack_id}).never
+      Data::Govtrack.persist_committee_membership(@committee.name, '300042')
+    end
+    it "finds or creates a Committee" do
+      Committee.expects(:find_or_create_by_name).with(@committee.name).returns(@committee)
+      Data::Govtrack.persist_committee_membership(@committee.name, '300042')
+    end
+  end
+
 end
 

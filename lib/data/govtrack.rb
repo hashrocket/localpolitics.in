@@ -35,5 +35,25 @@ class Data::Govtrack
       bill.cosponsor_ids  = cosponsor_ids
       bill.save
     end
+
+    def import_committee_memberships
+      xml = File.read(RAILS_ROOT + "/public/govtrack/people.xml")
+      xml_document = Nokogiri::XML.parse(xml)
+
+      xml_document.search("people/person").each do |person|
+        govtrack_id = person['id']
+        person.search("current-committee-assignment").each do |assignment|
+          committee_name = assignment['committee']
+          persist_committee_membership(committee_name, govtrack_id)
+        end
+      end
+
+    end
+    def persist_committee_membership(committee_name, govtrack_id)
+      committee = Committee.find_or_create_by_name(committee_name)
+      unless committee.committee_memberships.exists?(:govtrack_id => govtrack_id)
+        committee.committee_memberships.create(:govtrack_id => govtrack_id)
+      end
+    end
   end
 end
