@@ -80,6 +80,10 @@ class CongressPerson
     !committees.empty?
   end
 
+  def tweets
+    Tweet.recent(twitter_id)# if twitters?
+  end
+
   def twitters?
     !twitter_id.blank?
   end

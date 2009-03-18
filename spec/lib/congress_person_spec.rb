@@ -23,6 +23,14 @@ describe CongressPerson do
     end
   end
 
+  describe "tweets" do
+    it "should ask Tweet to get recent tweets" do
+      @congress_person.stubs(:twitters?).returns(true)
+      Tweet.expects(:recent).returns([Tweet.new(:text => 'tweet', :created_at => Time.now.utc)])
+      @congress_person.tweets
+    end
+  end
+
   it "#twitters? returns true with a twitter_id" do
     @congress_person.stubs(:twitter_id).returns("twitterer")
     @congress_person.twitters?.should be_true
