@@ -72,6 +72,10 @@ class CongressPerson
     !sponsored_bills.empty?
   end
 
+  def twitters?
+    !twitter_id.blank?
+  end
+
   def bio_text
     if bio = Bio.find_by_bioguide_id(bioguide_id)
       bio.bio

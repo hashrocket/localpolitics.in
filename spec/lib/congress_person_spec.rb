@@ -23,6 +23,15 @@ describe CongressPerson do
     end
   end
 
+  it "#twitters? returns true with a twitter_id" do
+    @congress_person.stubs(:twitter_id).returns("twitterer")
+    @congress_person.twitters?.should be_true
+  end
+  it "#twitters? returns false otherwise" do
+    @congress_person.stubs(:twitter_id).returns("")
+    @congress_person.twitters?.should be_false
+  end
+
   it "knows it's bioguide_id" do
     @congress_person.bioguide_id.should == @congress_person.photo_id
   end
