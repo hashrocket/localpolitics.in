@@ -1,19 +1,18 @@
+require 'eycap/recipes'
+
 set :application, "localpolitics.in"
 
 default_run_options[:pty] = true
 set :scm, "git"
 set :repository, "git@github.com:hashrocket/#{application}.git"
-set :repository_cache, "git_cache"
-set :deploy_via, :copy
+set :branch,     $1 if `git branch` =~ /\* (\S+)\s/m
 set :ssh_options, {
   :keys => ["#{ENV['HOME']}/.ec2/id_rsa-hashrocket-utility-keypair"],
   :port => 4777
 }
-set :git_shallow_clone, 1
-set :git_enable_submodules, 1
+set :user, "root"
 
 set :deploy_to, "/var/www/#{application}"
-set :user, "root"
 
 role :web, "ec2-174-129-130-182.compute-1.amazonaws.com"
 role :app, "ec2-174-129-130-182.compute-1.amazonaws.com"
