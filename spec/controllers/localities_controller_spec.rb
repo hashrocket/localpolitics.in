@@ -17,5 +17,12 @@ describe LocalitiesController do
       assigns[:locality].should_not be_nil
     end
   end
+
+  describe "GET show" do
+    it "sets the title" do
+      controller.expects(:set_title).with("LocalPolitics.in/53716")
+      get :show, :q => '53716'
+    end
+  end
 end
 

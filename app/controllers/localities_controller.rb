@@ -6,7 +6,9 @@ class LocalitiesController < ApplicationController
   end
 
   def show
-    @locality = Locality.new params[:q]
-    @top_ten_donors = NewYorkTimes::Donor.top_by_zip(params[:q], 10) rescue nil
+    zip_code = params[:q]
+    set_title("LocalPolitics.in/#{zip_code}")
+    @locality = Locality.new zip_code
+    @top_ten_donors = NewYorkTimes::Donor.top_by_zip(zip_code, 10) rescue nil
   end
 end
