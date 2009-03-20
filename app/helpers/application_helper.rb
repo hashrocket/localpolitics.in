@@ -64,7 +64,7 @@ module ApplicationHelper
                          end
     case preferred_party_class(party_totals)
     when 'democrat leans_heavily_democratic'
-      "Watch out for Fidel! #{democratic_percent} of all donations in your zip code were to Democrats."
+      "Get out your Birkenstocks! #{democratic_percent} of all donations in your zip code were to Democrats."
     when 'republican leans_heavily_republican'
       "Your zip code gives a ton of money to Republicans - #{republican_percent} of all donations."
     when 'democrat leans_democratic'
