@@ -10,5 +10,6 @@ class LocalitiesController < ApplicationController
     set_title("LocalPolitics.in/#{zip_code}")
     @locality = Locality.new zip_code
     @top_ten_donors = NewYorkTimes::Donor.top_by_zip(zip_code, 10) rescue nil
+    @party_totals = NewYorkTimes::CampaignFinance.new.party_totals_by_postal_code(zip_code)
   end
 end
