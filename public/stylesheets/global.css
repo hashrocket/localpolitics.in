@@ -290,6 +290,19 @@ h1#logo span {
         border-bottom: 1px solid #ddd;
       }
 
+#preferred_party {
+  padding-top:10px;
+  float: left;
+  width: 815px;
+  display: inline;
+  color:#fff;
+  text-align:center;
+}
+  #preferred_party .leans_heavily_democratic{ }
+  #preferred_party .leans_heavily_republican{ }
+  #preferred_party .leans_democratic{ }
+  #preferred_party .leans_republican{ }
+  #preferred_party .is_a_wash{ }
 #donor_information {
   margin: 20px; padding: 20px 10px;
   float: left;

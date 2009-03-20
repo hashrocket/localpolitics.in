@@ -6,4 +6,7 @@
   #equalize
     = render :partial => "representative", :collection => @locality.congress_people
 
+  #preferred_party
+    %div{:class => preferred_party_class(@party_totals)}
+      = preferred_party_text(@party_totals)
 = render :partial => 'donor_information' unless @top_ten_donors.nil?

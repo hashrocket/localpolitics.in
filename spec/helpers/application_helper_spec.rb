@@ -62,4 +62,49 @@ describe ApplicationHelper do
       youtube_embed("some url").should include("<embed src=\"some url\"")
     end
   end
+
+  describe "preferred_party_class" do
+    it "returns leans_democratic" do
+      party_totals = {:R => 5, :D => 8}
+      preferred_party_class(party_totals).should == 'democrat leans_democratic'
+    end
+    it "returns leans_heavily_democratic" do
+      party_totals = {:R => 5, :D => 10}
+      preferred_party_class(party_totals).should == 'democrat leans_heavily_democratic'
+    end
+    it "returns leans_republican" do
+      party_totals = {:R => 6, :D => 5}
+      preferred_party_class(party_totals).should == 'republican leans_republican'
+    end
+    it "returns leans_heavily_republican" do
+      party_totals = {:R => 16, :D => 8}
+      preferred_party_class(party_totals).should == 'republican leans_heavily_republican'
+    end
+    it "returns is_a_wash if they are the same" do
+      party_totals = {:R => 8, :D => 8}
+      preferred_party_class(party_totals).should == 'democrat is_a_wash'
+    end
+    it "understands what to do when nobody donates to democrats" do
+      party_totals = {:R => 5, :D => nil}
+      preferred_party_class(party_totals).should == 'republican leans_heavily_republican'
+    end
+    it "understands what to do when nobody donates to republicans" do
+      party_totals = {:R => nil, :D => 5}
+      preferred_party_class(party_totals).should == 'democrat leans_heavily_democratic'
+    end
+  end
+
+  describe "preferred_party_text" do
+    before do
+      @party_totals = {:R => 5, :D => 5}
+    end
+    it "checks the preferred_party_class" do
+      expects(:preferred_party_class).returns('leans_heavily_democratic')
+      preferred_party_text(@party_totals)
+    end
+    it "returns a string" do
+      stubs(:preferred_party_class).returns('leans_heavily_democratic')
+      preferred_party_text(@party_totals).should be_a_kind_of(String)
+    end
+  end
 end
