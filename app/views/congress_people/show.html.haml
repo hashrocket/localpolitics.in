@@ -40,33 +40,37 @@
       %li
         = link_to "Committee Memberships", "#committee_memberships"
     
-    - if @congress_person.has_sponsored_bills?
-      %h4 Sponsored bills:
-      .sponsored_bills
-        %ul
-          - @congress_person.sponsored_bills.each do |bill|
-            %li= bill.title
-    - if @congress_person.has_bio_text?
-      %h4 Biographical information
-      .double_content_border
-      .bio_text= @congress_person.bio_text
-    - if @congress_person.can_has_youtubes?
-      .youtubes
-        = youtube_embed(Youtube.most_recent(@congress_person))
-        %br/
-        = link_to "View all Youtube videos", @congress_person.youtube_url
-    - if @congress_person.has_candidate_summary?
-      %h4 Financial Information
-      .clear.double_content_border
-      - @congress_person.summary_attributes.each do |attribute|
-        - if @congress_person.currency_attribute?(attribute)
-          == #{attribute.to_s.humanize}: #{number_to_currency(@congress_person.send(attribute))}
-        - else
-          == #{attribute.to_s.humanize}: #{@congress_person.send(attribute)}
-        %br/
-    - if @congress_person.has_committees?
-      %h4 Committee Memberships
-      .committees
-        %ul
-          - @congress_person.committees.each do |committee|
-            %li= committee.name
+    #bio
+      - if @congress_person.has_bio_text?
+        %h3 Biographical information
+        .double_content_border
+        .bio_text= @congress_person.bio_text
+      - if @congress_person.can_has_youtubes?
+        .youtubes
+          = youtube_embed(Youtube.most_recent(@congress_person))
+          %br/
+          = link_to "View all Youtube videos", @congress_person.youtube_url
+      - if @congress_person.has_candidate_summary?
+        %h3 Financial Information
+        .clear.double_content_border
+        - @congress_person.summary_attributes.each do |attribute|
+          - if @congress_person.currency_attribute?(attribute)
+            == #{attribute.to_s.humanize}: #{number_to_currency(@congress_person.send(attribute))}
+          - else
+            == #{attribute.to_s.humanize}: #{@congress_person.send(attribute)}
+    
+    #sponsored_bills
+      - if @congress_person.has_sponsored_bills?
+        %h3 Sponsored bills:
+        .sponsored_bills
+          %ul
+            - @congress_person.sponsored_bills.each do |bill|
+              %li= bill.title
+    
+    #committee_memberships
+      - if @congress_person.has_committees?
+        %h3 Committee Memberships
+        .committees
+          %ul
+            - @congress_person.committees.each do |committee|
+              %li= committee.name

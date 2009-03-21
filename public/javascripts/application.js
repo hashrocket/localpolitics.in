@@ -11,6 +11,7 @@ function fade_address(address){
 jQuery(document).ready(function($){
   fade_address($("#f_address"));
   jQuery("#equalize").equalHeights();
+  $(".basic_info").tabs();
 });
 
 jQuery(document).ajaxSend(function(event, request, settings) {

@@ -494,6 +494,13 @@ h1#logo span {
         color: #999;
       }
         #detail_tabs li a:hover { color: #666; }
-        
-  
+        #detail_tabs li.ui-tabs-selected a {
+          background: #fff;
+          color: #0c1b3d;
+        }
+        .ui-tabs .ui-tabs-hide { display: none; }
+    #bio, #sponsored_bills, #committee_memberships {
+      margin: 20px 0; padding: 0 10px;
+    }
+      .sponsored
 
