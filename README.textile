@@ -1,5 +1,11 @@
 h1. localpolitics.in
 
+h2. Setup
+
+You'll want to be running memcached when developing on this app.  The OpenSecrets API has a limit of 200 calls per day, which is easy to reach when each page requires three calls.  The app is setup to handle all the heavy lifting for you... all you have to do is open a new terminal window and type in:
+
+<pre>memcached -vv</pre>
+
 _"All politics is local." -- Tip O'Neill_
 
 *Coming real soon now...*
