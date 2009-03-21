@@ -171,6 +171,36 @@ h4 { font-size: 110%; }
     width: 120px;
   }
   
+  /* back to */
+  #banner_detail {
+    padding: 0 5px 0 45px;
+    float: left;
+    width: 895px; height: 64px;
+    background: url(../images/bg_search.png) no-repeat;
+  }
+    #banner_detail h2 {
+      margin-top: 9px;
+      float: left;
+      width: 500px;
+      font-size: 180%;
+      line-height: normal;
+      color: #fff;
+    }
+      #banner_detail .current {
+        margin: 0 20px 0 0; padding: 2px 5px;
+        background: #bc2020;
+      }
+      #banner_detail h2 small { font-size: 70%; }
+      #banner_detail a:link, #banner_detail a:visited, #banner_detail a:hover, #banner_detail a:active {
+        margin: 12px 100px 0 0;
+        float: right;
+        width: 200px;
+        text-align: right;
+        color: #ddd;
+        display: inline;
+      }
+        #banner_detail a:hover { color: #fff; }
+  
 #intro_benefits {
   margin: 20px; padding: 20px 10px;
   float: left;
@@ -397,42 +427,73 @@ h1#logo span {
       color: #fff;
       font-weight: bold;
     }
-.double_content_border {
-  background: url(/images/content_title_border.gif) repeat-x 0 bottom;
-  height: 5px;
-  margin-bottom:4px;
-}
-.clear {
-  clear:both;
-}
-.title { font-size: 90%; }
 
-  #representative_information .photo {
+#representative_details {
+  margin: 20px; padding: 20px 10px;
+  float: left;
+  width: 830px;
+  background: #fff;
+  display: inline;
+}
+  #representative_details h1 {
+    margin-bottom: 10px;
+    font-size: 300%; 
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+  }
+  #representative_details .photo {
+    padding-right: 10px;
     width: 200px;
     float: left;
-    padding-right: 10px;
-  }
-  #representative_information .photo .tweets {
-    margin-top:15px;
-    background-color: #ffc;
-    padding: 5px;
-    font-size: 0.8em;
-  }
-  #representative_information .photo .tweets li {
-    border-bottom:1px dotted #999999;
-    padding:2px 0;
-  }
-  #representative_information.details .meta {
-    float: right;
-  }
-  #representative_information .basic_info {
+  } 
+  .contact_detail {
+    padding: 10px 10px 0 10px;
     float: left;
-    width: 600px;
-    padding: 0;
+    width: 180px;
   }
-  #representative_information h3 {
-    margin-bottom: 10px;
+  .tweets {
+    margin-top: 20px; padding: 10px;
+    float: left;
+    width: 180px;
   }
-  #representative_information .basic_info h4 {
-    margin-top: 15px;
+    .tweets h3 {
+      margin-bottom: 10px; padding: 2px 0 10px 22px;
+      border-bottom: 1px solid #ddd;
+      background: url(../images/icon_twitter.gif) 0 6px no-repeat;
+    }
+    .tweets ul {
+      float: left;
+      width: 180px;
+    }
+      .tweets li { padding: 5px 0; }
+      .tweets li p.tweet_date {
+        font-size: 90%;
+        color: #999;
+      }
+  .basic_info {
+    float: right;
+    width: 620px;
   }
+    #detail_tabs {
+      margin: 20px 0; padding: 0 10px;
+      float: left;
+      width: 600px;
+      border-bottom: 1px solid #ddd;
+    }
+      #detail_tabs li { float: left; }
+      #detail_tabs li a:link, #detail_tabs li a:visited, #detail_tabs li a:hover, #detail_tabs li a:active {
+        margin: 0 1px; padding: 10px 0;
+        float: left;
+        width: 196px; 
+        text-align: center;
+        border-top: 1px solid #ddd;
+        border-left: 1px solid #ddd;
+        border-right: 1px solid #ddd;
+        display: inline;
+        background: #eee;
+        color: #999;
+      }
+        #detail_tabs li a:hover { color: #666; }
+        
+  
+

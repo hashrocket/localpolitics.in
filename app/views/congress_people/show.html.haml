@@ -1,31 +1,45 @@
-#representative_information.details
+#banner_detail
+  %h2 
+    My Localpolitics.in 
+    %span.current 
+      32258
+  = link_to "Back to Your District", "TODO"
+
+#representative_details
   .photo
     = govtrack_photo(@congress_person)
+    %ul.contact_detail
+      %li
+      = link_to "Website", @congress_person.website_url
+      %li
+      - if @congress_person.twitters?
+        = twitter_link_for(@congress_person)
     - if @congress_person.twitters?
       .tweets
-        %h4
-          %span{:style => 'float:right'}= twitter_link_for(@congress_person, "view all")
-          Recent tweets
-        .double_content_border
+        %h3 Recent tweets
         %ul
           - @congress_person.tweets.each do |tweet|
-            %li= auto_link tweet.text
+            %li
+              = auto_link tweet.text
+              %p.tweet_date
+                == #{distance_of_time_in_words_to_now(@tweet_time)} ago
+        %p= twitter_link_for(@congress_person, "See Twitter Page")
+        
   .basic_info
+    %h1
+      = title_and_full_name_for(@congress_person)
     .meta
       = party_for(@congress_person)
       = district_id_for(@congress_person)
-      - if @congress_person.can_has_youtubes?
-        .youtubes
-          = youtube_embed(Youtube.most_recent(@congress_person))
-          %br/
-          = link_to "View all Youtube videos", @congress_person.youtube_url
-    %h3
-      = title_and_full_name_for(@congress_person)
-    = link_to "Website", @congress_person.website_url
-    - if @congress_person.twitters?
-      &bull;
-      = twitter_link_for(@congress_person)
-    .double_content_border
+          
+    %ul#detail_tabs
+      %li
+        = link_to "Bio", "#bio"
+      %li
+        = link_to "Sponsored Bills", "#sponsored_bills"
+      %li
+        = link_to "Committee Memberships", "#committee_memberships"
+    
     - if @congress_person.has_sponsored_bills?
       %h4 Sponsored bills:
       .sponsored_bills
@@ -36,6 +50,11 @@
       %h4 Biographical information
       .double_content_border
       .bio_text= @congress_person.bio_text
+    - if @congress_person.can_has_youtubes?
+      .youtubes
+        = youtube_embed(Youtube.most_recent(@congress_person))
+        %br/
+        = link_to "View all Youtube videos", @congress_person.youtube_url
     - if @congress_person.has_candidate_summary?
       %h4 Financial Information
       .clear.double_content_border
@@ -47,7 +66,6 @@
         %br/
     - if @congress_person.has_committees?
       %h4 Committee Memberships
-      .double_content_border
       .committees
         %ul
           - @congress_person.committees.each do |committee|
