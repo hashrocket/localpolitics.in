@@ -11,20 +11,22 @@ else
 end
 
 Rails::Initializer.run do |config|
-  # Specify gems that this application depends on. 
-  # They can then be installed with "rake gems:install" on new installations.
-  # You have to specify the :lib option for libraries, where the Gem name (sqlite3-ruby) differs from the file itself (sqlite3)
-  config.gem "ym4r", :version => ">= 0.6.1"
-  config.gem "json", :version => ">= 1.1.3"
   config.gem "google-geocode", :lib => "google_geocode", :version => "1.2.1"
   config.gem "httparty", :version => ">= 0.2.6"
-  config.gem "nokogiri", :version => ">= 1.1.1"
-
+  config.gem "json", :version => ">= 1.1.3"
   config.gem "thoughtbot-factory_girl", :lib => "factory_girl", :version => ">= 1.1.5"
-  config.gem "mocha", :version => ">= 0.9.4"
+  config.gem "ym4r", :version => ">= 0.6.1"
+
+  # gems used for testing don't need to be loaded, so they have the key :lib => false
+  config.gem 'chrisk-fakeweb', :lib => false, :version => '>= 1.1.2.7', :source => 'http://gems.github.com'
+  config.gem "mocha", :lib => false, :version => ">= 0.9.4"
+  config.gem "nokogiri", :lib => false, :version => ">= 1.1.1"
+  config.gem 'rspec', :lib => false, :version => '>= 1.1.12'
+  config.gem 'rspec-rails', :lib => false, :version => '>= 1.1.12'
 
   config.time_zone = 'UTC'
 
+  # FIXME:  secret key must be moved to settings file to avoid exposure
   config.action_controller.session = {
     :session_key => '_localpolitics.in_session',
     :secret      => '43f098bc82f9c8b2cffab59913f4fae6e1d28d2792f2971b987c8ca93a9c1e03b3d688346d16192a56e0f02314c2c9876f4de6a66f30d1e10f9b8a3231e7a48e'
