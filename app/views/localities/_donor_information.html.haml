@@ -14,3 +14,6 @@
           %p
             Amount Donated:
             = number_to_currency donor.last
+  #preferred_party
+    %div{:class => preferred_party_class(@party_totals)}
+      = preferred_party_text(@party_totals)

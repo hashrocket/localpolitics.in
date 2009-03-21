@@ -51,5 +51,6 @@ class Locality
   def top_donors
     @donors ||= NewYorkTimes::CampaignFinance.donor_search_by_postal_code(@postal_code)
   end
+  
 end
 

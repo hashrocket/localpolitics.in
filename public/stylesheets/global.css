@@ -23,18 +23,22 @@ small { font-size: 90%; }
 a:link { 
   color: #1a294d; 
   font-weight: bold; 
+  outline: none;
 }
 a:visited {
   color: #1a294d; 
   font-weight: bold;
+  outline: none;
 }
 a:hover {
   color: #e54141; 
   font-weight: bold;
+  outline: none;
 }
 a:active {
   color: #1a294d; 
   font-weight: bold;
+  outline: none;
 }
 
 /* headers
@@ -77,6 +81,10 @@ h4 { font-size: 110%; }
       width: 129px; height: 56px;
       background: url(../images/logo.png) no-repeat;
     }
+      #logo a {
+        display: block;
+        width: 129px; height: 56px;
+      }
 
   #application {
     float: left;
@@ -142,12 +150,12 @@ h4 { font-size: 110%; }
     float: left;
   }
   #search_zip label { display: none; }
-  #search_zip #title_tagline {
-    margin-top: 10px;
-    text-indent: -9999px;
+  #search_zip h2 {
+    margin-top: 9px;
     float: left;
-    width: 490px; height: 24px;
-    background: url(../images/title_stayupdated.gif) no-repeat;
+    font-size: 180%;
+    line-height: normal;
+    color: #fff;
   }
   #search_zip input { 
     margin: 7px 0 0 0; 
@@ -160,7 +168,7 @@ h4 { font-size: 110%; }
     font-size: 120%;
     font-weight: bold;
     color: #333;
-    width: 200px;
+    width: 120px;
   }
   
 #intro_benefits {
@@ -252,26 +260,53 @@ h1#logo span {
     border: 5px solid #ccc;
     background: #eee;
   }
-      .profile img { 
-        margin-bottom: 10px; 
-        border: 1px solid #ccc; 
-      }
+    .profile .shot {
+      margin-bottom: 10px; 
+      float: left;
+      width: 100px;
+    }
+      .profile img { border: 1px solid #ccc; }
+      
+    .profile_info {
+      float: right;
+      width: 125px;
+    }
       div.meta span {
         padding: 5px;
         font-weight: bold;
         color: #fff;
       }
-      #representative_information.details div.meta {
-        background-color:#FFF;
-        padding-left: 15px;
-        text-align:right;
-      }
-      div.meta .youtubes {
-        font-size:0.8em;
-        padding:8px 0px;
-      }
       .democrat { background: #1a294d; }
       .republican { background: #e54141; }
+    ul.contact {
+      float: left;
+      width: 235px;
+    }
+      ul.contact li { display: inline; }
+        ul.contact li a { 
+          float: left;
+          width: 50%;
+        }
+    .summary {
+      margin-top: 10px; padding-top: 10px;
+      float: left;
+      width: 235px;
+      border-top: 1px solid #ddd;
+    }
+      .summary_label td { width: 50%; }
+      .summary_label { font-weight: bold; }
+    .profile .more {
+      margin: 10px 0 0 0;
+      float: left;
+      width: 235px;
+      border-top: 1px solid #ddd;
+      text-align: center;
+    }
+      .profile .more a { 
+        padding: 10px 0 0 0;
+        display: block; 
+      }
+      
   .record {
     float: right;
     width: 545px;
@@ -291,18 +326,22 @@ h1#logo span {
       }
 
 #preferred_party {
-  padding-top:10px;
   float: left;
-  width: 815px;
+  width: 830px;
   display: inline;
-  color:#fff;
+  color: #fff;
   text-align:center;
 }
+  #preferred_party div { 
+    padding: 5px; 
+    font-weight: bold;
+  }
   #preferred_party .leans_heavily_democratic{ }
   #preferred_party .leans_heavily_republican{ }
   #preferred_party .leans_democratic{ }
   #preferred_party .leans_republican{ }
   #preferred_party .is_a_wash{ }
+  
 #donor_information {
   margin: 20px; padding: 20px 10px;
   float: left;
@@ -366,11 +405,7 @@ h1#logo span {
 .clear {
   clear:both;
 }
-.title {
-  font-size:0.8em;
-  line-height:1.875em;
-  margin-bottom:1.5em;
-}
+.title { font-size: 90%; }
 
   #representative_information .photo {
     width: 200px;

@@ -1,26 +1,34 @@
 .profile
-  %div{:style => "float: left; width: 100px; padding-right: 5px;"}
+  %div.shot
     %img{ :src => representative.photo_path, :alt => representative.full_name }
-  %div{:style => "padding: 0; float: right; width: 120px;"}
-    = link_to representative.full_name, congress_person_path(representative.crp_id)
-    .title= representative.title
+  %div.profile_info
+    %h4
+      = link_to representative.full_name, congress_person_path(representative.crp_id)
+    %p.title
+      = representative.title
     .meta
       %p
         = party_for(representative)
-      %p{:style => "margin-bottom:0.5em;"}
+      %p
         = district_id_for(representative)
-    %ul.contact
-      %li
-        = link_to "Get In Contact", representative.website_url
-        = twitter_link_for(representative)
-  - if representative.has_candidate_summary?
-    .clear.double_content_border
-    .clear
+  %ul.contact
+    %li
+      = link_to "Get In Contact", representative.website_url
+      = twitter_link_for(representative)
+  -# if representative.has_candidate_summary?
+  - if true
+    %table.summary
       - representative.summary_attributes.each do |attribute|
-        - if representative.currency_attribute?(attribute)
-          == #{attribute.to_s.humanize}: #{number_to_currency(representative.send(attribute))}
-        - else
-          == #{attribute.to_s.humanize}: #{representative.send(attribute)}
-        %br/
+        %tr
+          %td.summary_label
+            == #{attribute.to_s.humanize}:
+          %td
+            - if representative.currency_attribute?(attribute)
+              = number_to_currency(representative.send(attribute))
+            - else
+              = representative.send(attribute)
+
   - else
     .clear
+  %p.more
+    = link_to "More Info", congress_person_path(representative.crp_id)
