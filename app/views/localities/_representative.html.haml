@@ -1,8 +1,11 @@
 .profile
   %div{:style => "float: left; width: 100px; padding-right: 5px;"}
-    %img{ :src => representative.photo_path, :alt => representative.full_name }
+    = image_tag(representative.photo_path, :alt => representative.full_name) if representative.has_photo?
   %div{:style => "padding: 0; float: right; width: 120px;"}
-    = link_to representative.full_name, congress_person_path(representative.crp_id)
+    - if representative.has_open_congress_id?
+      = link_to representative.full_name, congress_person_path(representative.crp_id)
+    - else
+      %span.name= representative.full_name
     .title= representative.title
     .meta
       %p

@@ -252,6 +252,10 @@ h1#logo span {
     border: 5px solid #ccc;
     background: #eee;
   }
+    .profile .name {
+      color: #1a294d; 
+      font-weight: bold; 
+    }
       .profile img { 
         margin-bottom: 10px; 
         border: 1px solid #ccc; 
