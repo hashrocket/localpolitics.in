@@ -131,12 +131,20 @@ class CongressPerson
     TITLES[@title] || @title
   end
 
+  def has_photo?
+    !photo_id.blank?
+  end
+
   def photo_path
     "/images/congresspeople/#{photo_id}.jpg"
   end
 
   def bioguide_id
     photo_id
+  end
+
+  def has_open_congress_id?
+    !crp_id.blank?
   end
 
   # Returns an array of Arrays, largest contribution to smallest:

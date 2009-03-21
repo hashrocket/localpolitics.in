@@ -151,4 +151,24 @@ describe CongressPerson do
       @congress_person.has_committees?.should be_false
     end
   end
+  
+  describe "has_photo?" do
+    it "returns false if there's no photo" do
+      @congress_person.stubs(:photo_id).returns("")
+      @congress_person.has_photo?.should be_false
+    end
+    it "returns true if there is a photo" do
+      @congress_person.has_photo?.should be_true
+    end
+  end
+
+  describe "has_open_congress_id?" do
+    it "returns true if there is an open congress id" do
+      @congress_person.has_open_congress_id?.should be_true
+    end
+    it "returns false if it's blank" do
+      @congress_person.stubs(:crp_id).returns("")
+      @congress_person.has_open_congress_id?.should be_false
+    end
+  end
 end
