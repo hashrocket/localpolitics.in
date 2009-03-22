@@ -1,6 +1,6 @@
 function fade_address(address){
   address.bind('click', function(){
-    address.animate({ 'color': 'white' }, 'normal', function(){
+    address.animate({ 'color': 'white' }, 'fast', function(){
       $(this).attr('value', '');
       address.css('color', '#333333')
     });
