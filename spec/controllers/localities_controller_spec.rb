@@ -27,13 +27,20 @@ describe LocalitiesController do
     def do_get
       get :show, :q => '53716'
     end
+
     it "sets the title" do
       controller.expects(:set_title).with("LocalPolitics.in/53716")
       do_get
     end
+
     it "gets donation totals by party" do
       @campaign_finance.expects(:party_totals_by_postal_code).with('53716').returns({:R => 15, :D => 16})
       do_get
+    end
+
+    it 'temporarily stores the zip code' do
+      do_get
+      flash[:zip_code].should == '53716'
     end
   end
 end

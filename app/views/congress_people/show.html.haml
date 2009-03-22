@@ -2,8 +2,8 @@
   %h2 
     My Localpolitics.in 
     %span.current 
-      32258
-  = link_to "Back to Your District", "TODO"
+      = latest_search_or_state_of @congress_person
+  = link_to "Back to Your District", zip_path(latest_search_or_state_of(@congress_person))
 
 #representative_details
   .photo

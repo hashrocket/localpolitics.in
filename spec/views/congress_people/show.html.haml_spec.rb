@@ -8,6 +8,7 @@ describe "CongressPerson show view" do
     @congress_person.stubs(:twitters?).returns(false)
     @congress_person.stubs(:can_has_youtubes?).returns(false)
     assigns[:congress_person] = @congress_person
+    assigns[:tweet_time] = Time.now
     @tweets = [Tweet.new(:text => 'tweet', :created_at => Time.now.utc)]
   end
 
@@ -57,7 +58,8 @@ describe "CongressPerson show view" do
     @congress_person.stubs(:twitters?).returns(true)
     @congress_person.stubs(:tweets).returns(@tweets)
     do_render
-    response.should have_tag(".tweets ul li", @tweets.first.text)
+    #response.should have_tag(".tweets ul li", @tweets.first.text)
+    response.should have_tag(".tweets ul li", :text => %r(#{@tweets.first.text}))
   end
   it "doesn't include the congress person's tweets otherwise" do
     @congress_person.stubs(:twitters?).returns(false)
@@ -69,6 +71,34 @@ describe "CongressPerson show view" do
     @congress_person.stubs(:can_has_youtubes?).returns(true)
     template.expects(:youtube_embed).returns('some html')
     do_render
+  end
+
+  describe 'when previous search available' do
+    before do
+      flash[:zip_code] = '12345'
+    end
+
+    it 'displays your previous search' do
+      do_render
+      response.should have_tag("#banner_detail .current", '12345')
+    end
+
+    it "links back to your previous search state" do
+      do_render
+      response.should have_tag("#banner_detail a[href=?]", zip_path('12345'))
+    end
+  end
+
+  describe 'when previous search unavailable' do
+    it "displays the congress person's state" do
+      do_render
+      response.should have_tag("#banner_detail .current", 'FL')
+    end
+
+    it "links back to the congress person's state" do
+      do_render
+      response.should have_tag("#banner_detail a[href=?]", zip_path('FL'))
+    end
   end
 
 end

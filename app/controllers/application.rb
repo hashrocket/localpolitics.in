@@ -12,7 +12,12 @@ class ApplicationController < ActionController::Base
   # Uncomment this to filter the contents of submitted sensitive data parameters
   # from your application log (in this case, all fields with names like "password"). 
   # filter_parameter_logging :password
-  
+
+  rescue_from "ActionController::RoutingError" do |exception|
+    flash.keep # don't let a routing error reset your flash
+    raise exception
+  end
+
   def set_title(title)
     @title = title
   end
