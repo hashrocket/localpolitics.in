@@ -1,37 +1,38 @@
-.profile
-  %div.shot
-    = image_tag(representative.photo_path, :alt => representative.full_name) if representative.has_photo?
-  %div.profile_info
-    %h4
-      - if representative.has_open_congress_id?
-        = link_to representative.full_name, congress_person_path(representative.crp_id)
-      - else
-        %span.name= representative.full_name
-    %p.title
-      = representative.title
-    .meta
-      %p
-        = party_for(representative)
-      %p
-        = district_id_for(representative)
-  %ul.contact
-    %li
-      = link_to "Get In Contact", representative.website_url
-      = twitter_link_for(representative)
-  -# if representative.has_candidate_summary?
-  - if true
-    %table.summary
-      - representative.summary_attributes.each do |attribute|
-        %tr
-          %td.summary_label
-            == #{attribute.to_s.humanize}:
-          %td
-            - if representative.currency_attribute?(attribute)
-              = number_to_currency(representative.send(attribute))
-            - else
-              = representative.send(attribute)
+- unless representative.nil?
+  .profile
+    %div.shot
+      = image_tag(representative.photo_path, :alt => representative.full_name) if representative.has_photo?
+    %div.profile_info
+      %h4
+        - if representative.has_open_congress_id?
+          = link_to representative.full_name, congress_person_path(representative.crp_id)
+        - else
+          %span.name= representative.full_name
+      %p.title
+        = representative.title
+      .meta
+        %p
+          = party_for(representative)
+        %p
+          = district_id_for(representative)
+    %ul.contact
+      %li
+        = link_to "Get In Contact", representative.website_url
+        = twitter_link_for(representative)
+    -# if representative.has_candidate_summary?
+    - if true
+      %table.summary
+        - representative.summary_attributes.each do |attribute|
+          %tr
+            %td.summary_label
+              == #{attribute.to_s.humanize}:
+            %td
+              - if representative.currency_attribute?(attribute)
+                = number_to_currency(representative.send(attribute))
+              - else
+                = representative.send(attribute)
 
-  - else
-    .clear
-  %p.more
-    = link_to "More Info", congress_person_path(representative.crp_id)
+    - else
+      .clear
+    %p.more
+      = link_to "More Info", congress_person_path(representative.crp_id)
