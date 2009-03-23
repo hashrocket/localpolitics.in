@@ -153,12 +153,31 @@ describe CongressPerson do
   end
   
   describe "has_photo?" do
-    it "returns false if there's no photo" do
+    it "returns false if there's no photo_id" do
       @congress_person.stubs(:photo_id).returns("")
+      File.stubs(:exists?).returns(true)
       @congress_person.has_photo?.should be_false
     end
-    it "returns true if there is a photo" do
+    it "returns false if the photo path doesn't exist" do
+      @congress_person.stubs(:photo_id).returns("12")
+      File.expects(:exists?).with("#{RAILS_ROOT}/public#{@congress_person.photo_path}").returns(false)
+      @congress_person.has_photo?.should be_false
+    end
+    it "returns true if there is a photo_id and the photo path exists" do
       @congress_person.has_photo?.should be_true
+    end
+  end
+
+  describe "photo" do
+    it "returns photo_path if the congress person has a photo" do
+      @congress_person.stubs(:has_photo?).returns(true)
+      @congress_person.expects(:photo_path).returns("a photo path")
+      @congress_person.photo.should == "a photo path"
+    end
+    it "returns default photo otherwise" do
+      @congress_person.stubs(:has_photo?).returns(false)
+      @congress_person.expects(:default_photo_path).returns("a default photo")
+      @congress_person.photo.should == "a default photo"
     end
   end
 

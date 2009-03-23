@@ -132,11 +132,19 @@ class CongressPerson
   end
 
   def has_photo?
-    !photo_id.blank?
+    !photo_id.blank? && File.exists?(File.join(RAILS_ROOT, "public", photo_path))
+  end
+
+  def photo
+    has_photo? ? photo_path : default_photo_path
   end
 
   def photo_path
     "/images/congresspeople/#{photo_id}.jpg"
+  end
+
+  def default_photo_path
+    "/images/no_picture.jpg"
   end
 
   def bioguide_id
