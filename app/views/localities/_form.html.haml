@@ -1,6 +1,6 @@
 - form_tag root_path, :method => :get, :id => "search_zip" do
   %h2 Localpolitics.in
   %p
-    %label{:for => "q"} Enter Address
-    = text_field_tag :q, (params[:q] || 'Enter Zip Code'), :id => "f_address", :class => "f_address"
+    %label{:for => "f_address"} Enter Address
+    = text_field_tag :f_address, (params[:f_address] || 'Enter Zip Code'), :id => "f_address", :class => "f_address"
     = image_submit_tag "submit_search.gif"

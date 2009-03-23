@@ -12,7 +12,19 @@ jQuery(document).ready(function($){
   fade_address($("#f_address"));
   jQuery("#equalize").equalHeights();
   $(".basic_info").tabs();
+
+  jQuery("#search_zip").submit(function($) {
+    zip_code = jQuery("#f_address").val();
+    if ( zip_code.match(/^\d+$/) ) {
+      if (zip_code.length != 5) {
+        jQuery("#zip_code_error").show();
+        jQuery("#flash_errors").hide();
+        return false;
+      }
+    }
+  });
 });
+
 
 jQuery(document).ajaxSend(function(event, request, settings) {
   if(typeof(AUTH_TOKEN) == "undefined") return;

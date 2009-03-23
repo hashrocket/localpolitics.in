@@ -268,7 +268,7 @@ h1#logo span {
       width: 355px;
     }
 
-#representative_information {
+#flash_errors, #zip_code_error, #representative_information {
   margin: 20px; padding: 20px 10px;
   float: left;
   width: 830px;

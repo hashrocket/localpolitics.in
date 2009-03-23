@@ -1,6 +1,11 @@
 - form_tag root_path, :method => :get, :id => "search_zip" do
   %h2 Stay Informed and Take Action in Your Local Political Scene
   %p
-    %label{:for => "q"} Enter Address
-    = text_field_tag :q, 'Enter Zip Code', :id => "f_address", :class => "f_address"
-    = image_submit_tag "submit_search.gif"
+    %label{:for => "f_address"} Enter Address
+    = text_field_tag :f_address, 'Enter Zip Code', :class => "f_address"
+    = image_submit_tag "submit_search.gif", :value => "search"
+#zip_code_error{:style => "display: none;"}
+  Please enter a five-digit zip code.
+- if flash[:error]
+  #flash_errors
+    = flash[:error]

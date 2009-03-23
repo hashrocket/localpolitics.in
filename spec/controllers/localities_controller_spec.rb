@@ -3,6 +3,9 @@ require File.expand_path(File.dirname(__FILE__) + '/../spec_helper')
 describe LocalitiesController do
   before do
     @campaign_finance = stub_nytimes_finance
+    @locality = Locality.new "53716"
+    @locality.stubs(:has_district_data?).returns(true)
+    Locality.stubs(:new).returns(@locality)
   end
   describe "index action" do
     it "renders index if no query" do
@@ -11,19 +14,18 @@ describe LocalitiesController do
     end
 
     it "redirects if there's a query" do
-      get :index, :q => "53716"
+      get :index, :f_address => "53716"
       response.should redirect_to(zip_path("53716"))
-    end
-
-    it "initializes a locality if there's a query" do
-      get :show, :q => "53716"
-      assigns[:locality].should_not be_nil
     end
   end
 
   describe "GET show" do
     def do_get
-      get :show, :q => '53716'
+      get :show, :f_address => '53716'
+    end
+    it "initializes a locality if there's a query" do
+      do_get
+      assigns[:locality].should_not be_nil
     end
 
     it "sets the title" do
@@ -32,6 +34,7 @@ describe LocalitiesController do
     end
 
     it "gets donation totals by party" do
+      @locality.stubs(:postal_code).returns('53716')
       @campaign_finance.expects(:party_totals_by_postal_code).with('53716').returns({:R => 15, :D => 16})
       do_get
     end
@@ -39,6 +42,25 @@ describe LocalitiesController do
     it 'temporarily stores the zip code' do
       do_get
       flash[:zip_code].should == '53716'
+    end
+
+    describe 'with an invalid zip code' do
+      before do
+        @locality = Locality.new "00000"
+        @locality.stubs(:has_district_data?).returns(false)
+        Locality.stubs(:new).returns(@locality)
+      end
+      def do_get
+        get :show, :f_address => '00000'
+      end
+      it "sets a flash message" do
+        do_get
+        flash[:error].should_not be_nil
+      end
+      it "redirects to the home page" do
+        do_get
+        response.should redirect_to(root_path)
+      end
     end
   end
 end
