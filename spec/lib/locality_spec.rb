@@ -12,13 +12,6 @@ describe Locality do
     @locality.legislators
   end
 
-  it "returns a CongressPerson for the senior senator seat" do
-    legislators = Hash.new(:senior_senator => {:first_name => "Bob"})
-    @locality.expects(:legislators).returns(legislators)
-    CongressPerson.expects(:new).with(legislators[:senior_senator])
-    @locality.senior_senator
-  end
-
   it "sets @legislators to the representatives for a given locality" do
     legislators = Hash.new(
                     :senior_senator => {:first_name => "Bob", :last_name => "Dole"},
@@ -31,13 +24,41 @@ describe Locality do
     @locality.instance_variable_get(:@legislators).should == legislators
   end
 
-  it "should return an array of congress persons" do
+  it "should return an array of congress people" do
     OpenSecrets::CandidateSummary.any_instance.stubs(:summary_result).returns(fake_candidate_summary_response)
     summary = OpenSecrets::CandidateSummary.new('some id')
     OpenSecrets::CandidateSummary.stubs(:new).returns(summary)
     Legislator.stubs(:all_for).returns(:senior_senator => fake_legislator, :junior_senator => fake_legislator, :representative => fake_legislator)
     @locality.congress_people.each do |congress_person|
       congress_person.should be_a_kind_of(CongressPerson)
+    end
+  end
+
+  describe "role methods" do
+    it "returns nil if the legislator is nil" do
+      Legislator.stubs(:all_for).returns(no_legislators_returned)
+      @locality.stubs(:valid_role?).returns(false)
+      Locality::ROLES.each do |role|
+        @locality.send(role).should be_nil
+      end
+    end
+    it "returns a congress person otherwise" do
+      Legislator.stubs(:all_for).returns(:senior_senator => fake_legislator, :junior_senator => fake_legislator, :representative => fake_legislator)
+      @locality.stubs(:valid_role?).returns(true)
+      Locality::ROLES.each do |role|
+        @locality.send(role).should be_a_kind_of(CongressPerson)
+      end
+    end
+  end
+
+  describe "valid_role?" do
+    it "returns false if the legislator is nil" do
+      @locality.stubs(:legislators).returns(:senior_senator => nil)
+      @locality.valid_role?("senior_senator").should be_false
+    end
+    it "returns true otherwise" do
+      @locality.stubs(:legislators).returns(:senior_senator => CongressPerson.new(fake_legislator))
+      @locality.valid_role?("senior_senator").should be_true
     end
   end
 
@@ -71,6 +92,21 @@ describe Locality do
        @locality.should_not have_district_data
       end
     end
+  end
+
+  describe "has_legislators?" do
+    it "should return true if any of the legislators exist" do
+      @locality.stubs(:legislators).returns(:senior_senator => nil, :junior_senator => fake_legislator, :representative => nil)
+      @locality.should have_legislators
+    end
+    it "should return false otherwise" do
+      @locality.stubs(:legislators).returns(:senior_senator => nil, :junior_senator => nil, :representative => nil)
+      @locality.should_not have_legislators
+    end
+  end
+
+  def no_legislators_returned
+    {:senior_senator => nil, :junior_senator => nil, :representative => nil}
   end
 
 end

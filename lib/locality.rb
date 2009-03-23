@@ -15,7 +15,7 @@ class Locality
   ROLES.each do |role|
     class_eval <<-CODE
       def #{role}
-        @#{role} ||= CongressPerson.new(legislators[:#{role}])
+        @#{role} ||= CongressPerson.new(legislators[:#{role}]) if valid_role?("#{role}")
       end
     CODE
   end
@@ -55,6 +55,14 @@ class Locality
     return Sunlight::District.all_from_zipcode(postal_code).any? if postal_code
     return !Sunlight::District.get_from_lat_long(latitude, longitude).nil? if latitude && longitude
     false
+  end
+
+  def has_legislators?
+    legislators.values.any? {|legislator| !legislator.nil? }
+  end
+
+  def valid_role?(role)
+    !legislators[role.to_sym].nil?
   end
 end
 
