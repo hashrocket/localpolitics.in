@@ -2,9 +2,7 @@ require File.expand_path(File.dirname(__FILE__) + '/../spec_helper')
 
 describe LocalitiesController do
   before do
-    @campaign_finance = mock('campaign_finance')
-    @campaign_finance.stubs(:party_totals_by_postal_code).with('53716').returns({:R => 15, :D => 16})
-    NewYorkTimes::CampaignFinance.stubs(:new).returns(@campaign_finance)
+    @campaign_finance = stub_nytimes_finance
   end
   describe "index action" do
     it "renders index if no query" do

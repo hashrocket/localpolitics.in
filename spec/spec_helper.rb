@@ -96,4 +96,10 @@ def fake_candidate_summary_response
   {"response"=>{"summary"=>{"cand_name"=>"Crenshaw, Ander ", "chamber"=>"H", "spent"=>"611094", "total"=>"679103", "origin"=>"Center for Responsive Politics", "cycle"=>"2008", "last_updated"=>"12/31/2008", "cash_on_hand"=>"662399", "debt"=>"0", "cid"=>"N00012739", "source"=>"http://www.opensecrets.org/politicians/summary.php?cid=N00012739&amp;cycle=2008", "next_election"=>"2008", "first_elected"=>"2000", "party"=>"R", "state"=>"FL"}}}
 end
 
-
+def stub_nytimes_finance
+  campaign_finance = mock('campaign_finance')
+  campaign_finance.stubs(:party_totals_by_postal_code).returns({:R => 15, :D => 16})
+  campaign_finance.stubs(:donor_search_by_postal_code).returns({})
+  NewYorkTimes::CampaignFinance.stubs(:new).returns(campaign_finance)
+  campaign_finance
+end
