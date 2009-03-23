@@ -38,10 +38,10 @@ describe "CongressPerson show view" do
   end
   it "should list the congress person's sponsored bills" do
     @bill = Factory(:bill)
-    @congress_person.stubs(:sponsored_bills).returns([@bill])
-    @congress_person.stubs(:has_sponsored_bills?).returns(true)
+    @congress_person.stubs(:introduced_bills).returns([@bill])
+    @congress_person.stubs(:has_introduced_bills?).returns(true)
     do_render
-    response.should have_tag(".sponsored_bills")
+    response.should have_tag(".introduced_bills")
   end
   it "includes the congress person's bio" do
     bio = Factory(:bio)

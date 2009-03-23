@@ -65,12 +65,20 @@ class CongressPerson
     congress_people
   end
 
-  def sponsored_bills
+  def introduced_bills
     Bill.find_all_by_sponsor_id(govtrack_id)
   end
 
+  def has_introduced_bills?
+    introduced_bills.any?
+  end
+
+  def sponsored_bills
+    Bill.find(:all, :conditions => ["cosponsor_ids LIKE ?", "%#{govtrack_id}%"])
+  end
+
   def has_sponsored_bills?
-    !sponsored_bills.empty?
+    sponsored_bills.any?
   end
 
   def can_has_youtubes?

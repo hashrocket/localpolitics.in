@@ -85,23 +85,43 @@ describe CongressPerson do
       @b1 = Factory(:bill, :sponsor_id => @congress_person.govtrack_id)
       @b2 = Factory(:bill, :sponsor_id => @congress_person.govtrack_id)
     end
-    describe "#sponsored_bills" do
-      it "returns an array of sponsored bills" do
+    describe "#introduced_bills" do
+      it "returns an array of introduced bills" do
         Bill.stubs(:find_all_by_sponsor_id).returns([@b1,@b2])
-        @congress_person.sponsored_bills.should == [@b1,@b2]
+        @congress_person.introduced_bills.should == [@b1,@b2]
       end
       it "returns empty array when no sponsored bills found" do
-        CongressPerson.new(stub_everything('legislator')).sponsored_bills.should == []
+        CongressPerson.new(stub_everything('legislator')).introduced_bills.should == []
       end
     end
-    describe "#has_sponsored_bills?" do
+    describe "#has_introduced_bills?" do
       it "returns true when bills exist" do
-        Bill.stubs(:find_all_by_sponsor_id).returns([@b1,@b2])
-        @congress_person.has_sponsored_bills?.should be_true
+        @congress_person.stubs(:introduced_bills).returns([@b1,@b2])
+        @congress_person.has_introduced_bills?.should be_true
       end
       it "returns false when no bills exist" do
-        Bill.stubs(:find_all_by_sponsor_id).returns([])
-        @congress_person.has_sponsored_bills?.should be_false
+        @congress_person.stubs(:introduced_bills).returns([])
+        @congress_person.has_introduced_bills?.should be_false
+      end
+    end
+    describe "sponsored_bills" do
+      it "returns an array of sponsored bills" do
+        Bill.stubs(:find).returns([@b1, @b2])
+        @congress_person.sponsored_bills.should == [@b1, @b2]
+      end
+      it "returns an empty array with no sponsored bills" do
+        Bill.stubs(:find).returns([])
+        @congress_person.sponsored_bills.should == []
+      end
+    end
+    describe "has_sponsored_bills?" do
+      it "returns true when sponsored bills exist" do
+        @congress_person.stubs(:sponsored_bills).returns([@b1, @b2])
+        @congress_person.should have_sponsored_bills
+      end
+      it "returns false otherwise" do
+        @congress_person.stubs(:sponsored_bills).returns([])
+        @congress_person.should_not have_sponsored_bills
       end
     end
   end
