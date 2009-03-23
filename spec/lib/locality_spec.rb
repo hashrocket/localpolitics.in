@@ -41,4 +41,36 @@ describe Locality do
     end
   end
 
+  describe "has_district_data?" do
+    describe "with a postal code" do
+      before do
+        @locality.stubs(:postal_code).returns('53716')
+      end
+      it "returns true if sunlight districts are found" do
+       Sunlight::District.stubs(:all_from_zipcode).returns([stub('a district')])
+       @locality.should have_district_data
+      end
+      it "returns false if they're not" do
+       Sunlight::District.stubs(:all_from_zipcode).returns([])
+       @locality.should_not have_district_data
+      end
+    end 
+
+    describe "without a postal code and with latitude and longitude" do
+      before do
+        @locality.stubs(:postal_code).returns(nil)
+        @locality.stubs(:latitude).returns('43.062071')
+        @locality.stubs(:longitude).returns('-89.400846')
+      end
+      it "returns true if sunlight districts are found" do
+       Sunlight::District.stubs(:get_from_lat_long).returns(stub('a district'))
+       @locality.should have_district_data
+      end
+      it "returns false if they're not" do
+       Sunlight::District.stubs(:get_from_lat_long).returns(nil)
+       @locality.should_not have_district_data
+      end
+    end
+  end
+
 end

@@ -1,7 +1,7 @@
 require 'digest/sha1'
 
 class Locality
-  attr_reader :latitude, :longitude, :postal_code
+  attr_reader :latitude, :longitude, :postal_code, :location_data
   ROLES = %w(senior_senator junior_senator representative)
 
   def self.geocoder
@@ -51,6 +51,11 @@ class Locality
   def top_donors
     @donors ||= NewYorkTimes::CampaignFinance.donor_search_by_postal_code(@postal_code)
   end
-  
+
+  def has_district_data?
+    return Sunlight::District.all_from_zipcode(postal_code).any? if postal_code
+    return !Sunlight::District.get_from_lat_long(latitude, longitude).nil? if latitude && longitude
+    false
+  end
 end
 
