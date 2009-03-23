@@ -36,7 +36,7 @@
       %li
         = link_to "Bio", "#bio"
       %li
-        = link_to "Bills Introduced", "#introduced_bills"
+        = link_to "Legislation", "#introduced_bills"
       %li
         = link_to "Committee Memberships", "#committee_memberships"
     
@@ -65,6 +65,12 @@
         .introduced_bills
           %ul
             - @congress_person.introduced_bills.each do |bill|
+              %li= bill.title
+      - if @congress_person.has_sponsored_bills?
+        %h3 Bills Sponsored:
+        .sponsored_bills
+          %ul
+            - @congress_person.sponsored_bills.each do |bill|
               %li= bill.title
     
     #committee_memberships
