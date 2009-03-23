@@ -7,6 +7,7 @@ describe "localities/show" do
     @representative = CongressPerson.new(fake_legislator)
     @locality = Locality.new "53716"
     @locality.stubs(:representative).returns(@representative)
+    @locality.stubs(:has_legislators?).returns(true)
     assigns[:locality] = @locality
     assigns[:party_totals] = {:R => 5, :D => 6}
     template.stubs(:preferred_party_text).returns("You're crazy democratic!")
@@ -29,6 +30,19 @@ describe "localities/show" do
     do_render
     response.should_not have_tag("img[src=?]", "/images/congresspeople/#{@representative.photo_id}.jpg")
   end
+
+  describe "representative information" do
+    it "displays if there are any legislators" do
+      do_render
+      response.should have_tag("div#representative_information")
+    end
+    it "doesn't display with no legislators" do
+      @locality.stubs(:has_legislators?).returns(false)
+      do_render
+      response.should_not have_tag("div#representative_information")
+    end
+  end
+
   describe "preferred party widget" do
     it "uses the correct div" do
       do_render

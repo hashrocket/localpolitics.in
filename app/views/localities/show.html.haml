@@ -1,14 +1,14 @@
 = render :partial => 'form', :locals => { :search_description => "Localpolitics.in" }
 
-#representative_information
-  %h2
-    My Local Congress People
-  #equalize
-    = render :partial => "representative", :collection => @locality.congress_people
-
   #preferred_party
     - if @party_totals
       %div{:class => preferred_party_class(@party_totals)}
         = preferred_party_text(@party_totals)
+- if @locality.has_legislators?
+  #representative_information
+    %h2
+      My Local Congress People
+    #equalize
+      = render :partial => "representative", :collection => @locality.congress_people
 
 = render :partial => 'donor_information' unless @top_ten_donors.nil?
