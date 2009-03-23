@@ -44,6 +44,9 @@ describe "localities/show" do
   end
 
   describe "preferred party widget" do
+    before do
+      assigns[:top_ten_donors] = []
+    end
     it "uses the correct div" do
       do_render
       response.should have_tag("#preferred_party")
