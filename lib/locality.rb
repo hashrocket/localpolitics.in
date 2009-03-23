@@ -23,6 +23,7 @@ class Locality
   def initialize(location_data)
     @location_data = location_data
     @postal_code, @latitude, @longitude = *nil
+    geocode
   end
 
   def cache_key
@@ -39,7 +40,6 @@ class Locality
   end
 
   def legislators
-    geocode
     @legislators ||= Legislator.all_for :latitude => @latitude,
                                         :longitude => @longitude
   end
