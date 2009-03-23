@@ -1,9 +1,12 @@
 .profile
   %div.shot
-    %img{ :src => representative.photo_path, :alt => representative.full_name }
+    = image_tag(representative.photo_path, :alt => representative.full_name) if representative.has_photo?
   %div.profile_info
     %h4
-      = link_to representative.full_name, congress_person_path(representative.crp_id)
+      - if representative.has_open_congress_id?
+        = link_to representative.full_name, congress_person_path(representative.crp_id)
+      - else
+        %span.name= representative.full_name
     %p.title
       = representative.title
     .meta
