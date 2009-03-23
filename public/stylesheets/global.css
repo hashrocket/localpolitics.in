@@ -295,7 +295,10 @@ h1#logo span {
       float: left;
       width: 100px;
     }
-      .profile img { border: 1px solid #ccc; }
+    .profile img {
+      border: 1px solid #ccc;
+      width: 100px;
+    }
       
     .profile_info {
       float: right;

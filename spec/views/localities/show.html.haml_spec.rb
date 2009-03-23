@@ -41,6 +41,10 @@ describe "localities/show" do
       do_render
       response.should_not have_tag("div#representative_information")
     end
+    it "gets the congress person's photo" do
+      @representative.expects(:photo).returns(@representative.default_photo_path)
+      do_render
+    end
   end
 
   describe "preferred party widget" do
