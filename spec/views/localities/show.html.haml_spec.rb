@@ -32,6 +32,13 @@ describe "localities/show" do
   end
 
   describe "representative information" do
+    it "links the image" do
+      @representative.stubs(:photo).returns(@representative.default_photo_path)
+      do_render
+      response.should have_tag("a[href=?]", congress_person_path(@representative.crp_id)) do
+        with_tag("img[src*=?]", @representative.default_photo_path)
+      end
+    end
     it "displays if there are any legislators" do
       do_render
       response.should have_tag("div#representative_information")
