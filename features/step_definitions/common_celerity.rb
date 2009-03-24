@@ -3,7 +3,7 @@ require 'spec/spec_helper'
 
 Before do
   $server ||= Culerity::run_server
-  $browser = Culerity::RemoteBrowserProxy.new $server, {:browser => :firefox}
+  $browser = Culerity::RemoteBrowserProxy.new $server, {:browser => :firefox, :log_level => :severe, :css => true}
   $browser.close
   @host = 'http://localhost:3001'
 end
