@@ -1,0 +1,4 @@
+- if bill.link.blank?
+  %li= bill.title
+- else
+  %li= link_to bill.title, bill.link

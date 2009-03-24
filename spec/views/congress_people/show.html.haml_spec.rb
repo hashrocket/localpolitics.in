@@ -36,20 +36,55 @@ describe "CongressPerson show view" do
     do_render
     response.should have_tag("a[href=?]", "http://twitter.com/#{@congress_person.twitter_id}")
   end
-  it "should list the congress person's introduced bills" do
-    @bill = Factory(:bill)
-    @congress_person.stubs(:introduced_bills).returns([@bill])
-    @congress_person.stubs(:has_introduced_bills?).returns(true)
-    do_render
-    response.should have_tag(".introduced_bills")
+
+  describe "bills widget" do
+    before do
+      @bill = Factory(:bill)
+    end
+
+    describe "introduced_bills" do
+      before do
+        @congress_person.stubs(:introduced_bills).returns([@bill])
+        @congress_person.stubs(:has_introduced_bills?).returns(true)
+      end
+      it "should list the congress person's introduced bills" do
+        do_render
+        response.should have_tag(".introduced_bills")
+      end
+      it "should link to a bill if it is linkable" do
+        @bill.stubs(:link).returns('http://thomas.loc.gov/')
+        do_render
+        response.should have_tag("a[href=?]", 'http://thomas.loc.gov/')
+      end
+      it "should not link to a bill if it doesn't have a link" do
+        @bill.stubs(:link).returns(nil)
+        do_render
+        response.should_not have_tag("a", @bill.title)
+      end
+    end
+
+    describe "sponsored_bills" do
+      before do
+        @congress_person.stubs(:sponsored_bills).returns([@bill])
+        @congress_person.stubs(:has_sponsored_bills?).returns(true)
+      end
+      it "should list the congress person's sponsored bills" do
+        do_render
+        response.should have_tag(".sponsored_bills")
+      end
+      it "should link to a bill if it is linkable" do
+        @bill.stubs(:link).returns('http://thomas.loc.gov/')
+        do_render
+        response.should have_tag("a[href=?]", 'http://thomas.loc.gov/')
+      end
+      it "should not link to a bill if it doesn't have a link" do
+        @bill.stubs(:link).returns(nil)
+        do_render
+        response.should_not have_tag("a", @bill.title)
+      end
+    end
   end
-  it "should list the congress person's sponsored bills" do
-    @bill = Factory(:bill)
-    @congress_person.stubs(:sponsored_bills).returns([@bill])
-    @congress_person.stubs(:has_sponsored_bills?).returns(true)
-    do_render
-    response.should have_tag(".sponsored_bills")
-  end
+
   it "includes the congress person's bio" do
     bio = Factory(:bio)
     @congress_person.stubs(:bio_text).returns(bio.bio)

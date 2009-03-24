@@ -64,14 +64,12 @@
         %h3 Bills Introduced:
         .introduced_bills
           %ul
-            - @congress_person.introduced_bills.each do |bill|
-              %li= bill.title
+            = render :partial => 'bill', :collection => @congress_person.introduced_bills
       - if @congress_person.has_sponsored_bills?
         %h3 Bills Sponsored:
         .sponsored_bills
           %ul
-            - @congress_person.sponsored_bills.each do |bill|
-              %li= bill.title
+            = render :partial => 'bill', :collection => @congress_person.sponsored_bills
     
     #committee_memberships
       - if @congress_person.has_committees?
