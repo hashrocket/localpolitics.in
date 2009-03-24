@@ -505,5 +505,22 @@ h1#logo span {
     #bio, #sponsored_bills, #committee_memberships {
       margin: 20px 0; padding: 0 10px;
     }
-      .sponsored
 
+.row {
+  margin: 10px 0;
+  clear: both;
+}
+  .row input, .row textarea {
+    width: 250px;
+  }
+  .row .field {
+    float: left;
+    width: 100px;
+  }
+  .row .field.required label:after {
+    content: " *";
+    color: #990000;
+  }
+.invitation_text {
+  padding: 0 15px;
+}
