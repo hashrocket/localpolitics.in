@@ -6,6 +6,9 @@ Factory.define Bill do |b|
   b.title         "I'm just a bill"
   b.description   "... sitting on Capitol Hill"
   b.summary       "Well, it's a long, long journey to the capital city.  It's a long, long wait While I'm sitting in committee, But I know I'll be a law someday."
+  b.session       110
+  b.number        '01000'
+  b.bill_type     'h.res.'
 end
 
 Factory.define User do |u|

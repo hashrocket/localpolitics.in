@@ -7,14 +7,52 @@ describe Data::Govtrack do
     end
   end
 
+  describe "map_bill_type" do
+    it "sets 'h' to 'h.r.'" do
+      Data::Govtrack.map_bill_type('h').should == 'h.r.'
+    end
+    it "sets 'hr' to 'h.res.'" do
+      Data::Govtrack.map_bill_type('hr').should == 'h.res.'
+    end
+    it "sets 'hc' to 'h.con.res.'" do
+      Data::Govtrack.map_bill_type('hc').should == 'h.con.res.'
+    end
+    it "sets 'hj' to 'h.j.res.'" do
+      Data::Govtrack.map_bill_type('hj').should == 'h.j.res.'
+    end
+    it "sets 's' to 's.'" do
+      Data::Govtrack.map_bill_type('s').should == 's.'
+    end
+    it "sets 'sr' to 's.res.'" do
+      Data::Govtrack.map_bill_type('sr').should == 's.res.'
+    end
+    it "sets 'sc' to 's.con.res.'" do
+      Data::Govtrack.map_bill_type('sc').should == 's.con.res.'
+    end
+    it "sets 'sj' to 's.j.res.'" do
+      Data::Govtrack.map_bill_type('sj').should == 's.j.res.'
+    end
+  end
+
+  describe "pad_number" do
+    it "adds leading zeros to make a 5 character string" do
+      Data::Govtrack.pad_number("7").should == "00007"
+    end
+  end
+
   describe "import_bills" do
     before do
       Data::Govtrack.stubs(:bills_location_for).returns('bills_location/')
       Dir.stubs(:new).returns(['file_name.xml'])
+      Data::Govtrack.stubs(:import_bill)
+      Bill.stubs(:delete_all)
+    end
+    it "destroys existing bills for this session" do
+      Bill.expects(:delete_all).with('session = 110')
+      Data::Govtrack.import_bills('110')
     end
     it "calls bills_location_for" do
       Data::Govtrack.expects(:bills_location_for).returns('bills_location/')
-      Data::Govtrack.stubs(:import_bill)
       Data::Govtrack.import_bills('110')
     end
     it "finds all xml files in the directory" do
@@ -71,6 +109,26 @@ describe Data::Govtrack do
       end
       it "sets the bill's cosponsor_ids" do
         @bill.expects(:cosponsor_ids=).with(["400290", "400291"])
+        Data::Govtrack.import_bill("some location")
+      end
+      it "sets the bill's session" do
+        @bill.expects(:session=).with(110)
+        Data::Govtrack.import_bill("some location")
+      end
+      it "sets the bill's type" do
+        @bill.expects(:bill_type=).with("h.r.")
+        Data::Govtrack.import_bill("some location")
+      end
+      it "sets the bill's number" do
+        @bill.expects(:number=).with("01000")
+        Data::Govtrack.import_bill("some location")
+      end
+      it "maps the bill's type to a thomas.gov search-compatible type" do
+        Data::Govtrack.expects(:map_bill_type).with("h").returns("h.r.")
+        Data::Govtrack.import_bill("some location")
+      end
+      it "pads the bill's number with leading zeroes" do
+        Data::Govtrack.expects(:pad_number).with("1000").returns("00074")
         Data::Govtrack.import_bill("some location")
       end
       it "saves the new bill" do
