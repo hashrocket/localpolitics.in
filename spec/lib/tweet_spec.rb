@@ -32,4 +32,10 @@ describe Tweet do
       @tweet.created_at.should == @utc_time
     end
   end
+
+  describe "invitation_text" do
+    it "should ask them to sign up" do
+      Tweet.invitation_text.should =~ /Sign up for twitter/i
+    end
+  end
 end
