@@ -12,4 +12,9 @@ class Bill < ActiveRecord::Base
     return if cosponsor_ids.blank?
     CongressPerson.find_all_by_govtrack_id(cosponsor_ids).map(&:full_name).join(", ")
   end
+
+  def link
+    return if session.blank? || bill_type.blank? || number.blank?
+    "http://thomas.loc.gov/cgi-bin/bdquery/z?d#{session}:#{bill_type}#{number}:"
+  end
 end

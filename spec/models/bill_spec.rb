@@ -62,4 +62,25 @@ describe Bill do
       @bill.sponsor_name.should be_nil
     end
   end
+
+  describe "link" do
+    before do
+      @bill = Factory(:bill)
+    end
+    it "returns the correct url" do
+      @bill.link.should == "http://thomas.loc.gov/cgi-bin/bdquery/z?d110:h.res.01000:"
+    end
+    it "returns nil if the session is nil" do
+      @bill.stubs(:session).returns(nil)
+      @bill.link.should be_nil
+    end
+    it "returns nil if the bill_type is nil" do
+      @bill.stubs(:bill_type).returns(nil)
+      @bill.link.should be_nil
+    end
+    it "returns nil if the number is nil" do
+      @bill.stubs(:number).returns(nil)
+      @bill.link.should be_nil
+    end
+  end
 end
