@@ -1,0 +1,57 @@
+<fedspendingSearchResults xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml_format_version="0.7" xsi:noNamespaceSchemaLocation="http://www.fedspending.org/faads/faads_summary.xsd">
+  <search_criteria>
+    <search_criterion field="Recipient Zip" value="32250*"/>
+    <search_criterion field="Federal Fiscal Year" value="2006"/>
+    <search_criterion field="XML Maximum Number of Output Records" value="20"/>
+    <search_criterion field="Sort By" value="No sort (summary only)"/>
+    <search_criterion field="Level of Detail" value="Summary"/>
+    <search_criterion field="Type of Report Output" value="XML"/>
+  </search_criteria>
+  <data compiled_from_government_data_last_released_on="2008-04-01" database="FAADS" description="U.S. Federal grants and other assistance" max_records="20">
+    <record detail="summary" description="summary record for search" database="FAADS">
+      <totals>
+        <fiscal_year>2006</fiscal_year>
+        <fed_total>1517277</fed_total>
+        <number_of_recipients>7</number_of_recipients>
+        <number_of_transactions>11</number_of_transactions>
+      </totals>
+      <top_known_congressional_districts description="Top congressional districts where recipients are located" ranked_by="total obligated amount in dollars" maximum_shown="5">
+      </top_known_congressional_districts>
+      <top_cfda_programs ranked_by="total obligated amount in dollars" maximum_shown="5">
+        <cfda_program rank="1" total_obligatedAmount="962034">14.195: Section 8 Housing Assistance Payments Program_Special Allocations</cfda_program>
+        <cfda_program rank="2" total_obligatedAmount="484000">59.012: Small Business Loans</cfda_program>
+        <cfda_program rank="3" total_obligatedAmount="42526">14.191: Multifamily Housing Service Coordinators</cfda_program>
+        <cfda_program rank="4" total_obligatedAmount="39300">59.008: Physical Disaster Loans</cfda_program>
+        <cfda_program rank="5" total_obligatedAmount="-10583">14.197: Multifamily Assisted Housing Reform and Affordability Act</cfda_program>
+      </top_cfda_programs>
+      <top_agencies_providing_assistance ranked_by="total obligated amount in dollars" maximum_shown="5">
+        <agency rank="1" total_obligatedAmount="993977">HUD - Federal Housing Commissioner</agency>
+        <agency rank="2" total_obligatedAmount="523300">Small Business Administration</agency>
+      </top_agencies_providing_assistance>
+      <top_recipients ranked_by="total obligated amount in dollars" maximum_shown="10">
+        <recipient rank="2" total_obligatedAmount="127500">VIGILANT TECHNOLOGIES, LLC</recipient>
+        <recipient rank="1" total_obligatedAmount="993977">PABLO TOWERS/BEACHES CHRISTIAN SERV</recipient>
+        <recipient rank="3" total_obligatedAmount="127500">JAVA JOZ COFFEE AND MORE</recipient>
+        <recipient rank="4" total_obligatedAmount="127500">CULLUM CHIROPRACTOR LLC</recipient>
+        <recipient rank="5" total_obligatedAmount="68000">BUONA SERA INC</recipient>
+        <recipient rank="6" total_obligatedAmount="39300">THERESE M DUREL</recipient>
+        <recipient rank="7" total_obligatedAmount="33500">MOTTAS ENTERPRISES INC.</recipient>
+      </top_recipients>
+      <assistance_types description="total Federal obligated dollars for each type of governmental assistance">
+<direct_payments_both_specified_and_unrestricted>951451</direct_payments_both_specified_and_unrestricted>
+<grants_and_cooperative_agreements>42526</grants_and_cooperative_agreements>
+<insurance>0</insurance>
+<loans_both_direct_and_guaranteed>523300</loans_both_direct_and_guaranteed>
+<other>0</other>
+      </assistance_types>
+      <recipient_types description="total Federal obligated dollars for each type of recipient">
+<for_profits>0</for_profits>
+<government>962034</government>
+<higher_education>0</higher_education>
+<individuals>523300</individuals>
+<nonprofits>31943</nonprofits>
+<other>0</other>
+      </recipient_types>
+    </record>
+  </data>
+</fedspendingSearchResults>
