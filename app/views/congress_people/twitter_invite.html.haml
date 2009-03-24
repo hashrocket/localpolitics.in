@@ -1,0 +1,29 @@
+%h2== Invite #{@congress_person.full_name} to Twitter!
+
+.instructions
+  Fill out the form, and we'll send your request plus the following text. Fields marked with a red asterisk are required.
+
+-# form_tag send_twitter_invite_path(@congress_person.crp_id), :method => :post, :id => "send_twitter_invite" do
+%form{:id => "send_twitter_invite"}
+  .row
+    .invitation_text
+      = auto_link(@invitation_text)
+  .row
+    .field.required
+      = label_tag('subject')
+    = text_field_tag :subject, @subject
+  .row
+    .field
+      = label_tag('personal_message')
+    = text_area_tag :personal_message
+  .row
+    .field
+      = label_tag('citizen_name', 'Your name')
+    = text_field_tag :citizen_name
+  .row
+    .field.required
+      = label_tag('citizen_email', 'Your email')
+    = text_field_tag :citizen_email
+    = hidden_field_tag :twitter_invite_url, send_twitter_invite_path(@congress_person.crp_id)
+  .row
+    = submit_tag "Send it!"
