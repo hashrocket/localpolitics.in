@@ -24,6 +24,16 @@
               %p.tweet_date
                 == #{distance_of_time_in_words_to_now(@tweet_time)} ago
         %p= twitter_link_for(@congress_person, "See Twitter Page")
+    - else
+      - if can_invite_to_twitter?(@congress_person.crp_id)
+        .invite_to_twitter
+          Your congress person isn't on twitter.
+          = link_to 'Invite them now!', twitter_invite_path(@congress_person.crp_id), :rel => 'facebox'
+        .invited_to_twitter{:style => "display:none;"}
+          == You've invited #{@congress_person.full_name} to twitter!
+      - else
+        .invited_to_twitter
+          == You've invited #{@congress_person.full_name} to twitter!
         
   .basic_info
     %h1
@@ -78,3 +88,4 @@
           %ul
             - @congress_person.committees.each do |committee|
               %li= committee.name
+= hidden_field_tag :congress_person_crp_id, @congress_person.crp_id

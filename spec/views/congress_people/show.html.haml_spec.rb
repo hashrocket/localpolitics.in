@@ -29,12 +29,28 @@ describe "CongressPerson show view" do
     do_render
     response.should have_tag("a[href=?]", @congress_person.website_url)
   end
-  it "should link to the congress person's twitter page" do
-    @congress_person.stubs(:twitters?).returns(true)
-    @congress_person.stubs(:tweets).returns(@tweets)
-    @congress_person.stubs(:twitter_id).returns("congress_person")
-    do_render
-    response.should have_tag("a[href=?]", "http://twitter.com/#{@congress_person.twitter_id}")
+  
+  describe "twitter widget" do
+    it "should link to the congress person's twitter page" do
+      @congress_person.stubs(:twitters?).returns(true)
+      @congress_person.stubs(:tweets).returns(@tweets)
+      @congress_person.stubs(:twitter_id).returns("congress_person")
+      template.stubs(:can_invite_to_twitter?).returns(true)
+      do_render
+      response.should have_tag("a[href=?]", "http://twitter.com/#{@congress_person.twitter_id}")
+    end
+    it "links to a facebox twitter invitation if not already invited" do
+      @congress_person.stubs(:twitters?).returns(false)
+      template.stubs(:can_invite_to_twitter?).returns(true)
+      do_render
+      response.should have_tag("a[href=?][rel*=facebox]", twitter_invite_path(@congress_person.crp_id))
+    end
+    it "indicates the user has already invited the congress person to twitter" do
+      @congress_person.stubs(:twitters?).returns(false)
+      template.stubs(:can_invite_to_twitter?).returns(false)
+      do_render
+      response.should have_tag(".invited_to_twitter")
+    end
   end
 
   describe "bills widget" do

@@ -11,7 +11,7 @@ function fade_address(address){
 jQuery(document).ready(function($){
   fade_address($("#f_address"));
   jQuery("#equalize").equalHeights();
-  $(".basic_info").tabs();
+  jQuery('a[rel*=facebox]').facebox();
 
   jQuery("#search_zip").submit(function($) {
     zip_code = jQuery("#f_address").val();
@@ -23,8 +23,38 @@ jQuery(document).ready(function($){
       }
     }
   });
+  jQuery("#send_twitter_invite").livequery('submit', function($) {
+    if ( (jQuery("#subject").val() == '') || (jQuery("#citizen_email").val() == '') ){
+      alert("Please fill in subject and email before sending.");
+      return false;
+    } else {
+      var destination_url = jQuery("#twitter_invite_url").val();
+      var form_params = jQuery("#send_twitter_invite").serializeArray()
+      jQuery.post(destination_url, form_params, function(data) {
+        jQuery(".invite_to_twitter").hide();
+        jQuery(".invited_to_twitter").fadeIn('slow');
+        jQuery(document).trigger('close.facebox')
+        set_twitter_cookie(jQuery("#congress_person_crp_id").val());
+      });
+      return false;
+    }
+  });
+
+//  $(".basic_info").tabs();
 });
 
+function set_twitter_cookie(id) {
+  var expire_date = new Date("December 21, 2012");
+  expire_date.setTime(expire_date.getTime());
+  previous_values = jQuery.cookie('twitter_invites');
+  if (!(previous_values && previous_values.indexOf(id) >= 0)) {
+    new_values = id;
+    if ( previous_values ) {
+      new_values += ',' + previous_values;
+    }
+    jQuery.cookie('twitter_invites', new_values, { path: '/', expires: expire_date });
+  }
+}
 
 jQuery(document).ajaxSend(function(event, request, settings) {
   if(typeof(AUTH_TOKEN) == "undefined") return;
