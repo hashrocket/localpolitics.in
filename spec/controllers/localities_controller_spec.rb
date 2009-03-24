@@ -6,6 +6,8 @@ describe LocalitiesController do
     @locality = Locality.new "53716"
     @locality.stubs(:has_district_data?).returns(true)
     Locality.stubs(:new).returns(@locality)
+    @top_recipients = [{:name => 'name', :amount => '17', :rank => 1}]
+    FedSpending.stubs(:top_recipients).returns(@top_recipients)
   end
   describe "index action" do
     it "renders index if no query" do
@@ -42,6 +44,16 @@ describe LocalitiesController do
     it 'temporarily stores the zip code' do
       do_get
       flash[:zip_code].should == '53716'
+    end
+
+    it "loads the top recipients of government spending" do
+      FedSpending.expects(:top_recipients).returns(@top_recipients)
+      do_get
+    end
+
+    it "loads a top_recipients instance variable" do
+      do_get
+      assigns[:top_recipients].should == @top_recipients
     end
 
     describe 'with an invalid zip code' do

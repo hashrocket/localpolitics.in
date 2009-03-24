@@ -14,6 +14,7 @@ class LocalitiesController < ApplicationController
       if @locality.postal_code
         @top_ten_donors = NewYorkTimes::Donor.top_by_zip(@locality.postal_code, 10)
         @party_totals = NewYorkTimes::CampaignFinance.new.party_totals_by_postal_code(@locality.postal_code)
+        @top_recipients = FedSpending.top_recipients(:zip_code => @locality.postal_code)
       end
     else
       flash[:error] = "We could not find data for your zip code. If you feel this is an error, contact us at the link below."
