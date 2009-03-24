@@ -1,13 +1,33 @@
 h1. localpolitics.in
 
+Hashrocket's Martin Luther King Jr. Memorial 2009 Hack Day Apps for America Celebrity Rabies Awareness Pro-Am Fun Run Race For The Cure
+
 h2. Setup
 
 You'll want to be running memcached when developing on this app.  The OpenSecrets API has a limit of 200 calls per day, which is easy to reach when each page requires three calls.  The app is setup to handle all the heavy lifting for you... all you have to do is open a new terminal window and type in:
 
 <pre>memcached -vv</pre>
 
+h2. Resources consumed
+
+In creating the localpolitics.in site, we've consumed a number of external resources.  Following is a list.
+
+bq. *"Sunlight Labs API":http://sunlightlabs.com/:* District lookups and display of general district information
+
+bq. *"GovTrack.us":http://govtrack.us:* Imported a list of bills and larger photos for each congress person
+
+bq. *"Bioguide":http://bioguide.congress.gov:* Biographical information for congress people
+
+bq. *"FedSpending":http://www.fedspending.org:* Federal spending information
+
+bq. *"OpenSecrets":http://opensecrets.org:* Campaign finance information
+
+bq. *"New York Times":http://nytimes.com:* Top presidential campaign donors
+
+bq. *"Twitter":http://twitter.com:* Recent tweets for congress people
+
+bq. *"YouTube":http://youtube.com:* Recent video footage for congress people
+
+bq. *"Google":http://google.com:* Geocoding
+
 _"All politics is local." -- Tip O'Neill_
-
-*Coming real soon now...*
-
-Hashrocket's Martin Luther King Jr. Memorial 2009 Hack Day Apps for America Celebrity Rabies Awareness Pro-Am Fun Run Race For The Cure
