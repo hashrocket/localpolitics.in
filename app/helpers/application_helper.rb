@@ -75,4 +75,9 @@ module ApplicationHelper
       "Your zip code donates exactly half and half!  How egalitarian of you."
     end
   end
+
+  def can_invite_to_twitter?(crp_id)
+    return true unless cookies[:twitter_invites] && cookies[:twitter_invites] =~ /#{crp_id}/
+    return false
+  end
 end

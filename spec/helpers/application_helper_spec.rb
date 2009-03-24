@@ -107,4 +107,14 @@ describe ApplicationHelper do
       preferred_party_text(@party_totals).should be_a_kind_of(String)
     end
   end
+
+  describe "can_invite_to_twitter?" do
+    it "returns false if the user's cookie contains the passed in id" do
+      stubs(:cookies).returns({:twitter_invites => 'N00004309'})
+      can_invite_to_twitter?('N00004309').should be_false
+    end
+    it "returns true otherwise" do
+      can_invite_to_twitter?('N00004309').should be_true
+    end
+  end
 end
