@@ -7,4 +7,5 @@
     #equalize
       = render :partial => "representative", :collection => @locality.congress_people
 
+= render :partial => 'government_spending' unless @top_recipients.blank?
 = render :partial => 'donor_information' unless @top_ten_donors.nil?

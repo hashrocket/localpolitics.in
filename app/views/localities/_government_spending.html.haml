@@ -1,0 +1,16 @@
+#government_spending
+  %h2
+    Government Spending in Your Zip Code
+  .top_recipients
+    %h3
+      Top 10 Recipients of Government Money
+    - @top_recipients.each do |recipient|
+      .recipient
+        .rank
+          = recipient[:rank]
+        .recipient_detail
+          %h4
+            = recipient[:name]
+          %p
+            Amount Received:
+            = number_to_currency recipient[:amount]

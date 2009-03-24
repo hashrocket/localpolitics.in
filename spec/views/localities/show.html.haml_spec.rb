@@ -73,6 +73,32 @@ describe "localities/show" do
       response.body.should include('preferred_party_text')
     end
   end
+
+  describe "government spending widget" do
+    before do
+      @top_recipients = [{:name => 'name', :amount => '17', :rank => 1}]
+      assigns[:top_recipients] = @top_recipients
+    end
+    it "uses the correct div" do
+      do_render
+      response.should have_tag("#government_spending")
+    end
+    it "includes top recipients if found" do
+      do_render
+      response.should have_tag(".top_recipients") do
+        @top_recipients.each do |recipient|
+          with_tag(".recipient h4", recipient[:name])
+          with_tag(".recipient p", /#{recipient[:amount]}/)
+        end
+      end
+    end
+    it "doesn't include the widget if no recipients found" do
+      assigns[:top_recipients] = []
+      do_render
+      response.should_not have_tag("#government_spending")
+    end
+  end
+
   def do_render
     render "/localities/show.html.haml"
   end
