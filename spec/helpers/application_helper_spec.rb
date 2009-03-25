@@ -64,47 +64,54 @@ describe ApplicationHelper do
   end
 
   describe "preferred_party_class" do
-    it "returns leans_democratic" do
-      party_totals = {:R => 5, :D => 8}
-      preferred_party_class(party_totals).should == 'democrat leans_democratic'
+    before do
+      @zip_summary = stub('zip_summary')
     end
-    it "returns leans_heavily_democratic" do
-      party_totals = {:R => 5, :D => 10}
-      preferred_party_class(party_totals).should == 'democrat leans_heavily_democratic'
+
+    subject do
+      preferred_party_class(@zip_summary)
     end
-    it "returns leans_republican" do
-      party_totals = {:R => 6, :D => 5}
-      preferred_party_class(party_totals).should == 'republican leans_republican'
+    it "knows the class for light democratic contributions" do
+      @zip_summary.stubs(:lean_party).returns(:D)
+      @zip_summary.stubs(:lean_degree).returns(:light)
+      should == 'democrat leans_lightly'
     end
-    it "returns leans_heavily_republican" do
-      party_totals = {:R => 16, :D => 8}
-      preferred_party_class(party_totals).should == 'republican leans_heavily_republican'
+    it "knows the class for heavy democratic contributions" do
+      @zip_summary.stubs(:lean_party).returns(:D)
+      @zip_summary.stubs(:lean_degree).returns(:heavy)
+      should == 'democrat leans_heavily'
+    end
+    it "knows the class for light republican contributions" do
+      @zip_summary.stubs(:lean_party).returns(:R)
+      @zip_summary.stubs(:lean_degree).returns(:light)
+      should == 'republican leans_lightly'
+    end
+    it "knows the class for heavy republican contributions" do
+      @zip_summary.stubs(:lean_party).returns(:R)
+      @zip_summary.stubs(:lean_degree).returns(:heavy)
+      should == 'republican leans_heavily'
     end
     it "returns is_a_wash if they are the same" do
-      party_totals = {:R => 8, :D => 8}
-      preferred_party_class(party_totals).should == 'democrat is_a_wash'
-    end
-    it "understands what to do when nobody donates to democrats" do
-      party_totals = {:R => 5, :D => nil}
-      preferred_party_class(party_totals).should == 'republican leans_heavily_republican'
-    end
-    it "understands what to do when nobody donates to republicans" do
-      party_totals = {:R => nil, :D => 5}
-      preferred_party_class(party_totals).should == 'democrat leans_heavily_democratic'
+      @zip_summary.stubs(:lean_party).returns(:D)
+      @zip_summary.stubs(:lean_degree).returns(:wash)
+      should == 'democrat is_a_wash'
     end
   end
 
   describe "preferred_party_text" do
     before do
-      @party_totals = {:R => 5, :D => 5}
+      @zip_summary = stub('zip_summary')
+      @zip_summary.stubs(:percentage_of_donations_for).returns(0.78)
     end
-    it "checks the preferred_party_class" do
-      expects(:preferred_party_class).returns('leans_heavily_democratic')
-      preferred_party_text(@party_totals)
+    it "checks which party is leaned toward" do
+      @zip_summary.expects(:lean_party).times(2).returns(:D)
+      @zip_summary.stubs(:lean_degree).returns(:light)
+      preferred_party_text(@zip_summary)
     end
-    it "returns a string" do
-      stubs(:preferred_party_class).returns('leans_heavily_democratic')
-      preferred_party_text(@party_totals).should be_a_kind_of(String)
+    it "checks which how heavily the zip leans" do
+      @zip_summary.stubs(:lean_party).returns(:D)
+      @zip_summary.expects(:lean_degree).returns(:light)
+      preferred_party_text(@zip_summary)
     end
   end
 

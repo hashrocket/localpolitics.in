@@ -98,7 +98,7 @@ end
 
 def stub_nytimes_finance
   campaign_finance = NewYorkTimes::CampaignFinance
-  campaign_finance.stubs(:party_totals_by_postal_code).returns({:R => 15, :D => 16})
+  campaign_finance.stubs(:totals_by_postal_code).returns({:R => 15, :D => 16})
   campaign_finance.stubs(:donor_search_by_postal_code).returns({})
   campaign_finance
 end

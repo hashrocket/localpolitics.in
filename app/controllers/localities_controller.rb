@@ -13,7 +13,7 @@ class LocalitiesController < ApplicationController
     if @locality.has_district_data?
       if @locality.postal_code
         @top_ten_donors = NewYorkTimes::Donor.top_by_zip(@locality.postal_code, 10)
-        @party_totals = NewYorkTimes::CampaignFinance.party_totals_by_postal_code(@locality.postal_code)
+        @party_totals = NewYorkTimes::CampaignFinance.totals_by_postal_code(@locality.postal_code)
         @top_recipients = FedSpending.top_recipients(:zip_code => @locality.postal_code)
       end
     else

@@ -33,44 +33,30 @@ module ApplicationHelper
   end
 
   def preferred_party_class(party_totals)
-    democratic_dollars = party_totals[:D]
-    republican_dollars = party_totals[:R]
-    if democratic_dollars && republican_dollars
-      return 'democrat is_a_wash' if democratic_dollars == republican_dollars
-      return 'democrat leans_heavily_democratic' if (democratic_dollars / 2) >= republican_dollars
-      return 'republican leans_heavily_republican' if (republican_dollars / 2) >= democratic_dollars
-      return 'democrat leans_democratic' if democratic_dollars > republican_dollars
-      return 'republican leans_republican' if republican_dollars > democratic_dollars
-    else
-      return 'democrat is_a_wash' if democratic_dollars.blank? && republican_dollars.blank?
-      return 'democrat leans_heavily_democratic' if republican_dollars.blank?
-      return 'republican leans_heavily_republican' if democratic_dollars.blank?
+    party = case party_totals.lean_party
+    when :D then "democrat"
+    when :R then "republican"
+    else party_totals.lean_party.to_s
+    end
+
+    party + " " << case party_totals.lean_degree
+    when :heavy then "leans_heavily"
+    when :light then "leans_lightly"
+    when :wash  then "is_a_wash"
     end
   end
 
   def preferred_party_text(party_totals)
-    democratic_dollars = party_totals[:D]
-    republican_dollars = party_totals[:R]
-    total_dollars      = party_totals[:D] + party_totals[:R] if democratic_dollars && republican_dollars
-    democratic_percent = if democratic_dollars && republican_dollars
-                           number_to_percentage(democratic_dollars / total_dollars * 100, :precision => 1)
-                         else
-                           number_to_percentage(democratic_dollars ? 100 : 0, :precision => 1)
-                         end
-    republican_percent = if democratic_dollars && republican_dollars
-                           number_to_percentage(republican_dollars / total_dollars * 100, :precision => 1)
-                         else
-                           number_to_percentage(republican_dollars ? 0 : 100, :precision => 1)
-                         end
-    case preferred_party_class(party_totals)
-    when 'democrat leans_heavily_democratic'
-      "Get out your Birkenstocks! #{democratic_percent} of all donations in your zip code were to Democrats."
-    when 'republican leans_heavily_republican'
-      "Your zip code gives a ton of money to Republicans - #{republican_percent} of all donations."
-    when 'democrat leans_democratic'
-      "Your zip code leans Democratic - they received #{democratic_percent} of all donations."
-    when 'republican leans_republican'
-      "Your zip code leans Republican - they received #{republican_percent} of all donations."
+    percentage = number_to_percentage(party_totals.percentage_of_donations_for(party_totals.lean_party) * 100, :precision => 1)
+    case [party_totals.lean_party, party_totals.lean_degree]
+    when [:D, :heavy] 
+      "Get out your Birkenstocks! #{percentage} of all donations in your zip code were to Democrats."
+    when [:D, :light]
+      "Your zip code leans Democratic - they received #{percentage} of all donations."
+    when [:R, :heavy]
+      "Your zip code gives a ton of money to Republicans - #{percentage} of all donations."
+    when [:R, :light]
+      "Your zip code leans Republican - they received #{percentage} of all donations."
     else
       "Your zip code donates exactly half and half!  How egalitarian of you."
     end

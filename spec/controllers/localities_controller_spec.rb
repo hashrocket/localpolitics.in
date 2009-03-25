@@ -37,7 +37,7 @@ describe LocalitiesController do
 
     it "gets donation totals by party" do
       @locality.stubs(:postal_code).returns('53716')
-      @campaign_finance.expects(:party_totals_by_postal_code).with('53716').returns({:R => 15, :D => 16})
+      @campaign_finance.expects(:totals_by_postal_code).with('53716').returns({:R => 15, :D => 16})
       do_get
     end
 
