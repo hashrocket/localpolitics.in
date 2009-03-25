@@ -42,7 +42,7 @@ jQuery(document).ready(function($){
   // facebox breaks the culerity test suite, so we've placed this call last
   jQuery('a[rel*=facebox]').facebox();
 
-//  $(".basic_info").tabs();
+  $(".basic_info").tabs();
 });
 
 function set_twitter_cookie(id) {
