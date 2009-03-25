@@ -519,3 +519,29 @@ h1#logo span {
 .invitation_text {
   padding: 0 15px;
 }
+
+#government_spending {
+  margin: 20px; padding: 20px 10px;
+  float: left;
+  width: 830px;
+  display: inline;
+  background: #fff;
+}
+  #government_spending h2 {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+  }
+  .recipient {
+    margin-bottom: 10px; padding: 0 10px;
+    float: left;
+    width: 395px;
+  }
+    .recipient .rank {
+      float: left;
+      width: 19px;
+      border-right: 1px solid #ddd;
+    }
+    .recipient .recipient_detail {
+      float: right;
+      width: 355px;
+    }
