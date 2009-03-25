@@ -97,9 +97,8 @@ def fake_candidate_summary_response
 end
 
 def stub_nytimes_finance
-  campaign_finance = mock('campaign_finance')
+  campaign_finance = NewYorkTimes::CampaignFinance
   campaign_finance.stubs(:party_totals_by_postal_code).returns({:R => 15, :D => 16})
   campaign_finance.stubs(:donor_search_by_postal_code).returns({})
-  NewYorkTimes::CampaignFinance.stubs(:new).returns(campaign_finance)
   campaign_finance
 end

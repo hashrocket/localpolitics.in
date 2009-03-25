@@ -7,7 +7,7 @@ describe NewYorkTimes::CampaignFinance do
       stub_totals
     end
     it "returns a hash" do
-      NewYorkTimes::CampaignFinance.new.totals_by_postal_code("53716").should be_a_kind_of(Hash)
+      NewYorkTimes::CampaignFinance.totals_by_postal_code("53716").should be_a_kind_of(Hash)
     end
   end
 
@@ -16,7 +16,7 @@ describe NewYorkTimes::CampaignFinance do
       stub_totals
     end
     it "returns a hash of party and total" do
-      party_totals = NewYorkTimes::CampaignFinance.new.party_totals_by_postal_code("53716")
+      party_totals = NewYorkTimes::CampaignFinance.party_totals_by_postal_code("53716")
       party_totals[:D].should == 40258.61
       party_totals[:R].should == 11387
     end

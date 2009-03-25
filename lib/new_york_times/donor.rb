@@ -3,7 +3,7 @@ module NewYorkTimes
   class Donor
 
     def self.top_by_zip(zip, n)
-      donors = NewYorkTimes::CampaignFinance.new.donor_search_by_postal_code(zip)["results"] || []
+      donors = NewYorkTimes::CampaignFinance.donor_search_by_postal_code(zip)["results"] || []
       summarize_results(donors.first(n))
     end
 
