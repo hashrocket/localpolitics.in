@@ -42,6 +42,5 @@ describe CongressPeopleController do
       Mailer.expects(:deliver_twitter_invite).with(@congress_person, { :subject => 'subject', :citizen_email => 'me@example.com', :citizen_name => 'citizen_name', :personal_message => 'hey there!' })
       xhr :post, :send_twitter_invite, :id => @congress_person.crp_id, :subject => 'subject', :citizen_email => 'me@example.com', :citizen_name => 'citizen_name', :personal_message => 'hey there!'
     end
-    it "sets a flash message"
   end
 end
