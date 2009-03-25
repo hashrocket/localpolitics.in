@@ -102,8 +102,6 @@ module Sunlight
           legislators << Legislator.new(legislator["legislator"])
         end
         legislators
-      else
-        nil
       end
     end
 
@@ -111,8 +109,6 @@ module Sunlight
       url = construct_url("legislators.get", params)
       if (result = get_cached_json_data(url))
         Legislator.new(result["response"]["legislator"])
-      else
-        nil
       end
     end
 

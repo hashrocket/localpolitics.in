@@ -59,7 +59,7 @@ module Sunlight
       if response.class == Net::HTTPOK
         result = JSON.parse(response.body)
       else
-        nil
+        raise "Sunlight Labs Error: #{response.class}"
       end
 
     end # self.get_json_data

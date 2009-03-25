@@ -31,7 +31,7 @@ module Sunlight
         end
 
       else
-        nil # appropriate params not found
+        raise ArgumentError
       end
 
     end
@@ -55,7 +55,7 @@ module Sunlight
         districts.first
 
       else
-        nil
+        raise "No district found"
       end # if response.class
 
     end
