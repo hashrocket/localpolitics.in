@@ -12,7 +12,7 @@ module Sunlight
     #
     def initialize(params)
       params.each do |key, value|
-        instance_variable_set("@#{key}", value) if Legislator.instance_methods.include? key
+        instance_variable_set("@#{key}", value) if respond_to?(key)
       end
     end
 
@@ -38,12 +38,12 @@ module Sunlight
     #   Legislator.all_for(:address => "90210") # not recommended, but it'll work
     #
     def self.all_for(params)
-      if (params[:latitude] && params[:longitude])
+      if params[:latitude] && params[:longitude]
         district = District.get(:latitude => params[:latitude], :longitude => params[:longitude])
-      elsif (params[:address])
+      elsif params[:address]
         district = District.get(:address => params[:address])
       end
-      district ? Legislator.all_in_district(district) : raise("District not found - have you installed the Sunglight Labs API key?")
+      all_in_district(district)
     end
 
 
@@ -64,9 +64,9 @@ module Sunlight
     #   officials = Legislator.all_in_district(District.new("NJ", "7"))
     #
     def self.all_in_district(district)
-      senior_senator = Legislator.all_where(:state => district.state, :district => "Senior Seat").first
-      junior_senator = Legislator.all_where(:state => district.state, :district => "Junior Seat").first
-      representative = Legislator.all_where(:state => district.state, :district => district.number).first
+      senior_senator = all_where(:state => district.state, :district => "Senior Seat").first
+      junior_senator = all_where(:state => district.state, :district => "Junior Seat").first
+      representative = all_where(:state => district.state, :district => district.number).first
 
       {:senior_senator => senior_senator, :junior_senator => junior_senator, :representative => representative}
 
@@ -96,19 +96,17 @@ module Sunlight
     #
     def self.all_where(params)
       url = construct_url("legislators.getList", params)
-      if (result = get_cached_json_data(url))
-        legislators = []
-        result["response"]["legislators"].each do |legislator|
-          legislators << Legislator.new(legislator["legislator"])
+      if result = get_cached_json_data(url)
+        result["response"]["legislators"].map do |legislator|
+          new(legislator["legislator"])
         end
-        legislators
       end
     end
 
     def self.where(params)
       url = construct_url("legislators.get", params)
-      if (result = get_cached_json_data(url))
-        Legislator.new(result["response"]["legislator"])
+      if result = get_cached_json_data(url)
+        new(result["response"]["legislator"])
       end
     end
 
