@@ -10,7 +10,10 @@ module Sunlight
   API_URL = "http://services.sunlightlabs.com/api/"
   API_FORMAT = "json"
 
-  attr_accessor :api_key
+  attr_writer :api_key
+  def api_key
+    @api_key or raise "Missing Sunlight Labs API key"
+  end
 
   # Houses general methods to work with the Sunlight and Google Maps APIs
   class SunlightObject
