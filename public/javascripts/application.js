@@ -11,7 +11,6 @@ function fade_address(address){
 jQuery(document).ready(function($){
   fade_address($("#f_address"));
   jQuery("#equalize").equalHeights();
-  jQuery('a[rel*=facebox]').facebox();
 
   jQuery("#search_zip").submit(function($) {
     zip_code = jQuery("#f_address").val();
@@ -39,6 +38,9 @@ jQuery(document).ready(function($){
       return false;
     }
   });
+
+  // facebox breaks the culerity test suite, so we've placed this call last
+  jQuery('a[rel*=facebox]').facebox();
 
 //  $(".basic_info").tabs();
 });
