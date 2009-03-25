@@ -22,7 +22,7 @@
             %li
               = auto_link tweet.text
               %p.tweet_date
-                == #{distance_of_time_in_words_to_now(@tweet_time)} ago
+                == #{distance_of_time_in_words_to_now(tweet.created_at)} ago
         %p= twitter_link_for(@congress_person, "See Twitter Page")
     - else
       - if can_invite_to_twitter?(@congress_person.crp_id)

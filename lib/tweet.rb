@@ -6,11 +6,9 @@ class Tweet
 
     def recent(twitter_id, count=5)
       xml = Nokogiri::XML(open(status_url_for(twitter_id, count)))
-      tweets = []
-      xml.search('statuses/status').each do |tweet|
-        tweets << Tweet.new(:text => tweet.at('text').text, :created_at => tweet.at('created_at').text)
+      xml.search('statuses/status').map do |tweet|
+        Tweet.new(:text => tweet.at('text').text, :created_at => Time.parse(tweet.at('created_at').text))
       end
-      tweets
     end
 
     def invitation_text
