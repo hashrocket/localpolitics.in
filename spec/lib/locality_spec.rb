@@ -75,7 +75,7 @@ describe Locality do
        Sunlight::District.stubs(:all_from_zipcode).returns([])
        @locality.should_not have_district_data
       end
-    end 
+    end
 
     describe "without a postal code and with latitude and longitude" do
       before do

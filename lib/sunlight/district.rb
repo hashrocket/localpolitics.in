@@ -54,7 +54,7 @@ module Sunlight
 
         districts.first
 
-      else  
+      else
         nil
       end # if response.class
 
@@ -78,7 +78,7 @@ module Sunlight
 
         districts
 
-      else  
+      else
         nil
       end # if response.class
 
@@ -95,7 +95,7 @@ module Sunlight
 
       if (result = get_json_data(url))
         result["response"]["zips"]
-      else  
+      else
         nil
       end # if response.class
 

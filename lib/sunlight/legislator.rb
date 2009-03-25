@@ -11,7 +11,7 @@ module Sunlight
     # Takes in a hash where the keys are strings (the format passed in by the JSON parser)
     #
     def initialize(params)
-      params.each do |key, value|    
+      params.each do |key, value|
         instance_variable_set("@#{key}", value) if Legislator.instance_methods.include? key
       end
     end
@@ -56,7 +56,7 @@ module Sunlight
 
 
     #
-    # A helper method for all_for. Use that instead, unless you 
+    # A helper method for all_for. Use that instead, unless you
     # already have the district object, then use this.
     #
     # Usage:

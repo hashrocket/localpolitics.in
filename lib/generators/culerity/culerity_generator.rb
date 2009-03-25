@@ -1,5 +1,5 @@
 class CulerityGenerator < Rails::Generator::Base
-  
+
   def initialize(runtime_args, runtime_options = {})
     Dir.mkdir('features/step_definitions') unless File.directory?('features/step_definitions')
     super

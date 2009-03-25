@@ -49,7 +49,7 @@ module ApplicationHelper
   def preferred_party_text(party_totals)
     percentage = number_to_percentage(party_totals.percentage_of_donations_for(party_totals.lean_party) * 100, :precision => 1)
     case [party_totals.lean_party, party_totals.lean_degree]
-    when [:D, :heavy] 
+    when [:D, :heavy]
       "Get out your Birkenstocks! #{percentage} of all donations in your zip code were to Democrats."
     when [:D, :light]
       "Your zip code leans Democratic - they received #{percentage} of all donations."

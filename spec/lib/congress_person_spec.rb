@@ -171,7 +171,7 @@ describe CongressPerson do
       @congress_person.has_committees?.should be_false
     end
   end
-  
+
   describe "has_photo?" do
     it "returns false if there's no photo_id" do
       @congress_person.stubs(:photo_id).returns("")

@@ -29,7 +29,7 @@ describe "CongressPerson show view" do
     do_render
     response.should have_tag("a[href=?]", @congress_person.website_url)
   end
-  
+
   describe "twitter widget" do
     it "should link to the congress person's twitter page" do
       @congress_person.stubs(:twitters?).returns(true)
