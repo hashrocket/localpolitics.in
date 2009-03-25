@@ -9,32 +9,30 @@ if rspec_gem_dir && (test ?d, rspec_plugin_dir)
 end
 
 if rspec_gem_dir
-  $LOAD_PATH.unshift("#{rspec_gem_dir}/lib") 
+  $LOAD_PATH.unshift("#{rspec_gem_dir}/lib")
 elsif File.exist?(rspec_plugin_dir)
   $LOAD_PATH.unshift("#{rspec_plugin_dir}/lib")
 end
 
 begin
   require 'spec/rake/spectask'
-  Rake.application.instance_variable_get('@tasks').delete('default')
 
-  spec_prereq = File.exist?(File.join(RAILS_ROOT, 'config', 'database.yml')) ? "db:test:prepare" : :noop
-  task :noop do
-  end
+  spec_prereq = File.exist?(File.join(RAILS_ROOT, 'config', 'database.yml')) ? "db:test:prepare" : []
+  spec_opts = ["--options", "\"#{RAILS_ROOT}/spec/spec.opts\""]
+  spec_opts.clear unless File.exist?(spec_opts.last[1..-2])
 
-  task :default => :spec
   task :stats => "spec:statsetup"
 
   desc "Run all specs in spec directory (excluding plugin specs)"
   Spec::Rake::SpecTask.new(:spec => spec_prereq) do |t|
-    t.spec_opts = ['--options', "\"#{RAILS_ROOT}/spec/spec.opts\""]
+    t.spec_opts = spec_opts
     t.spec_files = FileList['spec/**/*/*_spec.rb']
   end
 
   namespace :spec do
     desc "Run all specs in spec directory with RCov (excluding plugin specs)"
     Spec::Rake::SpecTask.new(:rcov) do |t|
-      t.spec_opts = ['--options', "\"#{RAILS_ROOT}/spec/spec.opts\""]
+      t.spec_opts = spec_opts
       t.spec_files = FileList['spec/**/*/*_spec.rb']
       t.rcov = true
       t.rcov_opts = lambda do
@@ -57,21 +55,21 @@ begin
     [:models, :controllers, :views, :helpers, :lib].each do |sub|
       desc "Run the code examples in spec/#{sub}"
       Spec::Rake::SpecTask.new(sub => spec_prereq) do |t|
-        t.spec_opts = ['--options', "\"#{RAILS_ROOT}/spec/spec.opts\""]
+        t.spec_opts = spec_opts
         t.spec_files = FileList["spec/#{sub}/**/*_spec.rb"]
       end
     end
 
     desc "Run the code examples in vendor/plugins (except RSpec's own)"
     Spec::Rake::SpecTask.new(:plugins => spec_prereq) do |t|
-      t.spec_opts = ['--options', "\"#{RAILS_ROOT}/spec/spec.opts\""]
+      t.spec_opts = spec_opts
       t.spec_files = FileList['vendor/plugins/**/spec/**/*/*_spec.rb'].exclude('vendor/plugins/rspec/*').exclude("vendor/plugins/rspec-rails/*")
     end
 
     namespace :plugins do
       desc "Runs the examples for rspec_on_rails"
       Spec::Rake::SpecTask.new(:rspec_on_rails) do |t|
-        t.spec_opts = ['--options', "\"#{RAILS_ROOT}/spec/spec.opts\""]
+        t.spec_opts = spec_opts
         t.spec_files = FileList['vendor/plugins/rspec-rails/spec/**/*/*_spec.rb']
       end
     end
@@ -99,7 +97,7 @@ begin
           ActiveRecord::Base.establish_connection(Rails.env)
           base_dir = File.join(Rails.root, 'spec', 'fixtures')
           fixtures_dir = ENV['FIXTURES_DIR'] ? File.join(base_dir, ENV['FIXTURES_DIR']) : base_dir
-          
+
           (ENV['FIXTURES'] ? ENV['FIXTURES'].split(/,/).map {|f| File.join(fixtures_dir, f) } : Dir.glob(File.join(fixtures_dir, '*.{yml,csv}'))).each do |fixture_file|
             Fixtures.create_fixtures(File.dirname(fixture_file), File.basename(fixture_file, '.*'))
           end
@@ -126,7 +124,7 @@ begin
           $stderr.puts "No server running."
         else
           $stderr.puts "Shutting down spec_server."
-          system("kill", "-s", "TERM", File.read(daemonized_server_pid).strip) && 
+          system("kill", "-s", "TERM", File.read(daemonized_server_pid).strip) &&
           File.delete(daemonized_server_pid)
         end
       end
@@ -142,17 +140,10 @@ begin
       end
     end
   end
-rescue MissingSourceFile
-  # if rspec-rails is a configured gem, this will output helpful material and exit ...
-  require File.expand_path(File.dirname(__FILE__) + "/../../config/environment")
-
-  # ... otherwise, do this:
-  raise <<-MSG
-
-  You have rspec rake tasks installed in
-  #{__FILE__},
-  but rspec can not be found in vendor/gems, vendor/plugins or on the system.
-
-MSG
+rescue MissingSourceFile => e
+  task :spec do
+    raise e
+  end
 end
 
+task :default => :spec
