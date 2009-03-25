@@ -369,12 +369,7 @@ h1#logo span {
     padding: 5px; 
     font-weight: bold;
   }
-  #preferred_party .leans_heavily_democratic{ }
-  #preferred_party .leans_heavily_republican{ }
-  #preferred_party .leans_democratic{ }
-  #preferred_party .leans_republican{ }
-  #preferred_party .is_a_wash{ }
-  
+
 #donor_information {
   margin: 20px; padding: 20px 10px;
   float: left;
