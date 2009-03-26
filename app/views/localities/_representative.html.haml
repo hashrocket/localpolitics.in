@@ -35,4 +35,7 @@
     - else
       .clear
     %p.more
-      = link_to "More Info", congress_person_path(representative.crp_id)
+      - if representative.has_open_congress_id?
+        = link_to "More Info", congress_person_path(representative.crp_id)
+      - else
+        %span Further information is not availble.

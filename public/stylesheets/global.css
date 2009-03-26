@@ -294,6 +294,7 @@ h1#logo span {
       margin-bottom: 10px; 
       float: left;
       width: 100px;
+      height: 128px;
     }
     .profile img {
       border: 1px solid #ccc;
@@ -336,6 +337,10 @@ h1#logo span {
       text-align: center;
     }
       .profile .more a { 
+        padding: 10px 0 0 0;
+        display: block; 
+      }
+      .profile .more span {
         padding: 10px 0 0 0;
         display: block; 
       }
