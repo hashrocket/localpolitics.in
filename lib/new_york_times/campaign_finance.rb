@@ -33,7 +33,7 @@ module NewYorkTimes
       end
 
       def lean_party
-        @party_totals.sort_by {|k,v| v}.last.first
+        @party_totals.sort_by {|k,v| v}.map(&:first).last
       end
 
       def percentage_of_donations_for(party)
