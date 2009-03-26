@@ -21,8 +21,7 @@ Rails::Initializer.run do |config|
   config.gem 'chrisk-fakeweb', :lib => false, :version => '>= 1.1.2.7', :source => 'http://gems.github.com'
   config.gem "mocha", :lib => false, :version => ">= 0.9.4"
   config.gem "nokogiri", :lib => false, :version => ">= 1.1.1"
-  config.gem 'rspec', :lib => false, :version => '>= 1.1.12'
-  config.gem 'rspec-rails', :lib => false, :version => '>= 1.1.12'
+  config.gem 'rspec-rails', :lib => false, :version => '>= 1.2.1'
 
   config.time_zone = 'UTC'
 
