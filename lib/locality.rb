@@ -32,10 +32,13 @@ class Locality
   def geocode
     return if @postal_code || (@latitude && @longitude)
     location = Rails.cache.fetch(cache_key, :expires_in => 1.hour) do
-      self.class.geocoder.locate(@location_data)
+      begin
+        self.class.geocoder.locate(@location_data)
+      rescue GoogleGeocode::AddressError
+      end
     end
-    @postal_code = location.postal_code
-    @latitude, @longitude = location.coordinates
+    @postal_code = location.postal_code if location
+    @latitude, @longitude = location.coordinates if location
   end
 
   def legislators

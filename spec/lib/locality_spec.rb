@@ -51,6 +51,13 @@ describe Locality do
     end
   end
 
+  describe "#geocode" do
+    it "fails gracefully" do
+      Locality.geocoder.expects(:locate).raises(GoogleGeocode::AddressError, "unknown address")
+      lambda { Locality.new "99987" }.should_not raise_error
+    end
+  end
+
   describe "valid_role?" do
     it "returns false if the legislator is nil" do
       @locality.stubs(:legislators).returns(:senior_senator => nil)
@@ -62,7 +69,17 @@ describe Locality do
     end
   end
 
-  describe "has_district_data?" do
+  describe "#has_district_data?" do
+
+    describe "with no postal code or latitude and longitude" do
+      it "returns false" do
+        @locality.stubs(:postal_code)
+        @locality.stubs(:latitude)
+        @locality.stubs(:longitude)
+        @locality.should_not have_district_data
+      end
+    end
+
     describe "with a postal code" do
       before do
         @locality.stubs(:postal_code).returns('53716')
