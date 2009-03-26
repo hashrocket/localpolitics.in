@@ -5,6 +5,7 @@ describe Locality do
     @locality = Locality.new "32250"
     @lat = Locality.geocoder.fake_data[:latitude]
     @lon = Locality.geocoder.fake_data[:longitude]
+    Legislator.stubs(:all_for).returns(:senior_senator => fake_legislator, :junior_senator => fake_legislator, :representative => fake_legislator)
   end
 
   it "retrieves legislators by latitude and longitude" do
@@ -28,10 +29,14 @@ describe Locality do
     OpenSecrets::CandidateSummary.any_instance.stubs(:summary_result).returns(fake_candidate_summary_response)
     summary = OpenSecrets::CandidateSummary.new('some id')
     OpenSecrets::CandidateSummary.stubs(:new).returns(summary)
-    Legislator.stubs(:all_for).returns(:senior_senator => fake_legislator, :junior_senator => fake_legislator, :representative => fake_legislator)
     @locality.congress_people.each do |congress_person|
       congress_person.should be_a_kind_of(CongressPerson)
     end
+  end
+
+  it "has a senator comparison" do
+    SenatorComparison.expects(:for)
+    @locality.senator_comparison
   end
 
   describe "role methods" do
@@ -43,7 +48,6 @@ describe Locality do
       end
     end
     it "returns a congress person otherwise" do
-      Legislator.stubs(:all_for).returns(:senior_senator => fake_legislator, :junior_senator => fake_legislator, :representative => fake_legislator)
       @locality.stubs(:valid_role?).returns(true)
       Locality::ROLES.each do |role|
         @locality.send(role).should be_a_kind_of(CongressPerson)

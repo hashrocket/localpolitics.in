@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20090324154137) do
+ActiveRecord::Schema.define(:version => 20090326141831) do
 
   create_table "bills", :force => true do |t|
     t.integer  "sponsor_id"
@@ -40,6 +40,14 @@ ActiveRecord::Schema.define(:version => 20090324154137) do
 
   create_table "committees", :force => true do |t|
     t.string   "name"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "senator_comparisons", :force => true do |t|
+    t.integer  "govtrack_id_1"
+    t.integer  "govtrack_id_2"
+    t.text     "body"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

@@ -31,3 +31,8 @@ end
 Factory.define :committee do |committee|
   committee.name 'Committee name'
 end
+
+Factory.define :senator_comparison do |sc|
+  sc.govtrack_id_1 '300042'
+  sc.govtrack_id_2 '300061'
+end
