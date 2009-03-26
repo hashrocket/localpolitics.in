@@ -545,3 +545,10 @@ h1#logo span {
       float: right;
       width: 355px;
     }
+#senator_comparison {
+  margin: 20px; padding: 20px 10px;
+  float: left;
+  width: 830px;
+  display: inline;
+  background: #fff;
+}

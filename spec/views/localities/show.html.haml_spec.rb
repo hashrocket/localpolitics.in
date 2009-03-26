@@ -8,6 +8,7 @@ describe "localities/show" do
     @locality = Locality.new "53716"
     @locality.stubs(:representative).returns(@representative)
     @locality.stubs(:has_legislators?).returns(true)
+    @locality.stubs(:senator_comparison).returns("senator comparison")
     assigns[:locality] = @locality
     assigns[:party_totals] = stub('zip_summary', :lean_party => :D, :lean_degree => :light, :percentage_of_donations_for => 0.78)
     template.stubs(:preferred_party_text).returns("You're crazy democratic!")
@@ -101,5 +102,10 @@ describe "localities/show" do
 
   def do_render
     render "/localities/show.html.haml"
+  end
+
+  it "should list a comparison of senators" do
+    do_render
+    response.should have_tag("#senator_comparison", /senator comparison/)
   end
 end
