@@ -22,7 +22,6 @@ class Locality
 
   def initialize(location_data)
     @location_data = location_data
-    @postal_code, @latitude, @longitude = *nil
     geocode
   end
 
