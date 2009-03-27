@@ -19,8 +19,7 @@
       %li
         = link_to "Get In Contact", representative.website_url
         = twitter_link_for(representative)
-    -# if representative.has_candidate_summary?
-    - if true
+    - if representative.has_candidate_summary?
       %table.summary
         - representative.summary_attributes.each do |attribute|
           %tr
