@@ -7,6 +7,7 @@ describe "CongressPerson show view" do
     @congress_person = CongressPerson.new(@legislator)
     @congress_person.stubs(:twitters?).returns(false)
     @congress_person.stubs(:can_has_youtubes?).returns(false)
+    @congress_person.stubs(:latest_words).returns([CapitolWord.new("word" => "word", "word_count" => 12)])
     assigns[:congress_person] = @congress_person
     assigns[:tweet_time] = Time.now
     @tweets = [Tweet.new(:text => 'tweet', :created_at => Time.now.utc)]
@@ -167,4 +168,14 @@ describe "CongressPerson show view" do
     end
   end
 
+  describe "commonly used words" do
+    it "asks for the representatives most commonly used words" do
+      do_render
+      response.body.should include(@congress_person.latest_words.join(","))
+    end
+    it "links to the capitol words site" do
+      do_render
+      response.should have_tag("a[href^=?]", "http://www.capitolwords.org", "More information")
+    end
+  end
 end
