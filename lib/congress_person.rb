@@ -155,6 +155,10 @@ class CongressPerson
     "/images/no_picture.jpg"
   end
 
+  def latest_words
+    CapitolWord.latest_for(self)
+  end
+
   def bioguide_id
     photo_id
   end

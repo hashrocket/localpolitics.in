@@ -210,4 +210,11 @@ describe CongressPerson do
       @congress_person.has_open_congress_id?.should be_false
     end
   end
+
+  describe "latest_words" do
+    it "asks CapitolWord for it's words" do
+      CapitolWord.expects(:latest_for).with(@congress_person)
+      @congress_person.latest_words
+    end
+  end
 end
