@@ -124,4 +124,22 @@ describe ApplicationHelper do
       can_invite_to_twitter?('N00004309').should be_true
     end
   end
+
+  describe "#lucky_link_to" do
+    subject do
+      lucky_link_to(*(@arguments || "something"))
+    end
+    it "links to Google's I'm Feeling Lucky search" do
+      should have_tag("a[href^=?]", "http://www.google.com/search?btnI=1")
+      should have_tag("a[href$=?]", "q=something")
+      should have_tag("a", "something")
+    end
+    it "has a lucky class" do
+      should have_tag("a.lucky")
+    end
+    it "accepts options as a second argument" do
+      @arguments = ["something", {:class => "classy"}]
+      should have_tag("a.classy[href*=?]", "something")
+    end
+  end
 end

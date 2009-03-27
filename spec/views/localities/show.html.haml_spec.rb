@@ -88,7 +88,7 @@ describe "localities/show" do
       do_render
       response.should have_tag(".top_recipients") do
         @top_recipients.each do |recipient|
-          with_tag(".recipient h4", recipient[:name])
+          with_tag(".recipient h4 a.lucky", recipient[:name])
           with_tag(".recipient p", /#{recipient[:amount]}/)
         end
       end
@@ -97,6 +97,22 @@ describe "localities/show" do
       assigns[:top_recipients] = []
       do_render
       response.should_not have_tag("#government_spending")
+    end
+  end
+
+  describe "presidential donors widget" do
+    before do
+      @top_ten_donors = [['donor_name', 500]]
+      assigns[:top_ten_donors] = @top_ten_donors
+    end
+    it "links to Google's I'm Feeling Lucky search" do
+      do_render
+      response.should have_tag("#top_donors") do
+        @top_ten_donors.each do |donor|
+          with_tag(".donor h4 a.lucky", 'donor_name')
+          with_tag(".donor p", /500/)
+        end
+      end
     end
   end
 

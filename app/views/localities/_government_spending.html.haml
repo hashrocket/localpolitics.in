@@ -10,7 +10,7 @@
           = recipient[:rank]
         .recipient_detail
           %h4
-            = recipient[:name]
+            = lucky_link_to(recipient[:name])
           %p
             Amount Received:
             = number_to_currency recipient[:amount]

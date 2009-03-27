@@ -10,7 +10,7 @@
           = index + 1
         .donation
           %h4
-            =h donor.first
+            = lucky_link_to(donor.first)
           %p
             Amount Donated:
             = number_to_currency donor.last

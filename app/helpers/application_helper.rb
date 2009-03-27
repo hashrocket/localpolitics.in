@@ -66,4 +66,11 @@ module ApplicationHelper
     return true unless cookies[:twitter_invites] && cookies[:twitter_invites] =~ /#{crp_id}/
     return false
   end
+
+  def lucky_link_to(text, search_term = text, options = {})
+    search_term, options = text, search_term if search_term.kind_of?(Hash)
+    options = options.dup
+    options[:class] = [options[:class], "lucky"].compact.flatten.join(" ")
+    link_to text,"http://www.google.com/search?btnI=1&q=#{url_encode(search_term)}", options
+  end
 end
