@@ -20,6 +20,10 @@ describe LocalitiesHelper do
       representative = stub(:senator? => false, :district => '2', :state => "WY")
       district_id_for(representative).should == "District ID: 2 in WY"
     end
+    it "returns At-Large for a representative with district 0" do
+      representative = stub(:senator? => false, :district => '0', :state => "WY")
+      district_id_for(representative).should have_tag("a", "At-Large Seat")
+    end
     it 'returns the (junior|senior) seat, state for a senator' do
       representative = stub(:senator? => true, :district => 'Senior Seat', :state => "WY")
       district_id_for(representative).should == "Senior Seat in WY"
