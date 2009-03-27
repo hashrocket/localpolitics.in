@@ -312,6 +312,7 @@ h1#logo span {
       }
       .democrat { background: #1a294d; }
       .republican { background: #e54141; }
+      .independent { background: #666666; }
     ul.contact {
       float: left;
       width: 235px;
