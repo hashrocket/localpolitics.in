@@ -213,7 +213,7 @@ describe CongressPerson do
 
   describe "latest_words" do
     it "asks CapitolWord for it's words" do
-      CapitolWord.expects(:latest_for).with(@congress_person)
+      CapitolWord.expects(:latest_for).with(@congress_person, {})
       @congress_person.latest_words
     end
   end

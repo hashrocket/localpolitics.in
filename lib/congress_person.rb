@@ -155,8 +155,8 @@ class CongressPerson
     "/images/no_picture.jpg"
   end
 
-  def latest_words
-    CapitolWord.latest_for(self)
+  def latest_words(options={})
+    CapitolWord.latest_for(self, options)
   end
 
   def bioguide_id
