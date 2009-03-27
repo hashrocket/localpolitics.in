@@ -41,6 +41,7 @@ describe "CongressPerson show view" do
     end
     it "links to a facebox twitter invitation if not already invited" do
       @congress_person.stubs(:twitters?).returns(false)
+      @congress_person.stubs(:email_address).returns('an email address')
       template.stubs(:can_invite_to_twitter?).returns(true)
       do_render
       response.should have_tag("a[href=?][rel*=facebox]", twitter_invite_path(@congress_person.crp_id))
@@ -50,6 +51,13 @@ describe "CongressPerson show view" do
       template.stubs(:can_invite_to_twitter?).returns(false)
       do_render
       response.should have_tag(".invited_to_twitter")
+    end
+    it "doesn't link to twitter invite if the congress person has no email address" do
+      @congress_person.stubs(:twitters?).returns(false)
+      @congress_person.stubs(:email_address).returns("")
+      template.stubs(:can_invite_to_twitter?).returns(true)
+      do_render
+      response.should_not have_tag("a", "Invite them now!")
     end
   end
 

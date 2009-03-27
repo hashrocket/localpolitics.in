@@ -28,7 +28,8 @@
       - if can_invite_to_twitter?(@congress_person.crp_id)
         .invite_to_twitter
           Your congress person isn't on twitter.
-          = link_to 'Invite them now!', twitter_invite_path(@congress_person.crp_id), :rel => 'facebox'
+          - unless @congress_person.email_address.blank?
+            = link_to 'Invite them now!', twitter_invite_path(@congress_person.crp_id), :rel => 'facebox'
         .invited_to_twitter{:style => "display:none;"}
           == You've invited #{@congress_person.full_name} to twitter!
       - else
