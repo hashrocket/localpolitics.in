@@ -3,7 +3,7 @@ require File.dirname(__FILE__) + '/../../spec_helper.rb'
 describe "localities/show" do
   before do
     representative_hash = {:senior_senator => fake_legislator, :junior_senator => fake_legislator, :representative => fake_legislator}
-    Legislator.stubs(:all_for).returns(representative_hash)
+    Sunlight::Legislator.stubs(:all_for).returns(representative_hash)
     @representative = CongressPerson.new(fake_legislator)
     @locality = Locality.new "53716"
     @locality.stubs(:representative).returns(@representative)

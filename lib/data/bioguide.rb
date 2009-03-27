@@ -2,7 +2,7 @@ class Data::Bioguide
 
   class << self
     def scrape_bioguide_site
-      Legislator.all_where(:in_office => 1).each do |legislator|
+      Sunlight::Legislator.all_where(:in_office => 1).each do |legislator|
         scrape_bioguide_page(legislator.bioguide_id)
       end
     end

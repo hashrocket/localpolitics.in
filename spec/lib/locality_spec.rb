@@ -5,11 +5,11 @@ describe Locality do
     @locality = Locality.new "32250"
     @lat = Locality.geocoder.fake_data[:latitude]
     @lon = Locality.geocoder.fake_data[:longitude]
-    Legislator.stubs(:all_for).returns(:senior_senator => fake_legislator, :junior_senator => fake_legislator, :representative => fake_legislator)
+    Sunlight::Legislator.stubs(:all_for).returns(:senior_senator => fake_legislator, :junior_senator => fake_legislator, :representative => fake_legislator)
   end
 
   it "retrieves legislators by latitude and longitude" do
-    Legislator.expects(:all_for).with(:latitude => @lat, :longitude => @lon)
+    Sunlight::Legislator.expects(:all_for).with(:latitude => @lat, :longitude => @lon)
     @locality.legislators
   end
 
@@ -19,7 +19,7 @@ describe Locality do
                     :junior_senator => {:first_name => "Jane", :last_name => "Doe"},
                     :representative => {:first_name => "Simon", :last_name => "Says"}
                   )
-    Legislator.stubs(:all_for).returns(legislators)
+    Sunlight::Legislator.stubs(:all_for).returns(legislators)
     @locality.instance_variable_get(:@legislators).should be_nil
     @locality.legislators
     @locality.instance_variable_get(:@legislators).should == legislators
@@ -41,7 +41,7 @@ describe Locality do
 
   describe "role methods" do
     it "returns nil if the legislator is nil" do
-      Legislator.stubs(:all_for).returns(no_legislators_returned)
+      Sunlight::Legislator.stubs(:all_for).returns(no_legislators_returned)
       @locality.stubs(:valid_role?).returns(false)
       Locality::ROLES.each do |role|
         @locality.send(role).should be_nil

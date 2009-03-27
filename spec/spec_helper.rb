@@ -76,7 +76,7 @@ def fake_legislators_response
 end
 
 def fake_legislator
-  Legislator.new(fake_legislators_response["response"]["legislators"].first["legislator"])
+  Sunlight::Legislator.new(fake_legislators_response["response"]["legislators"].first["legislator"])
 end
 
 def fake_legislator_response
@@ -84,7 +84,7 @@ def fake_legislator_response
 end
 
 def stub_out_legislator_get_json_data
-  Legislator.stubs(:get_json_data).returns(fake_legislator_response)
+  Sunlight::Legislator.stubs(:get_json_data).returns(fake_legislator_response)
 end
 
 def stub_out_open_secrets_new

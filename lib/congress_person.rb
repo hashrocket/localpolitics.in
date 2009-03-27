@@ -52,12 +52,12 @@ class CongressPerson
   end
 
   def self.find(options)
-    CongressPerson.new(Legislator.where(options))
+    CongressPerson.new(Sunlight::Legislator.where(options))
   end
 
   def self.find_all_by_govtrack_id(ids)
     params = ids.map{|id| {:govtrack_id => id} }
-    legislators = Legislator.all_where(params)
+    legislators = Sunlight::Legislator.all_where(params)
     congress_people = []
     legislators.each do |l|
       congress_people << CongressPerson.new(l)

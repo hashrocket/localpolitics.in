@@ -42,7 +42,7 @@ class Locality
   end
 
   def legislators
-    @legislators ||= Legislator.all_for :latitude => @latitude, :longitude => @longitude
+    @legislators ||= Sunlight::Legislator.all_for :latitude => @latitude, :longitude => @longitude
   end
 
   def congress_people

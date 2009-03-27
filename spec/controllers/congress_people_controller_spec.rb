@@ -4,13 +4,13 @@ describe CongressPeopleController do
   before do
     @legislator = fake_legislator
     @congress_person = CongressPerson.new(@legislator)
-    Legislator.stubs(:where).returns(@legislator)
+    Sunlight::Legislator.stubs(:where).returns(@legislator)
     CongressPerson.stubs(:new).returns(@congress_person)
   end
 
   describe "GET show" do
     it "should load the correct congress person" do
-      Legislator.expects(:where).with(:crp_id => 'the id').returns(@legislator)
+      Sunlight::Legislator.expects(:where).with(:crp_id => 'the id').returns(@legislator)
       get :show, :id => 'the id'
     end
   end

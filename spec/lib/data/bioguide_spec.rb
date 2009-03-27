@@ -13,11 +13,11 @@ describe Data::Bioguide do
 
     describe "scrape_bioguide_site" do
       it "gets all legislators" do
-        Legislator.expects(:all_where).with({:in_office => 1}).returns([fake_legislator])
+        Sunlight::Legislator.expects(:all_where).with({:in_office => 1}).returns([fake_legislator])
         Data::Bioguide.scrape_bioguide_site
       end
       it "scrapes the bioguide page for each legislator" do
-        Legislator.stubs(:all_where).returns([fake_legislator])
+        Sunlight::Legislator.stubs(:all_where).returns([fake_legislator])
         Data::Bioguide.expects(:scrape_bioguide_page).with(fake_legislator.bioguide_id)
         Data::Bioguide.scrape_bioguide_site
       end

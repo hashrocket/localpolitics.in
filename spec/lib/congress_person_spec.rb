@@ -136,12 +136,12 @@ describe CongressPerson do
   end
 
   it "returns a single legislator by searching with a hashed param" do
-    Legislator.expects(:where).returns(@legislator)
+    Sunlight::Legislator.expects(:where).returns(@legislator)
     CongressPerson.find(:govtrack_id => "30001").should be_a_kind_of(CongressPerson)
   end
 
   it "returns multiple legislators by searching with an array of params" do
-    Legislator.expects(:all_where).returns([@legislator])
+    Sunlight::Legislator.expects(:all_where).returns([@legislator])
     CongressPerson.stubs(:new).returns(@congress_person)
     congress_people = CongressPerson.find_all_by_govtrack_id(["30001"])
     congress_people.should be_a_kind_of(Array)
