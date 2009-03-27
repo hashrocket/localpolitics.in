@@ -18,6 +18,11 @@ class ApplicationController < ActionController::Base
     raise exception
   end
 
+  rescue_from Sunlight::Error do |exception|
+    flash[:error] = "We could not find data for your zip code. If you feel this is an error, contact us at the link below."
+    redirect_to(root_path)
+  end
+
   def set_title(title)
     @title = title
   end

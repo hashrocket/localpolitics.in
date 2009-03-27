@@ -9,6 +9,7 @@ module Sunlight
 
   API_URL = "http://services.sunlightlabs.com/api/"
   API_FORMAT = "json"
+  class Error < RuntimeError; end
 
   def self.api_key
     APP_CONFIG[:sunlight_api_key] or raise "Missing Sunlight Labs API key"
@@ -58,7 +59,7 @@ module Sunlight
       if response.class == Net::HTTPOK
         result = JSON.parse(response.body)
       else
-        raise "Sunlight Labs Error: #{response.class}"
+        raise Error, "Sunlight Labs Error: #{response.class}"
       end
 
     end # self.get_json_data
