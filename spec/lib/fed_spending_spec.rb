@@ -48,7 +48,7 @@ describe FedSpending do
       FedSpending.top_recipients.should == []
     end
     it "calls titleize on each recipient name" do
-      FedSpending.expects(:format_name).times(7)
+      FedSpending.expects(:format_name).times(10)
       FedSpending.top_recipients(:zip_code => '53716')
     end
     it "includes recipient name" do
@@ -58,7 +58,7 @@ describe FedSpending do
       FedSpending.top_recipients.all? {|r| r.has_key?(:amount) }.should be_true
     end
     it "orders the array based on rank" do
-      FedSpending.top_recipients.first[:amount].should == '993977'
+      FedSpending.top_recipients[1][:rank].should == '2'
     end
   end
 end

@@ -18,7 +18,7 @@ class FedSpending
       recipients = xml.search('top_recipients/recipient').map do |node|
         {:name => format_name(node.text), :amount => node['total_obligatedAmount'], :rank => node['rank']}
       end
-      recipients.sort{|x,y| x[:rank] <=> y[:rank] }
+      recipients.sort_by {|x| Integer(x[:rank]) }
     end
 
     def format_name(name)
