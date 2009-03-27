@@ -73,4 +73,8 @@ module ApplicationHelper
     options[:class] = [options[:class], "lucky"].compact.flatten.join(" ")
     link_to text,"http://www.google.com/search?btnI=1&q=#{url_encode(search_term)}", options
   end
+
+  def capitol_words_url_for(congress_person)
+    "http://www.capitolwords.org/lawmaker/#{congress_person.bioguide_id}"
+  end
 end

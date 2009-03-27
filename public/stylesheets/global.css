@@ -558,3 +558,6 @@ h1#logo span {
   display: inline;
   background: #fff;
 }
+.summary a {
+  font-weight:normal;
+}

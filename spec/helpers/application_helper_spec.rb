@@ -142,4 +142,11 @@ describe ApplicationHelper do
       should have_tag("a.classy[href*=?]", "something")
     end
   end
+
+  describe "capitol_words_url_for" do
+    it "returns the url" do
+      congress_person = CongressPerson.new(fake_legislator)
+      capitol_words_url_for(congress_person).should == "http://www.capitolwords.org/lawmaker/#{congress_person.bioguide_id}"
+    end
+  end
 end

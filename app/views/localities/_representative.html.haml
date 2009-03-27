@@ -19,6 +19,9 @@
       %li
         = link_to "Get In Contact", representative.website_url
         = twitter_link_for(representative)
+    .summary
+      %h4 Most recent topics include
+      = link_to representative.latest_words.join(", "), capitol_words_url_for(representative)
     - if representative.has_candidate_summary?
       %table.summary
         - representative.summary_attributes.each do |attribute|

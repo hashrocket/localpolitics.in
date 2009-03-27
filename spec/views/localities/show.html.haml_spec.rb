@@ -9,6 +9,10 @@ describe "localities/show" do
     @locality.stubs(:representative).returns(@representative)
     @locality.stubs(:has_legislators?).returns(true)
     @locality.stubs(:senator_comparison).returns("senator comparison")
+    latest_words = [CapitolWord.new('word' => 'word', 'word_count' => 12)]
+    @locality.senior_senator.stubs(:latest_words).returns(latest_words)
+    @locality.junior_senator.stubs(:latest_words).returns(latest_words)
+    @locality.representative.stubs(:latest_words).returns(latest_words)
     assigns[:locality] = @locality
     assigns[:party_totals] = stub('zip_summary', :lean_party => :D, :lean_degree => :light, :percentage_of_donations_for => 0.78)
     template.stubs(:preferred_party_text).returns("You're crazy democratic!")
