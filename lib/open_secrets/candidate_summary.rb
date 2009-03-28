@@ -1,5 +1,7 @@
 module OpenSecrets
   class CandidateSummary
+    include ValueParser
+
     API_KEY = APP_CONFIG[:open_secrets_api_key] or warn("No OpenSecrets API key configured")
 
     READERS = :cand_name, :cash_on_hand, :chamber, :cid, :cycle, :debt, :first_elected, :last_updated, :next_election, :origin, :party, :source, :spent, :state, :total
@@ -47,14 +49,6 @@ module OpenSecrets
       else
         input
       end
-    end
-
-    def date?(value)
-      true if Date.parse(value) rescue false
-    end
-
-    def numeric?(value)
-      true if Float(value) rescue false
     end
 
   end
