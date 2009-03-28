@@ -130,4 +130,13 @@ describe Locality do
     {:senior_senator => nil, :junior_senator => nil, :representative => nil}
   end
 
+  describe "has_both_senators?" do
+    it "returns true with both a senior and junior senator" do
+      @locality.should have_both_senators
+    end
+    it "returns false otherwise" do
+      @locality.stubs(:junior_senator).returns(nil)
+      @locality.should_not have_both_senators
+    end
+  end
 end

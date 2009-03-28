@@ -67,6 +67,10 @@ class Locality
     !legislators[role.to_sym].nil?
   end
 
+  def has_both_senators?
+    senior_senator && junior_senator
+  end
+
   def senator_comparison
     SenatorComparison.for(senior_senator.govtrack_id, junior_senator.govtrack_id)
   end
