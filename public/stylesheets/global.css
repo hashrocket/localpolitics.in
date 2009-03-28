@@ -326,8 +326,13 @@ h1#logo span {
       margin-top: 10px; padding-top: 10px;
       float: left;
       width: 235px;
+    }
+    #equalize .summary {
       border-top: 1px solid #ddd;
     }
+      .summary a {
+        font-weight:normal;
+      }
       .summary_label td { width: 50%; }
       .summary_label { font-weight: bold; }
     .profile .more {
@@ -558,6 +563,7 @@ h1#logo span {
   display: inline;
   background: #fff;
 }
-.summary a {
-  font-weight:normal;
+.youtubes {
+  padding-left:300px;
+  padding-top:10px;
 }
