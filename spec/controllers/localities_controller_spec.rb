@@ -41,9 +41,9 @@ describe LocalitiesController do
       do_get
     end
 
-    it 'temporarily stores the zip code' do
+    it "stores the current location" do
+      controller.expects(:set_location).with('53716')
       do_get
-      flash[:zip_code].should == '53716'
     end
 
     it "loads the top recipients of government spending" do

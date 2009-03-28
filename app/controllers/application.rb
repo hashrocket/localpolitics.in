@@ -26,4 +26,8 @@ class ApplicationController < ActionController::Base
   def set_title(title)
     @title = title
   end
+
+  def set_location(location)
+    flash[:location] = location
+  end
 end

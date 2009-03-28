@@ -139,32 +139,9 @@ describe "CongressPerson show view" do
     do_render
   end
 
-  describe 'when previous search available' do
-    before do
-      flash[:zip_code] = '12345'
-    end
-
-    it 'displays your previous search' do
-      do_render
-      response.should have_tag("#banner_detail .current", '12345')
-    end
-
-    it "links back to your previous search state" do
-      do_render
-      response.should have_tag("#banner_detail a[href=?]", zip_path('12345'))
-    end
-  end
-
-  describe 'when previous search unavailable' do
-    it "displays the congress person's state" do
-      do_render
-      response.should have_tag("#banner_detail .current", 'FL')
-    end
-
-    it "links back to the congress person's state" do
-      do_render
-      response.should have_tag("#banner_detail a[href=?]", zip_path('FL'))
-    end
+  it "links back to a locality" do
+    template.expects(:link_to_locality_page).with(@congress_person)
+    do_render
   end
 
   describe "commonly used words" do

@@ -7,7 +7,7 @@ class LocalitiesController < ApplicationController
 
   def show
     location = params[:f_address]
-    flash[:zip_code] = location
+    set_location(location)
     set_title("LocalPolitics.in/#{location}")
     @locality = Locality.new location
     if @locality.has_district_data?

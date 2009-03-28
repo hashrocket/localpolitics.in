@@ -9,4 +9,12 @@ describe ApplicationController do
       controller.instance_variable_get(:@title).should == 'string'
     end
   end
+
+  describe "#set_location" do
+    it "sets a flash variable" do
+      flash[:location].should be_nil
+      controller.set_location('53716')
+      flash[:location].should == '53716'
+    end
+  end
 end

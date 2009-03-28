@@ -149,4 +149,27 @@ describe ApplicationHelper do
       capitol_words_url_for(congress_person).should == "http://www.capitolwords.org/lawmaker/#{congress_person.bioguide_id}"
     end
   end
+
+  describe "#current_location" do
+    it "returns the flash variable if it exists" do
+      flash[:location] = 'Madison, WI'
+      helper.current_location.should == 'Madison, WI'
+    end
+    it "returns nil otherwise" do
+      helper.current_location.should be_nil
+    end
+  end
+
+  describe "#link_to_locality_page" do
+    before do
+      @congress_person = CongressPerson.new(fake_legislator)
+    end
+    it "returns a link to a set district with a valid zip" do
+      helper.stubs(:current_location).returns('32250')
+      helper.link_to_locality_page(@congress_person).should have_tag("a[href=?]", zip_path('32250'), 'Back to Your District')
+    end
+    it "returns a link to the state otherwise" do
+      helper.link_to_locality_page(@congress_person).should have_tag("a[href=?]", zip_path("FL"), 'View This State')
+    end
+  end
 end

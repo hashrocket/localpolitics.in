@@ -7,13 +7,13 @@ describe CongressPeopleHelper do
     end
 
     it "returns the latest search" do
-      flash[:zip_code] = '12345'
+      helper.stubs(:current_location).returns('12345')
       helper.latest_search_or_state_of(@congress_person).should == '12345'
     end
 
     it "returns the state of the congress person" do
+      helper.stubs(:current_location)
       helper.latest_search_or_state_of(@congress_person).should == 'NY'
     end
   end
 end
-

@@ -3,7 +3,7 @@
     My Localpolitics.in
     %span.current
       = latest_search_or_state_of @congress_person
-  = link_to "Back to Your District", zip_path(latest_search_or_state_of(@congress_person))
+  = link_to_locality_page(@congress_person)
 
 #representative_details
   .photo

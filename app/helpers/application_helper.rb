@@ -77,4 +77,16 @@ module ApplicationHelper
   def capitol_words_url_for(congress_person)
     "http://www.capitolwords.org/lawmaker/#{congress_person.bioguide_id}"
   end
+
+  def current_location
+    flash[:location]
+  end
+
+  def link_to_locality_page(congress_person)
+    if current_location
+      link_to 'Back to Your District', zip_path(current_location)
+    else
+      link_to 'View This State', zip_path(congress_person.state)
+    end
+  end
 end
