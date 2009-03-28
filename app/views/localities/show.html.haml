@@ -9,6 +9,7 @@
 
 = render :partial => 'government_spending' unless @top_recipients.blank?
 = render :partial => 'donor_information' unless @top_ten_donors.nil?
-#senator_comparison
-  %h2 Voting comparison between your senators
-  = @locality.senator_comparison
+- if @locality.has_both_senators?
+  #senator_comparison
+    %h2 Voting comparison between your senators
+    = @locality.senator_comparison

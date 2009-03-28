@@ -124,8 +124,15 @@ describe "localities/show" do
     render "/localities/show.html.haml"
   end
 
-  it "should list a comparison of senators" do
-    do_render
-    response.should have_tag("#senator_comparison", /senator comparison/)
+  describe "senator comparison widget" do
+    it "should list a comparison of senators" do
+      do_render
+      response.should have_tag("#senator_comparison", /senator comparison/)
+    end
+    it "should not list the comparison unless there are two senators" do
+      @locality.stubs(:has_both_senators?).returns(false)
+      do_render
+      response.should_not have_tag("#senator_comparison")
+    end
   end
 end
