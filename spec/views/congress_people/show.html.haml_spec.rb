@@ -125,7 +125,6 @@ describe "CongressPerson show view" do
     @congress_person.stubs(:twitters?).returns(true)
     @congress_person.stubs(:tweets).returns(@tweets)
     do_render
-    #response.should have_tag(".tweets ul li", @tweets.first.text)
     response.should have_tag(".tweets ul li", :text => %r(#{@tweets.first.text}))
   end
   it "doesn't include the congress person's tweets otherwise" do
