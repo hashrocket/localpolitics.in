@@ -23,16 +23,7 @@
       %h4 Most recent topics include
       = link_to representative.latest_words.join(", "), capitol_words_url_for(representative)
     - if representative.has_candidate_summary?
-      %table.summary
-        - representative.summary_attributes.each do |attribute|
-          %tr
-            %td.summary_label
-              == #{attribute.to_s.humanize}:
-            %td
-              - if representative.currency_attribute?(attribute)
-                = number_to_currency(representative.send(attribute))
-              - else
-                = representative.send(attribute)
+      = render :partial => 'shared/financial_information', :locals => {:representative => representative}
 
     - else
       .clear

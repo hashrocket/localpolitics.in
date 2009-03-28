@@ -1,0 +1,10 @@
+%table.summary
+  - representative.summary_attributes.each do |attribute|
+    %tr
+      %td.summary_label
+        == #{attribute.to_s.humanize}:
+      %td
+        - if representative.currency_attribute?(attribute)
+          = number_to_currency(representative.send(attribute))
+        - else
+          = representative.send(attribute)
