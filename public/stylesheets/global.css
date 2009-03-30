@@ -320,7 +320,7 @@ h1#logo span {
       ul.contact li { display: inline; }
         ul.contact li a { 
           float: left;
-          width: 50%;
+          width: 48%;
         }
     .summary {
       margin-top: 10px; padding-top: 10px;
