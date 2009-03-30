@@ -21,6 +21,8 @@
 $.fn.equalHeights = function(px) {
   $(this).each(function(){
     var currentTallest = 0;
+    // Use pixels instead of ems - min-height with an em breaks safari 4.
+    var px = true;
     $(this).children().each(function(i){
       if ($(this).height() > currentTallest) { currentTallest = $(this).height(); }
     });
