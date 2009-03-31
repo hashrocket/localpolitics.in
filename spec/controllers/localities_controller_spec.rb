@@ -65,13 +65,19 @@ describe LocalitiesController do
       def do_get
         get :show, :f_address => '00000'
       end
-      it "sets a flash message" do
+      it "renders the no district data error" do
+        controller.expects(:render_no_district_data)
         do_get
-        flash[:error].should_not be_nil
       end
-      it "redirects to the home page" do
+    end
+
+    describe "render_no_district_data" do
+      before do
+        @locality.expects(:has_district_data?).raises(RCRest::CommunicationError, Exception.new('Broken xml from Google'))
+      end
+      it "renders the no district data error" do
+        controller.expects(:render_no_district_data)
         do_get
-        response.should redirect_to(root_path)
       end
     end
   end
