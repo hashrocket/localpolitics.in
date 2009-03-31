@@ -134,5 +134,10 @@ describe "localities/show" do
       do_render
       response.should_not have_tag("#senator_comparison")
     end
+    it "credits open congress" do
+      do_render
+      response.should have_tag(".senator_comparison_credit", /OpenCongress\.org/)
+      response.should have_tag("a", "View full comparison")
+    end
   end
 end

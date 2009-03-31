@@ -13,3 +13,6 @@
   #senator_comparison
     %h2 Voting comparison between your senators
     = @locality.senator_comparison
+    .senator_comparison_credit
+      OpenCongress.org makes an in-depth comparison of these senators.
+      = link_to_senator_comparison(@locality)

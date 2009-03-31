@@ -31,5 +31,13 @@ describe LocalitiesHelper do
 
   end
 
+  describe "#link_to_senator_comparison" do
+    it "generates the correct url" do
+      locality = stub('a locality', :senior_senator => stub('senator', :govtrack_id => 'id_1'),
+                                    :junior_senator => stub('senator', :govtrack_id => 'id_2'))
+      link_to_senator_comparison(locality).should have_tag("a[href=?]", "http://www.opencongress.org/person/compare?person1=id_1&amp;person2=id_2&amp;commit=Compare", "View full comparison")
+    end
+  end
+
 end
 

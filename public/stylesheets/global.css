@@ -570,3 +570,6 @@ h1#logo span {
 .introduced_bills {
   padding-bottom:20px;
 }
+.senator_comparison_credit {
+  clear: both;
+}

@@ -16,4 +16,8 @@ module LocalitiesHelper
     end
     text += " in #{representative.state}"
   end
+
+  def link_to_senator_comparison(locality)
+    link_to "View full comparison", "http://www.opencongress.org/person/compare?person1=#{locality.senior_senator.govtrack_id}&person2=#{locality.junior_senator.govtrack_id}&commit=Compare"
+  end
 end
