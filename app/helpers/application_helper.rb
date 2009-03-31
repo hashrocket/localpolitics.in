@@ -27,7 +27,8 @@ module ApplicationHelper
       <object width="213" height="172">
         <param name="movie" value="#{url}"></param>
         <param name="allowFullScreen" value="true"></param>
-        <embed src="#{url}" type="application/x-shockwave-flash" allowfullscreen="true" width="213" height="172"></embed>
+        <param name="wmode" value="transparent"></param>
+        <embed src="#{url}" type="application/x-shockwave-flash" wmode="transparent" allowfullscreen="true" width="213" height="172"></embed>
       </object>
     YOUTUBES
   end
