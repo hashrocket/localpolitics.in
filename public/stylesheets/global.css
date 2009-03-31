@@ -508,7 +508,7 @@ h1#logo span {
           color: #0c1b3d;
         }
         .ui-tabs .ui-tabs-hide { display: none; }
-    #bio, #latest_words, #sponsored_bills, #committee_memberships {
+    #bio, #latest_words, #sponsored_bills, #committee_memberships, .introduced_bills, .sponsored_bills {
       margin: 20px 0; padding: 0 10px;
     }
 

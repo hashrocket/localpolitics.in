@@ -72,13 +72,13 @@
           = @congress_person.latest_words(:results => 10).join(", ") << "..."
           = link_to "More information", capitol_words_url_for(@congress_person)
       - if @congress_person.has_introduced_bills?
-        %h3 Bills Introduced:
         .introduced_bills
+          %h3 Bills Introduced:
           %ul
             = render :partial => 'bill', :collection => @congress_person.introduced_bills
       - if @congress_person.has_sponsored_bills?
-        %h3 Bills Sponsored:
         .sponsored_bills
+          %h3 Bills Sponsored:
           %ul
             = render :partial => 'bill', :collection => @congress_person.sponsored_bills
 
