@@ -6,17 +6,25 @@ default_run_options[:pty] = true
 set :scm, "git"
 set :repository, "git@github.com:hashrocket/#{application}.git"
 set :branch,     $1 if `git branch` =~ /\* (\S+)\s/m
-set :ssh_options, {
-  :keys => ["#{ENV['HOME']}/.ec2/id_rsa-hashrocket-utility-keypair"],
-  :port => 4777
-}
 set :user, "root"
 
 set :deploy_to, "/var/www/#{application}"
 
-role :web, "ec2-174-129-130-182.compute-1.amazonaws.com"
-role :app, "ec2-174-129-130-182.compute-1.amazonaws.com"
-role :db, "ec2-174-129-130-182.compute-1.amazonaws.com", :primary => true
+task :staging do
+  role :web, "ec2-174-129-130-182.compute-1.amazonaws.com"
+  role :app, "ec2-174-129-130-182.compute-1.amazonaws.com"
+  role :db,  "ec2-174-129-130-182.compute-1.amazonaws.com", :primary => true
+  set :ssh_options, {
+    :keys => ["#{ENV['HOME']}/.ec2/id_rsa-hashrocket-utility-keypair"],
+    :port => 4777
+  }
+end
+
+task :production do
+  role :web, "ec2-72-44-49-140.compute-1.amazonaws.com", :memcached => true
+  role :app, "ec2-72-44-49-140.compute-1.amazonaws.com"
+  role :db,  "ec2-72-44-49-140.compute-1.amazonaws.com", :primary => true
+end
 
 set :rails_env, "production"
 
