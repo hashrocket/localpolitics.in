@@ -22,3 +22,15 @@ config.cache_store = :mem_cache_store
 # Disable delivery errors, bad email addresses will be ignored
 # config.action_mailer.raise_delivery_errors = false
 
+require "smtp_tls"
+config.action_mailer.perform_deliveries = true
+config.action_mailer.raise_delivery_errors = false
+config.action_mailer.delivery_method = :smtp
+config.action_mailer.smtp_settings = {
+  :address => 'smtp.gmail.com',
+  :port => 587,
+  :user_name => 'noreply@localpolitics.in',
+  :password => APP_CONFIG[:gmail_password],
+  :authentication => :plain
+}
+
