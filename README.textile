@@ -2,6 +2,8 @@ h1. localpolitics.in
 
 Hashrocket's Martin Luther King Jr. Memorial 2009 Hack Day Apps for America Celebrity Rabies Awareness Pro-Am Fun Run Race For The Cure
 
+_"All politics is local." -- Tip O'Neill_
+
 h2. Setup
 
 You'll want to be running memcached when developing on this app.  The OpenSecrets API has a limit of 200 calls per day, which is easy to reach when each page requires three calls.  The app is setup to handle all the heavy lifting for you... all you have to do is open a new terminal window and type in:
@@ -29,5 +31,3 @@ bq. *"Twitter":http://twitter.com:* Recent tweets for congress people
 bq. *"YouTube":http://youtube.com:* Recent video footage for congress people
 
 bq. *"Google":http://google.com:* Geocoding
-
-_"All politics is local." -- Tip O'Neill_
