@@ -66,6 +66,13 @@ describe LocalitiesController do
       assigns[:top_recipients].should == @top_recipients
     end
 
+    it "displays a flash message when district data and no zip code" do
+      @locality.stubs(:has_district_data?).returns(true)
+      @locality.stubs(:postal_code).returns(nil)
+      do_get
+      flash[:error].should include("Try entering a zip code")
+    end
+
     describe 'with an invalid zip code' do
       before do
         @locality = Locality.new "00000"
