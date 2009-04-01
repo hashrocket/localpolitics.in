@@ -1,6 +1,11 @@
+/* @override http://localhost:3000/stylesheets/global.css?1238619517 */
+
 /* @override 
+	http://spotus.local:3000/stylesheets/global.css?1238615431
 	http://localpolitics.in/stylesheets/global.css?1238612725
 	http://spotus.local:3000/stylesheets/global.css?1238612324
+	http://spotus.local:3000/stylesheets/global.css?1238617423
+	http://spotus.local:3000/stylesheets/global.css?1238618062
 */
 
 /*
@@ -147,7 +152,8 @@ h4 { font-size: 110%; }
 #search_zip {
   padding: 0 60px 0 45px;
   float: left;
-  width: 820px; height: 64px;
+  width: 820px; 
+  height: 64px;
   background: url(../images/bg_search.png) no-repeat;
 }
   #search_zip p { 
@@ -189,6 +195,34 @@ h4 { font-size: 110%; }
     color: white;
   }
 
+	
+	div#search_help{
+		position: relative;
+		display: block;
+		float: left;
+	}
+
+	
+	div#search_help div.tooltip{
+		position: absolute;
+		border: 5px solid #ddd;
+		background: white;
+		display: block;
+		width: 272px;
+		height: 3em;
+		top: -4.67em;
+		left: 10px;
+		padding: 5px;
+	}
+	
+	div#search_help div.tooltip span.indicator{
+		position: absolute;
+		bottom: -17px;
+		display: block;
+		background: url(../images/tooltip_indicator.png) no-repeat;
+		width: 12px;
+		height: 12px;
+	}
   
   /* back to */
   #banner_detail {
