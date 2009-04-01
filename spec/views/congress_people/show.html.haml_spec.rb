@@ -32,33 +32,43 @@ describe "CongressPerson show view" do
   end
 
   describe "twitter widget" do
-    it "should link to the congress person's twitter page" do
-      @congress_person.stubs(:twitters?).returns(true)
-      @congress_person.stubs(:tweets).returns(@tweets)
-      @congress_person.stubs(:twitter_id).returns("congress_person")
-      template.stubs(:can_invite_to_twitter?).returns(true)
-      do_render
-      response.should have_tag("a[href=?]", "http://twitter.com/#{@congress_person.twitter_id}")
+    describe "when congress person twitters" do
+      before do
+        @congress_person.stubs(:twitters?).returns(true)
+        @congress_person.stubs(:tweets).returns(@tweets)
+        @congress_person.stubs(:twitter_id).returns("congress_person")
+      end
+      it "should link to the congress person's twitter page" do
+        template.stubs(:can_invite_to_twitter?).returns(true)
+        do_render
+        response.should have_tag("a[href=?]", "http://twitter.com/#{@congress_person.twitter_id}", "See Twitter Page")
+      end
+      it "links the recent tweets header to twitter" do
+        do_render
+        response.should have_tag("a[href=?]", "http://twitter.com/#{@congress_person.twitter_id}", "Recent tweets")
+      end
     end
-    it "links to a facebox twitter invitation if not already invited" do
-      @congress_person.stubs(:twitters?).returns(false)
-      @congress_person.stubs(:email_address).returns('an email address')
-      template.stubs(:can_invite_to_twitter?).returns(true)
-      do_render
-      response.should have_tag("a[href=?][rel*=facebox]", twitter_invite_path(@congress_person.crp_id))
-    end
-    it "indicates the user has already invited the congress person to twitter" do
-      @congress_person.stubs(:twitters?).returns(false)
-      template.stubs(:can_invite_to_twitter?).returns(false)
-      do_render
-      response.should have_tag(".invited_to_twitter")
-    end
-    it "doesn't link to twitter invite if the congress person has no email address" do
-      @congress_person.stubs(:twitters?).returns(false)
-      @congress_person.stubs(:email_address).returns("")
-      template.stubs(:can_invite_to_twitter?).returns(true)
-      do_render
-      response.should_not have_tag("a", "Invite them now!")
+    describe "when congress person doesn't twitter" do
+      before do
+        @congress_person.stubs(:twitters?).returns(false)
+      end
+      it "links to a facebox twitter invitation if not already invited" do
+        @congress_person.stubs(:email_address).returns('an email address')
+        template.stubs(:can_invite_to_twitter?).returns(true)
+        do_render
+        response.should have_tag("a[href=?][rel*=facebox]", twitter_invite_path(@congress_person.crp_id))
+      end
+      it "indicates the user has already invited the congress person to twitter" do
+        template.stubs(:can_invite_to_twitter?).returns(false)
+        do_render
+        response.should have_tag(".invited_to_twitter")
+      end
+      it "doesn't link to twitter invite if the congress person has no email address" do
+        @congress_person.stubs(:email_address).returns("")
+        template.stubs(:can_invite_to_twitter?).returns(true)
+        do_render
+        response.should_not have_tag("a", "Invite them now!")
+      end
     end
   end
 

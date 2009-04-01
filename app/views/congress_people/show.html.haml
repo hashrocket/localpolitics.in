@@ -16,7 +16,8 @@
         = twitter_link_for(@congress_person)
     - if @congress_person.twitters?
       .tweets
-        %h3 Recent tweets
+        %h3
+          = twitter_link_for(@congress_person, "Recent tweets")
         %ul
           - @congress_person.tweets.each do |tweet|
             %li
