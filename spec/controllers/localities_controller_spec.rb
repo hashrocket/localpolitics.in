@@ -9,6 +9,16 @@ describe LocalitiesController do
     @top_recipients = [{:name => 'name', :amount => '17', :rank => 1}]
     FedSpending.stubs(:top_recipients).returns(@top_recipients)
   end
+
+  describe "routes" do
+    it "allows locations with periods" do
+      params_from(:get, "/Washington, D.C.").should == {:controller => "localities", :action => "show", :f_address => "Washington, D.C."}
+    end
+    it "allows locations without periods" do
+      params_from(:get, "/53716").should == {:controller => "localities", :action => "show", :f_address => "53716"}
+    end
+  end
+
   describe "index action" do
     it "renders index if no query" do
       get :index
