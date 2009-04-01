@@ -80,7 +80,7 @@ module ApplicationHelper
   end
 
   def current_location
-    flash[:location]
+    session[:location]
   end
 
   def link_to_locality_page

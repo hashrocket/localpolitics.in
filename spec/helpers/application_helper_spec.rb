@@ -152,8 +152,8 @@ describe ApplicationHelper do
   end
 
   describe "#current_location" do
-    it "returns the flash variable if it exists" do
-      flash[:location] = 'Madison, WI'
+    it "returns the session variable if it exists" do
+      session[:location] = 'Madison, WI'
       helper.current_location.should == 'Madison, WI'
     end
     it "returns nil otherwise" do

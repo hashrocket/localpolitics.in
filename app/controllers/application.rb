@@ -28,6 +28,6 @@ class ApplicationController < ActionController::Base
   end
 
   def set_location(location)
-    flash[:location] = location
+    session[:location] = location
   end
 end
