@@ -573,3 +573,14 @@ h1#logo span {
 .senator_comparison_credit {
   clear: both;
 }
+.tooltip{
+  width: 250px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 3;
+  display: none;
+  border: 5px solid #CCCCCC;
+  background-color: #FFFFFF;
+  padding: 5px;
+}

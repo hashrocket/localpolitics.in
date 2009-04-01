@@ -42,6 +42,8 @@ jQuery(document).ready(function($){
   // facebox breaks the culerity test suite, so we've placed this call last
   jQuery('a[rel*=facebox]').facebox();
 
+  jQuery("#search_help").simpletip({ content: "Entering a zip code will yield more information, but you can enter a city and state if you'd like.", fixed: true, position: 'top', offset: [0, -8], showEffect: 'slide', showTime: 250 });
+
   $(".basic_info").tabs();
 });
 
