@@ -1,9 +1,4 @@
-#banner_detail
-  %h2
-    My Localpolitics.in
-    %span.current
-      = latest_search_or_state_of @congress_person
-  = link_to_locality_page(@congress_person)
+= render :partial => 'localities/form', :locals => { :search_description => "Localpolitics.in", :back_link => link_to_locality_page }
 
 #representative_details
   .photo

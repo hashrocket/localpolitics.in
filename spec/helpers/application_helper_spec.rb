@@ -162,15 +162,12 @@ describe ApplicationHelper do
   end
 
   describe "#link_to_locality_page" do
-    before do
-      @congress_person = CongressPerson.new(fake_legislator)
-    end
     it "returns a link to a set district with a valid zip" do
       helper.stubs(:current_location).returns('32250')
-      helper.link_to_locality_page(@congress_person).should have_tag("a[href=?]", zip_path('32250'), 'Back to Your District')
+      helper.link_to_locality_page.should have_tag("a[href=?]", zip_path('32250'), 'Back to Your District')
     end
-    it "returns a link to the state otherwise" do
-      helper.link_to_locality_page(@congress_person).should have_tag("a[href=?]", zip_path("FL"), 'View This State')
+    it "returns nil otherwise" do
+      helper.link_to_locality_page.should be_nil
     end
   end
 end

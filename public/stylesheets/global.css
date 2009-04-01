@@ -1,3 +1,8 @@
+/* @override 
+	http://localpolitics.in/stylesheets/global.css?1238612725
+	http://spotus.local:3000/stylesheets/global.css?1238612324
+*/
+
 /*
 ----------------------------------------
 Apps for America - Localpolitics.in
@@ -140,9 +145,9 @@ h4 { font-size: 110%; }
 ---------------------------------------- */
 /* index */
 #search_zip {
-  padding: 0 5px 0 45px;
+  padding: 0 60px 0 45px;
   float: left;
-  width: 895px; height: 64px;
+  width: 820px; height: 64px;
   background: url(../images/bg_search.png) no-repeat;
 }
   #search_zip p { 
@@ -170,6 +175,20 @@ h4 { font-size: 110%; }
     color: #333;
     width: 120px;
   }
+  
+  #search_zip a {
+	float: right;
+	color: #ddd;
+	display: block;
+	margin-top: 9px;
+	position: relative;
+	top: 0.2em;
+  }
+
+  #search_zip a:hover {
+    color: white;
+  }
+
   
   /* back to */
   #banner_detail {

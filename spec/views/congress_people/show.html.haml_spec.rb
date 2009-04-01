@@ -149,9 +149,16 @@ describe "CongressPerson show view" do
     do_render
   end
 
-  it "links back to a locality" do
-    template.expects(:link_to_locality_page).with(@congress_person)
-    do_render
+  describe "search bar" do
+    it "links back to a locality with a valid zip" do
+      template.stubs(:current_location).returns("53716")
+      do_render
+      response.should have_tag("a[href=?]", "/53716", "Back to Your District")
+    end
+    it "doesn't link back if there's no zip code" do
+      do_render
+      response.should_not have_tag("a", "Back to Your District")
+    end
   end
 
   describe "commonly used words" do

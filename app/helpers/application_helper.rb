@@ -83,11 +83,9 @@ module ApplicationHelper
     flash[:location]
   end
 
-  def link_to_locality_page(congress_person)
+  def link_to_locality_page
     if current_location
       link_to 'Back to Your District', zip_path(current_location)
-    else
-      link_to 'View This State', zip_path(congress_person.state)
     end
   end
 end
