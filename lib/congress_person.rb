@@ -97,8 +97,18 @@ class CongressPerson
     Tweet.recent(twitter_id)# if twitters?
   end
 
+  def has_valid_twitter_account?
+    current_tweets = begin
+      tweets
+    rescue Object
+      false
+    end
+    current_tweets ? true : false
+  end
+
   def twitters?
-    !twitter_id.blank?
+    valid_twitter_account = tweets rescue false
+    !twitter_id.blank? && has_valid_twitter_account?
   end
 
   def bio_text

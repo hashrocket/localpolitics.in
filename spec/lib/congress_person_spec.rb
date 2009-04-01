@@ -46,13 +46,31 @@ describe CongressPerson do
     end
   end
 
-  it "#twitters? returns true with a twitter_id" do
-    @congress_person.stubs(:twitter_id).returns("twitterer")
-    @congress_person.twitters?.should be_true
+  describe "#twitters?" do
+    it "returns true with a twitter_id and valid account" do
+      @congress_person.stubs(:has_valid_twitter_account?).returns(true)
+      @congress_person.stubs(:twitter_id).returns("twitterer")
+      @congress_person.twitters?.should be_true
+    end
+    it "returns false with an invalid twitter account" do
+      @congress_person.stubs(:has_valid_twitter_account?).returns(:false)
+      @congress_person.twitters?.should be_false
+    end
+    it "returns false with no twitter_id" do
+      @congress_person.stubs(:twitter_id).returns("")
+      @congress_person.twitters?.should be_false
+    end
   end
-  it "#twitters? returns false otherwise" do
-    @congress_person.stubs(:twitter_id).returns("")
-    @congress_person.twitters?.should be_false
+
+  describe "#valid_twitter_account?" do
+    it "returns false if an error is raised" do
+      @congress_person.expects(:tweets).raises(Exception, "Twitter page not found")
+      @congress_person.should_not have_valid_twitter_account
+    end
+    it "returns true otherwise" do
+      @congress_person.stubs(:tweets).returns(['something in an array'])
+      @congress_person.should have_valid_twitter_account
+    end
   end
 
   it "knows it's bioguide_id" do
