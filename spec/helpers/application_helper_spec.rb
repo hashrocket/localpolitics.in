@@ -13,6 +13,7 @@ describe ApplicationHelper do
   describe "twitter_link_for" do
     before do
       @representative = stub('representative', :twitter_id => 'slug')
+      @representative.stubs(:twitters?).returns(true)
     end
     it "should be a link" do
       twitter_link_for(@representative).should have_tag("a", "Follow On Twitter")
@@ -21,8 +22,8 @@ describe ApplicationHelper do
       expects(:twitter_url_for).returns('a url')
       twitter_link_for(@representative)
     end
-    it "should return nil if the representative doesn't have a twitter id" do
-      @representative.stubs(:twitter_id).returns('')
+    it "should return nil if the representative doesn't twitter" do
+      @representative.expects(:twitters?).returns(false)
       twitter_link_for(@representative).should be_nil
     end
     it "should set the link text to another string" do
