@@ -153,16 +153,28 @@ class CongressPerson
     !photo_id.blank? && File.exists?(File.join(RAILS_ROOT, "public", photo_path))
   end
 
-  def photo
-    has_photo? ? photo_path : default_photo_path
+  def photo(options={})
+    has_photo? ? photo_path : default_photo_path(options)
+  end
+
+  def govtrack_photo
+    url = "/govtrack/photos/#{govtrack_id}.jpeg"
+    url = default_photo_path(:size => 'large') unless File.exists?(RAILS_ROOT + "/public" + url)
+    url
   end
 
   def photo_path
     "/images/congresspeople/#{photo_id}.jpg"
   end
 
-  def default_photo_path
-    "/images/no_picture.jpg"
+  def default_photo_path(options={})
+    size = options[:size].blank? ? 'small' : options[:size]
+    case party.downcase
+    when "democrat", "republican"
+      "/images/#{party.downcase}_#{size}.jpg"
+    else
+      "/images/no_picture.jpg"
+    end
   end
 
   def latest_words(options={})

@@ -219,6 +219,25 @@ describe CongressPerson do
     end
   end
 
+  describe "default_photo_path" do
+    it "returns a democrat photo if the person is a democrat" do
+      @congress_person.stubs(:party).returns("democrat")
+      @congress_person.default_photo_path.should include('democrat')
+    end
+    it "returns a republican photo if the person is a republican" do
+      @congress_person.stubs(:party).returns("republican")
+      @congress_person.default_photo_path.should include('republican')
+    end
+    it "returns the default photo otherwise" do
+      @congress_person.stubs(:party).returns("independent")
+      @congress_person.default_photo_path.should include('no_picture')
+    end
+    it "includes the size passed in" do
+      @congress_person.stubs(:party).returns("democrat")
+      @congress_person.default_photo_path(:size => 'large').should include('large')
+    end
+  end
+
   describe "has_open_congress_id?" do
     it "returns true if there is an open congress id" do
       @congress_person.has_open_congress_id?.should be_true

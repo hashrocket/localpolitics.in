@@ -43,17 +43,12 @@ describe ApplicationHelper do
       @congress_person = stub('congress_person', :govtrack_id => '30001', :full_name => 'Russell "Cheesecurd" Feingold')
       File.stubs(:exists?).returns(true)
     end
-    it "returns an image tag with the 200px-sized govtrack photo as src" do
-      govtrack_photo(@congress_person).should have_tag("img[src=?]", "/govtrack/photos/#{@congress_person.govtrack_id}-200px.jpeg")
-    end
-    it "returns an image tag with the default photo when no photo exists" do
-      File.stubs(:exists?).returns(false)
-      govtrack_photo(@congress_person).should have_tag("img[src=?]", "/govtrack/photos/no_picture.jpeg")
-    end
-    it "allows different sizing" do
-      govtrack_photo(@congress_person, :size => 50).should include("-50px")
+    it "gets the govtrack photo from CongressPerson" do
+      @congress_person.expects(:govtrack_photo).returns('a url')
+      govtrack_photo(@congress_person)
     end
     it "has an alt attribute" do
+      @congress_person.stubs(:govtrack_photo).returns('a url')
       govtrack_photo(@congress_person).should have_tag("img[alt=?]", 'Photo of Russell &quot;Cheesecurd&quot; Feingold')
     end
   end

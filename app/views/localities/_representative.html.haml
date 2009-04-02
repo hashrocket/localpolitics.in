@@ -1,7 +1,7 @@
 - unless representative.nil?
   .profile
     %div.shot
-      = link_to image_tag(representative.photo, :alt => representative.full_name), congress_person_path(representative.crp_id)
+      = link_to image_tag(representative.photo(:size => 'small'), :alt => representative.full_name), congress_person_path(representative.crp_id)
     %div.profile_info
       %h4
         - if representative.has_open_congress_id?
