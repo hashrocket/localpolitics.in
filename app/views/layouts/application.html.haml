@@ -10,34 +10,34 @@
     = javascript_include_tag %w(jquery-1.3.2.min application jquery-color jquery.equalHeights jquery.qtip-1.0.0-beta3.1.min.js jquery-ui.min facebox jquery.livequery jquery.cookie)
     = stylesheet_link_tag %w(global facebox)
     = yield :head
-%body
-  #container
-    #header
-      %h1#logo= link_to "LocalPolitics.in", root_path, :title => "Home"
+  %body
+    #container
+      #header
+        %h1#logo= link_to "LocalPolitics.in", root_path, :title => "Home"
 
-    #application
-      = yield
+      #application
+        = yield
 
-    #footer
-      %p
-        Created for
-        %a{ :href => "http://sunlightlabs.com/appsforamerica/", :title => "Apps for America" }
-          Apps for America
-        Developed by
-        %a{ :href => "http://www.hashrocket.com", :title => "Hashrocket" }
-          Hashrocket
-        Designed by
-        %a{ :href => "http://www.thoughtandtheory.com", :title => "Thought &amp; Theory" }
-          Thought &amp; Theory
-        Questions or Comments?
-        %a{ :href => "mailto:localpolitics.in@hashrocket.com", :title => "localpolitics.in@hashrocket.com" }
-          Contact Us
+      #footer
+        %p
+          Created for
+          %a{ :href => "http://sunlightlabs.com/appsforamerica/", :title => "Apps for America" }
+            Apps for America
+          Developed by
+          %a{ :href => "http://www.hashrocket.com", :title => "Hashrocket" }
+            Hashrocket
+          Designed by
+          %a{ :href => "http://www.thoughtandtheory.com", :title => "Thought &amp; Theory" }
+            Thought &amp; Theory
+          Questions or Comments?
+          %a{ :href => "mailto:localpolitics.in@hashrocket.com", :title => "localpolitics.in@hashrocket.com" }
+            Contact Us
 
-  %script{ :type => "text/javascript" }
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-  %script{ :type => "text/javascript" }
-    try {
-    var pageTracker = _gat._getTracker("UA-2110904-7");
-    pageTracker._trackPageview();
-    } catch(err) {}
+    %script{ :type => "text/javascript" }
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    %script{ :type => "text/javascript" }
+      try {
+      var pageTracker = _gat._getTracker("UA-2110904-7");
+      pageTracker._trackPageview();
+      } catch(err) {}
