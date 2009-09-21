@@ -35,7 +35,7 @@ class SenatorComparison < ActiveRecord::Base
 
   def node
     unless @node
-      @node = document.search(".cols-box.comps")
+      @node = document.search(".voting_similarity")
       @node.search("a").each do |n|
         n["href"] = "#{ROOT}#{n["href"]}"
       end
