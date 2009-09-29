@@ -7,7 +7,7 @@ module NewYorkTimes
       def initialize(attributes)
         @attributes = attributes
         @party_totals = {}
-        @attributes["results"].each do |result|
+        @attributes["body"].each do |result|
           party = result["party"].to_sym
           @party_totals[party] ||= BigDecimal('0')
           @party_totals[party] += result["total"]
@@ -15,7 +15,7 @@ module NewYorkTimes
       end
 
       def total_dollars
-        @attributes["results"].sum {|result| BigDecimal(result["total"].to_s)}
+        @attributes["body"].sum {|result| BigDecimal(result["total"].to_s)}
       end
 
       def dollars_for(party)
