@@ -14,7 +14,7 @@ class FedSpending
     end
 
     def top_recipients(args={})
-      xml = Nokogiri::XML(open(construct_url(args)))
+      xml = Nokogiri::XML.parse(open(construct_url(args)))
       recipients = xml.search('top_recipients/recipient').map do |node|
         {:name => format_name(node.text), :amount => node['total_obligatedAmount'], :rank => node['rank']}
       end

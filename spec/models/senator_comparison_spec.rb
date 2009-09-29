@@ -78,7 +78,7 @@ describe SenatorComparison do
 
   describe "#scrape" do
     before do
-      FakeWeb.register_uri(subject.url, :string => %<<html><div class="cols-box comps"><h4>LOL SPELLING ERROR</h4><ins>;)</ins></div></html>>)
+      FakeWeb.register_uri(subject.url, :string => %<<html><div class="voting_similarity"><h4>LOL SPELLING ERROR</h4><ins>;)</ins></div></html>>)
       subject.stubs(:save!)
     end
     it "should forcefully save the record" do
@@ -90,7 +90,7 @@ describe SenatorComparison do
       subject.body.should include("<ins>;)</ins>")
     end
 
-    it "removes the h4" do
+    it "removes the h3" do
       subject.scrape
       subject.body.should_not include("<h3>")
     end
