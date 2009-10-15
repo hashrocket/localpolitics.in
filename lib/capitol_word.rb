@@ -14,9 +14,15 @@ class CapitolWord
     end
 
     def latest_for(congress_person, options={})
-      latest_words = HTTParty.get(construct_url(congress_person, "lawmaker", "latest", options))
-      latest_words.map do |latest_word|
-        CapitolWord.new(latest_word)
+      begin
+        Timeout.timeout(10) do
+          latest_words = HTTParty.get(construct_url(congress_person, "lawmaker", "latest", options))
+          latest_words.map do |latest_word|
+            CapitolWord.new(latest_word)
+          end
+        end
+      rescue OpenURI::HTTPError, Timeout::Error
+        []
       end
     end
   end
