@@ -158,7 +158,7 @@ class CongressPerson
   end
 
   def govtrack_photo
-    url = "/govtrack/photos/#{govtrack_id}.jpeg"
+    url = "/govtrack/photos/#{govtrack_id}-200px.jpeg"
     url = default_photo_path(:size => 'large') unless File.exists?(RAILS_ROOT + "/public" + url)
     url
   end
