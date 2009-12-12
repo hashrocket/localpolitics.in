@@ -14,13 +14,14 @@ Rails::Initializer.run do |config|
   config.gem "google-geocode", :lib => "google_geocode", :version => "1.2.1"
   config.gem "httparty", :version => ">= 0.2.6"
   config.gem "json", :version => ">= 1.1.3"
+  config.gem "nokogiri", :version => "1.3.3"
+  # config.gem "rc-rest", :version => "2.2.1"
   config.gem "thoughtbot-factory_girl", :lib => "factory_girl", :version => ">= 1.1.5"
   config.gem "ym4r", :version => ">= 0.6.1"
 
   # gems used for testing don't need to be loaded, so they have the key :lib => false
   config.gem 'chrisk-fakeweb', :lib => false, :version => '>= 1.1.2.7', :source => 'http://gems.github.com'
   config.gem "mocha", :lib => false, :version => ">= 0.9.4"
-  config.gem "nokogiri", :lib => false, :version => ">= 1.1.1"
   config.gem 'rspec-rails', :lib => false, :version => '>= 1.2.1'
 
   config.time_zone = 'UTC'
