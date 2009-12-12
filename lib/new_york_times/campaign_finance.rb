@@ -7,15 +7,26 @@ module NewYorkTimes
       def initialize(attributes)
         @attributes = attributes
         @party_totals = {}
-        @attributes["body"].each do |result|
+        @total_dollars = BigDecimal.new('0')
+        candidates.each do |result|
           party = result["party"].to_sym
+          this_total = BigDecimal.new(result["total"])
           @party_totals[party] ||= BigDecimal('0')
-          @party_totals[party] += result["total"]
+          @party_totals[party] += this_total
+          @total_dollars += this_total
+        end
+      end
+
+      def candidates
+        begin
+          @attributes["result_set"]["results"]["candidate"] || []
+        rescue
+          []
         end
       end
 
       def total_dollars
-        @attributes["body"].sum {|result| BigDecimal(result["total"].to_s)}
+        @total_dollars
       end
 
       def dollars_for(party)
