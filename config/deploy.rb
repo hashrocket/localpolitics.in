@@ -5,7 +5,6 @@ set :application, "localpolitics.in"
 default_run_options[:pty] = true
 set :scm, "git"
 set :repository, "git@github.com:hashrocket/#{application}.git"
-set :branch,     $1 if `git branch` =~ /\* (\S+)\s/m
 set :user, "root"
 
 set :deploy_to, "/var/www/#{application}"
@@ -18,12 +17,14 @@ task :staging do
     :keys => ["#{ENV['HOME']}/.ec2/id_rsa-hashrocket-utility-keypair"],
     :port => 4777
   }
+  set :branch, 'staging'
 end
 
 task :production do
   role :web, "ec2-72-44-49-140.compute-1.amazonaws.com", :memcached => true
   role :app, "ec2-72-44-49-140.compute-1.amazonaws.com"
   role :db,  "ec2-72-44-49-140.compute-1.amazonaws.com", :primary => true
+  set :branch, 'production'
 end
 
 set :rails_env, "production"
