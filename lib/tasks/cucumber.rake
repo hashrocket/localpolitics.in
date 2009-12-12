@@ -11,5 +11,3 @@ rescue MissingSourceFile => e
     raise e
   end
 end
-
-task :default => :features
